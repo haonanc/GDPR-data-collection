@@ -1,0 +1,53 @@
+ 
+ 
+What you need to know about law? Search in more than 1.000.000 entries
+World Encyclopedia of Law     Passion for Law
+Menu
+Author: international
+Google Privacy Policy Changes in 2012
+Google has a number of goals that it wishes to achieve through this effort. Primarily, the company is aiming to reduce the number of privacy policies that currently exist (over 70) in relation to its many different products and services to one general privacy policy. In addition to that general policy, Google will still retain a small number of product-specific policies (e.g., for Google Wallet) where it believes that this makes sense or is otherwise required by law. The other goals are to create a simpler, more intuitive user experience across multiple Google products; improve search results; and make ads more relevant.
+Many authorities in several jurisdictions aised a number of important questions and concerns with Google about the change to the privacy policy.
+Data retention information
+As with all efforts to condense and streamline privacy information, there is always a risk that important information will be dropped. One area we noticed where important information seems to be missing in the new consolidated policy, when compared to previous service-specific policies, relates to data retention and disposal. Those service-specific policies that were reviewed provided specific deadlines for the deletion of personal information following a request for deletion from the user (e.g., Google Health – 24 hours for deletion; Picasa – 60 days for deletion).
+The 2012 general policy did not include any such timelines. Some authorities (such as Canada) strongly encouraged Google to more clearly explain its data retention and disposal policies and practices, particularly those dealing with data deletion in response to a user request, and would request that you let us know how you intend to address this issue.
+Linking of services and personal information
+The other goals of consolidating the privacy policies are very significant and may raise privacy issues, particularly the objectives of creating a simpler user experience, improving search results and making ads more relevant to users. It is important to note that, as we understand it, the proposed changes only affect users who have, and are signed into, a Google account. For those who do not have a Google account but simply use such services as Search or YouTube, the changes reflected in the new policy have no impact. The following comments therefore concern account holders only.
+Under pre-2012 policy, data sharing already takes place across certain products. For example, Google makes it easy for a signed-in user to immediately add an appointment to Google Calendar if an incoming e-mail looks like it is about a meeting. For other products, such as Search and YouTube, the data that Google collects about how individuals use a particular product have been kept separate. Specifically, a user’s general search history would not be used to improve search results on YouTube. Considering that an individual’s search history can be quite unique and sensitive (indicating vital facts about the person’s location, interests, age, sexual orientation, religion, health concerns, and much more), this was an important privacy protection.
+Under the 2012 policy, Google is removing this separation between its various products. In other words, Google will be linking all of a user’s data together when the user logs into his/her account and uses various services. According to Google, “information is associated with a given user only if the user is signed into their Google Account. If a user maintains two separate Google Accounts – for example a work account and a personal account – Google will not use information about one account to personalize the other”. As we understand it, the policy changes do not mean that Google is collecting more information about its users than it currently does.
+They do, however, mean that you are going to be using the information in new ways – ways that may make some users uncomfortable. We would strongly encourage you to make it clearer to users that if they are uncomfortable with these new uses of information, they can create separate accounts. This is not clearly stated in your new policy; rather, the information about the separate accounts was clarified in one of the letters from a Google senior executive in response to queries by the Article 29 Working Party.
+Google has also set out other ways and means that users can exercise their privacy preferences, some of which are listed in the new policy and some of which were, again, explained in responses to inquiries from legislators. Users should not have to be familiar with Google’s correspondence to be fully aware of their options. We would strongly encourage you to make it clear within the privacy policy language what all of the options are.
+A further concern regarding the personalization of services comes from language in the new policy, where Google states that it “may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services”. It is not entirely clear how this process would work and just how far it would extend. For example, will Google attempt to link existing accounts to each other or new accounts with previous accounts, either of which would contradict statements by the company that users can create and maintain separate accounts? We would appreciate your clarification of this issue.
+Android users
+Lastly, with respect to Android users, Google, pre-2012, collected the following information:
+device information: Google may collect device-specific information (such as hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate the device identifiers or phone number with the user’s Google Account;
+log information: telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls; and
+location information: when an individual uses a location-enabled Google service, Google may collect and process information about the individual’s actual location, like GPS signals sent by a mobile device. They may also use various technologies to determine location, such as sensor data from the device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
+Although Google has stated that some of its services can be used without signing into an account, this is not very practical if a user is accessing those services via an Android phone. While signed-out users will be able to make calls and send texts, for instance, they will not be able to download new applications, update those already installed or synchronize the phone with G-mail or Calendar. In effect, it appears that there is very little choice for Android users should they not wish Google to have the ability to link all of the services they use. This is of particular concern given the potential ease with which accounts could be linked together on the basis of the device identifier information that Google collects. We would appreciate receiving comments from Google with respect to such linking of vast quantities of personal information as a condition of service to use the Android phone.
+Law is our Passion
+This entry about Google Privacy Policy has been published under the terms of the Creative Commons Attribution 3.0 (CC BY 3.0) licence, which permits unrestricted use and reproduction, provided the author or authors of the Google Privacy Policy entry and the Encyclopedia of Law are in each case credited as the source of the Google Privacy Policy entry. Please note this CC BY licence applies to some textual content of Google Privacy Policy, and that some images and other textual or non-textual elements may be covered by special copyright arrangements. For guidance on citing Google Privacy Policy (giving attribution as required by the CC BY licence), please see below our recommendation of "Cite this Entry".
+Cite this entry
+Legal Citations Generator
+"Google Privacy Policy" lawin.org. 07 2017. 09 2018 <https://lawin.org/google-privacy-policy/>
+"Google Privacy Policy" lawin.org. lawin.org, 07 2017. Web. 09 2018. <https://lawin.org/google-privacy-policy/>
+"Google Privacy Policy" lawin.org. 07, 2017. Accesed 09 2018. https://lawin.org/google-privacy-policy/
+international, 'Google Privacy Policy' (lawin.org 2017) <https://lawin.org/google-privacy-policy/> accesed 2018 September 13
+Usage Metrics
+Author: international
+Description: ContentsGoogle Privacy PolicyGoogle Privacy Policy Changes in 2012Data retention informationLinking of services and [...]
+This entry was last updated: July 9, 2017
+About international
+The Encyclopedia of Law was created to be a central, one-stop resource for everything related to law. Our primary goal is to provide a steady stream of current, informative, and credible information about law and related fields to enhance the professional and creative lives of legal practitioners and those exploring law, including the general public. Our content is driven and created by an impressive roster of experienced professionals who work in all areas of the law and cover the field from diverse angles and perspectives.
+Recent Comments
+Let us know if you have suggestions to improve this entry.
+Comment
+Help us expand this entry. You can add text, modify any part of the entry or suggest subject matters that the entry should cover.Send your modifications to our editors for review.
+Name *
+Email *
+Website
+In Partnership with:
+Categories
+Categories
+Tags in the Wiki Encyclopedia
+About Us
+ 
+ 

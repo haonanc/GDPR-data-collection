@@ -1,0 +1,30 @@
+Not Enabled
+You might be using private browsing or have notifications blocked.  Please enable notifications or using normal browsing mode.
+By Jamie Herzlich
+New EU data privacy policy will impact some LI companies, experts say
+The General Data Protection Regulation uses stricter definitions of personal data than those used in the United States. Firms that collect or process data of European Union individuals are affected.
+Spectronics CEO Jon Cooper. The Westbury company has taken multiple measures to become GDPR-compliant, officials said.   Photo Credit: Steve Pfost
+Updated June 17, 2018 6:00 AM
+The General Data Protection Regulation (GDPR) is the “most significant data protection regulation in decades,” says Peter Milla, data protection officer at Cint, a Stockholm-based market research and technology provider with offices in Manhattan.
+But experts say it will take time to understand all its complexities.
+“It’s an overwhelming, vague and ambiguous regulation,” says Steven Rubin, a partner at Moritt Hock & Hamroff LLP in Garden City. “We need to have some enforcement actions for further clarification.”
+For instance, the regulation protects the personal data of “data subjects” who are in the EU, he says, noting how data subjects are defined could be open for interpretation. “There will be arguments that GDPR affects citizens only, residents only, noncitizens who are temporarily in the EU and potentially other interpretations as well.”
+While GDPR applies equally in every EU member state, many data protection experts agree there are open questions as to how it will be applied to non-EU citizens and EU citizens who reside or travel outside of the EU, agrees Milla, noting additional guidance from EU regulators is anticipated.
+What we do know is GDPR is intended to impact data and privacy practices of any business, regardless of size, handling personal data belonging to individuals in the EU, even if the business isn’t physically based in the EU, says Shari Claire Lewis, a partner in the privacy, data and cyber law practice at Uniondale-based Rivkin Radler LLP.
+GDPR appears to include businesses outside the EU that target EU consumers directly or through subsidiaries and related parties, she says.
+Get the Biz Briefing newsletter!
+The latest LI business news in your inbox Monday through Friday.
+By clicking Sign up, you agree to our privacy policy .
+The regulation’s definition of personal data is broader than what’s generally used in the United States, Lewis says. For example, data such as an individual’s political affiliation, religion and trade union affiliation are considered private information and must be protected, she says.
+Under GDPR there are six scenarios in which a business can process data lawfully: by the data subject’s consent; or if it’s necessary for the performance of a contract; necessary for compliance with a legal obligation; necessary to protect the vital interest of a data subject; necessary for the performance of a task carried out in the public interest; and/or necessary for the purpose of legitimate interests pursued by the data controller, Rubin says.
+“I would strongly advise that if consent can be obtained and is appropriate, you should consider using consent” as the lawful basis for processing, Milla says.
+The consent procedure should include getting “opt-ins” from EU individuals, Lewis says. As part of that they must be told what data are being collected and how the data will be used, in language that’s clear and easily understood, she says. They must also have a way to have their data erased or “forgotten” if desired.
+Milla advises impacted companies to develop a GDPR compliance program that includes a data protection impact assessment, a data inventory, and policies regarding data protection, subject access requests and data breach notification.
+With that in mind, Westbury-based Spectronics Corp. has taken multiple measures to become GDPR-compliant, including revamping its privacy policy to provide more details about the data it collects; providing updated information about individuals’ rights with regard to that data; and advising individuals of the tools for contacting the firm about their privacy or to request an explanation, correction or deletion of their data, compliance manager Daniel Chusid says.
+“The GDPR will go a long way toward ensuring that consumers understand how and why their personal information is being used,” he says.
+Playing catch up
+52%
+Percentage of companies that said earlier this year they expected to be GDPR-compliant by the May 25 deadline. Another 40 percent expected to become compliant after the deadline.
+Source: McDermott Will & Emery/Ponemon Institute
+By Jamie Herzlich
+Partners

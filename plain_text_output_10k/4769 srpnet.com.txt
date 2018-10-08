@@ -1,0 +1,53 @@
+Protecting the privacy of information about our electric and water customers, business partners and employees has always been an important part of how SRP does business. This Privacy Policy and Disclaimer explains our policies regarding how we manage customers’ information. Please check this page periodically for updates.
+This site is owned and operated by SRP. Please direct any questions or comments you have concerning the site or this policy to webmaster@srpnet.com ; or call (602) 236-8888 in the Phoenix area or (800) 236-4777 elsewhere. SRP’s mailing address is: SRP Customer Correspondence, CUN363, P.O. Box 52025, Phoenix, AZ 85072-2025. Physical address: 1500 N. Mill Ave., Tempe, AZ 85281.
+Protection of your privacy
+As described below, SRP does not collect personal information from visitors to its website, except for information you intentionally provide that is necessary to do business with SRP through the website. SRP takes steps to secure from misappropriation the information that you do provide, and carefully controls data gathering so that information collected to assist in improving customer experience on the website is not identified with individual users.
+Information protection
+SRP strives to use industry-standard practices to protect personal information from loss, misuse, alteration and destruction. These practices include a combination of technical, operational and managerial controls. Security mechanisms in place include, but are not limited to, firewalls, network monitoring and encryption to protect certain sensitive transmissions of information.
+SRP also uses measures to enhance the security of its assets, such as analyzing account activity for fraudulent or otherwise suspicious behavior. SRP does not provide credit or customer asset monitoring services.
+No security system is fail-safe, and SRP cannot guarantee information will never be obtained by unauthorized persons. Customers, business partners and employees should protect the confidentiality of information such as an account number, Social Security number, email address and password. Furthermore, customers, business partners and employees should be aware of “phishing” attempts to steal personal information. SRP will not at any time initiate a request for your account password, Social Security number or bank information via email.
+Information we collect
+SRP only collects the necessary information it requires to conduct business. The information collected will depend on the business relationship with SRP. Examples of information collected include:
+Name
+Payment information
+Telephone number
+At any time, you may opt out of providing such information. However, by doing so, we may not be able to provide you the services or options which you have requested. Unless you have cookies “turned off” on your computer, when you visit srpnet.com, your computer creates a cookie that is stored in its temporary memory. These cookies are not retained after you close your browser and this information does not identify you personally. Our servers are able to collect data from temporary cookies that tell us certain information about your visit during that session. Examples of information collected include:
+the date and time you access our site;
+the pages you visit;
+the type of browser and operating system used to access our site;
+the address of the referring website, if you arrived at SRP's site from another website; and
+the Internet domain (.com, .edu, .gov, etc.) and IP address from which you access our site (an IP address is a number that is automatically assigned to your computer whenever you are on the Internet).
+This information is collected so we can compile and analyze usage data to help us make srpnet.com more useful to visitors. Because we do not collect personally identifiable information (PII) about your online activities over time, “do not track” signals transmitted from web browsers do not apply to the site, and we do not alter any of our data collection and use practices upon receipt of such a signal.
+We also use cookies on some online forms, such as the “My Account” page for residential electric customers. These cookies allow information in those form fields to be retained on your computer for your convenience so the fields remain populated, saving you from having to retype the information the next time you return to those pages.
+SRP uses the information collected to administer accounts and enhance customer service. Examples include:
+Fulfill customers’ requests for products and services
+Generate billing statements
+Offer programs and services that may help lower energy usage
+Support and improve our services and operations
+Provide safe and reliable services
+Research
+Marketing
+Does SRP share information?
+SRP may provide certain customer information to its contractors and vendors for billing, remittance, research, customer service, marketing and related SRP purposes.
+SRP personnel are prohibited from all other uses of customers’ information. SRP will not sell or provide personal customer, employee or vendor information to third parties for commercial benefit.
+SRP will never ask for your account password, Social Security number or bank information by mail.
+In accordance with state law, SRP will not release Customer-specific information to third parties unless any of the following apply:
+The information is reasonably required for legitimate account collection activities or credit analysis activities, or when such information aids in providing safe and reliable service to the Customer.
+The Customer specifically authorizes in advance the release of such information in writing.
+By court order or otherwise legally required.
+SRP may periodically use third parties, including advertisers, to serve advertisements or provide services on this site. These third parties may collect information, potentially including personal information, about your activities over time and across different websites when you use our site.
+Those third parties may also provide SRP with data collection, reporting, ad response measurement, analytical information, and assist with delivery of relevant marketing messages and advertisements. SRP may use such third parties to assist in presenting relevant SRP advertising or information to you when you visit third party sites, or when you use a mobile device.
+SRP participates in the AdChoices online behavioral advertising program . If you receive a behaviorally targeted advertisement, you may click on the displayed icon (usually an arrow in upper corner of ad) to receive more information and choose to opt out. Your opt-out choices may be affected by your use of a specific device, your browser settings or your log-on credentials.
+For more information about third-party advertising networks and similar entities that use these technologies, including information and resources to opt out of interest-based advertising see www.aboutads.info/consumers and www.networkadvertising.org/choices .
+You may also opt out of tracking and receiving tailored advertisements on your mobile device by some mobile advertising companies and other similar entities by downloading the App Choices app .  Please note opting out through these mechanisms does not opt you out of being served advertising. You may continue to receive generic (non-targeted) ads while visiting our site and elsewhere online.
+Email and digital newsletters
+Messages sent via electronic mail (email) to email addresses listed on this site should not be considered a secure means to send personal information. Information transmitted to SRP via email is not secure and will not be treated as confidential.
+The email address you give to us is stored in a secure database and will not be sold to any entity outside of SRP. However, it may be used by SRP for promotional or research purposes. The opportunity to opt-out will be provided for any such communication sent by SRP.
+SRP may use feedback or input provided by visitors to this site for any purpose without compensating the contributor.
+SRP does not warrant the accuracy, completeness, timeliness, noninfringement, merchantability, suitability or fitness for a particular purpose of the information and materials made available through this site.
+To the maximum extent permitted by applicable law, in no event shall SRP be liable for any special, indirect, incidental or consequential damages whatsoever arising out of or resulting from (i) the use of, or inability to use, data, documents or information made available on this site or other Web sites linked to this site, or (ii) content errors, omissions or infringing material, including without limitation lost profits, damages for loss of goodwill, work stoppage, computer failure or malfunction or any and all other damages or losses, even if SRP is advised of the possibility thereof and regardless of the legal or equitable theory (contract, tort or otherwise) upon which the claim is based.
+SRP may make improvements and/or changes to any product(s) or service(s) described in this site at any time. SRP does not guarantee that any product or service described in this site will be continuously available. The information on this site is periodically updated.
+The documents and related graphics published on this site could include typographical errors or technical inaccuracies.
+Revocation of access authorization
+SRP reserves the right to revoke any or all access and use authorizations granted to site visitors.
+Last revision: April 2017

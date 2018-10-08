@@ -1,0 +1,103 @@
+Select a Service Area
+To serve you better please select from the list of service areas below to see relevant CenterPoint Energy information.
+State
+Select
+Effective Date: September 15, 2016 
+ 
+ 
+Whenever you use our Service – either as a casual visitor or to actively submit information to it – you are agreeing to the terms of this Privacy Policy and our CenterPoint Online Terms of Use . This Privacy Policy also applies to web- and app-based programs, products and services that we make available or may make available in the future in partnership with third-party companies not affiliated with us.  Third-party companies often have their own online privacy policies that will apply to those same programs.  We encourage you to review all of the privacy policies associated with the programs, products and services you use on the web.
+The Information We Collect and Why​​​​​​
+Information you provide to us​
+ 
+We collect information you provide directly to us via the Service.  For example, we collect information through routine business with you.  Typically this information includes:
+​Your name, postal address, email address and telephone number
+User name or ID and password for access to your CenterPointEnergy.com account or an affiliated online account
+Financial information, including electronic billing information
+Data about your transactions with us
+Your CenterPoint Energy account number, meter number and house number
+Your ESI ID (this is your Electric Service Identifier, your electric service account identification number), and your electricity usage information (in markets where electric distribution services are offered)
+Friends’ or family members’ names and email addresses
+ 
+We also collect information when you participate in energy conservation programs designed to make your home’s energy use more efficient. These are the types of information we may collect if you participate:
+​Energy equipment sales invoice information and details about your equipment like brand name, model number, equipment dealer’s contact details, etc.
+Household information like the square footage, the number of occupants, types of household appliances, etc. 
+Household income
+Your date of birth, gender and other demographic information
+ 
+ 
+Personal Information once “de-identified” will not be subject to this Privacy Policy, and we and our Service Providers (defined below) may treat it as non-Personal Information and use it without obligation to you except as prohibited by applicable law. 
+Information we collect automatically​
+We and our Service Providers may automatically collect certain information about you when you access or use our Service (“Automatically Collected Information”).  Automatically Collected Information may include your IP address, device identifier, Ad ID, browser type, operating system characteristics, data regarding network connected hardware (e.g., computer or mobile device), and information about your use of our Service, such as the time and duration of your visit and how you arrived at our Service.  Except to the extent required by applicable law, CenterPoint Energy, Inc. does not consider Automatically Collected Information to be Personal Information.  However, Automatically Collected Information may be combined with your Personal Information.  To the extent that Automatically Collected Information is Personal Information under applicable law, we will treat the combined information as Personal Information under this Privacy Policy. 
+The methods that we and our Service Providers may use to collect ​​
+​Automatically Collected Information include:
+ 
+​Log Information: We collect information about your use of our Service, such as IP address, browser type, Internet service provider, referring/exit pages, operating system, date/time stamps, and related data, and store it in log files.
+Information Collected by Cookies and Other Tracking Technologies: We may use cookies, web beacons (also known as "tracking pixels"), embedded scripts, location-identifying technologies, in-app tracking methods, and other tracking technologies now and hereafter developed (“Tracking Technologies”) to collect information about interactions with our Service or emails, including information about your browsing and viewing behavior and to ensure that only authorized users and devices can access the Service and Screener Content.
+​​Cookies
+A cookie is a small text file that is stored on a user’s device. We use both session ID cookies and tracking cookies. Session cookies make it easier for you to navigate our Service and expire when you close your browser. Tracking cookies help us understand how you use the Service and enhance your user experience.  Cookies remain on your hard drive for an extended period of time. If you use your browser’s method of blocking or removing cookies, some features and functionalities of our Service may not work. 
+Web Beacons (“Tracking Pixels”)
+Web beacons are small graphic images, also known as "Internet tags" or "clear gifs," embedded in web pages and email messages. Web beacons may be used to count the number of visitors to our Service, to monitor how users navigate the Service, and to count how many particular articles or links were actually viewed.
+Embedded Scripts
+An embedded script is programming code designed to collect information about your interactions with the Service. It is temporarily downloaded onto your computer from our web server or a third party with whom we work, is active only while you are connected to the Service, and deleted or deactivated thereafter.
+Location-identifying Technologies
+ 
+We are giving you notice of the Tracking Technologies and your choices regarding them, as explained below in “Unsubscribe to email messages,” so that your consent to encountering them is meaningfully informed. 
+Information from other sources ​​
+We may also obtain information about you from other sources and combine that with information we collect about you.  To the extent we combine such third party sourced information with Personal Information we collect directly from you on the Service, we will treat the combined information as Personal Information under this Privacy Policy.  We are not responsible for the accuracy of the information provided by third parties or third-party practices.
+How we use the Personal Information we collect​
+We may use information about you for any purposes not inconsistent with our statements under this Privacy Policy or prohibited by applicable law.  Examples include:
+​Facilitating, managing, personalizing and improving your online experience
+Responding to your questions and comments
+Verifying documents
+Creating and managing online accounts and profiles
+Sending news and updates about CenterPoint Energy and our products and services that we believe may interest you (for information about how to manage these communications, see “Unsubscribe to email messages” below)
+Telling you about special events, programs, offers and promotions
+Inviting you to participate in surveys and performing market and consumer research
+Using information about you in statistical analysis to help us analyze trends
+Evaluating, operating and improving business functions
+Sharing with third parties so they can send you information about products and services that may be of interest
+How we share your Personal Information​
+ 
+ 
+ 
+To protect the rights, property, life, health, security and safety of us, the Service or any third party;
+With our affiliates for internal business purposes;
+With our subsidiaries, affiliates, business partners, and other third parties for their own business purposes; and
+ 
+Without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you with third parties or affiliates for any purpose. 
+Information you disclose publicly or to others​
+The Service may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, “User Content”), on platforms such as blogs and forums, and in association with your account and user profile.  We or others may store, display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed) and may or may not attribute it to you.  Others may have access to this User Content and may have the ability to share it with third parties.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that CenterPoint Energy does not control who will have access to the information that you choose to make public and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  We are not responsible for the privacy or security of any information that you make publicly available on the Service or what others do with information you share with them on the Service.  We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Service.  We are not responsible for User Content you submit to third party services via our Service.
+Data Security​
+We have put administrative, technical and physical safeguards in place to help protect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. Access to your information is limited to employees who need it for a business purpose. Or, during the course of business, if your Personal Information is shared with outside contractors, there are provisions in our contracts with them to safeguard your information, as appropriate. We can’t promise that our security measures will never be defeated or fail, and unfortunately no electronic transmission of information is entirely secure.
+Where we operate our Service​​
+Our Service is governed by applicable U.S. laws. When you provide Personal Information to us, we may process it in the U.S. or outside of the country in which you are located.  Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information, in the U.S. as set forth in this Privacy Policy.
+Links to other websites​​
+Our Service may provide links to independent, third-party websites, locations, platforms or services. Even though we provide links to other websites, we are not responsible for the content found on those websites, and they may have their own privacy policies regarding collecting and sharing Personal Information. 
+Social Media Features​
+ 
+ 
+If you access our Service through social media platforms (like Facebook), we may access and store information through an interface provided by the platform. We collect this information in accordance with social networks’ terms of use or terms of service. 
+Advertising, Analytics Services, and Online Tracking​​
+ 
+ 
+We are not responsible for third parties or third-party services associated with advertising and analytics services and related tracking activities.  Consult their privacy policies and notices for information on their practices and see “Unsubscribe to email messages” below regarding certain choices some of them may offer you.
+“Do not track” signals​
+While your browser settings may allow you to automatically transmit a “do not track” signal to websites and online services you visit, like many companies, we do not alter our practices when we receive these signals. To learn more, visit http://www.allaboutdnt.com .
+Children’s Privacy​​
+While our Service is not intended for children younger than age 13, on occasion we may provide features for children such as educational videos or online games that teach about science and energy. Those pages do not ask for personal information, and we do not knowingly collect it from children younger than age 13. If you know that a child has submitted personal information to us, please send an email or letter regarding the situation, and we will delete it from our records.
+Access​
+Our online tools make it easy to manage your contacts and Personal Information.  Log in or sign up for My Account to review, update or add contact details and bill reminders and alert preferences. You may also email us at Centerpointenergy.com/en-us/corporate/contact-us/ ​.
+Unsubscribe to email messages​
+ 
+You may re-subscribe for emails at any time by contacting Customer Service. It typically takes ten business days to process subscription requests.
+Opt out of receiving targeted advertising​
+ 
+In addition, we may serve ads on third-party services that are targeted to reach people on those services that are also identified on one of more of our databases (“Matched List Ads”).  This is done by matching common factors between our databases and the databases of third-party operators.  For instance, we may use such ad services offered by Google, Facebook, or Twitter. If we use Google to serve Matched List Ads, you can opt out by emailing us at Centerpointenergy.com/en-us/corporate/contact-us/ ​.  If we use Facebook to serve Matched List Ads, you should be able to hover over the box in the right corner of such a Facebook ad and find out how to opt out with us from such list. If we use Twitter Matched List Ads, you should be able to opt out through your account settings on Twitter.  If you opt out from our Google Matched List Ads, Facebook Matched List Ads, or Twitter Matched List Ads, you will be removed from that respective list; however, this will not take effect immediately. and if you have multiple emails or other accounts, you may have to opt out separately for each one.  We are not responsible for such third-party services’ failure to comply with your or our opt-out instructions or to provide us notice of your opt-out elections, and they may change their options without notice to us or you.
+Your California Privacy Rights​​
+ 
+We may from time to time elect to share certain information about you collected by us on the Service with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes.  If you are a California resident, you may request information about our compliance with this law by contacting us at CenterPointEnergy.com/about/contact/email/ or by sending a letter to CenterPoint Energy, Inc., Attn: Privacy Policy Administration, P.O. Box 1700, Houston, Texas 77251-1700.  Requests must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code.  Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address or mail address.
+Updates to our privacy policy​​
+We may periodically update our Privacy Policy to reflect changes in our information practices. Any changes will be effective immediately upon posting of the revised Privacy Policy.  We will post a prominent notice with an effective date on our Service to notify you of any material changes to this Privacy Policy.
+Contact Us​
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you, please email us at
+CenterPoint Energy, Inc.

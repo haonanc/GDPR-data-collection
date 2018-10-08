@@ -1,0 +1,117 @@
+Get helpful language services at no cost to you! (non-Medicare)
+Last Updated: 4/22/2016
+This Privacy Statement contains an overview of key terms governing your use of the software application HealthNet ("Application") for mobile devices that was created by Health Net, Inc. ("Health Net"). Your use of the Application indicates your agreement with this Privacy Statement as well as the Application End User License Agreement .
+Health Net may modify this Privacy Statement at any time. Such changes will be communicated to you by posting new versions of this Privacy Statement in the Application and updating the Last Updated date at the top of the Privacy Statement. We encourage you to visit this area frequently to stay informed, as your continued use of the Application following the posting of changes to these terms means that you consent to such changes.
+What information does the Application collect?
+The Application obtains certain information from you when you download or use the Application, including:
+User Provided Information: The Application obtains the information you provide when you log on to your Health Net account through the Application, which includes your user name and password. You may only register for a Health Net account through Health Net's website ( www.healthnet.com ), not through this Application. Information that you provide when registering on Health Net's website is subject to the privacy policy posted on that website. Although registration with us is optional, you may not be able to use some of the features offered by the Application unless you register on the Health Net website.
+Regardless of whether you register, you may provide information about your location in order to search for providers. The Application collects such information, such as the zip code or address that you provide. You may also choose to have the Application find providers near using your phone's geolocation, as described below.
+Automatically Collected Information: The Application may collect certain information automatically, such as the type of mobile device you use, your cellular carrier, your mobile device's unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the ways you use the Application.
+Geolocation Information: This Application collects precise information about the location of your device, such as through GPS, Bluetooth, or WiFi signals. This information is collected whenever you use the Application in order to better use the provider search function. This information may be shared with third party service providers who work on our behalf to provide services through the Application. You may opt-out at any time from further allowing us to have access to your location data by changing the settings on your device or within this Application. For more information, please see the section below entitled "opt-out rights."
+How is the information used?
+We may use the information we collect to provide services to you, to communicate with you, to respond to your questions or inquiries, to send you promotional notices and marketing communications about the Application or other Health Net products, to improve the functioning of the Application, and to perform other business functions related to the Application. We may use geolocation information to help you search for providers and to provide you with other customized content through the Application.
+The Application may provide certain users with the ability to pay bills or premiums through third party websites, such as BillMatrix, when they log in to this Application. These websites will appear embedded within the Application. If you use the bill pay function through the Application, we will automatically log you in to your account on that third party website and display the third party website within the Application. Although we provide this service to you as a courtesy, we do not control the content or privacy practices of any third party websites, including the site used to make payments, and encourage you to carefully review the privacy policies of such third parties. Information that you provide through any third party websites, such as your payment information, will not be collected or stored by us through this Application, but will be collected and used by the third party and is subject to the privacy policies of the third party website only, not this Application's Privacy Statement.
+With whom is the information shared?
+We share your information, with the following third parties:
+the Health Net group of companies, including parent, subsidiaries and affiliates;
+service providers who work on our behalf, such as vendors who assist us with providing the services offered through the Application and vendors that help log the information that the Application collects described above; and
+affiliated third parties for the third parties' own use, including for direct marketing purposes.
+We share information with these entities to provide services to you, to communicate with you, to respond to your questions or inquiries, to send you promotional notices and marketing communications about the Application or other Health Net products, to improve the functioning of the Application, and to perform other business functions related to the Application.
+We may also share the information we collect with other third parties or government entities as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; and as part of a merger, acquisition, transfer, sale, corporate change, or any other transaction involving all or a portion of Health Net's assets.
+What are my opt-out rights?
+You may opt-out of all information collection by uninstalling the Application. You may opt-out of geolocation information collection by changing the settings on your device or in this Application, though doing so may interfere with services provided through the Application.
+Does the Application collect information about children?
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us . We will delete such information from our files within a reasonable time.
+What security does the application use?
+We will take reasonable steps to protect the security of information collected through the Application.
+How is data stored, how can I manage my information, and how can I contact Health Net?
+We will retain User Provided Information for as long as you use the Application and for a reasonable time thereafter. If you would like us to delete User Provided Information that you have provided via the Application, please contact us and we will respond in a reasonable time. Please note that some or all of the User Provided Information may be required in order for the Application to function properly, and we may be required to retain certain information by law.
+Effective Date: 4/22/2016
+Submit
+Submit
+Submit
+Already have an account?
+(your username is your email address)
+Note: HNA providers can log in by using their existing HNA user name (your email address) and password to access Allwell and Ambetter member information.
+Need to create a new account?
+Already have an account?
+Already have an account?
+Submit
+Submit
+Submit
+< Back
+Disclaimer
+You are now leaving Health Net's website for Medicare.gov. While Health Net believes you may find value in reading the contents of this site, Health Net does not endorse, control or take responsibility for this organization, its views or the accuracy of the information contained on the destination server.
+To proceed to Medicare.gov, click 'Continue'. To stay on the Health Net website, click 'Cancel'.
+If you would prefer to speak to a Health Net representative about this issue, please click here to go to our Customer Service Center page.
+Health Net's National Medical Policies (the "Policies") are developed to assist Health Net in administering plan benefits and determining whether a particular procedure, drug, service, or supply is medically necessary. The Policies are based upon a review of the available clinical information including clinical outcome studies in the peer-reviewed published medical literature, regulatory status of the drug or device, evidence-based guidelines of governmental bodies, and evidence-based guidelines and positions of select national health professional organizations. Coverage determinations are made on a case-by-case basis and are subject to all of the terms, conditions, limitations, and exclusions of the Member's contract, including medical necessity requirements. Health Net may use the Policies to determine whether, under the facts and circumstances of a particular case, the proposed procedure, drug, service, or supply is medically necessary. The conclusion that a procedure, drug, service, or supply is medically necessary does not constitute coverage. The Member's contract defines which procedure, drug, service, or supply is covered, excluded, limited, or subject to dollar caps. The policy provides for clearly written, reasonable and current criteria that have been approved by Health Net's National Medical Advisory Council (MAC). The clinical criteria and medical policies provide guidelines for determining the medical necessity criteria for specific procedures, equipment and services. In order to be eligible, all services must be medically necessary and otherwise defined in the Member's benefits contract as described in this "Important Notice" disclaimer. In all cases, final benefit determinations are based on the applicable contract language. To the extent there are any conflicts between medical policy guidelines and applicable contract language, the contract language prevails. Medical policy is not intended to override the policy that defines the Member's benefits, nor is it intended to dictate to providers how to practice medicine.
+Policy Effective Date and Defined Terms.
+The date of posting is not the effective date of the Policy.  The Policy is effective as of the date determined by Health Net. All policies are subject to applicable legal and regulatory mandates and requirements for prior notification.  If there is a discrepancy between the policy effective date and legal mandates and regulatory requirements, the requirements of law and regulation shall govern. In some states, prior notice or posting on the website is required before a policy is deemed effective.  For information regarding the effective dates of Policies, contact your provider representative.   The Policies do not include definitions.  All terms are defined by Health Net.  For information regarding the definitions of terms used in the Policies, contact your provider representative.
+Policy Amendment without Notice.
+Health Net reserves the right to amend the Policies without notice to providers or Members.  In some states, prior notice or website posting is required before an amendment is deemed effective.
+No Medical Advice.
+The Policies do not constitute medical advice. Health Net does not provide or recommend treatment to Members. Members should consult with their treating physician in connection with diagnosis and treatment decisions.
+No Authorization or Guarantee of Coverage.
+The Policies do not constitute authorization or guarantee of coverage of any particular procedure, drug, service, or supply. Members and providers should refer to the Member contract to determine if exclusions, limitations and dollar caps apply to a particular procedure, drug, service, or supply.
+Policy Limitation: Member's Contract Controls Coverage Determinations.
+Statutory Notice to Members:  The materials provided to you are guidelines used by this plan to authorize, modify or deny care for persons with similar illnesses or conditions. Specific care and treatment may vary depending on individual need and the benefits covered under your contract.  The determination of coverage for a particular procedure, drug, service, or supply is not based upon the Policies, but rather is subject to the facts of the individual clinical case, terms and conditions of the Member's contract, and requirements of applicable laws and regulations. The contract language contains specific terms and conditions, including pre-existing conditions, limitations, exclusions, benefit maximums, eligibility, and other relevant terms and conditions of coverage.  In the event the Member's contract (also known as the benefit contract, coverage document, or evidence of coverage) conflicts with the Policies, the Member's contract shall govern.     The Policies do not replace or amend the Member contract.
+Policy Limitation: Legal and Regulatory Mandates and Requirements
+The determinations of coverage for a particular procedure, drug, service, or supply is subject to applicable legal and regulatory mandates and requirements.  If there is a discrepancy between the Policies and legal mandates and regulatory requirements, the requirements of law and regulation shall govern.
+Reconstructive Surgery
+California Health and Safety Code 1367.63 requires health care service plans to cover reconstructive surgery. "Reconstructive surgery" means surgery performed to correct or repair abnormal structures of the body caused by congenital defects, developmental abnormalities, trauma, infection, tumors, or disease to do either of the following:
+1. To improve function; or
+2. To create a normal appearance, to the extent possible.
+Reconstructive surgery does not mean "cosmetic surgery," which is surgery performed to alter or reshape normal structures of the body in order to improve appearance.
+Requests for reconstructive surgery may be denied, if the proposed procedure offers only a minimal improvement in the appearance of the enrollee, in accordance with the standard of care as practiced by physicians specializing in reconstructive surgery.
+Reconstructive Surgery after Mastectomy
+California Health and Safety Code 1367.6 requires treatment for breast cancer to cover prosthetic devices or reconstructive surgery to restore and achieve symmetry for the patient incident to a mastectomy.  Coverage for prosthetic devices and reconstructive surgery shall be subject to the copayment, or deductible and coinsurance conditions, that are applicable to the mastectomy and all other terms and conditions applicable to other benefits. "Mastectomy" means the removal of all or part of the breast for medically necessary reasons, as determined by a licensed physician and surgeon.
+Policy Limitations: Medicare and Medicaid
+Policies specifically developed to assist Health Net in administering Medicare or Medicaid plan benefits and determining coverage for a particular procedure, drug, service, or supply for Medicare or Medicaid Members shall not be construed to apply to any other Health Net plans and Members.  The Policies shall not be interpreted to limit the benefits afforded Medicare and Medicaid Members by law and regulation.
+Please Be Patient While We Detect Your Location
+To provide you with the most accurate plans and information in your area, we need to know your location. Please enter a ZIP code for Arizona, California, Oregon, or Washington.
+You may manually enter your ZIP code below:
+Or continue using the detected location:
+To provide you with the most accurate plans and information in your area, we need to know your location. Please enter a ZIP code for Arizona, California, Oregon, or Washington.
+You may manually enter your ZIP code below:
+Or continue using the detected location:
+This ZIP code may include multiple counties. Please select your county:
+Your account security is important to us. For added protection, please add two more security question to your account below.
+Schedule of Benefits Disclaimer
+This Schedule of Benefits is a brief list of benefits, with             applicable copayments, coinsurance and deductibles information for your             health plan. It does not list the exclusions and limitations or other             important terms applicable to your plan.
+For more information, please review carefully the disclosure form             for your plan. It includes additional terms and information on certain             exclusions and limitations.
+The Evidence of Coverage (EOC) for your plan contains the             complete terms and conditions of your Health Net coverage. It is             important for you to thoroughly review the disclosure form and EOC for             your plan, especially those sections that apply to those with special             health care needs. You may view your Evidence of Coverage by: closing             the current window and clicking on MY MEDICAL BENEFITS. You may request copies of the forms referenced above for your             health plan by: closing this window and clicking on Contact Us at the             top of any web page.
+Thank you for choosing Health Net again in . Let's get started.
+Please select one:
+I want to make my first premium payment for  and/or pick a PCP.
+We'll take you to our Welcome Center where you can do both of these things!
+I made my payment for . I want to go to My Account.
+Note: your new plan starts in . Until then, you will see your current plan and details on the My Account page.
+How do I add or delete family members (ex. newborns,adoptions)?
+You may add or delete family members during your open enrollment period. In addition, we will generally accept enrollments for newly eligible members within 30 days after the following events (with proper documentation submitted to us):
+A subscriber’s marriage or divorce
+Death of a subscriber’s spouse or dependent
+The birth, proposed adoption, or adoption of a child
+Beginning or ending of employment by a subscriber’s spouse
+A change in full-time or part-time employment status by a subscriber or a subscriber’s spouse
+Unpaid leave of absence taken by a subscriber or a subscriber’s spouse
+Significant change in the health coverage of a subscriber or a subscriber’s spouse (when caused by a spouse’s employment)
+Important Notice Regarding Access To This Site
+Your medical coverage expired on .            For your convenience, we have allowed you to access your medical information and data on this site through .
+IMPORTANT
+It is time to renew your AHCCCS application. To keep getting AHCCCS health insurance you need to apply again.
+HOW TO APPLY
+Apply on the internet at Health-e-Arizona PLUS (HEA PLUS) https://www.healthearizonaplus.gov
+Call 1-855-HEA-PLUS or 1-855-432-7587 if you have questions about HEA PLUS
+Go to your local DES/FAA office and ask for a form. You can also call 602-542-9935 to request a form be mailed to you
+Print a form from the DES website at https://www.azdes.gov
+Use the TTY/TTD line 7-1-1 for the hearing impaired.
+If you have questions about your Health Net Access health plan call Member Services
+Sincerely,
+1-888-788-4408
+This enrollee's premiums are past due.  Coverage will be suspended if premiums        remain past due for more than 1 month. When coverage is suspended, outstanding        authorizations for service are no longer valid.  And there is no further coverage        for any services rendered unless premiums are paid in full by the end of a 3 month        grace period.         Please contact us for more information.
+This enrollee's premiums are more than 1 month past due.  Coverage is currently        suspended due to non-payment of premiums. Outstanding authorizations for service        are no longer valid.  There is no further coverage for any services rendered unless        premiums are paid in full by the end of a 3 month grace period.        Please contact us for more information.
+You are now leaving HealthNet.com and going to BillMatrix
+BillMatrix is Health Net's secure, online payment service. You can make your online payment using your bank account, check, debit card or credit card. There are no extra fees for using this service. If you wish to stay on HealthNet.com, please click cancel.
+You are now leaving HealthNet.com and going to BillMatrix
+BillMatrix is Health Net's secure, online payment service. You can make your online payment using your bank account, check, debit card or credit card. There are no extra fees for using this service. If you wish to stay on HealthNet.com, please click cancel.
+New Year, New Website for You!

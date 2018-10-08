@@ -1,0 +1,44 @@
+Montana Department of Revenue Website Disclosure
+Neither the Montana Department of Revenue, nor any other agency, officer, employer, or agent of the State of Montana warrants the accuracy, reliability, or timeliness of any information in this website and shall not be held liable for any losses caused by such reliance on the accuracy, reliability, or timeliness of such information.
+Tax laws and alcoholic beverage laws are complex and change regularly. We cannot account for every individual circumstance through our website guides. Any information contained in this website is not intended to be construed as legal advice. This website is intended as general guidance only and the reader should refer to the full text of the law and seek legal advice before drawing conclusions. This website may contain links to other locations, but no endorsement is intended or made of any link, product, service, or information either by its inclusion or exclusion from this website.
+You can find the Montana Code Annotated at the following link: ( http://leg.mt.gov/bills/mca/index.html )
+Privacy
+The Montana Department of Revenue adheres to Montana State’s Privacy policy. The Full text with definitions can be found here: ( http://mt.gov/1240-X06.pdf ).
+The Montana Department of Revenue will not require you to give any personally identifying information to visit or download information from the website. We do not wish you to send in any personally identifying information unless requested by a state employee reached from an official state number or email address. When that information is requested the agency official should have requested it to be sent in a secure manner such as the ePass Secure File Transfer Service. We may request this information only when you have specific questions pertaining to your situation only and never under generalized questions. All information obtained will be kept strictly confidential.
+Montana Laws control the level of access to the personally identifiable information maintained in public record. For website management the Montana Department of Revenue utilizes Google Analytics to make sure that the public is getting the most out of the website. You can read Google’s privacy policy:  ( http://www.google.com/policies/privacy/ ).
+Public Records
+Content published on public facing web sites will align with the agency’s record retention policy in accordance with guidance provided by the State Archives on the management of public records.
+Multi-media
+Web site will promote access to all content and events via a variety of media formats (apps, audio, video, and email subscriptions). MTRevenue.gov will be used to centralize access to technology and to increase visibility of information.
+Quality Controlled
+The Web Administration Team for MTRevenue.gov will be responsible to develop, promote and monitor DOR’s digital presence. The team will support the department to initiate collaborative projects for the use of shared tools such as mapping services, language translation, etc. and to promote interaction between agencies with common lines of business and or process to better service the State’s citizens through the use of web technology.
+Email Address Use
+Any email addresses obtained by the Montana Department of Revenue will never be sold to given to private companies for marketing purposes unless it is expressly stated upon requesting a user’s email address and in the event a user “opts in” to having their email used in stated fashion. Any emails along with information requests are maintained in order to respond to the request as well as to forward on to the appropriate division. Also, emails of feedback and requests will be given to individuals within our Web Team as feedback for people as the Web Developer and Content Editors to track and manage pages that need further updating or that are us special interest to our users. This information will assist them in improve the site so it is more responsive to users’ needs.
+Accessibility
+Web site design, functionality and content will adhere to the State’s regulations for non-visual accessibility. We will adhere to the Policy that the State of Montana has set for us.
+Employ best practices of universal usability on all devices
+Usability testing of sites
+Accountability
+All Montana Government pages must include Contact information in the footer. This will allow citizens to have easy access to reach out to the Department of Revenue as needed. Make all citizen oriented programs are easily accessible and visibly promote them on the internet.
+Mailing address
+Main Phone #
+“Contact us” link that directs to phone directory and email contacts
+Citizen centered programs such as Taxpayer Assistance on the homepage.
+Transparency
+Web sites will provide links to policies to ensure the appropriate protections and practices of the State and its citizens, to be located within footer of all pages:
+Accessibility
+Privacy
+Citizen-oriented
+MTRevenue.gov is the official web site for the State of Montana Department of Revenue and is the primary one-stop-shop for connecting citizens and visitors to government tax information and services. This includes:
+Online services/content aggregated by topic, geography, business or individual.
+There must be consistent communication channels between Divisions and the Web Management Team to ensure information and services are current and mapped into MTRevenue.gov.
+Content on government web sites should always be simplified and written for the web: ( http://www.plainlanguage.gov ).
+Enterprise Features
+Montana Revenue web site will promote interaction between people and Government. Web sites will provide mechanisms for citizens and visitors to provide input/feedback on information/services.
+Other Helpful Information
+Find the Help You Need
+Call Us
+Monday—Thursday
+ 
+ 
+Your Pay/File Options

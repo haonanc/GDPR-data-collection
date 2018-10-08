@@ -1,0 +1,78 @@
+Privacy policy
+Introduction
+VideoLAN is a non-profit organization based in France,     managed by volunteers.
+There is no business-model around VideoLAN, and the only revenue we receive is through donations.
+For privacy policies and conformance to GDPR ,     a few distinctions will be done between:
+VLC software,
+community VideoLAN websites.
+For each of the previous software/websites, we'll detail the different privacy policies.
+IP logs
+For all of the VideoLAN services, IPs can be found in connection logs.
+Those logs are deleted after 3 months, and are not correlated with any other user information.
+VLC
+VLC software does not use any user account, and does not collect any user data, when working.
+VideoLAN does not collect any data, nor any telemetry, when VLC is being run.
+However, some limited personal information could be collected or shared in 3 precise cases:
+during the crash report process,
+during updates checking,
+for metadata retrieval.
+VLC crash reporting
+When VLC on Windows or VLC on macOS crash, a dialog popup suggesting to     share the crash with VideoLAN can be shared.
+If accepted, some information can go to the VideoLAN servers:
+Operating System version,
+CPU and GPU,
+List of DLLs loaded by the process.
+This data is only sent on explicit request from the user.
+This data does not contain any name, username, email from the user or IP from the user.
+This data can be deleted on request.
+This data is kept for 6 months, before deletion.
+VLC update mechanism
+When VLC on Windows or VLC on macOS wants to check if a new version is available,     a request is made to the VideoLAN servers.
+This request can contain:
+CPU version,
+VLC version.
+This update mechanism is accepted on the first run of VLC, and can be disabled at every moment, in VLC preferences.
+The information sent does not contain any name, username, email from the user or IP from the user.
+No information from the request is kept after the transaction.
+The connection logs can contain some limited information (like user-agents) next to the IP.
+VLC metadata requests
+VLC can automatically search online for metadata associated to your media, to 3rd parties.
+Those requests can contain information about the media, including artist, title, album, etc...
+This metadata mechanism is accepted on the first run of VLC, and can be disabled at every moment, in VLC preferences.
+The main 3rd parties that can be contacted by VLC, automatically are:
+last.fm,
+Please refer to those services for their own privacy policy.
+Please note that the list of services can be changed by the user.
+VideoLAN does not have access to any of those requests and data, except in the MusicBrainz case, detailed below, in this document.
+VLC mobile
+The mobile versions of VLC have the exact same metadata requests than VLC, as detailed above. The main case of VLC applies in the same way.
+However, the crashes and updates are handled by the Stores of each platforms, where the user has downloaded VLC from.
+Please refer to those platforms for information about the privacy policies.
+Main VideoLAN website
+The main website of VideoLAN, aka www.videolan.org, does not create or use any user account.
+There are no registration forms, or any similar mechanism.
+Therefore, no personal information is stored at any moment, about the user, by VideoLAN.
+www.videolan.org currently uses Google Analytics for statistics about the visits on the website.
+GoogleAnalytics was configured in the most private configuration, and is compatible with GDPR.
+Please refer to Google for their privacy policy.
+Community VideoLAN websites
+The community websites from VideoLAN are related to development and community, and are the following:
+Each of those websites have different users system, but work in a similar way.
+No user information is processed in any way other than being able to log in and have a profile.
+On gitlab, wiki, bugtracker and patchwork, no user information is shared to any 3rd party.
+On forum, no user information is shared to any 3rd party, with one exception:
+In case of content promotion, SEO or other activities classified as SPAM, account name, email and IP will be submitted        to StopForumSpam blocklist with the solely purpose of blocking any further        attempt to spam other forums protected by StopForumSpam.
+Google Analytics is not used on any of those community websites.
+One can modify their user information at any time, through the options of those websites.
+One can request deletion of their account, by contacting VideoLAN.
+One can request that any post, page, information created be made private, even if no personal information was part of it.
+MusicBrainz
+VideoLAN is running a MusicBrainz instance, that can be used to find information about a music, and artist and so on.
+Those automatic requests can contain information about the media, including artist, title, album, etc...
+This metadata mechanism is accepted on the first run of VLC, and can be disabled at every moment, in VLC preferences.
+The information sent does not contain any name, username, email from the user.
+No information from the request is kept after the transaction.
+The connection logs can contain some limited information (like user-agents) and partial search next to the IP.
+VLC media player
+VideoLAN, VLC, VLC media player and x264 are trademarks internationally registered by the VideoLAN non-profit organization.
+VideoLAN software is licensed under various open-source licenses: use and distribution are defined by each software license.

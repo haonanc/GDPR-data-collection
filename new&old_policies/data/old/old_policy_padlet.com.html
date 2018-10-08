@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<!-- BE GOOD -->
+<html class="no-js show interactive" lang="en" data-environment="production" data-layout="stream">
+  <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=1003;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+    <meta name="action-cable-url" content="wss://padlet.com/_/cable"/>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5761ae1e65","applicationID":"2443748","transactionName":"IFtcRkZfVA9cShwWTBFSU1FRH0sLVk8=","queueTime":1,"applicationTime":144,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <link rel="manifest" href="/web/20180128052807/https://padlet.com/manifest.json">
+    <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="RMkuQGcIMlFsl/06WQK0alRIB/OMKHAdtqEnJqSMNXMc1PVbiBr6NrzvJjZz6JkTOVS4LwLqX3HWfz2oUSpvbA=="/>
+        <meta name="user-verification-token" content="QkFoN0J6b01jR0Y1Ykc5aFpIc0dPZ3gxYzJWeVgybGthUVQvU0U4UE9nOWxlSEJwY21WelgyRjBWVG9nUVdOMGFYWmxVM1Z3Y0c5eWREbzZWR2x0WlZkcGRHaGFiMjVsV3doSmRUb0pWR2x0WlEyRmd4M0FaaTUzaEFnNkRXNWhibTlmYm5WdGFRTFRBam9OYm1GdWIxOWtaVzVwQmpvTmMzVmliV2xqY204aUIzSXdTU0lJVlZSREJqb0dSVlJBQ2c9PS0tOWJhNmQyOWE3NzNkMDVlNWI0ZTAyNzJlNDA1NDQ1MGU3YzlmMzU4ZQ--"/>
+
+    <link href="https://web.archive.org/web/20180128052807im_/https://assets.padletcdn.com/assets/favicon-5412204e97881d39085ffd59c206bf5ef7e9d6c7b08be16f51e6508cf266aeee.ico" rel="icon"/>
+<link href="/web/20180128052807im_/https://padlet.com/apple-touch-icon.png" rel="apple-touch-icon">
+
+      <link href="https://plus.google.com/+padlet" rel="publisher"/>
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy">
+  <meta property="og:title" content="Privacy Policy">
+  <meta property="og:description" content="What you can and cannot do with padlet">
+  <meta property="og:image" content="https://web.archive.org/web/20180128052807im_/https://assets.padletcdn.com/static/padlets/dzosepjp6b67/exports/peek/3/705de760aedf85624377ec05cc77dc443c918f2f.jpg">
+  <meta property="og:updated_time" content="2017-08-30 03:00:46 UTC">
+  <meta name="twitter:site" content="@padlet">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Privacy Policy">
+  <meta name="twitter:description" content="What you can and cannot do with padlet">
+  <meta name="twitter:image" content="https://web.archive.org/web/20180128052807im_/https://assets.padletcdn.com/static/padlets/dzosepjp6b67/exports/peek/3/705de760aedf85624377ec05cc77dc443c918f2f.jpg">
+
+    <script type="application/ld+json">
+{
+  "@context": "https://web.archive.org/web/20180128052807/http://schema.org/",
+  "@type": "WebPage",
+  "url": "https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy",
+  "name": "Privacy Policy",
+  "description": "What you can and cannot do with padlet",
+  "keywords": "",
+  "dateModified": "2017-08-30 03:00:46 UTC",
+  "dateCreated": "2016-03-28 23:40:06 UTC",
+  "author": {
+    "@type": "Person",
+    "name": "Padlet",
+    "url": "https://web.archive.org/web/20180128052807/https://sv.padlet.com/about"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://web.archive.org/web/20180128052807/http://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://web.archive.org/web/20180128052807/https://sv.padlet.com/about",
+      "name": "Padlet",
+      "image": "https://web.archive.org/web/20180128052807/https://padletuploads.blob.core.windows.net/aws/80961422/M75cNRTOFiql7O8hR-nq4A/5caf49c600e1fa4bf3d41d39c085d841.png"
+    }
+  }, {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy",
+      "name": "Privacy Policy",
+      "image": "https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/static/padlets/dzosepjp6b67/exports/peek/3/705de760aedf85624377ec05cc77dc443c918f2f.jpg"
+    }
+  }]
+}
+</script>
+
+    <title>Privacy Policy</title>
+    <link rel="alternate" type="application/rss+xml" title="Privacy Policy" href="https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/feed.xml"/>
+    <link rel="canonical" href="https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy"/>
+    <meta name="theme-color" content="">
+    <meta content="Vlu6bFyu0MZRb2mOd4CKPsSpUQ3Ca/JGklE14vPPYAc=" name="verify-v1"/>
+    <script>$analytics = {}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20180128052807/https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4055514-1', 'padlet.com');
+  ga('require', 'GTM-M55HT7F');
+  ga('require', 'linkid', 'linkid.js');
+  ga('set', 'dimension1', 'Anonymous');
+  ga('set', 'dimension2', 'vanilla');
+  ga('set', 'metric1', 0);
+  ga('set', '&uid', 256854271);
+      ga('set', 'contentGroup1', 'stream');
+    ga('set', 'contentGroup2', 'Public');
+    ga('set', 'contentGroup3', 'Registered');
+    ga('set', 'contentGroup4', 'Surface');
+
+  ga('send', 'pageview');
+</script>
+<script>
+document.addEventListener("page:change", function(e) { ga('send', 'pageview') })
+</script>
+<script>(function(){var a;window.ww||(window.ww={});ww.analytics={};a=null;ww.analytics.trackTiming=function(d,e){var b,c;if(window.performance)return c=performance.now(),b=c-(a||0),ga("send","timing",d,e,b),a=c,b};ww.analytics.trackEvent=function(){ga.bind(null,"send","event").apply(null,arguments);}}).call(this);</script>
+
+      <link rel="stylesheet" media="screen" href="https://web.archive.org/web/20180128052807cs_/https://assets.padletcdn.com/assets/3/kit-c875964bd84e613447cdd5967344ebd1463e668b4db30f4220edc934d598b4eb.css"/>
+  <link rel="stylesheet" media="screen" href="https://web.archive.org/web/20180128052807cs_/https://assets.padletcdn.com/assets/3/surface/show-544c612699e224b85d4b8878f8959f232cc1fe2d52c893be5b3c3065c561a01a.css"/>
+  <link rel="stylesheet" media="screen" href="https://web.archive.org/web/20180128052807cs_/https://assets.padletcdn.com/assets/packs/surface-b8f7237a758d34677606605d4045b3bb.css"/>
+  <link rel="stylesheet" media="print" href="https://web.archive.org/web/20180128052807cs_/https://assets.padletcdn.com/assets/print-148ad94356cfe863db9c3c1478cab73ef5f47b773436cdde021166dbbd4b8d6b.css"/>
+  <link rel="stylesheet" media="screen" href="https://web.archive.org/web/20180128052807cs_/https://assets.padletcdn.com/assets/3/surface/show/layouts/stream-0390bfc9692339564a2aa7edc05d6cc37ce236fb4e0a7b291ba3d74411e6e22f.css"/>
+
+    
+    
+    
+    <script>
+    document.cookie="ww_dpr="+Math.round(window.devicePixelRatio)+"; expires=Tue, 19 Aug 2042 21:56:52 GMT; path=/"
+    ww.uid = "" + (new Date().getTime() + "" + Math.random()).replace(".","")
+    </script>
+    <style>body{background-image:url(https://web.archive.org/web/20180128052807im_/https://imgglb.padletcdn.com/v13/image?t=a_exif,c_scale,dpr_1.0,e_blur:1000,h_80,w_80&url=https%3A%2F%2Fpadlet-assets.storage.googleapis.com%2Fbg%2Funderwater.jpg);background-size:cover;}</style>
+  </head>
+  <body ww-app-env="production" ww-app-version="3b4f7e6" ww-app-variant="bot" ww-variant-version="" class="variant-bot" data-behavior="background-holder" data-color-scheme="light" class="stream" data-font="1"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://padlet.com/about/privacy
+', '20180128052807')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://padlet.com/about/privacy
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180128052807" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170606232441/https://padlet.com/about/privacy" title="06 Jun 2017"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 05:28:07 Jan 28, 2018">JAN</td>
+		  <td class="f" nowrap="nowrap">Feb</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170606232441/https://padlet.com/about/privacy" title="23:24:41 Jun 06, 2017"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 05:28:07 Jan 28, 2018">28</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160717135713/https://padlet.com/about/privacy" title="17 Jul 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 05:28:07 Jan 28, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180128052807*/https://padlet.com/about/privacy
+" title="See a list of every capture for this URL">3 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">17 Jul 2016 - 28 Jan 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/twitteroutlinks)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/twitteroutlinks" target="_new"><span class="wm-title">Twitter Outlinks</span></a></div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://padlet.com/about/privacy\n","2018-01-28",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+      <script>
+  var img = new Image()
+  img.onload = function() {document.querySelector("body").style.backgroundSize = "cover";document.querySelector("body").style.backgroundImage = 'url('+img.src+')';}
+  img.src = "https://web.archive.org/web/20180128052807/https://imgglb.padletcdn.com/v13/image?t=a_exif,c_lfill,dpr_1.0,f_auto,g_auto,h_{height},q_auto:best,w_{width}&url=https%3A%2F%2Fpadlet-assets.storage.googleapis.com%2Fbg%2Funderwater.jpg".replace("{width}", screen.width).replace("{height}", screen.height)
+</script>
+
+        <div id="diagnostics">
+    Trouble viewing this page? Go to our <a href="/web/20180128052807/https://padlet.com/diagnostics" target="_blank">diagnostics page</a> to see what's wrong.
+  </div>
+
+      
+<a name="accessibility-skip-head" id="maincontent"></a>
+<div id="print-notification" title="To print this page properly, open the &quot;Share&quot; menu on the top right of the page and select &quot;Print&quot;."></div>
+  <div class="message neutral-scheme">Your browser is not supported. Some parts of this page may not work. Please upgrade your browser for a better experience. <a style="margin-left: 16px" target="_blank" onclick="ga('send', 'event', 'Outdated', 'Click', 'What Browser')" href="https://web.archive.org/web/20180128052807/https://whatbrowser.org/" class="raised-button">Upgrade Browser</a></div>
+
+<div id="wall-container">
+  <div id="v-header"></div>
+  <padlet-posts id="wish-list" class="wish-list"></padlet-posts>
+  <div class="wish-sizer"></div><div class="gutter-sizer"></div>
+</div>
+<div id="v-add-post"></div>
+<div id="v-chat-edit"></div>
+<padlet-panels></padlet-panels>
+<script type="text/x-template" id="wish-expanded-tmpl">
+  <div class="wish-modal-toolbar">
+  <div class="index"></div>
+  <div class="nav-buttons">
+    <button class="first"><img width="16" height="16" alt="First" title="First" src="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/first-7940844e0aabf8db4e1b8eafeb82c91dbe32b06a5099ac47ae7d6543cb68a780.svg" /></button>
+    <button class="previous"><img width="22" height="22" alt="Previous" title="Previous" src="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/previous-eb97336459d63571791fb19aabb76c3daf87e6d7ddf6b6b505297f3171c183d3.svg" /></button>
+    <button class="next"><img width="22" height="22" alt="Next" title="Next" src="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/next-8d55e0bc6c47e754076244441918363ffc1c10a851e7f700e0cc34a123138692.svg" /></button>
+    <button class="last"><img width="16" height="16" alt="Last" title="Last" src="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/last-73e85eefdf3cfe1a3ea694a27a2720c6d2d2fee06f8c4c7b211a31d56a174578.svg" /></button>
+  </div>
+  <div class="close-button">
+    <button class="close"><img width="22" height="22" alt="Close" title="Close" src="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/close-563671a9a513ec2227e2bffdd99e2812a89de76e7ff79532e4f55a8299209c74.svg" /></button>
+  </div>
+</div>
+
+<div class="wish-modal-popup">
+</div>
+
+</script>
+<script type="text/x-template" id="offline-message-tmpl">
+  <div class="offline">
+    <div class="offline-msg">
+      <p> Ugh, no internet. Youâ€™re in temporary read-only mode. </p>
+    </div>
+  </div>
+</script>
+
+
+
+
+      
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdn.polyfill.io/v2/polyfill.min.js?features=default,IntersectionObserver,IntersectionObserverEntry"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.19.0/URI.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.3/backbone-min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://resources.padletcdn.com/assets/jquery-ui-custom-1.12.1.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://resources.padletcdn.com/assets/touchpunch-custom-0.2.3.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/autolinker/1.6.0/Autolinker.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.6/jstz.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/trix/0.11.1/trix.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/riot/3.7.3/riot+compiler.min.js"></script>
+      <script src="https://web.archive.org/web/20180128052807js_/https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.21.0/raven.min.js" crossorigin="anonymous"></script>
+      <script>if(window.Raven)window.Raven.config('https://web.archive.org/web/20180128052807/https://7fbb2288ec794bef8ae6cad3689c63ba/@sentry.io/22080', { release: "3b4f7e6", environment: "production", ignoreErrors:["INVALID_STATE_ERR", "Generic use of __proto__ accessor not allowed", "InvalidStateError", "Blocked a frame with origin"] }).install()</script>
+        <script src="https://web.archive.org/web/20180128052807js_/https://assets.padletcdn.com/assets/doodles-de50c52870558c6907d8a316be5401bcc9db3ed05affee31c764e9c480a1047a.js"></script>
+  <script src="https://web.archive.org/web/20180128052807js_/https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+<script>
+    window.OneSignal = window.OneSignal || [];
+    OneSignal.push([
+      "init", {
+        appId: "b0aad08a-13c1-4cf1-86a7-ca3a98817783",
+        autoRegister: false,
+        notifyButton: {
+          enable: false
+        },
+        persistNotification: false,
+        safari_web_id: "web.onesignal.auto.28be2e0f-48c0-43fd-877a-95cc3c6fc0d9"
+      }
+    ]);
+
+    OneSignal.push(function() {
+      OneSignal.setDefaultTitle("Padlet");
+    });
+
+    OneSignal.push(function() {
+      OneSignal.on('notificationPermissionChange', function(e) {
+        if (e.to === 'denied') {
+          // // User blocked notification
+          // console.log('user blocked notifications');
+        }
+      });
+    });
+</script>
+
+<script>
+  OneSignal.push(function() {
+    OneSignal.deleteTags(["user_id", "tenant_id"]);
+  });
+</script>
+
+<script>
+window.ww || (window.ww = {});
+
+ww.notifications = {
+  // Background registering, will not show user any interface
+  registerForPushNotifications: function() {
+    OneSignal.push(function() {
+      OneSignal.registerForPushNotifications();
+    });
+  },
+  // Force subscribe, guiding user to resubscribe when they already said NO
+  subscribe: function() {
+    OneSignal.getNotificationPermission().then(function(permission){
+        var element;
+        if (permission === 'denied') {
+          element = document.createElement("div");
+          element.id = 'permission-bubble';
+          document.body.appendChild(element);
+          $('#permission-bubble').html(`
+          <div class="modal modal-chrome" >
+            <div class="triangle"></div>
+            <div class="modal-container">
+              
+              <p>Click the lock and give the browser permission to send you desktop notifications.</p>
+            </div>
+          </div>
+
+          <div class="modal modal-firefox" >
+            <div class="triangle"></div>
+            <div class="modal-container">
+              
+              <p>Click the â“? and give the browser permission to send you desktop notifications.</p>
+            </div>
+          </div>
+
+          <div class="modal modal-safari" >
+            <div class="modal-container">
+              <p>You&#39;ve blocked notifications.</p>
+              <p>Follow these instructions to allow notifications:</p>
+              <p>
+                <a class="unblock-pic" href="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/3/safari-unblock-8ae6cf424a3d4f48b6696007449e25043a4720f38d7721d2bd0d65ec6384c318.png" target="_blank">
+                  <img src="https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/assets/3/safari-unblock-8ae6cf424a3d4f48b6696007449e25043a4720f38d7721d2bd0d65ec6384c318.png">
+                </a>
+              </p>
+            </div>
+          </div>`);
+          $('#permission-bubble').on('click', () => {$('#permission-bubble').remove();});
+          $(document).on('click',() => {$('#permission-bubble').remove();});
+        } else {
+          OneSignal.push(function() {
+            OneSignal.registerForPushNotifications();
+          });
+        }
+    });
+  },
+  mute: function() {
+    OneSignal.push(["setSubscription", false]);
+  },
+  unmute: function() {
+    OneSignal.push(["setSubscription", true]);
+  },
+  check: function() {
+    OneSignal.push(function() {
+      OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+        return console.log('Debug Log: Push notifications are enabled:', isEnabled);
+      });
+      OneSignal.sendSelfNotification();
+    });
+  }
+};
+</script>
+
+<style>
+#permission-bubble .modal {
+  display: none;
+}
+#permission-bubble .modal .modal-container {
+  padding: 16px;
+}
+#permission-bubble .modal-chrome {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-top: 16px;
+  padding-left: 108px;
+}
+
+#permission-bubble .modal-firefox {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-top: 16px;
+  padding-left: 216px;
+}
+#permission-bubble .triangle {
+  border-bottom: 9px solid white;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  top: 4px;
+}
+#permission-bubble .modal-chrome .triangle {
+  margin-left: 14px;
+}
+#permission-bubble .modal-firefox .triangle {
+  margin-left: 42px;
+}
+.chrome #permission-bubble .modal-chrome {
+  display: flex;
+}
+.firefox #permission-bubble .modal-firefox {
+  display: flex;
+}
+.safari #permission-bubble .modal-safari {
+  display: flex;
+}
+#permission-bubble .modal-safari .unblock-pic {
+  display: flex;
+  margin-top: 8px;
+}
+#permission-bubble .modal-safari .unblock-pic img {
+  width: 336px;
+  height: 423.168px;
+}
+
+</style>
+
+  <script type="text/javascript">
+    (function() {
+      var _state = {"isPro":false,"user":{"id":256854271,"name":"","short_name":"Anonymous","username":null,"identities":{},"avatar":"https://web.archive.org/web/20180128052807/https://resources.padletcdn.com/avatars/alien1.png","lang":null,"status":null,"role":"member","email":"anonymous@padlet.com","is_teacher":null,"bio":"","paying":false,"tenant_id":1,"created_at":"2018-01-25T13:56:52.339Z","updated_at":"2018-01-25T13:56:52.339Z","registered_at":null},"wall":{"id":24857087,"name":"privacy","address":"about/privacy","namespace":"about","background":{"url":"https://web.archive.org/web/20180128052807/https://padlet-assets.storage.googleapis.com/bg/underwater.jpg","fill":"cover","luminance_name":"light","dominant_color":[255,255,255],"dominant_color_as_rgb":"rgb(255,255,255)"},"title":"Privacy Policy","description":"What you can and cannot do with padlet","portrait":"","headline":"Privacy Policy","viz":"stream","notify":false,"public_key":"dzosepjp6b67","domain_name":null,"created_at":"2016-03-28T23:40:06.956Z","updated_at":"2017-08-30T03:00:46.138Z","tenant_id":1,"links":{"show":"https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy","doodle":"https://web.archive.org/web/20180128052807/https://padlet.com/about/privacy","permanent":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67","feed":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/feed.xml","embed":"https://web.archive.org/web/20180128052807/https://padlet.com/embed/dzosepjp6b67","preview_embed":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/embeds/preview_embed","snap":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/screenshot.png","peek":"https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/static/padlets/dzosepjp6b67/exports/peek/3/705de760aedf85624377ec05cc77dc443c918f2f.jpg","print":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/print.html","spreadsheet":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/spreadsheet.xlsx","list":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/list.csv","screenshot":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/screenshot.png","document":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/exports/document.pdf","deeplink":"https://web.archive.org/web/20180128052807/https://padlet.link/dzosepjp6b67","qr_code":"https://web.archive.org/web/20180128052807/https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=https%3A%2F%2Fpadlet.com%2Fabout%2Fprivacy","bot_viewable":"https://web.archive.org/web/20180128052807/https://padlet.com/padlets/dzosepjp6b67/shares/classroom"},"font_id":1,"color_scheme":"light","public_tag_list":[],"public_tags":[],"show_author":false,"is_remakeable":false,"is_commentable":false,"new_wish_loc":"top","reaction_data":null,"is_reactable":false,"privacy_policy":{"id":24805611,"wall_id":24857087,"owner_id":80961422,"tenant_access":0,"users":{},"password_protected":false,"is_moderated":false,"is_listed":true,"is_shareable":true,"public":1,"public_access":1},"builder":{"avatar":"https://web.archive.org/web/20180128052807/https://padletuploads.blob.core.windows.net/aws/80961422/M75cNRTOFiql7O8hR-nq4A/5caf49c600e1fa4bf3d41d39c085d841.png","username":"about","name":"Padlet","id":80961422,"short_name":"Padlet","role":null,"display_name":"Padlet","registered":true}},"membership":"open","tenant":{"id":1,"name":"Padlet","membership":"open","domain_name":"padlet.com","is_native":true,"assets":{},"type":"native","enable_google_login":true,"enable_office365_login":null,"auto_create_accounts":false,"alternate_user_domain":null,"is_lti_ready":false},"isReadOnly":false,"isFirstView":false,"isEmbedded":false,"isLikedByCurrentUser":false,"tryComments":true,"partner":null,"variant":["bot"],"locale":"en","canIWrite":false,"canIModerate":false,"canIAdminister":false,"amIOwner":false}
+      _.extend(Wallwisher, {
+        isPro: _state.isPro,
+        user: new Wallwisher.Models.User(_state.user),
+        wall: new Wallwisher.Models.Wall(_state.wall),
+        membership: _state.membership,
+        tenant: _state.tenant,
+        ltiConsumer: _state.ltiConsumer,
+        isFirstView: _state.isFirstView,
+        isEmbedded: _state.isEmbedded,
+        isLikedByCurrentUser: _state.isLikedByCurrentUser,
+        tryComments: _state.tryComments,
+        partner: _state.partner,
+        expandedPostId: _state.expandedPostId,
+        variant: _state.variant,
+        locale: _state.locale,
+        canIWrite: _state.canIWrite,
+        canIModerate: _state.canIModerate,
+        canIAdminister: _state.canIAdminister,
+        amIOwner: _state.amIOwner,
+        isReadOnly: _state.isReadOnly
+      })
+    })()
+  </script>
+  <script src="https://web.archive.org/web/20180128052807js_/https://assets.padletcdn.com/assets/3/surface/show-b1a8e50c5b75ee8033aec73b30c98e2efd55ebf1a995631ef1b59edd3a12a574.js"></script>
+  <script src="https://web.archive.org/web/20180128052807js_/https://assets.padletcdn.com/assets/packs/surface-ee2eccdf754779ab4ed0.js"></script>
+  <script defer="defer">
+//<![CDATA[
+riot.compile("https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/static/e01241227/padlets/fragments/posts_tags?locale=en",function(){riot.mount("padlet-posts")})
+//]]>
+</script>
+  <script defer="defer">
+//<![CDATA[
+ww.tagman.compile("https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/static/e01080440/padlets/fragments/panel_tags?locale=en", "padlet-panels", {mount: true})
+//]]>
+</script>
+    <script defer="defer">
+//<![CDATA[
+ww.tagman.compile("https://web.archive.org/web/20180128052807/https://assets.padletcdn.com/static/e01020056/padlets/fragments/file_picker?locale=en", ["padlet-file-picker","padlet-file-picker-confirm"], {mount: false})
+//]]>
+</script>
+  <script defer="defer">
+//<![CDATA[
+ww.tagman.compile("https://web.archive.org/web/20180128052807/https://padlet.com/_/e01020056/padlets/fragments/user?locale=en", "padlet-user", {mount: true})
+//]]>
+</script>
+  
+  <script src="https://web.archive.org/web/20180128052807js_/https://www.google.com/recaptcha/api.js" data-turbolinks-eval="false" defer="defer"></script>
+  <script>
+(function(){var e,t;window.ww||(window.ww={}),(t={}).onExecute=function(e,t){return $(e).on("ww.recaptcha_submitted",function(e){return t(e.recaptchaToken)})},t.reset=function(){return"undefined"!=typeof grecaptcha&&null!==grecaptcha?grecaptcha.reset():void 0},(e=document.createElement("style")).innerHTML=".grecaptcha-badge { visibility: hidden !important;}",document.head.appendChild(e),ww.recaptcha=t}).call(this);
+  </script>
+
+        <script>
+    $(function() { ww.boot() })
+  </script>
+  <script>
+  if(window.ww == undefined) ww = {}
+  ww.translations = {"Are you sure you want to delete this post? This cannot be undone!":"Are you sure you want to delete this post? This cannot be undone!","Title":"Title","Write something ...":"Write something ...","Awaiting approval":"Awaiting approval","Requires approval":"Requires approval","You are not allowed to edit this post":"You are not allowed to edit this post","You are not authorized to make changes to this post.":"You are not authorized to make changes to this post.","Oops! Something went wrong. Please try again.":"Oops! Something went wrong. Please try again.","File is too big":"File is too big","Error uploading file. Please try again.":"Error uploading file. Please try again.","Canceled upload":"Canceled upload","Bummer! The post you are looking for does not exist.":"Bummer! The post you are looking for does not exist.","Refresh":"Refresh","Padlet updated elsewhere.":"Padlet updated elsewhere.","Applying changes made elsewhere ...":"Applying changes made elsewhere ..."}
+  ww.$t = function(phrase) {
+    return ww.translations[phrase] || phrase
+  }
+</script>
+
+  <script>
+    riot.util.tmpl.errorHandler = function(err) {
+      console.error(err.message + ' in ' + err.riotData.tagName) // your error logic here
+    }
+  </script>
+    <script>!function(e,o,n){window.HSCW=o,window.HS=n,n.beacon=n.beacon||{};var t=n.beacon;t.userConfig={},t.readyQueue=[],t.config=function(e){this.userConfig=e},t.ready=function(e){this.readyQueue.push(e)},o.config={docs:{enabled:!0,baseUrl:"//web.archive.org/web/20180128052807/https://padlet.helpscoutdocs.com/"},contact:{enabled:!0,formId:"62dd0ee8-21e9-11e6-aae8-0a7d6919297d"}};var r=e.getElementsByTagName("script")[0],c=e.createElement("script");c.type="text/javascript",c.async=!0,c.src="https://web.archive.org/web/20180128052807/https://resources.padletcdn.com/assets/helpscout-1.2.11.js",r.parentNode.insertBefore(c,r)}(document,window.HSCW||{},window.HS||{});</script>
+  <script>
+    HS.beacon.config({modal: true, poweredBy: false})
+  </script>
+
+  <script data-turbolinks-eval="false">
+  var _qevents = _qevents || [];(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20180128052807/https://secure/" : "https://web.archive.org/web/20180128052807/http://edge/") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);})();_qevents.push({qacct:"p-WTaAtAPEgE_YR"});
+</script>
+<noscript>
+  <img alt="" src="//web.archive.org/web/20180128052807im_/https://pixel.quantserve.com/pixel/p-WTaAtAPEgE_YR.gif" , style="display:none;width:1px;height:1px" width="1" height="1"/>
+</noscript>
+  <script data-turbolinks-eval="false">
+  _atrk_opts = {atrk_acct:"4vU8j1a8Dy00yS", domain:"padlet.com",dynamic: true};
+  (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://web.archive.org/web/20180128052807/https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript>
+  <img alt="" src="https://web.archive.org/web/20180128052807im_/https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=4vU8j1a8Dy00yS" , style="display:none;width:1px;height:1px" width="1" height="1"/>
+</noscript>
+
+    
+    
+  </body>
+</html>
+<!--
+     FILE ARCHIVED ON 05:28:07 Jan 28, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:49:23 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 220.026 (3)
+  esindex: 0.011
+  captures_list: 808.599
+  CDXLines.iter: 15.594 (3)
+  PetaboxLoader3.datanode: 207.736 (4)
+  exclusion.robots.fetch: 563.941 (4)
+  exclusion.robots: 564.704
+  exclusion.robots.policy: 0.377
+  RedisCDXSource: 3.33
+  PetaboxLoader3.resolve: 91.753
+  load_resource: 135.076
+-->

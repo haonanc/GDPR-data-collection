@@ -1,0 +1,94 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personal information we collect through public websites operated by Brivo.
+ 
+ 
+Personal information Subscribers or Subscriber Administrators input, upload or otherwise capture into Brivo services and systems.
+Activity and event data (including video) that is automatically collected by Brivo’s services in our role as a Data Processor.
+ 
+ 
+COLLECTION AND USE OF BUSINESS DATA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personal information you or your Administrators input, upload or otherwise capture into Brivo services and systems.
+Activity and event data (including video) that is automatically collected by Brivo’s services in our role as a data processor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brivo collects information for the purposes of providing Brivo Onair services. We collect information in the following ways:
+Information provided by Subscribers: Brivo Onair provides the capability for Subscribers to store basic personal information such as an individual’s name, credential number, email address, phone number  and photograph. This information is used to correlate security events to the correct individual, as well as to enable notifications and Brivo Onair Pass functionality. Though the system has the capability to store a number of personal data elements, these items are not essential for operation of the system.
+Information generated from events: Brivo Onair collects access control and video event data. For example, Brivo Onair records that an access card was used at a particular door at a certain time. This event may also be recorded on video, if that service is active. Through correlation with the information our Subscribers provide, we can tie that access event and video to a particular individual’s credential.
+Log Information: Brivo Onair records the actions of system Administrators, as well as the status and the settings of various devices that have been configured to operate with Brivo Onair.  Log information is used by the Data Controller to review the activity of Administrators.
+Mobile Applications: Brivo provides mobile applications which can optionally be used with Brivo Onair. The Brivo Onair Mobile App (BOMA) provides administrative access to the system under the same conditions as using a web-browser. Brivo Onair Pass (BOP) is a form of digital credential used for physical access to a building. We collect information about the location of the device and information about Brivo Tri-Tech readers within Bluetooth range of the application to simplify connectivity to open the door.  In order to provide these services Brivo collects various types of device, WiFi access point data and Bluetooth data. In order to use these services various features such as location services, WiFi and Bluetooth communication will need to be activated on your mobile device.
+ 
+ 
+Enable event notifications and Brivo Onair Pass functionality.
+Contact you to inform you of product and service enhancements that we think may be of interest to you.
+Provide important service notices regarding the Brivo Onair application and related devices.  While you use Brivo services, it will not be possible to opt out of communications regarding service notices.
+ 
+ 
+ 
+ 
+ 
+Background:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Location & Transfer of Information
+ 
+Data Safeguards
+ 
+Data Retention
+ 
+Dispute Resolution
+Brivo commits to resolve complaints about our collection or use of your personal information. Individuals with inquiries or complaints should contact Brivo’s Data Protection Officer at privacy@brivo.com or +1 301-664-5277.
+ 
+Contacting us
+ 
+Bethesda MD, 20814 USA
+Changes to this Privacy Statement
+ 
+Capitalized terms in this Privacy and Security Policy have the following meanings:
+“Account Data” is data collected by Brivo in our role as a Data Processor based on a contracted service relationship.
+“Administrator(s)” are individuals with a log-on to the Brivo Onair application.
+“Applicants” are prospective employees or partners seeking to have a business relationship with Brivo.
+“Business Data” means personal data collected through your interaction with our websites and via non-contractual sales, marketing and general business contact activities conducted by you and Brivo.
+“Customers” are end-users of Brivo products.
+“Data Controller” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+“Data Processor” Processor means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+“Data Subject” means an identified or identifiable natural living person. An identifiable person is one who can be identified, directly or indirectly, by reference to a name, or to one or more factors unique to his or her personal physical, psychological, mental, economic, cultural or social characteristics.
+“Employee” means an employee (whether temporary, permanent, part-time, or contract), former employee, independent contractor, or job applicant of Brivo or any of its affiliates or subsidiaries, who is also a resident of a country within the European Economic Area.
+“Europe” or “European” or “EU” refers to a country in the European Union.
+“Personal Data” as defined under the European Union Directive 95/46/EC means data that personally identifies or may be used to personally identify a person, including an individual’s name in combination with country of birth, marital status, emergency contact, salary information, terms of employment, job qualifications (such as educational degrees earned), address, phone number, e-mail address, user ID, password, and identification numbers. Personal Data does not include data that is de-identified, anonymous, or publicly available. For Switzerland, the term “person” includes both a natural person and a legal entity, regardless of the form of the legal entity.
+“Sensitive Data” means Personal Data that discloses a Data Subject’s medical or health condition, race or ethnicity, political, religious or philosophical affiliations or opinions, sexual orientation, or trade union membership.
+ 
+This Privacy and Security Policy is effective as of May 25th 2018.

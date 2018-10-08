@@ -1,0 +1,27 @@
+Privacy Policy
+The following document describes the privacy policy of "ALLIT SERVICE LLC." for products and sites that are marketed under the brand name "Zillya!".
+General conditions
+The company "ALLIT SERVICE LLC." appreciates the personal information of its customers and partners. All information collected, both personal and commercial, used either for technical purposes (to identify our customers and providing them the best service) or under contractual relationships with customers and partners (for the fulfillment of mutual obligations).
+PC Products
+In PC products, company "ALLIT SERVICE LLC." receives the following contact information from users: first and family name, email address(-es), user’s geolocation (city, country), data about used company's products. For correct functioning of the server, for databases’ and software modules’ update, information on some aspects of the computer's configuration transmitted on the server, which does not identify a user uniquely. This information is used later to interact with users when they contact technical support and to provide promotional information if the user did not explicitly waive its receipt. Technical support may request from users detailed information concerning the configuration of their computers and operating systems, installed on them. This information is needed for more accurate identification of the problem that user has with usage of the company's products, and to develop the most effective recommendations for its elimination.
+Mobile Products
+In mobile products, company "ALLIT SERVICE LLC." collects data of the detected threats, as well as with the help of Google Analytics services, collects data about how exactly users use the application (this option can be disabled in the app settings). This information is collected to improve the company's mobile products.
+Publicity use products
+The company "ALLIT SERVICE LLC." does not disclose the fact of Zillya! products use without the consent of their clients.
+Online Resources
+In addition, the company "ALLIT SERVICE LLC." collects and stores information about all visitors of its online resources. This information contains data about the IP-address of the visitor, the browser, address of the requested resource, time of resource request, the operating system of the user. This information is stored in a web server logs and is used for analysis of audience that visits a company's resources.
+The information provided by customers and partners during completing the various web forms, is collected in special databases and is used for licensing (non-profit organizations), for identification of users when they contact technical support. "ALLIT SERVICE LLC." does not provide this information to any third parties.
+User makes all decisions oneself, regarding whether to indicate or not any particular information.
+Online files check
+When submitting files for virus checking online, visitors of web resource of the company understand that at the time of uploading the files to the server of "ALLIT SERVICE LLC.", file’s content can be intercepted and read by third parties without the knowledge of the company. When downloading a file to online virus scan using company’s resources, not only the uploaded file itself becomes available to the company, but the full path to it on user’s computer. The company claims that does not provide the information contained in these files to anyone except of partners, with similar standards of ensuring privacy. And within the company, the access to the information has a limited number of employees, whose duties include the analysis and processing of suspicious files in order to add the appropriate signatures in the viruses database. The company is not responsible for the information contained in files that are downloaded by users to check for viruses on web-resources of the company, meaning that users do these actions consciously.
+Legislation
+Please note that we may disclose your personal information if required to do so by law, at the request of government agencies or police authorities.
+Additional questions
+If customer has any questions or concerns about our privacy policy, please contact us: http://zillya.com/support or help@zillya.com Physical Mailing Address is 04114, Ukraine, Kyiv, Avtozavodska Street, 54/19.
+Forum
+Remember that the information that you publish on the forum, cannot be regarded as confidential. Be careful, because this information may be collected and used by others.
+More information
+This privacy policy was last updated on March 14th, 2016. Our privacy policy may change time from time. If we make any substantial changes to our policy, we will place an appropriate notice on our website or apps of the company. If the changes will materially affect registered users, we will send a notice to the customers by email, or a text notification.
+Copyright © 2009 - 2018
+ALLIT Service LLC.
+All rights reserved

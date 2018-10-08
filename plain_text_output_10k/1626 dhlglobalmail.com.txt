@@ -1,0 +1,59 @@
+Privacy Policy
+Personal Data
+Personal data is specific information about personal or factual characteristics relating to a certain natural person or a natural person who can be specified. This includes information such as your real name, address, telephone number and date of birth. Information which cannot be directly linked to your real identity - such as favorite websites or number of users of a site - is not considered personal data.
+Collection and Processing of Personal Data
+DHL is committed to preserving the privacy of users of our websites. When you visit our web pages, our web servers always temporarily save for security purposes the connection data of the computer connecting to our site, a list of the web pages that you visit within our site, the date and duration of your visit, the identification data of the type of browser and operation system used as well as the website through which you linked to our site. Additional personal information such as your name, address, telephone number or e-mail address is not collected unless you provide this data voluntarily, e.g. while completing an online contact form, as part of a registration, survey, competition, fulfillment of contract or an information request.
+Certain areas of the DHL websites including, but not limited to, MyDHL require registration or a password for access. Information obtained from users of these areas may also be used for DHL's marketing purposes within the limits of national law. DHL provides a right of access and rectification of personal data under the applicable legislation.
+Certain shipment data will be provided to the authorities of the country of transit or destination for customs and tax clearance or for security screening, as required by the laws of such country. The information provided would usually include: shipper name and address, receiver name and address, description of the goods, number of pieces, weight and value of shipment.
+Utilization and Passing On of Personal Data
+We use the personal data which you have made available to us exclusively for technical administration of the web pages and to fulfill your wishes and requests - thus primarily for fulfillment of a contract concluded with you or to answer your request. In turn, it helps us improve the services we offer to you, and to make our website's content and services easier to use and more appropriate to you.
+Only when you have previously granted your approval or - if so stipulated by legal regulations - have not raised an objection do we also use this data for product-related surveys and marketing purposes.
+DHL does not share, sell, transfer or otherwise disseminate your personal data to third parties and will not do so in future, unless required by law, unless required for the purpose of the contract or unless you have given express consent to do so. For instance, it may be necessary to pass on your address and order data to our contractors when you order products.
+Information from DHL
+DHL would like to contact you in order to provide you with the latest information about updates to our website or our offers, news, products and services. If you contact or register with DHL on our web pages, we sometimes request that you indicate whether or not you would like to receive direct advertising material from us. If you are already a customer of DHL, you will naturally continue to receive necessary information about important changes in connection with existing contracts (e.g. rate changes).
+Use of Web Tracking
+We use tracking software to determine how many users visit our website and how often. We do not use this software to collect individual personal data or individual IP addresses. The data are used solely in anonymous and summarized form for statistical purposes and for developing the website.
+Use of Cookies
+"Cookies" are small files that enable us to store information related to your PC and you, the user, specifically, while you visit one of our websites. Cookies help us to determine how frequently our internet pages are accessed as well as the number of users. And they help us configure our offers so that they are as convenient and efficient as possible for you.
+On the one hand, we use what are called "session cookies", those that are stored exclusively for the duration of your visit to one of our internet pages. On the other, we use "persistent cookies" for retaining information about visitors who repeatedly access one of our internet pages. The purpose of using cookies is to be able to offer you optimal user guidance as well as to "recognize" you and thus be able to present (as much as possible) diversified internet pages and new contents during repeated use.
+Generally, we do not create an individual profile of your online activities. The content of a persistent cookie is limited to an identification number. Name, email address, IP address, etc., are not saved on the majority of our sites.
+There is one exception:
+Google Analytics Cookies. A small number of countries may use Google Analytics cookies on a small scale for specific local purposes. These cookies use your IP address as recognition, however do not identify you as an individual. In other words, information is collected in an anonymous form. The cookies collect information about how visitors use our local sites and use the information to compile reports and to help us improve local sites.
+You can learn more about Google Analytics in the DHL Table of Cookies below.
+Alternatively, to opt out of being tracked by Google Analytics across all websites, visit:
+DHL Table of Cookies
+We have provided details of all cookies used on DHL websites in the table below:
+Cookie
+Name
+Purpose
+_utma
+_utmb
+_utmc
+_utmv
+_utmz
+Certain countries also use Google Analytics for specific local purposes. These cookies are used to collect information about how visitors use our local sites. We use the information to compile reports and to help us improve local sites. The cookies collect information in an anonymous form, including the number of visitors to the local site, where visitors have come to the local site from and the pages they visited.
+More Info about Privacy at Google
+ColdFusion Session
+CFID
+CFToken
+These cookies provide a unique ID for the duration of your session on the website. It does this to track your path through the website and helps the website perform to the best of its ability. CFID is a sequential client identifier and CFToken is a randon-number client security token.
+More Info about ColdFusion at Adobe Products
+Load Balancer
+sessionid
+ 
+locale
+ 
+How to Manage Cookies
+Using our products and services without cookies is also possible. In your browser, you can deactivate the saving of cookies, limit them to particular websites, or set the browser to notify you when a cookie is sent. You can also delete cookies from your PC hard drive at any time (file: "cookies"). Please note that in this case you will have to expect a limited page presentation and limited user guidance.
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit:
+Please remember that if you delete your cookies, or use a different browser or computer you will need to set your opt-out status again.
+You can also choose to opt out of some or all of the advertising cookies set on your PC by visiting the Network Advertising Initiative (NAI) website
+Not everyone who visits our site will do so using a web browser. For example, some users will access DHL websites or applications using a mobile device. If so, it may not be possible to disable cookies or adjust web browser settings.
+Security
+DHL takes all of the necessary technical and organizational security measures to protect your personal data from being lost or misused. For instance, your data is saved in a secure operating environment which is not accessible to the public. In certain cases, your personal data is encrypted by Secure Socket Layer technology (SSL) during transmission. This means that an approved encryption procedure is used for communication between your computer and the DHL servers if your browser supports SSL.
+Should you wish to contact DHL by e-mail, we would like to point out that the confidentiality of the information sent cannot be guaranteed. The contents of e-mail messages can be read by third parties. We therefore recommend you send us confidential information only by post.
+Right to Information
+Upon written request, we will inform you what personal data (e.g. name, address) we have saved on you.
+Changes to Data Protection Statement
+We keep our data protection statement under regular review.
+DHL reserves the right to change its data protection statement at any time with or without prior notice. Please check back frequently to be informed of any changes. By using DHL's websites you agree to this Privacy Policy.

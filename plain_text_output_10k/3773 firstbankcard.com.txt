@@ -1,0 +1,42 @@
+Effective Date: February 28, 2017.
+The privacy and security of your information is very important to First National Bank of Omaha.  This Privacy Policy explains the categories of information that we collect, summarizes the ways that we collect information, provides examples of how we use the information that we collect, and discloses how we conduct online tracking.
+Please note that this Privacy Policy applies only to this website and extends neither to other websites, including websites owned and controlled by our partners or third-party websites for which we have provided links, nor to any social media platforms, which are governed by their own terms of use and privacy policies.
+Additionally, we are deeply committed to maintaining strict standards of security to help protect the personal and business information that we collect. You can learn more about how we protect information in the Information Security Center.
+Categories of Information that We Collect
+We may collect certain types of anonymous information from computers and mobile devices that visit our website. This type of information cannot be used to identify a particular individual or household. Examples of the types of anonymous information we collect include IP address, internet service provider, location information, date and time of the visit to our website, the type of browser, computer, or mobile device used to access our website, and the pages viewed and items clicked on during the visit.
+We also collect personal information provided to us directly by our customers as well as individuals that apply for our products, respond to our surveys, request information about our products or services, or otherwise voluntarily provide us with their personal information. Examples of this type of information include name, address, email address, phone number, date of birth, social security number, or other identifying information.
+Ways That We Collect Information
+We collect anonymous information about visitors to our website using cookies. A cookie is a small file placed on a computer or mobile device by a webpage server that allows the webpage server to determine things like how much time each visit by the computer or device lasts and what the computer or device is viewing and clicking on during each visit.
+We collect personal information from individuals that provide this information directly to us. This includes information that individuals supply to us when they apply for our products, information that our customers provide us when they interact with customer support or enroll in our online or mobile services, and other information that we receive in response to surveys or other requests for information.
+How We Use Information We Collect
+We provide each of our customers with a Privacy Notice explaining how we collect, use, and share information about that customer as well as the steps that the customer can take to limit sharing of that information. Customers can view the Privacy Notice that applies to their account through one the following links (customers with multiple accounts may have more than one applicable Privacy Notice):
+Consumer Retail Accounts (including payroll cards, but not consumer credit cards)
+We may also use information that we collect to:
+Comply with our legal and regulatory obligations;
+Detect, investigate, and prevent activity that may be illegal, violate our policies, cause harm to our operations, or compromise our security;
+Optimize, improve, and enhance our products, services, and operations;
+Provide individuals with, or evaluate their eligibility for, products and services that they have requested from us;
+Communicate with individuals about their accounts or transactions that they have made with us;
+Provide important information regarding our products or services, including changes to our policies or other terms, conditions, or agreements;
+Allow participation in surveys, sweepstakes, contests, and other promotions; and
+Consistent with legal and regulatory requirements, required disclosures, and choices and controls that may be available:
+Send offers and promotions for our products and services or for other products and services that may be of interest;
+Personalize online or mobile content and user experiences;
+Verify the identity or location of an individual for security, fraud prevention and other risk control purposes; and
+Provide advertising based on activity on our website.
+Online Tracking and Do-Not-Track Signals
+We use cookies to help us personalize and improve the website and mobile content we provide. The cookies that we use do not track activities that occur on websites other than our own. Our vendors, Adobe Analytics , IBM TeaLeaf , and OpenText Optimost , use cookies to provide us with anonymous information that assists us in optimizing our website so that we can serve relevant content to our visitors.
+While most web browsers are automatically set to accept cookies, web browser preferences can be changed to decline cookies. Declining cookies, however, will likely disable some of our website’s functionality. While cookies are not required to browse our website, they are required for customers to access their accounts through our online or mobile services.
+Do-Not-Track signals are certain consumer browser settings that request that a web application disable its tracking of an individual user. While our website does not currently recognize Do-Not-Track signals, as mentioned above, we do not track activities that occur on websites other than our own and declining to accept cookies will ensure that online activities on our websites are not tracked.
+Children's Online Privacy Protection Act
+We recognize that protecting children's identities and privacy is important. We do not knowingly market to or solicit information from children under 13 without parental consent.
+USA Patriot Act
+To help the government fight the funding of terrorism and money laundering activities, the USA Patriot Act requires all financial institutions to obtain, verify, and record information that identifies each person (including business entities) who opens an account.
+What this means to you: When you open an account, we will ask for your name, physical address, date of birth, tax payer identification number, and other information that will allow us to identify you. We may also ask to see your driver's license or other identifying documents. We will let you know if additional information is required.
+Notice of Changes.
+We may change this Privacy Policy at any time. The most current version of this Privacy Policy will be posted and available on this website and will include any revisions or material changes that have been made since the Effective Date. Reviewing this Privacy Policy online from time to time will allow you to determine whether there have been any revision or material changes.
+Accessibility Policy
+First Bankcard is committed to facilitating the accessibility of its websites for all people with disabilities.  Through our website redesign, we will be implementing relevant portions of the World Wide Web Consortium's Web Content Accessibility Guidelines (WCAG) 2.0, Level AA as our web accessibility standard.  Our efforts are ongoing and we welcome feedback; comments and concerns should be sent to yourbankcard@fnni.com or 888-978-5296.
+Copyright ©
+First Bankcard, a division of First National Bank of Omaha. All Rights Reserved.
+1620 Dodge St. Omaha, NE 68197

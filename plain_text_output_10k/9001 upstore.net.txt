@@ -1,0 +1,68 @@
+Privacy Policy for Ecommerce Stores
+Privacy Policy for Ecommerce Stores
+Building trust with website visitors is very important for any site, but for an e-commerce store, it’s even more crucial.
+Including a Privacy Policy not only builds trust with your customers, but it also ensures that you stay in line with your legal obligations.
+Contents
+So while you may not think your e-commerce store needs a Privacy Policy, it most definitely does.
+First, we’ll go through the law that you need to comply with, then look at how you can comply.
+What’s the law?
+If you are based in the US, there is no general privacy law or data protection law for e-commerce stores or websites. However, the California Online Privacy Protection Act of 2003 requires that operators of commercial websites are required to display a Privacy Policy.
+This legal agreement must detail:
+The kinds of information gathered (by your website)
+How the information may be shared or disclosed
+The process your customers can follow to review and change the information you have on them
+The policy’s effective date and a description of any changes since then
+If you are based in the US, it’s highly likely that you have Californian customers, so it’s important to comply with the Californian state law.
+The law in the UK and Europe is similar, but more comprehensive. So if there’s a possibility that some of your customers are from the UK or Europe, ensure that you follow these privacy laws.
+The European Union set out the EU Data Protection Directive 1995 , and member states like the UK have implemented this directive in their local laws.
+In the UK, this Directive is covered by UK’s privacy law, the Data Protection Act 1998 . The data collection principles covered by both of these pieces of legislation are:
+Customers must be notified when you are collecting their data (do that through a Privacy Policy agreement hosted and linked from your online store pages)
+Personal data should only be collected for specific (and lawful) purposes
+The data collected should be adequate for the purpose
+Personal data should be accurate and kept up to date
+Personal data should not be kept for longer than necessary
+Appropriate security measures should be put in place to protect customer data
+Personal data must not be transferred to a country or territory outside the European Economic Area unless that country or territory also ensures an adequate level of protection for that data
+Obtain consent when they collect, use or disclose customer personal information
+Supply customers with a product or a service even if they refuse consent for the collection, use or disclosure of personal information, unless that information is essential to the transaction
+Collect information by fair and lawful means
+Have personal information policies that are clear, understandable and readily available
+Now let’s look at what types of information you may be collecting, and how you can comply with the above laws.
+The Privacy Policy for your store
+What to add in the agreement
+It’s certain that your e-commerce store will collect information from your customer as soon as they browse your store, such as their IP address, what time they opened your store page, how long they stayed on a specific page (aggregated data or not).
+As an example, if you use Google Analytics: this tool from Google collects, even more, information, such as what pages they browsed through, their location, and even their gender.
+Here are some examples of some of the things Google Analytics collects for an e-commerce store: pages / session, avg. session duration, language, country / territory, and so on.
+If you use the Shopping Behavior Dashboard, it can tell you more data: sessions with views on your product pages, sessions with “Add to Cart” actions, the session with transactions recorded, devices used by your customers, and so on.
+But then, when your customer created an account or fills in their billing or shipping details to purchase an item, you’ll be collecting their name, physical address, email address, phone number, and credit card details, as well as anything else that you require them to provide before you can ship their item.
+A key thing that you can do to protect yourself and your customers are to set up a Privacy Policy agreement. It needs to cover:
+That you will be collecting all of these types of information
+How you will protect and store the information
+What you will do with that information and in what circumstances you will release it
+How the customer can review the information you hold on them
+How the customer can change or delete that information
+The policy’s effective date and a description of any changes since then
+Dispute resolution information if your customer wants to lay a complaint or raise an issue
+Your Privacy Policy agreement should be a separate document to your Terms and Conditions agreement on the pages of your online store.
+First, this is because having separate documents makes it easier for your customers to find your legal agreements.
+Second, this is also important if you have any customers from the US, as you’ll need to comply with the California Online Privacy Protection Act of 2003, which requires that you must have a distinctive link to your Privacy Policy itself (rather than the agreement being hidden within another document).
+Remember to display it prominently and frequently so that your customers can find it and read it:
+How to show the agreement
+One of your main considerations may be ensuring that your customers can easily navigate through your store, as you don’t want their buying process to be interrupted. Displaying your Privacy Policy in a prominent way does not need to interfere with your customer’s path through your e-commerce store.
+You may be tempted to display it in small writing down the bottom of your page like you have probably seen in many other e-commerce stores.
+This is called a browsewrap method of getting agreement to your Privacy Policy, where your customers are presumed to have read your agreement by browsing your store.
+Here’s an example from Amazon on what a browsewrap is:
+A better way (from a legal perspective) is to have your users actually click to show their agreement (or consent) in some way.
+This is called a clickwrap method. You can do this with a tick box or pop up, but for an e-commerce store an unobtrusive but clear tick box is likely the better option.
+When your user signs up for an account or fills in their billing and shipping information, include a tick box where they can click “I agree to the [Store Name] Privacy Policy“. Ideally, include a link to the legal agreement directly from there, at the check box.
+Here’s an example of that kind of check box from The Weather Channel, where users must check the box before creating an account:
+Another example is from YouTube, when creating a new account:
+Since your online store is likely collecting some information from your customers before they even decide to purchase an item, it’s a good idea to also display this agreement on your store pages in a prominent and frequent way.
+Here’s an example from The Telegraph where their Privacy Policy is displayed at the top of their page, rather than at the bottom:
+Your e-commerce store definitely needs a Privacy Policy, as you will certainly be collecting customer information in some form or another. Make sure that you display your legal agreements in a place where your customers can find it and easily agree to it, and ideally with a clickwrap method.
+By Leah Hamilton
+Qualified Solicitor. Writer.
+Apr 16, 2018
+This article is not a substitute for professional legal advice. This article does not create an attorney-client relationship, nor is it a solicitation to offer legal advice.
+Start here
+Disclaimer: Legal information is not legal advice, read the disclaimer .

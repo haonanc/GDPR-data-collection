@@ -1,0 +1,62 @@
+Professional, simple and secure apps for small businesses and nimble teams
+Access & Edit Files
+ 
+ 
+ 
+ 
+Information that We Collect
+ 
+Personally Identifiable Information
+ 
+Non-Personally Identifiable Information
+ 
+How We Use Your Information
+ 
+To provide information about us and our Services to you, upon request;
+To authenticate your access to certain portions of the Site and confirm your assent to our Terms of Use or other agreements, such as end user license agreements ("EULAs") (Terms of Use, EULAs, and such other agreements, "Ancillary Agreements");
+To personalize your experience on the Site;
+To improve the Site, the Services, the RightSignature Applications, the Linked Sites, and the Widgets;
+To process specific inquiries that you make of us;
+To process and confirm the execution of documents;
+To comply with the Uniform Electronic Transactions Act, 7A U.L.A. 225 (2002) and Electronic Signatures in Global and National Commerce Act (ESIGN), Pub. L. No. 106-229; 114 Stat. 464 (2000) (codified as amended at 15 U.S.C. §§ 7001–06 (2006));
+ 
+Personal Information Shared with Contractual Counterparties
+If you subscribe to use our Services, your Personally Identifiable Information will be shared with counterparties to the documents that you electronically sign using our Services. Upon execution of a document, all parties to a document ("Signing Parties") receive a copy of the signed document, an appended signature certificate (a "Signature Certificate"), and certain metadata. The signed document, Signature Certificate, and related metadata may contain the following information about the Signing Parties: names; email addresses; IP addresses; drawn signatures; and checksums, which may represent, but not reveal, biometric signature data, system preferences, browser preferences, installed plug-ins, local storage preferences, screen resolutions, local time zones, font listings, and user agent information (such information, "Checksum Metadata"), as well as any Personally Identifiable Information included in the document.
+ 
+Resale or Disclosure of Personally Identifiable Information to Third Parties
+We do not sell, rent, loan, trade or lease any Personally Identifiable Information collected on the Site, unless you request us to contact you. On occasion, we sell, rent, loan, trade or lease Non-Personally Identifiable Information collected on the Site. We also periodically mine anonymous statistical information (i.e. Non-Personally Identifiable Information) and make it available to third parties and our business partners.
+ 
+Use of Personally Identifiable Information by Signing Parties
+ 
+Browser Information Collected on the Website
+ 
+Use of Cookies
+ 
+Information Sharing for Analytics and Advertising
+We use snippets of analytics code written in the Javascript language in our web pages, cookies, and web beacons to track visitors to the Site, provide us with analytics for improving our Site and the Services, and for buying, selling, and delivering online advertising about our Site, the Services, the RightSignature Applications, the Linked Sites, and the Widgets. We do not share Personally Identifiable Information with our third-party analytics and third-party advertising partners. Generally, when you visit the Site, or use the Services, the RightSignature Applications, the Linked Sites, and the Widgets, certain information, including the web address of the page that you visit and your IP address, may be transmitted to our analytics and online advertising partners. Cookies and Javascript code is used to track visitors' movements on the Site, what pages are viewed, and how long visitors spend visiting each page. We may retain this information indefinitely.
+ 
+Google (information about how your information is shared with and used by Google for analytics and online advertising purposes and how you may opt out is available here: https://support.google.com/analytics/answer/6004245 and http://www.google.com/intl/en/policies/technologies/ads/ );
+Appnexus (information about how your information is shared with and used by Appnexus for our online advertising purposes and how you may opt out is available here: http://www.appnexus.com/platform-policy ); and
+ 
+Do Not Track Information
+ 
+Confidentiality and Security of Personally Identifiable Information
+ 
+Email
+ 
+ 
+ 
+When you sign up to receive email from us, you can select either plain text or HTML (with images) format. If you select the HTML format, we may place embedded pixels or other technologies to determine whether or not readers viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer.
+ 
+ 
+Protection of your Personally Identifiable Information
+ 
+Retention and Deletion
+ 
+Your California Privacy Rights
+ 
+Updates and Changes to This Privacy Policy
+ 
+Contacting Us
+ 
+ 

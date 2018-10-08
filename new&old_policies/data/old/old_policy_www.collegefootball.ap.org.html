@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=665;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEPUFdACQEAXFNUAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+<link href="https://web.archive.org/web/20180209005747im_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/touch-icon.png" rel="apple-touch-icon"/>
+<link rel="shortlink" href="/web/20180209005747/https://www.collegefootball.ap.org/node/3091"/>
+<link rel="canonical" href="https://web.archive.org/web/20180209005747/http://www.collegefootball.ap.org/privacy-policy"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20180209005747im_/https://www.collegefootball.ap.org/sites/collegefootball/files/AP_Favicon2_0.png" type="image/png"/>
+<meta name="description" content="Your privacy rights"/>
+<meta name="keywords" content="NCAA, AP Top 25, College Football"/>
+<meta name="news_keywords" content="college football, NCAA football, AP Top 25"/>
+<meta name="generator" content="Drupal 7 (http://drupal.org)"/>
+<meta property="og:site_name" content="NCAA College Football"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://web.archive.org/web/20180209005747/https://www.collegefootball.ap.org/privacy-policy"/>
+<meta property="og:title" content="Privacy Policy"/>
+<meta property="og:description" content="Your privacy rights"/>
+  <title>Privacy Policy</title>
+    <style type="text/css" media="all">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/system/system.base.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/system/system.menus.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/system/system.messages.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/system/system.theme.css?p2tjeb");
+</style>
+<style type="text/css" media="all">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_boxes/css/flyout.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/modules/contrib/date/date_api/date.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/modules/contrib/date/date_popup/themes/datepicker.1.7.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/field/theme/field.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/node/node.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/search/search.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/modules/user/user.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/modules/contrib/views/css/views.css?p2tjeb");
+</style>
+<style type="text/css" media="all">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/modules/contrib/ctools/css/ctools.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_microformats/ap_microformats.css?p2tjeb");
+</style>
+<style type="text/css" media="all">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/alpha/css/alpha-reset.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/alpha/css/alpha-mobile.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/alpha/css/alpha-alpha.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/omega/css/omega-text.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/omega/css/omega-branding.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/omega/css/omega-menu.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/omega/css/omega-visuals.css?p2tjeb");
+</style>
+<style type="text/css" media="screen">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/global.css?p2tjeb");
+</style>
+<style type="text/css" media="print">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/print.css?p2tjeb");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/ap-cfootball-alpha-default.css?p2tjeb");
+@import url("https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/ap-cfootball-alpha-default-normal.css?p2tjeb");
+@import url("https://www.collegefootball.ap.org/profiles/ap/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?p2tjeb");
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="screen and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/ap-cfootball-alpha-default.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/ap-cfootball-alpha-default-narrow.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?p2tjeb");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="screen and (min-width: 1040px) and (min-device-width: 1040px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/ap-cfootball-alpha-default.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/css/ap-cfootball-alpha-default-normal.css?p2tjeb");
+@import url("https://web.archive.org/web/20180209005747cs_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?p2tjeb");
+</style>
+<!--<![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-27590430-4";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/misc/drupal.js?p2tjeb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.slots["leaderboard"] = googletag.defineSlot("/15786418/CollegeFootball/AP/site/node/3091", [728, 90], "dfp-ad-leaderboard")
+  .addService(googletag.pubads())
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.slots["mobileleaderboard"] = googletag.defineSlot("/15786418/CollegeFootball/AP/site/node/3091", [[300, 50], [320, 50]], "dfp-ad-mobileleaderboard")
+  .addService(googletag.pubads())
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.slots["mediumrectangle"] = googletag.defineSlot("/15786418/CollegeFootball/AP/site/node/3091", [300, 250], "dfp-ad-mediumrectangle")
+  .addService(googletag.pubads())
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.slots["mediumrectangle2"] = googletag.defineSlot("/15786418/CollegeFootball/AP/site/node/3091", [300, 250], "dfp-ad-mediumrectangle2")
+  .addService(googletag.pubads())
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11304492" });(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20180209005747/https://sb/" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.hoverIntent.minified.js?p2tjeb"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.masonry.min.js?p2tjeb"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes.js?p2tjeb"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_masonry.js?p2tjeb"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_flyout.js?p2tjeb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();});
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/custom/optional/responsive_dfp_box/js/responsive_dfp.js?p2tjeb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/ap/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/modules/contrib/google_analytics/googleanalytics.js?p2tjeb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//web.archive.org/web/20180209005747/https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-27590430-4", "auto");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://use.typekit.com/uta3cck.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/themes/ap_cfootball/js/mondernizr.custom.min.js?p2tjeb"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://www.collegefootball.ap.org/profiles/ap/themes/omega/omega/js/omega-mediaqueries.js?p2tjeb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ap_cfootball","theme_token":"4UMTKXaF5zAmNSn-AMTiVEmWatSeDKcRYxfEcOAZTs8","js":{"0":1,"https:\/\/web.archive.org\/web\/20180209005747\/http:\/\/edge.quantserve.com\/quant.js":1,"1":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"2":1,"https:\/\/web.archive.org\/web\/20180209005747\/https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.hoverIntent.minified.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.masonry.min.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_masonry.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_flyout.js":1,"8":1,"profiles\/ap\/modules\/custom\/optional\/responsive_dfp_box\/js\/responsive_dfp.js":1,"9":1,"profiles\/ap\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"10":1,"https:\/\/web.archive.org\/web\/20180209005747\/https:\/\/use.typekit.com\/uta3cck.js":1,"11":1,"profiles\/ap\/themes\/ap_cfootball\/js\/mondernizr.custom.min.js":1,"profiles\/ap\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/css\/flyout.css":1,"profiles\/ap\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/ap\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ap\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ap\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ap\/modules\/custom\/core\/ap_microformats\/ap_microformats.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-text.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-branding.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-menu.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-visuals.css":1,"profiles\/ap\/themes\/ap_cfootball\/css\/global.css":1,"profiles\/ap\/themes\/ap_cfootball\/css\/print.css":1,"ie::normal::profiles\/ap\/themes\/ap_cfootball\/css\/ap-cfootball-alpha-default.css":1,"ie::normal::profiles\/ap\/themes\/ap_cfootball\/css\/ap-cfootball-alpha-default-normal.css":1,"ie::normal::profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::profiles\/ap\/themes\/ap_cfootball\/css\/ap-cfootball-alpha-default.css":1,"narrow::profiles\/ap\/themes\/ap_cfootball\/css\/ap-cfootball-alpha-default-narrow.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::profiles\/ap\/themes\/ap_cfootball\/css\/ap-cfootball-alpha-default.css":1,"normal::profiles\/ap\/themes\/ap_cfootball\/css\/ap-cfootball-alpha-default-normal.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"responsive_dfp_box":{"responsive_leaderboard":{"desktop":"\n\u003Cdiv  id=\u0022dfp-ad-leaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-leaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n","mobile":"\n\u003Cdiv  id=\u0022dfp-ad-mobileleaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-mobileleaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"screen and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"screen and (min-width: 1040px) and (min-device-width: 1040px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-3091 node-type-ap-site-page context-privacy-policy"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.collegefootball.ap.org/privacy-policy', '20180209005747')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180209005747/https://www.collegefootball.ap.org/privacy-policy', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180209005747/https://www.collegefootball.ap.org/privacy-policy&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.collegefootball.ap.org/privacy-policy" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180209005747" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20171206114430/http://collegefootball.ap.org:80/privacy-policy" title="06 Dec 2017"><strong>Dec</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:57:47 Feb 09, 2018">FEB</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20180320232604/http://collegefootball.ap.org/privacy-policy" title="20 Mar 2018"><strong>Mar</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180130004057/http://www.collegefootball.ap.org/privacy-policy" title="00:40:57 Jan 30, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:57:47 Feb 09, 2018">09</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20180320232604/http://collegefootball.ap.org/privacy-policy" title="23:26:04 Mar 20, 2018"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170201040434/http://collegefootball.ap.org/privacy-policy" title="01 Feb 2017"><strong>2017</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:57:47 Feb 09, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180209005747*/https://www.collegefootball.ap.org/privacy-policy" title="See a list of every capture for this URL">75 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">08 Sep 2012 - 06 Jun 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/twitteroutlinks)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/twitteroutlinks" target="_new"><span class="wm-title">Twitter Outlinks</span></a></div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.collegefootball.ap.org/privacy-policy","2018-02-09",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//web.archive.org/web/20180209005747/https://connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>  
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+    <div class="clearfix logo-ad">
+                <div class="logo-img">
+                  <img border="0" src="https://web.archive.org/web/20180209005747im_/https://www.collegefootball.ap.org/sites/collegefootball/files/AP_OLY.png" alt="NCAA College Football" title="NCAA College Football"/>              </div>
+              <div class="block block-boxes block-boxes-responsive-dfp block-responsive-leaderboard block-boxes-responsive-leaderboard odd block-without-title" id="block-boxes-responsive-leaderboard">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="boxes-box-responsive_leaderboard" class="boxes-box"><div class="boxes-box-content"><div id="responsive_leaderboard-responsive-ad" class="responsive-ad"></div></div></div>    </div>
+  </div>
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-vertical-branding" id="region-vertical-branding">
+  <div class="region-inner region-vertical-branding-inner">
+    
+        <div class="branding-data clearfix">
+                        <hgroup class="site-name-slogan">        
+                        <h1 class="site-name"><a href="/web/20180209005747/https://www.collegefootball.ap.org/" rel="home" title="Home">NCAA College Football</a></h1>
+              </hgroup>
+          </div>
+        
+      </div>
+</div>
+  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">    <div class="menu-zone-inner-wrapper">
+	  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+	    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+    <nav class="navigation">
+      <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/web/20180209005747/https://www.collegefootball.ap.org/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search " type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-pRP43nDTWvG_1_SQeD17UyQztQ-e3BaE2_vNfeCh-0A"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>    </div>
+  </div>
+</div><h4 class="sections-menu"><a href="#">Sections</a></h4><ul class="menu"><li class="first leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/">Home</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/articles" title="">News</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/poll" title="">The AP Top 25 Poll</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/ap-poll-all-time" title="">AP Poll: All-Time</a></li>
+<li class="last leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/ap-now-college-football" title="">AP Now</a></li>
+</ul>    </nav>
+  </div>
+</div>
+	  </div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-8 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <div class="tabs clearfix"></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <article class="node node-ap-site-page node-published node-not-promoted node-not-sticky author-bstaudt odd clearfix" id="node-ap-site-page-3091">
+      <header>
+              <h1 class="node-title title" id="page-title">Privacy Policy</h1>
+            <div class="article-data">
+                </div>
+    </header>
+    <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/web/20180209005747/https://www.collegefootball.ap.org/">Home</a> &raquo; Privacy Policy</div>  <div class="node-body">
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden entry-content"><div class="field-items"><div class="field-item even"><p>Your privacy rights</p>
+<p>This Privacy Policy applies to information that The Associated Press and its affiliates (referred to collectively in this Privacy Policy as &ldquo;AP&rdquo;, &ldquo;we,&rdquo; &ldquo;us,&rdquo; &ldquo;our&rdquo; and other similar pronouns) collect through those AP web sites and mobile applications which make this Privacy Policy available as a statement of privacy practices (each such web site and mobile application, a &ldquo;Service&rdquo;). This Privacy Policy explains the types of information we collect through the Services, how we will use and disclose the information once it is collected, and how you can opt-out of some of our uses and disclosures of your information. By using any of the Services, you agree to the terms of this Privacy Policy as applied to those Services, including changes made to the Privacy Policy as described in Part 11 below.</p>
+<p>Please note that this Privacy Policy does not apply to information that you may provide to us, or that we may obtain, outside the Services, such as through our other web sites or mobile applications or over the phone, by mail, or in person.</p>
+<p>1. What information is collected through our Service?</p>
+<p style="font-weight: bold; font-style: italic;">User-Provided Information</p>
+<p>During your use of a Service you may provide us with personal information, such as your name, e-mail addresses, your activities, including browsing and transaction history, or other information that could be used to identify you as an individual or allow someone to contact you, as well as any information associated with such information personal information (collectively, &ldquo;Personal Information&rdquo;).</p>
+<p style="font-weight: bold; font-style: italic;">Location Data</p>
+<p>When using our Services from a mobile device (a &ldquo;Mobile Service&rdquo;), you may choose (using your device&rsquo;s location settings) to share the geographic location of your device with us. We use your location information to localize your newsfeed and customize Services for you in other ways. Your device location may be transmitted to us any time that a Mobile Service is running (even if you are not actively using the application or it is running in the background on your device). Your device may continue to transmit its location information to us until you change your settings to stop sharing location information.</p>
+<p>If you set your device to not transmit location information to us, certain features may not be available or their functions may be limited. For example, you will have to manually enter a location when conducting a search. You should also know that turning off location sharing only prevents your device from sharing its precise location. Your network service provider may still provide coarse location information (based on access points you&rsquo;ve connected to, for example). The information provided varies by service provider. You should check with your own provider to find out what information is provided and if there are ways for you to limit it.</p>
+<p style="font-weight: bold; font-style: italic;">Service Usage Information</p>
+<p>As is typical of many web sites and mobile applications, our Services automatically collect certain information when you use them. Such information includes, for example, your &ldquo;IP address&rdquo; (which we may associate with your domain name or that of your Internet access provider or wireless carrier, and your general location), information about your computer or mobile device, a unique ID number associated with your device or other unique identifiers such as advertising identifiers (e.g., &quot;ad-ID&quot; or &quot;IDFA&quot;), web browser and operating system information, the language your computer or device is set to, wireless connections you are using, the referring page that linked you to us, general information about your usage of our Services, the pages, content or ads you see or click on during your use and when and for how long you do so, and the next web site you visit when you leave our web site, and any search terms you have entered on our Services or a referral site.</p>
+<p>Among other things, this information enables us to generate analytics reports on the usage of our Service.</p>
+<p>In addition, we may deploy various tracking technologies through our Services to collect additional information about your use. For example:</p>
+<ul>
+<li>We may use cookies or local shared objects, such as &ldquo;Flash cookies.&rdquo; Additional information regarding our use of cookies and local shared objects is set forth in our Cookie Policy (which is incorporated herein).</li>
+<li>HTML5 may be used to store information on your computer or device about your Service usage activities. This information can be retrieved by us to determine how our Services are being used by our visitors, how it can be improved, and to customize it for our users.</li>
+<li>A pixel tag (also known as a &ldquo;clear GIF&rdquo; or &ldquo;web beacon&rdquo;) is a tiny image &ndash; typically just one-pixel &ndash; that can be placed in an online page or electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you&rsquo;ve opened one of our emails or seen one of our articles.</li>
+</ul>
+<p>These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to your computer or device, and relate information about your use of the Services to other information about you, including your Personal Information. These technologies also enable us to recognize you when you access our Service using different web browsers or devices.</p>
+<p>2. Opt In and Opt Out</p>
+<p>You can opt-out of our promotional emails by clicking on the opt-out link within the e-mail you receive. Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.</p>
+<p>3. How is your information used?</p>
+<p>We or our service providers may use the information we collect from and about you to perform the following business functions:</p>
+<ul>
+<li>administering our Services and your account with us</li>
+<li>enabling users to use our Services and their features</li>
+<li>localizing the content and articles that are displayed to you based on your geographical location</li>
+<li>responding to your requests, questions, and concerns</li>
+<li>market research</li>
+<li>improving or developing new features and offerings in our Services</li>
+<li>sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you (You may opt out of receiving such communications from us by following the opt out instructions in any email communication you receive from us)</li>
+<li>protecting our rights and property</li>
+<li>customizing our Services to your interests and history with us</li>
+<li>tailoring ads displayed to you in our Services and elsewhere to your interests and history with us</li>
+<li>other purposes disclosed when personal information is submitted to us</li>
+</ul>
+<p>To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and information about your use of the Services, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information. We or our service providers may also use your information to assess the level of interest in, and use of, our Service, our e-mails and our other messaging campaigns both on an individual basis and in the aggregate.</p>
+<p>4. External Platforms</p>
+<p>We may maintain a presence on social media and other external platforms, such as Facebook and Twitter. We may occasionally incorporate certain third party social networking features onto our Service. This Privacy Policy applies to our use of information you submit to us there, but it does not apply to what those third party platforms do with your information.</p>
+<p>Our Services may allow you to share information with us that you have already provided to a third party social networking platform. For example, you may be able to create an account on our Service or log-in to our Service using your Facebook account or other third party credentials. If you do so, then Personal Information or other data that you have provided to that third party may be made available to us by that third party subject to their own privacy policies, terms and conditions. Social networks and other external platforms have their own privacy policies which explain how they will use, protect and share your information, including any information you share on those platforms from our Service, and we encourage you to read them. The information we receive from these platforms may depend on your privacy settings. Any such information that we obtain will remain subject to that third party&rsquo;s privacy policy and we will use any such information in accordance with this Privacy Policy.</p>
+<p>We may also include tools on our Services that allow you to share and/or publicly post articles, content or information from our Services to your profile on a third party social network. You may choose to share information about your activities on the Service with such third party platforms and its users, including publishing your information about what content you may have viewed on our Services. If you visit a Service while logged into certain social media platforms, the social media platform may be able to identify your browser and associate the technical information provided by your web browser with other information that they have already collected about you, which may result in their ability to identify you. In addition, when you choose to share information about your activities on the Service with certain social media platforms, AP may send technical information about you to that platform as well as information about what content you are viewing.</p>
+<p>5. Do we share Personal Information and Service Usage Information with others?</p>
+<p>Yes, for the limited purposes described below. We may share your information:</p>
+<ul>
+<li>with third parties who need your information in order to provide services to us (or on our behalf),</li>
+<li>when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, law enforcement, judicial or other legal request, or to comply with the law,</li>
+<li>in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business.</li>
+</ul>
+<p>The Services may also contain certain co-sponsored content and you may be requested to provide additional Personal Information to the co-sponsor of such content. We will disclose to you when you are submitting Personal Information to co-sponsors. The information practices of any third party c-sponsors are governed by their own privacy policies and are not covered by this Privacy Policy.</p>
+<p>In addition, what you voluntarily post to public areas of our Service will often be readily available to other Service users. Finally, we may share non-personally identifiable information about usage of the Services (including aggregate data) with others, for their own use, in a form that does not include your name or contact information.</p>
+<p>6. Third-Party Ad Servers and Networks</p>
+<p>We use third-party advertising companies to serve ads when you visit our Service.</p>
+<p>When you view an advertisement, whether or not you click on it, the advertiser, advertising technology companies, and service providers that perform advertising-related services for us and our business partners may collect some information from or about you. These companies may use information about your visits to this and other online properties or mobile applications, the region of the country or world where your IP address indicates you are located, as well as other information about you in order to provide advertisements about goods and services of interest to you. These advertisements may appear in our Services and on other online properties or mobile applications. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. The information practices of these third parties are governed by their own privacy policies and are not covered by this Privacy Policy. We encourage you to read these businesses&rsquo; privacy policies to learn about how they treat your information.</p>
+<p><strong>For more information about third-party advertisers and how to prevent them from using your information, visit the Digital Advertising Alliance&rsquo;s site at <a href="https://web.archive.org/web/20180209005747/http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a> or the Network Advertising Initiative&rsquo;s site at <a href="https://web.archive.org/web/20180209005747/http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>. However, if you opt-out we may still suggest offerings (including content sponsored by third-parties) to you on our Service based on your history or your account preferences.</strong></p>
+<p>7. Do Not Track Disclosures</p>
+<p><strong>Some web browsers may transmit &ldquo;do-not-track&rdquo; (DNT) signals to mobile applications with which the user communicates. We currently do not change our tracking practices (which are explained in more detail under &ldquo;Service Usage Information&rdquo; above) in response to DNT settings in your web browser.</strong></p>
+<p><strong>Our third party partners, such as web analytics companies and third party ad networks, may collect information about your online activities over time and across our Service and other online properties. These third parties may not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. We utilize Google Analytics for our web analytics and you can opt out of your usage data being included in our Google Analytics reports by visiting <a href="https://web.archive.org/web/20180209005747/https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</strong></p>
+<p>8. Your Access Rights</p>
+<p><strong>You may review, update or correct certain of the Personal Information that is stored in your user account in our Services (if you have one) by using the &ldquo;Contact Us&rdquo; information below. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete information is subject to our records retention policies.</strong></p>
+<p>9. Security</p>
+<p><strong>While we endeavor to protect the security and integrity of sensitive Personal Information collected via our Service, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.</strong></p>
+<p><strong>If you correspond with us by e-mail, text message, or using a &ldquo;Contact Us&rdquo; feature on our Service, you should be aware that your transmission might not be secure. A third party could view the information you send in transit by such means. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.</strong></p>
+<p><strong>If you create an account on our Service, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity. Please notify us of any unauthorized use of your password or account or any other breach of security.</strong></p>
+<p><strong><strong>If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances. If we have your e-mail address, we may notify you by e-mail.&nbsp;<strong>You consent to our use of e-mail as a means of such notification.</strong></strong></strong></p>
+<p>10. &ldquo;Linked-To&rdquo; Sites</p>
+<p><strong>Our Service may contain links, banners, widgets or advertisements that lead to third party web sites. We are not responsible for these other web sites, and so their posted privacy policies (not this Privacy Policy) will govern the collection and use of your information on them. We encourage you to read the privacy statements of web site visited after leaving our Service to learn about how your information is treated by others.</strong></p>
+<p>11. Changes to this Privacy Policy</p>
+<p><strong>We may change this Privacy Policy from time to time. When we do, we will let you know by posting the changed Privacy Policy on this page with a new &ldquo;Last Updated&rdquo; date. In some cases (for example, if we significantly expand our use or sharing of your Personal Information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.</strong></p>
+<p>12. Contact us</p>
+<p><strong>If you have any questions or comments regarding our privacy practices, you may contact us at:</strong></p>
+<p><strong>The Associated Press</strong></p>
+<p><strong>450 W. 33rd Street</strong></p>
+<p><strong>New York, NY</strong></p>
+<p><strong>OR <a href="https://web.archive.org/web/20180209005747/mailto:info@ap.org">info@ap.org</a></strong></p>
+<p><strong>Effective Date: November 1, 2016</strong></p>
+</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+  </div>
+</article>    </div>
+  </div>
+</div>      </div>
+</div><aside class="grid-4 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="block block-dfp block-mediumrectangle block-dfp-mediumrectangle odd block-without-title" id="block-dfp-mediumrectangle">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="dfp-ad-mediumrectangle-wrapper" class="dfp-tag-wrapper">
+<div id="dfp-ad-mediumrectangle" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mediumrectangle");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+</div><div class="ap-recent-articles"><section class="block block-ap-misc block-ap-recent-articles block-ap-misc-ap-recent-articles even" id="block-ap-misc-ap-recent-articles">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Latest News</h2>
+            
+    <div class="content clearfix">
+      
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-547915">
+  <div class="article-list-node-content clearfix">
+	  <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-name-field-thumbnail"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/new-mexico-suspends-football-coach-amid-misconduct-probe"><img src="https://web.archive.org/web/20180209005747im_/https://mapi.associatedpress.com/v1/items/0927f0a3010c4af181950e6420f5f3bf/preview/preview.jpg?s=60x" alt="Bob Davie" title="Bob Davie"/></a></div></div></div></div>	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/new-mexico-suspends-football-coach-amid-misconduct-probe" title="New Mexico suspends football coach amid misconduct probe"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/new-mexico-suspends-football-coach-amid-misconduct-probe">New Mexico suspends football coach amid misconduct probe</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    <div class="hnews-hidden"><span class="dateline">ALBUQUERQUE, N.M.</span><a rel="item-license" id="license-32f328e0256da1698d66d7b20bfd5988" href="#license-32f328e0256da1698d66d7b20bfd5988">Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div class="geo hnews-geo"><span class="latitude">35.0845</span><span class="longitude">-106.651</span></div></div>	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span class="updated" title="2018-02-08T19:45:13-05:00">Feb. 8, 2018 7:45 PM EST</span>		  </div>
+	  </footer>
+  </div>
+</article>
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-547912">
+  <div class="article-list-node-content clearfix">
+	  	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/former-tcu-db-modkins-becomes-schools-cornerbacks-coach" title="Former TCU DB Modkins becomes school's cornerbacks coach"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/former-tcu-db-modkins-becomes-schools-cornerbacks-coach">Former TCU DB Modkins becomes school&#039;s cornerbacks coach</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    <div class="hnews-hidden"><span class="dateline">FORT WORTH, Texas</span><a rel="item-license" id="license-9696562bdabb1b6d9e9d136da628f584" href="#license-9696562bdabb1b6d9e9d136da628f584">Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div class="geo hnews-geo"><span class="latitude">32.7254</span><span class="longitude">-97.3208</span></div></div>	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span class="updated" title="2018-02-08T18:37:34-05:00">Feb. 8, 2018 6:37 PM EST</span>		  </div>
+	  </footer>
+  </div>
+</article>
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-547911">
+  <div class="article-list-node-content clearfix">
+	  	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/uw-regents-approve-new-contracts-paul-chryst-assistants" title="UW Regents approve new contracts for Paul Chryst, assistants"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/uw-regents-approve-new-contracts-paul-chryst-assistants">UW Regents approve new contracts for Paul Chryst, assistants</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    <div class="hnews-hidden"><span class="dateline">MADISON, Wis.</span><a rel="item-license" id="license-080a3ce058c63b59c10341c9685024c9" href="#license-080a3ce058c63b59c10341c9685024c9">Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div class="geo hnews-geo"><span class="latitude">43.0731</span><span class="longitude">-89.4012</span></div></div>	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span class="updated" title="2018-02-08T17:46:09-05:00">Feb. 8, 2018 5:46 PM EST</span>		  </div>
+	  </footer>
+  </div>
+</article>
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-547910">
+  <div class="article-list-node-content clearfix">
+	  	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/clemson-defensive-coordinator-venables-earn-2-million" title="Clemson defensive coordinator Venables to earn $2 million"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/clemson-defensive-coordinator-venables-earn-2-million">Clemson defensive coordinator Venables to earn $2 million</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    <div class="hnews-hidden"><span class="dateline">CLEMSON, S.C.</span><a rel="item-license" id="license-354a86ca7c4d7828c9e0bc2139580699" href="#license-354a86ca7c4d7828c9e0bc2139580699">Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div class="geo hnews-geo"><span class="latitude">34.6834</span><span class="longitude">-82.8374</span></div></div>	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span class="updated" title="2018-02-08T16:41:58-05:00">Feb. 8, 2018 4:41 PM EST</span>		  </div>
+	  </footer>
+  </div>
+</article>
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-547909">
+  <div class="article-list-node-content clearfix">
+	  	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/vanderbilts-mason-names-4-new-members-his-football-staff" title="Vanderbilt's Mason names 4 new members of his football staff"><a href="/web/20180209005747/https://www.collegefootball.ap.org/article/vanderbilts-mason-names-4-new-members-his-football-staff">Vanderbilt&#039;s Mason names 4 new members of his football staff</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    <div class="hnews-hidden"><span class="dateline">NASHVILLE, Tenn.</span><a rel="item-license" id="license-d0f36d77a204e42b8a3a20915c5f31f8" href="#license-d0f36d77a204e42b8a3a20915c5f31f8">Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div class="geo hnews-geo"><span class="latitude">36.1659</span><span class="longitude">-86.7844</span></div></div>	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span class="updated" title="2018-02-08T16:34:05-05:00">Feb. 8, 2018 4:34 PM EST</span>		  </div>
+	  </footer>
+  </div>
+</article>    </div>
+  </div>
+</section></div><div class="block block-ap-poll block-top-25-right-rail block-ap-poll-top-25-right-rail odd block-without-title" id="block-ap-poll-top-25-right-rail">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h2 class="block-title">The AP Top 25 Poll</h2>  <div class="poll-header-info clearfix">
+    Poll Released: Jan 9  </div>
+  <table>
+<caption></caption>
+ <thead><tr><th class="trank">Rank</th><th class="tname">team</th><th class="tprev">PV Rank</th> </tr></thead>
+<tbody>
+ <tr class="1 alabama odd"><td class="trank">1</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/alabama">Alabama</a> (57)</td><td class="tprev">4</td> </tr>
+ <tr class="2 georgia even"><td class="trank">2</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/georgia">Georgia</a></td><td class="tprev">3</td> </tr>
+ <tr class="3 oklahoma odd"><td class="trank">3</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/oklahoma">Oklahoma</a></td><td class="tprev">2</td> </tr>
+ <tr class="4 clemson even"><td class="trank">4</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/clemson">Clemson</a></td><td class="tprev">1</td> </tr>
+ <tr class="5 ohio-state odd"><td class="trank">5</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/ohio-state">Ohio State</a></td><td class="tprev">5</td> </tr>
+ <tr class="6 ucf even"><td class="trank">6</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/ucf">UCF</a> (4)</td><td class="tprev">10</td> </tr>
+ <tr class="7 wisconsin odd"><td class="trank">7</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/wisconsin">Wisconsin</a></td><td class="tprev">6</td> </tr>
+ <tr class="8 penn-state even"><td class="trank">8</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/penn-state">Penn State</a></td><td class="tprev">9</td> </tr>
+ <tr class="9 tcu odd"><td class="trank">9</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/tcu">TCU</a></td><td class="tprev">13</td> </tr>
+ <tr class="10 auburn even"><td class="trank">10</td><td class="tname"><a href="/web/20180209005747/https://www.collegefootball.ap.org/teams/auburn">Auburn</a></td><td class="tprev">7</td> </tr>
+</tbody>
+</table>
+<div class="poll-footer-info clearfix"><h4><a href="/web/20180209005747/https://www.collegefootball.ap.org/poll">View Full Poll</a></h4></div><iframe class="title-ad" scrolling="no" src="https://web.archive.org/web/20180209005747if_/https://www.collegefootball.ap.org/ap_widgets/widget/title-ad/right_rail" frameborder="0"></iframe>    </div>
+  </div>
+</div><div class="block block-dfp block-mediumrectangle2 block-dfp-mediumrectangle2 even block-without-title" id="block-dfp-mediumrectangle2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="dfp-ad-mediumrectangle2-wrapper" class="dfp-tag-wrapper">
+<div id="dfp-ad-mediumrectangle2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mediumrectangle2");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+</div>  </div>
+</aside>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <h4 class="sections-menu"><a href="#">Sections</a></h4><div class="bottom-menu-frame"><ul class="menu"><li class="first leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/">Home</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/articles" title="">News</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/poll" title="">The AP Top 25 Poll</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/ap-poll-all-time" title="">AP Poll: All-Time</a></li>
+<li class="last leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/ap-now-college-football" title="">AP Now</a></li>
+</ul></div>  </div>
+</div><div class="grid-12 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div id="copyright">AP Sports <span class="pipe">|</span> &#169; 2018 Associated Press</div><ul class="menu"><li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/privacy-policy" title="Privacy Policy for College Football" class="active-trail active">Privacy Policy</a></li>
+<li class="leaf"><a href="/web/20180209005747/https://www.collegefootball.ap.org/terms-use" title="Terms of Use for College Football">Terms of Use</a></li>
+<li class="leaf"><a href="https://web.archive.org/web/20180209005747/http://www.apimages.com/" title="Link to AP Images">AP Images</a></li>
+<li class="last leaf"><a href="https://web.archive.org/web/20180209005747/http://www.ap.org/" title="Link to ap.org">ap.org</a></li>
+</ul>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <noscript><img src="https://web.archive.org/web/20180209005747im_/http://b.scorecardresearch.com/p?c1=2&amp;c2=11304492&amp;cv=2.0&amp;cj=1"/></noscript>  </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_qoptions={	qacct:"p-e0GvCy8TRpZ6U"	};
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/http://edge.quantserve.com/quant.js"></script>
+  <script type="text/javascript" src="https://web.archive.org/web/20180209005747js_/https://platform.tumblr.com/v1/share.js"></script>
+
+<!-- Taboola script goes here 
+<script src="http://hosted.ap.org/specials/jquery-1.11.2.min.js"></script> -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'https://web.archive.org/web/20180209005747/https://cdn.taboola.com/libtrc/associatedpress-collegefootball/loader.js');
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"560baa128a","applicationID":"12082643","transactionName":"MlRTYkFSWkNUU0EKDQsecFVHWlteGl5aBwc6QVBRVmxCWVBH","queueTime":0,"applicationTime":256,"atts":"HhNQFAlISU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 00:57:47 Feb 09, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:49:37 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 467.623 (3)
+  esindex: 0.006
+  captures_list: 493.467
+  CDXLines.iter: 12.648 (3)
+  PetaboxLoader3.datanode: 425.224 (4)
+  exclusion.robots: 0.633
+  exclusion.robots.policy: 0.617
+  RedisCDXSource: 7.999
+  PetaboxLoader3.resolve: 117.352
+  load_resource: 155.282
+-->

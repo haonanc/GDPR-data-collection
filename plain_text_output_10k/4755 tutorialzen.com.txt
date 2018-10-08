@@ -1,0 +1,23 @@
+This privacy policy establishes how Zine EOOD, registered at “Dunavski Lebed” 7, Varna, Bulgaria (referred to as "we" and "the company" in this document) uses and protects any information that you make available to the company through the use of our website (tutorialzine.com), software and services.
+We handle your data in accordance with the principles of the GDPR and we are committed to ensuring that your privacy is protected. In this document, the data categories we collect are given in bold, and the lawful basis for processing are in italics.
+Any information and data that you provide will only be used in accordance with this privacy statement. We may update it periodically without prior notice.
+Data collection and usage
+The following categories of data are collected and processed on our website (tutorialzine.com) in accordance with the policies and legal basis set forth by the GDPR:
+As a standard prerequisite for the functioning of our websites (tutorialzine.com), our servers collect and log visitors' IP addresses. This is in accordance with our contractual obligation of providing you with access to our websites. This data is retained for a maximum of 2 months and is pruned automatically.
+Our forum system allows you to take part of any discussion on the website, create new discussions, and access member only content like our book. You register there by voluntarily connecting your Google Account ( their privacy and data policies ), which is required for the contractual obligation of providing you with the forum service. In relation to your account, we collect email address, nick name, and optionally description and links to websites/social profiles (if you choose to provide such information). You can control, edit and remove your information at any time.
+Every few weeks, we may send a newsletter to the email address you've provided. This newsletter contains website updates and may occasionally contain marketing content that is of interest to our audience. We believe this to be in your legitimate interest. You can unsubscribe from these emails at any time.
+In addition, our forum system provides functionality for subscribing to topics. As a result of this voluntarily opt-in subscription, our system will send you daily emails to the email address you've provided with the newest posts and topics in order to meet our contractual obligations to you. You can unsubscribe from receiving these messages at any time.
+As part of our offering, we provide customer support for our products. This is conducted via email and through the contact form on our website, which requires an email address, necessary for us to contact you back. This data is processed for the contractual obligation of assisting you with our products and is deleted when support tickets are closed.
+For statistical purposes, we employ the use of Google Analytics ( their privacy and data policies ). They collect anonymized and non-identifiable information that helps us improve our website.
+Security
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect and store.
+How we use cookies
+Cookies allow web applications to respond to you as an individual, and maintain your logged in state. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Our partners, Google Analytics log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and don't collect any personally identifiable information.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Controlling your personal information
+We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so.
+If you believe that any information we are holding on you is incorrect or incomplete, or want it erased, please write to as soon as possible.
+Revision 2 — May 2018
+×
+OK

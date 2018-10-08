@@ -1,0 +1,75 @@
+This Privacy Policy (the “Policy”) provides information regarding the management and protection by SSENSE of personal data processed from website visits, purchases, calls and surveys.
+ 
+1. Collection of data
+SSENSE collects personal data through website visits and purchases.
+To do so, SSENSE uses cookies, which are small text files, stored on your computer during the site visit.
+You can disable cookies through your browser. To know more about cookies please refer to Section III below.
+When making your first purchase, you proceed to open an account and provide us with the information required in order to place your order and have it delivered. In doing so, you provide the personal data necessary to contact you and deliver your purchase, such as your full name, email address, shipping address, as well as certain financial information (such as your credit card number). In doing so, you allow SSENSE to store some of this information in the SSENSE customer database. Your credit card information is not stored by SSENSE and is sent to a secure third party payment processor.
+SSENSE may also collect non-personal information about you even if you do not purchase any products on the ssense.com website.
+2. What use is made of the information you provide on Ssense.com?
+SSENSE may share certain financial and other information that you submit with third parties who provide services to the website. Said third parties proceed to credit reporting, payment or order fulfillment services, such as verifying your information, authenticating payments and processing orders. In order to combat fraudulent online payments, SSENSE, may also share your financial information with a third-party service provider using an online fraud detection tool in order to verify your payment.
+SSENSE may also disclose the information you provide on the Ssense.com website to other corporate affiliates in the SSENSE group, so that they may contact you namely regarding products and services of such corporate affiliates that may be of interest to you.
+SSENSE may disclose your information if we believe in good faith that such disclosure is necessary to comply with applicable laws, a subpoena or other legal process. For example, SSENSE may disclose such information as is necessary to identify, contact or bring legal action against a person or entity who may be violating the Ssense.com Terms and Conditions, or who may be causing injury to, or interfering with, other users of the Ssense.com website. In the event that SSENSE, the SSENSE group, or all or part of its or their assets, are acquired by a third party, the Ssense.com customer list may be included in the transferred assets.
+Please be aware that SSENSE does not control the policies or practices of third parties to which SSENSE discloses information about users of the Ssense.com website and that any use or disclosure of such information by third parties is not governed by this Policy. However, transfers of personal information are governed by contractual clauses which ensure compliance with data protection legislation.
+3. Location of data
+SSENSE transfers personal data to the US through the protection of the EU-US Privacy Shield.
+4. Security
+SSENSE has implemented security measures to protect the personal information you provide against unauthorized access and use. In particular:
+All data is protected according to the varying levels of risks through physical measures, such as secure areas, technical measures, such as encryption, and organisational measures such as employee security through vetting and supervision.
+All data is retained only for as long as it is legally required to be kept and for as long as necessary for the purposes for which it was collected or transferred, in accordance with SSENSE’s Retention Schedule.
+ 
+II PROCESSES TO EXERCISE PRIVACY RIGHTS AT SSENSE
+1. Changes and access to your personal information
+SSENSE responds to individual requests for access to one’s personal data, and for changes as necessary, within one month. You can make these requests by following the instructions in Section II, Clause 6 - Contact Us. SSENSE may ask for an extension and may charge a reasonable fee to cover administrative costs if necessary. Should SSENSE deny the request, it will provide an adequate justification.
+2. Rectification
+Rectification requests can be made by following the instructions in Section II, Clause 6 - Contact Us.
+SSENSE provides rectification as soon as possible within one month. Should SSENSE deny the request, it will provide an adequate justification.
+3. Right to object
+Individuals may withdraw consent and object to the use of their personal information. In that case, SSENSE will keep the data until the individual chooses to unsubscribe but will not use the data except to provide services requested by said individual.
+4. Restriction on processing
+SSENSE will inform suppliers and subcontractors as the case may be, of the restrictions on processing of data relating to that individual.
+5. Challenging compliance
+An individual whose data is held by SSENSE may challenge our compliance with data protection obligations by filing a complaint with SSENSE's Data Protection Officer (the "DPO") by following the instructions in Section II, Clause 6 - Contact Us.
+The DPO investigates the complaint in consultation with the SSENSE department which is responsible for the use of the data. Should the complaint be well-founded, SSENSE will take all appropriate measures to resolve the complaint and, if necessary amend its practices as needed.
+6. Contact us
+To exercise your rights pursuant to the present section, to reach SSENSE's DPO or if you have any questions about SSENSE's Policy and practices, please feel free to us by phone at +1 877 637 6002 or via email at dataprotection@ssense.com.
+7. Changes and updates to the Privacy Policy
+By using the Ssense.com website, you consent to the collection, use and disclosure of your information as described in this Policy. This Policy reflects the SSENSE current business practices and is subject to change. In the event of any such change or update, a revised policy will be posted on the Ssense.com website. Please check the Ssense.com website periodically to remain informed of any changes or updates to the SSENSE privacy policies and practices. If you allow SSENSE to retain the personal information you provide on the Ssense.com website in its customer database and SSENSE intends to disclose that information to third parties or affiliated companies in a manner that is not already outlined in this Policy, SSENSE will notify you by email and provide you with an opportunity to opt out of any further use or disclosure of your personal information.
+8.Managing your email preferences
+ 
+1. What is a Cookie
+A cookie is a small text file stored on your device that makes it possible to save and track data about your use of Ssense.com. For example, our website uses cookies to identify you or store your product selection in your basket. Cookies are managed by your Internet browser.
+By continuing to use the Ssense.com website, you consent to our cookie settings and agree that you understand the terms of our cookies policy.
+You can edit your preferences at any time. To do so, please refer to our “Managing your cookie preferences” Section below.
+2. What cookies do we use?
+There are two categories of cookies on the ssense.com website:
+Website functionality cookies
+These cookies are required for basic site functionality. They are essential for the website to function properly and to complete any signup or proceed to any purchase on the website. They also allow us to personalize, facilitate and improve your browsing experience.
+Third party cookies
+These cookies allow us to track navigation during your visits to the website. This allows us to personalize our activities and advertisements to your preferences and to identify transactions facilitated by our affiliated partners for commission purposes.
+Disabling these cookies may result in poorly-tailored recommendations, slow site performance, advertising that is not as relevant to you or not being able to link or share effectively with you over social networks.
+We only partner with trusted third-parties with data compliance and protection policies and all of the information sent to third-party partners is anonymized or pseudonymized.
+3. Managing your cookie preferences
+You can easily disable and/or delete cookies from your computer, tablet or mobile phone by managing your browser settings.
+By following the instructions below, you will be disabling all cookies, including the website functionality cookies described above which enable you to order online and enjoy the services of the Ssense.com website.
+In order to manage cookies to best suit your needs, please bear in mind the purpose of cookies when setting your browser.
+Please find below instructions about managing and disabling cookies, depending on your browser:
+Internet Explorer
+Google Chrome
+    In the Privacy section, click the Content settings button.
+    Select your preferred option(s) in the Cookies section.
+Firefox
+    Click the Menu button and choose Preferences.
+    Select the Privacy & Security panel and go to the History section.
+    In the drop-down menu next to Firefox will, choose Use custom settings for history.
+    Check-mark Accept cookies from websites to enable cookies, and uncheck it to disable them.
+    Select your preferred option(s) in the Cookies section.
+Safari
+    Go to Block cookies and select your preferred option(s).
+Men
+Women
+subscribe
+To find out more, please visit our Privacy Policy .
+SSENSE uses cookies that identify your device to provide you with a better online shopping experience, tailored to your preferences.
+To find out more and learn how to opt out, please visit our Privacy Policy .
+accept and close

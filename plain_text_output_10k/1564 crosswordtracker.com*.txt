@@ -1,0 +1,88 @@
+We’re Global
+TradeTracker is internationally present, and as members of the online community, we know better than anyone the internet’s ability to make national borders irrelevant.
+Our global office presence helps us remain approachable and relevant to individual national markets, while also opening a network of potential international partners.
+An ambition to grow has led to our presence in over 19 different countries, while we continually make plans for our next big venture.
+Europe
+Advertiser login
+Lost password -Publishers
+Type your username. You will then receive an email with a link with which you may request a new password.
+Username :
+Lost password -Advertisers
+Type your username. You will then receive an email with a link with which you may request a new password.
+Username :
+ 
+1. Introduction and general terms
+These terms apply to the websites and other products offered by TRADETRACKER INTERNATIONAL B.V. and its subsidiaries referring to this policy (‘TT’/‘we’/‘us’). Our registered office is at De Strubbenweg 7, 1327 GA Almere, Netherlands. We are a company registered in the Netherlands, with company number 39092006.
+This privacy and data policy (“Privacy Policy”) applies and has effect in respect of all online services and other software and services made available by us (together the "Service(s)"), as well as any other online features relating to the Services including our websites for events and product promotions (the “Websites”).  Together the Service(s) and Website(s) are referred to as the “Online Services”.
+If you have any questions or comments about this Privacy Policy, please contact us at [email protected]
+We are committed to protecting and respecting your privacy. The Privacy Policy explains the basis on which personal information we collect from you will be processed by us or on our behalf. Where we decide the purpose or means for which personal data you supply through these Online Services is processed, we are the “data controller”. We will comply with all applicable data protection laws, including the General Data Protection Regulation2016/679.
+ 
+Please read this Privacy Policy carefully as it contains important information about the following:
+- What information we may collect about you;
+- How we will use information we collect about you;
+- Whether we will disclose your details to anyone else; and
+ 
+This Privacy Policy forms a part of and should be read in conjunction with our terms of use in respect of the Service, if you have entered them in a personal capacity.
+If you would like to know more about how we use cookies, please view our cookie policy which can be found here .
+Our Website may contain hyperlinks to services owned and operated by third parties. These third party services may have their own privacy policies and we recommend that you review them. We do not accept any responsibility or liability for the privacy practices of such third party services and your use of these is at your own risk.
+ 
+2. Our online services
+We operate an affiliate marketing network. This means we have established a network of online merchants who want to promote their products and services online, and we are able to connect them with a network of online publishers which are able to display advertisements for those products and services. Publishers may operate websites, apps or other (digital)services.
+Our role is to help advertisers and publishers understand which advertisements displayed by publishers have generated which sales, leads or other actions for advertisers. This allows advertisers to pay a publisher only when the advertisement displayed (or any alternative required action) by the publisher refers an individual to the advertiser and that individual makes a purchase.
+We use data, including cookies, to achieve this understanding. This data relates to individuals, but does not identify them by name. It relates to a single referral by an individual from one website to another, and then a confirmation that a purchase was made.  We also maintain a database of references to individual’s devices, so that we can understand whether an advertisement viewed on one device, for example a phone, caused a purchase to be made by that individual on one of their other devices, for example a laptop.  This database does not allow people to be identified by name.
+We do not build profiles which show individuals internet usage over a period of time. We also do not target individuals with advertisements for products and services based on their perceived interests. Our role is simply to measure the effectiveness of specific online advertisements.
+Therefore, if you click on an advertisement on one website, and then complete a transaction on the website to which you were referred, we may process your personal data so the publisher of the advertisement can be paid for displaying that advertisement.
+If you would like to know more about our Services and how we comply with data laws, you can read our Whitepaper  here .
+ 
+3. Information we may collect about you
+ 
+(“Partner Information”)
+We will maintain a record of your journey from one website to another for up to 365 days, and also a confirmation of whether you have completed a purchase from the second website as a result of that journey.
+This takes the form of a cookie, and other information to allow us to identify your devices. This may be achieved by recording device IDs or by recognising combinations of device attributes.
+ 
+Information collected for the purposes of providing analytics (“Analytics”)
+ 
+To provide our Services
+We will use Partner Information to provide our Services to Partners, as described above. We also use Partner Information to prevent fraud.
+We do this on the basis that it is in our legitimate interests to do so, having considered any consequent impact on your rights to privacy.
+ 
+To operate our Website
+ 
+5. Data sharing
+We will share your information with third parties only in the ways that are described in this Privacy Policy
+Partners: We are engaged by Partners to provide Services to them. You may have submitted Partner Information to us as part of your use of any of our Partners websites or other online services. We will share that data with the Partner in accordance with any agreements we have entered with the Partner.
+Group members, personnel, suppliers or subcontractors: We keep your information confidential, but may disclose it to any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006), our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it.
+Required by law: In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
+Required by law: In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
+ 
+6. Your rights in relation to personal data which we process relating to you
+ 
+Ask for a copy of data we are processing about you and have inaccuracies corrected
+You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected.
+ 
+Object to us processing data about you
+You can ask us to restrict, stop processing, or to delete your personal data if:
+- you consented to our processing the personal data, and have withdrawn that consent;
+- we no longer need to process that personal data for the reason it was collected;
+- we are processing that personal data because it is in the public interest or it is in order to pursue a legitimate interest of TT or a third party, you don’t agree with that processing, and there is no overriding legitimate interest for us to continue processing it;
+- the personal data was unlawfully processed;
+ 
+Obtain a machine readable copy of your personal data, which you can use with another service provider
+- If we are processing data in order to perform our obligations to you, or because you consented, if that processing is carried out by automated means, we will help you to move, copy or transfer your personal data to other IT systems.
+ 
+ 
+7. Data retention
+ 
+8. Children
+ 
+9. Security
+We will take all reasonable technical and organisational precautions to prevent the loss misuse or alteration of your personal information. For example, our databases are password protected and limited to essential employees only (such as TradeTracker management or employees whose main role requires system access).
+ 
+Our servers are located in Ireland.
+It is possible that your personal information may be transferred outside of the EU by any of our Partners. We recommend that you refer to their privacy policies and/or terms and conditions if you are concerned about your data being transferred outside the EU.
+ 
+Contact information
+All questions, comments or enquiries should be directed to TradeTracker at [email protected] . We will endeavour to respond to any query or questions within five business days.
+© 2018 TRADETRACKER.COM - All trade marks are the property of the relevant owners. All rights reserved.
+Advertisers
+TradeTracker UK

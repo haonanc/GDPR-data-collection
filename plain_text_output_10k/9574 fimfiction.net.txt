@@ -1,0 +1,35 @@
+Last updated: July 20th, 2018
+Content posted on Fimfiction is largely publicly visible and searchable. You should be wary of posting things you’d rather keep private in public areas of the site. You can always delete content you post, but it doesn’t stop it from showing in search engine caches or stop other users from saving it to their own devices.
+We provide private messaging and private groups for private conversation, but content posted in these areas must still abide by site rules and may still be visible to administration staff for rule enforcement. We’ll never share information you post in these places unless we are forced to for legitimate legal reasons.
+We minimise the personal data stored about you. We store your username to identify you around the site and your email to verify your account and contact you. You can always disable emails if you wish from your settings page. We use your liked stories with other users liked stories in order to find related stories to list next to stories.
+Accounts can be deleted at any time which will wipe anything you have posted.
+If you have any questions about our privacy policy, please contact us at knighty@fimfiction.net
+1. What personal data do we store?
+For user account registration purposes, Fimfiction stores only your username and email. Your username is public but your email is private and never shared with other users or any third parties unless you let an application see it via our API. We also store some information regarding your device to facilitate site security and rule enforcement. We take pride in not storing more data than is necessary for you to use Fimfiction.
+Your data is stored indefinitely in order to facilitate logins at any time.
+You can request an account deletion here to delete all your content that we store. Note that we may have legitimate interest to retain some of your data (See section 3).
+We care deeply about security and use industry standard methods for securing passwords and implement strong practises to prevent unauthorised data access.
+If you optionally link your Google account, we will store a token to let you view your Google Drive content and import it onto the site directly.
+2. How do we share your data?
+Depending on your location and cookie settings, adverts may be personalised to you using tracking advertising. These service providers may collect data about your internet usage.
+We do not share any information you post on the site with anyone.
+We use the following data processors to run Fimfiction. We only use well trusted data processors to ensure your data is stored securely and have no interest in hiding what services we use.
+Corporate Name
+Infrastructure
+Your data may also be shared via our API which lets other developers interface with Fimfiction. Any access to non public data is only possible if you give specific applications permission.
+3. What can you do with your data?
+If at any point you wish to delete the data you have provided to use, please use the account deletion feature found on your account management page.
+Most content can also be deleted yourself, but note that a lot of data is only "soft deleted", meaning it remains on our systems, just marked as deleted.
+You can also request an export of your data including all your stories and blog posts
+Please see our cookie page to modify what cookies are stored on your device for this website.
+If your personal data has been shared by another user, this is explicitly against our rules. Please inform us using the contact information below and we can deal with any unauthorised personal data sharing.
+Any account links, eg Twitter, Google and Patreon can be unlinked on the account link management page.
+4. Children on Fimfiction
+We explicitly do not offer our services to users under 16 in EU nations and under 13 in other countries even with parental consent.
+5. Contact us
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact knighty at knighty@fimfiction.net
+6. Changes to this policy
+This policy may change at any time. We will try to notify you with a site message when it does.
+Stats
+Total duration
+MLP: Friendship is Magic® - © 2018 Hasbro Inc.®

@@ -1,0 +1,33 @@
+Posted on
+SharePoint provides Out of the box Information management policy for document retention. If you try to browse the internet for information regarding this, you find many posts which complains that retention policy not working. This blog is my experience with retention policy.
+SharePoint provides many actions which can be performed on item, when it is ready or marked for expiration. Here are the list of actions
+Move to Recycle Bin
+Permanently Delete
+Transfer to another location(need to configure ‘Send To’ connection in Central Admin before hand for this to work)
+Start a workflow
+Declare a record
+Delete previous drafts
+Delete all previous versions.
+I am not going to explain the steps to set the retention policy to work. Here is a blog which explains how to set retention policy in SharePoint.There are many other good articles explaining it in detail.
+I tried to archive a huge document library based on creation date. My idea was to move documents to a new ‘Archival library‘ located in same sub site. First of all I need to use the action ‘Transfer to another location‘ from the available options. To get this working, we need to create a new ‘Send To‘ connection in Central Administration.
+ 
+ 
+Here is a blog which explains how to configure sent to connections in SharePoint.
+Once you have it configured. It shows up in the drop down when you are adding retention rules.
+Now you have your Retention policy setup to move documents older than 4 months (created + 4) months move to a location (for which you have configured Send to connection).
+Ideally once the timer jobs
+1. Information Management policy
+2. Expiration policy
+are run successfully, all the document should be moved to ‘Archival library’ in your subsite. But that did not happen.
+When i modify the retention policy to move documents to ‘Recycle bin’ after 4 months, it was working perfectly fine. It makes it clear that, the issue with moving the documents. I verified that my ‘Send To’ connection is working fine. After exploring all the options, we logged a support ticket with Microsoft.
+After couple of weeks, Microsoft came back with the answer – It was as per design. If you try to move documents to a different location using Retention policy, you have to move it a library in a different site collection. Preferably ‘Records center‘ site collection. Main idea of Microsoft is to have one Archival or Records center site collection for the whole organization.
+ 
+ 
+After the timer job is run and item is marked for retention, workflow kicks in and moves the document to archival library and deletes the document in present library.
+Hope this helps some one! If there is any other better approach to solve this, please post a comment.
+Search
+Disclaimer
+Views expressed in this blog are purely my personal views. Suggestions may not be applicable on every instance.
+Archives
+Archives
+Recent

@@ -1,0 +1,64 @@
+Introduction
+Thank you for visiting the National Transportation Safety Board (NTSB) Web site and reviewing our privacy policy.
+Our privacy policy is clear: We collect no personally identifiable information when you visit our Web site unless you specifically and knowingly provide that information to us. The Privacy Act of 1974 (5 U.S.C. §552 ) establishes certain controls over what personal information is collected by all federal agencies and how it is used.
+Information Collected and Stored Automatically
+During your visit to this web site, the NTSB utilizes Google Analytics to automatically collect certain information about your visit. We do not gather, request, record, require, collect or track any Internet users' Personal Information through these processes.
+Information collected includes:
+The name of the domain (for example, "yourcompany.com" if you use a private Internet access account,      or "yourschool.edu" if you are connecting from a university's      domain) and IP address (a number that is automatically assigned to your      computer when you are using the Internet) from which you access our      website;
+The type of browser and operating system      used to access our site;
+The date and time you access our site;
+The Internet address of the website from      which you linked directly to our site; and
+The pages you visit.
+The NTSB uses this information for statistical analysis of website usage, in order to assess the use of information presented on the website, to identify improvements, and to optimize the website. Only authorized Agency web managers have access to the raw analytics data used to create reports. Aggregate statistical information, such as number of visitors or numbers of page views, may be kept indefinitely in order for the NTSB to identify trends, track metrics in order to determine the effectiveness of website content, or to provide long-term reporting on website traffic. Information is collected for NTSB internal use only, unless required to be disclosed as part of a legal investigation.
+The analytics system uses a persistent cookie establish a multi-session measurement process ("Tier 2") in order to identify returning visitors and provide accurate visitor counts. A cookie is a tiny piece of data stored by a user's browser that helps a web site or service recognize that user's unique computer. You can remove or block cookies by changing the settings of your browser. USA.gov provides detailed instructions on removing and modifying your cookie settings at www.usa.gov/optout_instructions.shtml . Your use of NTSB.gov is not dependent on your browser accepting cookies.
+Personal Information that you voluntarily provide
+You are not required to provide any personal information to us to access information on our websites. If you choose to provide us with personal information, such as by sending a message to an email address on this website or by filling out and submitting a form through our website, we will use that information to respond to your message or to fulfill the stated purpose of the communication.
+Contacting Us
+Your comments, questions, and suggestions are extremely important to us. You may contact us electronically by completing the online request form on our Contact page . You may also contact us by using the telephone numbers, mailing addresses, and e-mail addresses provided on the web site. Before contacting us, there are a few things you should know.
+You are not required to provide your name or any other personally-identifying information in order to contact us. If you want us to respond to a question or other place an inquiry, however, you will need to provide sufficient information for us to contact you.
+Our authority for collecting information when you contact us is 5 U.S.C.§ 301.
+We may forward your correspondence, including any personally identifiable information you choose to send, to other government employees or government contractors to process your request or research and answer your questions. We may also share this information with contractors for purposes of statistical analysis and may track e-mails for purposes of improving our response times and identifying message turn-around times. If you choose to transmit or receive personal information electronically, you should be aware that we cannot guarantee confidentiality across the Internet. If your communication is very sensitive you may want to send it by postal mail instead of using e-mail.
+Children's Privacy
+This Web site does not currently offer educational content created for children.   NTSB makes no attempt to collect personally-identifiable information online from children. We take children's privacy very seriously, unless otherwise stated, our websites are not intended to solicit information of any kind from children.
+Security Notification
+When you access our site, you are entering an Official United States Government System, which may be used only for authorized purposes. The Government may monitor and audit usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing. For Site Security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act and the National Information Infrastructure Protection Act.
+To ensure the security and confidentiality of personally identifiable information, we use security software to prevent unauthorized access, and conduct periodic tests of security safeguards.
+Additionally, NTSB information systems may be protected by EINSTEIN cybersecurity capabilities under the operational control of the U.S. Department of Homeland Security United States Computer Emergency Readiness Team (US-CERT). Electronic communications with NTSB may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications.
+Electronic communications within NTSB will be collected or retained by US-CERT only if they are associated with known or suspected cyber threats. US-CERT will use the information collected through EINSTEIN to analyze the known or suspected cyber threat and help NTSB and other agencies respond and better protect their computers and networks.
+For additional information about EINSTEIN capabilities, please see the EINSTEIN program-related Privacy Impact Assessments available on the U.S. Department of Homeland Security cybersecurity privacy website along with other information about the federal government’s cybersecurity activities.
+Links to Other Sites Policy
+Our Web site has links to the Web sites of other federal agencies, and in a few cases, links to private organizations. Learn more about our Linking Policy here.
+Once you proceed to another Web site, you are subject to the privacy policy of the new site. Any link to another Web site is provided solely for the convenience of the user and does not constitute endorsement by the National Transportation Safety Board or the United States Government of that site or its information, products, or services. We assume no responsibility for the content or operation of other Web sites.
+Accessibility Policy
+ 
+Updated SORNs under review:
+NTSB–3 Personnel Security and Investigative Records
+NTSB–4 Employee Travel Records
+NTSB–5 Executive Branch Confidential Financial Disclosure Reports
+NTSB–6 Employee Payroll, Leave, and Attendance Records
+NTSB–7 Equal Employment Opportunity (EEO) Discrimination Complaint Records
+NTSB–8 FOIA and Privacy Act Request Records
+NTSB–10 Employee Records of Disciplinary Action, Adverse Action, and Grievance and Appeal Files
+NTSB–11 Parking Permit Records
+NTSB–12 Employee Travel Card Records
+NTSB–13 Airman or Mariner Certificate Enforcement Actions
+NTSB–14 Information Request Database
+NTSB–15 NTSB Staff Database
+NTSB–16 General Correspondence Database
+NTSB–17 Office of Transportation Disaster Assistance Family Member Database
+NTSB–18 Correspondence From Members of Congress (Revoking)
+NTSB–19 Training Center Student Registration Database
+NTSB–20 Public Affairs Phone Log (Revoking)
+NTSB–21 Respiratory Protection Program Records
+NTSB–22 Occupational Health and Safety Training Program
+NTSB–23 Transit Subsidy Program Records
+NTSB–24 Facility Security Access Control System
+NTSB–25 Employee Purchase Card Holders
+NTSB–26 Office of Workers’ Compensation Claim Records
+NTSB–27 Employee Performance Folders
+NTSB–28 Employee Medical Folders
+NTSB–29 Job Application and Merit Promotion Files
+NTSB–30 Training Records
+ 
+Chief Privacy Officer: Wanda Briggs
+Agency Privacy Officer: Melba Moye

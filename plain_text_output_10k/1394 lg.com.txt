@@ -1,0 +1,221 @@
+To properly experience our LG.com website, you will need to use an alternate browser or upgrade to a newer version of internet Explorer (IE9 or greater).
+The LG.com website utilises responsive design to provide convenient experience that conforms to your devices screen size. In order to get the best possible experience our LG.COM website please follow below instructions.
+If you’re using Internet Explorer 8 or earlier, you will need to use an alternate browser such as Firefox or Chrome or upgrade to a newer version of internet Explorer (IE9 or greater).
+If you’re using Internet Explorer 9 and higher, turn off your Internet Explorer browser’s “Compatibility View settings” by following steps below:
+Right click at the top of your browser and make sure the “Menu Bar” option is selected
+Select “Tools” from the menu bar and then select “Compatibility View settings”
+In the pop-up menu uncheck all three boxes and click “Close”
+Your browser window will automatically refresh and you’ll be ready to go
+This privacy policy applies only to information collected on the Sites and does not apply to information collected by LGEUK through any other means.
+We collect two types of information from visitors to the Sites: (1) Personal Information; and (2) Non-Personal Information.
+(1) Personal Information
+"Personal Information" is information that identifies you personally, or information from which you are identifiable, such as your name, address, telephone number, email address, company name or in some cases your IP address where this can be used to identify you.
+LGEUK may collect and store the Personal Information that you have provided to us. Here are some examples of manners in which we may collect your Personal Information on the Sites:
+Personal Information
+Examples of why?
+• Product/Service information which may be tied to your personal information
+• IP address
+• Social media tags
+• To fulfil a service to you, such as a warranty service on an LG product, a product purchase or where you contact us with a question related to a product or our service or general customer service.
+• If you provide your details for a survey
+• If you create an LG user account
+• If you provide your details in relation to a promotion, competition or prize draw
+• If you provide your personal information for any purpose
+• To ensure Sites are relevant to your requirements
+• Contractual necessity – this is where it is necessary for us to store, use, share or collect your personal information to fulfil a service to you, such as answering you about a query you raise to us, or fulfilling a warranty service to you. Where necessary, we may disclose your information to a third party to assist us in providing such services, like a logistics company to return your goods, an authorised service centre to repair your goods, or the website service provider who maintains and updates the sites.
+• Legitimate Interest - this is where we store, use, share or collect your personal information to fulfil a business (or third party’s business) interest. This can include us (or any other party on our behalf) contacting you on promotions, where you have previously taken part in promotions, or us (or any other party on our behalf) contacting you with information on our products and services. Again you may provide your information directly to these third parties acting on our behalf, or alternatively, we may share your data with these parties solely to fulfil that business interest.
+• Legal compliance – This is where we need to collect, store, use or retain your personal information for purposes relating to compliance with law. We may disclose and retain your personal information where it is a legal requirement, for product safety or as per the limitation periods under UK legislation e.g. if you make a claim.
+• Consent – Where you have provided active consent for us to use your personal information for a specific purpose, this can be via an opt – in box, a button, writing in to us, or any other active method of indicating your consent for us to use your data in a certain way. Where you have consented, you can exercise your right to unsubscribe to any marketing emails or to opt out of marketing communications that you previously consented to.
+• Administration of justice – we may disclose your personal information in circumstances where we need to protect the safety of end users and/or for the prevention of fraud and other matters relating to the administration of justice.
+The above list is not exhaustive but provides examples of the Personal Information that may be collected on the Sites. If you do not want LGEUK to collect your Personal Information, please do not provide it to us, but it may be necessary to fulfil a service to you.
+• Device Information. We may collect information about your products that you purchase or ask customer service through the Sites. Device Information may include product code or model number, your IP address, product category or, F/W and S/W information, country code or device Id(MAC Address, UUID, etc.).
+• Account Information. When you first register with the Sites, you will be asked and prompted to enter certain information, such as your email address (which will be your user ID), password, telephone number, name, and address.
+• Usage Information. Usage Information refers to all information collected from the Sites such as what action has been applied to the Sites such as clicking logs; your registration details or how you may be using the Sites. .
+• IP Address. When you use the Sites, we may automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognized by our server.
+• Cookie. A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. Cookies may also be used to track users across the Web. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users who visit the Sites. Some of the cookies we use may be flash cookies or Adobe cookies. Depending on your browser, these cookies may not be automatically deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
+• Web Beacons. (also known as "clear gifs," "web bugs" or "pixel tags") "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages. (2) Non-Personal Information
+This can be technical information, such as:
+• Cookies. For more information on cookies, please see our Cookie Policy below.
+• Product Information. We may collect registration information or other details about your product or service. Unless this information is tied to your name or address, it is not considered personally identifiable.
+We collect the above Non-Personal Information from all visitors to our Sites. If you do not want LGEUK to have access to this information, please do not visit our Sites.
+Cookie Policy
+The Sites use cookies. You can find out more about cookies and how to control them below.
+By using the Sites, you accept the use of cookies in accordance with this cookie policy. If you do not accept the use of these cookies, please disable them following the instructions in this cookie policy.
+What is a cookie?
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.
+For further information on cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit http://www.allaboutcookies.org/.
+What cookies do we use on the Sites?
+We use the following cookies:
+Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet. This category of cookies cannot be disabled.
+Analytical cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. These cookies do not collect information that can identify you. All the information that these cookies collect is anonymous and is only used to improve how the website works.
+Our website uses Google Analytics cookies. Information collected by Google Analytics cookies will be transmitted to and stored by Google on servers in the United States of America in accordance with its privacy practices. To see an overview of privacy at Google and how this applies to Google Analytics, visit http://www.google.co.uk/intl/en/analytics/privacyoverview.html. You may opt out of tracking by Google Analytics by visiting https://tools.google.com/dlpage/gaoptout?hl+en-GB.
+Functional cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you and remember your preferences (for example, your choice of language or region). These cookies do not collect information that can identify you. All the information that these cookies collect is anonymous and is only used to improve how the website works.
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+cookie type, cookie name, source, purpose
+cookie type, cookie name, source, purpose
+Cookie Type
+Cookie Name
+LG
+s_cc, s_sq, s_vi, s_incusit, s_nr, s_vnum, s_sv_sid, s_sv_s1, s_sv_p1
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Aggregates site traffic and behaviours of visitors
+Analytical
+s_cc
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Read by the JavaScript code to determine if cookies are enabled(simply set to “True”)
+Analytical
+s_sp
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Read by the JavaScript code when the ClickMap functionality is enabled. It contains information about the previous link that was clicked on by the user
+Analytical
+s_vi
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Identifies a unique visitor
+Analytical
+s_sv_sid
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Stores a unique number to ensure proper caching of JavaScript files used to render surveys within the browser
+Analytical
+s_sv_s1
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Stores the IDs of surveys that the visitor has postponed by clicking “Later” when prompted to take a survey. Stores the IDs of surveys that could launch on the following page of a website. Stores the IDs of surveys that have begun to launch. Stores the time that the Survey system began to execute (for delayed surveys)
+Analytical
+s_sv_p1
+LG (If javascript on user’s browser does not work, third party cookies are used)
+Stores the IDs of surveys that the have been taken or declined. Stores information to specify whether the visitor matched the sampling rate. Stores an ever increasing number used when launching Site Exit surveys to make sure the visitor has reached the customer-specified fatigue settings and should be excluded from surveys.
+Analytical
+Against user action on click online retailer links, service provider “Affiliatewindow” set cookies on the way of redirections
+Analytical
+_utma
+Google Analytics
+Determines unique visitors the your site and it is updated with a unique ID that Google Analytics is used to ensure both the validity and accessibility of the cookie as an extra security measure.
+Analytical
+_utmb
+Google Analytics
+Establishes and continues a user session with our site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established.
+Analytical
+_utmb
+Google Analytics
+Stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaign and page navigation with in your own site. The cookie is updated with each page view to your site.
+Functional
+pid (twitter) datr, locate, c_user,tr, locate, c_user, L, lu, W, xs(Facebook)
+Twitter Facebook
+Enables SNS share. User identification cookies are injected from SNS sites. (Does not include Personally ldentifiable Information
+Functional
+LG_COMPARE_CART
+LG
+Site Catalyst
+Functional
+email_addr
+LG
+Remember email address users type in, on the next visit of this page, the mail address is completed automatically
+Functional
+Bazaarvioce
+Functional
+Functional
+pcVersion
+LG
+Functional
+Bc-visit-id
+BoldChat
+BoldChat domain cookie that stores a unique visitID to identify a visit to the web site.
+Functional
+Bc-visitor-id
+BoldChat
+BoldChat domain cookie that stores a unique visitorID to identify a visitor to the web site.
+Functional
+_bcvm_vid_xxx:
+BoldChat
+1st party cookie on the web site domain – stores same data as VisitID
+Functional
+_bcvm_vrid_xxx:
+BoldChat
+1st party cookie on the web site domain – stores same data as VisitorID
+Functional
+_bcvm_vrid_xxx:
+BoldChat
+1st party cookie on the web site domain – identifies a pageview – created when visitor leaves a page
+How to disable or delete cookies?
+You may disable cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to disable all cookies (including strictly necessary cookies) you may not be able to access all or parts of the Sites.
+Disabling a cookie or category of cookie does not delete the cookie from your browser. You will need to do this separately within your browser.
+If you would like to make changes to your cookie settings, please go to the 'Options' or 'Preferences' menu of your browser. Alternatively, go to the 'Help' option in your browser for more details.
+To learn more about the cookie settings for your browser, please select the links below:
+Use of Information and grounds for processing
+Personal Information
+We use your Personal Information that is collected on these Sites primarily for the following purposes:
+We use your Personal Information for these purposes on the basis that such use of your personal information is necessary: (i) to fulfil a contract that we have in place with you, (ii) for the purposes of our or a third party’s legitimate interests (including our legitimate commercial and related interests, such as our interests as a global consumer electronics products manufacturer and service provider in improving our products and services, understanding our customers and potential customers plus providing you with information on our products and services); or (iii) for compliance with a legal obligation to which we are subject, or where you have given us your consent.
+Sharing and Disclosure of Information
+The following are some examples of how we may share or disclose your Personal Information:
+• To fulfil a service to you. For example, if you purchase or download an item from the Sites we may share your Personal Information in order to provide the item to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. In addition, if you purchase a product via the Sites, we may need to share your data with third parties in order to have that product delivered to you and installed as you requested. Also, if you are entering a competition or prize draw, we may use your Personal Information in order to fulfil the terms of that promotion.
+• To our parent company, subsidiaries and affiliates in order to better serve you. LGEUK may have to share your data with these parties in order to provide you with services that have been requested by you, or so that we can ensure our services and products are meeting your needs. For example, in some instances LGEUK may be required to transfer your data to our parent company in the Republic of Korea in order to provide you with a product or service requested by you, but will do so in full compliance with all applicable data protection legislation (including but not limited to the Act).
+• To selected third-parties including:
+1. Service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfilment, providing customer service, maintaining and analysing data, sending customer communications on LGEUK's behalf, and entry collection, winner selection and prize fulfilment for contests, sweepstakes and other promotions).
+2. Business partners where necessary, to enable you access to services you request or sign up for through our products or any promotional material related to these services.
+3. Other third-parties to provide you with promotional or marketing communications, which we feel you are interested in or may be relevant to you. This is only if you have opted in to receiving such communications and you may opt out at any time by writing to us or clicking an opt-out link at the bottom of any third party marketing emails.
+We will seek to ensure that these unaffiliated third parties will not use the Personal Information in a way which is outside the scope of this privacy policy and where applicable, for any purpose other than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers help us administer our Sites they will have access to users' Personal Information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any Personal Information to us.
+• To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of LGEUK or act in urgent circumstances to protect the personal safety of our end users.
+• To third parties as part of any corporate reorganisation process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
+• To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive Personal Information about you from such services.
+• To strategic partners, agents or other unaffiliated parties, but only with your additional express consent. These parties may use your Personal Information to contact you with an offer or advertisement related to a product or service.
+Except as described in this privacy policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your Personal Information to any third parties.
+Collection and use of information from children under the age of 13
+LGEUK does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to use the Sites. If you are under 13 please do not attempt to register on the Sites or send us any Personal Information.
+Forums, Chat Rooms and Other Public Posting Areas
+Please note that any information you include in a message you post to any product review board, chat room, forum or other public posting area is available to anyone with Internet access. If you do not want people to know your e-mail address, for example, do not include it in any message you post publicly.
+Third Party Web Sites
+This statement applies solely to information collected on the Sites. The Sites may contain links to other websites. We are not responsible for the privacy practices or the content of these other websites.
+Assignment
+In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the Personal Information and Non-Personal Information collected via the Sites.
+Changes to this Privacy Policy
+We reserve the right to change this privacy policy from time to time in our sole discretion. When we do, we will also revise the "Last Updated" date at the bottom of this privacy policy and only where appropriate, this may be communicated to you via email. Please check back frequently to see any updates or changes to our privacy policy.
+Security
+We use reasonable technical and organisational methods to safeguard your information, for example, by password protecting (via usernames and passwords unique to you) certain parts of the Sites and by using SSL encryption and firewalls to protect against unauthorised access, disclosure, alteration or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software
+Whilst we will use all reasonable efforts to safeguard your information, you acknowledge that data transmissions over the internet cannot be guaranteed to be 100% secure and for this reason we cannot guarantee the security or integrity of any Personal Information that is transferred from you or to you via the internet and as such, any information you transfer to LGEUK is done at your own risk.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing Personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+Retention
+Your Personal Information will be retained for as long is reasonably necessary for the purposes listed in this policy and these are either for legitimate business interests,  as required by law or as necessary to perform a service to you. Please contact us for further details of applicable retention periods.
+We may keep an anonymised form of your Personal Information which will no longer refer to you, for statistical purposes without time limits, to the extent that we have a legitimate and lawful interest in doing so.
+Governing Law / Venue / Forum
+This Agreement shall be governed by the laws of England and Wales.
+Your Rights
+You have the right to: (i) request information on and access to all the Personal Information we hold about you; (ii) request that any inaccurate Personal Information we hold be corrected; (iii) to object to certain types of processing of your Personal Information we carry out (including the right to opt-out of any direct marketing); (iv) request that we delete the Personal Information we hold about you, subject to our retention policies; and (v) to request a copy of your Personal Information in a machine readable, commonly used format (or to request we transfer your Personal Information in such a format to a third party service provider).
+Whilst some of these rights can be exercised by you directly through the Sites many of the rights, such as those relating to requests to delete your personal information, will need to be submitted to us. We will consider such responses and respond to you within 30 days. We may charge you a small fee and may require verification of your identity for providing a copy of your information as permitted by law
+Quick Reference:
+Quick Reference:
+Transparency and to be informed
+You have the right to be informed about how your personal information is used. This information, where applicable is either listed in this privacy policy, or you can contact us for further information.
+Rectification
+Where any of the personal information we hold about you is incorrect, you have the right to request rectification of this.
+Erasure and restriction of processing
+You have the right to request erasure of your personal information or to request a restriction on how we use it, these rights are not absolute and we may need to retain your personal information, for example to comply with a legal obligation, or to exercise or defend a legal claim.
+Object
+You have the right to object to your personal information being used for a particular purpose and you can exercise these rights, for example, via an unsubscribe link at the bottom of any email.
+Access
+You have the right to request information concerning the personal information we hold that relates to you.
+Transfer Outside of the EEA
+If you choose to provide us with Personal Information, LGEUK may transfer the information to its affiliates and subsidiaries or to other third parties, across borders and store it a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us, our parent company in the Republic of Korea or for one of our suppliers. This includes staff engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. Please note, these may be to other jurisdictions around the world, which may not have the same data protection laws as your country, but where possible we shall take reasonable measures to procure that your data is protected i.e. by having adequate (data transfer) contracts in place with any transferee(s) and/or by procuring that transferees are certified by mechanisms such as the Privacy Shield (applicable only to the USA).
+By providing your Personal Information you should be aware that we will:
+• use your Personal Information for the uses identified above in accordance with this privacy policy; and
+• transfer your Personal Information to a country outside your country of residence, as described above.
+We will adopt appropriate safeguards necessary to ensure that your Personal Information is treated securely and in accordance with this policy and applicable laws. For further information on such safeguards, please contact us.
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. If you are visiting from a country outside the UK, please note that you are transferring your Personal Information to the United Kingdom, which may not have the same data protection laws as your country.
+For Businesses
+Where you are acting in the course of your business, we may process your data as reasonably expected to maintain our business relationship, fulfil a service to you and/or to send you marketing content about our products/services. This will be for a legitimate interest, contractual necessity, the administration of justice or to comply with a legal obligation.
+Additionally, where any business or any individual acting under the course of a business (whether alone or on behalf of another) shares data with us, we request that you only provide personal information where it is necessary and justifiable under a processing ground, such as contractual necessity, legitimate interest or to comply with a legal obligation. You must also ensure the data subject is aware that you will be sharing their personal information for such purposes and that your collection/processing of their personal information is in accordance with the provisions of Data Protection Law.
+Where possible, you will minimise the amount of personal information you share with us, so we both comply with the data minimisation principle. Should you share personal information excessive to the purposes required, it should be in a pseudonymised or anonymised format. All personal information should be transmitted to us in a secure manner.
+Should you have any queries on this policy or on your privacy with LGEUK generally, please either write to our address above directing any communication to the privacy manager, or alternatively email: dpo-eu@lge.com .
+If you would like further information, please visit the website of the Information Commissioners Office (the UK data protection authority) on https://ico.org.uk or alternatively contact us.
+LG Product Service and Support
+Get your questions answered about product setup, use and care, repair and maintenance issues.  We can help.
+Email
+UK :0344-847-5454
+IE :01-686-9454
+Sunday: Closed
+Saturday & Sunday: Closed
+Bank Holidays: Closed
+LG TV, Appliances, Mobile Phones, Monitors & Projectors
+Life’s about more than having the latest technology. It’s about the experiences technology creates. From TVs and home appliances to mobile phones and computer products , LG UK delivers consumer electronics that let you embrace life and prepare you for its greatest moments.
+LG Electronics UK designs consumer electronics that are intuitive, responsive and energy efficient so you can spend wisely, be more productive and lessen the impact on the world around you. We’re committed to providing electronics that work best for the way you live and to keeping you updated with the latest technological advances. After all, life’s better when you’re prepared.
+Copyright © 2009-2018 LG Electronics. All Rights Reserved

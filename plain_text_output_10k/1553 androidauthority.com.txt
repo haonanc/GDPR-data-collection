@@ -1,0 +1,49 @@
+341
+Privacy is a big deal these days. Facebook is all over the place with Congress and the whole Cambridge Analytica thing. People are more aware of their privacy (or lack thereof) than ever before. So lets break it down. Privacy apps do one of two things. They keep others from seeing what you do and they let you see what companies are doing to you. We have a healthy mix of both in this list. Let’s check out the best privacy apps for Android!
+10 best security apps for Android that aren’t antivirus apps
+5 best home security apps for Android!
+AppLock by SpSoft
+DOWNLOAD ON GOOGLE PLAY
+An Applock is an excellent privacy measure. There are a bunch of them. However, we'll recommend SpSoft's. It doesn't matter really, though, as they all do the same thing. It prevents unauthorized people from entering apps on your device. It's important to note that these apps aren't flawless. You can bypass one with enough effort and time. They do a good enough job to keep out snooping friends or kids, though. Many of them are free with an optional pro version as an in-app purchase. Some of them also include additional features like taking photos of people who enter your password wrong.
+DOWNLOAD ON GOOGLE PLAY
+DOWNLOAD ON GOOGLE PLAY
+DuckDuckGo Privacy Browser is a web browser. It lets you access the web with a little more safety than normal. The app blocks website trackers, forces sites to use encrypted connections (if possible), and it rates the privacy policies of various sites with a grade score. It also uses the DuckDuckGo search engine. The search engine claims not to track your various searches, even for ad purposes. It's a good start without sacrificing too much. Chrome, Firefox, Edge, and similar web browsers still have vastly more features, though. Ghostery is another great web browser in this space.
+DOWNLOAD ON GOOGLE PLAY
+DOWNLOAD ON GOOGLE PLAY
+Firefox Focus is another excellent web browser with privacy in mind. This one does a little more than most of its competitors. That includes blocking a wide range of common web trackers and advertisements. The developers say that this also improves browsing speeds as well. Its hallmark feature is a one-button wipe function. You simply press a button and your browsing history goes away. That's a neat little trick. This one is entirely free to download and use.
+DOWNLOAD ON GOOGLE PLAY
+DOWNLOAD ON GOOGLE PLAY
+GlassWire is one of the better privacy apps. It does two things. The app monitors your data usage. That's useful for those who have metered data on their phone plans. It also shows you the apps using your data in real time. You can see whenever an app connects to its servers or uses your data. You can adjust your usage or app selection accordingly with that knowledge. The app also has some customization features for monitoring and other stuff. This is a good one folks, and it's cheap too.
+DOWNLOAD ON GOOGLE PLAY
+DOWNLOAD ON GOOGLE PLAY
+K-9 Mail is one of the few trustworthy email apps. It's totally free and also open source. Thus, you can see what this app actually does. It includes most of the desirable features for an email app. That includes support for most email services, archiving, and even Exchange 2003/2007 support. It also works with the OpenKeychain: Easy PGP app. That adds encryption to the mix as well. That's about as good as it gets in this space, even though it requires two different apps. ProtonMail is another excellent app in this space.
+DOWNLOAD ON GOOGLE PLAY
+15 best Android VPN apps
+15 best antivirus apps and best anti-malware apps for Android!
+Musicolet
+DOWNLOAD ON GOOGLE PLAY
+Musicolet is an interesting music player app. It plays your stored music without any fuss. The app boasts a few decent features, like multiple queues, playlist support, album art, and tag editing. It also manages to do all of this without Internet permissions. Music apps don't typically mess with people's privacy. Still, it's nice that an option like this one exists. It's also a totally free app with no advertising (obviously).
+DOWNLOAD ON GOOGLE PLAY
+DOWNLOAD ON GOOGLE PLAY
+VPNs are among the very best privacy apps. They let you connect to a virtual network that hides what you do from the actual network. This basically lets you browse without anyone knowing what you're doing (or even where you are). We'll start by recommending ProtonVPN. It's a free VPN with a no logging policy. It also boasts encryption, full transparency, and more. You can get VPNs with more features and higher bandwidth, but they usually cost money. This one is great for people who just need something to pay a bill online while at the airport or other sensitive tasks that they don't want their ISP (or anyone connected to public WiFi) to see.
+DOWNLOAD ON GOOGLE PLAY
+Price: Free / $1.99 (optional)
+DOWNLOAD ON GOOGLE PLAY
+Simple Mobile Tools is a developer on Google Play. It makes simple mobile tools, obviously. There are a variety of apps available, including a calendar, a gallery, a file manager, a contacts app, a note taking app, and a few others. These apps use no unnecessary permissions. The gallery app doesn't need your location, the note taking app doesn't need access to your device ID, etc. These are excellent privacy apps that are also functional every day. They don't have the same level of features as the big names. However, not everyone needs a calendar as powerful as Google Calendar. These are great substitutes for a lot of stock apps that ask for way too many permissions.
+DOWNLOAD ON GOOGLE PLAY
+Price: Free
+DOWNLOAD ON GOOGLE PLAY
+Telegram and Signal Private Messenger are two outstanding privacy apps. In fact, Telegram is so good at keeping secrets that the Russian government is trying to ban it right now. Both of these apps do similar things. They let you message other people with full encryption. They also support photo, video, and file sharing along with voice calls, group chats, and more. Both apps are both equally good in slightly different ways. However, if push came to shove, we would recommend Telegram because it has a lot of momentum right and more people are there. Popularity does matter when it comes to chat apps.
+DOWNLOAD ON GOOGLE PLAY
+DOWNLOAD ON GOOGLE PLAY
+The Tor Project is basically hardcore mode for privacy fans. It's a little tough to set up and get used to. However, it's probably the best set of privacy apps available. The Tor Project has three apps in total. Orbot is a proxy app that uses Tor to encrypt your Internet traffic. Orfox is a privacy browser, and OONI Probe is an app that monitors your Internet connection for censorship. Make no mistake, this is the jumping off point from a passing interest in improving security to actually caring about security. Tor is also available on desktop computers as well.
+DOWNLOAD ON GOOGLE PLAY
+Thank you for reading!
+10 best gallery vault apps for Android!
+5 best private messenger apps for Android!
+ 
+September 9, 2018
+Don't Miss Out!
+Get awesome updates and giveaways every week
+We guarantee 100% privacy. Your information will never be shared. Sign up now and get FREE access to our upcoming exclusive AA Insiders Club:
+Android Authority APPGet it on

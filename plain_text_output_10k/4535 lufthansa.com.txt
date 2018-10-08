@@ -1,0 +1,133 @@
+1. Who processes your personal data collected through this website?
+Europcar International S.A.S.U whose registered office is located at Bat OP - 2, rue René Caudron, 78960 Voisins-le-Bretonneux, France (hereinafter referred to as "ECI") is responsible for the processing of your personal data (i.e. any information that would allow to identify you, either directly or indirectly) collected through this website.
+2. For what purposes does ECI collect your personal data?
+ 
+a) Your registration as ECI member, creation of your account and providing you with a ECI ID.
+This processing is necessary to identify you and to prepare and facilitate your future booking / rental agreements with ECI. 
+b) Your booking:
+to confirm and guarantee your booking; 
+to modify or cancel your booking;  
+to exchange with you in relation to your booking (e.g. to provide you with information on your booking, to send you reminder notice before your check-in / check-out, to respond to your questions or suggestions);
+to manage your invoices if you decide to pay in advance, and handle any arrears; 
+to manage potential claims
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i. the sending of email and SMS notifications for special promotions / deals; 
+ii. the recording of your rental history to suggest you preferred products / services when looking for new booking / rentals; 
+iii. the recording of your rental history: 
+- to send you commercial messages,
+- to send you special offers; and/or 
+- to make you benefiting from special advantages; 
+depending on the volume, amounts, frequency of your orders, duration of your rentals and your activity on our website (e.g., number of visits);
+iv. the sending of emails about a booking you did not complete or send you a summary about a booking enquiry; 
+v. the management of your loyalty program and membership card;
+vi. the organization of promotional contests / sweepstakes; 
+vii. the management and update of Europcar customers / prospects database
+viii. the publication of your ratings on Europcar products / services. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to transfer to the Agence Nationale de Traitement Automatisé des Infractions the identity of the driver (or potential driver); 
+to satisfy fines collection procedure to which ECI may be subject
+This processing is required by law.
+ 
+ 
+ 
+i. payment incidents which have given rise to legal proceedings;
+ii. vehicle accidents or repeated damages caused by Europcar customers
+iii. accidents or damages caused voluntarily by Europcar customer;
+iv. use of Europcar vehicles in breach of the general terms and conditions for rental of vehicles.  
+ 
+ 
+3. Who are the data recipients of the personal information we collect about you?
+3.1 Categories of recipients
+ 
+a) to the authorised personnel of ECI and of entities of the same group, entities of ECI franchise network and agent / sales intermediary appointed by ECI, for the purposes described in this privacy policy;
+b) third party IT service providers for technical purposes in order to help ECI in providing you with access to this website and to Europcar products / services. The main IT service providers are:
+Cap Gemini, for business applications development and maintenance; 
+Sopra Steria, for data center maintenance and user support services; 
+Unisys, for hardware implementation and maintenance; 
+SalesForce, for marketing services; 
+Google Inc., in particular for hosting services and business applications.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. For what period will ECI retain your personal data?
+ 
+Retention period
+Your registration as Europcar member, the creation of your account and the provision of your with Europcar ID Your booking
+For the duration of the commercial relationship. However, information that may evidence a right or a rental agreement, or that must be kept in compliance with a legal requirement, may be subject to an intermediate archiving policy for a period of time that does not exceed the time that is necessary for the purposes for which it is kept, in accordance with applicable legal provisions.
+Payment – Payment card information
+Upon effective completion of the payment. However, payment card information (excluding the visual cryptogram): that may evidence a payment (i.e. card number and date of validity) is subject to an intermediate archiving policy for a period of time of 13 months after the effective payment for a credit card and 15 months for a deferred debit card, to be used only if the transaction is disputed; can be retained for a longer period, subject to your express consent to facilitate future payments.In any case, when the payment card is expired, related information will be deleted.
+Promotional and marketing activities
+For ECI customers, 3 years as from the end of the relationship with ECI. For prospects – who are not Europcar customers – 3 years as from the collection of your personal information OR as from the last request for information you made.
+Cookies
+Operation of ECI live web chat
+3 years as from the end of the relationship with ECI.
+Improvement of ECI services depending on your preferences
+3 years as from the end of the relationship with ECI.
+Payment of fines
+For the time necessary to identify the driver (or the potential driver) liable for the infraction leading to the fine, which cannot exceed 45 days after receipt of the fine. However, relevant information can be kept for a longer period of up to 12 months after receipt of the fine, subject to an intermediate archiving policy. Requests fromAgence Nationale de Traitement Automatisé des infractionsincluding personal information are deleted once these requests have been proceeded by ECI.
+The management and update of a blacklist of customers presenting certain contractual risks namely: payment incidents which have given rise to legal proceedings vehicle accidents or repeated damages caused by Europcar customers accidents or damages caused voluntarily
+3 years as from the occurrence of the relevant event
+the use of Europcar vehicles in breach general terms and conditions for rental of vehicles
+5 years as from the occurrence of this event
+ 
+5. What rights can you exercise with respect to the processing of your personal data?
+ 
+ 
+ 
+ 
+ 
+i.  where your data are processed for direct marketing purposes; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Regarding the purposes of the processing, the categories of personal data concerned, the categories of recipients, whether these data are transferred to third countries and appropriate safeguards put in place (if any), the storage period, the existence of any automated decision-making based on these data, the right to lodge a complaint with the relevant data protection authority, the existence of other data subjects' rights (rectification, erasure, restriction).
+ 
+ 
+6. Who to contact when you have a query regarding the processing of your personal data?
+ 
+ 
+ 
+7. How does ECI protect your personal data?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 encodes the data, so that it cannot be read by anyone other than the secure server; 
+ 
+ 
+ 
+8. What rules apply to the processing of your personal data when clicking on links placed on ECI website directing to ECI partner's websites or other websites?
+ 
+9. Changes to this Privacy Policy
+ 
+ 
+ 

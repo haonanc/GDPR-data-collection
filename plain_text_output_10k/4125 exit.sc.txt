@@ -1,0 +1,27 @@
+Effective on 25th May 2018
+We, Secret Exit Oy (also called Secret Exit Ltd.) are an independent video game developer located in Finland. Our main focus is to make great games, not collect data.
+This Privacy Notice explains what personal information is being collected by us and our partners when you use our games, mobile applications and our websites (together "Services"), and your ways to control your personal information.
+Information we collect about you
+We do not collect any personal information of our players, users or our website visitors. None of your personal information is stored on our servers.
+However, if you play our games, our partners collect some information about you. Please read further to understand what kind of information is being collected.
+Information that you provide us
+If you contact us via our support channel, we will store your message(s) and other information you choose to give us (for example error logs or information related to your mobile device or your store account) for further analysis. Support messages containing threats may be reported to public authorities.
+Information collected by our partner ad networks
+In Turbo Dismount for Android and Turbo Dismount for iOS we offer you an option to wiew ads. Ads are delivered by our ad network partners. These partners may collect information about you.
+Our network partner will display a consent dialog before playing an ad, explaining what information is being collected and why. We strongly recommend that you to read these dialogs and any notices related to them before giving your permission. Please note that we use several ad networks, so you may be asked to give your consent several times.
+We take good care on selecting our partners and make sure that your information is handled and stored securely. You can check our ad network partners and their GDPR compliance here: Unity: https://unity3d.com/legal/gdpr and https://unity3d.com/legal/gdpr Vungle: http://vungle.com/gdpr-faq/
+Unity offers you the possibility to opt-out your consent in every ad. By clicking the icon with a hand and a shield you are taken to a message from Unity, where you have an option to check Unityâ€™s privacy policy,  information about the data collected about you, possibility to choose whether you prefer to have personalised ad content or not, and possibility to delete any data Unity has collected about your device.
+If you wish to opt-out the consent given to Vungle, you may contact us (See Contact us) and we will take care of that your consent is changed to non-targeted ads list. In order to do that, we will need your device ID.
+Information collected by our distribution partners
+When you buy our game, the store you use collects information about the transaction. This information is anonymised. We use our access for accounting, and when permitted by store, for processing refunds.
+In some of our games we use leaderboards provided by Google Play (for Android games) or iOS. No score are stored on our servers.
+International data transfers
+As many of our partners are located outside EU or EEA, your personal information may be transferred, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country. We have taken appropriate safeguards to require that your personal information will remain protected in accordance of this Privacy Notice.
+Your rights
+In accordance with the European Union GDPR act you have the right to access, correct, update, or request deletion of your information. In addition you can restrict sharing your information.
+You may contact us if you are using our Services and you are unsure who is the Controller of your data records. In order to check your private information collected via support channel please contact us.
+About this privacy notice
+We may update this Privacy Notice in response to legal, technical or business developments. You can see when this Privacy Notice was last updated by checking the "Effective on" date displayed at the top of this Privacy Notice.
+Contact us
+If you have questions or concerns about our use of your personal information, please contact us.
+Secret Exit Oy, Business id 2082918-2 gdpr@secretexit.com

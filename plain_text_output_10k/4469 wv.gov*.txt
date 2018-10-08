@@ -1,0 +1,482 @@
+Scope
+Each Department must continue to operate within its legal authority and restrictions with regard to the collection, use, disclosure and retention of personally identifiable information (PII). Where the statutes governing PII are more restrictive, they will control. However, if there is no agency, program or subject matter specific law governing the PII, the more general law will apply.
+This report is intended to review laws that impact the enterprise. Necessarily, there will be privacy laws not covered in this report, as they impact isolated agencies. If a privacy law is not covered in the report, but may have a wide impact, a request should be made to the Executive Branch Privacy Office for inclusion in the next report. This report will be reviewed and updated on an annual basis, with issuance in the fall of each year.
+Laws are divided into two categories – Federal and State.  Each law is identified by common name, legal citation with a description, implications and electronic source. Each law is mapped to applicable Privacy Principles .
+Federal
+Description:
+Except in certain situations, federal, state and local government cannot deny an individual “any right, benefit, or privilege provided by law because of such individual’s refusal to disclose his Social Security account number.” This prohibition does not apply in two scenarios. The first is where a federal law mandates disclosure of the SSN. The second is where a federal, state or local agency “maintain[s] a system of records in existence and operating before January 1, 1975, if such disclosure was required under statute or regulation adopted prior to such date to verify the identity of an individual.”
+Where government requests an individual to disclose his or her SSN, the Department must “inform that individual whether that disclosure is mandatory or voluntary, by what statutory or other authority such number is solicited, and what uses will be made of it.”
+While enforcement is not specifically delineated in the law, private individuals have successfully sued state and local government in the 4th Circuit, and other circuits, under this law.
+Implications:
+Departments must assess where they collect the SSN and tie it to a right, benefit or privilege, where they are mandated by federal law to do so and where they have a system of records, required by statute or regulation, in existence before January 1, 1975.
+Where Departments cannot collect the SSN under the Privacy Act, they must assess their business operations and implement an alternative method of identifying individuals.
+Where Departments can continue to collect the SSN under the Privacy Act, they must provide notice consistent with this law.
+Where Departments collect the SSN lawfully, they must not use it for any secondary purpose that does not meet the Privacy Act requirements and is not delineated in the Notice.
+Departments must adopt policies and procedures regarding SSN collection and use, and display of the Privacy Act notice.
+Source:
+42 U.S.C. § 405(c) (2).
+Description:
+This law amends the Social Security Act by authorizing states to use the SSN as an identifier in the administration of any tax, general public assistance, driver’s license, or motor vehicle registration law and allows states to require individuals to furnish their SSN to the state with regard to these programs. 
+Note:  Congress has passed additional laws over the years allowing states to use the SSN as an identifier in a variety of programs.  See    CRS Report - SSN Laws
+Implications:
+Use of the SSN as an identifier in certain instances is authorized by federal law. 
+As Departments develop their notices, and determine that from a business process standpoint that they must use the SSN as an identifier, they must identify the federal law which gives them the authority to do so. This law may provide the requisite authority for the SSN collection.
+1.3.  Omnibus Reconciliation Act of 1990, § 2201(c)
+42 U.S.C. § 405(c) (2) (C) (viii) (I).
+Description:
+This law requires that all SSNs and related records obtained by federal or state authorized persons pursuant to laws enacted on or after October 1, 1990 “shall be confidential, and no authorized person shall disclose any such Social Security account number or related record.” 
+Because West Virginia law requires that all state executive branch agencies safeguard all SSNs and treat them as confidential, with disclosure as authorized by law,  W. Va. Code § 5A-8-21, 22, the only additional requirement yielded by this federal statute is with regard to the prohibition on disclosure.
+The Attorney General of Oregon has interpreted this prohibition on disclosure to simply mean that there can be no unauthorized redisclosure.  47 Or. Op. Atty. Gen. 1, 37, 1993 WL 602063 (Or. A.G. 1993).  An authorized redisclosure includes a redisclosure with the individual’s informed consent.  Therefore, if an individual who receives a legally sufficient Privacy Act Notice discloses his or her SSN to the Department and thereby consents to the uses and disclosures identified in the notice, the Department may redisclose the SSN per the Notice.  Id.  
+Unauthorized willful disclosures of SSNs and related records are felonies and punishable by fines and/or imprisonment.
+Implications:
+Departments shall assess where they are disclosing SSNs.
+Departments shall adopt policies and procedures ensuring that they only disclose SSNs in accordance with their legally sufficient Notices.
+Departments shall safeguard SSNs and keep them confidential.
+1.4. Health Insurance Portability and Accountability Act, (HIPAA), “Privacy Rule”
+45 C.F.R. §§ 160 and 164
+Description:
+The HIPAA Privacy Rule became effective April 14, 2003 and applies to health plans, health care providers who bill electronically and health care clearinghouses.  This Rule provides a foundation of federal protections for the privacy of protected health information (PHI) in any medium including electronic records, paper records and verbal communications.  The Rule does not replace State law that grants individuals even greater privacy protections.  The Rule covers:  uses and disclosures of PHI, authorizations, minimum necessary use and disclosure, workforce policies, patients’ rights, organizational matters, legal matters, and safeguards.
+The regulations of the HIPAA Privacy Rule detail requirements for HIPAA Privacy Notices provided by covered entities that maintain a website that provides information about the Covered Entity’s customer services or benefits.   In such instances, privacy practices must be prominently posted on the website and a link to the full privacy notice must be available through the website.  The Office for Civil Rights enforces the Privacy Rule.  There are civil and criminal penalties for noncompliance.
+There is no specific breach notification provision under the original HIPAA’s Privacy Rule.  However, the regulations provide that a Covered Entity must “identify and respond to suspected or known security incidents; mitigate to the extent practicable, harmful effects of security incidents known to the Covered Entity and document security incidents and their outcomes.”  A breach notification requirement was subsequently added by the Health Information Technology for Economic and Clinical Health (“HITECH”) Act passed in 2009.  For a full discussion of this law, see Section 1.21 herein below.
+Implications:
+Departments have completed their HIPAA assessment and implementation and are in the compliance phase. If any Department has not completed its assessment, please contact the State Privacy Office.
+Any Department that undertakes a new health-related responsibility should complete a HIPAA Covered Entity Assessment.
+HIPAA covered agencies must ensure that they have policies, procedures and Business Associate Agreements to carry out the Privacy Rule’s requirements and that they have trained their workforce as appropriate.
+HIPAA covered agencies have already implemented the HIPAA Privacy Rule requirements need to engage in compliance activities to ensure that the HIPAA Privacy Rule provisions are met.
+Agencies with Business Associates must be aware that the State Government HIPAA Business Associate (BA) Agreement Addendum requires the BAs to promptly disclose to the State agency all unauthorized disclosures. The BAs are obligated to mitigate, “to the extent practicable, any harmful effect” resulting from the unauthorized disclosure. Mitigate is not defined. Agencies must work with their BAs in the event of a breach.
+BAs must keep a HIPAA-compliant log of certain disclosures of PHI for each individual’s PHI, which includes disclosures resulting from a breach.
+1.4.1.   Health Insurance Portability and Accountability Act (“HIPAA”), “Security Rule”
+45 C.F.R. § 164.302 -§ 164.318
+Description:
+The HIPAA Security Rule, published by the Department of Health and Human Services (“HHS”), describes what "Covered Entities" must do to make sure patients’ medical files are secure. The Security Rule is in effect for all entities.
+Patients receive Notice about privacy practices, but data security operates behind the scenes. The Security Rule is important to patients because, like the Privacy Rule, it creates a national standard. This means that all health care providers, health plans, and health care clearinghouses that transmit information electronically must adopt a data security plan.
+Only health information maintained or transmitted in electronic format is covered by the Security Rule; thus paper records stored in filing cabinets are not subject to the security standards.
+The Security Rule, according to the HHS, is designed to be flexible, establishing a security framework. All covered entities must have a written security plan. The HHS identifies three components as necessary for the security plan. These are:
+Administrative safeguards
+Physical safeguards
+Technical safeguards
+Each of the three major categories has a number of additional subcategories. In addition to the required components, other factors are "addressable," items that should be considered and adopted if suitable to the Covered Entity's size and organization.  Among the addressable factors set forth in the Security Rule as part of rule compliance is continuing education. This includes periodic security updates. The continuing evaluation process should be developed and implemented to maintain sustainability of HIPAA Security compliance. Systematic and controlled reviews of changes that affect data security are necessary for a comprehensive evaluation program. Each Department must identify, train and assign individuals to key processes associated with technology and operations change. 
+The Security Rule requires covered entities to adopt "incident" reporting procedures. According to HHS, the Security Rule does not specifically require any incident reporting to outside entities. Thus, the HIPAA Security Rule does not require breach notification.
+Implications:
+Ensure the confidentiality, integrity, and availability of all electronic protected health information (E-PHI) the Covered Entity creates, receives, maintains, or transmits.
+Protect against any reasonably anticipated threats or hazards to the security or integrity of E-PHI.
+Protect against any reasonably anticipated uses or disclosures of E-PHI that are prohibited by the HIPAA Privacy Rule.
+Ensure compliance by the workforce.
+Develop methods and procedures for continuing evaluation to maintain sustainability of HIPAA Security compliance.
+Establish procedures for periodic evaluation of implemented security measures.
+Note:
+Pursuant to the Code of Federal Regulations establishing Conditions for Federal Financial Participation, 45 CFR § 95.621, Departments are responsible for the security of all automated data processing systems involved in the administration of HHS programs, and includes the establishment of a security plan that outlines how software and data security will be maintained. This section further requires that Departments conduct a review and evaluation of physical and data security operating procedures and personnel practices on a biennial basis.  CMS issued a letter to state Medicaid directors dated September 20, 2006, which specifically requires state agencies and their BAs to comply with the HIPAA Security requirements. In addition, CMS is requiring that all contracts include a provision requiring contractors to report to the state Medicaid staff breaches of privacy or security.  The state is then obligated to report the breach to CMS.
+Implications/Best Practices:
+Departments must remember that risk mitigation is the compliance objective.
+Security plans should present Department security features/requirements in terms of their risk mitigation benefits.
+Department security plans should document the risk mitigation rationale and effectiveness.
+Departments must balance the cost-effective dollar arguments against the higher obligation to ensure patient privacy and safety.
+Develop procedures to keep privacy and security concerns coupled.
+Departments who receive federal funding should check with their federal funder for additional requirements.
+Description:
+Substance abuse records in connection with federally assisted programs are confidential.  Federal assistance includes programs conducted by a federal agency; licensed, certified, registered or otherwise authorized by a federal agency; funded by a federal agency; and assisted by the IRS through allowance of income tax deductions or through the granting of tax exempt status to the program.  Confidential information includes name, address, SSN, fingerprints, photograph, or similar information by which the identity of the patient can be determined with reasonable accuracy and speed either directly or by reference to other publicly available information.  The protections begin when a person applies for or has been given a diagnosis or treatment for alcohol or substance abuse at a federally assisted program; protections are extended to former and deceased patients.  Use and disclosure must be limited to the minimum necessary.  Disclosure may not occur without patient consent, unless an exception applies, and restrictions apply to recipients of the information.  One significant exception is alcohol and drug testing that is not conducted as part of a diagnosis of or treatment for an alcohol or other substance problem is not protected by these confidentiality rules.  The regulations specify the elements that must be in the consent and the required accompanying statement.  The regulations also require security, notice of privacy rights to patients, patient access and restriction on use.
+A violation of the regulations may be reported to the U.S. Attorney in the judicial district in which the violation occurs. A methadone program which is believed to have violated the regulations may be reported to the Regional Offices of the Food and Drug Administration.
+There are criminal penalties for violation of these regulations.
+Implications:
+Departments should determine whether they receive and/or create substance abuse patient records.
+Departments that do receive and/or create substance abuse patient records must adopt policies and procedures to ensure compliance with these regulations.
+The CPO shall forward the information regarding the security requirements to the Director of Information Security.
+Departments cannot apply W.Va. Code § 27-3-1(b) (6) as revised by H.B. 3184, effective June 08, 2007, to substance abuse records from federally assisted programs.
+Notice, Minimum Necessary and Limited Use, Consent and Authorization, Individual Rights and Individual Participation, Security Safeguards
+Description:
+Any financial institution that provides financial products or services to consumers must comply with the GLB privacy provisions. An entity has consumers if it provides financial products or services to individuals, not businesses, to be used primarily for their personal, family, or household purposes.  Under the FTC’s Privacy Rule, a financial institution means "any institution the business of which is engaging in financial activities as described in § 4(k) of the Bank Holding Company Act of 1956 [12 U.S.C. § 1843(k)]." See 16 C.F.R. § 313.3(k) (1).  Further, you are not a financial institution unless you are significantly engaged in financial activities. Id.
+Financial activities generally include lending money, investing for others, insuring against loss, providing financial advice, making a market in securities, mortgage lenders, "pay day" lenders, finance companies, mortgage brokers, non-bank lenders, account servicers, check cashers, wire transferors, travel agencies operated in connection with financial services, collection agencies, credit counselors, and other financial advisors, tax preparation firms, non-federally insured credit unions, and investment advisors.  Government entities that provide financial products such as student loans or mortgages are financial institutions that engage in financial activities.  However, before GLB applies, the financial institution must be “significantly engaged” in financial activities, which is a flexible standard that takes into account all the facts and circumstances.
+GLB provides privacy, safeguarding and pretexting (regarding obtaining information under false pretenses) requirements.  GLB privacy protections require initial and annual distribution of privacy notices and place limits on disclosures of nonpublic personal information. The FTC is authorized to enforce this law.
+Implications:
+Departments must assess whether they are significantly engaged in financial activities.
+If applicable, Departments shall develop policies and procedures to ensure an initial and annual notice is distributed and that there are limits on disclosure of nonpublic personal information.
+The CPO shall forward the information regarding the safeguard requirements to the Director of Information Security.
+Notice, Consent and Authorization, Minimum Necessary and Limited Use, Security Safeguards
+Description:
+The Safeguards Rule, which implements the security requirements of the GLBt, requires financial institutions to have reasonable policies and procedures to ensure the integrity and confidentiality of customer information.
+The Rule is intended to be flexible to accommodate the wide range of entities covered by GLB, as well as the wide range of circumstances entities face in securing customer information. Accordingly, the Rule requires financial institutions to implement a written information security program that is appropriate to the entity's size and complexity, the nature and scope of its activities, and the sensitivity of the customer information it handles. As part of its program, each financial institution must also: (1) assign one or more employees to oversee the program; (2) conduct a risk assessment; (3) put safeguards in place to control the risks identified in the assessment and regularly test and monitor them; (4) require service providers, by written contract, to protect customers' personal information; and, (5) periodically update its security program.
+GLB regulations require entities to prepare a written information security plan that describes an entity’s program to protect client information.  All programs must be appropriate to the size and complexity, the nature and scope of activities, and the sensitivity of the client information at issue. 
+Entities significantly engaged in financial activities must:
+Designate the employee or employees to coordinate the safeguards.
+Identify and assess the risks to customer information in each relevant area of an entity’s operation, and evaluate the effectiveness of current safeguards for controlling these risks.
+Design a safeguards program and detail the plans to monitor it.
+Select appropriate service providers and require them (by contract) to implement the safeguards.
+Evaluate the program and explain adjustments in light of changes to an entity’s business arrangements or the results of security tests.
+Implications:
+Identify reasonably foreseeable internal and external threats that could result in unauthorized disclosure, misuse, alteration, or destruction of customer information or information systems.
+Assess the likelihood and potential damage of these threats, taking into consideration the sensitivity of customer information.
+Assess the sufficiency of policies, procedures, customer information systems, and other arrangements in place to control risks.
+Additionally, Departments should develop a written information security system, a written response program and develop procedures for:
+Assessing the nature and scope of an incident, and identifying what customer information systems and types of customer information breaches have occurred.
+Notifying its primary Federal regulator (if applicable) as soon as possible when the institution becomes aware of an incident involving unauthorized access to or use of sensitive customer information.
+Immediately notifying law enforcement in situations involving likely criminal violations requiring immediate attention.
+Taking appropriate steps to contain and control the incident to prevent further unauthorized access, such as by monitoring, freezing, or closing affected accounts, while preserving records and other evidence.
+Accountability, Security Safeguards, Notice
+Description:
+FCRA governs a consumer reporting agency’s creation and disclosure of consumer reports. A consumer reporting agency is “any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.” This summary will not address the consumer reporting agency’s responsibilities; this summary will also not address the responsibilities of furnishers of information to consumer reporting agencies.
+Entities procuring consumer reports must comply with FCRA. A consumer report concerns a “consumer’s credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living” and may be used for credit, insurance, employment or other business decision making. In the employment context, notice must be given that a consumer report will be procured and authorization obtained.  Before an adverse action is taken, the person intending to take the action must provide the consumer with notice, a copy of the report and a description of their rights. In an employee misconduct investigation conducted by a third party, notice does not need to be given to the employee and no authorization is required. At the end of the investigation, the employee is only entitled to a notice of adverse action and a summary of the report. Consumer reports may only be used for authorized purposes; however, a consumer’s identifying information may be given to a governmental agency without regard to the purpose. Before an entity procures an investigative consumer report, which is a report based upon personal interviews with neighbors, friends or associates, it must give notice to the consumer and certify compliance to the consumer reporting agency. FCRA generally requires that consumers be given notice and an opportunity to op-out with respect to marketing from organizations affiliated with the original receiver of the consumer report.
+FCRA also governs truncation of credit card and debit card numbers. Beginning December 4, 2006, any machines in use before January 1, 2005 that print receipts for credit card or debit card transactions shall not print more than the last 5 digits of the card number or the expiration date.  For all other machines put into use on or after January 1, 2005, this requirement went into effect December 4, 2004.
+Enforcement actions may be brought by the FTC (against the private sector), state attorneys general and private citizens. There are civil and criminal penalties.
+Note: 
+The FACT Act adds several new sections to FCRA, primarily of interest to banking institutions and consumer reporting agencies but also potentially pertinent to any entity that maintains consumer information or is a creditor. Regulations have now been issued which provide further compliance details. The FACT Act amends FCRA by requiring that any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation. One purpose of the FACT Act is to reduce the risk of consumer fraud and related harms, including identity theft, created by improper disposal of consumer information.
+Any business regardless of industry that obtains a consumer report or information derived from a consumer report will be subject to the record disposal rule imposed by the FACT Act. This includes entities that possess or maintain consumer information for a business purpose such as landlords, government agencies, utility companies, telecommunication companies, employers and other users of consumer reports.
+Any person that maintains or possesses consumer information is required to take reasonable measures to protect against unauthorized access to or use of the information in connection with its disposal. Entities covered by the FACT Act will need to consider the sensitivity of the consumer information, the nature and size of the entity operations, the costs and benefits of different disposal methods, and relevant technological changes. The FTC considers “reasonable measures” to include establishment of policies and procedures for disposal, as well as proper employee training.
+The Identity Theft “Red Flag Rules,” issued under the FACT Act become effective and mandate identity theft prevention programs be implemented in writing no later than November 1, 2008, by “financial institutions” and “creditors,” that hold covered accounts where the owner makes payments or transfers from an account that is mostly used for personal, family or household purposes and involves multiple payments or transactions. A covered account is also an account for which there is a foreseeable risk of identify theft. Financial institutions and creditors with covered accounts must implement an information security program to detect, prevent and mitigate identity theft in connection with the relevant warning signs (red flags) for identity theft for those accounts. The new rules include program requirements and provide “Red Flag” guidelines. 
+Numerous provisions of FACT Act significantly limit the State’s ability to regulate much of FCRA’s subject matter, as amended.
+Implications:
+Departments shall assess where they procure consumer reports.
+Division of Personnel and State Departments, as appropriate, shall adopt policies and procedures to ensure that consumer reports are properly procured and properly destroyed.
+The Chief Privacy Officer shall forward the information regarding the FACTA disposal requirements to the Director of Information Security.
+Division of Purchasing and Departments shall adopt policies and procedures to ensure that all machines purchased that print credit card and debit card receipts shall not print more than the last 5 digits of the card or the expiration date.
+Departments shall periodically assess whether they are subject to the Red Flag Rules.
+Departments that are subject to the Red Flag rules will develop written programs to detect, prevent and mitigate identity theft in connection with covered accounts.
+20 U.S.C. § 1232g; 34 C.F.R. Part 99
+Description:
+FERPA protects the privacy of student education records and applies to any public or private agency or institution (may be referred to as school) that receives funds under an applicable program of the U.S. Department of Education. Education records are those records, files, documents, and other materials which contain information directly related to a student and are maintained by an educational agency or institution. There are a number of exempted categories of records.
+FERPA gives parents certain rights with respect to their children's education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level. Students to whom the rights have transferred are "eligible students."
+Parents or eligible students have the right to inspect and review the student's education records maintained by the school; parents must be granted access within 45 days after the request is made. Schools are not required to provide copies of records unless, for reasons such as great distance, it is impossible for parents or eligible students to review the records. Schools may charge a fee for copies.
+Parents or eligible students have the right to request that a school correct records which they believe to be inaccurate or misleading. If the school decides not to amend the record, the parent or eligible student then has the right to a formal hearing. After the hearing, if the school still decides not to amend the record, the parent or eligible student has the right to place a statement with the record setting forth his or her view about the contested information.
+Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record to a third-party. The authorization form may be paper or electronic. However, FERPA allows schools to disclose those records, without consent, to the following parties or under the following conditions:
+School officials with legitimate educational interest;
+Other schools to which a student is transferring;
+Specified officials for audit or evaluation purposes;
+Appropriate parties in connection with financial aid to a student;
+Organizations conducting certain studies for or on behalf of the school;
+Accrediting organizations;
+To comply with a judicial order or lawfully issued subpoena;
+Appropriate officials in cases of health and safety emergencies; and,
+State and local authorities, within a juvenile justice system, pursuant to specific state law.
+Schools may disclose, without consent, "directory" information such as a student's name, address, telephone number, date and place of birth, honors and awards, and dates of attendance. However, schools must tell parents and eligible students about directory information and allow parents and eligible students a reasonable amount of time to request that the school not disclose directory information about them.
+Schools must notify parents and eligible students annually of their rights under FERPA. The actual means of notification (special letter, inclusion in a PTA bulletin, student handbook, or newspaper article) is left to the discretion of each school.
+Failure to comply with FERPA can result in loss of funds from any of the U.S. Department of Education’s applicable programs.
+Implications:
+Departments must assess whether they collect or maintain student education records and receive funds under an applicable program of the U.S. Department of Education to determine FERPA coverage.
+If FERPA applies, Departments shall adopt policies and procedures to ensure that the various requirements are in place.
+Description:
+The Driver’s Privacy Protection Act (DPPA) is similar to the West Virginia’s Uniform Motor Vehicle Records Disclosure Act and restricts public disclosure of personal information contained in DMV records. Personal information includes:  photograph, SSN, DLN, name, address, telephone number and medical or disability information. DPPA applies to state DMVs and recipients of personal information from the DMV. “DPPA was enacted by Congress in response to the murder of actress Rebecca Shaeffer, whose killer obtained her address from a state DMV.” Information Privacy: A Spotlight on Key Issues, p. 17 (2004).
+There are civil and criminal penalties for violation of this law. Additionally, there is a private right of action.
+Implications:
+DMV must have policies and procedures to ensure that personal information obtained in connection with the motor vehicle record is only used and disclosed as authorized by law or with the consent of the individual.
+Departments must assess whether they obtain personal information from DMV.
+Departments obtaining personal information from DMV must ensure that they have policies and procedures detailing the use and disclosure of the personal information, as well as the record keeping requirements.
+Description:
+These rules regulate telemarketing with regard to deceptive and abusive telemarketing acts or practices. Significantly, this rule establishes the FTC’s Do-Not-Call list.
+The FTC has jurisdiction to enforce this rule against the private sector. The FCC (with regard to interstate and international communications), State attorneys general, as well as private citizens, may bring actions under these provisions against state government. State telemarketing laws are not preempted. See the discussion regarding Consumer Credit and Protection Act, Telemarketing W. Va. Code § 46A-6F-601 . 
+Implications:
+Departments shall assess whether they engage in telemarketing.
+Departments that engage in telemarketing shall adopt policies and procedures to ensure compliance with this rule and W. Va. Code § 46A-6F-601.
+Notice, Consent and Authorization, Minimum Necessary and Limited Use, Security Safeguards 
+Note:
+There are special marketing rules which do not neatly fit within the defined principles.
+Description:
+The CAN-SPAM Act establishes requirements for those who send commercial e-mail, spells out penalties for spammers and companies whose products are advertised in spam if they violate the law, and gives consumers the right to ask e-mailers to stop spamming them.
+The law covers e-mail whose primary purpose is advertising or promoting a commercial product or service, including content on a Website. The main provisions include: ban on false or misleading header information (e-mail's "From," "To," and routing information – including the originating domain name and e-mail address – must be accurate and identify the person who initiated the e-mail); prohibition on deceptive subject lines; the e-mail must give recipients an opt-out method (the sender has 10 business days to stop sending e-mail to the requestor's e-mail address); and, commercial e-mail must be identified as an advertisement and include the sender's valid physical postal address.
+The FTC is authorized to enforce the CAN-SPAM Act against the private sector. CAN-SPAM also gives the Department of Justice the authority to enforce its criminal sanctions. Other federal and state agencies, such as the Attorney General, can enforce the law against organizations under their jurisdiction. Companies that provide Internet access may sue violators, as well.
+Implications:
+Departments must assess whether they are sending commercial e-mail to advertise a product or service.
+Departments transmitting commercial e-mail to advertise or promote a product or service shall adopt policies and procedures to ensure compliance with this law.
+Description:
+This law amends the Communications Act of 1934 to prohibit a person from using any telephone facsimile (fax) machine, computer, or other device to send, to another fax machine, an unsolicited advertisement to a person who has requested that such sender not send such advertisements, or to any other person unless: (1) the sender has an established business relationship with the person; (2) the sender obtained the fax number through voluntary communication from the recipient or from an Internet directory or site to which the recipient voluntarily made the fax number available for public distribution; and (3) the advertisement contains a conspicuous notice on its first page that the recipient may request not to be sent any further unsolicited advertisements, and includes a domestic telephone and fax number (neither of which can be a pay-per-call number) for sending such a request.
+Additionally, the FCC has issued rules regarding faxing advertisements; the fax must identify sender on either the top or bottom margin of each page with telephone number and the date and time the fax is sent.
+The FCC (with regard to interstate and international communications) and the West Virginia Attorney General may enforce this law. There are civil and criminal penalties. Additionally, there is a private right of action.
+Implications:
+Departments must assess whether they advertise by fax.
+Departments which advertise via fax shall ensure that they adopt policies and procedures in compliance with this law.
+Sources:
+Description:
+The Children's Online Privacy Protection Act (“COPPA”), which took effect in April of 2000, prohibits certain unfair or deceptive acts or practices in connection with the collection, use, or disclosure of personal information from children on the Internet pursuant to COPPA’s requirements. The FTC issued the Children’s Online Privacy Protection Rule (“the COPPA Rule”) which imposes requirements on website or online services directed to children under 13 years of age or that have actual knowledge that it collects personal information from children under 13 years of age. This includes websites that allow children to use interactive communication tools. So, even if the site is not collecting information about children, if a child's personal information can be made public on the site (such as through a message board), there may be COPPA liability.
+Websites cannot require a child to provide personal information as a condition of participating when it is not necessary to do so.
+The Federal Trade Commission oversees the implementation of this law. Its website provides extensive information on COPPA. With certain exceptions, COPPA is to be enforced by the FTC under the FTC Act. The FTC may enforce the state’s compliance with COPPA or those acting under color of state law pursuant to the enforcement provisions of COPPA, which incorporate by reference the means, jurisdiction, powers and duties of the FTC Act. Although such an instance may be rare, it is important for websites and online service providers to be cognizant of their online activities.
+The State Attorney General may bring an action as parens patriae, if he/she has reason to believe that an interest of the residents of West Virginia has been or is threatened or adversely affected by the engagement of any person in a practice that violates any regulation of COPPA. The Attorney General may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction. Suits may be brought to achieve compliance with the Act, as well as to recover monetary damages.
+Implications:
+COPPA requires that websites and online services directed to children under age 13 must:
+Post a clearly written privacy policy with links to the notice provided on the home page and at each area where the site or online service collects personal information from children.
+Describe the kinds of information collected from children, i.e. name, address, e-mail, hobbies, age (this applies to all information, not just personal information).
+Explain how the information is collected, whether directly from the child and/or behind the scenes through cookies.
+Explain how the website operator uses the personal information (i.e. marketing to children, notifying contest members, etc.), and whether it is disclosed to third parties.
+Provide parents with contact information, address, phone number, and e-mail address, for all operators collecting or maintaining children’s personal information.
+Obtain parental consent before collecting, using, or disclosing personal information about a child.
+Provide parents with the ability to review, correct, and delete information about their children collected by such services.
+Maintain reasonable procedures "to protect the confidentiality, security, and integrity of personal information collected from children."
+Notice, Minimum Necessary and Limited Use, Consent and Authorization, Security Safeguards
+Description:
+The Cable Communications Policy Act protects the personal customer information held by cable service providers. Pursuant to the CCPA, cable service providers must obtain prior written or electronic consent from a subscriber before collecting any personal information. Consent is not required to obtain information "necessary to render cable services;" nor is it required for information used to detect unauthorized reception. Disclosure also generally requires prior consent, with the same two exceptions for business necessity and detection of cable piracy. Disclosure of personal information without consent is also permitted pursuant to a court order. The subscriber must be notified, and offered an opportunity to appear and contest the order. Disclosures may not generally include information about the subscriber's particular selections of video programming.
+A cable service provider must destroy personal information when it is no longer needed for the purposes for which it was collected (and there are no pending requests for access). It must take appropriate steps to prevent unauthorized access of customers' personal information for as long as it is held.
+Any person may bring a civil action against a cable provider for violations of this section and may seek actual and punitive damages.
+CCPA specifically includes such "other services" as "radio and wire communications," which likely would include providers of cable broadband Internet service. The provisions of the CCPA probably cannot be stretched to apply to direct broadcast satellite (DBS) service even though they provide functionally similar services.
+Implications:
+Under the CCPA, Departments, and particularly colleges and universities who are or may be cable service providers, must provide a written notice of privacy practices to each subscriber (customer) at the time of entering into a service contract and at least once a year thereafter. The privacy notice must specify:
+The nature of the personally identifiable information that is or may be collected, and the uses to which it may be put.
+The "nature, frequency and purpose" of any disclosure that may be made of such information, including identification of the persons to whom those disclosures may be made.
+How long the information may be maintained by the cable service provider.
+Where and how the subscriber may have access to the information about him- or herself.
+The subscriber's right to bring legal action if the requirements of the law are not followed.
+Note:
+States are not preempted from enacting laws which provide greater privacy protections than the CCPA.
+Description:
+The Video Privacy Protection Act of 1988 as originally passed created one of the strongest consumer privacy protection laws prohibiting disclosure of personally identifiable rental records of "prerecorded video cassette tapes or similar audio visual material." The Act has several provisions, including:
+A general ban on the disclosure of personally identifiable rental information unless the consumer consents specifically and in writing.
+Disclosure to police officers only with a valid warrant or court order.
+Disclosure of "genre preferences" along with names and addresses for marketing, but allowing customers to opt out.
+Exclusion of evidence acquired in violation of the Act.
+A requirement that video stores destroy rental records no longer than one year after an account is terminated.
+Issues remain about the applicability of the Act to other rental records, including DVDs and video games, which are commonly rented by the same stores that rent video cassettes. The plain language of the Act would indicate that it applies broadly to all such records, but no cases have interpreted the language. Since the passage of the U.S. Patriot Act, which expands law enforcement powers to permit use of administrative subpoena or otherwise procure information such as library records and individual purchasing records "in the course of an ongoing investigation" (a lower standard than the traditional warrant), it is unclear whether this Act’s ban is circumvented by the use of administrative subpoena. 
+A person may sue for violations of VPPA, including actual damages (statutorily not less than $2,500.00), punitive damages, and attorney’s fees.
+Implications:
+Departments that provide video cassette rental services should develop policies implementing the protections of the VPPA.
+Departments that are subpoenaed or otherwise contacted by federal enforcement authorities requesting the disclosure of VPPA, protected material should contact the Attorney General and the State Privacy Officer.
+Description:
+The Patriot Act, with amendments, was enacted to deter and punish terrorist acts in the United States and around the world. There are a number of provisions in the Act that relate to disclosure of information to the federal government in support of a variety of investigations.
+50 U.S.C. § 1861 governs access to certain business records for foreign intelligence purposes and international terrorism investigations. According to the Act, the Director of the FBI or a designee may make an “application for an order requiring the production of tangible things for an investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities. For each disclosure, “minimization procedures” are to be established, limiting the dissemination only to those individuals to whom disclosure is absolutely necessary. Tangible things can include library circulation records, library patron records, books sales records, customer lists, firearms sales records, tax return records, educational records, or medical records containing information that would identify a person.
+18 U.S.C. § 2702 governs voluntary disclosure of customer communications or records. Generally, the section states that an “entity providing an electronic communication service to the public shall not knowingly divulge to any person or entity the contents of a communication while in electronic storage by that service.” However, enactment of the Patriot Act created an exception to allow disclosure “if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.”
+Implications:
+Departments are subject to the disclosure requirements or parameters identified in the Patriot Act. There is limited case law interpreting the Patriot Act and how it relates to state or federal privacy laws.
+ 
+Description:
+This law was passed in 1986 and was intended to reduce "hacking" of computer systems. It applies to any “protected computer,” which is any computer used in interstate or foreign commerce or communication by the federal government, a federally regulated financial institution or any private computer system network spanning more than one state. CFAA provides for criminal and civil liability for accessing a protected computer without authorization and obtaining anything of value. If the only thing of value is the use of the computer, the value of such use must be greater than $5,000 during any one-year period.
+The Act prohibits the following:
+To knowingly access a computer without authorization, or in excess of authorization, in order to obtain classified United States defense or foreign relations information with the intent to harm the United States or benefit a foreign nation.
+To obtain information, via unauthorized access, from the financial records of a financial institution or from any protected computer if the conduct involves interstate or foreign communication.
+To access a computer to use, destroy, modify, or disclose information found in a "federal interest" computer system, as well as to prevent authorized use of any computer used for government business if the usage interferes with government activities.
+To knowingly, and with the intent to defraud, participate in the trafficking of passwords or similar information through which computers can be accessed without authorization.
+This law was amended in 1994, 1996 and in 2001 by the U.S. Patriot Act. The U.S. Patriot Act increased the scope and penalties of the CFAA by:
+Raising the maximum penalty for violations to 10 years (from 5) for a first offense and 20 years (from 10) for a second offense.
+Ensuring that violators only need to intend to cause damage generally, not intend to cause damage or other specified harm over the $5,000 statutory damage threshold.
+Allowing aggregation of damages to different computers over a year to reach the $5,000 threshold.
+Enhancing punishment for violations involving any (not just $5,000) damage to a government computer involved in criminal justice or the military.
+Including damage to foreign computers involved in U.S. interstate commerce.
+Including state law offenses as priors for sentencing.
+Expanding the definition of loss to expressly include time spent investigating and responding for damage assessment and for restoration.
+The jurisdiction to investigate cases under this law is assigned jointly to the FBI and the U.S. Secret Service (“USSS”). The FBI is assigned to investigate cases involving espionage, misuse of classified data, government related fraud, terrorism, bank fraud, wire fraud and organized crime. The USSS has been given oversight responsibility for investigations of federal interest crimes relating to a variety of offenses, including financial institution fraud and electronic crimes involving network intrusion, where funds and data are stolen or manipulated.
+Note:
+This is parallel to the West Virginia Computer Crime and Abuse Act governing misconduct in West Virginia. West Virginia’s statute prohibits the modification, destruction, access to, duplication of, or possession of data, documentation, or computer programs without the consent of the owner. The disclosure of restricted access codes or other restricted information to unauthorized persons is prohibited, and generally the degree of punishment or the magnitude of the fine is based on the degree of damage or cost. There is no breach reporting requirement.
+Implications:
+Departments must assess current computer privacy policies.
+Departments must implement and develop policies in light of West Virginia’s computer crime law to prevent computer fraud and abuse.
+Description:
+The NCPPC creates an electronic information sharing system whereby the FBI and participating states can exchange criminal records for non-criminal justice purposes authorized by federal or state law, and provides reciprocity among the states to share records in a uniform fashion without charging each other for information. The Compact became effective in 1999. States participate following ratification of the Compact. West Virginia ratified the compact in 2006.
+Implications:
+The West Virginia authorized criminal record repository must make all unsealed criminal history records available in response to authorized, noncriminal justice requests.
+Records received from other states must be screened to delete any information not otherwise permitted to be shared under West Virginia law.
+Records produced to other states are governed by the NCPPC and not West Virginia state law.
+Description:
+This law is designed to prohibit the improper use of genetic information in health insurance and employment. It prohibits group health plans and health insurers from denying coverage to a healthy individual or charging that person higher premiums based solely on a genetic predisposition to developing a disease in the future. The legislation also bars employers from using individuals’ genetic information when making hiring, firing, job placement, or promotion decisions.
+The GINA expands Title VII of the Civil Rights Act of 1964 which already bans discrimination by race and gender to prohibit employers from discriminating against employees on the basis of "genetic information" in hiring, firing, and other activities. "Genetic information," not only includes tests that determine variations in a person’s DNA, but also information regarding family history of a particular disease. The GINA also prohibits employers from collecting genetic information from their employees, except for rare circumstances such as testing for adverse effects to hazardous workplace exposures, and requires strict confidentiality of genetic information obtained by employers. The GINA grants employees and individuals remedies similar to those provided under Title VII and other nondiscrimination laws, i.e., compensatory and punitive damages. It also provides that no person shall retaliate against an individual for opposing an act or practice made unlawful by GINA. Currently, the GINA does not prohibit discrimination once someone already has a disease.
+The GINA is far-reaching in that it amends or touches upon many laws including the Employee Retirement Income Security Act of 1974 (ERISA), the Public Health Service Act, the Internal Revenue Code of 1986, Title XVIII (Medicare) of the Social Security Act, and the Health Insurance Portability and Accountability Act of 1996 (HIPAA). For example, it amends ERISA and the Public Health Service Act to prohibit health insurers from discriminating against individuals on the basis of genetic information. It also prohibits insurers from requiring genetic testing, tying premiums to genetic information, or considering family history of genetic disorders in making underwriting and premium determinations. The GINA also requires that all genetic information be treated as protected health information under HIPAA, thus making this information subject to HIPAA's Privacy Rule.
+GINA will become effective 18 months after May 21, 2008, the date President Bush signed it into law.
+Implications:
+Departments possessing genetic information about its employees must keep the information confidential and stored in separate files.
+Departments must develop protocols to maintain the confidentiality of genetic information unless the disclosure is to one of the following: (1) to the employee upon request; (2) to a health researcher; (3) as directed by a court order; (4) to a government official investigating compliance with GINA; or (5) in connection with federal and state family and medical leave act provisions.
+Description:
+The REAL ID Act is a nationwide effort intended to prevent terrorism, reduce fraud, and improve the reliability and accuracy of identification documents that state governments issue. This law imposes certain security, authentication and issuance procedures standards for states’ driver's licenses and state ID cards, in order for them to be accepted by the federal government for "official purposes", as defined by the Secretary of Homeland Security. Currently, the Secretary of Homeland Security has defined "official purposes" as presenting state driver's licenses and identification cards for boarding commercially operated airline flights, entering federal buildings and nuclear power plants. The Act is a rider to an act titled Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005.
+The proposed rule requires the states to include a comprehensive security plan for safeguarding information collected, stored, or disseminated for purposes of complying with the REAL ID Act, including procedures to prevent unauthorized access, use, or dissemination of applicant information and images of source documents retained pursuant to the Act, and standards and procedures for document retention and destruction.
+As of April 2, 2008, all 50 states have either applied for extensions of the original May 11, 2008 compliance deadline or received unsolicited extensions. States that have been granted an extension will be required to issue compliant licenses and identification cards no later than January 1, 2010. All licenses and identification cards held by individuals from a state must be compliant by May 10, 2013.
+Implications:
+The Departments shall work with leadership to develop a driver’s license and identification card in compliance with the Real ID Act’s requirements.
+The Real ID Act anticipates the exchange of driver identity data, document imaging, digital photographs and driver record information among all states accompanied by proper restrictions on any outside access or improper usage.
+Accountability, Notice, Minimum Necessary and Limited Use, Security Safeguards
+Description:
+HITECH was enacted as a part of the American Recovery and Reinvestment Act (“ARRA”) of 2009. HITECH expands the scope of HIPAA to Business Associates; increases a number of the privacy and security protections currently available under HIPAA; establishes a breach notification requirement; increases potential legal sanctions for non-compliance; and provides for additional enforcement authority by the State Attorney General. 
+HITECH extends certain HIPAA requirements to Business Associates. This means that the HIPAA requirements, formerly imposed on Business Associates only through contracts with Covered Entities, are now directly applied to Business Associates by law. However, these requirements must also be included in contracts between Covered Entities and Business Associates. Business Associates are now subject to HIPAA security requirements for administrative, physical, and technical information safeguards, as well as most HIPAA privacy requirements. In addition, Business Associates are required to detect and report security breaches to Covered Entities. Finally, Business Associates are subject to civil and criminal penalties if they violate these requirements.
+HITECH requires Covered Entities to notify each individual when it discovers that unsecured protected health information (“PHI”) has been breached. A breach occurs when there is an unauthorized use and disclosure of unsecured PHI. Business Associates that discover a breach must notify the Covered Entity of each individual whose unsecured information was placed at risk as a result of the breach. There is no requirement for actual harm in order to trigger notification. A breach is considered to be discovered as of the first day the breach is known to the Business Associate or Covered Entity.
+Notice of any breach must be provided to individuals without unreasonable delay and in no event longer than 60 days. If a breach impacts 500 or more individuals, then Health and Human Services (“HHS”) must be notified and local media may also need to be informed. The notice must inform individuals when the breach occurred; what type of unsecured PHI was involved; what steps the Covered Entity is taking to protect individuals from harm; what efforts the covered entity has taken to investigate, mitigate and prevent future breaches; and contact procedures to obtain more information. There must be individual notification by first class mail; email notification may be used if specified by the affected individual.
+Covered Entities must comply with an individual’s request to restrict the disclosure of PHI if the disclosure is to a health plan for payment or health care operations, and if the PHI pertains solely to a health care item or service that has already been paid in full out of pocket by the individual. 
+In situations where the “minimum necessary” standard applies, Covered Entities must limit the disclosure of PHI to, if possible, a Limited Data Set, or if not practicable, to the minimum necessary to accomplish the intended purpose of the disclosure. The Covered Entity or Business Associate disclosing the PHI must determine what information is minimally necessary to meet the need.
+If a Covered Entity uses or maintains electronic health records (“EHR"), individuals are entitled, upon request, to an accounting of disclosures for treatment, payment, and health care operations that occurred during the three (3) years prior to the request. A Covered Entity may respond to an individual’s accounting request in one of two ways: (1) provide an accounting of all disclosures made by the Covered Entity and its Business Associates or (2) provide a list of the Covered Entity’s disclosures and a list of all Business Associates. Business Associates must then supply a list of disclosures upon request from the individual
+A Covered Entity or a Business Associate may not sell EHR or PHI without authorization from the individual unless (1) the information is to be used for public health activities, research or treatment; (2) there is a sale, transfer, merger, or consolidation of all or part of the covered entity with another covered entity; (3) the price covers the Business Associate’s cost to produce the information at the request of the Covered Entity; or (4) the price covers the cost to provide the individual with a copy of their PHI.
+If a Covered Entity uses or maintains EHR, individuals have a right to obtain their PHI in electronic format. An individual can also designate a third party recipient of ePHI. Fees may not exceed the cost of labor to process the request.
+Vendors of personal health records (“PHR”) and other entities not covered under HIPAA are also subject to certain notification requirements if there is a breach of unsecured PHR identifiable health information that is maintained or offered by the vendor. After a vendor discovers a breach, the vendor must (1) notify the individuals whose unsecured PHR identifiable health information was acquired by an unauthorized person as a result of the breach and (2) notify the Federal Trade Commission (“FTC”). The FTC must notify the Secretary of any such breach.
+HITECH requires the Secretary to formally investigate if a preliminary investigation of the facts of a complaint indicate the possibility that the violation was a result of willful neglect. If willful neglect is found to have occurred, the Secretary must impose mandatory penalties. HITECH also increases the civil penalties for willful neglect. These penalties can extend up to $250,000, with repeat or uncorrected violations extending up to $1.5 million. Additionally, HITECH authorizes the State Attorney General to bring a civil action on behalf of state residents, as parens patriae, to enjoin violations and to obtain damages and attorney fees.
+Implications:
+Business Associates will be subject to HIPAA security and privacy provisions, as well as sanctions for violation of Business Associate requirements. Business Associates agreements will need to be modified to reflect these changes.
+Consumers must be notified of data security breaches involving “unsecured” PHI. Both Covered Entities and Business Associates must comply with these notice requirements, although the latter’s notification obligation runs to the Covered Entity.
+Vendors of personal health records and their service providers are now subject to the security breach notification requirement.
+Individuals may prohibit Covered Entities from disclosing certain self-pay services to health plans.
+Limited data sets are the new default for PHI disclosures governed by the minimum necessary standard.
+Covered entities using EHRs must include all disclosures of PHI for treatment, payment, and health operations in the past three (3) years when an individual requests an accounting.
+Upon request, covered entities must provide an individual with PHI in electronic form and transmit it to designated third parties.
+Enforcement of HIPAA security provisions will be stricter with the possibility of larger civil penalties and State Attorney General enforcement.
+Source:
+West Virginia
+Executive Order No. 6-06 rescinds and supersedes Executive Order No. 7-03. Order 6-06 designates the Health Care Authority Chairperson as the person responsible for protecting the privacy of confidential and personally identifiable information, collected and maintained by Executive Branch Departments. The Chief Technology Officer (CTO) is responsible for information security for the Executive Branch Departments.
+The HCA Chair is empowered to develop a privacy program, to create and maintain a privacy team, to issue privacy policies, to develop and implement data classification schemes and to develop measures to remediate, as appropriate, following privacy audits.
+The CTO is to create an information security team to oversee the development and supervision of security policies, data classification schemes and measures to remediate, as appropriate, following security audits.
+Implications:
+An Executive Branch Privacy Management Team, chaired by HCA, is created with representation from each Department. Each Executive Branch Department must designate a Privacy Officer who shall actively participate on the Team.
+The Team shall raise privacy awareness, perform privacy assessments, determine privacy requirements, and implement appropriate policies and procedures.
+The Team shall look for opportunities to improve the protection of private information, including:
+Restricting disclosure of personal information;
+Increasing individual access to personal information;
+Granting individuals the right to seek amendment of personal information;
+Establishing a State government policy for the collection, maintenance and dissemination of personal information; and,
+Compliance with privacy laws, including HIPAA and other federal and State mandates.
+Source:
+Description:
+This law mandates that “[e]very person has a right to inspect and copy any public record of a public body in this State, except as otherwise” exempted.
+The Legislature exempts “[i]nformation of a personal nature such as that kept in a personal, medical or similar file, if the public disclosure thereof would constitute an unreasonable invasion of privacy, unless the public interest by clear and convincing evidence requires disclosure in the particular instance.” An individual can always inspect and copy his or her own records.
+Additionally, information may be specifically exempted from disclosure by another statute; see e.g., discussion regarding the Records Management and Preservation of Essential Records Act which protects certain PII. Also exempted from FOIA disclosure are computing, telecommunications and network security records, passwords, security codes or programs used to respond to or plan against acts of terrorism which may be the subject of a terrorist act. In 2009, House Bill 2418 exempted information relating to the design of corrections and jail facilities, and policies and procedures relating to the safe and secure management of inmates. There are a total of seventeen exemptions which may be asserted by an agency.
+There is a private right of action; there are criminal penalties and attorney fees and costs may be awarded for violations of the Act.
+Implications:
+Departments shall ensure that their responses to FOIA requests do not include PII or medical information that is exempt from FOIA.
+Departments shall ensure that their responses to FOIA do not include any other exempted or confidential information, without the approval of their Department head.
+Description:
+West Virginia law requires State government to safeguard certain personal identifying information with respect to State employees and citizens, and to disclose to non-governmental entities only as authorized by law. With regard to State officers, employees, retirees or the legal dependents thereof, the following individual’s identifiers are confidential and exempt from disclosure: home address, SSN, credit or debit card numbers, driver’s license number and marital status or maiden name. With regard to individuals generally, the following individual’s identifiers are confidential and exempt from disclosure: SSN and credit or debit card number.
+Implications:
+Departments must establish procedures to ensure that these identifiers are safeguarded and kept confidential.
+Departments must establish procedures to ensure that these personal identifiers are protected from disclosure to non-governmental entities, unless the disclosure is authorized by law.  Procedures regarding FOIA should be reviewed to ensure conformance with these laws.
+Source:
+Description:
+The Division of Information Services and Communications of the Department of Administration establishes, develops and improves data processing and telecommunication functions in the various Departments and promulgates standards in the utilization of data processing and telecommunication equipment.
+Article 7 creates a specific privacy and security obligation: Under no circumstances shall the head of any department or agency deliver to the Division [of Information Services and Communications] any records required by law to be kept confidential, but such head may extract information from such records for data processing by the division, provided the integrity of such confidential records is fully protected.
+Implications:
+Source:
+W. Va. Code §39A-1-1 et seq.
+Description:
+This law applies to transactions between parties where both have agreed to use electronic records and signatures. “Transaction” means an action or set of actions occurring between two or more persons relating to the conduct of business, commercial or governmental affairs. The Act creates a duty to give notice in certain circumstances. The Act does not apply to wills and other testamentary writings, court orders or most UCC transactions. It also does not apply to the cancellation or termination of health insurance or benefits or life insurance benefits (excluding annuities); or recall of a product, or material failure of a product, that risks endangering health or safety; or any document required to accompany any transportation or handling of hazardous materials, pesticides or other dangerous materials.
+If a statute, regulation or other rule of law requires that information relating to a transaction be provided or made available to a consumer in writing, the use of an electronic record to provide or make available such information satisfies the requirement that such information be in writing if:  The consumer has affirmatively consented to such use and the consumer, prior to consenting, has been provided clear notice which states:
+The consumer’s right or option to have the record provided or made available on paper or in non-electronic form.
+The right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any consequences, which may include termination of the parties' relationship, or fees in the event of such withdrawal.
+Informs the consumer of whether consent applies to a particular transaction or categories of records.
+Describes how the consumer can withdraw consent.
+How the consumer may obtain a paper copy and fees, if any, for the paper copy.
+Once consent has been given, the consumer must be notified if a change in the hardware or software requirements needed to access or retain electronic records creates a material risk that the consumer will not be able to access or retain a subsequent electronic record that was the subject of the consent.
+Implications:
+Departments engaging in transactions with the public must develop appropriate notice and consent documents upon moving to electronic transactions.
+Departments must develop a method to store the consent or withdrawal of consent documents.
+Source:
+The West Virginia Code is a patchwork quilt of provisions governing the confidentiality of health related information. The HIPAA preemption analysis on the website references and summarizes all of the health-related confidentiality laws.
+Implications:
+Departments collecting, using or disclosing health related information must ensure that they have procedures in place to carry out the mandated confidentiality and other privacy aspects.
+Departments collecting, using or disclosing health related information in conjunction with third-parties, must have Business Associate Agreements.
+Description:
+The West Virginia Health Information Network, under the oversight of the West Virginia Health Care Authority, is created to promote the design, implementation, operation and maintenance of a fully interoperable statewide network to facilitate public and private use of health care information in the State. As part of its duties, the Health Care Authority “shall ensure” that patient-specific protected health information be disclosed only in accordance with the patient's authorization or best interest to those having a need to know, in compliance with State confidentiality laws and the Health Insurance Portability and Accountability Act of 1996 (HIPAA). The health information, data and records of the network shall be exempt from disclosure under FOIA.
+Implications:
+Departments and private participants in the network must work with the Authority to protect the privacy of patient-specific health information (PHI).
+Source:
+W. Va. Code § 31A-2A-1 et seq.
+Description:
+This law sets forth the conditions under which a financial institution (bank, savings and loan association, a trust company or a credit union) may disclose a customer’s financial records to a State entity and the conditions under which a State entity may have access to or obtain those records. Examples of appropriate access include customer authorization, legal process, law enforcement resulting from a criminal investigation, and as required or permitted by any other state or federal law. A State entity may not disclose financial records to any other state entity or any other person unless the receiving state entity or other person is authorized by law or by the customer to receive the records. This law does not prevent the disclosure of financial records “made to facilitate a lawful proceeding, investigation, examination or inspection by a state entity.” Financial institutions are required to obtain written certification from the receiving state entity that it has complied with the applicable provisions of this law.
+There are 18 exceptions to this law; examples include banking and insurance regulatory activities and various disclosures to DHHR regarding eligibility for public assistance and the federal parent locator service.
+There are criminal and civil penalties for violations of this law. There is also a private right of action.
+Implications:
+Departments that have financial institution operations shall ensure that they have policies and procedures governing the disclosure of customer financial records to any state entities.
+Departments that obtain customer’s financial records shall ensure that they have policies and procedures regarding disclosure of the records.
+Source:
+Description:
+Generally, tax returns, associated reports and declarations, and the information they contain are confidential, may not be disclosed to anyone, with certain enumerated exceptions. This law governs the Tax Department’s disclosure of return information, as well as government, in general. Importantly, except for very specific situations, such as under a court order, the release of confidential information is at the discretion of the Tax Commissioner. Departments receiving return information will be required to enter into an exchange of information agreement with the Tax Department and safeguard the information as confidential. Tax return information is not subject to FOIA.
+Disclosure may occur:
+When required by the Tax Commissioner in an official investigation.
+Where the Tax Commissioner is a party in a proceeding to determine the amount of tax due.
+When the taxpayer authorizes disclosure to an individual,
+For use in criminal investigations.
+To a person having a material interest, as defined by the Tax Commissioner in regulations.
+For statistical use.
+Regarding disclosure of the amount of an outstanding lien to such person who has a right in the property subject to the lien or intends to obtain a right.
+For reciprocal exchange in the administration of tax programs.
+In administrative decisions, however identifying characteristics or facts about the taxpayer shall be omitted or modified so the name or identity of the taxpayer is not disclosed.
+When the Tax Commissioner determines that certain taxpayer information (such as those who have a current business registration certificate, those who are licensed employment agencies, etc.) should be released to enhance enforcement.
+To the Bureau for Child Support Enforcement.
+For purposes of jury selection.
+There are criminal penalties for violation of this law.
+Implications:
+The Tax Department must ensure that it has policies in place such that tax returns and related information are only disclosed in accordance with this law.
+Departments must assess whether they receive tax return information, and if they do, they must ensure that they have policies requiring that it be held confidentially and only disclosed in accordance with this law and the terms of the exchange of information agreement signed with the Tax Department.
+Description:
+This law implements the federal Driver’s Privacy Protection Act of 1994 to protect individual privacy by limiting the use and disclosure of personal information in connection with motor vehicle records, except as authorized by the individual or by law. 
+Implications:
+DMV must have procedures to ensure that personal information obtained in connection with the motor vehicle record is only used and disclosed as authorized by law or with the consent of the individual.
+Departments must assess whether they obtain personal information from DMV.
+Departments obtaining personal information from DMV must ensure that they have procedures detailing use and disclosure of the personal information, as well as record keeping requirements. Note: State law requires an individual’s express consent for redisclosure.
+Source:
+W. Va. Code § 46A-6-101 et seq.
+Description: 
+This law prohibits “[u]nfair methods of competition and unfair or deceptive trade practices” and is similar to Section 5 of the Federal Trade Commission Act which gives the FTC the power to enforce promises made in privacy notices, as well as challenge unfair information practices which result in substantial injury to consumers. http://www.ftc.gov/privacy/privacyinitiatives/promises.html
+There is a private right of action.
+Implications:
+Departments must accurately represent privacy policies in privacy notices.
+Departments must comply with promises made in privacy notices.
+Departments cannot put consumers at risk without an offsetting benefit. For example, if a company collects PII without reasonable security measures and does not tell the consumers, it would constitute an unfair trade practice.
+Departments cannot retroactively materially change a privacy notice with respect to information already collected without express, affirmative, opt-in authorization.
+ 
+Description:
+This law defines crimes for misuse and abuse of computers and computer data. The Legislature specifically recognizes the public’s “privacy interest” in being protected from computer abuse.  The Act specifically applies to the State and its subdivisions. It is a felony to knowingly and willfully access any computer to execute any scheme to defraud or obtain money by fraudulent pretenses. It is a misdemeanor to knowingly and willfully access any computer to obtain services without an authorization to do so. There are numerous other crimes delineated in the statute which are either felonies or misdemeanors depending on the monetary value of the crime. Willful disruption of computer services or willful denial of computer services to an authorized user is a misdemeanor. Willfully obtaining, without authorization, confidential information is a misdemeanor as is obtaining employment and salary information or other personal information. It is a felony for a person to interrupt or impair the provision of medical services or other services provided by any State agency. The Act provides for a private right of action which may include a claim for punitive damages.
+Implications:
+Departments need to develop policies and procedures to ensure to the extent possible that their employees are in strict conformance with the appropriate and authorized uses for the State’s computers and software.
+The Department of Administration should check with BRIM that there is coverage for civil suits brought against the State or its employees under this Act.
+Source:
+W.Va. Code §§ 48-18-131,122
+Description:
+All child support records are confidential and protected from release except as otherwise provided by law. In addition, the Bureau for Child Support Enforcement maintains a Central State Case Registry for child support orders, which is subject to privacy and confidentiality safeguards, at both the state and federal level. Information may be shared among designated agencies to determine child support amounts or assist with enforcement of support orders.
+It is a misdemeanor to violate the confidentiality provisions.
+Implications:
+Departments must adopt policies to safeguard their employees’ child support orders.
+Source:
+64 W. Va. C.S.R. § 27-10.2.c.
+Description:
+The law establishes the Office of Emergency Medical Services under the Bureau for Public Health. The related rule requires the Office of Emergency Medical Services to “ensure the security and confidentiality of protected information within the Trauma and Emergency Medical Information System according to State and federal guidelines.”
+Implications:
+Departments must work with the Agency to assure confidentiality within the framework of an emergency.
+Source:
+W. Va. Code § 33-6F-1
+Description:
+These privacy rules apply to all licensed insurers, producers and other persons licensed or registered pursuant to Chapter 33 of the West Virginia Code. While this rule does not apply to State entities such as BRIM or PEIA, it does apply to insurance licensees who have contracted with the State to provide services. “Nonpublic personal information” is defined to include nonpublic personal financial information and nonpublic personal health information. A licensee may not disclose personal financial information to nonaffiliated third parties unless otherwise permitted by the law or rule. A licensee who must comply with HIPAA is deemed to comply with the provisions governing privacy of health information; otherwise licensees must maintain the confidentiality of health information and obtain written authorization prior to disclosing personal health information, which authorization can be electronic.
+In addition, in accordance with the Gramm-Leach-Bliley Act, the Insurance Commissioner has developed rules for safeguarding customer information. Each licensee must have a written information security program. Nonpublic personal information, whether in paper or electronic format, is covered by this rule.
+Implications:
+Source:
+Description:
+This law applies to all legal entities and to governments and governmental subdivisions and agencies. Notice or substitute notice is required in the event of a “breach of the security of a system,” that causes one to reasonably believe will result in identity theft or fraud. Breach of the security of a system is defined as “unauthorized access and acquisition of unencrypted and unredacted computerized data that compromises the security or confidentiality of personal information… [and that is] part of a database of personal information.” Personal information means the name of an individual linked to unencrypted and unredacted social security number, driver’s license or state identification card, or financial account numbers.
+Notice, which can be provided by mail, telephone or electronically, includes: a description of the categories of information reasonably believed to have been accessed or acquired by the breach; a telephone number or website that can be accessed for the purpose of providing the individual with information about the types of information maintained on the individual or all individuals; whether the entity had information on the specific individual; and information about credit reporting agencies and placing fraud alerts or security freezes. Substitute notice is permitted when the entity can demonstrate cost of notice would exceed fifty thousand dollars or affected class exceeds one hundred thousand persons or entity lacks sufficient contact information. An entity can follow its own, established notification procedures as long as notice is consistent with the Act. Entities following notification procedures in accord with their primary or functional regulator are deemed to be in compliance. The Act does not apply to Departments subject to Title V of the Gramm Leach Bliley Act.
+The Attorney General has exclusive authority to enforce this Act, including seeking civil penalties, by bringing an action in State Court. 
+Implications:
+Departments with existing breach notification procedures should review them for consistency with the Act and for a determination as to origin with regulatory body.
+Departments without breach notification procedures should develop procedures in accord with this Act and West Virginia Executive Branch Privacy Policy: Notice.
+Source:
+Principles:
+Description:
+All West Virginia public officials and employees are prohibited from knowingly and improperly disclosing any confidential information acquired in the course of performing official duties.  Officials and employees are also prohibited from using such confidential information to further one’s personal interests or the interests of another.
+Individuals found guilty of violating this section of the Act are guilty of a misdemeanor and can be sentenced to not more that six months in jail or fined no more than one thousand dollars or both.
+Implications:
+ 
+Principles: 
+Accountability, Minimum Necessary and Limited Use, Security Safeguards
+Description:
+The NCPPC creates an electronic information sharing system whereby the FBI and participating states can exchange criminal records for non-criminal justice purposes authorized by federal or state law, and provides reciprocity among the states to share records in a uniform fashion without charging each other for information. The Compact became effective in 1999. States participate following ratification of the Compact. West Virginia ratified the Compact in 2006. The West Virginia State Police Superintendent is charged with oversight and implementation of the Compact on behalf of the State.
+Implications:
+The West Virginia authorized criminal record repository must make all unsealed criminal history records available in response to authorized, non-criminal justice requests.
+Records received from other states must be screened to delete any information not otherwise permitted to be shared under West Virginia law.
+Records produced to other states are governed by the NCPPC and not WV law.
+Source:
+Description:
+The Chief Technology Officer (CTO) and the Office of Technology oversee the statewide coordination of technology for State spending units (not including the Legislature, Judiciary or State constitutional officers or in most aspects, the Department of Education). As part of the CTO’s duty to ensure the security of State government information including protecting the data communications infrastructure from unauthorized uses, intrusions or other security threats, the CTO is charged with developing policy and procedure to safeguard information systems, data and communications infrastructures, as well as defining the scope and regularity of security audits and which bodies are authorized to conduct security audits. The audits may include on-site visits, as well as reviews of all written security procedures and practices.
+Implications:
+Departments need to be prepared to respond to and fully cooperate with authorized security auditors.
+The CTO may direct specific remediation to mitigate findings of insufficient administrative, technical and physical controls.
+Source:
+Description:
+State Government’s HIPAA Business Associate Addendum which is to accompany agreements for goods and services where PHI may be exchanged, includes the following:
+Paragraph e. “Report of Disclosure” requires the Associate to “promptly report to the Agency, in writing,” any unauthorized PHI disclosure, of which it becomes aware.
+Paragraph f. “Mitigation” requires the Associate to agree to “mitigate, to the extent practicable, any harmful effect” resulting from the unauthorized disclosure.
+Paragraph g. “Documentation” requires disclosures to be documented and maintained by the Associate and its agents or subcontractors for at least six (6) years. This complies with the HIPAA provision which permits an individual to receive an accounting of PHI disclosures made for reasons other than treatment, payment or health care operations (and certain other enumerated exceptions).
+Implications:
+Departments which must be HIPAA compliant should assure that their business associates are in compliance with the Business Associate Addendum.
+Principles:
+Description:
+State purchasing agreements now include a clause requiring the vendor to indemnify the State in the event that the vendor suffers a privacy or security breach while performing work for the State. Also, Medicaid vendor contracts require the vendor to notify the Bureau for Medical Services in the event of a privacy breach.
+These industry standards are not law, but have been developed by credit card companies to create a single set of requirements for consumer data protection. The PCIDSS also specifically identify that credit card companies should protect stored data, encrypt transmission of cardholder data and sensitive information across public networks, and maintain a policy that addresses information security. PCIDSS applies to all members of the PCI Security Standards Council, merchants, and service providers that store, process or transmit cardholder data. Additionally, these security requirements apply to all “system components” which are defined as any network component, server, or application included in, or connected to, the cardholder data environment. Network components, include, but are not limited to, firewalls, switches, routers, wireless access points, network appliances, and other security appliances. Servers include, but are not limited to, web, database, authentication, DNS, mail, proxy, and NTP. Applications include all purchased and custom applications, including internal and external (web) applications.
+Protect cardholder data.
+Respond quickly and efficiently to incidents.
+Be aware and protect against the latest threats regarding credit card use and stored data.
+Principles:    
+Description:
+This legislation authorizes the Commissioner of Corrections to monitor, intercept, open, record, and copy telephone calls and mail to inmates of state correctional institutions. Inmates must be notified in writing of these potential actions. The contents of these communications may be disclosed to law enforcement agencies pursuant to an order of a court or administrative tribunal when necessary to investigate, prosecute, or prevent a crime; to safeguard the orderly operation of the correctional institution; or to protect persons from harm or the threat of physical harm. Attorney-client communications are exempt from these requirements.
+Implications:
+The Department of Corrections must have policies in place to comply with these statutes.
+The Department of Corrections must give clear guidance as to when a court order shall be sought before notifying law enforcement officials.
+The Department of Corrections must retain recordings and copies of these communications at least three years, and then destroy in accordance with its record retention policy.
+Source:
+Description:
+This legislation requires any contractor this is awarded a contract to construct a public improvement to maintain a drug-free workplace policy. Not less than once per year, or upon completion of the project, every such contractor shall provide a certified report to the public authority which let the contract to show what educational efforts were undertaken with employees; what federally certified laboratory conducted the testing; and the number of positive and negative drug tests conducted at the time of pre-employment, upon reasonable suspicion, post-accident, and at random. Failure to comply with this law is a misdemeanor.
+Implications:
+Public authorities must develop compliance efforts to assess the contractor’s implementation of the drug-free workplace policy.
+Contractual documents shall be amended to include the requirement for the maintenance of a drug-free workplace policy by the contractor as well as all subcontractors doing business, municipalities, and their political subdivisions.
+Source:

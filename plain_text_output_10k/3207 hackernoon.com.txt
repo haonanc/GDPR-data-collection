@@ -1,0 +1,38 @@
+Mar 29
+Data Privacy Concerns with Google
+Google’s parent company, Alphabet, has a market cap of $712 billion. Within Google’s range of products, there are seven with at least one billion users. In its privacy policy , the company outlines its broad and far-reaching data collection. The data collection extends to Google’s entire suite of products, meaning the amount of data the company stores is enormous. Google holds an estimated 15 exabytes of data , or the capacity of ~30 million personal computers.
+Data Leaks
+Google has done well historically, with its data security practices. However, it hasn’t been perfect. Back in 2009, there was a bug in Google docs that potentially leaked .05% of all documents stored in the service. While .05% seems incredibly small, .05% of 1 billion users is still 500,000 people. Because Google is so large, their data protection has no room for error.
+Cookies
+Every time a user searches with Google, they receive a cookie in their computer. This cookie gives Google information about the websites the person visits, and their search history. That information is also linked to any Gmail accounts that have logged in on your device. There is no information in the company’s privacy policy as to whether or not records about your search or web history are deleted from its records. Users can delete these cookies from their computers, but the cookies are updated every time a Google service is used.
+Tracking
+Google uses its Analytics product, along with others, to determine a user’s browsing path around the internet. By linking that information to an IP address and an associated Google account, a complete profile of a person can be assembled. It’s this information that gives Google its advertising superpower. In 2017, Google’s ad revenue was $95.38 billion . The data is extremely beneficial for marketers looking for customer insights, and targeting people with ads.
+Content of users’ Gmail messages is tracked to improve relevance and targeting of ads, and to block spam emails. Google says that mail sent to or from Gmail isn’t read by any human being other than the account holder. However, even if computers are the only ones to see the data, it is still being tracked and stored — and could be read by a human with access.
+CIA & NSA Ties
+While the NSA refuses to confirm or deny the existence of any relationship between the NSA and Google, privacy and civil rights advocates are concerned. In 2011 the Electronic Privacy Information Center submitted a Freedom of Information Act request regarding NSA records about the 2010 cyber-attack on Google users in China. The request was denied and the NSA said that disclosing the information would put the US Government’s information systems at risk.
+Google and the CIA are connected through In-Q-Tel, the CIA’s investment arm. In-Q-Tel ’s main purpose is to keep the CIA up-to-date with the latest technology. Companies that Google has acquired or invested in, like Keyhole and Recorded Future , have also received funding from In-Q-Tel.
+Government Requests
+Google has been criticized for disclosing too much information to governments too quickly. On the other hand, governments have expressed their frustration with the company for not disclosing information that governments need to enforce their laws.
+Google Chrome
+Google’s Chrome browser is a privacy nightmare in itself, because all you activity within the browser can then be linked to your Google account. If Google controls your browser, your search engine, and has tracking scripts on the sites you visit, they hold the power to track you from multiple angles.
+Incognito Mode
+Chrome’s Incognito Mode is often taken to mean that it protects user privacy. However, it doesn’t keep users safe from tracking on the websites they visit. While Chrome won’t store your browsing history, site data, or information entered in forms in Incognito Mode, the sites you visit can still gather and keep that information.
+Google is likely the leader in consumer data collection, simply because of the scale of their products. Google “is no longer merely collecting some data about how we search and surf the web,” said Consumer Watchdog President Jamie Court . “Its new browser and software are actually sending information from inside our computers to its servers.”
+Regardless of data practices, Google has remained more trusted than other tech companies, specifically Facebook , Yahoo, Apple and Microsoft. This is interesting because of how outspoken Apple is about protecting its users’ privacy. Perhaps Google appears to offer more transparency than Apple, which is notoriously opaque.
+Google and Amazon especially, are making waves in the IoT and smart home markets as well. Consumers are opening up their homes to data collection, whether they know it or not . Google Home and Amazon Alexa devices’ popularity are a clear indication that users are indifferent to the data the devices collect or trust the companies behind the devices and their operating systems.
+Web Browsers — Alternatives to Google Chrome
+ExpressVPN tested a range of browsers and reported that its top three browsers for privacy are: Tor Browser, Mozilla Firefox and Brave.
+Search Engines — Alternatives to Google
+Search engines without privacy protection can reveal more about your browsing behavior than you may think. Google explicitly says that it tracks things you type into its search engine, even if you don’t actually perform the search.
+Private search engines are just one portion of a complete privacy suite. Switching to an alternative search engine , though, is a good first step towards taking your privacy seriously.
+All it takes is one small breach into Google’s systems, and millions of users could have their data compromised. Even if Google has the best data security in the world, as the 2009 Google Docs leak showed, no system is perfect. Taking a proactive approach to privacy is the best way to combat any potential threats.
+Like what you read? Give Christian Stewart ✔️ a round of applause.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+452
+2
+BlockedUnblock
+FollowFollowing
+Follow
+452
+2
+452

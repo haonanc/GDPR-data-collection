@@ -1,0 +1,42 @@
+Digital Channel Privacy
+RBC is proud to offer you a variety of ways to bank and interact with us online. RBC digital channels offer you control and convenience as well as access to our digital services.
+This Digital Channel Privacy policy applies to online, mobile and other digital channels and services owned or operated by Royal Bank of Canada and its subsidiaries ("RBC").
+What information does RBC collect and how is it used?
+Information that you provide
+RBC collects information that you provide through RBC digital channels-for example, through services that you enroll for or when you complete an online form. We may use your information to deliver services you request, display targeted and relevant advertising, offer you special promotions, and learn how we can better meet your needs through RBC digital channels.
+Information about your device
+RBC may collect or access information about your device, such as device model, unique device number, browser type and IP address. Information about your device helps us to improve your client experience, measure the effectiveness of RBC digital channels and services, enhance security measures, and protect personal and financial information.
+Information on your device
+Some services may involve access to information on your device, for example, accessing your contact list can make it easier to use Interac‡ e-Transfer banking services.
+You can control access to this information through your device settings. Refer to your device documentation for instructions on allowing or blocking access to this information. If you choose not to provide access to information on your device, some services may not operate effectively.
+Click here for information about RBC mobile apps.
+Information about your physical location
+RBC may collect information about the approximate physical location of your device to validate user identity and to prevent, suppress or detect crime.
+RBC may also access information about the physical location of your device to provide a service, for example, to allow you to locate a nearby ATM or RBC branch or provide location-based advertising or offers.
+You can control access to location information through your device settings. Refer to your device documentation for instructions on allowing or blocking access to location information. If you choose to block location information, some services may not operate effectively.
+Statistical information on digital channel usage
+RBC collects statistical information about how users interact with RBC digital channels, such as the average time spent on a specific mobile or web page. This information provides RBC with insight into how to improve the design, content and navigation of RBC digital channels.
+Does RBC share my information?
+For purposes described in this policy or in the particular digital channel, RBC may share information with employees, agents and service providers, who are required to maintain the confidentiality of the information. We may also share information with government agencies, public bodies, regulators, or other entities where permitted or required by law.
+How does RBC use information collected by cookies?
+RBC uses cookies on our websites and advertisements to give you the best possible experience on RBC digital channels.
+What is a cookie?
+A cookie is a file containing a unique identification number that a website sends to your computer's web browser. When you visit a website, a cookie may be used to track the activities of your browser as well as provide you with a consistent and efficient experience. The two common types of cookies are persistent and non-persistent . Cookies cannot view or retrieve data from other cookies, or capture files or information stored on your computer.
+Use of cookies when browsing RBC websites
+RBC relies on cookies and other commonly used technologies to monitor, understand and improve your website experience, to customize advertising to your interests, and to track your usage of RBC websites and services. Your choice not to accept these cookies will not prohibit your use of RBC websites.
+Cookies identify when you visit specific RBC webpages and may be shared with third parties involved in customizing RBC advertising on RBC or third party digital channels. Your choice not to accept these cookies will not prohibit your use of the RBC or third party digital channel. RBC does not sell your information to third parties, nor do we track your interaction with a third party website.
+Use of cookies in RBC digital services
+RBC may use cookies as part of the functionality and security of a digital service. These cookies may include an encrypted persistent cookie installed on your device that contains information to help us verify you as an RBC client and to help block unauthorized attempts to access your information through the digital service. Your choice not to accept these cookies may prevent the service, or certain features within the service, from operating.
+Can I disable cookies?
+If you do not want your information collected or used for advertising, remarketing or other purposes via cookies, please refer to the documentation for your web browser or device regarding how to allow or block cookies. Additional resources that may assist you in managing cookies used for advertising are:
+Digital Advertising Alliance (DAA): http://youradchoices.ca/
+Network Advertising Initiative (NAI): http://www.networkadvertising.org/choices/
+Blocking cookies or opting out of ad customization will not eliminate all RBC advertising in digital channels. RBC advertising not customized for you may continue to be displayed.
+RBC does not manage, and is not responsible for, the digital marketing and cookie practices of third parties, for example, third party websites linked to/from RBC digital channels.
+Does RBC scan emails that I send?
+RBC may scan the email messages that you send to RBC to detect viruses, malware or other computer threats that may be included. Email messages identified as potentially containing a threat may undergo further analysis and any personal or financial information contained in the email message may be incidentally accessed by individuals investigating and addressing the threat.
+RBC also scans incoming and outgoing email messages as required by law or regulation.
+Updates to this Policy
+The RBC Digital Channel Privacy policy is to be read together with the Legal Terms of Use and General Privacy Policy at www.rbc.com. Changes may be made to this policy by updating this webpage at any time and without notice. Please review this policy regularly. Continuing to access or use RBC digital channels will mean that you agree to this policy and any changes to it.
+The RBC Digital Channel Privacy policy was last modified July 2016.
+Text size:

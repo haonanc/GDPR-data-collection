@@ -1,0 +1,48 @@
+Confirm password
+* We don't ask your email or phone number. Why?
+Updated on May 25, 2018
+1. Which data we collect
+If you do not log in to Pricearchive.org, we record information collected using unique identifiers associated with browsers, applications, and devices. It enables us to remember your settings and other data, so that you would not have to enter it anew when initiating a new session.
+A unique identifier is a character set assigned to a browser, application, or device to distinguish it from other ones. Identifiers vary in terms of access mode, operation time, and possibility of reset by users. For instance, unique identifiers contained in cookies enable us to show the price of an item to a user in a certain additional currency.
+If you log in to the website, we collect and store in Pricearhive.org account the information processed by us as personal data.
+Personal data is information provided by you to Pricearchive.org, which makes it possible to identify your personality. It includes username, password, email address, your social media page addresses and other data which may be treated by Pricearchive.org as identifying one – for instance, information from your Pricearchive.org account.
+Content created by you or provided to us
+Creating a Pricearchive.org account, you communicate to us certain data, including your username and password. You can also indicate your social media page addresses.
+Even if you do not log in, you can voluntarily communicate to us certain information about yourself, including your email address, in order to receive news or price reduction notifications from us.
+Information we collect when you use our services
+We record information concerning applications, browsers and devices you use to access Pricearchive.org.
+Among other things, we collect unique identifiers, as well as such data as browser and device type and settings, operating system and application version number. We also record information concerning the interaction of your applications, browsers and devices with our services, including IP address, information concerning the actions within the system, date and time you visited our website, and the URL, which lead you to it.
+Your actions
+We collect information concerning the actions you perform at Pricearchive.org. This information includes:
+- Account creation time.
+- Your choice of additional currency for displaying item price.
+- Which items you track and which price you state for them as target one.
+- How often you make inquiries to Pricearchive.org.
+- How often you export item information from Pricearchive.org.
+Your location
+We collect data concerning your IP address. We do it solely for the purpose of preventing misuse of our service. Despite the fact that an IP address may be used to determine the location of a device connected to the Internet, Pricearchive.org does not locate you.
+Each device connected to the Internet has a number called IP address. These numbers are usually assigned in blocks on a geographical basis, so an IP address can often be used to determine the location of a device connected to the Internet.
+2. Why Pricearchive.org collects data
+- User data enables us to make our services more convenient. Thanks to the collected data, we are able to support and enhance the existing services, create new ones, and ensure the security of Pricearchive.org and our users.
+- User data is needed to support Pricearchive.org functionality. For instance, we process your search requests, or send you notifications of price reduction and the appearance of new items with a discount.
+- User data helps develop new functions. For instance, having studied the number of items tracked by our users, we realized that new functions were necessary for the personal profile. As a result, more than eight parameters were added for item display and enhanced navigation.
+- User data is needed to communicate with you in the context of Pricearchive.org functionality – for instance, to reply to your messages and comments. If you wish so, we can send you notifications of new publications at Pricearchive.org.
+- User data helps ensure Pricearchive.org, user and third party security. Information we collect is crucial for ensuring safety and reliability of our services. Having it at our disposal, we are able to promptly identify and eliminate threats, and prevent intruders from harming Pricearchive.org, its users, and public interests in any way. We collect and analyze IP addresses and cookies to prevent crimes perpetrated using malicious software. Information concerning price changes is unique, and in most cases is only available at Pricearchive.org. We put much time and effort in collecting it, and do not consent to accessing it using custom software.
+3. Your access settings
+Viewing and changing personal data.
+You can manage your personal data stored by Pricearchive.org. To do that, you have to log in to your account, and you'll be able to change your email address, the list of tracked items, and social media pages.
+You can export your data from Pricearchive.org account if you need a copy of it.
+You can delete your account. If you do so, all your data collected by us will be deleted.
+4. Transfer of your information
+We do not disclose personal user information to third parties, except for cases when it is required by the law.
+If Pricearchive.org is subject to merger, acquisition, or asset sale, we will continue to ensure confidentiality of all personal data. We will also notify all users concerned, if their personal data is transferred to another organization or governed by any other privacy policy.
+5. Protection of your data
+Pricearchive.org uses reliable means of protecting your data. We do everything possible to protect Pricearchive.org and our users from unauthorized attempts of accessing, changing, disclosing, or deleting the data stored by us. Among other measures, we use encryption to ensure confidentiality when transferring data; continuously improve data collection, storage, and processing methods; store personal data exactly as long as required for the purposes of its collection.
+6. Export and deletion of your data
+You can export or delete your data from your Pricearchive.org account. To do that, log in to your Pricearchive.org account and go to the page with the required functions.
+7. Compliance with statutory requirements and cooperation with regulatory authorities
+We regularly update Pricearchive.org Privacy Policy and process user data in accordance with it.
+Data transfer
+User data is stored and processed by servers located in the European Union. User data is never relocated to other servers.
+8. Amendment of Pricearchive.org Privacy Policy
+From time to time, we may amend our Privacy Policy; however, we do not intend to restrict the rights of our users stipulated in this Policy without their explicit approval. We always state the date of last amendments to this Policy.

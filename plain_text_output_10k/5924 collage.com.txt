@@ -1,0 +1,18 @@
+Privacy Policy
+We strongly believe in the privacy of your information and we will do everything to keep your data safe and secure; that is, if we collect it all. The best policy is to avoid handling your private data altogether and, whenever possible, we will strive to do exactly that. For example, we do not access your Photos, Address Book, Calendar, GPS Location, or any other personal information stored on your mobile device.
+Our iOS Apps
+Some of our apps rely on Game Center to store your game score and progress and to access the world-wide leaderboards. Any score the app submits to Game Center on your behalf may contain information on the country from which it was submitted to give the scoring leaderboards a more global meaning. Data submitted to Game Center is subject to the Apple Privacy Policy .
+You can always choose to disable Game Center from your device Settings or remove our specific app from Game Center using the built-in Game Center app.
+Some of our apps also use Google Analytics to collect aggregate, anonymous usage information. We use this information to understand how people use our apps so that we may continue to improve them. Any data that we gather is subject to the Google Privacy Policy . We never collect or see any personally-identifiable information and only have access to analytical data aggregated into overall trends.
+If a given app does use Google Analytics, you have the option to disable that service from the settings of that app, accessible through the device Settings on your iPhone, iPad, or iPod Touch.
+Our Website
+This website also relies on Google Analytics to help us understand our web traffic and better serve the needs of our users. As before, any data that we gather is subject to the Google Privacy Policy and only available to us in aggregate form without any personally-identifiable information.
+Our Product Communication and Emails
+If you reach out to us via email, either through one of our apps or via the website, we may store your email address in a database and, from time to time, send you an email about our new products or information about the products that you already own.
+We will never share or sell your email address. Also, not to worry, we have no intention of spamming you. We keep our communication brief and to the point. Our current rate of mailings is about one message per year.
+You can always unsubscribe from receiving our newsletter using the unsubscribe link .
+Our Newsletter
+If you choose to sign up for our newsletter, we will store your email address in a database and send you our electronic newsletter.
+As before, we will never share or sell your email address to anyone.
+Also, you can unsubscribe at any time using the same unsubscribe link .
+Finally, if you have any questions or need clarification on any part of our privacy policy, you can always reach us at support [at] gamecollage [dot] com and we would be happy to help you.

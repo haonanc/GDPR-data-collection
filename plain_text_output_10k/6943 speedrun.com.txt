@@ -1,0 +1,30 @@
+Privacy Policy
+In order to provide everyone with great events we sometime needs to handle your personal information for various purposes.
+This document intends to make it clear what information we gather, how and for what purpose.
+The kind of information we gather
+First name
+Last name
+E-mail address
+Street name
+Zip code
+How we gather it
+Depending on how you interact with ESA, we keep different amount of information about you.
+As a donator, we get handle your first name, last name, email and postal address as identifiable information in our donation tracking system . We get this information automatically from the payment processor (Paypal).
+As a volunteer, we may ask for email, phone number, Discord username and Twitch username in various submission forms for each team.
+As a runner, we may ask for your username for Speedrun.com, Discord, Twitter, Youtube and Twitch using the submission form on our run submissions site
+As a customer on our merchandise store we gather your name, e-mail and country.
+As a attendee we may ask for first name, last name, e-mail, country and contact details to next of kin.
+Why we do this
+We handle your first name and last name in the donation tracker in order to be able to attribute it to your donation.
+This is also used with your street name, zip code and country in order to ship prizes won to you. This information can therefor be shared with our partners for this explicit purpose and only in the event that a prize will be shipped to you by one of them.
+We also handle your email in order to be able to contact you about any prizes won as well as link multiple donations to your profile in order to calculate donation statistics (maximum donation, minimum donation, average donation and similar).
+We also use your first name, last name and country in our store to deliver ordered goods to the correct person and prevent fraud by keeping a list of customers and what they ordered for enough time to make sure all orders are completed, none tries to claim otherwise and to comply with local laws.
+Attendees need to provide their names, email, country and contact details for your next of kin. This is done to validate tickets, prevent fraud and for safety.
+We want to be able to contact someone for you if you are involved in an incident during the event.
+Volunteers Email and Discord usernames are gathered in order to be able to reach you for various reasons relating to your team such as calling for meetings, planning arrivals and assigning rights in our various systems.
+Runners are also asked for this information together with Speedrun.com, Twitter, Youtube and Twitch username as we use these to evaluate submissions and present them on stream as a service for you and our viewers to find more content by you if they like what they see. If this is something you wish to opt out of, contact staff either before the event or before your run at the event.
+What rights do I have as a individual interacting with ESA?
+As we are based in Sweden, we fall under Swedish and European law, including the GDPR, General Data Protection Regulation.
+This means in broad strokes that you own all your personal and identifiable data and can request a copy of all data we keep about you as well as ask us to delete it (“The right to be forgotten”). We may refuse to do so based for operational and contractual reasons, but we will try to be resonable.
+If you wish to make use of any of these options, or any other you may be legally allowed to, please contact us at privacy@esamarathon.com and allow us time to process your request.
+Sponsors

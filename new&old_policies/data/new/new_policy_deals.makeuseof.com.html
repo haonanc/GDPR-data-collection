@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<html>
+  <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app41.us.archive.org';v.server_ms=1979;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+    <meta charset="utf-8"/>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"02bf0a7962","applicationID":"131593373","transactionName":"dl4KRhNdXFwDQRhKWEFUS0ITW0ZRBUo=","queueTime":0,"applicationTime":46,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>
+  Privacy | MakeUseOf Deals
+</title>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://web.archive.org/web/20180605091206/https://deals.makeuseof.com/feed.rss"/>
+<meta name="description" content="MakeUseOf Deals scours the web for the newest software, gadgets &amp; web services. Explore our giveaways, bundles, Pay What You Want deals &amp; more.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://web.archive.org/web/20180605091206im_/https://cdnp0.stackassets.com/b4865daa6f3fe1c94257b8fd27a853ebd9993c1b/store/f836c0d53655c191a4d18befea657112c43956e96a6adf0d0b3211d92628/favicon.ico"/>
+<link rel="apple-touch-icon" type="image/x-icon" href="https://web.archive.org/web/20180605091206im_/https://cdnp0.stackassets.com/b4865daa6f3fe1c94257b8fd27a853ebd9993c1b/store/f836c0d53655c191a4d18befea657112c43956e96a6adf0d0b3211d92628/favicon.ico"/>
+
+
+<link href="//web.archive.org/web/20180605091206cs_/https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" media="all" href="https://web.archive.org/web/20180605091206cs_/https://shops1.stackassets.com/assets/classic-3a1c69db3fd26279781c7f2d5b3f465d564f2da799a8c61ccd3fc655fcaf4458.css"/>
+  <link rel="stylesheet" media="all" href="//web.archive.org/web/20180605091206cs_/https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700"/>
+
+<style>.publisher-makeuseof .brand-primary,.publisher-makeuseof .shopping-cart-icon.active,.publisher-makeuseof .my-account-container .nav-tabs li a.active,.publisher-makeuseof #sc-nyop-buttons .btn-default.active .fa-circle,.publisher-makeuseof input[type=radio]:checked+label:before,.publisher-makeuseof input[type=checkbox]:checked+label:before,.publisher-makeuseof .footer .newsletter .btn-default,.publisher-makeuseof .js-cart-item-remove:hover,.publisher-makeuseof .mobile-search-icon.active .search-input-icon,.publisher-makeuseof .search-input:focus+.search-input-icon{color:#00b0ff}@media (min-width: 992px){.publisher-makeuseof .navbar-master .nav-item-container:hover .nav-item-link,.publisher-makeuseof .navbar-master .nav-item-link:hover{border-color:#00b0ff;color:#00b0ff !important}}.publisher-makeuseof #sc-nyop-leaderboard tr:first-child td:first-child strong,.publisher-makeuseof .table>tbody>tr.active td,.publisher-makeuseof .table>tbody>tr.active:hover td,.publisher-makeuseof .sc-form-group .bar:before,.publisher-makeuseof .sc-form-group .bar:after,.publisher-makeuseof .checkout .edit-address-bar,.publisher-makeuseof .footer-newsletter .btn-primary,.publisher-makeuseof .navbar.navbar-master .dropdown-nav-switcher .nav-item-link,.publisher-makeuseof .navbar.navbar-master .dropdown-nav-switcher.open .nav-item-link{background-color:#00b0ff}.publisher-makeuseof .address-verification-modal .btn-primary{background-color:#00b0ff}.publisher-makeuseof .address-verification-modal .btn-primary:hover{background-color:#009ee6}.publisher-makeuseof .table-hover>tbody>tr:hover,.publisher-makeuseof .active .shipping-address,.publisher-makeuseof .active .billing-address{background-color:#dbf4ff}.publisher-makeuseof .sc-product-thumbnails .product-thumbnail.active,.publisher-makeuseof input[type=radio]:checked+label:before,.publisher-makeuseof input[type=checkbox]:checked+label:before,.publisher-makeuseof .btn-selectable.active,.publisher-makeuseof .active .shipping-address,.publisher-makeuseof .active .billing-address{border-color:#00b0ff}.publisher-makeuseof .hello-bar{background-color:#CF3127}.publisher-makeuseof .hello-bar a{color:#FFFFFF}.publisher-makeuseof .alert-notification{background-color:#cf3127;border-color:#a41f2d;color:#fff}.publisher-makeuseof .alert-notification hr{border-top-color:#8f1b27}.publisher-makeuseof .alert-notification .alert-link{color:#e6e6e6}.publisher-makeuseof .navbar-default,.publisher-makeuseof .search-input,.publisher-makeuseof .navbar-collapse{background-color:#EEEEEE}.publisher-makeuseof .search-input-icon,.publisher-makeuseof .shopping-cart-icon,.publisher-makeuseof .navbar-default .navbar-nav>li>a,.publisher-makeuseof .navbar-default .navbar-nav>li>a:hover,.publisher-makeuseof .nav-item-link,.publisher-makeuseof .dropdown-menu>li>a,.publisher-makeuseof .dropdown-menu>li>a:hover,.publisher-makeuseof .navbar-default .navbar-nav>.open>a{color:#219FE1}.publisher-makeuseof .navbar-default .navbar-toggle .icon-bar{background-color:#219FE1}@media (max-width: 991px){.publisher-makeuseof .menu-list>li>a,.publisher-makeuseof .menu-list>li>.subnav-menu-label,.publisher-makeuseof .menu-list .subnav-menu-items a,.publisher-makeuseof .menu-list>li>a:hover{color:#219FE1;background:none}}.publisher-makeuseof .navbar-toggle .icon-cart{font-size:1.7em}.publisher-makeuseof .navbar-toggle .search-input-icon{font-size:1.4em}@media (max-width: 991px){.publisher-makeuseof .navbar-default .nav-item,.publisher-makeuseof .navbar-default .subnav-menu,.publisher-makeuseof .navbar-default .subnav-menu-items{border:0;border-top:1px solid #0d415d}.publisher-makeuseof .navbar-default .nav-item.open{border-color:transparent}.publisher-makeuseof .navbar-default .nav-item:first-child{border:0}}.publisher-makeuseof .navbar-search .search-input,.publisher-makeuseof .navbar-search-mobile .search-input{color:#219FE1;border:1px solid #0d415d}.publisher-makeuseof .shopping-cart-total .badge{background-color:#f41e37}.publisher-makeuseof #sc-hero-unit{background-image:url("https://web.archive.org/web/20180605091206im_/https://cdnp1.stackassets.com/c8cd59d188545dad83d38d05bf5adb91bd1f7c95/store/a87f9c93e8b5ee1eb52cc02bea13995b227c6240b097dedc29220e9c4254/HERO+-+The+2018+Mac+Essentials+Bundle+.jpeg")}.publisher-makeuseof #sc-hero-unit.giveaway-no-banner{background-image:none}.primary-color{color:#00b0ff !important}.active.primary-border-color-active{border-color:#00b0ff !important}.primary-border-color-active:hover{border-color:#66d0ff !important}.primary-border-top{border-top-color:#00b0ff !important}.active.primary-border-top-active{border-top-color:#00b0ff !important}.primary-border-left{border-left-color:#00b0ff !important}.active.primary-border-left-active{border-left-color:#00b0ff !important}.primary-border-bottom{border-bottom-color:#00b0ff !important}.active.primary-border-bottom-active{border-bottom-color:#00b0ff !important}.primary-border-right{border-right-color:#00b0ff !important}.active.primary-border-right-active{border-right-color:#00b0ff !important}.buy-now-column .loyalty-callout{color:#00b0ff}.loyalty-callout--bar{background-color:#00b0ff}@media (min-width: 993px){.loyalty-callout--bar{background-color:#fff;color:#00b0ff}}
+</style>
+
+<script src="https://web.archive.org/web/20180605091206js_/https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script>
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(["customTag", "LoggedIn", false]);
+</script>
+<script src="//web.archive.org/web/20180605091206js_/https://cdn.optimizely.com/js/74647825.js"></script>
+<script src="https://web.archive.org/web/20180605091206js_/https://shops1.stackassets.com/assets/shared-178e39bdb70b420a918ed588bf4172e270dc8aa76ed55b131ce6a9a30a39bf18.js"></script>
+<!--[if lte IE 9]>
+  <script src="https://shops1.stackassets.com/assets/jquery.html5-placeholder-shim-fd57d1a7d62d64d8cfd7af63ec58c8db8248e7709cac024b6946c984d31e9b7d.js"></script>
+  <script>
+    $.placeholder.shim();
+  </script>
+<![endif]-->
+
+<script src="https://web.archive.org/web/20180605091206js_/https://www.google.com/recaptcha/api.js" async="async" defer="defer"></script>
+<script src="https://web.archive.org/web/20180605091206js_/https://assets.jetlore.com/js/jlranker.js"></script>
+
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="kCXduGrIdzvYJXrqJrMp5BTwok2eYsE7WcG0jZec8UU0sq8d8G0VVNVdnchIRLCQ7CXA7R0Dart9+sUMK/9GIQ=="/>
+
+
+    <!-- Quantcast Tag, part 1 -->
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+      (function() {
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20180605091206/https://secure/" : "https://web.archive.org/web/20180605091206/http://edge/") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+
+    <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','//web.archive.org/web/20180605091206/https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1138172579571817');
+  fbq('track', "PageView");</script>
+  <noscript><img height="1" width="1" style="display:none" src="https://web.archive.org/web/20180605091206im_/https://www.facebook.com/tr?id=1138172579571817&amp;ev=PageView&amp;noscript=1"/></noscript>
+
+
+<script type="text/javascript">
+  window.fbq = window.fbq || (function(){});
+  window._fbq = window._fbq || [];
+</script>
+
+<script type="text/javascript">
+  window.dataLayer = [{
+    publisherId: '89',
+    affiliateId: '',
+    appEnvironment: 'production',
+    showEmailCapture: 'true'
+  }];
+
+  window.SC.code.analytics = {
+    customDimension: function(index, name, value) {
+      gtmPayload = {};
+      gtmPayload['dimension' + index] = value;
+      dataLayer.push(gtmPayload);
+    },
+
+    analyticsEvent: function(category, action, opt_label, opt_value, opt_noninteractive) {
+      // ensure value is integer. We encountered weird analytics behavior if decimals are sent
+      integer_value = Math.round(opt_value) || undefined
+
+      dataLayer.push({
+        'event': 'analyticsEvent',
+        'eventCategory': category,
+        'eventAction': action,
+        'eventLabel': opt_label,
+        'eventValue': integer_value,
+        'eventNonInt': opt_noninteractive
+      });
+    },
+
+    analyticsSocial: function(socialNetwork, socialAction, opt_socialTarget, opt_page) {
+      dataLayer.push({
+        'event': 'social',
+        'socialNetwork': socialNetwork,
+        'socialAction': socialAction,
+        'socialTarget': opt_socialTarget,
+        'socialPagePath': opt_page
+      });
+    },
+
+    analyticsVPV: function(virtualPageName) {
+      dataLayer.push({
+        'event': 'analyticsVPV',
+        'vpvName': virtualPageName
+      });
+    },
+
+    analyticsClearVPV: function() {
+      dataLayer.push({
+        'event': 'analyticsVPV',
+        'vpvName': undefined
+      });
+    },
+
+    analyticsForm: function(f, el) {
+      var formName = f;
+      var elName = el.name || el.id || el.type;
+      var category = 'interaction';
+      var action = 'form: ' + formName;
+      var label = elName + ':' + el.type;
+
+      // Google Tag Manager
+      analyticsEvent(category, action, label);
+    }
+  };
+
+  $(document).ready(function() {
+    window.SC.dataLayer.enqueue('SCDataLayer', 'USER_VISITS', { previouslyPurchasedProducts: 'false' });
+
+
+  });
+</script>
+
+
+
+
+<script type="text/javascript">
+var _user_id = '';
+var _session_id = 'a8eb284a72b265c4c36bc5813465cf16';
+
+var _sift = window._sift = window._sift || [];
+_sift.push(['_setAccount', 'ef01e3d959']);
+_sift.push(['_setUserId', _user_id]);
+_sift.push(['_setSessionId', _session_id]);
+_sift.push(['_trackPageview']);
+(function() {
+  function ls() {
+    var e = document.createElement('script');
+    e.type = 'text/javascript';
+    e.async = true;
+    e.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(e, s);
+  }
+  if (window.attachEvent) {
+    window.attachEvent('onload', ls);
+  } else {
+    window.addEventListener('load', ls, false);
+  }
+})();
+</script>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://deals.makeuseof.com/privacy
+', '20180605091206')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180605091206/https://deals.makeuseof.com/privacy', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180605091206/https://deals.makeuseof.com/privacy&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://deals.makeuseof.com/privacy
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180605091206" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180501103935/https://deals.makeuseof.com/privacy" title="01 May 2018"><strong>May</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 09:12:06 Jun 05, 2018">JUN</td>
+		  <td class="f" nowrap="nowrap">Jul</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180529175020/https://deals.makeuseof.com/privacy" title="17:50:20 May 29, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 09:12:06 Jun 05, 2018">05</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170504231214/https://deals.makeuseof.com/privacy" title="04 May 2017"><strong>2017</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 09:12:06 Jun 05, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180605091206*/https://deals.makeuseof.com/privacy
+" title="See a list of every capture for this URL">19 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">10 Jun 2015 - 05 Jun 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/twitteroutlinks)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/twitteroutlinks" target="_new"><span class="wm-title">Twitter Outlinks</span></a></div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://deals.makeuseof.com/privacy\n","2018-06-05",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><input type="hidden" class="js-jetlore-constructor-tag" id="user_email" value="">
+
+  </head>
+  <body id="stacksocial-wrapper" class="publisher-makeuseof" ng-app="stackApp" ng-class="[cartStateBodyClass]">
+    <a href="https://web.archive.org/web/20180605091206/https://iar40lbead.execute-api.us-east-1.amazonaws.com/ProdStage" rel="nofollow" style="display: none" aria-hidden="true">nofollow</a>
+    <script type="text/javascript">
+  // dimension1 is reserved for legacy PartnerType and is unused
+  window.SC.code.analytics.customDimension(2, 'User Status', "logged_out");
+
+    window.SC.code.analytics.customDimension(3, "Publisher", "MakeUseOf");
+    window.SC.code.analytics.customDimension(4, "Publisher Persona", "General Tech News");
+
+
+
+
+
+</script>
+
+    <!-- StackCommerce GTM Container -->
+  <noscript>
+    <iframe src="https://web.archive.org/web/20180605091206if_/https://www.googletagmanager.com/ns.html?id=GTM-P2BQKM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://web.archive.org/web/20180605091206/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P2BQKM');
+  </script>
+
+    <input type="hidden" name="current_publisher" id="current_publisher" value="89" data-name="MakeUseOf" data-credit-upsell-id="9426"/>
+    <input type="hidden" name="current_user_favorites" id="current_user_favorites" data-sale-ids="[]" data-sales-url="https://deals.makeuseof.com/v0/sales"/>
+    <input type="hidden" name="api_url" id="api_url" value="https://deals.makeuseof.com/"/>
+    <input type="hidden" name="current_cart" id="current_cart" data-current-cart="{&quot;items&quot;:[]}"/>
+    <input type="hidden" name="publisher_upsell_sales" id="publisher_upsell_sales" data-sales="[{&quot;from_jetlore&quot;:true},{&quot;from_jetlore&quot;:true},{&quot;from_jetlore&quot;:true},{&quot;from_jetlore&quot;:true}]" data-max-quantity="4"/>
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="none" version="1.1">
+  <defs>
+    <symbol id="icon-heart" viewbox="0 0 75 75">
+      <path class="path1" d="M18,38.5L36.2,57c0.3,0.3,0.8,0.5,1.3,0.5c0.5,0,1-0.2,1.3-0.5l9.1-9.2c3-3.1,6.1-6.1,9.1-9.2c4.7-4.8,4.7-12.6,0-17.4c-2.3-2.3-5.4-3.6-8.7-3.6c-3.3,0-6.4,1.3-8.7,3.6l-2,2l-2-2.1c-2.3-2.3-5.4-3.6-8.7-3.6c-3.3,0-6.4,1.3-8.7,3.6C13.3,25.9,13.3,33.7,18,38.5z M20.7,23.5c1.7-1.7,3.8-2.6,6.1-2.6c2.3,0,4.4,0.9,6.1,2.6l3.4,3.4c0.3,0.3,0.8,0.5,1.3,0.5c0.5,0,1-0.2,1.3-0.5l3.3-3.4c1.7-1.7,3.8-2.6,6.1-2.6c2.3,0,4.4,0.9,6.1,2.6c3.4,3.5,3.4,9.1,0,12.6L37.5,53.2l-0.1-0.1l-16.7-17C17.3,32.6,17.3,27,20.7,23.5z"/>
+    </symbol>
+
+    <symbol id="icon-circle-heart" viewbox="0 0 75 75">
+      <path class="path1" d="M23.1,40.5 L36.525,54.6 C36.75,54.825 37.125,54.975 37.5,54.975 C37.875,54.975 38.25,54.825 38.475,54.6 L45.15,47.55 C47.4,45.225 49.65,42.825 51.825,40.5 C55.35,36.825 55.35,30.825 51.825,27.15 C50.1,25.35 47.85,24.375 45.375,24.375 C42.9,24.375 40.65,25.35 38.925,27.15 L37.425,28.725 L35.925,27.15 C34.2,25.35 31.95,24.375 29.475,24.375 C27,24.375 24.75,25.35 23.025,27.15 C19.65,30.9 19.65,36.825 23.1,40.5 Z M25.05,29.025 C26.25,27.75 27.9,27 29.55,27 C31.2,27 32.85,27.675 34.05,29.025 L36.525,31.65 C36.75,31.875 37.125,32.025 37.5,32.025 C37.875,32.025 38.25,31.875 38.475,31.65 L40.95,29.025 C42.15,27.75 43.8,27 45.45,27 C47.1,27 48.75,27.675 49.95,29.025 C52.5,31.65 52.5,36 49.95,38.7 L37.5,51.825 L37.425,51.675 L25.05,38.7 C22.5,36 22.5,31.725 25.05,29.025 Z"></path>
+      <path class="path2" d="M37.5,74.625 C17.025,74.625 0.375,57.975 0.375,37.5 C0.375,17.025 17.025,0.375 37.5,0.375 C57.975,0.375 74.625,17.025 74.625,37.5 C74.625,57.975 57.975,74.625 37.5,74.625 Z M37.5,2.625 C18.3,2.625 2.625,18.3 2.625,37.5 C2.625,56.7 18.3,72.375 37.5,72.375 C56.7,72.375 72.375,56.7 72.375,37.5 C72.375,18.3 56.7,2.625 37.5,2.625 Z"></path>
+    </symbol>
+
+    <symbol id="icon-circle-heart-filled" viewbox="0 0 75 75">
+      <path class="path1" d="M23.1,40.5 L36.525,54.6 C36.75,54.825 37.125,54.975 37.5,54.975 C37.875,54.975 38.25,54.825 38.475,54.6 L45.15,47.55 C47.4,45.225 49.65,42.825 51.825,40.5 C55.35,36.825 55.35,30.825 51.825,27.15 C50.1,25.35 47.85,24.375 45.375,24.375 C42.9,24.375 40.65,25.35 38.925,27.15 L37.425,28.725 L35.925,27.15 C34.2,25.35 31.95,24.375 29.475,24.375 C27,24.375 24.75,25.35 23.025,27.15 C19.65,30.9 19.65,36.825 23.1,40.5 Z"></path>
+      <path class="path2" d="M37.5,74.625 C17.025,74.625 0.375,57.975 0.375,37.5 C0.375,17.025 17.025,0.375 37.5,0.375 C57.975,0.375 74.625,17.025 74.625,37.5 C74.625,57.975 57.975,74.625 37.5,74.625 Z M37.5,2.625 C18.3,2.625 2.625,18.3 2.625,37.5 C2.625,56.7 18.3,72.375 37.5,72.375 C56.7,72.375 72.375,56.7 72.375,37.5 C72.375,18.3 56.7,2.625 37.5,2.625 Z"></path>
+    </symbol>
+
+    <symbol id="icon-cart" viewbox="0 0 75 75">
+      <path class="path1" d="M47.8,52.5c1.3,0,2.3,1,2.3,2.3c0,1.3-1,2.3-2.3,2.3s-2.3-1-2.3-2.3C45.5,53.5,46.5,52.5,47.8,52.5z M30.4,52.5c1.3,0,2.3,1,2.3,2.3c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3C28.1,53.5,29.1,52.5,30.4,52.5z M47.8,49.1c-3.2,0-5.8,2.6-5.8,5.8c0,3.2,2.6,5.8,5.8,5.8s5.8-2.6,5.8-5.8C53.6,51.7,50.9,49.1,47.8,49.1z M30.4,49.1c-3.2,0-5.8,2.6-5.8,5.8c0,3.2,2.6,5.8,5.8,5.8s5.8-2.6,5.8-5.8C36.2,51.7,33.6,49.1,30.4,49.1z M23.2,23.8h34.5L55,35.4l-26.3,2.1L23.2,23.8z M11.4,14.6c-1,0-1.7,0.8-1.7,1.7s0.8,1.7,1.7,1.7h5.8c2.9,7.1,5.7,14.2,8.5,21.2l-2.6,6.3c-0.2,0.5-0.2,1.2,0.2,1.6c0.3,0.5,0.9,0.8,1.4,0.8h28.9c0.9,0,1.8-0.8,1.8-1.7c0-0.9-0.8-1.7-1.8-1.7H27.3l1.5-3.6l27.8-2.2c0.7-0.1,1.4-0.6,1.6-1.3l3.5-15c0.2-1-0.7-2.1-1.7-2.1H21.8l-1.9-4.7c-0.3-0.6-0.9-1.1-1.6-1.1H11.4z"/>
+    </symbol>
+
+    <symbol id="icon-search" viewbox="0 0 75 75">
+      <path class="path1" d="M34.1,17.5c-4.4,0-8.6,1.7-11.7,4.9c-3.1,3.1-4.9,7.3-4.9,11.7c0,4.4,1.7,8.6,4.9,11.7c3.1,3.1,7.3,4.9,11.7,4.9c3.7,0,7.2-1.2,10.1-3.5l0.2-0.2l10,10c0.7,0.7,1.9,0.7,2.6,0c0.7-0.7,0.7-1.9,0-2.6v0l-10-10l0.2-0.2c5.1-6.6,4.5-16-1.4-21.9C42.6,19.2,38.5,17.5,34.1,17.5 M43.2,43.2c-2.4,2.4-5.7,3.8-9.1,3.8h0c-3.4,0-6.7-1.3-9.1-3.8c-2.4-2.4-3.8-5.7-3.8-9.1c0-3.4,1.3-6.7,3.8-9.1c2.4-2.4,5.7-3.8,9.1-3.8c3.4,0,6.7,1.3,9.1,3.8c2.4,2.4,3.8,5.7,3.8,9.1S45.6,40.7,43.2,43.2"/>
+    </symbol>
+
+    <symbol id="icon-ships-fast" viewbox="0 0 100 100">
+      <path class="st0" d="M30.1,39.2L30.1,39.2l-12.3,0c0,0,0,0,0,0c-0.3,0-0.7,0.1-0.9,0.4c-0.2,0.2-0.4,0.6-0.4,0.9
+        c0,0.3,0.1,0.7,0.4,0.9c0.2,0.2,0.6,0.4,0.9,0.4l12.3,0c0.4,0,0.7-0.1,0.9-0.4c0.3-0.2,0.4-0.6,0.4-0.9c0-0.3-0.1-0.7-0.4-0.9
+        C30.8,39.3,30.5,39.2,30.1,39.2z"/>
+      <path class="st0" d="M31.1,35.2c0.3-0.2,0.4-0.6,0.4-0.9c0-0.3-0.1-0.7-0.4-0.9c-0.3-0.2-0.6-0.4-0.9-0.4l0,0l0,0H8.3
+        c-0.4,0-0.7,0.1-0.9,0.4C7.1,33.6,7,33.9,7,34.3c0,0.3,0.1,0.7,0.4,0.9c0.3,0.2,0.6,0.4,0.9,0.4l0,0l0,0h21.8
+        C30.5,35.6,30.8,35.4,31.1,35.2z"/>
+      <path class="st0" d="M75.4,36.1l-0.1-0.5c-0.4-1.5-1.9-2.6-3.4-2.6H38.4c-2,0-3.6,1.6-3.6,3.6v21.7c0,2,1.6,3.6,3.6,3.6h4.4l0.1,0.5
+        c0.8,2.7,3.3,4.6,6.2,4.6c2.8,0,5.4-1.9,6.2-4.6l0.1-0.5h17.6l0.1,0.5c0.8,2.7,3.4,4.6,6.2,4.6c2.8,0,5.4-1.9,6.2-4.6l0.1-0.5h4.5
+        c1.5,0,2.8-1.3,2.8-2.8V48.9c0-1.5-1.3-2.8-2.8-2.8h-0.7L89,45.1c-0.7-1.4-1.5-3.1-2.5-4.7c-0.7-1.2-1.4-2.1-2.1-2.8
+        c-0.7-0.8-1.5-1.5-2.8-1.5H75.4z M53,60.6c0,2.2-1.7,3.9-3.9,3.9c-2.2,0-3.9-1.7-3.9-3.9c0-2.2,1.7-3.9,3.9-3.9
+        C51.4,56.7,53,58.4,53,60.6L53,60.6z M72.8,59.3H55.5l-0.1-0.5c-0.8-2.8-3.3-4.7-6.2-4.7c-2.8,0-5.4,1.9-6.2,4.7l-0.1,0.5h-4.4
+        c-0.5,0-1-0.5-1-1V36.6c0-0.6,0.4-1,1-1l33.4,0c0.5,0,1,0.5,1,1V59.3z M79.4,64.4c-2.2,0-3.9-1.7-3.9-3.9c0-2.2,1.8-3.9,3.9-3.9
+        c2.3,0.1,3.9,1.7,3.9,3.9C83.3,62.8,81.6,64.4,79.4,64.4z M90.4,48.7v10.6h-4.7l-0.1-0.5c-0.6-2.8-2.9-4.5-6.2-4.6
+        c-1,0-2.1,0.3-3,0.7l-1,0.5v-6.7H90.4z M82.6,39.3c0.5,0.5,1.1,1.4,1.7,2.4c0.6,1,1.2,2.1,1.9,3.5l0.5,1H75.4v-7.5h6.1l0.2,0
+        l0.2,0.1C82,38.9,82.3,39,82.6,39.3z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+
+    <div class="container-wrapper">
+      <div class="container-site">
+        <script>
+  window.current_publisher_code = "makeuseof";
+</script>
+
+<div class="hello-bar js-hello-bar hidden-xs hidden-sm">
+  <div class="container">
+      <div class="pull-left">
+        <a class="back-link" href="https://web.archive.org/web/20180605091206/http://www.makeuseof.com/">
+          <i class="fa fa-sm fa-chevron-left back-to-publisher"></i> back to www.makeuseof.com
+</a>      </div>
+
+
+      <div class="">
+        <a class="hello-bar-text js-hello-bar" data-sale-slug="pwyw-learn-to-code-2018" data-track-click="{&quot;category&quot;:&quot;HelloBar&quot;,&quot;label&quot;:&quot;link&quot;}" impression_list="hello bar" href="/web/20180605091206/https://deals.makeuseof.com/best-sellers">
+          SAVE 15% STOREWIDE W/CODE MEMDAY15
+          <i class="fa fa-chevron-right"></i>
+</a>      </div>
+
+    <a class="referal-link" data-track-click="{&quot;category&quot;:&quot;HelloBar&quot;,&quot;label&quot;:&quot;refer link&quot;}" href="/web/20180605091206/https://deals.makeuseof.com/user/credits">
+      Give $10,
+      Get $10
+</a>  </div>
+</div>
+
+<nav id="main-navbar" class="navbar navbar-default navbar-fixed-top navbar-master js-navbar-master" role="navigation" data-navbar>
+
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle navbar-menu-button pull-left" type="button">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar icon-bar-middle"></span>
+        <span class="icon-bar icon-bar-middle"></span>
+        <span class="icon-bar icon-bar-middle"></span>
+      </button>
+
+      <div class="navbar-toggle mobile-cart-icon mini-cart">
+        <mini-cart-button></mini-cart-button>
+      </div>
+
+      <div class="navbar-toggle mobile-search-icon js-toggleSearchNav">
+        <svg class="svg-icon search-input-icon">
+          <use xlink:href="#icon-search"></use>
+        </svg>
+      </div>
+
+      <div class="navbar-brand-container">
+        <a class="navbar-brand" href="/web/20180605091206/https://deals.makeuseof.com/">
+            <img class="navbar-logo hidden-xs hidden-sm" alt="MakeUseOf" src="https://web.archive.org/web/20180605091206im_/https://cdnp3.stackassets.com/76c4ae7569655472a286eaec733b25dcf1154cc0/store/60c44980250ad35c57cf832d30bafe0c5d6f73e9dafa6dfdea888d505863/386a256f9b2d53be18efb43cc3804e24cb7c0158_logo_main.png"/>
+
+    <img class="navbar-logo hidden-md hidden-lg" alt="MakeUseOf" src="https://web.archive.org/web/20180605091206im_/https://cdnp3.stackassets.com/600302551d45db8f554f17080d4a19866d4c3bf3/store/7fdb598c593763814af7c0ce46249606253d42f6f93d86b0bc00e5588140/e74b70948e0e24e15c4a1c3e333cd274329ff81a_logo_main_mobile.png"/>
+
+</a>      </div>
+    </div>
+
+    <div class="navbar-collapse">
+      <div class="navbar-center">
+        <div class="hidden-xs hidden-sm navbar-search">
+          <form class="form-inline js-search-form" action="/web/20180605091206/https://deals.makeuseof.com/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓"/>
+            <div class="search-container">
+              <input type="text" name="query" id="query" placeholder="Search" class="search-input" required="required"/>
+              <i class="fa fa-search search-input-icon"></i>
+            </div>
+</form>        </div>
+
+        <ul class="nav navbar-nav navbar-right nav-account hidden-xs hidden-sm">
+          <li class="heart-icon-nav">
+            <a class="nav-account-link js-wishlist-nav" href="/web/20180605091206/https://deals.makeuseof.com/user?show=home-tab">
+              <svg class="svg-icon">
+                <use xlink:href="#icon-heart"></use>
+              </svg>
+</a>          </li>
+          <li class="cart-icon-nav">
+            <mini-cart-button></mini-cart-button>
+          </li>
+            <li>
+    <a class="nav-account-link" href="/web/20180605091206/https://deals.makeuseof.com/sign_in?source=signup_page">Login</a>
+  </li>
+
+        </ul>
+      </div>
+
+      
+<ul class="nav navbar-nav navbar-main js-navbar-main nav-4-items">
+  
+    
+
+      
+
+          <li class="dropdown nav-item nav-item-container js-mobile-dropdown ">
+            <a class="mobile-dropdown-toggle nav-item-link js-root-menu-item" role="button" href="#">
+              Categories
+</a>            <div class="dropdown-menu mega-menu" role="menu">
+              <div class="container">
+                <ul class="list-unstyled menu-list">
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <a class="subnav-menu-label js-child-menu-item mobile-dropdown-toggle" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets">
+                            Gear + Gadgets
+</a>
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/mobile">
+                                      Mobile
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/sound">
+                                      Sound
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/power">
+                                      Power
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/connected-devices">
+                                      Connected Devices
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/photography">
+                                      Photography
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/diy">
+                                      DIY
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/auto">
+                                      Auto
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gear-gadgets/gaming-toys">
+                                      Gaming + Toys
+</a>                                  </li>
+                          </ul>
+                      </li>
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <a class="subnav-menu-label js-child-menu-item mobile-dropdown-toggle" href="/web/20180605091206/https://deals.makeuseof.com/collections/software">
+                            Apps + Software
+</a>
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/software/productivity">
+                                      Productivity
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/software/utilities">
+                                      Utilities
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/software/security">
+                                      Security
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/software/backup-storage">
+                                      Backup + Storage
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/software/entertainment">
+                                      Entertainment
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/software/design">
+                                      Design
+</a>                                  </li>
+                          </ul>
+                      </li>
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <a class="subnav-menu-label js-child-menu-item mobile-dropdown-toggle" href="/web/20180605091206/https://deals.makeuseof.com/collections/online-courses">
+                            Online Courses
+</a>
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/online-courses/development">
+                                      Development
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/online-courses/it-security">
+                                      IT + Security
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/online-courses/photography">
+                                      Photography
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/design">
+                                      Design
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/online-courses/business">
+                                      Business
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/marketing">
+                                      Marketing
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/online-courses/self">
+                                      Self
+</a>                                  </li>
+                          </ul>
+                      </li>
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <a class="subnav-menu-label js-child-menu-item mobile-dropdown-toggle" href="/web/20180605091206/https://deals.makeuseof.com/collections/design-assets">
+                            Designer Assets
+</a>
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/design-assets/icons-vectors">
+                                      Icons + Vectors
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/design-assets/themes-templates">
+                                      Themes + Templates
+</a>                                  </li>
+                          </ul>
+                      </li>
+                </ul>
+              </div>
+            </div>
+          </li>
+      
+
+          <li class="dropdown nav-item nav-item-container js-mobile-dropdown ">
+            <a class="mobile-dropdown-toggle nav-item-link js-root-menu-item" role="button" href="#">
+              Collections
+</a>            <div class="dropdown-menu mega-menu" role="menu">
+              <div class="container">
+                <ul class="list-unstyled menu-list">
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <span class="subnav-menu-label mobile-dropdown-toggle">
+                            Interests
+                          </span>
+
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/shop-by-specialization-developer">
+                                      Developer
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/hacking">
+                                      Hacking
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/shop-by-interest-apple-mac">
+                                      Apple
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/shop-by-interest-android">
+                                      Android
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/shop-by-specialization-designer">
+                                      Designer
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/gamer">
+                                      Gamer
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/shop-by-interest-science">
+                                      Science
+</a>                                  </li>
+                          </ul>
+                      </li>
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <span class="subnav-menu-label mobile-dropdown-toggle">
+                            Featured
+                          </span>
+
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/pay-what-you-want">
+                                      Pay What You Want
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/citizengoods-exclusives">
+                                      Exclusive Deals
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/lifetime-deals">
+                                      Lifetime Subscriptions
+</a>                                  </li>
+                              
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/international">
+                                      International
+</a>                                  </li>
+                          </ul>
+                      </li>
+                    
+                      <li class="subnav-menu subnav-menu-group dropdown js-mobile-dropdown">
+                          <span class="subnav-menu-label mobile-dropdown-toggle">
+                            Staff Picks
+                          </span>
+
+                          <ul class="list-unstyled js-nav-filters">
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/under-20">
+                                      Under $20
+</a>                                  </li>
+                              
+                                  <li class="subnav-menu-items">
+                                    <a class="js-third-level-menu-item" href="/web/20180605091206/https://deals.makeuseof.com/collections/citizengoods-subscriptions">
+                                      Subscriptions
+</a>                                  </li>
+                              
+                          </ul>
+                      </li>
+                </ul>
+              </div>
+            </div>
+          </li>
+      
+
+          <li class="nav-item ">
+            <a class="nav-item-link" href="/web/20180605091206/https://deals.makeuseof.com/free">Freebies</a>
+          </li>
+      
+
+          <li class="nav-item ">
+            <a class="nav-item-link" href="/web/20180605091206/https://deals.makeuseof.com/giveaways">Giveaways</a>
+          </li>
+
+  <li class="nav-username-placeholder hidden-sm hidden-xs">
+      Login
+  </li>
+
+  <li class="nav-item visible-xs visible-sm">
+  <a class="nav-item-link" href="/web/20180605091206/https://deals.makeuseof.com/user?show=home-tab">Wishlist</a>
+</li>
+  <li class="nav-item visible-xs visible-sm">
+    <a class="nav-item-link" href="/web/20180605091206/https://deals.makeuseof.com/sign_in?source=signup_page">Login</a>
+  </li>
+
+</ul>
+
+    </div>
+  </div>
+
+  <div id="search-dropdown-bar" class="hidden-md hidden-lg navbar-search-mobile container js-search-dropdown-bar">
+    <form class="form-inline js-search-form" action="/web/20180605091206/https://deals.makeuseof.com/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓"/>
+      <input type="text" name="query" id="mobile-search-box" placeholder="Search" class="form-control search-input js-mobile-search-box"/>
+</form>  </div>
+
+  
+</nav>
+
+<div id="main-navbar-phantom" class="js-main-navbar-phantom"></div>
+<div class="mobile-nav-overlay"></div>
+
+
+<mini-cart></mini-cart>
+
+        
+
+        <div class="site-contents">
+          
+
+
+
+<div class="container privacy-page">
+  <div class="row">
+    <div class="col-md-12">
+      <h3>Privacy Policy</h3>
+<p><strong>LAST REVISED</strong>: 5/22/18</p>
+<p><span>Your privacy is important to us and we are committed to protecting the privacy of our users and the information that you share in connection with our Site. &nbsp;This Privacy Policy identifies: (i) what information we collect; (ii) how we process and manage such information; (iii) your rights with respect to the use and disclosure of the same. &nbsp;If you have any questions about this Privacy Policy please contact us at privacy@stacksocial.com.</span></p>
+<ol start="1">
+  <li>
+    <h4 style="display:inline"><span>PERSONAL DATA AND NON-PERSONAL DATA</span></h4>
+    <ol start="1" type="a">
+      <li>
+        <p style="display:inline"><span>&ldquo;</span><span>Personal Data</span><span>&rdquo; means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, Internet Protocol (&ldquo;IP&rdquo;) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), as well as any other non-public information about you that is associated with or linked to any of the foregoing data. </span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>&ldquo;</span><span>Non-Personal Data</span><span>&rdquo; means data that is not associated with or linked to your Personal Data; Non-Personal Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Non-Personal Data, as described below.</span></p>
+      </li>
+    </ol>
+  </li>
+</ol>
+<ol start="2">
+  <li>
+    <h4 style="display:inline"><span>WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW DO WE USE IT? </span></h4>
+    <ol start="1" type="a">
+      <li>
+        <p style="display:inline"><span>What data is collected</span><span>. We collect Personal Data that you voluntarily provide us, for example, when you create an Account, register for our newsletter and/or make a purchase we may require your name, email, contact information, billing address, credit card inform and/or other information you may provide us. We also collect information about you from various sources, including from your in-store purchases. We also may collect information about you that we receive from other sources (like public records), to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Use of Personal Data</span><span>.</span></p>
+      </li>
+    </ol>
+    <p><span>We will use your Personal Data to: </span></p>
+    <ul>
+      <li>
+        <p style="display:inline"><span>Make the Site available to you;</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Process and fulfill merchandise orders; &nbsp;</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Enhance the Site;</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Respond to your requests or to manage Accounts;</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Monitor the security of the Site; and/or</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Provide you with promotional communications.</span></p>
+      </li>
+    </ul>
+  </li>
+</ol>
+<ol start="3">
+  <li>
+    <h4 style="display:inline"><span>DISCLOSURE OF PERSONAL INFORMATION </span></h4>
+    <p><span>We disclose Your Personal Data as described below and as described elsewhere in this Privacy Policy.</span></p>
+    <ol start="3" type="a">
+      <li>
+        <p style="display:inline"><span>Third-Party Service Provides</span><span>. We will share your Personal Data with third parties, such as vendors and service providers who provide assistance with billing, payment processing, fraud protection, credit risk reduction, marketing, data analytics support and service associated with the Site and delivery of purchased merchandise. </span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Compliance with laws and for other legitimate business purposes</span><span>. </span></p>
+      </li>
+    </ol>
+    <p><span>We will share your Personal Data when we believe disclosure is necessary or required by law, regulation, to protect users, the integrity of the Site and to defend or exercise our legal rights. We may also disclose your Personal Data when it may be necessary for other legitimate and lawful purposes as reasonably determined by us.</span></p>
+    <ol start="5" type="a">
+      <li>
+        <p style="display:inline"><span>Affiliates</span><span>.</span></p>
+      </li>
+    </ol>
+    <p><span>We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other company&rsquo;s under a common control (&ldquo;Affiliates&rdquo;), in which case we will require our Affiliates to honor this Privacy Policy.</span></p>
+    <ol start="6" type="a">
+      <li>
+        <p style="display:inline"><span>Corporate restructuring</span><span>.</span></p>
+      </li>
+    </ol>
+    <p><span>We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our Company, business, or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.</span></p>
+  </li>
+</ol>
+<ol start="4">
+  <li>
+    <h4 style="display:inline"><span>NON-PERSONAL DATA WE COLLECT </span></h4>
+    <ol start="1" type="a">
+      <li>
+        <p style="display:inline"><span>Information Collected by Our Servers</span><span>. To make our Site more useful to you, our servers (which may be hosted by a third-party service provider) collect information from you, including your browser type, operating system, domain name, and/or a date/time stamp for your visit.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Log Files</span><span>. As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (&ldquo;ISP&rdquo;), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users&rsquo; movements around the Site, gather demographic information about our user base as a whole, and better tailor our Site to our users&rsquo; needs. For example, some of the information may be collected so that when you visit the Site again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Cookies</span><span>. Like many online services, we use cookies to collect information. &ldquo;Cookies&rdquo; are small pieces of information that a website sends to your computer&rsquo;s hard drive while you are viewing the Site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive user experience. This type of information is collected to make our Site more useful to you and to tailor the experience with us to meet your special interests and needs.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Pixel Tags</span><span>. In addition, we use &ldquo;Pixel Tags&rdquo; (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user&rsquo;s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to users. We do not tie the information gathered by Pixel Tags to Personal Data.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Flash LSOs</span><span>. When we post videos, third parties may use local shared objects, known as &ldquo;Flash Cookies,&rdquo; to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Google Analytics</span><span>. We may use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to our Site. We use the information we get from Google Analytics only to improve our Site. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Data. Although Google Analytics plants a persistent Cookie on Your web browser to identify you as a unique user the next time you visit the Site and use Services, the Cookie cannot be used by anyone but Google. Google&rsquo;s ability to use and share information collected by Google Analytics about your visits to our Site is governed by the Google Analytics&rsquo; Terms of Use and Privacy Policy.</span></p>
+      </li>
+    </ol>
+  </li>
+</ol>
+<ol start="5">
+  <li>
+    <h4 style="display:inline"><span>California Privacy Rights</span></h4>
+    <p><span>Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.</span></p>
+    <p><span>To request a copy of the information disclosure provided by us pursuant to Section 1798.83 of the California Civil Code, please contact us at the below address:</span></p>
+    <p>StackSocial, Inc.<br>
+      Attn: &nbsp;Legal Department<br>
+      Re: CA Privacy Rights<br>
+      21 Market Street<br>
+      Venice, CA 90291<br>
+      legal@stacksocial.com
+    </p>
+  </li>
+</ol>
+<ol start="6">
+  <li>
+    <h4 style="display:inline"><span>CALIFORNIA DO NOT TRACK DISCLOSURE</span></h4>
+    <p><span>Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not recognize or respond to Do Not Track browser settings or signals and we will still receive information. &nbsp;As a result, we may still collect information about you and your internet activity, even if you have turned on the Do Not Track signal.</span></p>
+    <p><span>It is possible that some or all of our third-party advertising partners or members of their affiliate network may participate in a consumer opt-out programs. &nbsp;To learn more about internet-based advertising and consumer opt-out programs go to http://aboutads.info/choices/ or http://www.networkadvertising.org/choices/. &nbsp;We do not operate or control these sites, and are not responsible for the opt-out choices available there.</span></p>
+    <p><span></span></p>
+  </li>
+</ol>
+<ol start="7">
+  <li>
+    <h4 style="display:inline"><span>YOUR U.K. PRIVACY RIGHTS</span></h4>
+    <p><span>Users from the U.K. have the right to ask us to amend or limit the processing of their Personal Data, (as defined by U.K. law) and in particular not to process their Personal Data for marketing purposes. We will inform you (before collecting your personal data) if we intend to use your Personal Data for such purposes or if we intend to disclose your Personal Data to any third party for such purposes. You can exercise your rights to prevent such processing by checking certain boxes on the forms we use to collect your Personal Data. You can also exercise the right at any time by contacting us at: privacy@stacksocial.com. &nbsp;</span></p>
+    <p><span>The U.K. Data Protection Act 1998 (&quot;the DPA 1998&quot;) gives users from the U.K. the right to access information held about you. Your right of access can be exercised in accordance with the DPA 1998. Any access request may be subject to a fee of &pound;10 to meet our costs in providing you with details of the information we hold about you. </span></p>
+  </li>
+</ol>
+<ol start="8">
+  <li>
+    <h4 style="display:inline"><span>INTERNATIONAL TRANSFERS OF INFORMATION</span></h4>
+    <p><span>Information, including information collected in the European Economic Area (&quot;EEA&quot;) may be transferred, stored and processed by us and our services providers in the United States and other countries whose data protection laws may be different than the laws of your country. We will protect your Personal Data in accordance with this Privacy Policy wherever it is processed and take appropriate steps to protect the information in accordance with applicable laws. </span></p>
+    <p><span>If you live in the EEA, or a similar international area, you may have additional privacy rights available to you under applicable laws. We will process your requests in accordance with applicable data protection laws. If you would like to exercise any of the below rights, please contact privacy@stacksocial.com so that we may consider your request in accordance with applicable law: </span></p>
+    <ul>
+      <li>
+        <p style="display:inline"><span>Right not to provide or withdraw consent: You have the right not to provide or withdraw your consent at any time.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Right of access: You may have the right to access the Personal Data that you provided us.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Right of erasure: You may have the right to the erasure of Personal Data that we hold about you. </span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Right to object to processing: You may have the right to request that we stop processing your Personal Data and/or to stop sending you marketing communications.</span></p>
+      </li>
+      <li>
+        <p style="display:inline"><span>Right to rectification: You may have the right to require us to correct any of your Personal Data.</span></p>
+      </li>
+    </ul>
+  </li>
+</ol>
+<ol start="9">
+  <li>
+    <h4 style="display:inline"><span>PRIVACY RIGHTS AND DATA PROTECTION OFFICER</span></h4>
+    <p><span>a. General. You may modify the information you have provided to us at any time through your Account. You can also opt-out of receiving marketing communications, deactivate, or delete your Account at any time. </span></p>
+    <p><span>b. Data Protection Officer. We have appointed a Data Protection Officer to ensure continued commitment to privacy and security practices. For further information please contact us at: privacy@stacksocial.com.</span></p>
+    <p><span></span></p>
+  </li>
+</ol>
+<ol start="10">
+  <li>
+    <h4 style="display:inline"><span>INFORMATION SECURITY AND CONFIDENTIALITY </span></h4>
+    <p><span>We maintain (and requires its subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information we process. However, no organizational or technical measures are 100% secure so you should take care when disclosing information online and act reasonably to protect yourself online.</span></p>
+  </li>
+</ol>
+<ol start="11">
+  <li>
+    <h4 style="display:inline"><span>UPDATES</span></h4>
+    <p><span>From time to time, this Privacy Policy will be updated in whole or in part, at which time the new date will be reflected above in the &ldquo;Last Revised&rdquo; section. &nbsp;The updated Privacy Policy will immediately replace and supersede any prior Agreements, unless otherwise noted. Accordingly, if you use the Site after an update is published, then you will unconditionally agree to be bound by the updated terms and policies.</span></p>
+  </li>
+</ol>
+<ol start="12">
+  <li>
+    <h4 style="display:inline"><span>UNSUBSCRIBE</span></h4>
+    <p><span>You will have an opportunity to unsubscribe to any emails or mailings by clicking on an &quot;unsubscribe&quot; hyperlink contained in promotional emails we send you. &nbsp;Even if you are removed from any such list, if you use the services provided through the Site, you will continue to receive email correspondence from us related to the services. &nbsp;Any opt-out by you is not deemed valid until processed by us. &nbsp;It is your obligation to verify that you have been opted-out. &nbsp;We will not be liable for problems with the opt-out procedures. Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.</span></p>
+    <p><span>If you register for an Account on the Site, you may review and update your account information by logging in to your account with your username and password at www.stacksocial.com or by contacting customer service at support@stackcommerce.com.</span></p>
+  </li>
+</ol>
+<ol start="13">
+  <li>
+    <h4 style="display:inline"><span>THIRD PARTY WEBSITES</span></h4>
+    <p><span>You may have found this Site through a Link located on a third-party website operated by another company or you may choose to click on a link on this Site to websites operated by third parties. &nbsp;For example, we may at times include links to various social media platforms on this Site, but know that if you interact with these social media tools through this Site, then your experience on those social media sites will be governed by the privacy and other policies of those sites and the privacy settings you have chosen on those sites will determine the degree to which your information is made public. &nbsp;In short, please be advised that the practices described in this Privacy Policy do not apply to information gathered through any website operated by other companies. We encourage you to read the privacy policies of each and every website that you visit to understand how they collect, use, secure, and share your information. &nbsp;Further, we encourage you to choose your privacy settings on those websites accordingly.</span></p>
+  </li>
+</ol>
+<ol start="14">
+  <li>
+    <h4 style="display:inline"><span>CONTACT INFORMATION</span></h4>
+    <p><span>If you have any questions about this Privacy Policy please contact us at privacy@stacksocial.com. &nbsp;For customer service regarding an order please write, call, or e-mail our Customer Service Department at: </span></p>
+    <p>
+      Customer Service Department<br>
+      StackSocial, Inc.<br>
+      Attn: &nbsp;Legal Department<br>
+      Re: CA Privacy Rights<br>
+      21 Market Street<br>
+      Venice, CA 90291<br>
+      Telephone: (415) 335-6768<br>
+      Mon. - Fri., 9am to 6pm PST<br>
+      support@stackcommerce.com
+    </p>
+  </li>
+</ol>
+
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+
+      
+  <footer id="footer" class="footer">
+    <div class="container">
+
+      <div class="footer-menus-row row">
+        <div class="col-md-5">
+          <div class="footer-newsletter">
+  <h5 class="footer-title footer-newsletter-title">Sign up &amp; get 10% Off</h5>
+
+  <form class="clearfix form-inline" role="form" action="/web/20180605091206/https://deals.makeuseof.com/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"/><input type="hidden" name="authenticity_token" value="NBUY+ovDM9F0admcM2zlFSuCgv9CnI9inhctaJHVOTYJG3iqYBUkRLXTHsbidQ7hdnysmJOZZyDoHfY2YiLHrw=="/>
+    <div class="clearfix js-mailcheck-container">
+      <input type="hidden" name="source" id="source" value="Footer"/>
+      <label for="signup-newsletter" class="sr-only">Email address</label>
+      <input type="email" name="email" id="signup-newsletter" class="form-control js-email-field" placeholder="Email"/>
+
+      <button type="submit" class="btn-primary">
+        Sign up
+      </button>
+    </div>
+
+    <span class="newsletter-legend">
+      *New customers only. Offer lasts 30 days. See Terms.
+    </span>
+</form></div>
+
+        </div>
+
+        <div class="col-md-7 footer-menus footer-menus-vendor">
+          <div class="row">
+            <div class="col-xs-4">
+  <h4 class="footer-title">My Account</h4>
+
+  <ul class="list-unstyled">
+    <li>
+      <a href="/web/20180605091206/https://deals.makeuseof.com/user?show=profile-tab">Profile</a>
+    </li>
+    <li>
+      <a href="/web/20180605091206/https://deals.makeuseof.com/user?show=account-tab">Account</a>
+    </li>
+    <li>
+      <a href="/web/20180605091206/https://deals.makeuseof.com/user/purchases">Purchases</a>
+    </li>
+    <li>
+      <a href="/web/20180605091206/https://deals.makeuseof.com/user/credits">Credits</a>
+    </li>
+    <li>
+      <a href="/web/20180605091206/https://deals.makeuseof.com/user?show=preferences-tab">Preferences</a>
+    </li>
+  </ul>
+</div>
+
+<div class="col-xs-4">
+  <h4 class="footer-title">Support</h4>
+
+  <ul class="list-unstyled">
+    <li>
+      <a target="_blank" href="https://web.archive.org/web/20180605091206/https://support.stackcommerce.com/hc/en-us/requests/new?affiliate_id=&amp;first_name=&amp;order_id=&amp;persona=General+Tech+News&amp;product_name=SelectTV+-+1+Year+Subscription&amp;publisher_id=89&amp;publisher_logo=https%3A%2F%2Fcdnp3.stackassets.com%2F76c4ae7569655472a286eaec733b25dcf1154cc0%2Fstore%2F60c44980250ad35c57cf832d30bafe0c5d6f73e9dafa6dfdea888d505863%2F386a256f9b2d53be18efb43cc3804e24cb7c0158_logo_main.png&amp;sale_id=14936&amp;sale_name=SelectTV+by+FreeCast%3A+1-Yr+Subscription&amp;sale_url=https%3A%2F%2Fdeals.makeuseof.com%2Fsales%2Fselecttv-1-year-subscription&amp;source=lower+footer+contact+link&amp;user_id=&amp;vendor_id=2423">Contact</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://web.archive.org/web/20180605091206/https://support.stackcommerce.com/hc/en-us/?affiliate_id=&amp;first_name=&amp;order_id=&amp;persona=General+Tech+News&amp;product_name=SelectTV+-+1+Year+Subscription&amp;publisher_id=89&amp;publisher_logo=https%3A%2F%2Fcdnp3.stackassets.com%2F76c4ae7569655472a286eaec733b25dcf1154cc0%2Fstore%2F60c44980250ad35c57cf832d30bafe0c5d6f73e9dafa6dfdea888d505863%2F386a256f9b2d53be18efb43cc3804e24cb7c0158_logo_main.png&amp;sale_id=14936&amp;sale_name=SelectTV+by+FreeCast%3A+1-Yr+Subscription&amp;sale_url=https%3A%2F%2Fdeals.makeuseof.com%2Fsales%2Fselecttv-1-year-subscription&amp;source=lower+footer+FAQs+link&amp;user_id=&amp;vendor_id=2423">FAQs</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://web.archive.org/web/20180605091206/https://support.stackcommerce.com/hc/en-us/sections/202047586-Shipping?affiliate_id=&amp;first_name=&amp;order_id=&amp;persona=General+Tech+News&amp;product_name=SelectTV+-+1+Year+Subscription&amp;publisher_id=89&amp;publisher_logo=https%3A%2F%2Fcdnp3.stackassets.com%2F76c4ae7569655472a286eaec733b25dcf1154cc0%2Fstore%2F60c44980250ad35c57cf832d30bafe0c5d6f73e9dafa6dfdea888d505863%2F386a256f9b2d53be18efb43cc3804e24cb7c0158_logo_main.png&amp;sale_id=14936&amp;sale_name=SelectTV+by+FreeCast%3A+1-Yr+Subscription&amp;sale_url=https%3A%2F%2Fdeals.makeuseof.com%2Fsales%2Fselecttv-1-year-subscription&amp;source=lower+footer+shipping+link&amp;user_id=&amp;vendor_id=2423">Shipping</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://web.archive.org/web/20180605091206/https://support.stackcommerce.com/hc/en-us/sections/202049583-Refund-Return?affiliate_id=&amp;first_name=&amp;order_id=&amp;persona=General+Tech+News&amp;product_name=SelectTV+-+1+Year+Subscription&amp;publisher_id=89&amp;publisher_logo=https%3A%2F%2Fcdnp3.stackassets.com%2F76c4ae7569655472a286eaec733b25dcf1154cc0%2Fstore%2F60c44980250ad35c57cf832d30bafe0c5d6f73e9dafa6dfdea888d505863%2F386a256f9b2d53be18efb43cc3804e24cb7c0158_logo_main.png&amp;sale_id=14936&amp;sale_name=SelectTV+by+FreeCast%3A+1-Yr+Subscription&amp;sale_url=https%3A%2F%2Fdeals.makeuseof.com%2Fsales%2Fselecttv-1-year-subscription&amp;source=lower+footer+returns+link&amp;user_id=&amp;vendor_id=2423">Returns</a>
+    </li>
+    <li><a href="/web/20180605091206/https://deals.makeuseof.com/terms">Terms</a></li>
+    <li><a href="/web/20180605091206/https://deals.makeuseof.com/privacy">Privacy</a></li>
+  </ul>
+</div>
+
+
+              <div class="col-xs-12 col-sm-4 footer-vendor-section">
+  <hr class="visible-xs">
+
+  <h4 class="footer-title">Are you a vendor?</h4>
+  <p class="footer-subtitle">Get exclusive coverage to the world's top publisher sites through the StackCommerce network.</p>
+
+  <a class="pub-footer-link primary-color" target="_blank" href="https://web.archive.org/web/20180605091206/https://www.stackcommerce.com/vendors">Learn More</a>
+
+  <div class="powered-by">
+  <h6>Powered By</h6>
+
+  <a target="_blank" href="https://web.archive.org/web/20180605091206/https://stackcommerce.com/">
+    <img alt="StackCommerce" src="https://web.archive.org/web/20180605091206im_/https://shops1.stackassets.com/assets/core/logo-light-531c09dd9744d199c151749553ae71f8db7a185f827067726cb82077cd377411.svg"/>
+</a></div>
+
+
+  <div class="hidden-xs pub-copyright">
+    <p>Copyright &copy; 2018 StackCommerce. All Rights Reserved.</p>
+  </div>
+
+  <div class="bbb-badge-container">
+  <a id="bbblink" class="sehzbus bbb-badge" target="_blank" href="https://web.archive.org/web/20180605091206/https://www.bbb.org/losangelessiliconvalley/business-reviews/online-retailer/stackcommerce-in-venice-ca-1013267#bbbseal" title="StackCommerce, Online Retailer, Venice, CA">
+      <img id="bbblinkimg" src="https://web.archive.org/web/20180605091206im_/https://seal-sanjose.bbb.org/logo/sehzbus/stackcommerce-1013267.png" width="200" height="38" alt="StackCommerce, Online Retailer, Venice, CA">
+  </a>
+</div>
+
+</div>
+
+          </div>
+        </div>
+      </div>
+
+          <img alt="MakeUseOf logo" class="sc-footer-pub-logo hidden-xs" src="https://web.archive.org/web/20180605091206im_/https://cdnp2.stackassets.com/ab5f3cdafd00ba69337ca5e38562dbd8bc4df366/store/55cb411e3d3b58966b529a5e1225aadc2a0b0e1d4dcbfadf39a2afe962a0/46d562fa302f6e70e08cc0975915195bcf7fe968_logo_footer.png"/>
+
+
+    </div>
+  </footer>
+
+  <script>
+//<![CDATA[
+
+    var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+    document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-sanjose.bbb.org' + unescape('%2Flogo%2Fstackcommerce-1013267.js') + "' type='text/javascript'%3E%3C/script%3E"));
+
+//]]>
+</script>
+    </div>
+
+      <div id="email-capture-modal" class="modal email-capture-modal email-capture-vertical-technology" tabindex="-1" role="dialog" aria-labelledby="email-capture-modal" aria-hidden="true" data-backdrop="static" data-email-capture-modal data-email-capture-analytics-url="https://deals.makeuseof.com/modal_email_capture">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="pull-right close" data-email-capture-modal-dismiss data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body clearfix">
+          <div class="email-capture-form-container" data-email-capture-form-container>
+            <div class="email-capture-headline">
+              Take 10% Off<br/>
+              Your First Purchase
+            </div>
+
+            <div class="email-capture-message">
+              Join millions of other subscribers who get exclusive discounts, freebies and giveaways!
+            </div>
+
+            <form data-email-capture-modal-form="true" novalidate="novalidate" action="/web/20180605091206/https://deals.makeuseof.com/subscribe.json" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"/>
+              <input type="hidden" name="source" id="source" value="EmailCaptureModal"/>
+              <div class="text-danger email-capture-error" data-email-capture-modal-messages></div>
+              <div class="form-group">
+                <input type="email" name="email" id="email" class="form-control email email-capture-field" placeholder="Email"/>
+              </div>
+              <button name="button" type="submit" class="btn btn-lg btn-block email-capture-button">
+                Get my discount
+</button></form>            <div class="email-capture-detail">
+              Coupon code will be sent to this email address
+            </div>
+            <div class="email-capture-terms">
+              By joining our mailing list you agree to our <a target="_blank" href="/web/20180605091206/https://deals.makeuseof.com/terms">Terms and Conditions</a>
+            </div>
+            <div class="email-capture-dismiss" data-email-capture-modal-dismiss>
+              No thanks, I'll just pay full price.
+            </div>
+          </div>
+
+          <div class="email-capture-confirmation-container hide" data-email-capture-confirmation-container>
+            <div class="email-capture-headline">
+              You're in!
+            </div>
+
+            <div class="email-capture-message">
+              Check your inbox for your 10% coupon
+            </div>
+
+            <button class="btn btn-lg btn-primary email-capture-confirmation-button" data-email-capture-modal-dismiss data-email-capture-modal-continue>
+              Start shopping
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <script src="https://web.archive.org/web/20180605091206js_/https://shops1.stackassets.com/assets/config-269b3be761327b3f955044ff15b7b65ae6e0ab34e3b050439dc5a54e608a5bb5.js"></script>
+
+<script>
+  SC.config.setPublisher({"id":89,"name":"MakeUseOf","hostname":"deals.makeuseof.com","brand_primary_color":"#00B0FF","vertical":"technology"});
+  SC.config.setUser(null);
+  SC.config.setOptions({
+    loyaltySpentAmount: 25,
+    loyaltyAmountInCredit: 1,
+    jetloreCartUpsellFilter: 'PROD_CART_UPSELL_FILTER'
+  });
+</script>
+
+    <script src="https://web.archive.org/web/20180605091206js_/https://shops1.stackassets.com/assets/classic-d401aac212fb3c56904bb2bddd7ad0d97ced108723d38cbcb24271e4eb64047d.js"></script>
+    
+    <script>
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {};
+    if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+    js.src = "https://web.archive.org/web/20180605091206/https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    t._e = []; t.ready = function(f) { t._e.push(f); };
+    return t;
+  }(document, "script", "twitter-wjs"));
+</script>
+
+<script>
+</script>
+
+  <!-- Quantcast Tag, part 2 -->
+  <script type="text/javascript">
+    _qevents.push( { qacct:"p-443uI8zl5eTMM" } );
+  </script>
+  <noscript>
+    <div style="display:none;">
+      <img src="//web.archive.org/web/20180605091206im_/https://pixel.quantserve.com/pixel/p-443uI8zl5eTMM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+  </noscript>
+<!-- End Quantcast tag -->
+
+    
+    
+
+      
+      
+    <div bundle-club-modal visible="showModal"></div>
+    
+  </body>
+  
+  
+</html>
+<!--
+     FILE ARCHIVED ON 09:12:06 Jun 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:41:04 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1550.122 (3)
+  esindex: 0.005
+  captures_list: 1697.314
+  CDXLines.iter: 13.23 (3)
+  PetaboxLoader3.datanode: 992.949 (4)
+  exclusion.robots.fetch: 124.415 (4)
+  exclusion.robots: 125.441
+  exclusion.robots.policy: 0.477
+  RedisCDXSource: 3.675
+  PetaboxLoader3.resolve: 718.43 (2)
+  load_resource: 254.218
+-->

@@ -1,0 +1,160 @@
+Contents
+More of our lives are online as technology becomes more advanced. As a result, it’s crucial to know how to protect yourself from hackers and online predators.
+But you can’t do that without understanding what you’re protecting yourself from.
+Many hackers are just tech-savvy thieves with money as their motive, but that’s not always the case. Hackers have highly diverse motives . There are hackers who are trying to pull publicity stunts or fight for a worthy (or not-so-worthy) cause. There are others out to attack business or personal rivals. Still others want to practice their hacking skills out of a sense of curiosity or just for fun.
+With all these motives, you could easily end up as someone’s target.
+Even though money may not be their motive, hackers are still thieves of information. Just like any thief, a hacker will choose the most vulnerable targets they can find. But instead of using lock picks to steal from your home or business, they use software to steal your personal data.
+Hackers will often try to glean information such as credit card numbers or bank account information. They may use that information themselves, or sell it to the highest bidder. They may also try to get enough personal data to steal your identity — enough to open a new credit account or take out a loan in your name, leaving you on the hook to pay the balance, and damaging your credit score for years to come.
+Unfortunately, many people often make hackers’ jobs easy for them. Hackers can easily plant viruses on computers to automatically steal information, or use phishing to con you into handing over your information willingly.
+While ignorance can make you an easy target, learning about hackers, their tools and motives, and how to protect yourself makes you someone they’re more likely to avoid. Just like how increasing your home security makes thieves less likely to break into your house, leveling up your computer security skills will turn hackers away as they seek easier targets.
+Check out the graphic below to find out what hackers are after — and how you can protect yourself.
+Protect Your Privacy: Stop Hackers Before They Stop You
+They’re out there: the hackers and the bots they control. Their motivations may be varied, but their results are the same: costing you time, money and privacy. It’s important to know what it is they do and how to stop them. We have all the details here.
+Dangers of Hacking
+High-profile targets — for notoriety
+Vulnerable individuals — because it’s easy
+Hackers have a wide variety of motives, including:
+For fun
+Curiosity
+Money from selling information or identity theft
+Political expression
+Most website aren’t hacked by a particular human being
+Nearly 10% of all web traffic consists of automated bots that trawl websites for information
+Hackers release the bots to search websites for vulnerabilities and then exploit them
+Virus
+First proposed by mathematician John von Neumann in 1949
+An early virus was Creeper in 1971, which displayed the message, ‘I’M THE CREEPER : CATCH ME IF YOU CAN’
+The anti-virus program Reaper was created to destroy it
+Viruses are the most common hacking danger
+Don’t need to do anything malicious, but often:
+Destroy or steal data
+Exploits open ports and connections to a network
+Overwhelms network with requests and causes it to crash
+Worm
+A subclass of virus that doesn’t need to be attached to host file
+They can spread without the need of humans to run them
+Even when benign, worms can cause great damage
+In 1988, the Morris worm was released
+Created by a computer science student to gauge the size of the internet, it got out of hand
+Effectively shut down the internet for several days
+Some worms don’t mean to do damage, but do mean to steal resources
+In 2004, Mydoom was sent out by email spammers
+It used host computers to send out spam
+Within a week, it had infected a million computers
+The author was never found
+Worms usually cause DDoS attacks, even if that isn’t the intent
+May filter information back to hackers
+Trojan Horse
+Harm the computer it is installed on
+Steal information and transmit it remotely
+Use the local computer to attack others
+How hackers target their victims
+Researching
+Business Attacks
+Seemingly valid sources requesting private information
+Could be a phone call or text that looks like it’s from a bank or store asking for personal info
+Acquiring personal information through various kinds of phishing
+Traditional Phishing
+Seemingly valid requests from companies to verify personal information
+Gain passwords, SSNs, bank information, and more that can allow identity theft
+Spear-phishing
+Targeted phishing against the most vulnerable victims
+Often includes links and files to download that let hackers in
+Smishing (SMS-phishing)
+Uses cell phone numbers to send text messages to users asking for information or action
+Message seemingly from a trusted company
+Bank
+Store
+Organization
+Gets users to click a link that ends up filling the device with malware or viruses
+Vishing (voice-phishing)
+Uses phone number databases to seemingly call from a company, like a bank or the IRS, and ask for personal information
+Fraudulent websites
+Fake job opportunities to get personal information
+Spam
+Malicious links that open up hackers’ sites or allow viruses to enter the computer
+Attacks on Businesses and Organizations
+Famous hacking attacks:
+Alt.Sex, 1999
+David L. Smith posted a Word file on the Alt.Sex user group, claiming that it contained user names and passwords to pornography sites.
+It actually contained a virus that he named Melissa, after a stripper he knew.
+Estimates indicate that up to 20% of all internet computers became infected with the virus.
+Yahoo! and many others, 2000
+A Canadian high school student, MafiaBoy (AKA Michael Calce) launched a series of DDoS attacks starting with Yahoo!
+He went on to shut down Amazon, CNN, Ebay, and others.
+It was apparently done to impress his hacker friends
+New York Times, 2002
+Adrian Lamo decided to celebrate his 21st birthday by hacking into the Times’ database, changing its masthead to include himself as an op-ed columnist
+He also accessed their account with Lexis-Nexis — a database which allows journalists to search all articles published in major newspapers and magazines.
+He used it to search for his name 3,000 times — costing the company $300,000.
+Church of Scientology, 2008
+The hacker group Anonymous first became widely known for their DDoS attack against the church.
+The act was precipitated by the church’s threat to sue Gawker over its posting of a video featuring Tom Cruise talking about Scientology.
+Anonymous led protests for months to come.
+Sony PlayStation Network, 2011
+Personal information such as names, email, passwords, and possibly some credit card details compromised
+Target, 2013
+40 million customers’ credit and debit card information compromised
+70 million customers’ personal information stolen
+Snapchat, 2014
+Hacked twice
+4.6 million usernames and passwords compromised in January 2014
+About 90,000 photos and 9,000 videos compromised from third-party servers in October 2014
+How businesses can protect against hacking:
+Know what makes your business vulnerable:
+Larger, established companies with older software
+Developed before security innovations
+Lack of security officers who know what they’re doing
+Improving security
+Upgrade software
+General employee training in IT security concerns
+IT security officers present concerns in accessible ways
+IT security officers integrated into projects to spot security loopholes during the development process
+Research what company information is available to the public through online searches and public records.
+Hire ‘white hat’ hackers to test the system
+Encrypt communications and data
+A personal computer is hacked every 6 seconds
+Seven out of 10 hacking victims indirectly provided hackers with their passwords
+What hackers are after:
+Financial details to thieves
+Know what makes you most vulnerable:
+Public Wi-Fi
+Often public connections are not encrypted and therefore not secure from hackers.
+Weak security habits
+Not using 2-factor authentication
+Where your password is combined with something else like a code texted to your phone
+It is a huge advantage in the fight against hackers
+Using easy passwords
+Simple to guess
+Leaving accounts signed in
+Use encrypted communications and data
+Check the encryption settings on devices, web browsers, and email applications
+Keep your software up to date
+The Sasser worm was release 17 days after Microsoft released a fix for the vulnerability
+Don’t click suspicious links
+Stay off questionable sites where malware is common
+Pornography sites are notorious for malware
+Illegal download sites are riddled with viruses
+Avoid phishing-type scams
+Verify requests for personal information and passwords by calling the bank or company directly
+Only download from trustworthy sources
+People you know accompanied with a legitimate message from the person with the attachment or link
+Known websites of established companies
+Have separate email accounts for various activities such as social media, banking, and shopping with different passwords
+Avoid public computers and free Wi-Fi, unless it’s a secure network
+Avoid sharing personal information online
+Hackers can combine data from multiple sources to attack you.
+They can create customized phishing attacks with information they’ve found
+They can use knowledge about you to guess security questions that allow access to your accounts
+Much personal information that is used for security can be made public by you via social media interactions
+‘I was really torn up when my first dog Oblivious died”
+‘I think my mother married my father for his name. Her maiden name was Careless.’
+‘What do you mean no one remembers the street they grew up on?! I lived on Imprudent Street until I was 10.’
+Be wary about sharing any of the following online:
+Names
+Use firewalls, high security settings, and antivirus/antispyware software
+Regularly check accounts for unauthorized activity
+It is impossible to say what some ingenious hacker will come up with next. But in general, you will limit your vulnerability by keeping your software up to date, knowing who you are dealing with, and taking precautions like using 2-factor authorization and strong passwords..
+Sources: crucialp.com, incapsula.com, experian.com, fastcompany.com, fortune.com, businessweek.com, idownloadblog.com, extremetech.com, gawker.com, cnn.com, newsweek.com, bbc.co.uk, essence.com, isaca.org, whoishostingthis.com
+Sources
+Legal information, legal templates and legal policies are not legal advice.

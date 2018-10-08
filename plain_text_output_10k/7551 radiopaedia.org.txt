@@ -1,0 +1,25 @@
+A frequent question I am asked revolves around privacy issues for cases submitted to Radiopaedia.org. Understandably this issue is of concern to many both within the health industry and from the general public. The main worry, I think, is the possibility of a third party recognizing an individual from their images and thus become privy to information that would normally only be available to the patient and their treating physicians.
+Before discussing Radiopaedia.org's approach, the first thing to mention is that every hospital and practice I have worked at has a privacy policy and it behooves each contributor to ensure that they contribute cases in line with their local guidelines. However, there is considerable variation when it comes to local policy and thus Radiopaedia.org has its own strict policy guidelines  which are incorporated by reference into our terms of use . This policy is based on HIPAA (Health Insurance Portability and Accountability Act) which precludes any cases containing individually identifiable health information.
+Individually identifiable health information” is information, including demographic data, that relates to:
+the individual’s past, present or future physical or mental health or condition,
+the provision of health care to the individual, or
+ 
+What does that mean in practice? Well, our case publication guidelines go into a fair bit of detail but the key points are that:
+A) cases should be devoid of all patient identifiers and preferably have no text overlay on the images whatsoever (this can be difficult to achieve in some instances).
+B) the supporting text (e.g. presenting complaint, case discussion etc..) should not include any other information which could be used to specifically identify an individual to a third party. 
+C) if a case is for one reason or another unique in a way that could lead to identification of an individual then it should also not be uploaded. This means that a case which is has been featured in the media is usually inappropriate. 
+We take this very seriously, and failure to abide by these rules is a breach of our  privacy policy and terms of use .  All our cases are moderated by our dedicated volunteer section editors and any case found to have patient information is immediately deleted and the contributor sent a warning email.
+Should a user repeatedly upload cases with patient details their account will be suspended; this has not occurred. 
+Should you find information which could identify a patient please write to us immediately at privacy@radiopaedia.org and we will remove the content. 
+At the end of the day we accept cases to help us build an amazing resource which is shared without charge with every health professional on the globe, in the hope that this will lead to better diagnosis, treatment and outcome for patients. 
+ 
+ 
+NB: Opinions expressed are those of the author alone, and are not those of his employer, or of  Radiopaedia.org . 
+Comments
+Add reply
+Blog Subscription
+We will only send you an email when there are new posts.
+ Unable to process the form. Check for errors and try again.
+ Thank you for updating your details.
+© 2005–2018 Radiopaedia.org
+Accept

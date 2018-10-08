@@ -1,0 +1,92 @@
+Information Collection, Use and Access Notice
+We collect and use the information provided to us (on this form, via a web page, via a web application or by email) in order to ensure the integrity of our promotions and games and provide advice, information, services, and assistance. We are authorized to collect information for this purpose by section 8880 et seq. of the California Government Code. We recommend you do not provide any personal information not specifically requested.
+When contacting us by email, we recommend that you only provide the personal information that you think we need to respond to your concern. If, however, you do not give us enough information, we may not be able to contact you or help you resolve your concern.
+It is the policy of the California Lottery to share your personal information only as strictly necessary to provide services or assistance. This may include disclosing your personal information to Lottery affiliates and to other government agencies. We also could be required to disclose the personal information that you provide in the following circumstances:
+In response to a Public Records Act request, as allowed by the Information Practices Act;
+To another government agency as required by state or federal law;
+In response to a court or administrative order, a subpoena, or a search warrant.
+You may review the records we maintain that contain your personal information, as permitted by the Information Practices Act. For questions about this notice, our Privacy Policy , or access to your records, contact the Lottery Privacy Coordinator at privacy@calottery.com or write to: The California State Lottery - Attention: Privacy Coordinator. 700 Tenth Street, Sacramento, CA 95811.
+no
+When you play California isn't the only winner.
+Find a Lottery retailer near you.
+Don't have an account?
+2nd Chance draws
+Jackpot Captain tools
+PLAYERS: To report complaints against Lottery retailers, please contact Lottery Security & Law Enforcement toll-free at 800-LOTTERY (800-568-8379).
+ALLIED LAW ENFORCEMENT: To communicate with the Lottery regarding criminal activity involving Lottery products, please call (916) 822-8282 M-F 8am-5pm PT. During non-business hours please call (916) 822-8000.
+PRIVACY POLICY
+We protect your personal information.....
+ 
+The Lottery’s information management practices conform to the requirements of the Information Practices Act (California Civil Code section 1798 et seq.), the California Public Records Act (California Government Code section 6250 et seq.), California Government Code sections 11015.5 and 11019.9, California Business & Professions Code sections 22575-22579, and other laws pertaining to information privacy.
+The Lottery adheres to the following principles in connection with the collection, use and sharing of your personal information:
+The Lottery collects personal information from individuals only as allowed by law and with their explicit consent. The Lottery limits the collection of personal information to what is relevant and necessary to accomplish its lawful purpose, as defined in the California State Lottery Act. For example, the Lottery may need an individual’s home address, email address, or telephone number in order to answer that person’s questions, process his or her claim form, or provide some other requested assistance. The Lottery may also request demographic information such as ZIP code, age, gender, preferences, interests, and favorites in order to personalize and improve its services.  Website visitors who have registered on the Website may request to have their personal information discarded without reuse or distribution. To make such a request, contact the Lottery’s privacy coordinator at the following email address: privacy at calottery dot com.
+The Lottery does not collect home, business, or email addresses or account information from people who simply browse the Lottery’s website, but it does automatically collect certain information from website visitors. The Lottery website consists of a primary domain and several sub-domains and is referred to collectively as “Website.” The Lottery only collects your personal information if you voluntarily provide it to us through email, registration forms, or surveys. The Lottery does automatically collect some information from each visitor to its Website, including the domain name or Internet Protocol address that relates to the machine used to access the Website, the type of browser and operating system used, and the date and time when you visit the Website. The Lottery may also automatically collect information about your interaction with Lottery Website, mobile application and services. For example, it may use analytics tools on its Website to retrieve information from your browser, including the website you came from, the search engine(s) and the keywords you used to find the Lottery’s Website, the pages you view within the Lottery’s Website, your browser add-ons, and your browser's width and height.  This automatically-collected information is not subject to disclosure under the California Public Records Act.
+This Website and the California Lottery mobile application (the “App”) use "cookies" and “anonymous identifiers” to help personalize your online experience and to collect usage statistics. Cookies store your site usage, preferences and user information, which will facilitate the future implementation of personalization and provide the Lottery with valuable information for site and application improvements. Anonymous identifiers are random strings of characters that are used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available. 
+Cookies used by the Lottery are encrypted and cannot be used to run programs or deliver viruses to your computer.
+The Lottery uses session cookies when you visit and search informational content on the Lottery’s Website.  Session cookies do not contain user information, will not transmit any personal information to the Lottery, and are deleted automatically when the browser window closes or within 24 hours, whichever occurs first.
+The Lottery also uses persistent cookies, which you must manually delete. For example, the Lottery uses persistent cookies to collect username and language setting information. 
+To access certain Lottery Website and App services you will need to provide your email address and password (credentials). The Lottery will then assign and temporarily store your unique ID number and the time you signed in via an encrypted cookie on your computer or device. This cookie will allow you to move between services on the Website or App without having to sign in again on each page. When you sign out, these cookies are deleted from your computer or device.
+The Lottery also uses cookies to improve your sign-in experience on the Website. For example, the Lottery may store your email address in a cookie that will remain on your computer after you sign out. This cookie allows the Lottery to pre-populate your email address the next time you sign in to the Website.
+The Lottery also may permit third party analytics providers, such as Google Analytics to use cookies and anonymous identifiers to collect and process certain non-personally identifiable information.  For example, Google Analyitcs may collect and process information such as how often users visit the Website or the App and, what pages they visited.  
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to sign in or use other interactive features and services offered in the players’ area of the Lottery’s Website.
+If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. For example, in Internet Explorer 10 you can delete cookies by selecting “Tools,” “Safety,” “Delete browsing history,” “Cookies” and “Delete.” Each browser may provide a different way to delete cookies. If you choose to delete cookies, any settings and preferences controlled by those cookies will be deleted and may need to be recreated when you next access the Website. The Lottery prohibits on its Website any third party web beacons that collect or access your personal information.
+In connection with the App, the Lottery may collect and store some or all of the information set forth below. This information enables you to use the App and receive information, products, and services.  It also enables the Lottery to respond to your inquiries or requests for products and services:
+• Device Information
+ 
+• Ticket Information
+To ensure the integrity of Lottery games and promotions, the Lottery may collect and store information about the tickets scanned by your device. Such information may be linked to a unique identifier that is associated with your device, the App software downloaded to your device, or your 2nd Chance account.
+• Physical Location
+Location information will not be collected without your consent.  Location information enables the App to establish the approximate location of your mobile device.  The Lottery may use and store this information, in combination with other location-based information (such as IP address), to provide requested location services (e.g., identification of nearby Retailers) and to deliver enhanced location based services and other content.  You may withdraw your consent to the collection of your location information at any time by disabling or changing the related functionality or setting as provided in your mobile device.
+• Telephone Number
+The Lottery may also provide you with an opportunity to opt-in to receive special offers on your wireless telephone by providing your wireless telephone number.
+ 
+The Lottery may combine your information. In order to offer you a more consistent and personalized experience in your interactions with the Lottery, the Lottery may combine information it collects through one Lottery service with information obtained through other Lottery and Lottery-affiliated services. The Lottery may also supplement the information it collects with information obtained from other companies. This will enable the Lottery, for example, to offer customized services based on location information determined by your computer IP address.
+ 
+The Lottery gives people who provide personal information an opportunity to review that information. The Lottery allows individuals who provide personal information to review that information and contest its accuracy or completeness. To make such a request, contact the Lottery’s privacy coordinator at the following email address: privacy at calottery dot com
+The Lottery uses information security safeguards. The Lottery takes reasonable precautions to protect personal information it collects from loss, unauthorized access, illegal use, and unauthorized disclosure. The Lottery uses Secure Socket Layer (SSL) encryption software to protect the security of individuals’ personal information during transmission of such information through the Lottery’s Website and the App. The Lottery takes reasonable security measures to protect your personal information in storage. The Lottery’s staff is trained on procedures for the management of personal information, including limitations on the release of information. Access to personal information is limited to those members of the Lottery’s staff and contractors whose work requires such access. The Lottery conducts periodic reviews to ensure that proper information management policies and procedures are understood and followed. In order to access some Lottery services, you will be asked to sign in using your credentials. Some services may require added security, and in these cases, you may be asked to create an additional security key. The Lottery permanently records the IP address of the machine you use for registration and only stores the date and IP address of the last login thereafter. Finally, the Lottery will assign a unique ID number to your account which will be used to identify your profile and associated information, such as login history and game play history.
+In general, the Lottery encourages all individuals to use appropriate safeguards to secure their computers and the information on those computers.
+The Lottery may access, preserve, and disclose your account information and content, including messages, data, text, and other types of works (collectively, “Content”)  if required to do so by law or based on a good faith belief that such access, preservation, or disclosure is reasonably necessary to:
+• Comply with legal process;
+• Enforce the Terms of Service for the Lottery’s Website;
+• Respond to claims that Content violates the rights of third parties;
+• Respond to your requests for customer service, or
+• Protect the rights, property, or personal safety of the Lottery, its users, and the public.
+ 
+FAQs
+I received a letter that appears to be fraudulent, what should I do?
+Many players have received letters (or emails) using the California Lottery, SuperLotto Plus or MEGA Millions name and logo, claiming they have won a lottery prize. THIS IS A SCAM! They are attempting to gain access to your personal information, such as Social Security Number or bank account numbers and attempting to steal your money.
+If you receive a letter claiming that you have won a lottery prize and the letter asks you to contact a listed representative to find out how to claim your winnings, please do not respond to the letter. Instead, please contact our Security & Law Enforcement toll-free at 800-LOTTERY (800-568-8379) as soon as possible. A Lottery representative will ask you for any names, company name, phone numbers and addresses listed on the letter. The Lottery tracks this information and works in conjunction with other law enforcement agencies to help identify these criminals.
+What can I do if I want to file a complaint about a Lottery retailer?
+Contact Lottery’s Security & Law Enforcement toll-free at 800-LOTTERY (800-568-8379) and provide staff with the following information:
+-  Name of retailer, retailer ID number, and/or address of retailer.
+-  Date/Time of incident
+-  Description of incident
+Staff will open a security incident report and depending upon the situation, notify other appropriate Lottery staff to take further action.
+What can I do if my ticket is lost or stolen?
+If you lose a draw game ticket, contact our Security & Law Enforcement toll-free at 800-LOTTERY (800-568-8379) as soon after the occurrence as possible. Remember, the sooner you report your ticket lost or stolen, the better staff will be able to assist you. Please be able to provide as much detail about your ticket as possible including:
+-  The retailer you purchased and/or redeemed your ticket at (name, retailer ID number, and/or address)
+-  The date and time you purchased/redeemed your ticket
+-  The date/time your ticket was lost/stolen (if known)
+-  The amount of your ticket (if known)
+If your ticket information can be located and it is determined that your ticket is a winner, staff will place your ticket on a security hold and mail you the appropriate paperwork.
+Unfortunately, lost Scratchers tickets cannot be relocated.
+What can I do to make sure I was paid correctly?
+If you ever feel you were not paid correctly for your Lottery ticket(s), you can contact our Security & Law Enforcement toll-free at 800-LOTTERY (800-568-8379) and speak to a representative. Please be able to provide the following information:
+- The retailer you redeemed your ticket(s) at (name, retailer ID number, and/or address)
+- The date and time of incident
+- Ticket information
+Lottery Pool Claims $4.9 Million Powerball® Ticket Sold in Chico!
+Your session has timed out due to inactivity. This helps to ensure that your information remains safe.
+If you want to submit codes into a 2nd Chance draw, you’ll need to sign in again.
+Close
+Time for an update!
+The California Lottery wants you to have the very best possible experience at calottery.com.
+You may want to update your browser to the most current version to insure that you can enjoy all the features on this site.
+You are currently using
+There is a newer version of Internet Explorer. Update Now
+There is a newer version of Firefox. Update Now
+There is a newer version of Chrome. Update Now
+There is a newer version of Safari. Update Now
+We're sorry.  We don't support your browser!
+The California Lottery wants you to have the very best possible experience at calottery.com. We suggest you use one of the supported browsers listed below to enjoy all the features on this site.
+If you choose to download a new internet browser, please select one of the following browsers to download.

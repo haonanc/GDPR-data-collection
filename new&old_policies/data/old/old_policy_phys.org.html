@@ -1,0 +1,1468 @@
+<!DOCTYPE html>
+<html>
+  <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=1473;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<meta name="viewport" content="width=1024">	  
+	<title>What is differential privacy and how can it protect your data?</title>
+	<meta http-equiv="Keywords" content="Physics News, Science news, Technology News, Physics, Materials, Nanotech, Technology, Science" name="Keywords">
+	<meta http-equiv="Description" content="It's no secret that big tech companies like Facebook, Google, Apple and Amazon are increasingly infiltrating our personal and social interactions to collect vast amounts of data on us every day. At the same time, privacy ..." name="Description">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="content-language" content="en-us">
+	<meta name="ROBOTS" content="INDEX,FOLLOW"/>
+	<meta name="ROBOTS" content="noodp"/>
+	<link rel="canonical" href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-differential-privacy.html"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://web.archive.org/web/20180319151053/https://m.phys.org/news/2018-03-differential-privacy.html"/>
+	<link rel="alternate" media="handheld" href="https://web.archive.org/web/20180319151053/https://lofi.phys.org/news/2018-03-differential-privacy.html"/>
+	<link rel="amphtml" href="https://phys.org/news/2018-03-differential-privacy.amp">
+	<link rel="top" title="" href="/"/>
+	<link rel="manifest" href="/web/20180319151053/https://phys.org/manifest.json">
+	<link rel="search" href="https://web.archive.org/web/20180319151053/https://phys.org/search/"/>  
+	<link rel="alternate" title="All news stories" href="https://web.archive.org/web/20180319151053/https://phys.org/rss-feed/" type="application/rss+xml"/>
+	<link rel="alternate" title="Spotlight news only" href="https://web.archive.org/web/20180319151053/https://phys.org/rss-feed/breaking/" type="application/rss+xml"/>
+	<link rel="alternate" title="Feature stories" href="https://web.archive.org/web/20180319151053/https://phys.org/rss-feed/editorials/" type="application/rss+xml"/>
+	<link rel="alternate" title="Customize feed" href="https://web.archive.org/web/20180319151053/https://phys.org/feeds/" type="application/rss+xml"/>
+	<link rel="shortcut icon" href="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/favicon.ico" type="image/x-icon"/>
+	<link rel="icon" href="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/favicon.ico" type="image/x-icon"/>	
+	<link href="https://plus.google.com/116557644723047703916/" rel="publisher"/>
+	<meta property="twitter:account_id" content="17248121"/>
+	<meta property="fb:app_id" content="163850683679377"/>
+	<meta property="fb:pages" content="47849178041"/>
+	<meta property="og:title" content="What is differential privacy and how can it protect your data?"/>
+	<meta property="og:description" content="It's no secret that big tech companies like Facebook, Google, Apple and Amazon are increasingly infiltrating our personal and social interactions to collect vast amounts of data on us every day. At the same time, privacy violations in cyberspace regularly make front page news."/>
+	<meta property="og:image" content="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/whatisdiffer.jpg"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-differential-privacy.html"/>
+        
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:url" content="https://web.archive.org/web/20180319151053im_/https://phys.org/news/2018-03-differential-privacy.html"/>
+	<meta name="twitter:title" content="What is differential privacy and how can it protect your data?"/>
+	<meta name="twitter:description" content="It's no secret that big tech companies like Facebook, Google, Apple and Amazon are increasingly infiltrating our personal and social interactions to collect vast amounts of data on us every day. At the ..."/>
+    <meta name="twitter:image" content="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/whatisdiffer.jpg"/>
+	    <meta name="thumbnail" content="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/whatisdiffer.jpg"/>
+    
+	<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20180319151053cs_/https://cf3e497594.site.internapcdn.net/tmpl/v5/css/style.min.3066283094.css"/>
+  <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="https://cf3e497594.site.internapcdn.net/tmpl/v5/css/ie8.css" media="screen" /><![endif]-->
+	<!--[if lte IE 8]><script src="https://cf3e497594.site.internapcdn.net/tmpl/v5/js/html5.js"></script><![endif]-->
+        <script>var mid = '',userNick = '',newPM = '0'; </script>
+ 	<script type="text/javascript">
+	    var googletag = googletag || {};
+	    googletag.cmd = googletag.cmd || [];
+	    (function() {
+	      var gads = document.createElement('script');
+	      gads.async = true;
+	      gads.type = 'text/javascript';
+	      var useSSL = 'https:' == document.location.protocol;
+	      gads.src = (useSSL ? 'https:' : 'http:') +
+		'//web.archive.org/web/20180319151053/https://www.googletagservices.com/tag/js/gpt.js';
+	      var node = document.getElementsByTagName('script')[0];
+	      node.parentNode.insertBefore(gads, node);
+	    })();
+	</script>
+      
+	<script type="text/javascript">
+	    googletag.cmd.push(function() {
+	      	      googletag.defineSlot('/4988204/Phys_Story_InText_Box', [[336, 280], [300, 250]], 'div-gpt-ad-1449240174198-2').addService(googletag.pubads());
+	      	      googletag.defineSlot('/4988204/Phys_Story_Right_Box', [[336, 280], [300, 250], [300, 600]], 'div-gpt-ad-1449240174198-3').addService(googletag.pubads());
+	      googletag.defineSlot('/4988204/Phys_Story_Below_Rectangle', [[728, 90], [336, 280], [800,250]], 'div-gpt-ad-1449240174198-1').defineSizeMapping([ [[1200,0], [[728, 90], [336, 280], [800,250]]], [[0,0], [[336, 280]]] ]).addService(googletag.pubads());
+	      
+	      googletag.pubads().setTargeting("r",["story"]).setTargeting("categ",["technology"]).setTargeting("sub",["internet"]).setTargeting("midblck",["yes"]);
+	      googletag.pubads().enableSingleRequest();
+	      googletag.pubads().collapseEmptyDivs();
+	      googletag.enableServices();
+	    });
+	</script> 
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//web.archive.org/web/20180319151053/https://www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-73855-5', 'auto');
+	  ga('send', 'pageview');
+	</script>
+  </head>
+  <body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://phys.org/news/2018-03-differential-privacy.html
+', '20180319151053')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-differential-privacy.html', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-differential-privacy.html&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://phys.org/news/2018-03-differential-privacy.html
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180319151053" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Feb</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 15:10:53 Mar 19, 2018">MAR</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20180426075426/https://phys.org/news/2018-03-differential-privacy.html" title="26 Apr 2018"><strong>Apr</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 15:10:53 Mar 19, 2018">19</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20180426075426/https://phys.org/news/2018-03-differential-privacy.html" title="07:54:26 Apr 26, 2018"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 15:10:53 Mar 19, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180319151053*/https://phys.org/news/2018-03-differential-privacy.html
+" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">19 Mar 2018 - 26 Apr 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/NO404" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+<br><br>
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+<br><br>
+The goal is to <a href="https://blog.archive.org/2013/10/25/fixing-broken-links/">fix all broken links on the web</a>. 
+
+Crawls of supported "No More 404" sites.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404-GDELT)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/NO404-GDELT" target="_new"><span class="wm-title">GDELT</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  A daily crawl of more than 200,000 home pages of news sites, including the pages linked from those home pages. Site list provided by <a href="http://gdeltproject.org/about.html">The GDELT Project</a>
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://phys.org/news/2018-03-differential-privacy.html\n","2018-03-19",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+      <section id="wrapper" class="inner-page">
+        
+         <!--begin:container-->
+<section id="container">
+    <section class="container-inside"> 
+	    <section class="content-section clearfix">
+                <ul class="bread-crumbs">
+    <li class="bread-crumbs-first" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="https://web.archive.org/web/20180319151053/https://phys.org/" rel="home" itemprop="url"><span itemprop="title">Home</span></a>
+    </li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/" itemprop="url">
+                <span itemprop="title">Technology</span>
+            </a>
+        </li>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/internet/" itemprop="url">
+                    <span itemprop="title">Internet</span>
+                </a>            
+        </li>
+    
+
+    <li>
+        <a href="https://web.archive.org/web/20180319151053/https://phys.org/archive/19-03-2018/">March 19, 2018</a>
+    </li>
+</ul>
+                                <header class="content-head">
+                  <h1>What is differential privacy and how can it protect your data?</h1>
+                  <h5 class="data">
+March 19, 2018 by Tianqing Zhu, <a target="_blank" href="https://web.archive.org/web/20180319151053/http://theconversation.edu.au/">The Conversation</a>
+                      
+                  </h5>
+                </header>
+                <section class="content-holder content-table content-story"> 
+			    <!--begin:content-->
+                    <section class="news-content"> 
+			      <!--begin:article-block-->
+                        <section class="content article-block"> 				
+                            <article>
+                                <div class="first-block">
+                                    <figure class="image-block">
+    <div class="image-block-ins">
+                                    <a rel="lightbox" href="https://web.archive.org/web/20180319151053/https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/whatisdiffer.jpg" title="Tech companies can use differential privacy to collect and share aggregate data about user habits, while maintaining individual privacy. Credit: Tim Snell/Flickr, CC BY-ND">
+                    <img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/whatisdiffer.jpg" alt="What is differential privacy and how can it protect your data?"/>
+                </a>
+                        </div>
+    
+    <figcaption class="image-block-caption">
+        Tech companies can use differential privacy to collect and share aggregate data about user habits, while maintaining individual privacy. Credit: Tim Snell/Flickr, CC BY-ND
+    </figcaption></figure><p>It's no secret that big tech companies like Facebook, Google, Apple and Amazon are increasingly infiltrating our personal and social interactions to collect vast amounts of data on us every day. At the same time, privacy violations in cyberspace regularly make front page news.
+                                </div>
+                                       <section class="article-banner first-banner">
+         <!-- /4988204/Phys_Story_InText_Box -->
+        <div id="div-gpt-ad-1449240174198-2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1449240174198-2'); });
+        </script>
+        </div>
+      </section>				                                    <p>So how should privacy be protected in a world where <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/data/" rel="tag" class="textTag">data</a> is gathered and shared with increasing speed and ingenuity?</p>
+<p>Differential privacy is a new model of cyber security that proponents claim can protect personal data far better than traditional methods.  </p>
+<p>The maths it is based on was developed 10 years ago, and the method has been adopted by Apple and <a href="https://web.archive.org/web/20180319151053/https://research.google.com/pubs/pub42852.html">Google</a> in recent years.</p>
+<p><b>What is differential privacy?</b></p>
+<p>Differential privacy makes it possible for tech companies to collect and share aggregate information about user habits, while maintaining the privacy of individual users. </p>
+<p>For example, say you wanted to show the most popular routes people take walking through a park. You track the routes of 100 people who regularly walk through the park, and whether they walk on the path or through the grass. </p>
+<p>But instead of sharing the specific people taking each route, you share the aggregate data collected over time. People viewing your results might know that 60 out of 100 people prefer to take a short-cut through the grass, but not which 60 people.</p>
+<p><b>Why do we need it?</b></p>
+<p>Many of the world's governments have strict policies about how tech companies collect and share <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/user+data/" rel="tag" class="textTag">user data</a>. Companies who do not follow the rules can face huge fines. A <a href="https://web.archive.org/web/20180319151053/https://www.theguardian.com/technology/2018/feb/16/facebook-ordered-stop-collecting-user-data-fines-belgian-court">Belgian court recently ordered Facebook</a> to stop collecting data on users' browsing habits on external websites, or face fines of €250,000 a day. </p>
+<p>For many companies, especially multinationals operating in different jurisdictions, this leaves them in a delicate position when it comes to the collection and use of customer data.</p>
+<p>On the one hand, these companies need users' data so they can provide high-quality services that benefit users, such as personalised recommendations. On the other hand, they may face charges if they collect too much user data, or if they try to move data from one jurisdiction to another. </p>
+                                        <div class="article-banner" id="ad-g3">
+        <script async src="//web.archive.org/web/20180319151053js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Phys.org - News middle block -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-0536483524803400" data-ad-slot="5350699939" data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>                                    
+<p>Traditional privacy-preserving tools such as cryptography can't resolve this dilemma since it prevents tech companies from accessing the data at all. And anonymity reduces the value of data – an algorithm can't serve you personalised recommendations if it doesn't know what your habits are.</p>
+<figure class="image-block">
+    <div class="image-block-ins">
+                                    <a rel="lightbox" href="https://web.archive.org/web/20180319151053/https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/1-whatisdiffer.jpg" title="Credit: Marco Verch/Flickr, CC BY">
+                    <img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/1-whatisdiffer.jpg" alt="What is differential privacy and how can it protect your data?"/>
+                </a>
+                        </div>
+    
+    <figcaption class="image-block-caption">
+        Credit: Marco Verch/Flickr, CC BY
+    </figcaption></figure><p><b>How does it work?</b></p>
+<p>Let's continue the example of walking routes through a park. If you know the identities of those included in the study, but you don't know who took which route then you might assume that privacy is protected. But that may not be the case. </p>
+<p>Say someone viewing your data wants to ascertain if Bob prefers to walk through the grass or on the path. They have obtained background information about the other 99 people in the study, which tells them that 40 people prefer to walk on the path and 59 prefer to walk through the grass. Therefore, they can deduce that Bob, who is the 100th person in the database, is the 60th person who prefers to walk through the grass. </p>
+<p>This type of attack is a called a differentiated attack, and it is quite hard to defend against as you cannot control how much background knowledge someone can obtain. Differential privacy aims to defend against this type of attack. </p>
+<p>Someone deducing your walking route might not sound too serious, but if you replace walking routes with HIV test results, then you can see there is potential for a serious invasion of privacy.</p>
+<p>The differential privacy model guarantees that even if someone has complete information about 99 of 100 people in a data set, they still cannot deduce the information about the final person. </p>
+<p>The primary mechanism to achieve that is to add random noise to the aggregate data. In the path example, you may say the number of people who prefer to cross the grass is 59 or 61, rather than exact number of 60. The inaccurate number can preserve the privacy of Bob, but it will have very little impact on the pattern: around 60% people prefer to take a short-cut. </p>
+<p>The noise is carefully designed. When Apple employed differential privacy in iOS 10, it added noise to individual user inputs. That means it can track, for example, the most frequently used emojis, but the emoji usage of any individual user is masked.</p>
+<p>Cynthia Dwork, the <a href="https://web.archive.org/web/20180319151053/https://link.springer.com/chapter/10.1007/11787006_1">inventor of the differential privacy</a>, has proposed wonderful mathematical proofs on how much noise is enough to achieve the requirement of differential privacy. </p>
+<p><b>What are its practical applications?</b></p>
+<p>Differential privacy can be applied to everything from recommendation systems to location-based services and social networks. Apple <a href="https://web.archive.org/web/20180319151053/https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html">uses differential privacy</a> to gather anonymous usage insights from devices like iPhones, iPads and Macs. The method is user-friendly, and <a href="https://web.archive.org/web/20180319151053/https://www.iphonefaq.org/archives/975474">legally in the clear</a>. </p>
+<p>Differential privacy would also allow a <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/company/" rel="tag" class="textTag">company</a> like Amazon access your personalised shopping preferences while hiding sensitive information about your historical purchase list. Facebook could use it to collect behavioural data for targeted advertising, without violating a country's <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/privacy+policies/" rel="tag" class="textTag">privacy policies</a>. </p>
+<p><b>How could it be used in the future?</b></p>
+<p>Different countries have varying privacy policies, and sensitive documents currently have to be manually checked before they move from one country to another. This is time-consuming and expensive. </p>
+<p>Recently, a team from <a href="https://web.archive.org/web/20180319151053/http://www.deakin.edu.au/research/research-news/articles/arc-grant-secures-path-to-cyber-privacy">Deakin University</a> developed differential privacy technology to automate privacy processes within cloud-sharing communities across countries.</p>
+<p>They propose using mathematical formulas to model the <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/privacy+laws/" rel="tag" class="textTag">privacy laws</a> of each country that could be translated to "middleware" (software) to ensure the data conforms. Employing differential privacy in this way could protect the <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/privacy/" rel="tag" class="textTag">privacy</a> of users and resolve a data sharing headache for <a href="https://web.archive.org/web/20180319151053/https://phys.org/tags/tech+companies/" rel="tag" class="textTag">tech companies</a>.
+                                                                <p class="news-relevant" itemscope itemtype="http://schema.org/WebPage">
+                                        <a href="#" id="inl-rel-href"><img class="toolsicon ic-rel" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="14" height="16" alt=""></a>
+                                        <b>Explore further:</b> 
+                                        <a itemprop="relatedLink" href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-carnegie-mellon-ai-privacy-policies.html">Researchers create an AI to help us make sense of privacy policies</a>
+                                    </p>                                
+                                <footer class="post-floor clearfix">                                 
+                                        <div class="post-copyright">
+                                                                                                                                        <p>
+                                                    <b>Provided by:</b>
+                                                                                                            <a rel="news" class="textTag" href="https://web.archive.org/web/20180319151053/https://phys.org/partners/the-conversation/">The Conversation</a>
+                                                        <a rel="news" href="https://web.archive.org/web/20180319151053/https://phys.org/partners/the-conversation/" class="extra"><img width="25" height="25" title="search and more info" alt="search and more info" class="toolsicon isrc" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif"></a>
+						                                                         
+                                                        <a target="_blank" href="https://web.archive.org/web/20180319151053/http://theconversation.edu.au/" class="extra"><img width="25" height="25" title="website" alt="website" class="toolsicon iwbs" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif"></a>
+                                                                                                    </p>
+                                                   
+                                        </div>
+                                    
+
+                                    <!-- rating -->
+                                    <div class="post-rating" id="rank">
+                                        <div id="flip-box">
+                                            <div class="flip">
+                                                <div class="front">
+                                                        <span id="shares">13</span> shares <!-- front content -->
+                                                </div>
+                                                <div class="back">
+                                                        <a href="#" id="fb-flip" class="fb-whi"><span class="toolsicon icon-fb-whi"></span></a>
+                                                        <a href="https://web.archive.org/web/20180319151053/https://twitter.com/home?status=http://phy.so/440666853%20via%20@physorg_com" target="_blank" id="tw-flip" class="tw-whi" data-url="https://web.archive.org/web/20180319151053/http://phy.so/440666853" data-via="physorg_com"><span class="toolsicon icon-tw-whi"></span></a>
+                                                        <a href="https://web.archive.org/web/20180319151053/https://plus.google.com/share?url=https://phys.org/news/2018-03-differential-privacy.html" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" id="goog-flip" class="google-whi"><span class="toolsicon icon-google-whi"></span></a>
+                                                        <a href="#" id="mail-flip" class="mail-whi"><span class="toolsicon icon-mail-whi"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <!-- <a href="http://phys.org/sort/popular/1m/" class="post-rate-link" >view popular</a> -->
+                                            <a href="https://web.archive.org/web/20180319151053/mailto:feedback@physorg.com" id="sfb">
+                                                <img class="toolsicon icon-fbck" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="12" height="12" alt="feedback">
+                                                feedback to editors
+                                            </a>
+                                        </div>
+                                    </div>
+
+		    
+                                    <section class="copyright">
+                                        <p>
+                                            This article was originally published on <a href="https://web.archive.org/web/20180319151053/http://theconversation.com/">The Conversation</a>. Read the <a href="https://web.archive.org/web/20180319151053/https://theconversation.com/explainer-what-is-differential-privacy-and-how-can-it-protect-your-data-90686">original article</a>.<img src="https://web.archive.org/web/20180319151053im_/https://counter.theconversation.com/content/90686/count.gif?distributor=republish-lightbox-advanced" alt="The Conversation" width="1" height="1"/>
+                                        <br/></p>
+                                    </section>                                </footer>
+				</article>
+				
+				
+                                <section id="slick-social">
+					      
+                                    <div class="social-item">
+                                        <div id="fb-root"></div>
+                                        <div class="fb-like" data-href="https://phys.org/news/2018-03-differential-privacy.html" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false"></div>
+                                    </div>
+
+                                    <div class="social-item">
+                                        <div class="g-plusone" data-size="tall"></div>
+                                    </div>
+
+                                    <div class="social-item" id="sc-twitter">
+                                        <a href="https://web.archive.org/web/20180319151053/https://twitter.com/share" class="twitter-share-button" data-lang="en" data-size="small" data-count="vertical" data-url="https://web.archive.org/web/20180319151053/http://phy.so/440666853" data-counturl="https://phys.org/news/2018-03-differential-privacy.html" data-via="physorg_com">Tweet</a>
+                                    </div>
+
+                                    <div class="social-item">	
+                                        <div id="sc-reddit"></div>
+                                    </div>
+
+                                    <div class="toolbar-item">
+                                        <div class="social-item">
+                                            <a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/?code=fav&amp;nid=440666853" id="addFav" title="Add bookmark to Science X account" rel="nofollow">
+                                                <img class="toolsicon bt-star" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="15" height="15" alt="add to favorites">
+                                                <small>Favorites</small>
+                                            </a>
+                                        </div>
+                                        <div class="social-item">
+                                            <a href="https://web.archive.org/web/20180319151053/mailto:/" id="tl-email" title="Email to a friend">
+                                                <img class="toolsicon bt-email" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="15" height="15" alt="email to friend">
+                                                Email
+                                            </a>
+                                        </div>
+                                        <div class="social-item">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/print440666853.html" title="Print">
+                                                <img class="toolsicon bt-print" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="16" height="15" alt="print">
+                                                Print
+                                            </a>
+                                        </div>
+                                        <div class="social-item">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/pdf440666853.pdf" rel="nofollow" title="Save as pdf file">
+                                                <img class="toolsicon bt-pdf" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="15" height="15" alt="save as pdf">
+                                                PDF
+                                            </a>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+				<!--end:article-block-->
+                        </section>
+			    <!--end:content-->
+			    
+			    
+			    <!--begin:sidebar-->
+			    <aside class="sidebar" itemscope itemtype="http://schema.org/WPSideBar"> 
+                                <div class="sidebar-box sidebar-banner">
+                                          <div class="sidebar-box sidebar-banner">
+        <!-- /4988204/Phys_Story_Right_Box -->
+        <div id="div-gpt-ad-1449240174198-3">
+        <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1449240174198-3'); });
+        </script>
+        </div>
+      </div>
+
+
+
+
+                                </div>
+                                <div class="sidebar-box">
+                                     <div id="news-tabs" class="clearfix"> 
+    <ul class="tabs">
+        <li class="tabs1"><a href="https://web.archive.org/web/20180319151053/https://phys.org/editorials/" id="tab-editorials" onclick="tabShow('editorials',this.id, 'story'); return false;">Featured</a></li>
+        <li class="tabs2"><a href="https://web.archive.org/web/20180319151053/https://phys.org/commented/" id="tab-commented" onclick="tabShow('commented',this.id, 'story'); return false;">Last comments</a></li>
+        <li class="tabs3"><a class="current" href="https://web.archive.org/web/20180319151053/https://phys.org/sort/popular/1m/" id="tab-popular" onclick="tabShow('popular',this.id, 'story'); return false;">Popular</a></li>
+    </ul>
+    <div class="panes">
+        <div id="tabs">
+            <div class="clearfix">
+                                           <article class="news-box">
+                    <div class="pane-news-text">
+                                                <span class="newsimg">
+                           <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-stephen-hawking-pinned-m-theory-fully.html"><img width="90" height="90" align="left" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/15-stephenhawki.jpg"></a>
+                        </span>
+                                                <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-stephen-hawking-pinned-m-theory-fully.html">Stephen Hawking had pinned his hopes on 'M-theory' to fully explain the universe—here's what it is</a></h5>
+                        <div class="details inline">
+                                <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">Mar 16, 2018
+                                <img class="toolsicon comments" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15"> 97
+                        </div>
+                    </div>
+                </article>
+                            <article class="news-box">
+                    <div class="pane-news-text">
+                                                <span class="newsimg">
+                           <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-scientists-diodes.html"><img width="90" height="90" align="left" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/10-scientistscr.jpg"></a>
+                        </span>
+                                                <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-scientists-diodes.html">Scientists create diodes made of light</a></h5>
+                        <div class="details inline">
+                                <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">Mar 16, 2018
+                                <img class="toolsicon comments" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15"> 0
+                        </div>
+                    </div>
+                </article>
+                            <article class="news-box">
+                    <div class="pane-news-text">
+                                                <span class="newsimg">
+                           <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-entomologist-saharan-farming-years.html"><img width="90" height="90" align="left" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/theabsenceof.jpg"></a>
+                        </span>
+                                                <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-entomologist-saharan-farming-years.html">Entomologist confirms first Saharan farming 10,000 years ago</a></h5>
+                        <div class="details inline">
+                                <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">Mar 16, 2018
+                                <img class="toolsicon comments" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15"> 0
+                        </div>
+                    </div>
+                </article>
+                            <article class="news-box">
+                    <div class="pane-news-text">
+                                                <span class="newsimg">
+                           <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-world-biggest-battery-australia-trump.html"><img width="90" height="90" align="left" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/britishbilli.jpg"></a>
+                        </span>
+                                                <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-world-biggest-battery-australia-trump.html">World's biggest battery in Australia to trump Musk's</a></h5>
+                        <div class="details inline">
+                                <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">Mar 16, 2018
+                                <img class="toolsicon comments" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15"> 13
+                        </div>
+                    </div>
+                </article>
+                            <article class="news-box">
+                    <div class="pane-news-text">
+                                                <span class="newsimg">
+                           <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-rare-metals-mars-earth-implicate.html"><img width="90" height="90" align="left" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/raremetalson.jpg"></a>
+                        </span>
+                                                <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-rare-metals-mars-earth-implicate.html">Rare metals on Mars and Earth implicate colossal impacts</a></h5>
+                        <div class="details inline">
+                                <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">Mar 16, 2018
+                                <img class="toolsicon comments" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15"> 12
+                        </div>
+                    </div>
+                </article>
+            
+
+            </div>
+            <div class="clearfix">
+                <a href="https://web.archive.org/web/20180319151053/https://phys.org/editorials/" class="button"><strong>more &raquo;</strong></a>
+            </div>
+        </div>
+     </div>
+
+    <script type="text/javascript">
+    <!-- 
+            tabMode='tab-popular';
+            var tabTmId;
+    -->
+    </script>
+</div> 
+                                </div>
+				    
+                                <!--begin:social-->
+                                <div class="sidebar-box">
+                                    
+									<section class="sidebar-box facebook-like">
+                                            <h5><a href="https://web.archive.org/web/20180319151053/https://www.facebook.com/physorg">Phys.org on Facebook</a></h5>
+                                            
+											<iframe src="https://web.archive.org/web/20180319151053if_/https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fphysorg&amp;width=310&amp;height=35&amp;layout=standard&amp;size=large&amp;show_faces=false&amp;appId=163850683679377" width="310" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+                                    </section>
+									
+									<section class="sidebar-box nwletter-box">
+										<h5><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/newsletter/">Email newsletter </a></h5>
+										<div id="nwconf">
+											<form id="nwsub" action="" method="post">
+													<input type="hidden" name="project" value="physorg">
+													<input type="email" name="email" placeholder="email" required>
+													<button type="submit" class="nwl-button">Subscribe</button>
+											</form> 
+											</div>
+											
+											<script>
+													($q = window.$q || []).push(
+													   function(){
+														  $('#nwsub').submit(function(){
+															$.ajax({url: 'https://web.archive.org/web/20180319151053/https://sciencex.com/api/nwletter/', method: 'post', data: $('#nwsub').serialize()}).done(function(){
+																			$('#nwconf').html('<p>We sent you a confirmation email with a link to activate your subscription</p>');
+																	});
+															return false;
+															});
+													   });
+											</script>
+									</section>
+								</div>
+
+				    
+				<!--begin:relevant-posts-->
+				<section class="sidebar-box relevant-posts">
+				    <h5 class="header">Relevant PhysicsForums posts</h5> 
+				    					<article class="news-box">
+					 <div class="pane-news-text">
+					   <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/threads/should-i-take-an-extra-year-as-an-undergade-student.823156/" target="_blank" rel="tooltip nofollow">Should I take an extra year as an undergade student?</a></h5>
+					   <img src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="created" class="toolsicon created" width="15" height="14"/>
+					   <small>Jul 13, 2015</small>  
+					   <span style="display: none;" id="823156"></span>
+					 </div>
+					</article>
+				     					<article class="news-box">
+					 <div class="pane-news-text">
+					   <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/threads/poincares-space-dilemma.821480/" target="_blank" rel="tooltip nofollow">Poincaré's Space Dilemma</a></h5>
+					   <img src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="created" class="toolsicon created" width="15" height="14"/>
+					   <small>Jul 13, 2015</small>  
+					   <span style="display: none;" id="821480"></span>
+					 </div>
+					</article>
+				     					<article class="news-box">
+					 <div class="pane-news-text">
+					   <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/threads/newbie-question-the-big-bang-the-observable-universe-and-time.822531/" target="_blank" rel="tooltip nofollow">Newbie question... The Big Bang &amp; The Observable Universe (and time)</a></h5>
+					   <img src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="created" class="toolsicon created" width="15" height="14"/>
+					   <small>Jul 13, 2015</small>  
+					   <span style="display: none;" id="822531"></span>
+					 </div>
+					</article>
+				     					<article class="news-box">
+					 <div class="pane-news-text">
+					   <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/threads/force-on-a-body-due-to-pressure-of-a-fluid.823140/" target="_blank" rel="tooltip nofollow">Force on a body due to pressure of a fluid</a></h5>
+					   <img src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="created" class="toolsicon created" width="15" height="14"/>
+					   <small>Jul 13, 2015</small>  
+					   <span style="display: none;" id="823140"></span>
+					 </div>
+					</article>
+				     					<article class="news-box">
+					 <div class="pane-news-text">
+					   <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/threads/computer-engineering-electrical-eng-computer-science.823155/" target="_blank" rel="tooltip nofollow">Computer Engineering - Electrical Eng. &amp; Computer Science?</a></h5>
+					   <img src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="created" class="toolsicon created" width="15" height="14"/>
+					   <small>Jul 13, 2015</small>  
+					   <span style="display: none;" id="823155"></span>
+					 </div>
+					</article>
+				     					<article class="news-box">
+					 <div class="pane-news-text">
+					   <h5 class="inline"><a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/threads/does-1-mole-of-all-gas-exert-equal-pressure.823059/" target="_blank" rel="tooltip nofollow">Does 1 mole of all gas exert equal pressure</a></h5>
+					   <img src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" alt="created" class="toolsicon created" width="15" height="14"/>
+					   <small>Jul 13, 2015</small>  
+					   <span style="display: none;" id="823059"></span>
+					 </div>
+					</article>
+				     
+				     <article class="first">More from <a href="https://web.archive.org/web/20180319151053/https://www.physicsforums.com/" target="_blank">Physics Forums - The Fusion of Science and Community</a></article>
+				</section>
+				<!--end:relevant-posts-->
+				    
+            </aside>  
+			    <!--end:sidebar--> 
+        </section>
+			<!--end:content-holder-->
+			
+	      <section class="bf-banner">
+        <!-- /4988204/Phys_Story_Below_Rectangle -->
+        <div id="div-gpt-ad-1449240174198-1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1449240174198-1'); });
+        </script>
+        </div>
+      </section>
+	
+	
+	</section>
+        <section class="content-section">
+            <!--begin:news-holder-->
+            <section id="news-holder" class="news-holder">
+                    <section class="news-holder-cell">  
+                        <!--begin:news-col-->
+                        <div class="news-col"> 
+                            <!--begin:head-->
+                            <header class="head news-head">
+                                <h2>Related Stories</h2>
+                            </header>
+                            
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-carnegie-mellon-ai-privacy-policies.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/facebook.png" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/facebook.png" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-carnegie-mellon-ai-privacy-policies.html#nRlv">Researchers create an AI to help us make sense of privacy policies</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 1, 2018
+        </small>
+        <div class="news-box-text">
+            <p>If you're anything like the average Internet user, you probably didn't spend the estimated 244 hours it would take to read every privacy policy for every website you visited last year. That's exactly why a team led by Carnegie ...</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-01-facebook-privacy-center-eu.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/facebook.png" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/facebook.png" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-01-facebook-privacy-center-eu.html#nRlv">Facebook to launch privacy center ahead of EU regulations</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            January 31, 2018
+        </small>
+        <div class="news-box-text">
+            <p>Facebook says it will launch a new privacy center to help people understand what it does with their data as the giant social network prepares for sweeping new data protection rules in Europe designed to rein in the growing ...</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2017-10-eu-privacy.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/eusaysdatapr.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/eusaysdatapr.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2017-10-eu-privacy.html#nRlv">EU says data privacy deal with US can be improved</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            October 18, 2017
+        </small>
+        <div class="news-box-text">
+            <p>The European Union says that the one-year-old rules governing data transfers with the U.S. are working well but that some improvements can still be made to the system to guarantee EU citizens' privacy protection.</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2014-09-facebook-privacy-checkup.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2014/1-abiglogocrea.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2014/1-abiglogocrea.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2014-09-facebook-privacy-checkup.html#nRlv">Facebook rolls out 'privacy checkup'</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            September 5, 2014
+        </small>
+        <div class="news-box-text">
+            <p>Facebook on Thursday began rolling out its "privacy checkup" aimed at helping users of the huge social network better manage sharing their information and postings.</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2016-06-apple-privacy-effort-worth.html#nRlv">Apple's new privacy effort worth watching</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            June 22, 2016
+        </small>
+        <div class="news-box-text">
+            <p>Modern technology has presented us with something of a Faustian bargain when it comes to our privacy, but Apple thinks we should have another option.</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2017-05-australians-social-media-personal.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/fewaustralia.png" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/fewaustralia.png" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2017-05-australians-social-media-personal.html#nRlv">Few Australians trust social media with personal information but most do little about it</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            May 19, 2017
+        </small>
+        <div class="news-box-text">
+            <p>When it comes to privacy, Australians are fairly clear about which organisations they trust and what information they feel uncomfortable sharing. This is according to a recent report released by the Office of the Australian ...</p>
+        </div>
+    </article>
+                            
+                <!--end:head-->
+                        </div>
+                    </section>
+                    <section class="news-holder-cell">
+                        <div class="news-col"> 
+                            <header class="head news-head">
+                                    <h2>Recommended for you</h2>
+                            </header>
+                            
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-michigan-workers-fake-phishing-email.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/email.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/email.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-michigan-workers-fake-phishing-email.html#nRlv">1 in 3 Michigan workers tested opened fake 'phishing' email</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 16, 2018
+        </small>
+        <div class="news-box-text">
+            <p>Michigan auditors who conducted a fake "phishing" attack on 5,000 randomly selected state employees said Friday that nearly one-third opened the email, a quarter clicked on the link and almost one-fifth entered their user ...</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-intel-chips-flaws-year.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/intelcorpceo.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/intelcorpceo.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-intel-chips-flaws-year.html#nRlv">Intel says chips addressing flaws set for release this year</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 15, 2018
+        </small>
+        <div class="news-box-text">
+            <p>Intel Corp. said Thursday new computer chips designed to address vulnerabilities disclosed earlier this year would be shipped in the second half of 2018.</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-origami-inspired-self-locking-foldable-robotic-arm.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/origamiinspi.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/origamiinspi.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-origami-inspired-self-locking-foldable-robotic-arm.html#nRlv">Origami-inspired self-locking foldable robotic arm</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 15, 2018
+        </small>
+        <div class="news-box-text">
+            <p>A research team of Seoul National University led by Professor Kyu-Jin Cho has developed an origami-inspired robotic arm that is foldable, self-assembling and also highly-rigid. (The researchers include Suk-Jun Kim, Dae-Young ...</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-google-guru-page-taxis-zealand.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/googlecofoun.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/googlecofoun.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-google-guru-page-taxis-zealand.html#nRlv">Google guru Page tests flying taxis in New Zealand (Update)</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 13, 2018
+        </small>
+        <div class="news-box-text">
+            <p> Pilot-less flying taxis are being tested in New Zealand as part of a project backed by Google co-founder Larry Page that supporters say will revolutionise personal transport.</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-internet-overseers-website-owner-privacy.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/thenonprofit.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/thenonprofit.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-internet-overseers-website-owner-privacy.html#nRlv">Internet overseers weigh website owner privacy</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 12, 2018
+        </small>
+        <div class="news-box-text">
+            <p>The group overseeing Internet addresses is scrambling to balance the privacy of website owners and the right to know who is behind online pages.</p>
+        </div>
+    </article>
+    <article class="news-box news-detail-box clearfix">
+                <span class="newsimg">
+            <a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-tokyo-tech-six-legged-robots-closer.html#nRlv">
+            <img class="hidden" rel="async" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/img-dot.gif" data-source="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/tokyotechssi.jpg" alt="" align="left" width="90" height="90"/></a><noscript><img src="https://web.archive.org/web/20180319151053im_/https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2018/tokyotechssi.jpg" alt="" align="left" width="90" height="90"/></noscript></span>
+                <h4 class="inline"><a href="https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-tokyo-tech-six-legged-robots-closer.html#nRlv">Tokyo Tech's six-legged robots get closer to nature</a></h4>
+        <small class="inline-info">
+            <img class="toolsicon created" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" height="15" width="15">
+            March 12, 2018
+        </small>
+        <div class="news-box-text">
+            <p>A study led by researchers at Tokyo Institute of Technology (Tokyo Tech) has uncovered new ways of driving multi-legged robots by means of a two-level controller. The proposed controller uses a network of so-called non-linear ...</p>
+        </div>
+    </article>
+                            
+                        </div>
+                    </section>  
+            </section>
+            <section class="com-holder">
+    <!--begin:head-->
+    <header class="head news-head-w">
+            <h2 id="nwcc">
+                                    0 comments
+                            </h2>
+            <a title="Hide comments" class="close-notice" id="closeCmt" href="#" name="firstCmt"></a>
+    </header>
+    <!--end:head-->
+
+
+    <!--begin:content-table-->
+    <section class="content-table">
+
+        <!--begin:coments-content-->
+        <section class="coments-content news-content"> 
+    
+            
+            <section id="comments" class="coments"> 
+                                    
+                            </section>
+                
+           
+            <section class="add-comment" id="postbox">
+            <div id="fstlog">
+                <p>
+                        Please <a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/">sign in</a> to add a comment.
+                        Registration is free, and takes less than a minute.
+                        <a href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/account/">Read more</a>
+                </p>
+    
+                <form action="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/" method="POST" id="fstlogin" name="fstlogin">
+                        <fieldset id="fieldset-logins">
+                                <p><input type="email" required="" placeholder="email" data-required="1" maxlength="128" size="10" id="email" name="email">
+                                </p><p><input type="password" required="" placeholder="password" data-required="1" maxlength="128" size="10" id="passwd" name="passwd">
+                                <input type="hidden" value="login" name="status">
+    
+                                </p><p>
+                                        <span class="float-right" id="cmPrThr"></span>
+                                        <input type="submit" value="Sign in" name="loginsubmit" id="login-submit" class="com-button">
+                                </p>
+                        </fieldset>
+                </form>
+    
+                <a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/?code=pwdreset">Click here</a> to reset your password. <br>
+                Sign in to get notified via email when new comments are made.
+            </div>
+        </section>
+        </section>
+        <aside class="sidebar">
+            <div class="cm-banner" id="cm-banner">
+    <script async src="//web.archive.org/web/20180319151053js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Phys.org - News - Comments 336x280 -->
+    <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-0536483524803400" data-ad-slot="1982219537"></ins>
+    <script>
+    ($q = window.$q || []).push(function(){
+        $("#cm-banner").lazyload(function(){(adsbygoogle = window.adsbygoogle || []).push({})}, {offset:100});
+    })
+    </script>
+</div>
+        </aside>
+    
+     </section>
+    <!--end:content-table-->   
+</section>
+
+		</section>
+	</section>
+
+    <div id="news-extra"></div>
+    
+</section>
+
+        
+    <header id="header" class="header-main">
+            <div class="header-top">
+        <div class="center-box clearfix">
+            <div class="logo">
+                <a href="https://web.archive.org/web/20180319151053/https://phys.org/" class="toolsicon">phys.org</a>
+            </div>
+            <nav id="main-nav" class="main-nav">
+                <ul role="menubar">
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/nanotech-news/">
+                                <span>Nanotechnology</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/nanotech-news/" data-href="/nanotech-news/"><span>All Nanotechnology</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/nanotech-news/bio-medicine/" data-href="/nanotech-news/bio-medicine/"><span>Bio &amp; Medicine</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/nanotech-news/nano-materials/" data-href="/nanotech-news/nano-materials/"><span>Nanomaterials</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/nanotech-news/nano-physics/" data-href="/nanotech-news/nano-physics/"><span>Nanophysics</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/">
+                                <span>Physics</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/" data-href="/physics-news/"><span>All Physics</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/materials/" data-href="/physics-news/materials/"><span>Condensed Matter</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/physics/" data-href="/physics-news/physics/"><span>General Physics</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/optics-photonics/" data-href="/physics-news/optics-photonics/"><span>Optics &amp; Photonics</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/plasma/" data-href="/physics-news/plasma/"><span>Plasma Physics</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/quantum-physics/" data-href="/physics-news/quantum-physics/"><span>Quantum Physics</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/soft-matter/" data-href="/physics-news/soft-matter/"><span>Soft Matter</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/physics-news/superconductivity/" data-href="/physics-news/superconductivity/"><span>Superconductivity</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/earth-news/">
+                                <span>Earth</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/earth-news/" data-href="/earth-news/"><span>All Earth</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/earth-news/earth-sciences/" data-href="/earth-news/earth-sciences/"><span>Earth Sciences</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/earth-news/environment/" data-href="/earth-news/environment/"><span>Environment</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/space-news/">
+                                <span>Astronomy &amp; Space</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/space-news/" data-href="/space-news/"><span>All Astronomy &amp; Space</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/space-news/astronomy/" data-href="/space-news/astronomy/"><span>Astronomy</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/space-news/space-exploration/" data-href="/space-news/space-exploration/"><span>Space Exploration</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/">
+                                <span>Technology</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/" data-href="/technology-news/"><span>All Technology</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/business-tech/" data-href="/technology-news/business-tech/"><span>Business</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/computer-sciences/" data-href="/technology-news/computer-sciences/"><span>Computer Sciences</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/consumer-gadgets/" data-href="/technology-news/consumer-gadgets/"><span>Consumer &amp; Gadgets</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/energy-green-tech/" data-href="/technology-news/energy-green-tech/"><span>Energy &amp; Green Tech</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/engineering/" data-href="/technology-news/engineering/"><span>Engineering</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/hardware/" data-href="/technology-news/hardware/"><span>Hardware</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/hi-tech/" data-href="/technology-news/hi-tech/"><span>Hi Tech &amp; Innovation</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/internet/" data-href="/technology-news/internet/"><span>Internet</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/other/" data-href="/technology-news/other/"><span>Other</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/robotics/" data-href="/technology-news/robotics/"><span>Robotics</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/security/" data-href="/technology-news/security/"><span>Security</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/semiconductors/" data-href="/technology-news/semiconductors/"><span>Semiconductors</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/software/" data-href="/technology-news/software/"><span>Software</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/technology-news/telecom/" data-href="/technology-news/telecom/"><span>Telecom</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/">
+                                <span>Chemistry</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/" data-href="/chemistry-news/"><span>All Chemistry</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/analytical-chemistry/" data-href="/chemistry-news/analytical-chemistry/"><span>Analytical Chemistry</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/biochemistry/" data-href="/chemistry-news/biochemistry/"><span>Biochemistry</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/materials-science/" data-href="/chemistry-news/materials-science/"><span>Materials Science</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/chemistry-other/" data-href="/chemistry-news/chemistry-other/"><span>Other</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/chemistry-news/polymers/" data-href="/chemistry-news/polymers/"><span>Polymers</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/">
+                                <span>Biology</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/" data-href="/biology-news/"><span>All Biology</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/biotechnology/" data-href="/biology-news/biotechnology/"><span>Biotechnology</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/microbiology/" data-href="/biology-news/microbiology/"><span>Cell &amp; Microbiology</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/ecology/" data-href="/biology-news/ecology/"><span>Ecology</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/evolution/" data-href="/biology-news/evolution/"><span>Evolution</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/biology-other/" data-href="/biology-news/biology-other/"><span>Other</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/biology-news/plants-animals/" data-href="/biology-news/plants-animals/"><span>Plants &amp; Animals</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                            <li role="menuitem">
+                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/">
+                                <span>Other Sciences</span>
+                            </a>
+                            <div class="dropdown-wrap">
+                                <div id="menu-wrap" class="center-box  clearfix">
+                                    <ul role="menu" class="list-category">
+                                        <li role="menuitem" class="full-sub-nav">
+                                            <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/" data-href="/science-news/"><span>All Other Sciences</span></a>
+                                        </li>
+                                         
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/archaeology-fossils/" data-href="/science-news/archaeology-fossils/"><span>Archaeology &amp; Fossils</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/economics-business/" data-href="/science-news/economics-business/"><span>Economics &amp; Business</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/mathematics/" data-href="/science-news/mathematics/"><span>Mathematics</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/sci-other/" data-href="/science-news/sci-other/"><span>Other</span></a>
+                                            </li>
+                                          
+                                            <li role="menuitem" class="full-sub-nav">
+                                                 <a href="https://web.archive.org/web/20180319151053/https://phys.org/science-news/social-sciences/" data-href="/science-news/social-sciences/"><span>Social Sciences</span></a>
+                                            </li>
+                                         
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    
+                    <li>
+                        <a onclick="return false;" href="#"><span><img width="20" height="20" alt="Science X Network" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" class="toolsicon scx"></span></a>
+                        <div class="dropdown-wrap submenu-project">
+                            <div class="center-box clearfix">
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/" class="submenu-link"><span><img width="135" height="40" alt="Science X Network" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" class="toolsicon scx_logo"></span></a></li>
+                                    <li><a href="https://web.archive.org/web/20180319151053/https://phys.org/" class="submenu-link"><span><img width="135" height="40" alt="Phys.org" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" class="toolsicon phys_logo"></span></a></li>
+                                    <li><a href="https://web.archive.org/web/20180319151053/https://medicalxpress.com/" class="submenu-link"><span><img width="135" height="40" alt="Medical Xpress" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" class="toolsicon medx_logo"></span></a></li>
+                                    <li><a href="https://web.archive.org/web/20180319151053/https://techxplore.com/" class="submenu-link"><span><img width="135" height="40" alt="Tech Xplore" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" class="toolsicon tech_logo"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <!-- end center-box -->
+    </div>
+
+    
+        
+    <div class="header-bottom">
+        <div class="center-box clearfix">
+            <ul class="social-box">
+                <li><a href="https://web.archive.org/web/20180319151053/http://www.facebook.com/physorg" class="toolsicon icon-fb" title="facebook"></a></li>
+                <li><a href="https://web.archive.org/web/20180319151053/http://twitter.com/physorg_com" class="toolsicon icon-twitter" title="twitter"></a></li>
+                <li><a href="https://web.archive.org/web/20180319151053/https://phys.org/feeds/" class="toolsicon icon-rss" title="RSS feeds"></a></li>
+                <li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/newsletter/" class="toolsicon icon-mail" title="newsletter"></a></li>
+                <li><a href="https://web.archive.org/web/20180319151053/https://m.phys.org/" class="toolsicon icon-mobile" title="mobile website"></a></li>
+            </ul>
+
+                <nav class="second-nav">
+                </nav>
+<div class="user-box" id="profile">
+			<a id="scx_profile" href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/" rel="nofollow">
+			    <img class="toolsicon scx-profile" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="18" height="18"/>
+			    <span id="scx_uname"></span>
+			</a>
+			<span id="counter-profile"></span> 
+			<div id="dropdown-profile">
+			    <div id="login-box">
+				<form name="fstlogin" id="fstlogin" method="POST" action="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/"><fieldset id="fieldset-logins"> 
+				    <p class="centered">Enter your Science X account credentials</p>
+				    <input placeholder="email" type="email" name="email" size="10" maxlength="128" required>
+				    <input placeholder="password" type="password" name="passwd" size="10" maxlength="128" required>
+				    <input type="hidden" name="status" value="login"> <input type="hidden" name="redirect" value="1"> 
+				    <input type="hidden" name="ref" value="http://phys.org/">
+				    <div class="align-right">
+					<div class="float-left">
+					    <input type="checkbox" name="remember" id="login-remember" checked="checked"> <label for="login-remember">Remember me</label>
+					</div>
+					<a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/?code=pwdreset">Forget password?</a> 
+				    </div>
+				    <div class="centered">
+					<button type="submit" id="login-submit" name="loginsubmit" value="Sign in" onclick="">Sign In</button>    
+				    </div>
+				</fieldset></form>	
+				
+				<div id="altlogin" class="centered">
+				    Sign in with your Facebook or Google+ account
+				    <div class="altlogin-box">
+					<a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/" id="altfb">
+					    <img alt="fb" class="toolsicon fbl" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="30" height="40">
+					</a>
+					<a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/" id="altgoog">
+					    <img alt="fb" class="toolsicon googl" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" width="40" height="40">
+					</a>
+				    </div>
+				    Not a member? <a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/#register" rel="nofollow">Register</a>
+				</div>
+			    </div>
+			    
+			    <ul id="profile-box">
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/" rel="nofollow"><img class="toolsicon prfl-prof" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>Profile</a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/nwletter/" rel="nofollow"><img class="toolsicon prfl-nwl" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>Newsletter</a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/favorites/" rel="nofollow"><img class="toolsicon prfl-fav" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>Favorites</a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/comments/" rel="nofollow"><img class="toolsicon prfl-com" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>Activity</a>
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/pm/" rel="nofollow"><img class="toolsicon prfl-pm" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>PM</a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/my/" rel="nofollow"><img class="toolsicon prfl-my" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>My news</a></li>
+				<li class="last"><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/login/?code=signout"><img class="toolsicon prfl-exit" src="https://web.archive.org/web/20180319151053im_/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/1x1.gif" alt="Science X Network" width="20" height="20"/>Sign out</a></li>  
+			    </ul>
+			    
+			</div>
+		    </div>
+            <form action="https://web.archive.org/web/20180319151053/https://phys.org/search/" method="GET" class="search-nav">
+                <fieldset>
+                    <input type="search" name="search" placeholder="search" value="">
+                    <input type="submit" class="toolsicon go" id="search-btn">
+                </fieldset>
+            </form>
+        </div>
+        <!-- end center-box -->
+    </div>
+    
+    </header>    
+
+        
+    <footer class="footer-main">
+	    <div class="center-box clearfix">
+		<ul class="footer-nav">
+		    <li>
+		     <ul>
+			  <li><a href="#top">Top</a></li>
+			  <li><a href="https://web.archive.org/web/20180319151053/https://phys.org/">Home</a></li>
+			  <li><a href="https://web.archive.org/web/20180319151053/https://phys.org/search/">Search</a></li>
+			  <li><a href="//web.archive.org/web/20180319151053/https://m.phys.org/">Mobile version</a></li>
+			 </ul>
+		    </li>
+		    <li>
+		      <ul>
+				<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/">Help</a></li>
+				<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/contactus/">FAQ</a></li>
+				<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/about-us/">About</a></li>
+				<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/feedback/">Contact</a></li>
+				<!-- <li><a href="https://phys.org/help/whats-new/">What's new</a></li> -->
+		      </ul>
+		    </li>
+		    <li>
+		      <ul>
+			<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/profile/">Science X Account</a></li>
+			<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/donate/">Sponsored Account</a></li>
+			<li><a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/newsletter/">Newsletter</a></li>
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/feeds/">RSS feeds</a></li>
+		      </ul>
+		    </li>
+		    <li>
+		      <ul>
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/editorials/">Feature Stories</a></li>
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/latest-news/">Latest news</a></li>
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/weekly-news/">Week's top</a></li>
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/archive/">Archive</a></li>
+		      </ul>
+		    </li>
+		    <li>
+		      <ul>
+				
+				<li><a href="https://web.archive.org/web/20180319151053/https://play.google.com/store/apps/details?id=com.PhysOrg.RssLite">Android app</a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://itunes.apple.com/us/app/phys-org/id356443503?mt=8">iOS app</a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://www.amazon.com/gp/product/B002G9TKCC">Amazon Kindle</a></li>
+				<li id="webpush"></li>
+		      </ul>
+		    </li>
+		</ul>
+		<div class="connect-box">
+		    <p>Connect</p>
+		    <ul class="social-box">
+				<li><a href="https://web.archive.org/web/20180319151053/http://www.facebook.com/physorg" class="toolsicon icon-fb" title="facebook"></a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/http://twitter.com/physorg_com" class="toolsicon icon-twitter" title="twitter"></a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://plus.google.com/116557644723047703916/?prsrc=3" class="toolsicon icon-google" title="Google+"></a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/feeds/" class="toolsicon icon-rss" title="RSS feeds"></a></li>
+				<li><a href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/newsletter/" class="toolsicon icon-mail" title="newsletter"></a></li>
+				<li><a href="//web.archive.org/web/20180319151053/https://m.phys.org/" class="toolsicon icon-mobile" title="mobile website"></a></li>
+		    </ul>
+		</div>
+	    </div>
+	    <!-- end center-box -->
+	    <div class="copy-box">
+		<div class="center-box clearfix">
+		    <ul class="privacy">
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/help/privacy/">Privacy Policy</a></li>
+			<li><a href="https://web.archive.org/web/20180319151053/https://phys.org/help/terms/">Terms of Use</a></li>
+		    </ul>
+		    <p class="copyright">&copy; Phys.org 2003 - 2018, <a rel="nofollow" href="https://web.archive.org/web/20180319151053/https://sciencex.com/">Science X network</a></p>
+		</div>
+		<!-- end center-box -->
+	    </div>
+	    <!-- end copy-box -->
+	</footer>    
+
+      </section>
+<!-- js libs -->              
+      <script>
+/*loadCSS. [c]2017 Filament Group, Inc. MIT License */
+(function(h){var c=function(c,e,n){function k(a){if(b.body)return a();setTimeout(function(){k(a)})}function f(){a.addEventListener&&a.removeEventListener("load",f);a.media=n||"all"}var b=h.document,a=b.createElement("link");if(e)var d=e;else{var l=(b.body||b.getElementsByTagName("head")[0]).childNodes;d=l[l.length-1]}var m=b.styleSheets;a.rel="stylesheet";a.href=c;a.media="only x";k(function(){d.parentNode.insertBefore(a,e?d:d.nextSibling)});var g=function(b){for(var d=a.href,c=m.length;c--;)if(m[c].href===
+d)return b();setTimeout(function(){g(b)})};a.addEventListener&&a.addEventListener("load",f);a.onloadcssdefined=g;g(f);return a};"undefined"!==typeof exports?exports.loadCSS=c:h.loadCSS=c})("undefined"!==typeof global?global:this);
+</script>
+	  <script>
+      (function(h,e){"undefined"!=typeof module&&module.exports?module.exports=e():"function"==typeof define&&define.amd?define(e):this[h]=e()})("$script",function(){function h(a,d){for(var b=0,c=a.length;b<c;++b)if(!d(a[b]))return!1;return 1}function e(a,d){h(a,function(a){return!d(a)})}function c(a,d,b){function r(a){return a.call?a():l[a]}function k(){if(!--p){l[n]=1;f&&f();for(var a in g)h(a.split("|"),r)&&!e(g[a],r)&&(g[a]=[])}}a=a.push?a:[a];var t=d&&d.call,f=t?d:b,n=t?a.join(""):d,p=a.length;setTimeout(function(){e(a,
+      function v(a,b){if(null===a)return k();a=b||-1!==a.indexOf(".js")||/^https?:\/\//.test(a)||!q?a:q+a+".js";if(m[a])return 2==m[a]?k():setTimeout(function(){v(a,!0)},0);m[a]=1;u(a,k)})},0);return c}function u(a,d){var b=n.createElement("script"),c;b.onload=b.onerror=b.onreadystatechange=function(){b.readyState&&!/^c|loade/.test(b.readyState)||c||(b.onload=b.onreadystatechange=null,c=1,m[a]=2,d())};b.async=1;b.src=f?a+(-1===a.indexOf("?")?"?":"&")+f:a;p.insertBefore(b,p.lastChild)}var n=document,p=n.getElementsByTagName("head")[0],
+      l={},g={},m={},q,f;c.get=u;c.order=function(a,d,b){(function k(e){e=a.shift();a.length?c(e,k):c(e,d,b)})()};c.path=function(a){q=a};c.urlArgs=function(a){f=a};c.ready=function(a,d,b){a=a.push?a:[a];var f=[];!e(a,function(a){l[a]||f.push(a)})&&h(a,function(a){return l[a]})?d():!function(a){g[a]=g[a]||[];g[a].push(d);b&&b(f)}(a.join("|"));return c};c.done=function(a){c([null],a)};return c});    
+      </script>
+      <script>
+        $script('//web.archive.org/web/20180319151053/https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', 'jquery');
+        $script.ready('jquery', function(){
+			$script('https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/js/jquery/jquery.extra.min.385294305.js', function(){
+				$script('https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/js/main.min.3957423421.js', 'jsfunc');
+				$script('https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/js/web-push.4207331866.js', 'webpush');
+			})
+	    if ($('audio,video').length > 0) {
+            loadCSS('https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/js/plyr/plyr.2123841813.css');
+            $script('https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/js/plyr/plyr.2123841813.js', function(){
+				plyr.setup();    
+			})
+		}
+	});
+	$script.ready('jsfunc', function(){
+	    if (typeof $q !== 'undefined')  $.each($q,function(i,f){$(f)});
+	    popupHint('This website uses cookies to ensure you get the best experience on our website. <a href="https://web.archive.org/web/20180319151053/https://sciencex.com/help/privacy/">More info</a>','eucook',360);
+	});
+	</script>
+      <script>
+    var URL_news = "https://web.archive.org/web/20180319151053/https://phys.org/news/2018-03-differential-privacy.html",nid = "440666853",uids = "440412776,440412850,440425440,440389925,440412457,439126147,436595915,427531372,329107566,385803476,414398135",categ = "technology";
+    var cmperm = "1", fltthres = 0, cmlimit = [25,]
+		    ,sort = 'ASC', follow = '', s_imgStar = 'https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/favoriteON.gif'
+		    // update IMG
+		    ,updIMG= ' <img src="https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/updating.gif" width="16" height="11" alt="updating" />'
+		    ,cmt;
+</script>
+<script>
+    $script.ready('jsfunc', function(){
+	$script('https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/js/news.min.4093607349.js', 'jsnews');
+    });
+    $script.ready('jsnews', function(){
+	var updImObj = new Image();
+	updImObj.src = 'https://web.archive.org/web/20180319151053/https://cf3e497594.site.internapcdn.net/tmpl/v5/img/updating.gif';
+	cmt = Comments(nid, {perpage:cmlimit[0],total:cmlimit[1]})
+    });
+</script><!-- Quantcast Tag -->
+      <script type="text/javascript">
+	      var _qevents = _qevents || [];
+	      
+	      (function() {
+	      var elem = document.createElement('script');
+	      elem.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20180319151053/https://secure/" : "https://web.archive.org/web/20180319151053/http://edge/") + ".quantserve.com/quant.js";
+	      elem.async = true;
+	      elem.type = "text/javascript";
+	      var scpt = document.getElementsByTagName('script')[0];
+	      scpt.parentNode.insertBefore(elem, scpt);
+	      })();
+	      
+	      _qevents.push({
+	      qacct:"p-5dNhPAnM9r0yY"
+	      });
+      </script><noscript>
+	      <div style="display:none;">
+	      <img src="//web.archive.org/web/20180319151053im_/https://pixel.quantserve.com/pixel/p-5dNhPAnM9r0yY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	      </div>
+      </noscript>
+      <!-- End Quantcast tag -->  
+    </body>
+</html><!--
+     FILE ARCHIVED ON 15:10:53 Mar 19, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:53:21 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 712.655 (3)
+  esindex: 0.01
+  captures_list: 738.674
+  CDXLines.iter: 16.92 (3)
+  PetaboxLoader3.datanode: 1007.943 (4)
+  exclusion.robots: 0.324
+  exclusion.robots.policy: 0.308
+  RedisCDXSource: 4.141
+  PetaboxLoader3.resolve: 382.153
+  load_resource: 713.474
+-->

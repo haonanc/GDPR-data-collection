@@ -1,0 +1,46 @@
+Cock.li — Mail with cocks
+Data cock.li collects
+Cock.li does not require personally identifiable information to register for the service. To avoid providing cock.li personal information, use Tor or a VPN, and follow basic OPSEC guidelines.
+As a cock.li user, at any point, cock.li may be retaining the following information about your account:
+A Registration information (E-mail address, hashed password, IP address, user agent, timestamps)
+C Cookies used to keep you logged in to cock.li and the webmail interface
+C Session information saved by webmail in order to provide webmail access
+B Mail storage (Anything saved in your inbox, sent, or any other mail folders)
+B Mail filters (Configurable through the webmail interface)
+B XMPP buddy rosters and data saved as part of your client interacting with XMPP extensions
+C 48-72 hours of IMAP and SMTP log information (detailed below)
+Cock.li may also be retaining the following information not related to your account:
+HTTP access logs containing your IP address, user agent, and type/location of your requests
+Cock.li does not guarantee that the above information is stored, only that it does not knowingly collect information in addition to this.
+IMAP and SMTP logs include:
+When an E-mail is sent, the username, destination e-mail address, and information about the connection (like IP address, quota information)
+When you connect to IMAP, what IP address and username (if any) you are logging in with, and if that login was successful
+Sharing of Data
+Cock.li does not sell or share your personal data. Cock.li owns 100% of its server hardware and your information is encrypted server-side at all times. If an E-mail is sent through cock.li to a mail server that it cannot establish a TLS connection with, or if cock.li receives an e-mail from a server that does not attempt a TLS connection, this E-mail will be transmitted over the internet without encryption.
+Cock.li has one third party. To provide payment processing capabilities for donations, cock.li uses Stripe. The only time your information is transmitted to Stripe is by donating using a credit or debit card on
+. For more information about Stripe's policies, please read Stripe's Privacy Policy .
+Use of Data
+Automatically by a robot
+All E-mail sent or received through cock.li is automatically scanned for spam
+Statistics like how many e-mails you've sent is used for quota tracking purposes
+May be looked at by a human or a robot to investigate abuse
+Your registration information
+To comply with legal orders
+Cock.li complies with every legal order for user information under the jurisdictions which are applicable.
+Proof of Ownership
+Because cock.li does not require any personal information to register, your ability to log into your cock.li account is the only way to prove ownership of it. Do not lose your password! You will lose any ability to control your account if you do.
+Right to Erasure
+As a cock.li user, you have the right to erasure. However, for security reasons, you must yourself take precise action to ensure proper erasure.
+Refer to the list above and note the letter prepending them. Your data has three classes for the purposes of erasure:
+A - Registration information, deleted under an erasure request.
+B - User-managed information. Must be deleted by the user.
+C - Automatically deleted information. No action is required at any time.
+The steps to fully erase your account are as follows:
+Delete all class B information manually
+Log into your cock.li account on https://cock.li/
+Complete the account erasure form
+*Your account will be deleted immediately if it is over 30 days old, otherwise your account will be deleted when it reaches 30 days old.
+* Cock.li has a genuine security need to keep registration information for 30 days. User-managed data can be deleted at any time.
+Backups
+Cock.li backups are not user-specific and as such are immutable in nature. As a result data may not be able to be deleted from these backups. However, on restoration any erased accounts will be discarded from the restore. To accomplish this, on account erasure, a record of only the e-mail address will be kept for the purposes of purging backups on restoration. This also prevents registration of duplicate accounts.
+Service provided for fun by Vincent Canfield

@@ -1,0 +1,34 @@
+Business policies
+Whenever you create a listing you'll need to choose a set of business policies – these are the payment, postage and return details you specify for buyers. You can make the listing creation process, and the management of any existing listings, more efficient by creating policy templates that store your preferences across each of these areas.
+Business policies are important because they let buyers know how they can pay you, how long it will take you to post an item, the delivery services you offer – including postage and packaging costs - and whether or not you accept returns.
+Rather than setting your preferences in these areas on a listing-by-listing basis, you can streamline the process by creating templates. These templates can then be applied when creating new listings, or even used to update multiple existing listings
+If your business policy preferences vary depending on what you're selling, you can create a range of different templates. This gives you the flexibility to apply different payment, postage, or returns details depending on what you're listing. To start using business policies, you'll need to  opt in .
+Creating business policies
+You can create and manage policies from the business policies dashboard in the Account section of My eBay.
+If you've listed an item in the last 90 days, you'll see some ready-made policies based on your previous payment, postage and returns preferences. You can also create your own policy templates by following these steps:
+From the Create policy dropdown, select a policy type.
+Give the policy a descriptive name and add a brief description.
+Add your policy details and hit Save.
+Updating business policies
+You can edit, copy, reassign or delete your policies whenever you choose. If you update a policy, any listings using that policy will be automatically updated with your changes.
+If you want to delete a policy that is currently being used in any active or scheduled listings, you'll need to reassign new policies to these listings first.
+If you use a particular business policy more than others, set it as your default by selecting Set as default from the dropdown menu.
+Tip
+Give your policies descriptive names such as 'Postage policy – International' so you can easily find the one you need.
+Frequently Asked Questions
+I've just opted in to Business Policies for the first time and I can see existing payment, shipping and returns policies. Where did they come from?
+ 
+I have a lot of Business Policies. Is there a way to make them easier to manage?
+ 
+I sell items of different sizes and weights. Is there a way to change the shipping cost without creating a different shipping policy for each size of package?
+ 
+Some policies have appeared named "Copy of…", which I didn't create. How did that happen?
+ 
+What happens if I want to opt out of business policies?
+ 
+When I try to opt in to business policies I get an error. What can I do?
+ 
+Top Takeaway
+Your business policies are important because they let buyers know how they can pay you, what your dispatch time is, the delivery services you offer – including postage and packaging costs – and whether or not you accept returns.
+Was this article helpful for you?
+You might also be interested in:

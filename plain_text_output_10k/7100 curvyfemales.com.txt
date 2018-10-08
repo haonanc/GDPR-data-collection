@@ -1,0 +1,53 @@
+This notice was last updated on the 25 May 2018.
+Your privacy is important to wales.com and in line with the General Data Protection Regulations (GDPR) we have developed a Privacy Notice that covers why we collect and use your information. This privacy notice ensures that your personal data will be processed fairly and lawfully and in a transparent manner.
+ 
+1. Why we collect and process the data collected
+ 
+2. Who will have access to your data
+The collected information will be accessible by the Welsh Government, and its system technical administrators who support the I.T. system.
+Under data protection legislation, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.
+ 
+3. How long are your details kept
+ 
+Under the data protection legislation, you have the right to:
+access the personal data the Welsh Government holds on you;
+require us to rectify inaccuracies in that data;
+(in certain circumstances) object to or restrict processing;
+(in certain circumstances) your data to be ‘erased’;
+lodge a complaint with the Information Commissioner’s Office (ICO) who is our independent regulator for data protection.
+The contact details for the Information Commissioner’s Office are:
+Customer Contact
+Wycliffe House
+Water Lane
+For further information on your information rights you can contact the Data Protection Officer;
+Welsh Government
+Cathays Park
+ 
+5. The Freedom of Information Act and your Information
+ 
+6. Changes to this policy
+ 
+7. Other information collected on this website
+We monitor user activity to enhance content provided on this site. This website uses Google Analytics, a web analytics service provided by Google Inc. ('Google'). Google Analytics uses 'cookies' and JavaScript code to help analyse user activity on websites. The information generated about your use of the website (including your IP address) will be transmitted to and stored on Google servers in the United States.
+Google will use this information to produce user activity reports for this website. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
+Google will not associate your IP address with any other data previously held. You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note that if cookies are disabled, you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+This site, from time to time, links to SurveyMonkey forms for data collection. This data is processed in the US and its handling satisfies the provisions of the Data Protection Act.
+ 
+8. Cookies
+ 
+_utma
+ 
+_utmb
+ 
+_utmc
+ 
+_utmz
+This tells us how you reached the site (e.g. from another website or a search engine)
+AddThis
+__atuvc
+ 
+Drupal cookies
+has_js
+Drupal uses this cookie to indicate whether or not the visitors browser has JavaScript enabled.
+Cookie control widget
+ 

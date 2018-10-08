@@ -1,0 +1,24 @@
+Cookies
+Like most websites, we use cookies and web log files to track site usage and trends, to improve the quality of our service, to customize your experience on MarineTraffic, as well as to deliver MarineTraffic and third-party advertising to Users.
+Cookies are small data files that a web site you visit may save on your hard drive. They usually include an anonymous unique identifier. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+You can remove or block cookies using the settings in your browser, but in some cases doing so may prevent MarineTraffic from fully functioning. One type of cookie, known as a "persistent" cookie, is set once you've logged in to your MarineTraffic account. The next time you visit the MarineTraffic website, the persistent cookie will allow us to recognize you as an existing Member so you will not need to log in before making a purchase or remember your cart content etc.
+We also use Google Analytics to help us understand how users use our web site and our mobile applications. Google Analytics cookies do not provide MarineTraffic with any personally identifiable information. They can tell us things like how you arrived at the MarineTraffic site, if you have visited the site before, how long you stay on the site, and which pages on the site you visited. They can also provide us with general information about where in the world a user may be located. This information helps us understand how people use our site and our products, and it gives us information about the kind of experience people have on our site and with our products, all of which helps us learn how to make the MarineTraffic experience even better.
+Click here to learn more about Google Analytics and your privacy. To opt out of being tracked by Google Analytics when using our web-based products, click here .
+Privacy Policy
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
+We may e-mail you regarding the specifics of your order but we will not e-mail you any marketing material in the future unless you have given us your explicit consent.
+We will not pass on your information to any third party.
+The type of information we will collect about you includes:
+Your name
+Your address
+Your phone number
+Your email address
+We will never collect sensitive information about you without your explicit consent.
+We do not and will never collect your credit card details. Sensitive payment details are sent encrypted to Braintree, our payment processor. Braintree is a validated Level 1 PCI DSS Compliant Service Provider. Braintree is on Visa's Global Compliant Provider List and MasterCard's SDP List . Cardholder data is stored using one of the most advanced encryption methods available. Braintree uses multiple encryption keys which are stored on different physical servers. A data thief would not be able to make use of information stolen from a database without also having the key. The data store where cardholder data is kept cannot be connected to via the internet.
+ 
+All product prices exclude VAT. Customs duty tax may apply for your country. Please check with your local customs office.
+Newsletter
+Subscribe
+About MarineTrafficaccordion-footer
+The mission of MarineTraffic is to provide highly targeted Services to the world's maritime professionals and marine enthusiasts.

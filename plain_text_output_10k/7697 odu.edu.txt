@@ -1,0 +1,26 @@
+Basic Privacy
+WordPress is a platform intended to allow you to share your thoughts and ideas freely and easily with the world. However, there are a variety of  reasons why you might not want too,  so options to publish to a more limited audience are available.
+Within the ODU WordPress system, we have established a policy that all sites will be created as private sites initially and the site administrator can determine what information can be made available and to whom. This means that initially sites are configured so only registered users of a blog will have access.
+The site administrator(s) can modify the setting as necessary.
+ 
+Site Wide Privacy
+The options available to site administrators to manage site access can be addressed through the admin menu:
+Navigate to Settings > Reading.
+This will bring up the site reading settings that configure who and how the site can be read.  Scrolling down to the Site Visibility settings will provide you the following options:
+The menu provides you with 7 potential options for configuring site access.
+The first two, although seeming to deal with Search Engines (Google, Bing, Yahoo etc.), will make your site public and available to anyone.  All search engines have web crawlers  that search the web and categorize sites that are found. If you decide to check the “Discourage search engines from indexing this site.” box, it will depend on the search engine to honor your “request”. Some search engines will simply ignore it. We highly recommend that you investigate the SmartCrawl plugin and some of its features for relating to dealing with search engines.
+The next 3 options will restrict access to your site to users within the ODU organization to various degrees.
+“Visitors must have a login“:  Selecting this option would allow any user at ODU that can log onto our system to view your site.
+“Only registered users of this blog can have access“: Selecting this option will restrict access to your site to only users that you have added to access the site. The current list of users that have access and their roles can be viewed by selecting Users > All Users.
+Additional users can be added to the access list by selecting “Add Existing”, typing in their ODU email address and selecting the appropriate role or by using the ODUWP Blackboard User Import plugin to add users from a Blackboard Course Enrollment list (this can be obtained from the course faculty of record).
+“Only administrators can visit“: Only defined site admins will be able to access this site.
+“Anyone that visits must provide this password“:  The last option will allow you to apply a password to the site.  Anyone with the password would be able to access the site.
+Remember to click Submit to save your changes.
+Page and Post Privacy
+You have options to adjust the availability of information on individual pages or posts to keep Public, Private, or Password Protected so that only people you with to view the content can.
+To adjust the availability of a page or post, edit that page or post and open the “Publish” menu in the right-hand column. By clicking on the “Edit” link next to Visibility option you can edit the availability of any page or post.
+ 
+ 
+ 
+ 
+ 

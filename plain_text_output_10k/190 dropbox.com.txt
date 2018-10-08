@@ -1,0 +1,49 @@
+The Dropbox Privacy Policy: frequently asked questions
+1. How long does Dropbox keep my files after I delete my account?
+When you delete your Dropbox Basic, Plus, or Professional account, we will initiate deletion of the files you store on our Services after 30 days. If you are a user on a Dropbox Business account, only your admin can disable your account and delete your files.
+2. What are Dropbox’s lawful bases for processing my data?
+We use your data to provide you with the Dropbox Services pursuant to our contract with you. Specifically, Dropbox uses your data to:
+Provide, update, maintain, and protect our Services and business. For example, we make it easier to share and collaborate by storing your contacts and making them available for you to use.
+Communicate with you by responding to your requests, comments, and questions. If you contact us with questions or concerns about the Services, we may use your personal information to respond.
+Send you emails and other communications. We may contact you about important changes to our Services and Service-related notices. These communications are considered part of the Dropbox Services and you may not opt out of them.
+Dropbox will collect and use your data in furtherance of its legitimate interests in operating our Services and business. Specifically, Dropbox uses your data to:
+Understand how you use our Services and improve them.
+Send marketing emails and other communications in certain instances (see the Marketing section in our Privacy Policy for more details).
+Investigate and prevent security issues and abuse of Dropbox Services or Dropbox users.
+Protect any person from death or serious bodily injury.
+Comply with applicable law, legal process, or regulation.
+Perform a task carried out in the public interest.
+Finally, Dropbox will sometimes collect and use your data with your consent to:
+Send you marketing materials about our Services. If you do not wish to receive these materials, simply click the Unsubscribe link in any email, or update your preferences in the Notifications  section of your Dropbox account.
+Improve our Services and develop new features.
+3. How does Dropbox collect and use my usage information?
+We collect information about how you use the Services, including actions you take in your Dropbox account. We use this information to efficiently and reliably provide Dropbox Services. We also use such information to improve our Services and develop new features, protect Dropbox users, and, in some instances, market Dropbox Services. For example, to improve our Services and develop new features, we collect information about how you interact with our mobile app to optimize the design and placement of certain buttons to make it more usable. We also improve our Services by aggregating usage information regarding features like Dropbox Showcase to determine which parts of the feature our users are finding most useful. To protect Dropbox users,  we analyze thing  like IP addresses, login history, and email and password changes to detect  abusive behavior and content. Finally, to market Dropbox Services, we will, in some instances,  analyze information about users’ activity and level of engagement with our Services—such  as  how many devices they’ve connected to their Dropbox account and how much storage space  they’ve used—to identify interested users.
+4. How does Dropbox use my personal information for automated decision-making and machine learning?
+Dropbox collects and processes your personal information using automated decision-making (including “machine learning”) to provide, improve, and market the Dropbox Services in furtherance of its legitimate interests or based on your consent when appropriate: 
+Provide Dropbox Services. We deploy automated decision-making to analyze things like your IP address, login history, and account changes (such as email address and password changes) to detect and prevent against abusive behavior and content on our Services. 
+Improve Dropbox Services. Dropbox collects and processes your information to improve the Services and develop new features. For instance, we analyze information about how you interact with the Services to optimize the design of our user interface. We also analyze information collected from desktop client error reports to understand, detect, fix, and prevent desktop client crashes. In some cases, we use your information to train machine learning models to enhance the Dropbox Services. For instance, we make it easier for you to find your stuff on Dropbox by using information about your account activity to auto-correct search queries, suggest files, and improve the relevance of search results. We continue to work on ways to train our algorithms to make your use of Dropbox easier and more efficient, and help you achieve a more enlightened way of working. 
+Market Dropbox Services. We will, in some instances, use automated decision-making to analyze users’ activity and level of engagement with our Services by looking at things like how many devices they’ve connected to their Dropbox account, how much storage space they used, and how many sharing actions they’ve taken to identify and market to users who might be interested in learning more about our Services.
+5. What trusted third parties does Dropbox share my personal information with?
+In order to provide, improve, protect, and promote our Services, Dropbox shares your personal information with trusted third parties, including:
+Dropbox, Inc.
+Oracle America, Inc.
+These third parties will access your information only to perform tasks on our behalf in compliance with our Privacy Policy, and we will remain responsible for their handling of your information per our instructions.
+6. How do I object to or limit the use of my personal data?
+You have a right to request that we stop or limit our use of your personal data in certain circumstances—for example, if we have no lawful basis to keep using your data, or if you think your personal data is inaccurate.
+You have an absolute right to object to our use of your personal information to send you marketing messages, and we’ve made it easy for you to do so. You can select which kinds of marketing messages you want to receive at any time by editing your preferences in the Notifications  section of your personal account or by clicking the Unsubscribe link in any categories of emails you no longer want to receive.
+If your account information is inaccurate, you can update or delete it at any time by signing in to your account and going to your account page . You can also delete your Dropbox account at any time (but don’t forget that if you do, your data will be gone forever).
+If you believe that Dropbox has no lawful basis for using your personal data, believe there are other inaccuracies in your personal data, or wish to object to the use of your personal data, please let us know by contacting us at privacy@dropbox.com and we’ll look into it.
+7. How can I access my personal data?
+You can access the files you save in your Dropbox account at any time. If you have installed the Dropbox desktop app, you can store all of your files directly on your computer.
+For information about your account and hardware associated with your account, simply sign in to your account page . Here you can find the name and email address associated with your account, as well as the IP addresses of connected sessions and computers and mobile devices used to access your account. You can also see apps connected to your account from the security page .
+If you’ve been in touch with the Dropbox support team, you can sign in to our customer service portal and get a record of your communications with us.
+If you would like to submit a data access request, please write us at privacy@dropbox.com with the words “Data Access Request” in the subject or body of your message, and we will get back to you within 30 days.
+8. I want to use another service provider. How do I move my data from Dropbox?
+If you use dropbox.com to access your account, you can easily download individual files or folders from dropbox.com. To download individual files from dropbox.com:
+Click the "…" (ellipsis) to the right of the file’s name.
+Click Download.
+How helpful was this article?
+We’re sorry to hear that. Let us know how we can improve:
+Thanks for your feedback! Let us know how this article helped:
+Submit
+Community

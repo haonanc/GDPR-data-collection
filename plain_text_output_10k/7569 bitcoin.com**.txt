@@ -1,0 +1,116 @@
+Introduction
+Our policy aims to provide a high level of information protection as our commitment to our customers. We believe that our users’ rights need to be protected and as such we have written the following policy to reflect that commitment.
+Please read the below document to better understand the commitment we want to make to our customers.
+This privacy policy describes the handling of personal information by Global Internet Ventures Pty Ltd; and its related entities (we and us), including through our sites bitcoin.com.au.
+Australia – Global Internet Ventures Pty Ltd;
+We aim to protect the confidentiality of personal information and the privacy of individuals by regulating the way personal information is dealt with by us.
+By using this website or our services you consent to the collection, use and disclosure of your personal information as described in this privacy policy.
+Local exemptions
+We will comply with all our legal obligations.  This policy will not apply to the extent that it is inconsistent with such legal obligations.  Where local law allows for an exemption to compliance with certain obligations, such as the employee records exemption in Australia, we may rely on such exemption.
+Our principles of data protection
+We believe that the following qualities should be demanded from your cryptocurrency exchange providers.
+Security: We have formed leading approaches to handling and securing the personal data of our customers.
+Transparency: When collecting and using personal data, we take a human approach by being honest, ethical, and transparent to all parties in our effort of protecting our customers.
+User-centricity: “Centricity” is a matter of explicit priority. Your privacy and security are our priority.
+Ownership: We welcome and accept the responsibility that comes with protecting personal data.
+What personal information do we collect and hold?
+When we refer to “personal data” or personal information, we mean information about you as an identified or identifiable person. The kinds of personal information that we collect and hold depend on your dealings with us.  Examples of personal information we collect and hold include:
+name;
+the purpose of the relevant transaction and source of funds;
+financial information (such as your bank account details); and
+qualifications and employment history, in the event you are applying for a job or contract with us.
+We may collect information about your computer, including, where available, your IP address, operating system, and browser type.
+We may also collect other personal information we consider is reasonably necessary for one or more of our functions and activities such as personal information that we request from you or that you or a third party provide to us, and which we are authorised or required by law to collect.
+Unless it is impracticable for us to do so, you will have the option of dealing with us anonymously or by using a pseudonym.
+Sensitive information
+We may also collect sensitive information about you if you consent to us doing so and the information is reasonably necessary for one or more of our functions or activities, or where otherwise permitted or required by law.
+Where we collect personal sensitive data, we’ll only process it:
+to perform a contract with you, or
+where we have legitimate interests to process the personal data or and they’re not overridden by your rights, or
+in accordance with a legal obligation, or
+where we have your consent.
+If we don’t collect your personal data, we may be unable to provide you with all our services, and some functions and features on our websites may not be available to you.
+Unsolicited information
+If we receive unsolicited personal information about you, unless it is reasonably necessary for one or more of our functions or activities, or we are otherwise permitted or required by law to retain it, we will de-identify or destroy it as soon as practical provided it is lawful and reasonable to do so.
+How we collect and hold personal information
+We will usually collect your personal information directly from you, such as by telephone, standard form, letter, email or you visiting our site.  Calls to and from our support center are recorded.
+We may also collect your personal information from a related entity or from a third party or a publicly available source where it is unreasonable or impractical to collect the information directly from you or if necessary to satisfy our legal obligations. For example, we may collect know-your-customer or anti-money laundering information about you from our identity-verification services provider(s).  We also often collect your name, address, and date of birth from our identity-verification services provider(s).
+If you are a company director or shareholder of a trust or company that uses the site, then we may collect your personal information (such as name, address, and date of birth) from the relevant corporate regulator.
+If you apply for a position or contract as an employee or service provider with us, we may also collect personal information about you from your nominated referees.
+How we use your data
+First and foremost, we use your personal data to provide you to process your orders and transactions, to manage our relationship with you, and to operate our websites. Other purposes we use your information for may include the following:
+To communicate with you
+This may include:
+providing you with the information you’ve requested from us or information we are required to send to you.
+operational communications, like changes to our websites and services, security updates, or assistance with using our websites and services
+marketing communications  (about bitcoin.com.au or another product, service, or information we think you might be interested in)  via any medium including email, SMS, telephone or other media (though we will always allow you to unsubscribe from such marketing or promotional communications)
+asking you for feedback or to take part in any research we are conducting (which we may engage a third party to assist with)
+To protect you
+So that we can detect and prevent any fraudulent or malicious activity, and make sure that everyone is using our websites and services fairly and in accordance with our terms and conditions.
+To support you
+This may include assisting with the resolution of technical support issues or other issues relating to the websites or services, whether by email, in-app support or otherwise.
+To market to you
+In addition to sending you marketing communications, we may also use your personal data to display targeted advertising to you online – through our own websites and services or through third-party websites and their platforms.
+To hire you
+We use your personal data to assess your application for a position or contract as an employee or service provider with us.
+To enhance our websites and services and develop new ones
+For example, by tracking and monitoring your use of websites and services so we can keep improving, or by carrying out technical analysis of our websites and services so that we can optimise your user experience and provide you with more efficient tools.
+To analyse, aggregate and report
+We may use your personal data (whether obtained directly or from third parties) to produce aggregated and anonymised analytics and reports, which we may share publicly or with third parties.
+To comply with legal obligations
+Where we believe it is necessary to comply with our legal obligations, including under Anti-Money Laundering and Counter-Terrorism Financing laws, or to investigate, prevent or take action regarding suspected illegal activities, potential threats to the safety of any person, or violations of our website terms and conditions or this privacy policy.
+How we share your data
+Third parties
+At times, we may provide your data to trusted third parties, including to provide all the functionalities that we offer through our website. Where the high standards of the European General Data Protection Regulation apply, we impose a high obligation to seek to make sure that our partners and third-party services are GDPR complaint before sharing your personal information.
+These third parties with who we may share your personal information include:
+our related entities;
+third party suppliers who assist us in performing our functions and activities, such as identity-verification, customer service ticketing, IT and electronic marketing services providers;
+financial institutions for payment services;
+parties to whom you have requested we disclose personal information; and
+government, regulatory or law enforcement agencies;
+Personal Data request from Law enforcement or Government agencies.
+We seek to apply a high legal standard, and, unless otherwise required by law, we require a search warrant (or equivalent) for all requests for personal data by law enforcement or government agencies. Where permitted by law, we will attempt to give prior notice to our customers whose data is requested by any government or law enforcement agency. If we are unable to provide prior notice, then we may instead attempt to give notice as soon as reasonably practicable.  We may withhold notice where it is prohibited by law and in certain exceptional circumstances, in our discretion, such as emergencies, when notice could result in danger or personal harm or when notice would be counterproductive (for example, when the user’s account has been hacked).
+Overseas disclosure
+When we share data, it may be transferred to and processed in, countries other than the country you live in.  Rest assured, where we disclose personal data to a third party in another country, we put safeguards in place requiring the third party to ensure your personal data remains protected. Generally, these include putting in place suitable contractual obligations on the recipient that ensure they comply with all applicable laws in relation to their handling of such personal information.  Please contact us if you would like details of these obligations. Our current service providers are located in the Australia and Philippines.
+Automated decision making
+We may use your IP address to determine which country you are from and, based on such IP address, make a decision about whether or not to allow you access to the site and/or our services.  We may also use automated decision-making processes to identify a scam or fake data amongst emails.
+Where we use automated decision-making processes, we will implement suitable measures to safeguard your rights and freedoms and legitimate interests.  Where our use of automated decision-making processes has affected you, you may provide your view on the decision, contest the decision and ask us to arrange for a human to review the decision.
+De-identified information
+We may share aggregated or de-identified information with third parties for research, marketing, analytics and other purposes, provided that this information does not identify particular individuals.
+Cookies
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser that enable the site or service provider’s system to recognise your browser and capture and remember certain information.
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+If you want to find out more about the types of cookies we use, why, and how you can control them, take a look at our Cookies notice for further information.
+Third party links
+Occasionally, at our discretion, we may include or offer third party products or services on our website. The relevant third parties have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites.
+Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Data storage period
+We’ll retain your personal data for as long as we have a relationship with you and for a period of time afterwards where we have an ongoing business need (for example, to provide you with a service you’ve requested or to comply with applicable legal requirements) to retain it, in accordance with our data retention policies and practices. Following that period, we’ll make sure it’s deleted or anonymised.
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will post those changes on our site.
+Where a change is significant, we’ll make sure to let you know – usually by sending you an email.
+Security of personal information
+Security is a priority for us. We’re dedicated to protecting your personal data from misuse, interference and loss, and unauthorised access, modification or disclosure. Some of the measures we use are firewalls, physical access controls to our data centres, and information access authorisation controls.
+You acknowledge that the security of personal information transmitted over the internet cannot be guaranteed and that you do so at your own risk.
+Except to the extent, liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, the disclosure of, misuse of or loss or corruption of your personal information. Nothing in this privacy policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law.  Please notify us immediately if you become aware of any breach of security.
+Your rights
+You have rights relating to your personal data.  When it comes to marketing communications, you may follow the unsubscribe instructions contained in the marketing communication, or send a request to option out of receiving these communications to [email protected]
+You also have rights to:
+Withdraw consent or object to process. In certain circumstances, applicable law may allow you to object to our processing of your personal information.  Further, if you provided your consent to our processing of your personal information, you may withdraw such consent, though doing so will not affect the lawfulness of our processing based on consent before your withdrawal.
+Know and access what personal data we hold about you. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and general security. Subject to the exceptions set out under applicable law, you may obtain confirmation from us as to whether or not we process your personal information, and, if so, obtain access to the personal information we hold about you.  We may in certain circumstances charge you a reasonable fee to meet our costs in providing you with details of the personal information we hold about you.
+Correct your personal information. If you believe it is out of date, incomplete or incorrect, you may request that the personal information be updated or amended.
+Ask us to restrict processing your personal data or delete it. Under applicable law, you may also be entitled to request that your personal information be erased.
+You can exercise these rights at any time by sending an email to [email protected]
+Complaints
+If you believe that we have not dealt with your personal information in a manner that complies with privacy laws or this policy, please let us know by sending an email to [email protected] so that we can properly address and resolve your concerns. We take any privacy complaint seriously. We will review and investigate your complaint and get back to you in a timely and efficient manner.
+Additionally, complaints can be made to the Office of the Australian Information Commissioner (OAIC).
+OAIC – Contact Details
+Our contact details
+If you’re curious about what personal data we hold about you or you have a question or feedback for us on this notice, our websites or services, please get in touch.
+Any complaints, or requests for access to, or to correct or erase, or withdraw your consent or object to our processing of, personal information or any queries concerning privacy matters should in the first instance be put in writing via e-mail or post addressed to the following:  [email protected] .
+Alternatively, you may also write to us:
+Privacy Officer – Vanessa Marino
+PO BOX 2393
+Richmond VIC 3121
+ABOUT US
+Bitcoin Australia aims to deliver the best cryptocurrency service in Australia. We are ambassadors for Bitcoin and are proud to be developing the industry and technology. We promise to be a fair and objective source for the latest cryptocurrency news and educational content.

@@ -1,0 +1,44 @@
+1. Introduction
+We, the TeamViewer GmbH, take protection of your personal data very seriously and strictly adhere to the rules laid out by data protection laws.
+The following policy provides an overview of how we ensure this protection and what kind of data is collected for what purpose.
+2. Information about the Collection of Personal Data
+Below we provide information about the collection of personal data when using TeamViewer App (including but not limited to TeamViewer Host, TeamViewer QuickSupport and TeamViewer for Remote Control, hereinafter “TeamViewer App”). Personal data is any data that can personally reference you, such as your name, email addresses, user behavior.
+3. Provider Identification
+The service provider in accordance with § 13 Telemediengesetz (TMG) [German Telemedia Act] and the responsible body in accordance with § 3 para. 7 Bundesdatenschutzgesetz (BDSG) [German Federal Data Protection Act] is TeamViewer GmbH, Jahnstr. 30, 73037 Göppingen, Germany, for details see our imprint: https://www.teamviewer.com/imprint/ .
+4. Data Security
+We maintain technical measures to ensure data security, in particular to protect your personal data from threats when transmitting data as well as from third party access. These measures are adjusted according to the latest technologies.
+5. Collection of Personal Data for Use of the Product
+By using the TeamViewer App, TeamViewer collects data as it deems appropriate for the fulfillment of the contract. This includes, among other things, the TeamViewer ID as well as the last known IP address. TeamViewer does not collect any content data and due to end-to-end encryption, cannot access the contents of your connection. Details can be found under Section 6.
+6. Use of the TeamViewer App
+When you use the TeamViewer App, TeamViewer collects certain data which is necessary for us to provide our services to you.
+In the following we would like to give you an idea on which information is collected by TeamViewer and for what purpose.
+6.1 Information necessary for establishment of a connection
+First of all, TeamViewer collects data which is required to make it possible for us to establish a connection between devices over the Internet, such as the IP address and the TeamViewer ID.
+6.2 Information necessary for providing the service
+Moreover, TeamViewer aims to provide with its software a service which is easy and comfortable to use. This is why you are able to create an account and then consequently a contact list, notes etc. To be able to provide this kind of service, TeamViewer collects and saves the data you provide in the functions you choose to use.
+6.3 Requested permissions
+The permissions which the TeamViewer App requests are connected with the operability of functions in the TeamViewer App.
+Moreover, TeamViewer also request some permissions at installation to be able to create a device specific and unique TeamViewer ID to unmistakably identify your device for connections.
+7. Consent and Limits to Use
+When entering personal or business data (email address, names), the disclosure of your data is entirely voluntary. By entering this data, you indicate your consent that the entered data can be collected, processed, or used for the purposes of establishing contact, processing contracts, for advertising, or for the protection of our own legitimate business interests with regard to advising and supporting our customers and prospective customers. It will not be collected, processed, or used for any other purpose. This consent may be revoked with future effect at any time.
+Such data will not be transferred to third parties unless this is specifically requested by yourself. Companies affiliated with us (within the meaning of § 15 AktG [Aktiengesetzes; German Stock Corporation Act]) shall not be regarded as third parties.
+8. Data Transfer to Third Parties
+We can transfer your personal data to third parties if we offer participation in campaigns, contests, reservations, or contract agreements in conjunction with a third party. In this case, you will be informed specifically about the transmission to the third parties before your data is forwarded.
+In some cases, we use external service providers to process your data. We have chosen these providers carefully and have commissioned them in writing. They are bound by our directives and are regularly monitored by us. These service providers will not forward this data to third parties. Insofar as these service providers are located in the US, we will notify you of this in connection with the respective functions. This data processing is also carried out according to current law.
+9. Right to Obtain Information and Revocation
+You have the right to request information from us about the data stored about you with us at any time, as well as to their origin, recipients or categories of recipients to whom this data is transmitted, and the storage purpose.
+If you have given consent for the use of data, you can revoke this consent at any time.
+All requests and inquiries for information or objections for data processing should be sent by email to dataprotection@teamviewer.com or to the address specified in Point 3.
+10. Additional Information
+Your trust is important to us. That is why we are always available to talk with you at any time and answer any questions concerning how your data is processed. If you have any questions that could not be answered by this privacy policy or if you wish to receive more in depth information about any topic within it, please contact the Data Protection Officer at any time at: dataprotection@teamviewer.com .
+11. Address
+E-Mail: Email Service
+Get Started Now! It's free for personal use or as a trial version for business users. Download TeamViewer
+Privacy Policy
+Newsletter Subscription
+By subscribing I hereby consent to receiving emails from TeamViewer GmbH in relation to product information, offers, and general marketing. Details of the processing of your personal data are explained in the Privacy Policy.
+Language Selection
+English
+Uninstall       Imprint       Privacy Policy       EULA       Cookies       Sitemap
+We use cookies and plug-ins to enhance your online experience, analyze our marketing efforts, and provide offers through advertising, marketing, and analytics partners. Browsing our website means you consent to the usage of cookies and plug-ins. For more information, see our privacy policy and cookie policy.
+I accept

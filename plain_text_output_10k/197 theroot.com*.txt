@@ -1,0 +1,48 @@
+Last updated on April 2, 2018
+This Privacy Policy discloses the Root Insurance Company (“Root”, “us”, “we”, or “our”) privacy practices for www.joinroot.com (“Website”, “Site”) and the Root mobile application (the “App” — see Root App End User License Agreement ). This Privacy Policy applies to information collected by the Site and the App, and is intended to generally notify you of the following:
+What information we collect
+Your options and choices
+By using the Site or App you agree to this Privacy Policy and the collection and use of information contemplated its terms. This is Root’s entire and exclusive Privacy Policy, and it supersedes any earlier version. This Privacy Policy applies to information we collect from all sources. If you feel that we are not abiding by this privacy policy, you should contact us immediately at [email protected] .
+What information we collect
+Our app.For users of our App, we gather personally identifiable information from you and from outside business partners for business purposes. Personally identifiable information we collect from you includes your:
+Name
+Family Member Information
+Also, we maintain records that include, but are not limited to, insurance policy coverages, premiums, and payment history. The information we collect from outside business partners may include, but is not limited to, your driving record, claims history, and credit information. If through the App you have granted Root permission to do so, we will gather certain telemetric data, such as, accelerometer, GPS and gyroscope data, off your mobile device and continue to monitor your device activity until otherwise notified.
+Additionally, the App and/or our business partners gather information through Internet activity, which may include, for example, your operating system, your phone carrier, your second-by second-movement, and interactions with other features within the mobile device while the App is installed.
+We store this information in an encrypted environment.
+Also note that because the Application incorporates Google Maps/Google Earth, you are also bound by the
+How we use and share your information
+Root is the sole owner of the information collected from you on the App and Website.
+We collect information that you voluntarily give us via sign-on process or other direct contact from you.
+We will not sell or rent this information to anyone.
+We will use your information to respond to you regarding the reason you contacted us.
+Unless you ask us not to, we may contact you via email, push notification, in App promotions in the future to tell you about specials, new products or services, or changes to this privacy policy.
+The App gathers and combines data from the mobile device for the purpose of analysis and risk evaluation as well as for premium/rate calculation. A discount and/or reward may be applied to the policy premium based on the accumulated driving data in accordance with the rules and rates on file with the state insurance department where your vehicle is garaged.
+Data may be disclosed to third parties as required by law or regulation.
+Data from your mobile device may be deemed discoverable by third parties and used in an accident investigation and⁄or litigation.
+The App may be legally required to provide the data to others and ⁄or their legal counsel, and you should not expect to retain data privacy or confidentiality.
+Root will not disclose or use data obtained from the device to resolve any claims you or another driver of your vehicle may make with us. We will only use data obtained from the device for resolving a claim if you make a specific request to us in writing, asking us to consider the data.
+We may also provide certain information to insurance regulators to support rate or other insurance-related filings.
+We will share your information with business partners as necessary to fulfill your requests.  This would be done as required or permitted by law. For example, we may do this to:
+Fulfill a transaction you requested or service your insurance policy
+Market our products
+Handle your claim
+Participate in insurance support organizations
+Send you push notifications
+The persons or organizations with whom we may share your information may include, among others:
+Your insurance agent, broker or affiliated companies
+Companies that perform services, such as marketing, credit/debit card processing, and communication services on our behalf
+Business partners that assist us with tracking driving behavior, scoring, usage
+Other financial institutions with whom we have a joint marketing agreement
+Other insurance companies that play a role in an insurance transaction with you
+Independent claims adjusters
+A business or businesses that conduct actuarial or research studies
+Those who request information pursuant to a subpoena or court order
+Repair shops and recommended claims vendors
+How we secure and retain your information
+Root takes precautions to protect your information. When you submit sensitive information via the Website or App, your information is protected both online and offline.
+Wherever we collect personally identifiable information, that information is encrypted and transmitted to us or by us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Our employees have access to personally identifiable information, but they are prohibited from using or disclosing information for any purpose other than performing their work for Root. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+Your options and choices
+By having an insurance policy with Root, you give us your consent to contact you with communications relating to your policy and our services.
+Review or correct your information.You can request to review personally identifiable information you have provided to Root.  This does not include information about  you that was provided to Root by business partners or your telematics data collected with your permission.  To do this please send an email to [email protected] requesting to review the information you provided us. If you believe that our information is incomplete or inaccurate, you can request that we correct it. Please note we may not be able to provide information relating to investigations, claims, litigation, and other matters. We will be happy to make corrections whenever possible. We will respond to all such requests within a reasonable timeframe.

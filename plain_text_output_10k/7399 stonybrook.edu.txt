@@ -1,0 +1,33 @@
+Stonybrook.edu Privacy Notice
+At the Stony Brook University, we are committed to protecting your privacy and making                   it easier and more efficient to interact with the University. We recognize that it                   is critical for individuals and businesses to be confident that their privacy is protected                   when they visit this web site. You can travel through most of this web site without                   giving us any information about yourself. Sometimes we do need information to provide                   services that you request, and this commitment of privacy explains our online information                   practices.
+WHAT WE COLLECT AND WHY
+When you visit this web site, the University may automatically collect the following                   information about your visit:
+The Internet Protocol address of the computer that accessed this web site
+The type of browser, its version, and the operating system on which that browser is                      running
+The web page from which the user accessed the current Web page
+The date and time of the user's request
+The pages that were visited and the amount of time spent at each page
+The information that is collected automatically is used to improve the content of                   this web site and to help Stony Brook University understand how users are interacting with its web site. This information is collected for statistical                   analysis and to determine what information is of most and least interest to our users. The information is not collected for commercial marketing purposes and Stony Brook                   University is not authorized to, and does not, sell or otherwise disclose the information                   collected from this web site for commercial marketing purposes.
+DISCLOSURE OF INFORMATION COLLECTED THROUGH THIS WEB SITE
+The collection of information through this web site and the disclosure of that information                   are subject to applicable privacy regulations that may vary based on the location                   of the user. Stony Brook University will only collect, process, or disclose personal information through this web site if a lawful basis exists for the activity.
+RETENTION OF INFORMATION COLLECTED THROUGH THIS WEB SITE
+The information collected through this web site is retained by Stony Brook University                   in accordance with the records retention and disposition requirements of the New York                   State Arts & Cultural Affairs Law. Learn More
+CONFIDENTIALITY AND INTEGRITY OF PERSONAL INFORMATION COLLECTED THROUGH THIS WEB SITE
+Stony Brook University is strongly committed to protecting personal information collected through this web site against unauthorized access, use, or disclosure.                   Consequently, Stony Brook University limits employee access to personal information collected through this web site to only those employees who need access to the information                   in the performance of their official duties.
+In addition, Stony Brook University has implemented procedures to safeguard the integrity                   of its information technology assets, including, but not limited to, authentication,                   authorization, monitoring, auditing, and encryption. These security procedures have                   been integrated into the design, implementation, and day-to-day operations of this                   Web site as part of our continuing commitment to the security of electronic content                   as well as the electronic transmission of information.
+For web site security purposes and to maintain the availability of this web site for                   all users, Stony Brook University employs software to monitor traffic to identify unauthorized                   attempts to upload or change information or otherwise damage this Web site.
+COOKIES
+Cookies are small pieces of information that are stored by the user's browser on the hard drive of the user's computer. This web site uses cookies for some of its applications. Cookies are not                   used to track the usage patterns of individual users.
+LINKS TO OTHER WEB SITES
+This site may contain links to other web sites not affiliated with Stony Brook University.                   We are not responsible for the privacy practices of these other sites. We encourage                   you to read the privacy statements of other sites for assurance that their practices                   safeguard your privacy.
+DISCLAIMER
+The information provided in this privacy notice should not be construed as giving                   business, legal, or other advice, or warranting as failproof, the security of information                   provided through this web site.
+DEFINITIONS
+The following definitions apply to, and appear in italics, in this notice:
+Personal information: For purposes of this notice, “personal information” means any information relating to an identified or identifiable natural person.                   An identifiable natural person is one who can be identified in particular by reference                   to an identifier such as a name, number, location data, an online identifier, or to                   one or more factors specific to the physical, physiological, genetic, mental, economic,                   cultural, or social identity of that natural person.
+User shall have the meaning set forth in subdivision 8 of section 202 of the State Technology                   Law.
+CONTACT INFORMATION
+For questions regarding this web site privacy notice, please contact privacy@stonybrook.edu
+The Campaign for Stony Brook
+Together we go far beyond. Join Us
+Main Nav

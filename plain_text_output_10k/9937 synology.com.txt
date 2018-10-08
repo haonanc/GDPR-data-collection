@@ -1,0 +1,180 @@
+We use cookies to help us improve our webpage. Please read our Cookie Policy .
+August 2018
+We have updated the description under Marketing Events and Promotional Events section. We have more precisely defined the range of data collection during the registration for marketing events and promotional events.
+May 2018
+We have updated the entire document to clarify and reflect our latest stance on safeguarding user privacy. We have included the many services that are provided into one document to minimize redundancies and improve transparency.
+Introduction
+Synology holds itself to high standards in handling and processing personal information. The statement outlined below establishes the boundaries of what Synology processes and what you, as our customer and the data subject ("users"), are entitled to. This Privacy Statement applies when you use our features and services ("services"). Additionally, we have a Cookie Policy for use of our website.
+Synology operates around the world and has adopted English as the controlling language of this Privacy Statement. Additional translations are provided for convenience. You may switch to other languages by using the language selection button at the bottom of the webpage.
+Your Personal Data
+Personal data refers to identifying information that relates to an individual. Identification can be by the data alone or in conjunction with any other data in the data controller's possession or likely to come into such possession. Synology collects information only to provide you with services that you opted into. In order to provide you with our products or services, including responding to your inquiries, we may ask for your personal information. If you choose not to provide the requested information, we may be unable to deliver the desired services. Most of Synology's services are provided under a Synology Account, and if you no longer require the service or wish to have your data removed, you may delete your Synology Account.
+Examples of data we collect and store include:
+Your e-mail address, which is used as identification for our services and as the primary communication method.
+Your name, address, phone number, and additional contact information are used to provide registration, device shipping, and billing verification services.
+Your payment method (credit card, bank account number, etc.), which is used for payment transactions for a service or product.
+Your IP address and unique device identifiers are used for fraud prevention, security purposes, for warranty registration, support services, and for transactions.
+Other information that you provide to us through digital or physical means may be stored on a case-by-case basis depending on the reason it was provided.
+For more specific information on the data collected and ways they are stored, please refer to the Services section.
+Non-Personal Data
+Synology may collect additional information that, by itself, cannot be used to identify any specific individual. This information is used to help facilitate our business operations. For example:
+Device analytics are opt-in and used to understand how our users interact with our products and services. Information collected cannot be used to identify our users nor the data that they store on their devices. Refer to the Services section for more information.
+We collect single-session information from our users when they browse our website, including help articles, to understand which topics are more important and if the content is relevant to our users or potential customers. Read our Cookie Policy .
+Lawful Bases and Other Usage
+Synology only collects and processes personal data for which you give consent when it is necessary for the performance of a contract with you to provide a specific service, or in certain "legitimate interests" cases, that do not outweigh your rights and freedoms.
+Situations necessitating such actions may include to protect you, us, or others from security threats, to comply with laws we are subjected to, and to perform auditing.
+Synology may share your information with third parties only with your consent or for performance of contract. Synology does not share your personal information with third parties for the purpose of direct marketing.
+Data Controllers, Contracting Parties, Transfer of Data
+We use the term "Designated Countries" to refer to countries that are in the European Union (EU), European Economic Area (EEA), and Switzerland.
+If you reside in Designated Countries, Synology GmbH ("Synology Germany") will be the controller of your personal data. Synology Germany would be responsible for collecting, and processing data per our services, which will be covered by the Terms of Service of the relevant service.
+For users residing outside of Designated Countries, Synology Inc. ("Synology Taiwan") will be the controller of your personal data. Your usage of services provided by Synology will be bound by the Terms of Service of the relevant service.
+Synology's services include providing technical support, device replacement, payment services, event registration, as well as the transfer of data based on users' decisions, around the world. The nature of these services require us to be able to transfer data into and out of the European Union (EU) to Synology subsidiaries, affiliates, authorized repair and support centers, authorized logistics companies, communications infrastructure, and other entities deemed necessary to carry out providing these services. Synology safeguards EU personal data when transferred out by adopting European Commission-approved Standard Contractual Clauses as a legal mechanism for data transfers to locations the European Commission have not deemed to have an adequate level of data protection.
+Your Rights to your Personal Data
+Synology's services are generally provided on an opt-in basis, with required and collected information differing on a per service basis. Unless subject to an exemption, you will have the following rights with respect to your personal data:
+The right to delete data: You can ask us to delete data for which we no longer need in order to provide service to you.
+The right to correct or change data: You can modify your contact information through your Synology Account. You can also ask us to change, update, or fix data that are incorrectly presented and unable to be changed by yourself.
+The right to object or restrict use of data: You can ask us to stop or limit the usage of some or all of your personal data that we no longer need, in order to provide service to you, or have legal rights to retain.
+Right to access: You may request a copy of your personal data that we have at the time.
+You may make these requests by submitting a request through your Synology Account or through our website . Upon receipt, we will evaluate your request and inform you how we intend to proceed. Under certain circumstances, and according to applicable European Union or European Union state laws and regulations, we may withhold access to your data, or decline to modify, erase, port, or restrict the processing of your data. Synology will respond to your request within thirty days after receiving it.
+Services
+This Privacy Statement applies to Synology-provided services offered on Synology.com, Synology-branded applications, services provided from physical Synology products ("Synology Devices"), and digital or physical services directly offered by Synology unless stated otherwise. A list below details the characteristics of Services provided.
+Synology Account
+By creating an account, you can gain access to multiple Synology services, such as QuickConnect, Synology DDNS, and Technical Support. We collect basic information from you to help facilitate communications and provide services to you.
+Synology does not use this information for any other purpose.
+Synology does not share this information unless otherwise specified for the particular service.
+Information about specific functionalities is listed below.
+You may delete your Synology Account at any time. However, we may be unable to provide you certain services afterwards. Account deletions, including all the associated data with the specified account, are irreversible. Synology may retain certain data in order to fulfil our legal obligations, which differ on a per service basis.
+Package Center
+Synology collects package download information from your Synology device in order to help us understand how we can better improve our devices and software. The data we collect does not contain information that can identify you, the user. When a Synology device issues a download request to Package Center, Synology's database will record the action with a unique ID. This ID is used only to identify download activity in Package Center. None of this information contains any of your personal information or metadata pertaining to your files. Package Center does not track or record your device's serial number, MAC address, or IP addresses for uses that do not require additional licenses. For more information please refer to Package Center's Terms of Service .
+Licensing
+Purchasing package licenses, whether a single purchase, subscription-based, or in-app purchase, requires a Synology Account*. We will collect certain information from your Synology device for licensing purposes, including product serial number, IP address, MAC address, and registered Synology Account. We store this information to verify your license when it is applied to a Synology device.
+Activating and updating packages will usually require an Internet connection to our servers. We identify your Synology device with a unique device ID.
+For record keeping and future troubleshooting, we may keep track of information such as whether the update was successful or not. We may use the information collected through activation or updates to validate your license status.
+Synology only shares aggregated statistics that does not contain personal information to our partners, licensors, and licensees.
+Applicable to:
+Synology-published
+Active Backup Series (Active Backup for Business, Active Backup for Office 365, Active Backup for G Suite), exFAT Access, McAfee Antivirus, MailPlus Server, Presto File Server, Virtual DSM, Virtual Machine Manager Pro, and VPN Plus.
+*Surveillance Station licensing does not require a Synology Account
+Third-party
+Third-Party Packages
+Synology Package Center is a platform that enables other developers to publish their applications for use on Synology devices. Packages distributed or published by third-parties may collect additional information regarding you or your device. Synology requires third-party developers to be transparent about all practices. However, Synology does not control or have the capability to completely verify claims, nor is Synology responsible for any practices performed by third-party packages. When you install third-party packages, you should read and understand the end user license agreements (EULA), privacy statements/policies/notices, and terms of use/service that may be presented to you.
+Users should contact the third party directly for any questions or problems you have in using third-party packages.
+Certain third-party packages may utilize Synology's Package Center for payment services. Synology will collect the same information as listed in the "Payment" section. Synology does not disclose your personal information to third-parties and only presents the information as an aggregated figure.
+Third-party packages may include their own subscription or payment services that are not controlled by Synology.
+Synology only shares aggregated statistics that do not contain personal information to third-party developers.
+Payment
+Data we collect
+To make a purchase, Synology will collect information you provide, including your name, billing address, phone number, IP address, client user-agent, VAT, and payment method to process the transaction. Synology does not directly handle your payment method, such as your credit card number and CVC.
+How we use your data
+Synology uses third party processors to securely handle your payment method and to calculate and report taxes. Synology only uses information we collect from the payment process to complete transactions, generate receipts, report taxes, and for financial and legal auditing purposes. We do not share or use this information for any other purpose.
+How we store your data
+Your purchase history, even if refunded or canceled, will be stored for a minimum of four years per legal requirements imposed on Synology and its subsidiaries. Synology will retain this history, including your billing information, for an indefinite period in the following situations; If the order contains a perpetual license, a license renewal, a physical item, extended support, or is needed for financial or legal purposes. Our payment processors and tax reporting providers may additionally be subjected to other legal obligations.
+Synology generates a receipt that is made available on your Synology Account for each transaction.
+By deleting your Synology Account, you will be forfeiting all purchased licenses. Synology will remove your transaction history after the minimum storage period based on our legal obligations.
+C2
+Data we collect
+Synology C2 service is an online backup destination designed exclusively for Synology devices. C2 service requires a Synology Account. We collect payment information from you to clear the transaction and provide the service to you. You should refer to the "Payment" section for more information.
+Synology C2 stores data that you upload from your Synology device. You may choose to encrypt this data prior to uploading it.
+How we use your data
+Synology only uses data you provide to us to offer you the service. We do not analyze or access the data you upload.
+How we store your data
+Synology C2 service supports full encryption of your files. Your files will never be accessed by our engineers unless a specific technical support request is made by you and requires us to do so. Your data is stored until the end of your subscription. A "grace period" is defined by the Synology C2 GTC . If you choose to delete your Synology Account, your data and subscription status for Synology C2 will be forfeited and removed.
+Device Analytics
+Device analytics, or usage information sharing, is an opt-in* option that you may enable in Synology's DSM or SRM operating system.
+*After May 22, 2018, Synology no longer collects data from DSM versions 6.1.6 or earlier, 6.2 Beta and Preview versions, or any SRM 1.1.x versions even if the option is enabled.
+Data we collect
+Synology collects usage information from your Synology device in order to help us understand how we can better improve our devices and software. The data we collect does not contain information that can identify you, the user. Your device will send to us, for example, information on the settings of the operating system and packages. Additionally, we may collect information on how you interact with certain functionality or user interface elements. None of this information contains any of your personal information or metadata pertaining to your files. Synology device analytics does not track your device's serial number, MAC, or IP addresses.
+How we use your data
+Synology encrypts the raw data received and then analyzes it to produce human-readable results. The raw data is never shared with any third parties. Synology engineers and product management teams may utilize aggregated information to analyze usage trends to make informed decisions on our future products, applications, and services. In very select cases, Synology may elect to share a very small subset of these aggregated statistics with select partners. The information we share with partners are strictly aggregated results and anonymous.
+How we store your data
+Synology employs industry-standard encryption practices to safely protect your raw data. Even in the event of a breach, the data collected cannot be used to identify you or your device. Synology retains device analytics data for up to three years in order to generate useful statistics. Synology restricts access to both the raw and aggregated data by specific employee roles.
+Synology cannot readily identify the device from which the information is collected. If you would like to remove the data that your device sent to Synology, we will request you to execute an application on your Synology device in order for it to generate a device-identification key. This key will be used to search for the information your device has sent.
+Device Network Mapping
+Data we collect
+By enabling this service, you can easily find Synology devices on your network in order to connect to them. Synology will use devices that enabled this option to scan your local network when you access "find.synology.com" or "router.synology.com" to list devices on your network. If you disable this option, you will be unable to find devices that have already been setup unless you remember their IP addresses or have already setup your own domain and/or QuickConnect or Synology DDNS service. Synology stores your devices' public and private IP addresses and your devices' Serial Number.
+How we use your data
+Synology only stores information to help you easily identify devices on your network when you access "find.synology.com" and "router.synology.com". Synology does not use this information for any other purpose. We do not share this information.
+How we store your data
+Unless there is a technical issue with the system or per technical support request, Synology employees do not have access to the database. Data collected by this method are automatically deleted after six months of inactivity.
+Marketing Events and Promotional Events
+Data we collect
+Synology hosts events such as webinars, workshops, and product launches. You can sign up to join one of these from Synology's website. Registration may require a Synology Account, as well as additional survey information depending on the event. Synology collects, and stores information related to you that is available from your registration and from the survey.
+Some events may be hosted by a third party. With your consent, event hosts may share event attendees' information to their sponsors. In events where Synology is a co-host or sponsor, we may receive participants' information from event hosts.
+Some events may have registration fees, payment methods and personal information processed by Synology will be handled per the Payment section.
+How we use your data
+Synology may contact you through email or other communication protocols with information regarding the registered event and/or about service-related issues.
+How we store your data
+Your information is securely stored and only available to event organizers. Synology retains event participation information for at least four years due to legal obligations that are imposed on Synology and our subsidiaries. The actual storage period may differ depending on the host(s), venue, location, and type of event.
+If you would like to remove your information after the event, you may choose to delete your Synology Account. As some information is required for certain events, this may limit our ability to provide services or allow you attendance. You may also elect to unregister from the event if you no longer wish to attend.
+For events hosted that do not require a Synology Account, please contact Synology.
+Synology may request additional information to confirm your identity.
+QuickConnect and Synology DDNS
+Data we collect
+QuickConnect and Synology DDNS are free connection services provided by Synology. Users who wish to utilize these services must have a Synology Account. Synology collects certain information from your Synology device, including product serial number, IP address, and routing ports in order to provide the services to you.
+How we use your data
+Synology uses the collected data to identify, authenticate, and provide Synology devices with QuickConnect and/or Synology DDNS service.
+Synology may be required to share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us.
+How we store your data
+Unless there is a technical issue with the system or per a technical support request, Synology employees do not have access to the database. Users who signed up for the services may end the service at any time. Data collected is deleted when the relevant Synology Account is deleted.
+Technical Support
+Data we collect
+You may request Synology Technical Support assistance through our website, live chat, or by phone. Submitting a Technical Support form requires a Synology Account. Synology collects and stores information that is needed to investigate, respond to, and resolve your technical support request.
+When you make a phone request to Synology's Technical Support hotline, our technical support agent will ask for your consent on phone recording at the beginning of the conversation. Your personal information, including name, email, telephone number, and detail on your Synology product will be recorded in our systems. You may view, track, respond to your Technical Support ticket via your Synology Account. If you don't have a Synology Account, Synology's technical representative will create a temporary account. You must enable it to track ticket status and to receive follow up information.
+In some cases, you may be requested to provide remote access information. Synology technical support agents together in some cases with Synology software engineers may utilize the credentials provided to directly access your device.
+When a device replacement or spare part is requested, you will be required to provide a valid shipping address. In certain cases, you may be asked to provide payment for support services, shipping charges, or spare parts.
+How we use your data
+When you submit a Technical Support form in your Synology Account, you are required to provide the essential product information that is needed to investigate, respond to, and resolve your technical support request. During the investigation, Synology may request additional information that is required to resolve the matter. Depending on the complexity and the severity of the request, the support ticket may be escalated to parties within Synology to investigate, respond to, and resolve your request. The information revealed to involved parties is strictly limited. Synology restricts access to both the raw and aggregated data by specific employee roles.
+Synology only uses information we obtain from technical support requests to resolve your issue. After removing your personal information, we may use some of the technical details to generate bug reports if the problem was previously unknown to implement a solution for our products.
+If shipping is required, your shipping address and contact information may be passed to third-party logistics partners.
+How we store your data
+Synology restricts access to both the raw and aggregated data by specific employee roles.
+When you upload files for your support ticket, Synology will retain them for up to 90 days after the ticket has been resolved.
+When you provide remote access information, Synology will retain it until the ticket has been resolved.
+Synology keeps communication records and survey records for a minimum of three years for internal auditing and statistical purposes. If you wish to remove your personal information from our systems, you may choose to delete your Synology Account. We may choose to retain technical details of the problem, such as steps to reproduce it, the technical details of the environment, and what steps were taken to resolve it.
+Synology will keep all shipping records for internal auditing and inventory control purposes indefinitely.
+Synology Application Service
+Data we collect
+Synology Application Service collects the message contents you create in MailPlus, Synology Chat, and other supported applications and transmits them to Synology SNS server and push services of Apple, Google, or Mozilla, in order to notify the recipients about new messages on browsers or mobile apps. Additionally, the browser and device information of client devices will be collected and transmitted to Synology SNS server and third-party push servers. This is done to pair the message content with the correct device. None of this data contains any of your personal information, and Synology does not track your device's serial number, MAC addresses, or IP addresses.
+How we use your data
+All the message contents transmitted to Synology SNS server and third parties are encrypted by Synology Application Service, ensuring your personal data is not accessible to others. The browser and device information of client devices is only used for pairing.
+How we store your data
+All the data collected by Synology Application Service will be removed immediately on Synology SNS server after they are transmitted to the third-party push services, so no data will be stored by Synology.
+Push Notifications
+How we use your data
+Synology uses the information collected from your devices in order to complete the push notification process from source to destination. The notification from DSM/SRM/Surveillance Station will be kept for seven days, for recalling previous notifications.
+How we store your data
+The record used to identify the NAS is stored permanently. The NAS cannot be identified from the transmitted information. Notifications are discarded after being sent, excluding the seven-day retention period on the NAS.
+Mobile Applications
+Data we collect
+Synology collects operating system information from your mobile device in order to help us customize content for particular devices, if you enable usage data sharing or device analytics on your Synology device. The data we collect does not contain information that may identify you, the user.
+Synology collects device information from mobile apps supporting push notifications (app name, app version, and the push notification message). Please refer to the Push Notification and/or Synology Application Service sections for more information.
+How we use your data
+Synology leverages aggregated application statistics from iOS or Android store platforms to better understand our user distribution. You can opt out any time by updating your preferences in the settings of the iOS or Android devices.
+How we store your data
+Please refer to Push Notifications and/or Synology Application Service sections.
+Alexa Services
+Data we collect
+Synology collects the address and OAuth information of your Synology device, in order to authorize your NAS to complete the account linking process required for the Amazon Alexa service.
+How we use your data
+Synology only stores information to authorize the Amazon Alexa service to access your NAS content, such as by enabling the Audio Station Skill to allow Amazon Alexa access your music in Audio Station. Synology does not use this information for any other purpose. We do not share this information.
+How we store your data
+Data collected by this method are automatically deleted after six months of inactivity.
+Security
+Synology employs multiple methods of data protection in order to minimize the risk of misuse, unauthorized access and disclosure, and loss of access. Some of these safeguards include the use of pseudonymization, data encryption, data hashing, and other technologies and permission control methods. When our employees directly handle, or access your personal information, we do so on secured networks and through fine-grained permission control to limit who can access your information. Data you provide to us is encrypted and stored on both third-party storage and on Synology-managed devices, depending on the service.
+Synology logs and stores IP addresses of both users to our web services solely for security purposes. This log is archived and then removed at irregular intervals depending on ongoing or existing security threats or investigations. If Synology has overwhelming evidence that certain IP addresses, users, or devices may be purposely damaging or hindering our operations or service quality, we may deny further services and/or report such behavior to relevant authorities.
+Synology removes data that is no longer required to provide services based on each service.
+Changes to Statement
+Synology may make amendments to this document when needed to reflect statement updates, customer feedback, as well as new products or services. We will provide a brief overview of the changes, and if the terms modify the way we process or handle your data or affect your rights, we will notify you through direct message or by posting notices if we are unable to directly reach you. We encourage that you regularly review this Privacy Statement to understand how your data is handled.
+Data from Children
+Synology's products and services are targeted at professionals and are not designed nor intended to be used by children under 13 years of age. Synology does not typically collect date of birth information as it is not used by Synology. If children under the minimum age of the relevant jurisdiction must use Synology's products and services, explicit parental consent must be provided and verified. If Synology is notified or discovers that data collected is from a child under the minimum age, we will take procedures to delete the information as soon as possible.
+Do Not Track
+Synology does not track users to provide targeted advertising and therefore will not respond to Do Not Track (DNT) signals.
+Notice to End Users
+Certain Synology products or services may be managed or administered to you by organizations or other users. Your use of these managed Synology products or services will be affected by the terms or policies that are provided and dictated by the organization or service provider. Please direct inquiries in these instances to the administrator of the device or service. Synology will not be responsible for the privacy or security practices, including the lawfulness of practices for our customers as they may manage or implement our products and services in a manner that is no longer determined by Synology's policies or agreements.
+Contact Information
+You can directly contact us through your Synology Account , or by submitting a form on our website for privacy related questions or concerns. If you are unable to resolve the issue, you have options to exercise your rights as detailed in the previous Your Rights to your Personal Data section. Synology will respond to your requests within thirty days after receiving it.
+You may also contact Synology through the following addresses.
+For users residing in "Designated Countries":
+Synology GmbH
+For users residing in all other regions:
+Synology Inc.
+Taipei, Taiwan

@@ -1,0 +1,63 @@
+​​Division of Motor Vehicles (DMV) Privacy Notice
+Wisconsin has an Open Records Law​  (Wis. Stat. 19.31 – 19.39). This means the public has the right to access appropriate records and information collected by state government, including DMV records. The law recognizes the need to balance individual privacy with the public's right to access personal information from government records. Both state and federal law identify specific records and data that are confidential or that may be disclosed only for limited purposes.
+Privacy is of the utmost concern even with an open records law. DMV is committed to protecting personal information to the fullest extent possible by law. DMV only collects information necessary to deliver DMV services and products.
+Collection of personal information
+The DMV collects personal information from various sources to administer programs and issue products. For example, the DMV captures personal information from completed driver licenses, registration and title applications. When a driver license is issued, the DMV captures information defined as personal under the Federal Driver Privacy Protection Act (DPPA), which is protected, and additional information, such as date of birth, which is not protected under DPPA. If a person wants to be listed as a potential donor, the donor information is not protected under DPPA. The additional data collected is necessary to accurately record and retain complete and uniform customer records. Other sources used to collect personal data include traffic citation convictions, accident reports, court actions including judgments, and other DMV related license or registration actions.
+The Wisconsin DMV will not use or disclose personal information except as expressly authorized by state and federal legislation. Most data that DMV collects and retains is required by state and federal law, including the Federal Drivers Privacy Protection Act (DPPA). These laws control the release of the data.
+Request to withhold name and address ("Opt Out")
+The DMV "opt out" provision keeps personal information from being disclosed in files that contain more than 10 records. Someone may "opt out" by completing a Request to Withhold Name and Address form MV3592 ​. However, personal information will continue to be disclosed on individual requests filed under DPPA, and as authorized by Wisconsin statutes.
+Social security number
+State and federal laws require DMV to collect Social Security Numbers when issuing a driver license or other products. The Social Security Number is kept private and is not shared with requests submitted under DPPA or law enforcement. The only time a Social Security Number is provided to another agency is when legislation requires DMV to share it. Current law requires DMV to provide Social Security Numbers to the      Wisconsin Department of Children & Families​, if someone has not paid child support, and the Department of Revenue for unpaid taxes. In rare instances, a court may order DMV to provide the Social Security Number for a court proceeding and the federal government is authorized access to Social Security Numbers under commercial driver license (CDL) guidelines.
+Data protection
+DMV safeguards personal information and the integrity of its computer operating systems. Security measures are integrated into procedures for data collection, during system design and implementation, and day-to-day practices. Personal information is protected from dissemination, tampering, theft and unauthorized disclosure.
+Available information
+Accidents, most conviction data, and the status of operating privilege are considered open records and not protected by state or federal legislation as personal identifiable data. State law (Wis. Stat. 343) includes additional restrictions and limits disclosure of some driver license related data including certain juvenile convictions, signatures, photographs, ID card data, and medical information that extends beyond the DPPA. That means Wisconsin will not disclose the Social Security Number, photograph, ID card file, medical information, or signature from a driver record without court or law enforcement intervention. However, the signature is not protected on vehicle records and would be available under a DPPA request.
+Personal identifiable information defined
+ 
+An individual's photograph
+9 digit zip code (but not 5 digit zip code)
+Any signature collected under Wisconsin Statute Chapter 343 (operators' licenses)
+Date of birth
+ 
+Note: Although federal legislation allows access to some highly restricted data elements, Wisconsin legislation is more restrictive. Thus, Wisconsin DMV does not release these. 
+Federal Driver Privacy Protection Act (DPPA) criteria
+To access personal identifiable information, the entity or person requesting the information must comply with DPPA by completing a Vehicle/Driver Record Information Request  MV2896  i​ndicating what ​authorizes the data release.
+The DPPA is enforced by the U.S. Department of Justice, which may seek civil and criminal penalties for improperly obtaining, disclosing, or using personal information from a motor vehicle record for a purpose not permitted by the DPPA. This includes civil penalties for state motor vehicle departments having a policy or practice in substantial noncompliance with the DPPA.
+Federal law (DPPA) requires DMV to disclose personal information for the following uses relating to:
+Motor vehicle or driver safety and theft
+Motor vehicle emissions
+Performance monitoring of motor vehicles and dealers by motor vehicle manufacturers
+The Automobile Information Disclosure Act
+The Anti Car Theft Act of 1992
+The Clean Air Act
+The federal law (DPPA) permits disclosure of personal information for use:
+By federal, state or local courts and law enforcement
+In connection with driver safety, theft, emission, product alterations, recalls, etc.
+In the normal course of business to verify accuracy of data, to prevent fraud by pursuing legal remedies against or recovering a debt or security against person
+In connection with any civil, criminal, or administrative court agency
+In research activities and for use in producing statistical reports so long as the personal information is not published, re-disclosed, or used to contact individuals
+In providing notice to owners of towed or impounded vehicles
+By licensed private investigation or security services
+By employers for CDL information
+In private toll operations
+If the requester has written permission of the person
+Specifically authorized under state law, if such use is related to the operation of a motor vehicle or public safety
+By an insurer or insurance support organization or self insured entity or its agency, employees or contractors for claims, anti-fraud, rating and underwriting
+Access to photograph and other personal information
+State law prohibits public access to photographs, but does allow law enforcement to obtain them.
+In some cases, DMV may also use or disclose personal information to other authorized state and federal government agencies, other state DMV's, as well as courts and law enforcement for the following purpose:
+Enforcement
+Individual versus business entity
+Personal identifiers apply to individuals, not business entities. Most business credentials, such as motor vehicle dealer license records are open to the public and not subject to DPPA. However, Wisconsin DMV does not disclose a Social Security Number from these files without court or law enforcement intervention.
+Data retention
+Vehicle records are available for a minimum of five years. Driver convictions for serious traffic violations, such as operating while intoxicated and great bodily harm, remain on the record for up to 55 years. Other convictions remain on the record for as little as three years (minor non-traffic related), while most convictions remain for five years or until all license revocation and suspension cases associated with the conviction are closed. Crashes are part of the record for four years, while damage judgments and safety responsibility claims remain part of the record for up to 20 years. Most withdrawal actions, such as cancellations, revocations and suspensions remain until the case is closed.
+To assure complete records, out of state convictions are added to DMV driver records the same as Wisconsin convictions. The driver violation descriptions are used, regardless of where the violation occurred.
+Business record retention criteria varies depending on the type of credential. For example, most motor vehicle dealer records are retained for five years, while third party CDL tester records are retained for two years.
+Penalties for inappropriate data disclosure
+DMV retains a record of persons or entities requesting records for three years. Authorized persons or entities obtaining DMV records can share that data for specific reasons, but must retain a five-year history of when and to whom personal data was provided. The DPPA prohibits DMV from disclosing personal information about any individual obtained in connection with a motor vehicle record without a properly completed DPPA form. DPPA includes federal criminal penalties for misuse of DMV data. Those federal penalties apply equally to state governments, state officials, law enforcement and all authorized recipients of the DMV information. In addition, Wisconsin law provides penalties for provision of false data and inappropriate dissemination of personal information under Wis. Stats. 343 - Wis. Stats. 341.
+Data integrity/correction
+DMV strives for accurate and complete data. This helps to reduce fraud and enhance system integrity.
+DMV must have written documentation verifying an error was made before it can correct a record. If the information was reported to DMV through a court action, please contact the reporting court for resolution. For example, if a traffic conviction includes incorrect information, contact the court to provide new information to DMV. The DMV record can be corrected only if the court provides documentation to change it. 
+File a complaint
+If you want to file a complaint because of unauthorized use or release of your personal DMV information in violation of the federal DPPA Drivers Privacy Protection Act, please contact one of the following:
+For more information:

@@ -1,0 +1,67 @@
+ 
+mene.com (the “Website”) is a website operated by Menē Inc.
+We always want our policies to be clear and easy to understand, so this policy offers a simple breakdown of how we handle your personal information in connection with our Website and services. This policy is incorporated into the Menē Terms of Use.
+By using our Website, you are consenting to being bound by this Privacy Policy.
+This policy sets out:
+How we use that information;
+Choices you have regarding the use of your personal information.
+A. What we collect
+We may collect personal information about you in various ways, such as when you provide it on our Website, apps, or social media channels; at our events; through surveys or via email, text messages, live chat, or phone. The types of personal information we collect may include:
+Contact information (such as your name, email and postal addresses, telephone number, and country of residence) that you provide by completing forms on the Website or on paper;
+Payment information (such as your card number, expiration date, authorization number or security code, delivery address, and billing address);
+Customer service information (such as customer service inquiries and comments);
+Photographs, comments, and any other content provided by you;
+Demographics and contact preferences;
+Information that you submit through the Website;
+Geolocation information;
+Information we may obtain from third-party service providers.
+When you sign up for our newsletter, or marketing materials, we collect your email address and name.
+As is true of most websites, but subject to your browser settings, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+The providers of third-party apps, tools, widgets and plug-ins on our websites and apps, such as Facebook “Like” buttons, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of the features and is subject to the privacy policies or notices of these providers. To the extent permitted by applicable law, Menē is not responsible for these providers’ information practices.
+B. How we use your personal information
+We may use the information set out above to:
+Create and manage your account with us;
+Verify your identity and protect against, identify, and prevent fraud and other unlawful activity, claims, and other liabilities;
+Assist us in responding to your enquiries;
+Provide Menē products and services to you;
+Process your payments;
+Communicate with you about, and administer your participation in, special events, contests, programs, offers, surveys, and market research;
+Operate, evaluate, and improve business, including developing new products and services;
+Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations, and our policies;
+Other purposes in respect of which you will be notified at the time of collection.
+When you contact Menē, we may keep a record of your communication to assist us and you in ensuring that you get the best from our services.
+C. How we share your personal information
+From time to time, we engage unaffiliated third parties and their affiliates, agents, and subcontractors ("Service Providers") to perform certain technological or administrative services. In some cases, a Service Provider will be collecting your personal information from other sources on our behalf to fulfil the purposes set out in section B. We also may use a Service Provider to host and administer one or more of our Websites, process and store data, and fulfil similar technology-related functions on our behalf. In these circumstances, the personal information that the Service Provider receives is limited to the personal information needed to render their service to us.
+In certain cases, we may also share some of the personal information we collect with carefully selected business partners, who are first required to sign an agreement that obligates them to keep the information confidential and secure, and prohibits them from using it for unauthorized purposes.
+We may disclose personal information without notice to you if a law, regulation, search warrant, subpoena, court order, or regulatory notice permits or requires us to do so. We may also disclose personal information without notice to you to prevent fraud or abuse, or to protect the rights, property, or personal safety of Menē, its customers, employees, service providers, or the public.
+Menē will treat as confidential all information it holds in relation to a customer where that information is not in the public domain. Subject to this clause, Menē will not disclose such confidential information to third parties.
+We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We will not sell, rent, loan, trade, or lease any personal information collected, including application forms, financial data, or email addresses. Menē may ask for your permission by email to disclose your personal data to service providers not affiliated with Menē, but you have the right to refuse.
+We may provide your personal information to companies that deliver services to help us with our business activities such as emailing newsletters or offering client service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We will disclose otherwise confidential personal data and confidential information if we are compelled to do so by laws and regulations applicable to us and/or our agents, whether in the U.S., Canada, or elsewhere.
+D. How we communicate with you
+Communications between you and Menē may be conducted via live chat, email, mail, phone, fax, text message, or by other online or electronic means. Any instructions that you give to us in any such manner will have the same legal effect as if you gave them to us in original written form. You agree that all telephone calls and electronic communications may be recorded and kept by us as a record of your instructions. You also agree that we may contact you electronically in response to a request, inquiry, or complaint, as otherwise solicited by you, or as permitted or required by law.
+We may also communicate with you from time to time electronically about news, promotions, special offers and other information from Menē, regarding either Menē or its selected partners. If you wish to unsubscribe to marketing emails from Menē please contact service@mene.com . We will strive to honour your request as soon as possible, and in any event within the next 10 business days. Please note, however, that this request will apply only to marketing emails and not to certain account-based information emails which will continue to be sent to account holders. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them.
+E. Information Storage and retention
+We may process your personal information on a server located outside the country where you live, and such personal information may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Wherever we process or store your personal information we will, in addition to complying with all applicable laws and regulations in that jurisdiction, comply with this Privacy Policy.
+Your information may also be processed by employees or consultants of the Group who are located outside of the EEA. By submitting your personal data, you agree to this processing, storing, and transfer.
+If you have questions or comments about this Privacy Policy, please email us at privacy@mene.com .
+F. Cookies and Other Tracking Technologies
+Log Files
+As is true of most websites, but subject to your browser settings, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole.
+We do not link this automatically collected data to personally identifiable information.
+We reserve the right to use a third-party tracking service, Google Analytics, which uses cookies to track aggregate non-personally identifiable information about visitors to our site such as number of visits, searched pages and browser type to improve our website and client experience.
+Cookies
+Cookies are small pieces of information which are placed in your computer’s memory when you visit a website. Menē uses cookies to recognize you as a repeat visitor, to identify your browser type, to keep track of online patterns and preferences in order to better understand you as a customer, and to improve the quality of the Website and our services. When you enter our Website, our servers (or those of our Service Providers) will recognize your computer but not who is using it. However, by associating the identification numbers in the cookies with other customer information when, for example, you log into your account, we know that the cookie information relates to you.
+It is always open to you to modify your web browser settings to prevent the placing of cookies or to notify you each time a cookie is set. The website www.allaboutcookies.org contains additional useful information on how to block or control cookies using different browsers. However, by blocking or deleting, you may not be able to take full advantage of Menē’s services.
+The Website may allow you to interact with plugins from social media sites such as Facebook, Twitter, YouTube, or Instagram. In such cases, there may be a flow of your personal information between Menē and such social media sites. Your use of these plugins will be governed by each site’s privacy policy and not this privacy policy. We encourage you to become familiar with each site’s privacy and security practices and policies before enabling such plugins.
+Remarketing
+Menē may use, through its Website, Google AdWords and AdRoll remarketing services to advertise on third-party websites (including Google) to previous visitors to the Website. Google AdWords is a remarketing and behavioural targeting service provided by Google. It connects activity on www.mene.com with the AdWords advertising network.
+Google AdWords remarketing displays relevant advertisements to you based on pages of the Website that you have viewed by placing a cookie on your computer. This cookie does not identify you or give us access to your computer. The cookie allows us to show you relevant advertisements across the Google Advertising Network based on your previous browsing of the Website.
+Any data that we collect will be used in accordance with this Privacy Policy and Google's privacy policy.
+You can opt out of Google AdWords Remarketing by visiting:
+G. Changes to this policy
+It may become necessary to change the terms of this Privacy Policy from time to time. We reserve the right to change this Privacy Policy as necessary to comply with law or for legitimate business purposes. By continuing to use Menē’s services, you agree to be bound by the updates to this Privacy Policy. Please check back frequently; you will be able to see if changes have been made by looking at the top of the Privacy Policy for the date it was last updated.
+Customer Service
+ 

@@ -1,0 +1,56 @@
+Here's why you've been getting so many privacy policy and terms of service updates lately | Popular Science
+Here's why you've been getting so many privacy policy and terms of service updates lately
+Thanks the General Data Protection Regulations (GDPR) for the recent assault on your inbox.
+By Stan Horaczek posted Apr 26th, 2018 at 12:42pm
+The GDPR inbox influx
+You're probably seeing a lot of these in your email right now.
+Stan Horaczek
+Right now, many of the big websites, services, and apps you use are rushing to get their new privacy policies and terms of service in order. You’ve probably noticed all the notifications about it popping up on your phone and in your email. Just this week, we’ve seen messages from Etsy, Instagram, GoDaddy, Squarespace, Square, LinkedIn, Strava, SoundCloud, and just about any other app that requires you to sign up for an account. The driving force behind this change is Europe’s new General Data Protection Regulations (GDPR), which has been approved since 2016, but goes into effect on May 25, 2018.
+GDPR is a massive overhaul of privacy on the Web laid out over the course of a 261-page document that you can read here if you’re feeling studious. The recent wave of privacy policy and terms of service notifications, however, mostly stem from a part of the regulation regarding consent and taking steps to prevent companies from opting users into terms that are hidden within monstrous legal documents that most people don’t even read before clicking “agree.”
+A 2008 study showed that it would take the average person roughly 244 hours per year to read all of the privacy policies for sites they use, which translates to about 40 minutes per day. And that was way back in 2008 when people used the internet for an estimated 1 hour, 12 minutes per day—a number that has grown to roughly 3 hours, 10 minutes. It sure is much easier just to check the box that says, “I agree” and then start using an app or service.
+Technically, you have probably already given many services consent to track you and use your information in a variety of ways when you agreed to a site or app’s terms. This happens when an app like Facebook throws a wall of text at you, followed by a checkmark that says something to the order of, “I promise I’ve read all of this legal jargon, I understand what it means, and I can’t wait for you to start profiting from my data.” That last part is an exaggeration, of course, but it’s fundamentally how many online services operate.
+“The privacy policies are purposely ambiguous,” says Kirsten Martin, associate professor of business ethics at George Washington University and cyber privacy expert. “They’re written with words like trusted third-party suppliers. They use vague words to ‘improve service for you’ and not explain what’s going on.” Under GDPR regulations, that kind of obfuscation won’t—or at least shouldn’t—fly.
+A quote from the official GDPR FAQ sums up the top level reform in terms of privacy policies:
+“The conditions for consent have been strengthened, and companies will no longer be able to use long illegible terms and conditions full of legalese, as the request for consent must be given in an intelligible and easily accessible form, with the purpose for data processing attached to that consent.”
+In short, GDPR gives European Union citizens the right to clearly and explicitly opt into having their data collected and used by a company on the web.
+Twitter’s recent privacy policy update is a good example of how companies are going about making the change. Below is a screenshot of the privacy notification I got earlier this week with various opt-ins to offer up my information.
+Twitter Privacy
+Stan Horaczek
+It’s clearer than the typical mountain of legalese sites and services expect you to navigate, but there are still layers to dig through. Clicking “more information” on the “personalized ads” tab, for instance, takes you to another page that outlines some real-world examples of how the ad targeting works. At the very bottom, however, it also says that opting out of personalized ads still allows the service to target you with advertising based on “what you tweet, who you follow, what type of phone you use, where you are, and the links you click on Twitter.” It saves you from targeting by third parties who may have your email address or tracked you via Twitter integration on their website, but it can’t absolve you from Twitter’s ads completely.
+A benefit of the notification, however, is that everything you can actually opt out of is available in one place that you don’t have to go hunting to find. My account went from totally opted in to completely opted out because of it. “GDPR says it has to be as easy to opt out as it is to opt in,” says Martin. Getting to the settings menu in Twitter to change these settings once you’ve dismissed the initial notification takes four taps into the menus.
+Out of curiosity, I did sign up for a new Twitter account (which is why I now have an account called “@babymanrampge”) and didn’t get a prompt to opt into the tracking. By default, I was opted into all of the tracking except the part that tracks my activity across the web, which allows it to look at other sites I visit that have Twitter integration.
+The language barrier
+The concept of overly complex privacy policy has been the status quo since the early days of the Web, when flying toaster GIFs roamed the net. It didn’t have to be that way, though. “When businesses are forced to make complicated things easy to understand, they do a great job,” says Martin. “They do it every year with annual reports for investors and the FTC. If they didn’t, they would get sued.”
+But, just because some sites are offering clearer controls and policies, we shouldn’t necessarily expect that all of the GDPR protections will apply to people in the U.S. and other countries.
+Etsy’s update for instance, includes the following text:
+“Depending on your location, we may provide you with the ability to access, download, and request deletion of your personal information.” It differentiates user’s specific rights based on the governing regulations of their country of residence.
+When senators and representatives asked Mark Zuckerberg about whether Facebook’s GDPR updates would apply globally, his response translated to a resounding, “kinda.”
+Since then, Facebook has issued a couple different privacy changes. You can now download your Instagram user data, including your photos and comments. That change is a direct nod to GDPR’s requirement for “data portability,” which allows users to take their content with them to another service or save it for posterity.
+Facebook even published its internal guidelines for moderating user content , which is an acknowledgement of the GDPR’s mandate for transparency. That development is particularly interesting because of its interplay with Facebook’s penchant for using AI tools to evaluate content. “You have to have the ability to ask questions about the decisions made about data,” says Martin. “Facebook has a tendency to try and automate things when they go wrong. GDPR gives people the right to a human review of decisions made by AI an algorithms in general.” By posting its content moderation guide, Facebook is offering a pre-emptive explanation of its moderation decisions.
+For instance, Facebook’s guidelines shed some specific light on its policies regarding nudity, which have come under fire when breast feeding and post-mastectomy photos have been removed from the service. There’s still some ambiguity in the language , but it’s more straightforward than before.
+There could be a second wave of changes
+Right now, the onslaught of privacy policy changes we’re seeing stem from Europe’s privacy laws. What U.S. policy will eventually look like is still a big ol’ question mark. For now, as was apparent during the Facebook testimony, U.S. regulations are still relatively lax. Even new efforts to impose some regulatory order are somewhat scattered and sporadic.
+The Honest Ads Act , for instance, is a bipartisan bill meant to mitigate the ability of organizations to manipulate users with targeted political ads. Both Facebook and Twitter have voiced support for the bill, but the proposed law only addresses a small piece of the enormous privacy puzzle. It’s possible we could see more sweeping reform here in the States, but it’s likely a long way off if it happens at all.
+Still, we’re reaping the fringe benefits of Europe’s efforts, which are about to come to fruition. Martin likens it to California’s efforts to raise the bar regarding vehicle emissions by imposing stricter requirements for things like miles-per-gallon, then getting other states on-board to incentivize car companies to increase their efficiency efforts.
+This all culminates in the idea of “privacy by design,” which is one of GDPR’s ultimate goals. It makes privacy a fundamental and requirement from the beginning of the design process so it doesn’t have to get shoehorned in later. These revisions are costly for companies and often confusing for users—even updated privacy policies and terms of use include piles of complex language. If companies want to avoid that hassle as they expand, they can start their lifecycle with privacy in mind. “I wouldn’t be surprised to see European companies pop up to offer North American consumers viable alternatives to Facebook or Instagram,” says Martin. “Opting for models that don’t track their users could become a real competitive advantage.”
+Want more news like this?
+Sign up to receive our weekly email newsletter and never miss an update!
+By submitting above, you agree to
+By Stan Horaczek posted Jul 20th, 2018
+If you think your social media post shouldn't have been removed, you have options.
+In North America, spring is arriving earlier and earlier. But this shift isn't uniform across the continent. That unevenness, according to a new study, has unfortunate…
+By Claire Maldarelli posted Sep 13th, 2018
+This week, Apple took a big step in bringing its Apple Watch Series 4 beyond the scope of a typical fitness or wellness trackers into the sphere of clinical medical…
+popsci shop
+By Stack Commerce posted Sep 13th, 2018
+The Chargerito Is compact, cordless, and charges your phone directly from the outlet. You can get one now for $30, two for $50, or three for $67.
+First of all, there is currently no Category 6 for hurricanes. But some people are looking into it.
+By Rob Verger posted Sep 13th, 2018
+Looking for reasons to shell out money for a shiny new phone—or just keep using the one you have? We've got you covered.
+By Rachel Feltman posted Sep 13th, 2018
+Yes, headlines and tweets are designed to make you click. But an unscrupulous headline can go too far by… uh… promoting vampirism.
+By Billy Cadden posted Sep 13th, 2018
+PopSci is always on the lookout for today's best deals. Our lists will be updated throughout the day, so check back to see if stumbled upon any awesome new discounts.
+Latest News
+Want more news like this?
+Sign up to receive our email newsletter and never miss an update!

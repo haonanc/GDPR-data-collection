@@ -1,0 +1,24 @@
+Hide feedback form
+Hide feedback form
+The Dartmouth Library protects the privacy of those who use the library. Staff and student workers protect registration information about borrowers, their requests for information and materials, and their loan transactions. Library employees are legally prohibited from providing information regarding a patron's library account to any other person regardless of their status or identity, except as required by a subpoena, search warrant, or court order.
+Patron Record Privacy
+A library registration record is created for each patron. The record contains the borrower's name, address, and other identifying information. This information is used only for library circulation purposes. The library's circulation function links a patron with the library materials he or she has checked out. For each item checked out to a patron, the library maintains the following information:
+Item specific details such as the author, title, call number, and barcode number.
+The date charged, loan period, and the date due.
+The number of renewals and the date of the last renewal.
+Additionally, patrons may choose to set their library account to track their reading history . If they do so, information about items checked out will be maintained until the patron record is deleted or until the patron actively removes the information. Some library staff may be able to access a patron’s reading history, but will not disclose the patron’s reading history except as required by law.
+Staff or student workers will not disclose the following:
+The name of a patron who has a particular item checked out.
+The titles that are checked out to a particular patron.
+Personal information of any patron (address, phone number, email, etc).
+Identify a patron who has checked out a particular item or describe them in any other way.
+Staff or student workers MAY take the following actions:
+Give the due date of a particular item.
+Recall any checked out item (with the exception of reserve material).
+Suggest that they contact class members regarding the item.
+ 
+Information Regarding Privacy Issues from the American Library Association
+The Library encourages you to explore the ALA web site for more information.
+Web Statistics
+The Dartmouth Library collects and analyzes data about the use of its website to improve service.  The Library may choose to use an externally hosted service (e.g., Google Analytics) to collect these data.  Most external services use web browser cookies to track usage.  To opt-out of such tracking (for the Dartmouth Library's or any other website), examine the cookies you are accepting as you use the internet.
+Additional Dartmouth College privacy policy documents

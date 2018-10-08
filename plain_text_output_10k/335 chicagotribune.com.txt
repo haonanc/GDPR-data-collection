@@ -1,0 +1,18 @@
+Frank James, Washington BureauCHICAGO TRIBUNE
+Facing the threat of federal legislation, a group of major corporations doing business on the Internet said Monday that companies should get parental permission before soliciting personal information on-line from children under age 13.
+The Online Privacy Alliance, whose members include Microsoft Corp. , IBM Corp. and America Online Inc., said obtaining parental permission is one of several policies that its members will be asked to obey.
+The steps are meant to better safeguard consumers' privacy and personal information obtained from them when they visit many commercial Web sites.
+The measures also are meant to demonstrate that the burgeoning electronic-commerce industry can manage its behavior, making government regulation unnecessary. But the group didn't detail how it would enforce its policies, which led the Clinton administration to express disappointment.
+The rule on how companies that use the Internet obtain personal information from children grew out of concerns that marketers often use dazzling Web sites to collect personal data such as names, addresses, ages and telephone numbers from the most naive of consumers.
+"When you are a company that is targeting children under 13, you may not, must not, engage in the collection of data from kids without their parents' prior consent," said Christine Varney, an adviser to the corporate alliance and a former commissioner on the Federal Trade Commission .
+"That's a big step forward from what had been the emerging practice in some quarters of the Net," said Varney, who heads the Internet practice at Hogan and Hartson, a Washington law firm.
+"The beauty of this medium is its interactivity. But we do have special obligations and responsibilities when dealing with children under 13."
+Another policy would give consumers the chance to decline to have their personal information shared with third parties.
+"At a minimum, you need to be able to opt out of such unrelated use of such third-party distribution in most circumstances," Varney said. "The baseline of companies committing to provide consumers with opt-out for data that is unrelated to the use for which it was collected or third-party distribution is a fundamental step forward in (electronic) commerce."
+The announcement of the corporate alliance's new policies came the same week the Commerce Department held a meeting about on-line privacy. The agency is preparing a report to President Clinton on the state of Internet privacy as it relates to electronic commerce.
+The alliance's policy also followed a recent report by the FTC that indicated that the private sector had done disappointingly little on Internet privacy.
+An FTC survey of Web sites indicated that many lacked privacy policies that clearly state what the companies do with the information.
+----------
+ON THE INTERNET:
+Submit comments and questions for a Wednesday discussion of consumer privacy on the Internet at
+chicago.tribune.com/go/privacy

@@ -1,0 +1,49 @@
+Introduction
+Quadratec is an Internet Retailer focused on the sale of automotive parts for Jeep vehicles. At Quadratec, the privacy and security of our customers and visitors are of paramount importance. Quadratec is committed to protecting the data you share with us. This privacy policy explains how Quadratec processes information that can be used to directly or indirectly identify an individual (“Personal Data”) collected through use of its website and platform.
+For the purposes of this policy, Quadratec defines the term “User” as an entity with which Quadratec has an established relationship, the term “Respondent” as any individual who responds to surveys powered by Quadratec or who is included as a contact in a User’s account and the term “Visitor” as an individual that visits our front-end website (for example www.Quadratec.com).
+Any information stored on Quadratec’s website is treated as confidential. All information is stored securely and is accessed by authorized personnel only. Quadratec implements and maintains appropriate technical, security and organisational measures to protect Personal Data against unauthorized or unlawful processing and use, and against accidental loss, destruction, damage, theft or disclosure.
+Collection and use
+General
+The following sections cover the specifics of each of the three groups from which data is collected: Website Visitors and Users.
+Website Visitors
+If you are a Visitor to our website only, and not a Respondent to a survey or a user of our website, then this section is relevant for you.
+By visiting this website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not visit this website. By using this website, you grant consent to process Personal Data collected on this website or volunteered by you. If you do not grant consent to the processing of your Personal Data, the use of this website may not be possible.
+Quadratec may collect, record and analyze information of Visitors to its website. We may record your IP address and use cookies. Quadratec may add information collected by way of pageview activity. Furthermore, Quadratec may collect and process any Personal Data that you volunteer to us in our website’s forms, such as when you register for events or sign up for a catalog, sweepstakes or newsletters. If you provide Quadratec with your social media details, Quadratec may retrieve publicly available information about you from social media.
+Such Personal Data may comprise your IP address, first and last name, your postal and email address, your telephone number, your job title, data for social networks, your areas of interest, interest in Quadratec products, and certain information about the company you are working for (company name and address), as well as information as to the type of relationship that exists between Quadratec and yourself.
+Quadratec gathers data about visits to the website, including numbers of Visitors and visits, Geo-location data, length of time spent on the site, pages clicked on or where Visitors have come.
+Purpose of processing personal data
+Quadratec uses the collected data to communicate with Visitors, to customize content for Visitors, to show ads on other websites to Visitors, and to improve its website by analyzing how Visitors navigate its website.
+Sharing personal data
+Quadratec may also share such information with service vendors or contractors in order to provide a requested service or transaction or in order to analyze the Visitor behavior on its website.
+Cookies
+Cookies are small pieces of information sent by a website to a Visitor’s hard disk. Cookies cannot be used to run programs or deliver viruses to your computer. By continuing to visit the website, you agree to the placement of cookies on your device. If you choose not to accept our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. We may also place cookies from third parties for functional and marketing purposes. The use of cookies is widespread and benefits the surfer.
+Links to other sites
+Please be aware that while visiting our site, Visitors can follow links to other sites that are beyond our sphere of influence. Quadratec is not responsible for the content or privacy policy of these other sites.
+Users
+General
+In order to provide services to its Users, Quadratec collects certain types of data from them. Data entered or transferred into Quadratec by Users such as comments, images, questions, reviews, media files, etc., becomes the property of Quadratec.
+Collection of User data
+During a User’s registration and later on Quadratec’s website, they provide information such as name, email, address, telephone, credit-card number and other relevant data. This information is used by Quadratec to identify the User and provide them with support, services, mailings, sales and marketing actions, billing and to meet fulfillment and marketing obligations.
+Quadratec Users can at any time access and edit or update their contact details by logging in with their username and password to Quadratec’s website. Quadratec will not retain User data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations.
+Geographical location
+All Personal Data collected is processed and stored at Quadratec’s data center located in the United States of America. For Users with accounts located in Quadratec’s European Data Region, all processing of Personal Data is performed in accordance with privacy rights and regulations following the EU Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 (the Directive), and the implementations of the Directive in local legislation. From May 25th, 2018, the Directive and local legislation based on the Directive will be replaced by the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, known as the General Data Protection Regulation (GDPR), and Quadratec’s processing will take place in accordance with the GDPR.
+Controller
+Quadratec processes Personal Data both as a Processor and as a Controller, as defined in the Directive and the GDPR:
+The Quadratec entity which you as a User entered an agreement with when using Quadratec’s website, will be the Controller for User data, as outlined above in “Collection of User data” section.
+Quadratec adheres to the Directive of 1995 and the GDPR from May 25th, 2018. Consequently, Quadratec processes all data provided by its Users with accounts in its European Data Region, in the European Economic Area (EEA) only.
+All data collected by Quadratec will be stored exclusively in secure hosting facilities. Quadratec has a data processing agreement in place with its provider, ensuring compliance with the Directive. All hosting is performed in accordance with the highest security regulations. All transfers of data internally in the EEA is done in accordance with this data processing agreement.
+Retention and deletion
+Quadratec will not retain data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. When a User’s account is terminated or expired, all Personal Data collected through the website will be deleted, as required by applicable law.
+Acceptance of these Conditions
+We assume that all Visitors of our website and Users of Quadratec’s website have carefully read this document and agree to its contents. If someone does not agree with this privacy policy, they should refrain from using our website and platform. We reserve the right to change our privacy policy as necessity dictates. Continued use of Quadratec website and website after having been informed of any such changes to these conditions implies acceptance of the revised privacy policy. This privacy policy is an integral part of Quadratec’s terms of use.
+Our Legal Obligation to Disclose Personal Information
+We will reveal a user’s personal information without his/her prior permission only when we have reason to believe that the disclosure of this information is required to establish the identity of, to contact or to initiate legal proceedings against a person or persons who are suspected of infringing rights or property belonging to Quadratec or to others who could be harmed by the user’s activities or of persons who could (deliberately or otherwise) transgress upon these rights and property. We are permitted to disclose personal information when we have good reason to believe that this is legally required.
+Quadratec’s Data Protection Officer
+Quadratec has a “Data Protection Officer” who is responsible for matters relating to privacy and data protection. This Data Protection Officer can be reached at the following address:
+Quadratec
+For Further Information
+If you have any further questions regarding the data Quadratec collects, or how we use it, then please feel free to contact us by email at: [email protected] , or in writing at:
+Quadratec
+Stay Connected
+©1995-2018, Quadratec, Inc. All rights reserved.
+Jeep®, Wrangler, Rubicon, Renegade, CJ, Quadra-Trac and the Jeep grille design are registered trademarks of FCA (Fiat Chrysler Automobiles). Quadratec, Inc, has no affiliation with FCA. Throughout this website and catalog the terms Jeep®, Wrangler, MOPAR®, & Rubicon are used for identification purposes only.

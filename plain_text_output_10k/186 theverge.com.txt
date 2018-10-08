@@ -1,0 +1,13 @@
+We haven’t been able to avoid privacy policies in our post-GDPR world , but figuring out what these legal documents are trying to tell us isn’t easy. They’re typically filled with legalese and boring chatter about data and how it’s handled. I get why no one wants to spend time reading them.
+So to save us all some effort, I called a couple lawyers — Nate Cardozo from the Electronic Frontier Foundation and Joseph Jerome from the Center for Democracy and Technology — to learn how they read and process tons of policies. They’ve given me a few tips on how we can essentially skim through a privacy policy while still learning something about how our data is handled.
+Cardozo and Jerome suggest looking for the information collected about you. The company won’t necessarily list everything, but you can typically get at least a rough idea of what kind of information a product or service is amassing. Jerome also searches for the word “control,” because this could lead to data and privacy controls you didn’t know you had. Searching in Instagram’s data policy for “control,” for example, shows where you can edit your privacy settings and how to opt out of Facebook’s facial recognition technology. You may have never found these menus otherwise. You can also look at the date a policy was published. Obviously, a more recent one is a good sign the company is thinking about privacy more proactively.
+“Such as” is a broad term
+You might also want to search for the word “not,” Jerome says, because it’s rare to find in a policy. Of course, most companies would rather not permanently limit themselves by including what they’re not doing, which could leave them open to lawsuits. Finally, Cardozo suggests checking out how many times you find “such as” because it’s a red flag. I would normally think it means that companies are being specific, but Cardozo says it’s actually a broad phrase that doesn’t usually provide much information.
+Generally, privacy policies are lengthy and complicated. They’re designed to protect companies from lawsuits. These tips won’t cover everything in a policy, but they’ll at least get you started in your journey to figure out what’s actually happening to your data.
+Next Up In Reviews
+Most Read
+email address...
+Subscribe
+By signing up, you agree to our Privacy Policy and European users agree to the data transfer policy.
+This Article has a component height of 7. The sidebar size is short.
+Loading comments...

@@ -1,0 +1,193 @@
+Popcorn Time in 2018?
+NordVPN is the best VPN for use with Popcorn Time. This provider offers top-notch privacy protections, speedy connections, efficient kill switch protection and comprehensive customer service, ensuring your movie streaming and other online activities will be safe from the prying eyes of others.
+Great Customer Service
+Users will also find NordVPN to be an excellent tool for accessing blocked content on the web and for protecting their internet connection when conducting business or leisure activities via open Wi-Fi hotspots in coffee shops and hotels.
+About Popcorn Time
+Popcorn Time is a free BitTorrent client that includes an integrated media player, which allows viewing of video content from torrents, working much like Netflix and other streaming services.
+ The app is available for Windows, macOS, Linux, Android and Android TV devices. A Popcorn Time app is also available for iOS devices from another developer, but that app requires that your device be jailbroken, or that the app be installed from your Mac or PC via USB cable.
+The Popcorn Time app displays available films and television shows via clickable thumbnails in an interface similar to Netflix. Users click the thumbnail to begin viewing the video content.
+While the content is being viewed, it’s also being shared with other users, in the same way BitTorrent clients seed content to share with others. The content is available to others until the content is deleted, which usually occurs when the application is shut down.
+Popcorn Time’s legal status is similar to that of other BitTorrent clients due to its distribution of copyrighted content. Popcorn Time use could be viewed especially harshly, as it’s designed to specifically access and view copyrighted television episodes and movies, whereas BitTorrent file sharing client users could claim they use their apps for legal file sharing.
+The app has been through many changes, and since it’s an open source project available through GitHub, it’s available in various versions. The current “forks” of the project are not associated with the original developers, who have put a stop to their own development of the client. The most popular version is arguably the one found at the PopcornTime.sh website .
+Top 5 VPNs for Popcorn Time
+​
+Why Do You Need a VPN for Popcorn Time?
+Usage of the Popcorn Time app is considered to be illegal in the U.S. and some other countries. If you use the app without protecting your connection with a Virtual Private Network (VPN), you run the risk of discovery, leading to cease and desist orders from content providers, possible lawsuits, criminal charges and possibly being banned from using your local Internet Service Provider (ISP).
+The legality of the Popcorn Time client matches that of other BitTorrent clients. Plus, you may run into additional issues due to the app’s ability to view copyrighted video content. All of this is more than enough reason why you should never use an app like Popcorn Time, or any BitTorrent client for that matter, without protecting your internet connection with a VPN.
+A VPN protects your online activities and personal information from prying eyes by routing your internet connection through an encrypted tunnel. Think of it as a subway tunnel below a sidewalk you’re standing on. You know there are subway trains passing through the tunnel, but you can’t tell which trains are passing through, and you also can’t tell where the trains are headed.
+In addition, a VPN is also a great tool for enabling access to streaming content, online games and other services that you wouldn’t normally have access to from your location due to geographical or government restrictions. The VPN makes your connection appear to be coming from a completely different location, opening up access to content hosted in that area of the globe.
+Choosing the Best VPN for Use With Popcorn Time
+When researching the best VPN to protect your Popcorn TIme sessions from outside monitoring, you’ll need to consider a number of factors. In this section, I’ll do my best to cover them all, hopefully releasing you from the need to try every VPN provider on the list.
+Following a discussion of why each category is an important consideration, I’ll list my top 10 VPNs in order of how well they perform in that category.
+1
+Privacy
+While privacy protection is important when considering a VPN for any online activity, it’s of particular importance when searching for the right VPN for use with Popcorn Time.
+When I say “privacy,” I’m not referring to how well a provider encrypts your connection. I’m instead talking about whether the company keeps any logs of your online activities and how well it protects your privacy when it comes to paying for the service.
+Always find out which country a provider is based in, what that country’s privacy laws are like and what logs, if any, a provider keeps related to your online travels and downloaded files. Also, investigate what types of privacy-friendly payment options the provider offers. At the least, any VPN service worth considering will offer the ability to pay via Bitcoin or merchant gift cards.
+​
+Connection Speed
+The protected connection speeds offered by a VPN provider is always an important consideration, as faster connection speeds are always preferable. However, when using a VPN with Popcorn Time, it’s especially important, as you will be using the app to view streaming video from a BitTorrent client.
+Below, you’ll find my top 10 VPN providers ranked by connection speed, fastest down to the slowest.
+​
+​Kill Switch
+How important is a kill switch? I’d never recommend any VPN provider that does not offer a kill switch option in their apps. That’s how important a kill switch is.
+A kill switch will automatically kill (disconnect) your internet connection if your VPN connection fails for any reason. This feature protects your connection from being laid bare to the prying eyes of anyone who might be monitoring your online activities.
+If you’re using Popcorn Time without a VPN, or if your VPN connection failed and your provider doesn’t feature a kill switch, you’re opening yourself up to cease and desist letters, loss of internet access, lawsuits, or, in some areas of the world, arrest.
+As “kill switch” is a binary, “yes or no” type of feature, I have listed the providers in the table below in alphabetical order, with a simple “Y” or “N” to denote if a kill switch feature is offered by the provider.
+Provider
+4
+Multi-Platform Support
+Popcorn Time is available for most computing platforms, so you’ll want to look for a VPN provider that supports as many of the popular desktop and mobile platforms as possible. Comprehensive platform support ensures that Popcorn Time viewers can keep their video bingeing sessions undercover.
+​
+Customer Support
+While I hope your torrents will always stream smoothly and your movie nights are never interrupted by problems, it’s highly likely that you’ll need to contact your VPN provider’s customer support department for help with one issue or another.
+Any VPN provider you consider should supply responsive support to its customers. Look for a VPN service that offers live support text chat, a trouble ticket submission form and an easy-to-search support library.
+The list of VPN providers below is ranked according to the types of support they offer, their support agents’ responsiveness and the quality of their replies.
+​
+Price
+While it would be great to never have to worry about the price of any item or service we buy, if money was no object, you likely wouldn’t be using Popcorn Time to view movies from torrent streams in the first place. Or maybe you would; I guess it depends on how you roll.
+For most of us, the price is an important consideration when searching for the right VPN service. However, while keeping the price in mind, we should also keep an eye out for any corners a provider might cut to keep their price low. Always consider a provider’s connection speeds, their level of customer service and what type of global server coverage they provide.
+When price shopping, be sure to check for any promotional deals a provider might be offering. While you may have to sign up for a bit longer period of service, observant VPN shoppers can save a few bucks on their subscriptions.
+​
+Global Server Coverage
+While global server coverage may not be as important for Popcorn Time users as it is for other VPN users, it still ranks as a factor for serious consideration. While you may only be intending to use your VPN of choice for protecting your torrenting connection, you’ll find it’s also useful for a large number of other online activities. 
+​
+Global Server Coverage Could Stand Improvement
+Slower Than Other Providers on my Top 5 List
+1
+Privacy
+NordVPN takes full advantage of being located in the privacy-friendly country of Panama, which does not require VPN providers to retain any logs related to their customers’ online antics. NordVPN follows a “no logs” policy, meaning none of your online travels are recorded and saved.
+The provider also accepts the privacy-enhancing Bitcoin cryptocurrency as payment, providing great, all-around privacy protection.
+2
+Connection Speed
+Coming in at 90% of my unprotected ISP-delivered connection speeds, NordVPN’s speeds don’t rank in the top echelon of my top 5 providers. However, their speeds should be more than fast enough for your Popcorn Time activities, depending on the speeds you usually see from your ISP.
+3
+​​​​​Multi-Platform Support
+NordVPN has most of the Popcorn Time devices covered, featuring native app support for Windows, macOS, iOS and Android. In addition, the provider offers setup instructions for Windows Phone, Raspberry Pi, DD-WRT routers and other devices. 
+4
+Customer Support
+NordVPN has you covered when it comes to customer support, with live support chat, a trouble ticket submission form and an easy-to-search support library. I received quick and knowledgeable replies from the provider’s support staff, and their support library was a handy resource when I felt like digging on my own for an answer.
+5
+Price
+Although NordVPN’s subscription pricing is nowhere close to being the low-price leader, the provider still boasts an excellent bang for the buck benefit-to-cost ratio at $5.75 per month (payable at $69.00 per year).
+NordVPN offers a 30-day money-back guarantee.
+6
+Global Server Coverage
+With a server count of 1,498 servers located in 60 countries around the globe, NordVPN doesn’t rank the highest on the list in the server coverage column. Those numbers do, however, increase the chance that it will be able to satisfy your global server needs.
+7
+Verdict
+NordVPN ranks high enough in all of the important categories to earn its spot at the top of my list. With fast kill switch-protected connections, great customer service and tip-top privacy protection, the provider is the butter on the popcorn for movie lovers looking to cover their tracks on the internet.
+check
+1
+Privacy
+VyprVPN could stand some improvement in the privacy category. Despite being located in privacy-friendly Switzerland, where VPN providers are not required to keep records of their users’ online activities, this provider insists on keeping some logs, and for up to 30 days.
+While the logs don’t contain any records of online activity, they do include the start and stop time of a customer’s VPN connection, their real IP address, their VPN-assigned IP address and the total amount of data used during the session. In my opinion, even one log is one too many. However, the data VyprVPN insists on keeping is rather benign.
+VyprVPN also doesn’t help protect your payment privacy, as it lacks an anonymous payment option, such as Bitcoin or merchant gift cards.
+2
+Connection Speed
+This provider missed out being the fastest on my top 5 list by less than a percentage point - it pipes in protected connection speeds that come within 5% of my ISP-only numbers. Yeah, this provider can handle all of your movie torrenting needs.
+3
+Multi-Platform Support
+VyprVPN’s multi-platform support includes native apps for Windows, macOS, iOS, Android, Linux and 9 other platforms. The provider also features support for a decent number of router makes and models, extending protection to every connected device you have.
+4
+Customer Support
+This provider has all of the support bases covered, offering live support chat, a trouble ticket system and an answer-filled knowledge base for do-it-yourselfers. I always received prompt answers, and the support agents knew what they were talking about. The knowledge base proved to be a valuable resource when I wanted to do a little digging on my own.
+5
+Price
+VyprVPN isn’t the bargain provider on my top 5 list, costing $5.00 per month (payable at an annual rate of $60.00), but it’s still cheaper than a large popcorn (heck, even a small popcorn) at your local cinema palace.
+VyprVPN offers a 3-day money-back guarantee.
+6
+​Global Server Coverage
+With 700 servers located in 65 countries, VyprVPN has you covered. While not quite as expansive as some providers, this VPN service’s global server coverage should supply a connection to just about any blocked content you may encounter. The provider allows torrenting on all of their servers .
+7
+​Verdict
+VyprVPN earns the second-place spot on my top 5 list due to its high-speed, well-protected connections, excellent customer support and decent pricing. While they could score better in the privacy category, they do provide good, all-around service.
+CONS
+1
+Privacy
+Taking full advantage of the lack of data retention laws in its home country of Hong Kong, PureVPN keeps no logs of any kind related to its customers’ online activities, torrenting or otherwise. The provider also accepts Bitcoin as payment for its services, so your privacy is in good hands with PureVPN.
+2
+Connection Speed
+While PureVPN’s connection speeds are far from the best on the list, it delivers 83% of my usual ISP speeds - a level of speed that should provide plenty of bandwidth for your movie streaming needs.
+3
+Multi-Platform Support
+Native app support for Windows, macOS, iOS and Android devices means PureVPN has your Popcorn Time-compatible devices covered. The provider also features extensions for the Google Chrome and Firefox browser platforms, as well as support for some router platforms.
+4
+Customer Support
+PureVPN supplies the holy trinity of customer support, with live support chat, a trouble ticket form and a searchable support library. However, their trouble ticket response time proved to be horrible. Like, “never heard back from them” horrible. It’s been months, PureVPN, how about a little response love?
+5
+Price
+PureVPN just edged Private Internet Access out for the cheap provider crown. The price of $3.25 per month (payable every 2 years at $78.00) earned it the title by a mere 8 cents per month. This provider offers promotional deals on a fairly regular basis, so be sure to check their website for current pricing .
+PureVPN offers a 7-day money-back guarantee.
+6
+Global Server Coverage
+The provider brings the best global server coverage in the top 5 list to the bargaining table, with more than 750 servers located in over 140 countries. Wherever your content resides, PureVPN can likely get you there. Well, it can get your internet connection there, anyway.
+7
+Verdict
+PureVPN’s third-place finish was thanks to its low price, total global server coverage and excellent privacy protections. If their customer support were a bit more responsive, they might have ranked even higher.
+check
+No Live Support Chat
+Although Private Internet Access (PIA) is located in the less-than-privacy-friendly United States, they follow their own strict “no logs” policy instead of their home country’s data retention recommendations.
+The provider also does a good job of protecting your payment info, as they accept both Bitcoin and merchant gift cards for subscription payment.
+2
+Connection Speed
+PIA’s connection speeds are one of those pleasant surprises you come across when researching VPNs. Their speeds come within 6% of my open ISP connection speeds. That makes it a great value for the money. 
+3
+Multi-Platform Support
+Private Internet Access provides native app support for the Windows, macOS, iOS, Android and Linux platforms. In addition, they also offer a Chrome browser extension and setup documentation to use the service with DD-WRT and Tomato-based routers.
+Note: the browser extension will not protect your Popcorn Time session, as the extension only protects your web browsing session from prying eyes.
+4
+Customer Support
+Private Internet Access doesn’t score quite as high in the customer support category as it did in the connection speed section. While the provider is quick to reply to trouble ticket submissions and provides an excellent support resource through its searchable support library, it lacks live support chat.
+5
+Price
+PIA missed taking the low-cost provider crown by just 8 cents per month. However, considering their fast connection speeds, their $3.33-per-month (payable at $39.95 annually) cost of entry is still a heckuva deal.
+The provider offers a 7-day money-back guarantee.
+6
+Global Server Coverage
+While this provider supplies awesome connection speeds, their global server coverage is lacking. With 3,250 servers concentrated in just 25 countries, it’s possible that there might not be a server located near the blocked content you want to access. But, if you’re just protecting your Popcorn Time session from prying eyes, that might not matter to you.
+7
+​Verdict
+Private Internet Access doesn’t offer the same level of global server coverage or customer support that other providers on this list do, but their fast connection speeds and top-notch privacy protections were attractive enough to earn this provider a spot on my top 5 list.
+1
+Privacy
+Despite its home base being in the less-than-privacy-friendly United States, IPVanish still does everything right when it comes to privacy. The provider doesn’t keep user logs of any kind. In addition, the privacy-enhancing Bitcoin cryptocurrency is accepted as payment for subscriptions to the service. 
+2
+Connection Speed
+With high-speed connection speeds coming within 6% of my ISP-supplied speeds, IPVanish provides a great way to stream movies and TV shows via Popcorn Time. With speeds like this, you likely won’t get your first handful of popcorn up to your mouth before the show begins.
+3
+Multi-Platform Support
+IPVanish supplies native apps for the Windows, macOS, iOS and Android platforms. In addition, it also supports Android Fire TV, Windows Phone, Linux and Chromebook devices. You can also find setup instructions for using the provider with many router brands and models. 
+4
+​Customer Support
+IPVanish features the same level of customer support as Private Internet Access, with email trouble ticket submissions and a searchable support library. Just like PIA, they lack a live support chat option. This means that while you’ll receive a response from support for your issues, there will likely be at least a short wait before hearing back from them.
+5
+Price
+The IPVanish price of admission is $6.49 per month (payable $77.99 per year), making IPVanish the highest-priced provider on my top 5 list. Despite the cost, keep in mind that they do offer a high level of service.
+6
+Global Server Coverage
+With 850+ servers located in 60 countries, this provider should have you covered if you need to access blocked content or want to game on an international server. For more information, visit the IPVanish server coverage map . IPVanish allows torrenting on all of its servers .
+7
+Verdict
+IPVanish snagged the final spot on my top 5 list thanks to its fast connection speeds, comprehensive privacy protections and good multi-platform support. A lower price and better customer support would likely have led to a better ranking.
+Making the Best Use of a VPN With Popcorn Time
+Once you’ve purchased your VPN subscription, it’s time to install the app and take a few extra steps to ensure you’re squeezing all of the utility and performance possible from your newly protected connection. In this section, I’ll go over a few steps you can take to squeeze the most performance possible from your connection.
+Step #1 - Connect via Ethernet (If Possible)
+While most Popcorn Time viewers will likely be connecting to the internet and their VPN provider wirelessly via a Wi-Fi router, there are advantages to be had if you can connect to your router using an Ethernet cable.
+A direct, wired connection, such as that provided by using an Ethernet cable, can provide a more reliable connection, offering increased performance, which will improve your overall online experience.
+While it’s true that most laptops and mobile devices no longer have an Ethernet cable built in, USB-to-Ethernet adapters can be found easily on Amazon and other online retailer websites, as well as local electronics stores - some for less than $20.
+If a compatible adapter is available for your device, I recommend grabbing it. (Paying for it first, of course.) Adapters come in handy if you find yourself needing to connect to a network that doesn’t offer Wi-Fi.
+Step #2 - Select a VPN Server
+If you’re simply firing up your VPN app in order to protect your internet connection, then you’re ready to go. However, for many other uses, such as accessing torrents (Popcorn Time) only on designated servers, or for accessing geographically-blocked audio and video content, pay attention to this step.
+Instead of automatically connecting to the nearest or fastest server, select a server your provider allows for use with torrents (if they restrict torrent connections to certain servers) or select one that is located as near as possible to the location of the blocked content you’re trying to access. This will significantly increase the chances of successfully accessing your desired video.
+Step #3 - Test Your VPN Connection
+Once you are connected to your favorite VPN service, take a few minutes to open a browser and visit the Speedtest website . There, you can check to make sure your connection speed is up to par and that you are actually connected to the server you selected.
+If your speeds are not fast enough for your liking, or if it appears that your connection isn’t being sent from the correct location, disconnect from the VPN, re-connect and run the test again. Repeat as necessary.
+Step #4 - Enjoy The Show
+Once you’re connected, and everything is operating to your satisfaction, make some popcorn, grab a drink, settle into your favorite chair and enjoy the show. 
+My Hot Buttered Verdict
+While any of my top 5 VPN providers will protect your Popcorn Time viewing sessions from the prying eyes of law enforcement, content providers and your ISP, only one of these providers offers the best solution.
+NordVPN is the best way to protect your Popcorn Time connection. The service offers native apps for the popular desktop and mobile platforms, supplies speedy connections and does a great job of protecting your privacy.
+Now, if you’ll excuse me, I’m about to enjoy Pitch Perfect for the 17th time. Don’t judge me. 
+​Top 5 VPNs for Popcorn Time
+​

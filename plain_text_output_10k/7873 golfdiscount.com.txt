@@ -1,0 +1,36 @@
+Welcome to Golf Discount!
+Privacy Pledge
+We share your concerns about privacy and how the information you submit to GolfDiscount.com is used. When you supply us with personal information, we make a commitment to you that the information will be used for internal use only and no information will be sold, rented or loaned to any third party. This includes contact information like your name and e-mail address, financial information like your credit card number and demographic information such as your address.
+The information that we gather from you, our valued customer, is stored in our database on a secure server. When you place repeat orders from GolfDiscount.com, your personal information will be used to save you time by not having to ask for your name, address, phone, etc.
+GolfDiscount.com may share additional personal and non-personal information with social media vendors, e.g. Facebook.
+GolfDiscount.com occasionally sends special offers and discounts via email. You can sign up from any page via the webform in the footer. We do not "spam" anyone, but if your server does have anti-spam software, it may read it as such and block it. If you are on the list but don't seem to be getting our alerts, this may be the reason. Contact your email administrator for solutions. You may unsubscribe at anytime by simply sending a blank email to info@golfdiscount.com .
+Security
+Our site uses SSL to ensure you the highest level of security available on the web. It is virtually impossible for anyone to view your credit card number in transit. We share your concerns about privacy and how the information you submit to GolfDiscount.com is used. When you supply us with personal information, we make a commitment to you that the information will be used for internal use only and no information will be sold, rented or loaned to any third party. This includes contact information like your name and e-mail address, financial information like your credit card number and demographic information such as your address.
+Cookies
+GolfDiscount.com also utilizes cookies to keep track of vital information during shopping cart transactions such as item numbers, user id, etc. Cookies do not gather information from the user's hard drive and pose no security risk. They also remember who you are and what items you have in your shopping cart. When you return to GolfDiscount.com, you don't have to waste time re-entering information. This would not be possible without those cookies. They are a useful and valuable thing for both user and server.
+If you get annoying pop-up messages stating that "the server wants to place a cookie...accept or reject?", this means that your browser's preferences are set to ask each time a cookie is sent. Set this box to "always accept cookies" if you are going to use GolfDiscount.com's secure shopping cart and you will not get those messages.
+This site contains links to other sites. GolfDiscount.com is not responsible for the privacy practices or the content of such Web sites.
+Actual Price:
+Our price is lower than the manufacturer's "minimum advertised price." As a result, we cannot show you the price in catalog or the product page.
+You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
+Our price is lower than the manufacturer's "minimum advertised price." As a result, we cannot show you the price in catalog or the product page.
+You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
+Why Golf Discount?
+2
+Outside of WA State
+Shop With Confidence
+Shopping on GolfDiscount.com is Safe and Secure. Guaranteed! You'll pay nothing if unauthorized charges are made to your credit card as a result of shopping at GolfDiscount.com.
+Shipping & Returns
+If, for any reason, you are unsatisfied with your purchase from GolfDiscount.com, you may return it in its original condition within 30 days for a refund.
+Contact Info
+Bellevue, WA 98005
+GolfDiscount.com was founded in 1995 with the goal of becoming the premier destination for online Golf Clubs. Our unwavering focus on superior customer service has allowed us to expand our online offerings to include Golf Accessories, Clothing and so much more!
+If you're looking for Golf Equipment online, compare us to other authorized online golf retailers. You'll find the absolute best prices, service and selection.
+Golf Discount 13405 SE 30th Street Suite 1a Bellevue, WA 98005 United States
+2
+*Some exclusions apply
+Outside of WA State
+Bellevue, WA 98005
+Indexes: catalog_product_attribute = require_reindex catalog_product_price = pending catalog_url = require_reindex catalog_product_flat = require_reindex catalog_category_flat = require_reindex catalog_category_product = require_reindex catalogsearch_fulltext = require_reindex cataloginventory_stock = pending tag_summary = require_reindex amsorting_summary = pending algolia_search_indexer = pending algolia_search_indexer_cat = pending algolia_search_indexer_pages = pending search_indexer_suggest = pending search_indexer_addsections = pending algolia_queue_runner = pending nosto_indexer = pending
+Cache: Configuration = 1 Layouts = 1 Blocks HTML output = 1 Translations = 1 Collections Data = 1 EAV types and attributes = 1 Web Services Configuration = 1 Web Services Configuration = 1 Amasty Improved Navigation = 1
+Page Created : 2018-09-14 00:22:21

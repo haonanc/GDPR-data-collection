@@ -1,0 +1,39 @@
+Effective as of April 16, 2018
+At Gmelius, we take your privacy extremely seriously. We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. We want to empower you to make the best decisions about the information that you share with us.
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we may gather when you are accessing or using our Services, but not to the practices of companies we don't own or control, or people that we don't manage.
+Who are we?
+We're Gmelius Ltd, a Swiss registered company ( CHE-411.148.873 ) whose mission is to research, develop and release products that transform your inbox into an advanced communication platform. Our headquarters are based in Geneva, Switzerland.
+Data Collection
+Our company's overriding policy is to collect as little user information as possible. Gmelius may retrieve and store your:
+Name;
+Gmelius configuration and data (e.g., settings, subscription details, templates, notes, campaigns).
+We only communicate with Google servers through the Gmail's API (OAuth). You can revoke access at any time. We store the subject and recipients of your tracked emails in order to notify you of opens and display related activities.
+Once using our Services, we may communicate with you if you've provided us the means to do so. For example, we may send you promotional email offers, or email you about your use of the Services. Also, we may receive a confirmation thanks to a tracking pixel when you open an email from us. This confirmation and helps us make our communications with you more interesting and improve our services.
+Your choices
+You have a choice about whether or not you wish to receive information from us. If you do not want to receive communications from us about our products and services, then you can select your choices by ticking the relevant boxes situated on your Account page .
+You have a choice to permanently delete all data associated with your Gmelius account by heading to your Account page .
+Data Use
+We do not have any advertising on our site. Any of the information we collect from you may be used in one of the following ways:
+To personalize your experience, i.e, your information helps us to better respond to your individual needs;
+To improve our Services, i.e., we continually strive to improve our service based on the information and feedback we receive from you;
+To improve customer service, i.e., your information helps us to more effectively respond to your support needs.
+Any data that we do have will never be shared except under the circumstances described below in Data Disclosure.
+Data Disclosure
+We do not sell or trade your personal information. We may transfer or share your personal information with trusted and GDPR-compliant third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+Data Protection
+We protect your data throughout the data flows of the Gmelius product, from account creation and integration through Google's OAuth service, to encryption of data in transit to Gmelius servers (using browser-based TLS) and encryption of that data at rest (using AES-256), to a variety of administrative, physical, and technical safeguards designed to create a secure environment for our customers' data.
+We're an official Google Cloud partner . All Gmelius applications include failover and backup instances and our infrastructure respects and maintains industry-standard security certifications, including ISO 27001, ISO 27017, ISO 27018, SOC 1, SOC 2, SOC 3, FedRAMP ATO and PCI DSS v3.2.
+Third Party Analytics Services
+We may use third party analytics services. Currently, we use the analytics services of Google Analytics which is configured to anonymize your IP addresses and not transmit any personally identifiable information (PII), and Mixpanel, Inc. Mixpanel's analytics services allow us to learn how you use our services by giving us the ability to collect information based on your interaction with our Services. Mixpanel does this in part using a first party cookie placed on your device from Gmelius' server. Some information is automatically collected from or about you when you use our Services. The Mixpanel analytics services may also by default collect the following from your usage of our Services: the time of an event, how you came to Gmelius' site, what search engine and search keywords you may have used to get to our site, information about the device you are on such as your operating system, and browser, as well as your city/country location, and unique anonymized IDs for push notifications. The emails we send to you through Mixpanel's services may contain web beacons to track on our behalf when you open and act upon such emails. For more information on Mixpanel's privacy practices, please refer to their Privacy Policy .
+Third Party Payment Services
+We rely on third parties to process credit card transactions and do not store your credit card details. Currently, we use the service of Stripe, Inc. (certified PCI level 1). For more information on Stripe's privacy practices, please refer to their Privacy Policy .
+Links to Other Web Sites
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Gmelius (the “Third Party Sites”). In addition, our Services include social media features, such as links to our Facebook, Google+, Twitter, and LinkedIn pages. Your interactions with our information on such Third Party Sites are governed by the privacy statement of the provider of such Third Party Site. The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Gmelius endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+16 or Under
+We are concerned to protect the privacy of children aged 16 or under. If you are aged 16 or under‚ please get your parent/guardian's permission beforehand whenever you provide us with personal information.
+Modifications to Privacy Policy
+The Services and our business may change from time to time. As a result, at times it may be necessary for Gmelius to make changes to this Privacy Policy. Gmelius reserves the right to update or modify this Privacy Policy at any time and from time to time. We will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site of any material changes to this Privacy Policy. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+Applicable Law
+This Agreement shall be governed in all respects by the substantive laws of Switzerland. Any controversy, claim, or dispute arising out of or relating to the Agreement shall be subject to the jurisdiction of the competent courts of the Canton of Geneva, the jurisdiction of the Swiss Federal Court being expressly reserved.
+Imprint
+Chemin du Pré-Fleuri, 3

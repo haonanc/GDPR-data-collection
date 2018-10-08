@@ -1,0 +1,21 @@
+CERIAS - Center for Education and Research in Information Assurance and Security
+CERIAS is the world's foremost academic institution focusing on interdisciplinary  approaches to information security. Part of our research includes online anonymity  so our policies regarding your information reflect that. Our policies for the  general public are:
+Email addresses are considered confidential. These are not sold or   distributed to other parties nor do we do unsolicited mass-mailing advertisements.   If you leave an email address on the CERIAS site then the only email you will   receive is what you expressed an interest in (i.e.: majordomo mailing lists,   publication availability, hotlist "stale link" report, etc.)
+Cookies are not used in the public areas of the site, unless otherwise stated. We keep things   simple so we don't have to clutter your machine up with a lot of useless information. Cookies (or any of the information logged during your visit) are never used for individual user tracking.
+Browser information is gathered for quality of service   purposes. The following information about visiting browsers is recorded:
+User agent string
+If Macromedia Flash is installed, and if so what version
+Referrers are logged for quality of service purposes and to identify sources of 404 errors.
+Input you enter into forms is also considered to be private information   and is used only for the purpose you entered it. Nothing is sold or distributed   to other parties.
+Traffic on CERIAS personal pages under the /homes area is logged   in Common Log Format and   shown to the respective maintainers for statistical purposes only. Logged information   may include IP addresses and/or domain names. Of course, CERIAS honors valid   law enforcement warrants or subpoenas for logs and lists.
+Logs of suspicious activity and access information may be kept for   site security purposes. Evidence of attacks or other malicious activity will   be shared with law enforcement agencies as necessary to apprehend and prosecute   individuals who abuse our resources.
+Any Questions?
+We would be happy to discuss our policy with you further or answer any questions you may have. Please feel free to contact us .
+Coming Up!
+Our annual information security symposium will take place on April 9th and 10th, 2019.
+Purdue University, West Lafayette, IN
+CERIAS, Purdue University / Recitation Building / 656 Oval Drive / West Lafayette IN 47907-2086
+phone (765) 494-7841 / fax (765) 496-3181 / Travel Info
+Copyright
+Copyright © 2018, Purdue University, all rights reserved. Purdue University is an equal access/equal opportunity university.
+If you have trouble accessing this page because of a disability, please contact the CERIAS webmaster at webmaster@cerias.purdue.edu . Some content on this site may require the use of a special plug-in or application. Please visit our plug-ins page for links to download these applications.

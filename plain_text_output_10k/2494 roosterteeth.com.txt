@@ -1,0 +1,72 @@
+ 
+ 
+ 
+WHAT ARE COOKIES?
+ 
+ 
+ 
+ 
+HOW DO WE USE COOKIES?
+ 
+ 
+Security and Authentication (Strictly Necessary Cookies): These cookies are essential to provide you with the Services and to use some of its features, such as access to secure areas. Without these cookies, we can’t provide parts of the Services that you request, like secure login accounts and transactional pages.
+Performance & Functionality Cookies: We use performance cookies to analyze how the Services are being accessed and used, or how the Services are performing in order to maintain, operate and continually improve the Services and provide a better overall user experience. Functionality cookies record information about choices you’ve made and allow us to customize the Services to you. When you continue to use or return to the Services, we can remember choices you make (such as login credentials, language preference, country location or other online settings) and provide the personalized or enhanced features that you select. We also employ Google Analytics to help understand how the Service is used.
+Social Networks: Some technologies help you to interact with social networks you are signed into while using the Services, such as sharing content with the social network, logging in with the social network, and other features you employ with the social network, or that are allowed in the social network’s privacy policy. These may be set and controlled by the social networks, and your preferences with those social networks. You can manage your privacy preferences for these social networks and their tools and widgets via your account with the social network.
+ 
+ 
+ 
+__cfduid
+This is a token from Recurly, the subscription backend service we use.
+External
+_ga
+These are Google cookies. We use these to track user behavior (e.g. click events, page views, video views, and purchases) to learn how users use our site.
+External
+_gat_UA-2631020-20
+External
+_gid
+External
+ajs_anonymous_id
+These are Segment.IO cookies. We use these to send data to our internal analytics platform, which sends data to our warehouse. These cookies also track user events, behaviors, and where users visit on our site.
+External
+ajs_group_id
+External
+ajs_user_id
+External
+All cookies from .facebook.com
+We allow users to sign in and create an account using Facebook. We also track FIRST membership purchases with a Facebook tracking pixel.
+External
+mp_d5d9108a00e53e563e046ee5aca7b049_mixpanel
+This is a Mixpanel cookie. We use this to track user behavior such as clicks, page views, and purchases.
+External
+optimizelyEndUserId
+This is an Optimizely cookie. We use this for A/B testing and to track user behavior (e.g. click events, page views, and purchases).
+External
+rt_access_token
+We use these tokens to check if users have access to FIRST membership / paid content, and to refresh access tokens.
+Internal
+rt_refresh_token
+Internal
+chat-panel
+This cookie is used to remember if a user left the chat panel open or closed.
+Internal
+HOW CAN I MANAGE COOKIES?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHAT IS DO NOT TRACK?
+ 
+CHANGES TO THIS COOKIE POLICY
+ 
+ 
+QUESTIONS OR CONCERNS
+ 
+Loading...
+Error
+Continue Shopping
+Our website uses cookies and similar technologies to make the site work and improve your user experience. By using this website, you consent to the use of cookies. Read our updated Cookie Policy to learn more.
+AGREE

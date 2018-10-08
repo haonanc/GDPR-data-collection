@@ -1,0 +1,38 @@
+Model Mayhem is first and foremost a networking site, where members can connect with each other, build professional relationships and collaborate on fantastic artwork. For many members, the goal is to be seen by as many others as possible in the effort to gain attention and make connections in the community.
+But some of you may wish to limit the amount of exposure your profiles and portfolios get from certain segments of the community. You may want to separate your modeling life from your life as a teacher, for example. Or you may not want your grandmother to see your nude images.  Maybe you’re working on a project and you only want to show the unfinished works to a select handful of people. Model Mayhem offers a variety of options to help you keep your profile and portfolio images private.
+Please keep in mind that these options are not foolproof.  Model Mayhem can’t guarantee that something protected by a privacy setting will never be seen by someone you don’t want to see it.  The surest way to keep your name, images and other information from being seen on the Internet is not to post it on the Internet in the first place.
+Also keep in mind that while you can set privacy on your own profile and portfolio, you can’t change that for other members or the rest of the site.  So, if you post in a public area such as the forums or casting calls, what you write will be visible.  Or, if another member lists you as a “credit” on their profile, your name and Model Mayhem number may be visible.
+So what are the options?  There are:
+Pseudonyms
+Pseudonyms
+This is the easiest way to limit the connection of your modeling life to your personal life.  If you don’t want your real name connected with your Model Mayhem profile, simply use a pseudonym or stage name for your profile.  This applies to all areas of the site, your name, your custom URL and your communications with other members.
+Other identifying information can also be used to connect your Model Mayhem profile to your life outside Model Mayhem, such as email addresses and phone numbers.  By posting those in public areas of the site, not only are you inviting scammers and spammers to contact you, it makes it easier for search engines to associate your Model Mayhem profile with you.  If you don’t want that to happen, don’t post your personal information.
+To change your name now, click My Stuff  >  Settings > Change Display Name
+Profile Privacy
+There are four options for Profile Privacy:
+Public
+Public
+This means that anyone can view your profile, including members, non-members and search engines like Google.
+Block Search Engines
+When you choose the Block Search Engines option, a bit of code is added to your profile that tells search engines to go away and ignore your page.  Any human (both members and non-members) can see your profile.
+Members Only
+With this setting, only members logged into active profiles will see your profile.  If you log out and try to look at your profile, you will see a message that says, “This user has chosen not to display their profile to any non-approved members of Model Mayhem. To view this profile, you will need to Login to an approved member profile.”  Neither search engines nor non-members will be able to view your profile.
+In addition, if a non-member tries to search for you using the Browse feature, your profile will not be displayed in those results.  Your profile will come up when an approved member uses the Browse feature to find you.
+Members and Recruiters
+This setting is similar to the Members Only option, but includes Talent Recruiters
+M (18+) Image Privacy
+Each Model Mayhem member has the option to hide their “M” (sometimes referred to as “18+”) images from non-members.  Typically this is used to hide your images that depict nudity, violence, drug use or bondage.  [ Read the full rules on what must be marked “M” here .]
+When non-members try to view an M image in your portfolio with this setting on, they get a message saying, “Image Not Viewable By Non-Members.”
+Album Privacy
+Public
+This allows everyone to view the album.  Just like normal.
+Members Only
+When a non-member views your portfolio and sees an album that you have set to Members Only, they will not see your designated album picture, and instead of the album’s name, they will see, “MM Members Only.”
+If the non-member tries to view the album, they see, “[Your name] has chosen to only show this album to Model Mayhem Members. If you would like to view the album, please contact [Your name].”
+Friends Only
+This acts just like the Members Only setting above, except instead of just having to be logged in, the member has to be on your friends list to view the album.  If not, they see, “Friends Only,” and, “[Your name] has chosen to only show this album to Friends of [Your name]. If you would like to view the album, please contact [Your name].”
+Password Protected
+If you wish for only a specific few members to be able to view an album, you can set a password on it, and those without the password will not be able to view the album.
+Regardless of the album privacy, all images in all albums are visible to the moderator team, and all images must follow image rules .
+Date: 10/03/2018
+Compensation: Paid

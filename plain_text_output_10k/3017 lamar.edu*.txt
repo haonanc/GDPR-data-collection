@@ -1,0 +1,34 @@
+This policy refers to web-based forms managed by Lamar University.
+All web forms that require personal information from a visitor must post a link to the Lamar University privacy policy, lamar.edu/privacy .
+You must use the university's chosen software solution to create and manage all web forms. (Formstack, currently.)
+Web forms may not be used to collect sensitive data such as:
+Personally identifiable information that does not comply with FERPA -- contact the Office of the Registrar regarding FERPA compliance.
+Credit card information -- this should only be collected via approved university procedures for collecting such data.
+Social Security numbers, birthdates and other private information, as these could be used in an inappropriate manner by a third party.
+Standard
+Use of web forms should never conflict with the primary business purpose for which the form has been provided nor with those of the university.
+Web form creators must consider the university’s ethical responsibilities, business interests and applicable laws and regulations.
+Excessive personal use of the system is not permitted; the system is intended and provided for university business purposes, including instruction delivery and educational value.
+The university may monitor or review web form software data and communications at any time.
+All data in the university’s computer and communications systems (including documents, other electronic files and chat messages) are the property of the university.
+Software may not be used to create or transmit material that is derogatory, defamatory, obscene or offensive. Such material includes, but is not limited to, slurs, epithets or anything that might be construed as harassment or disparagement based on race, color, national origin, gender, sexual orientation, age, disability or religious or political beliefs.
+The software may not be used to solicit or proselytize others for commercial purposes, causes, outside organizations, chain messages or other non-job-related purposes.
+The Office of Web Communication builds and manages forms and grants certain users access based upon their level of competency.
+Web Communication will provide technical assistance and software training upon request.
+You may use certain themes and departmental official logos upon approval.
+You must create submission confirmation (thank you) pages in the CMS for each form.
+If a department needs to require payment at any point on a web form, the department must use LU Marketplace to collect data and reports. If a department does not intend to require payment at any point on the form, it should use Formstack.
+See lamar.edu/webcomm for other requirements for using forms.
+Guideline
+Avoid overly long forms.  Separate the form into pages if it contains many questions/items/fields.
+Procedure
+Complete a change request form at  lamar.edu/webcomm to submit your request. Include the following information in your request:
+Indicate which fields are required (user must provide an answer before form can be submitted).
+Indicate the options for each field with pre–set choices.
+Indicate whether the user may select more than one answer for questions that offer choices.
+Identify any logic required (e.g. field appears or remains hidden based on user's answer to a previous question).
+List the email addresses to receive the form submission data.
+Craft the confirmation message that will appear after the user submits the form.
+Identify the URL of the page in the CMS of where the form is to appear. Log in to the CMS and locate the page, then copy/paste the URL into your document.
+For payments online, the university uses Touchnet Marketplace.  If you need an online store created,  complete the form for LU Marketplace.
+Table of Contents

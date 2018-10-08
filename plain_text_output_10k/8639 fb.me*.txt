@@ -1,0 +1,55 @@
+Compliance for websites and apps
+A complete set of solutions to make your webiste or app compliant with the law, on multiple languages and legislations
+This post mainly answers the question how and why you have to include a privacy policy in your Facebook application.
+If you want to read a more general overview and frequently asked questions regarding privacy policies , then read here
+Let’s assume you’ve built a Facebook application, you’ve got it running and you are thinking about including a privacy policy. What do you have to do?
+1) Do I have to include a privacy policy when maintaining a Facebook app?
+There are two sides to this question from a legal perspective. But actually only one answer: YES.
+There is the legal side of it: Depending on where you are you may fall under European, American (Californian) or Australian privacy laws. The list could go on since most countries have some sort of privacy regulations that extend onto the web – and hefty penalties for non-compliance.
+Apps on the web: web apps collect some sort of personally identifiable information as a rule of thumb for various reasons. Either you need personal information to make sure the app works, you’d like to improve insights into how the application is being used or you’d like to monetize the services serving ads. Many of these behavior patterns must be disclosed to people via something like a privacy policy: More information about the  legal framework can be found here .
+There is the company policy side to it as well: Does Facebook require me in their terms to have a privacy policy when I use their service? See the answer in the next paragraph (2).
+2) Am I required by Facebook to post a privacy policy for my Facebook app?
+Yes. Facebook requires users of their app platform to use a privacy policy for an app as soon as you collect data from their users. In Facebook’s platform policies you will find the following:
+You will have a privacy policy that tells users what user data you are going to use and how you will use, display, share, or transfer that data. In addition, you will include your privacy policy URL in the App Dashboard, and must also include a link to your app’s privacy policy in any app marketplace that provides you with the functionality to do so.
+and
+Until you display a conspicuous link to your privacy policy in your app, any data accessed by your app (including basic account information) may only be used in the context of the user’s experience in that app. A user’s friends’ data can only be used in the context of the user’s experience on your application.
+as well as
+Web sites or services directed to children under 13: If you use Social Plugins or our JavaScript SDK for Facebook on sites and services that are directed to children under 13, you are responsible for complying with all applicable laws. For example, if your web site or service is directed to children in the United States, or knowingly collects personal information from children in the United States, you must comply with the U.S. Children’s Online Privacy Protection Act.
+Note how Facebook tells you to be consistent with California’s privacy laws concerning children: They tell you to comply with the U.S. Children’s Online Privacy Protection Act which introduces more stringent rules for your apps when you target children under the age of 13 .
+3) How do I add a privacy policy for a Facebook app?
+3.1 This process is straight forward. Navigate to the Facebook App Details page  and find your app. Find the Facebook application in question and click on Edit App.
+2 Then click on App Details to find some app settings.
+3.3 Down there you will find the Privacy Policy URL field. That’s where you paste your link to your privacy policy.
+4) What if I don’t comply with this requirement?
+Facebook is actively monitoring the apps and is sending out warnings to application owners that in their opinion need to add a privacy policy. A warning looks like this:
+Notice of Violation: Privacy Policy
+Hi,
+We’ve found the following policy violation with your app and you need to address this issue by Tuesday April 22, 2012 at 2:00pm PST or your app may be subject to enforcement action.
+Our policies require that your app has a privacy policy that tells users what user data you are going to use and how you will use, display, share, or transfer that data and you will include your privacy policy URL in the Developer Application (See Platform Policy II.3, http://developers.facebook.com/policy).
+It has come to our attention that your app is missing a privacy policy in the permissions dialogue. Please update the privacy policy URL field in the Developer Application at developers.facebook.com/apps/[YOUR_APP_ID]/auth. Also, please review your app to ensure you are also displaying your privacy policy on your web site or within your app.
+Thanks,
+Platform Policy Team
+When Facebook thinks you need a privacy policy you will also be notified with this warning:
+Missing Privacy Policy
+Your application is still missing a privacy policy URL in the Auth Dialog (see Platform Policy II.3). Please update the privacy policy URL field on the App Details page to avoid enforcement action. Also, please review your app to ensure you are displaying your privacy policy on your website or within your app. If you need support to create your own privacy policy you can refer to these external resources.
+What do I do now?
+Our Approach of Generating a Facebook App Privacy Policy
+So here’s where iubenda’s privacy policy generator will come in very handy: our generator will accompany you through the whole process and make this a very enjoyable and easy ride:
+It will help you find out  which categories of data collection your app/site is making use of.
+Add the services and data collection practices you are using to your policy. iubenda now takes care of your policy and generates it for you.
+You can then get the either link to your policy or embed the text into your app/site.
+STILL CONFUSED? THESE ARTICLES MAY HELP WITH SEEING CLEARLY
+About Us
+iubenda is the easiest and most professional way to generate a privacy policy for your website, mobile app and facebook app
+Generate a privacy policy now
+Ready in a few steps and built to meet the needs of both website and mobile app owners
+Academy
+This is an ordered set of articles which will help you get a general overview on privacy requirements for your app or website.
+Sometimes the best choice is to "just give it a try"
+iubenda is the easiest and most professional way to generate a privacy policy for your website, mobile app and facebook app
+VAT/C.F./P.IVA: IT07347120961
+Milan Chamber of Commerce
+CS: 12987 Eur (I.V.)
+×
+is to "just give it a try"
+iubenda is the easiest and most professional way to generate a privacy policy for your website, mobile app and facebook app

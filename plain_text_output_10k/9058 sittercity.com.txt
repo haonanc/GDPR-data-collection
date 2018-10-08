@@ -1,0 +1,202 @@
+Effective Date April 23, 2018
+Article 1 (Basic Operation Policy)
+a. This Operation Policy is a set of internal regulations to be collectively observed between JOYCITY Co., Ltd. (“JOYCITY”) and users in order to regularly cope with possible contingencies concerning the provision of mobile services (“the Service”).
+b. In accordance with this Operation Policy, JOYCITY will devote itself to the maintenance of order within the game and the protection of the user right for enjoyable game play by effectively dealing with complaints while strictly regulating any action that may interfere with game play.
+c. JOYCITY may periodically amend this Operation Policy partly or wholly for the promotion of optimal game play. In such case, JOYCITY will post relevant notices on the JOYCITY website, the brand website of each game. Users shall periodically check notices lest they incur a problem or disadvantage during Service use.
+d. If a user is found to engage in any action not compliant with this Operation Policy, JOYCITY may restrict the user’s right to access the JOYCITY website or game services. The user may ask for  reconsideration of such action upon objection.
+e. Matters not covered by this Operation Policy will be judged and handled in accordance with law of Republic of Korea and JOYCITY terms of service.
+Article 2 (Name Policy)
+a. As used herein, “names” refers to names selected by users including nicknames or names of characters or guilds used on a site or game.
+b. Users may select names freely; however, JOYCITY may exercise necessary measures if a name corresponds to one of the following categories in order to maintain an optimal game environment and protect users.
+The aforementioned “necessary measures” include game restriction, name alteration, or deletion in accordance with this Operation Policy without notification to the user.
+※ Even if the case does not correspond to any of the following, a user may incur service restrictions if a name has a negative impact on the game environment.
+1. A name that may be confused or even impersonate the name of a JOYCITY employee;
+2. A name that may devalue a specific country, race, religion, gender, or the impaired;
+3. A name that may sound lewd, vulgar, or unpleasant to others;
+4. A name that is anti-social or prohibited by law;
+5. A name that may infringe on a trademark or intellectual property right;
+6. A name judged to be associated with illegal acts such as monetary or account transactions;
+7. A name advocating the insulting or slandering of others;
+8. A name intended to advertise or promote a specific person, product or business;
+9. A name that may be judged to be inappropriate.
+c. Users are suggested to report a name corresponding to the foregoing conditions while using the Service in order to protect their right for enjoyable game play. JOYCITY may conduct name alterations based on rational, objective judgement.
+Article 3 (System Error, Bugs, and Illegal Programs)
+a. Users shall not negatively manipulate a system error or bug incurred during game play and are required to report such instances immediately.
+The act stated in the previous provision will be strictly dealt with, resulting in user restriction without warning, as such acts are considered to disrupt fair game play.
+b. JOYCITY may put restrictions on users engaging in any of the following acts based on the following Operation Policy:
+1. Abusive behavior, such as exploiting program bugs, design flaws, without reporting and informing other users of such abnormal way to play the game;
+2. Attempt to gain benefit or disrupt fair game play by manipulating game data or game play time
+3. Ill-intentioned development, use, and distribution of hacked or illegal applications;
+4. Creating a harmful bug within a game through routing or hacking, using an illegal program, or implanting a cause for potential game error;
+5. Creating a harmful bug within a game or implanting a cause for potential game error by manipulating resources within the game without permission;
+6. Refilling game cash through unconventional methods such as hacking or illegal payment;
+c. Users in violation of the terms above  may be subject to more severe punishment for future violations.
+※ JOYCITY may recollect or reduce paid-for or free goods, experience, or items created or obtained through inappropriate game play.
+Article 4 (Users’ Rights and Obligations)
+a. User rights
+1. Users may make game-related inquiries, suggestions, or requests via the following:
+2. Making a request
+- 24-hour online customer support
+- Email: support@joycity.com
+3. Where a user suffers loss and/or damage due to another user in the course of game play, remedial steps may be requested under this Operation Policy.
+4. User may object to any unfair treatment deemed or damages incurred during Service use.
+5. JOYCITY strives to provide prompt and attentive response to user inquiries, suggestions, requests, or objections; however, such practice may require additional waiting time for users in the queue.
+6. JOYCITY may limit our Service partly or wholly where there is a problem occurring due to an internal or external factor disrupting game play.
+b. User obligations
+Users shall observe the following:
+1. Respect other users’ rights and strive to create healthy game environment;
+2. Be careful not to engage in an act running afoul of the law;
+3. Refrain from engaging in coordinated action with others for the purpose of committing slanderous, anti-social, or unlawful acts toward a specific nationality, race, religion, ethnicity, gender, or the impaired;
+4. Refrain from the use of illegal software or hardware that may have an impact on a game;
+5. Refrain from engaging in commercial advertisement or promotions;
+6. Refrain from the use of offensive, vulgar, vile words, or sexual expressions that may offend other users;
+7. Refrain from engaging in socially unacceptable acts;
+8. Perform all necessary actions to ensure account protection.
+Article 5 (Fraud and Cash Transactions)
+a. Fraud
+1. As used herein, “fraud” refers to an act of gaining unfair profit by deceiving other users, using a system (such as chatting, transaction, mail, memo, gift, etc.) within a game. Such an act disrupts game play, depriving users of game experience. Such acts are punishable by law and will be met with severe punishment.
+b. Cash transaction
+1. All data about characters, items, and in-game currency used in a game are our property as stated in relevant terms and conditions. Users have the sole right to use them and may buy, sell, or exchange items and in-game currency, etc. with other users within the operating parameters of game play.
+2. Cash transaction of items and in-game currency created without permission through the manipulation of system errors, bugs, or illegal programs are prohibited. Users clearly engaging in such transactions involving cash, names, and postings judged to be associated with such cash transactions or acts of commercial advertisement and chatting intended for an individual’s benefit that is unrelated with game play, may be subject to Service use restriction.
+3. This cash transaction-related provision applies also to the exchange of the following non-cash items: goods with property value or characters, items, and in-game currency used in other games.
+4. All responsibilities for cash transactions shall lie with the user.
+Article 6 (Inappropriate Behavior)
+a. As games are meant to be enjoyed by all users, inappropriate behavior during game play is strictly prohibited. “Inappropriate behavior” refers to an act intended to interrupt or do harm to another user’s game, within a game, on related websites, community pages, etc.
+b. JOYCITY will continue to strive to block posts or images falling under the category of inappropriate behavior from appearing on the JOYCITY site bulletin board or community. Please report any such instances immediately to customer support.
+Article 7 (Payment Cancellation)
+a. Our users may cancel their payment for directly purchased content within 7 (seven) days of the date of purchase if the content remains unused (uncollected from the mail box). A request for payment cancellation may be submitted to customer support. JOYCITY will handle a request for payment cancellation within 3 (three) business days of the day the content is returned. JOYCITY may not accept requests for payment cancellation where the effect is applied upon purchase or where the content is used partially or wholly.
+b. Where a minor (a person under 18) has made payment without the consent of a legal agent, the legal guardian may cancel payment; however, payment cancellation shall not be accepted where payment is made within the scope of property, whose disposition has been granted by the legal guardian, or where the report made by the minor is found to be false. A Service purchaser is considered a minor based on records concerning the registered person associated with the terminal or payment means. JOYCITY may ask for the submittal of a document proving one’s being a minor or a minor’s legal guardian when necessary.
+Article 8 (Service Use Prohibition)
+a. Game use in violation of relevant terms and conditions, this Operation Policy, the law, established social morals and customs, or social order, may lead to immediate action in order to ensure the protection of other users. JOYCITY may also prohibit such users from game access, chatting, the use of provided Services, game-related brand websites, the JOYCITY website, or community page access based on the following provisions in the table below. Such action will be determined upon the purpose of the act perpetrated, relevant facts, degree of intent, degree of situation, its impact on the game, history of delinquency, etc. JOYCITY will respond attentively to objections raised by those affected by actions and measures taken.
+b. Table for criteria for service use prohibition
+Category
+Details
+1st
+2nd
+3rd
+4th
+5th
+Slandering another user (or guild); using inappropriate language toward others; making a condescending remark about others’ appearance
+1days
+3days
+7days
+15days
+Permanently banned from Service use
+Putting up a post repeatedly to block others from engaging in a game
+Hinting at content sexual in nature or making others feel ashamed sexually
+Slandering others’ parents or a specified person or unspecified people
+An act intended to hamper others’ game maliciously
+A nonsensical act causing inconvenience to others
+Using a name in violation of this Operation Policy, Article 2
+Warning
+3days
+7days
+15days
+Names changed forcefully
+Repeatedly posting promotional material, blocking others from engaging in a game, or making others feel displeased
+3days
+15days
+Disrupting, interfering, hindering operational procedures and game play
+An attempt to gain unfair profit or cause confusion or disturbance to others by distributing false information or disclosing secret information (In such a case, JOYCITY will recollect all goods and experience points obtained within the game.)
+Using abusive language, sexual harassment, or slander, while making an inquiry over phone or on visit in person
+Warning
+1days
+3days
+7days
+15days
+Using abusive language repeatedly, disturbing a one-on-one inquiry session
+Submitting of inquiry related or unrelated to a game while using abusive language
+Fraud
+Obtaining unlawful profit by misleading other users and other acts of fraud (In such case, JOYCITY will recollect all goods and other benefits  obtained from this act)
+3days
+15days
+Permanently banned from Service use
+Where the relevant items cannot be recollected in connection with a case of fraud as stated in the foregoing
+Permanently banned from Service use
+Attempt to manipulate system error or bug
+Where a game has been played without the user’s awareness of a bug, or game play has been carried out only a few times during that state, limiting its impact on the game (In such case, JOYCITY will recollect all goods and experience obtained within the game.)
+Temporary restriction
+Permanently banned from Service use
+Where a user is aware of a bug and repeatedly and/or intentionally exploits said bug for personal profit, which has serious impact on a game, or makes said bug known to other users (In such case, JOYCITY will recollect all goods and experience obtained within the game)
+7days
+15days
+Permanently banned from Service use
+Where a user is aware of a bug and repeatedly and/or intentionally exploits said bug for personal profit, which has serious impact on a game, or makes said bug known to other users (In such case, JOYCITY will recollect all goods and experience obtained within the game)
+Permanently banned from Service use
+Abuse
+Where abnormal game play has been carried out, but only a few times, limiting its impact on the game. (In such case, JOYCITY will recollect all goods and experience obtained within the game)
+Temporary restriction
+Permanently banned from Service use
+Where a user unintentionally, but repeatedly exploits abnormal game play for personal benefit, which has serious impact on a game, or makes said abnormality known to other users (In such a case, JOYCITY will recollect all goods and experience obtained within the game.)
+7days
+15days
+Permanently banned from Service use
+Where an abusive act stated above has been confirmed, but it is impossible to recollect goods and experience obtained in the game
+Permanently banned from Service use
+Cash transaction;
+commercial advertisement
+An attempt to (have a third party) engage in a transaction to obtain content (items/in-game currency, etc.) with cash or other means during game play
+3days
+7days
+15days
+Permanently banned from Service use
+An attempt to (have a third party) engage in a transaction for obtaining a game account or content (items/in-game currency, etc.) with cash or other means during game play
+Permanently banned from Service use
+An act of commercial advertisement and chatting intended for an individual’s benefit which is irrelevant to game play
+15days
+Use or distribution of illegal program
+Using an illegal program unauthorized by JOYCITY; abnormal manipulation or use of a program, or distributing it to other users (In such case, JOYCITY will recollect all goods and experience obtained within the game.)
+100days
+Permanently banned from Service use
+Where use and distribution of an illegal program stated in the foregoing has been confirmed and obtained
+Permanently banned from Service use
+Where it is impossible to recollect goods and experience points in the game.
+Dishonest use of others’ account or payment means
+Disclosure or inappropriate use of personal information (name, address, workplace, phone number, IP, etc.) or payment-related information of other users
+Permanently banned from Service use
+Unauthorized access to other users’ account and/or collaborating or receiving assistance to obtain profit during such action
+Unauthorized access to other users’ account or the like, thereby causing mental/physical harm to them
+Where user discloses another user’s personal information
+Where user wields another user’s payment means such as a credit card, cell phone or ARS unlawfully to pay game service fee
+Criminal act
+Where user attempts to or actually engages in a crime under the laws of the Republic of Korea in a game or in the process of using a game
+Dishonest use of any process associated with us or an open market store
+Where user gains unfair profit, using a process such as membership registration, using a game, payment, or payment cancellation provided by us and an open market store (and where JOYCITY can recollect all such unfair profit gained)
+7days
+Permanently banned from Service use
+Where user gains unfair profit, using a process like membership registration, using a game, payment, or payment cancellation provided by us and an open market store (and where JOYCITY cannot recollect any such unfair profit gained due to it having been spent)
+Permanently banned from Service use
+Where user disperses a way of using a process provided by an open market store maliciously within a game or through the official community site
+100days
+Permanently banned from Service use
+※ The period and method of our Service use prohibition may differ, depending on the level of impact of an offense during game play and the frequency of violation.
+※ “Warning” may be given in various forms including mail, text message, prohibition of chatting, forced ending of a game, etc. Warning takes effect regardless of whether the offender has recognized it or not.
+※ Service use prohibition may apply to repeated offenses.
+※ An offense such as using an illegal program, dishonest use of another person’s account (or ID), and disclosure of another person’s personal information is subject to Service use prohibition and punishable by law.
+※ Unfair profit (e.g. goods within a game or experience) gained through system abuse through bug manipulation or abnormal play may be recollected or deducted from what JOYCITY owes to the offender and may be recollected in the form of other goods with corresponding value.
+※ Items, goods and experience obtained directly or indirectly through the inappropriate use of game services or an open market store will be all recollected or deleted. Where recollection is unavailable due to relocation or damage, the character may be deleted or game data may be reset.
+※ Dishonest use of a process provided by us or an open market store punishable under the law.
+※ A person subject to Service use prohibition due to violation of this Operation Policy may be excluded from contests or event drawings.
+※ JOYCITY are not responsible for any result occurring due to the inability to access a game during Service use prohibition period.
+c. Please contact customer support or send an email to support@joycity.com to submit an objection regarding limited access or to inquire as to the reason. Once a month of implemented limited access has passed, all data pertaining to the grounds for limited access become expired, resulting in the inability to raise an objection.
+Article 9 (Rehabilitation)
+a. Where an item or in-game currency is lost or altered due to a reason attributable to us or a technical error, JOYCITY will strive to recover it promptly; however, it may not be possible where the item or in-game currency that the user reports as lost does not exist within the game or where JOYCITY cannot find objective data.
+b. JOYCITY will not be responsible for the loss of an item or in-game currency caused by carelessness or willful misconduct or the user’s unfamiliarity with the relevant terms and conditions, this Operation Policy, and other notices stated by the Company.
+c. The following statements include important notes for users when they request for recovery. Please be fully aware of these items in order to prevent loss during such requests:
+1. Where requests for recovery are found false, user may be subject to a punitive measure such as our Service use prohibition;
+2. A request for recovery shall be made directly by the relevant user.
+3. A request for recovery of an item or in-game currency shall be made within a period of 7 (seven) days. JOYCITY cannot ascertain the relevant content after the elapse of said period;
+4. Recovery requests are handled in the order they are received.
+Article 10 (Complaints Handling and Consulting Policy)
+a. Please contact customer support or send an email to support@joycity.com to submit your inquiries or complaints about a game. JOYCITY will provide prompt response to inquiries or complaints.
+b. JOYCITY will always value users’ opinions, keeping in mind that such input initiates further development and optimal services.
+c. JOYCITY will become involved ourselves in private disputes between users; however, JOYCITY may act as a mediator or put restrictions based on this Operation Policy where it is judged that the content of dispute between users is relevant for operational game play such issues concerning the disturbance of game play, the law, public order or established social morals and good customs.
+This Operation Policy is part of our effort to optimize game experience. Users are kindly asked to familiarize themselves with this Operation Policy lest they are inconvenienced or suffer problematic Service use.
+Article 11 (Personal Information)
+a. All responsibilities for using the account (ID) lie primarily with users themselves. JOYCITY do not accept users sharing their personal information or their account (ID) or their unauthorized transfer or transaction of the said with others. JOYCITY will not help users with problems including fraud or the like caused by what is stated in the aforementioned sentence.
+b. If user attempts to engage in cash or similar transactions involving one’s account (ID), characters, goods or items, the right to Service use shall be forfeited.
+c. User may better protect personal information by periodically changing the password for their account (ID).
+d. Be particularly careful not to be a victim of fraud using character names similar to yours or GM names or acquaintance with you in the course of the transaction or relocation of an item or goods. JOYCITY does not take responsibility for such matters arisen from personal negligence.
+Additional Rules
+This Operation Policy shall be implemented on April 23, 2018.
+COPYRIGHTⓒ JOYCITY CO., LTD. ALL RIGHTS RESERVED.

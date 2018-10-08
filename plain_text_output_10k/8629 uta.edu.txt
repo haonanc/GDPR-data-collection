@@ -1,0 +1,22 @@
+  By accessing or using this web site at the University of Texas at Arlington (UTA) you agree to the terms of The Office of Research Administration's Internet Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. The Office of Research Administration reserves the right to change the Internet Privacy Policy from time to time at it's sole discretion. Your use of this site will be subject to the most current version of the Internet Privacy Policy at the time of such use.
+You may be entitled to know what information UT Arlington (UTA) collects concerning you. You may review and have UTA correct this information according to procedures set forth in UT System BPM #32. The law is found in sections 552.021, 552.023 and 559.004 of the Texas Government Code.
+The Office of Research Administration (RA) at the University of Texas at Arlington, 202 East Border Street, Suite 216, Arlington Technology Incubator Building, TX, USA - 76019 makes the following statement in regards to information gathering and dissemination practices for it's web site: http://www.uta.edu/expertise
+Server Logs/Log Analysis Tools
+RA uses server logs and log analysis tools to create summary statistics about Web site usage to improve site management. The statistics are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas. RA does not report or use this information in any manner that would reveal personally identifiable information, and does not release the information to any outside parties unless required to do so under applicable law. Logs are kept indefinitely. The following information is collected for this analysis:
+User Client hostname: The hostname (or IP address if DNS is disabled) of the user/client requesting access.
+HTTP header, "user-agent": The user-agent information includes the type of browser, its version, and the operating system it's running on.
+HTTP header, "referer": The referer specifies the page from which the client accessed the current page.
+System date: The date and time of the user/client request.
+Full request:  The exact request the user/client made.
+Status: The status code the server returned to the user/client.
+Method:  The request method used.
+Universal Resource Identifier (URI) - The location of a resource on the server.
+Query string of the URI: Anything after the question mark in a URI.
+Protocol: The transport protocol and version used.
+Search Keywords: The keywords used to search for a page on this website
+RA monitors network traffic for site security purposes and to ensure that the site remains available to all users. Unauthorized attempts to upload information, change information on this site, or otherwise cause damage are strictly prohibited and may be punishable under Texas Penal Code Chapters 33 (Computer Crimes) or 33A (Telecommunications Crimes). Except as may be required for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. RA does not use raw data logs for any other purposes.
+Cookies and Web Bugs
+When you visit this website, you can surf the site anonymously and access important information without revealing your identity. However for functions/features that require authorization we use "cookies" to track your visit.
+A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. They function as your identification card. Cookies cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies.
+Contacting the Webmasters
+ 

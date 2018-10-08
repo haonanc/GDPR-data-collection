@@ -1,0 +1,18 @@
+Mashable
+Image:  Getty Images/Canopy
+By Rachel Thompson
+2018-05-11 10:08:16 UTC
+In a refreshing turn of events, Google has gone and updated its Privacy Policy to make it clearer, so that humans can actually understand it. Hurrah. 
+Of course, this isn't just a spontaneous act of benevolence and decency on Google's part. This change forms part of Google's efforts to comply with Europe's new General Data Protection Regulation (GDPR) , which comes in to effect on 25 May. 
+Google's first step in complying with the change to the law is an update to its Privacy Policy, which Google says will "make it easier to understand what information we collect" and the reason why it collects it. 
+In a blog post , William Malcolm — director, privacy legal EMEA at Google — said the company had made several changes to the user experience of the policy, including improvements to its navigation and organisation, as well as introducing visual aids like videos and illustrations. 
+We’ve improved the navigation and organisation of the policy to make it easier to find what you’re looking for; explained our practices in more detail and with clearer language; and added more detail about the options you have to manage, export, and delete data from our services. The policy now also includes explanatory videos and illustrations, because a visual description can be easier to understand than text alone. And we've made it easier to jump to your privacy settings directly from the policy, helping you make choices about your privacy.
+It's worth noting that absolutely nothing is changing in your settings or the kind of data Google collects on you. Google is just improving "user transparency" to comply with GDPR's stipulation that companies must provide "clear and transparent notice" of how users' data is used.  
+Although we’re taking these steps to make our Privacy Policy easier to understand, it’s important to note that nothing is changing about your current settings or how your information is processed. You’ll continue to have granular control over the data you share with us when you use our services, but with clearer explanations. The updated policy is already available to read and we’ll be emailing all of our users about it individually.
+This isn't the only change, though. Google also announced that it's improving User Controls, so it'll be easier for us to "review your Google security, privacy, and ad settings." 
+As part of our GDPR compliance efforts, we’ve improved both the controls and the clarity of information in My Account so that people are better informed about how and why their data is collected. 
+Within "My Account" you can use Activity Controls to select "what activity is saved" to your account. You can also now toggle "on/off switches" to control things like Location History, Web, and App Activity, YouTube Search History, among other things. Using My Activity , you can view or delete history, "including search history, location history, browsing history." There's also now a mobile-friendly dashboard which allows you to "get a clear overview of all the Google products that you used" and, rather crucially, the data "associated with them." 
+Rather helpfully, Google is upgrading its "data portability," which essentially makes it much easier for you to download your data. 
+"We are further improving and expanding this feature, adding more Google services, including more contextual data controls, and creating a new setting that helps people schedule regular downloads," reads the blog post. 
+All we can say is: it's about time! 
+©2018 Mashable, Inc. All Rights Reserved.

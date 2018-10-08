@@ -1,0 +1,830 @@
+Why doesn't Metafilter have a privacy policy?
+The MetaFilter Network LLC is an Oregon-based company, which collects a one time membership fee from registered users, and makes enough money from advertising to support a few awesome admins, and pay for shiny new servers. Metafilter is a fairly high traffic site, and receives 11.5 million pageviews from 3.5 million unique users every month.
+MetaFilter would thus seem to meet any reasonble definition of a commercial website.
+California's Online Privacy Protection Act (OPPA) requires that all commercial websites that collect "personally identifiable information" on users who reside in California must have a conspicuous privacy policy on their web sites – even if that company is based outside California, including overseas.
+This law went into effect in 2004, and as a result, practically every corporate website in the world now has a "privacy policy" link on the bottom of the front page, which leads to a document explaining what kind of information the website collects.
+There is probably at least one Metafilter user in California, and thus, it seems reasonable to assume that Metafilter is collecting personally identifiable data on California residents.
+Furthermore, a recent comment by Cortex seemed to imply that Metafilter is logging the identity of users who author anonymous posts.
+After seeing Cortex's comment, I tried to find more information about the extent to which Metafilter is logging on my activity with the website, but I couldn't find anything. There certainly isn't a privacy policy linked from the front page, and 10 mins of googling didn't come up with anything.
+So.. my two part question is this: Why doesn't Metafilter have a privacy policy, and if one does exist, why isn't there a prominent link to it on the front page as required by California law.
+(I'm not a lawyer, but I am a privacy geek)
+Alternatively, perhaps ban any users from California?
+why isn't there a prominent link to it on the front page as required by California law
+Why do you think California's laws apply to a non-California-based business?
+posted by Blazecock Pileon at 2:15 AM on February 9, 2009 [ 8 favorites ]
+Everyone, including you, already knows what the policy is, so there's no point in writing it down.
+posted by Ritchie at 2:31 AM on February 9, 2009
+I'm a Finnish citizen, living in Spain.
+Please apply all laws and regulations that apply to my specific situation to everyone on this site.
+"personally identifiable information" in the context of privacy law typically means the kind of info that can identify an individual in the real world - eg name, DOB, address etc, not whatever lies & obfuscations somebody happens to type into a website from time to time.
+then again, i'm not enough of a privacy nut to care, which is why i'm more than happy to own up to being a sydney-based pataphysician named ubu.
+posted by UbuRoivas at 2:44 AM on February 9, 2009
+PRIVACY POLICY FOR METAFILTER HEAVY INDUSTRIES
+* We know about you1, your family2, and your friends3. Everything.
+* We're so going to sell this shit.
+1. If you left it alone for a day or two, the chafing might heal.
+2. Your sister: meh. Your mom? Oh, yeah!
+3. Actually, we couldn't find anyone who would admit to being your friend.
+Really?
+You seen this part?
+"We may share your information with third parties, including responsible companies with which we have a relationship."
+posted by gman at 4:04 AM on February 9, 2009
+Metafilter logs the identity of anonymous AskMe users insofar as it knows which user account asked which question, with a base of database querying, not with respects to user IP and all that lovely stuff.
+I suppose I'm assuming that if users are paying to sign up to a website, they're pretty aware that their user account might link back to them in real life in some form. There's not much Metafilter could sell, if it tried, except perhaps the email addresses.
+Interesting question, though.
+posted by Phire at 4:17 AM on February 9, 2009
+You should probably take your unique last name outta your profile, if you're worried about privacy.
+posted by Brandon Blatcher at 4:19 AM on February 9, 2009 [ 5 favorites ]
+I personally use the same privacy policy on MetaFilter as I do on the rest of the internet: If you write it down, someone's gonna find it and trace it back to you. (HI, DAD!)
+Hello Dear.
+posted by Brandon Blatcher at 4:34 AM on February 9, 2009 [ 6 favorites ]
+I also use the "grapefruitmoon Privacy Policy™" and suggest that it be adopted as the official site policy.  Seriously folks if you don't want information getting out don't put it on the internet privacy policy or no privacy policy.
+posted by Bango Skank at 4:38 AM on February 9, 2009 [ 2 favorites ]
+Does MeFi have a privacy policy?
+That is none of your business.
+The policy is "Information wants to be free".
+Wait, that's the piracy policy.
+Never mind.
+The privacy policy wasn't providing adequate emotional support and Metafilter subsequently and with the help of AskMe decided that it was due time to DTMFPP.
+Please share me.
+Everyone, including you, already knows what the policy is, so there's no point in writing it down.
+I don't. When I signed up, I was asked if I wanted to make my email address public.  If not, it said, it would never be used for anything.  I said no, expecting never to get an email from MetaFilter.  Then I got one from a mod, in violation of that "policy".
+So no, I don't know what the policy is.  And I too am very interested in how the anon system works.  I have questions I'd like to ask but given the above, as well as the unknowns, I have no idea who or what will really know who I am or where that information will end up.
+posted by DU at 4:44 AM on February 9, 2009
+Why do you think California's laws apply to a non-California-based business?
+California's laws apply to organizations doing business in California, regardless of whether the organization is headquartered in California or not.  Do you suppose Amazon can ignore the laws of 49 states merely because it's headquartered in Washington?
+I'm a Finnish citizen, living in Spain.
+Please apply all laws and regulations that apply to my specific situation to everyone on this site.
+If there are Finnish or Spanish laws which are likely to result in MetaFilter being sued out of existence if they're not followed, then HELL YES MetaFilter should be following those laws.  And genome4hire isn't suggesting the law be applied to "everyone," he's suggesting it be applied to MetaFilter. Is having a written privacy policy linked on the front page going to prevent you from doing anything you would do otherwise, slimepuppy?
+That said, a simple MeMail to mathowie probably could have accomplished this quietly without all the wailing and gnashing of teeth on the part of users who seem to think "the law as I think it ought to be" trumps actual laws on the books.
+Given that the site was just hacked for the first time (that we know of), I wondered about all those people who thought they were following grapefruitmoon's advice above by posting anonymously, but in fact, probably weren't. Never mind the law, it seems the right thing to do is to write up for people what they can expect to be recorded when submitting "anonymous" posts.
+posted by about_time at 4:51 AM on February 9, 2009
+Do you suppose Amazon can ignore the laws of 49 states merely because it's headquartered in Washington?
+Do you suppose that California's laws apply to Amazon customers who live outside of California? Do you suppose that California has the wherewithal and rights to enforce its laws on all Amazon customers regardless of where they live? Personally, I don't see that as tenable, but I admit that I'm not a lawyer. Maybe that could work. Has California ever tried to enforce their own laws on non-Californian companies, to this specific purpose?
+If I were to write an anonymous post (which I haven't - well, I wrote one and then unanomymously asked for it not be posted) I would absolutely expect the mods to know that it came from me.  Good og, not everything is automated!  There are real people operating this website, real people monitoring it, real people contributing to it and real people reading it.  There are also arseholes out there who'll do what they can to subvert it.  I'm trusting the real people operating and monitoring it to protect this website.  I'll also have to deal with the consequences of posting to it, knowing that there are arseholes out there who might want to, in their inimitable arseholish manner, use what I post (nothing of substance, mostly) in an arseholish way.  If I didn't want there to be a chance of that happening I wouldn't have got my brother to pay the $5 for my membership so that I could be more than a lurky-lurker.
+posted by h00py at 5:08 AM on February 9, 2009
+Do you suppose that California's laws apply to Amazon customers who live outside of California? Do you suppose that California has the wherewithal and rights to enforce its laws on all Amazon customers regardless of where they live?
+Please re-read the post. No one is suggesting that California's laws apply to all MetaFilter users, only to MetaFilter itself.  You are not MetaFilter, no matter how much you'd like to believe otherwise.
+The rule at my house is shoes off at the door, but surely some of you are wearing shoes! *hires lawyer*
+Metafilter Privacy Policy. First Draft.
+1) Less of that.
+4) I say, could you keep it down, old thing?
+5) Hey, I'm walkin' here!
+If there's going to be anything like a privacy policy, there should also be a reminder that, policies be damned, we can figure out an awful lot about people based on what they happily volunteer here, line by line, clue by clue, as pieces of a puzzle for all of us to put together.
+My mind is too muddled to recall the poster or find the comment, but there was one metatalk comment in particular by some showoff who wanted to demonstrate how much he or she could determine about a poster based only on posting history. The profile was pretty detailed, and that was in the days before askmefi started encouraging people to post all sorts of embarrassing details about their personal lives. Or was I dreaming this?
+posted by pracowity at 5:18 AM on February 9, 2009
+You are not MetaFilter, no matter how much you'd like to believe otherwise.
+What an odd comment. Neither are you.
+Or let me put it another way:
+California's OPPA applies to "all commercial websites that collect 'personally identifiable information' on users who reside in California"
+MetaFilter is, to this non-lawyer's best understanding, a commercial website that collects personally identifiable information on users who reside in California.
+Thus, California's OPPA applies to MetaFilter
+Blazecock Pileon is not, as far as I know, a commercial website that collects personally identifiable information on users who reside in California.
+Thus, California's OPPA does not apply to Blazecock Pileon.
+No one here is suggesting that the OPPA applies to Blazecock Pileon merely by virtue of his being a user of MetaFilter.  But that doesn't mean the OPPA doesn't apply to MetaFilter itself.
+What an odd comment. Neither are you.
+Exactly my point.  Neither you (assuming you're not in California) nor I are bound by the laws of California just because MetaFilter is.
+My comment was more for DU than for genome4hire, for what it's worth.  IANAL (actually I don't although there's nothing wrong with that - well looky there, there's a rip off of a Seinfeld show and some personal information for you all, all wrapped up in a bad pun!  You can use it against me, spammers of the world).
+Here's why this works:
+1. California is a big state with lots of very wealthy consumers.
+2.  A state can protect its citizens from out-of-state harm, but not from out-of-state competition. California has the right to protect its citizens from the harmful actions of corporations and private citizens, whether or not they are based in California, so long as this protection does not hamper interstate commerce which is a right held by the US Congress alone.
+3. There is a complicated and rich history of case law over what protective regulations might hamper interstate commerce, but basically the test is 'facial or effective discrimination.'
+4. Requiring a privacy policy probably doesn't rise to the level of 'hampering': it doesn't discriminate against non-California businesses and its costs and effects are negligible.
+5. Anyway who wants to spend the legal fees litigating a silly question like this when you can just throw a privacy policy in the footer and get on with your life?
+Matt, you better fix this or I'm so going to tell boingboing.  OH I'LL DO IT!!!!
+Seriously, I would not expect most Metafilter users to be this nonchalant about privacy rights were we talking about any other website. As much as you love Metafilter, you're not doing it any favors by encouraging this kind of exposure. All it takes is one litigious bastard, and I'll go out on a limb and guess that there's probably a couple posting here that fit that description.
+In short, hard to defend, easy to fix.
+California's OPPA applies to MetaFilter
+It would seem to apply to MetaFilter accounts associated with people from California, more specifically — if at all, given how personally identifiable information is opt-in.
+posted by Blazecock Pileon at 5:32 AM on February 9, 2009
+Yeah, I guess it's important for Matt and co.  to be protected.  Stupid litigation just irks me.  Add the paragraph by all means if it means that my favourite website is protected from litigious Californian arseholes.  I just think it's ridiculous for people to think that what they type on here is classified information.
+posted by h00py at 5:34 AM on February 9, 2009
+You are not MetaFilter, no matter how much you'd like to believe otherwise.
+What an odd comment. Neither are you.
+Of course neither of you are. *I* am.
+I am very, very concerned that Metafilter observes every rule and regulation that applies to the Internet in Michigan, its counties and cities. I am fairly certain it contradicts California's in several important details. And, since I occasionally access Metafilter from more than one region or state, I expect Metafilter LLC to observe all appropriate regulations regardless of where I am, even if I wasn't planning to go there. However, I demand that Metafilter never actually be aware of where I am, for optimal privacy.
+(genome4hire, if you wanted a prompt response without several dozen people snarking at you first, you probably shouldn't ask your important policy question at 1:30 AM on a Monday morning.)
+I would not expect most Metafilter users to be this nonchalant about privacy rights were we talking about any other website.
+Yeah, exactly.  I don't get the jocularity here.  This is exactly how corporations kid themselves into major crimes. "Regulations are things that apply to *businesses*.  We're just Joe in Accounting and Mary Sue in HR.  Nobody's going to care about little ol' us."
+posted by DU at 5:40 AM on February 9, 2009 [ 1 favorite ]
+It would seem to apply to MetaFilter accounts associated with people from California, more specifically
+I agree: here's the actual text of the act .  If Matt wants to write a privacy policy that says "here's what we do with the information we gather from users in California" rather than "here's what we do with the information we gather from users anywhere," it seems to me that would still satisfy the OPPA, but I'm not sure there's any benefit in making that distinction.  Neither case creates any obligation for individual users.
+posted by DevilsAdvocate at 5:41 AM on February 9, 2009
+(genome4hire, if you wanted a prompt response without several dozen people snarking at you first, you probably shouldn't ask your important policy question at 1:30 AM on a Monday morning.)
+And if you're asking questions that can only be answered by the mods, you should probably just ask them to the mods, using the contact link.
+posted by smackfu at 5:46 AM on February 9, 2009
+It's a perfectly good and valid question, but the tone of the post is demanding and creepy, and seems to be implying that something is being hidden from the users.
+there was one metatalk comment in particular by some showoff who wanted to demonstrate how much he or she could determine about a poster based only on posting history. The profile was pretty detailed, and that was in the days before askmefi started encouraging people to post all sorts of embarrassing details about their personal lives. Or was I dreaming this?
+No, that happened. I can't find the post, but I think aaron was involved somehow.
+posted by stupidsexyFlanders at 5:48 AM on February 9, 2009
+I don't get the jocularity here. This is exactly how corporations kid themselves into major crimes.
+Because we trust Matt more than we trust the CEO of AT&T.  Laws and privacy policies replace trust.
+Jofus, you forgot
+posted by Ghidorah at 5:57 AM on February 9, 2009
+"(genome4hire, if you wanted a prompt response without several dozen people snarking at you first, you probably shouldn't ask your important policy question at 1:30 AM on a Monday morning.)"
+Is that 1:30 AM in California? I hope California isn't requiring all commenters to a Californian metatalk thread to use Californian time.
+Mefite lawfight.
+Need more coffee.
+What would the personally identifiable data even be? When I signed up, I had a coworker with a paypal account pay my $5 for me. How on Earth could Matt identify me? He even turned off all of the web server logs a while back, iirc.
+Matt makes it quite easy to participate here completely anonymously.
+posted by popechunk at 6:11 AM on February 9, 2009
+DevilsAdvocate - "Why do you think California's laws apply to a non-California-based business?
+California's laws apply to organizations doing business in California"
+Why (out of interest, not arguing your point) is the business happening in California and not where Metafilter is headquartered? Or does it happen in two places at once?
+I would naively expect that it was a Californian doing business with Metafilter where Metafilter is, not Metafilter doing business with a Californian in California.
+posted by edd at 6:12 AM on February 9, 2009
+there was one metatalk comment in particular by some showoff who wanted to demonstrate how much he or she could determine about a poster based only on posting history. The profile was pretty detailed, and that was in the days before askmefi started encouraging people to post all sorts of embarrassing details about their personal lives. Or was I dreaming this?
+Keyword: tamim.  Not really a showoffy sort of thing at all .
+whippersnappers off my rassin frassin
+posted by gleuschk at 6:14 AM on February 9, 2009
+Because we trust Matt more than we trust the CEO of AT&T. Laws and privacy policies replace trust.
+Matt knows smackfu trusts him and I'm sure he loves you for it. But to make your point another way, laws protect against lack of trust. Matt should gamble his living on the assumption of 100% good faith on the part of xx thousand strangers on the internet?
+is metafilter collecting info that qualifies as actual PII?  i don't think so.  so, moot point.
+posted by rmd1023 at 6:17 AM on February 9, 2009
+Did you all seriously miss http://privacy.metafilter.com ?
+Does what happens in the Metafilter stay in the Metafilter?
+posted by gman at 6:26 AM on February 9, 2009
+Why (out of interest, not arguing your point) is the business happening in California and not where Metafilter is headquartered? Or does it happen in two places at once?
+Again, I'm not a lawyer, but my understanding is that from a legal standpoint it does indeed happen in both places and is subject to the laws of both.  Perhaps some of our resident lawyers or law students can comment more knowledgeably on that point.
+What would the personally identifiable data even be?
+That's spelled out in the text of the OPPA which I linked above .  Specifically, it includes email addresses; I believe an email address is required for registration.  (Yes, we're all aware that it's trivially easy to get a throwaway address; while such an address might not be what we would commonly consider personally identifiable information, it is still what the OPPA defines to be "personally identifiable information.")
+And even if MeFi didn't collect any PII as defined by the statute, it appears to me that it would still require MeFi to have a privacy policy stating as much.
+posted by DevilsAdvocate at 6:27 AM on February 9, 2009
+Yeah, law or no it is incredibly weird that MetaFilter doesn't have a Privacy Policy posted, and weirder still that this is the first time a post has been brought up about it.
+Obviously, unless they have a weirdly good reason I expect we'll see a privacy policy posted soon.
+Finally, for all of you getting all panties-in-a-bunch about whether or not CA law applies to MetaFilter or not: in the beginning of the internet, if big players had been around there might have been resistance to the idea that the net was subject to the laws of each jurisdiction served. However at this point, there has been enough behavior that a precedence has been set, and so it is now commonly understood that the net considers itself to be legally bound by the laws of various jurisdictions. In some cases it means that websites will have disclaimers along the lines of "if it is illegal in your jurisdiction to read this material, don't read it" and that is sufficient.
+As a website located in the US, MetaFilter should be instructing individuals under the age of 13 to not supply personally identifying material or not sign up altogether. It also should have a privacy policy.
+However we feel about the idea that the web should be some kind of free space, the Internet's collective behavior has implied that it is not.
+weirder still that this is the first time a post has been brought up about it.
+It's not.  The post I linked above even has a response from Matt saying:
+Separately, I really should get a lawyer to draft up a privacy policy (short version: we don't sell your email ever and do everything we can to keep your db details secure) and a terms of service (short version: you own everything but give MeFi a non-exclusive license to publish it) to make it totally explicit.
+posted by smackfu at 6:29 AM on February 9, 2009
+I think we can forgoe all this legal mumbo-jumbo if we all agree to just not be dicks.
+Furthermore, a recent comment by Cortex seemed to imply that Metafilter is logging the identity of users who author anonymous posts.
+Put another way: there is no such thing as anonymous posting on MeFi, we can figure out who has made posts that seem anonymous to the larger community. It's not so much that we log this information its that we don't totally anonymize it in our database. We also keep a minimum of web server logs, just FYI.
+I'll wait for the fellas to wake up and talk more about the larger issue of the MeFi privacy policy which we really should have in my opinion.
+I said no, expecting never to get an email from MetaFilter. Then I got one from a mod, in violation of that "policy".
+And you said "never email me again" and we haven't. We don't give email addresses out, period. We don't pass on messages to users from other users or from non-users.  However we know what your email address is, so if we remove a comment or a past of yours and you are a new user we'll sometimes let you know as part of the whole "how does this place work?" experience. We're unlikely to allow people to click a "never contact me for any reason" box (though you've done the functional equivalent) because sometimes we need to contact people. That's unlikely to change.
+It's not incredibly weird that MetaFilter doesn't have a privacy policy posted.
+Like the lawyers told us for our large, high-profile site: if you have a privacy policy posted, you have to follow it.
+Now reverse it.  Ah, yes, that's it.
+posted by adipocere at 6:43 AM on February 9, 2009
+I really don't get it. How does California's laws apply to people who are out of their jurisdiction? How would that work?
+The answer is that it doesn't work. As one example, Amazon.com and other US retailers ship US DVDs to the UK. Selling those DVDs is illegal in the UK since they haven't been approved by the UK's legally mandated classification body the BBFC and aren't labelled with the legally required rating. But these laws don't apply since Amazon is outside the UK's jurisdiction.
+posted by HaloMan at 6:45 AM on February 9, 2009
+(genome4hire, if you wanted a prompt response without several dozen people snarking at you first, you probably shouldn't ask your important policy question at 1:30 AM on a Monday morning.)
+Er, it was actually at 4:40AM.
+I enjoy the snark on MeFi, and my hope was that after the wiseasses took their cheap shots, a few reasonable people would have woken up and posted in support of my question. That appears to have happened.
+The reason I posted this as a question, instead of privately emailing the admins is that I like transparency. By posting it, there is a public, googlable record that this issue came up, and was the subject of much debate. Not that the MeFi admins would brush something under the rug, but this reduces the chance of that happening.
+While getting a real lawyer to draft the privacy policy and terms of use is a good idea, there is no reason that Metafilter LLC should need to drop the big bucks to lawyer up. This website is a valuable part of the Internet community, and i am quite sure that a cyberlaw clinic at some university would be happy to put a couple students on this.
+Failing the free cyberlaw representation route, the awesome Citizen Media Law Project (disclosure: they are down the hall from my office) have put together some info for webmasters to help them with this process.
+posted by genome4hire at 6:49 AM on February 9, 2009
+Hmm. It seems really... odd... to request that you never be contacted, ever, if you participate in a community-based forum. I guess the difference is in you electing to check your MeMails, vs. having an email "intrude" into your "real life", but... I don't know. Just seems like an odd choice, that's all. Especially when moderation is done on a per-case basis by humans who might want to communicate a decision to you for site etiquette reasons.
+To each their own.
+Yeah, this is a perfectly valid question (both generally and in the specific context of the California law), but I don't get the weird, suspicious tone.
+posted by chinston at 6:51 AM on February 9, 2009 [ 1 favorite ]
+But these laws don't apply since Amazon is outside the UK's jurisdiction.
+The laws still apply, it's just that the UK isn't enforcing them.  The UK would certainly be within its rights to refuse to allow such packages into the country when inspected at customs, it's just that that (understandably) isn't a high priority for the UK.
+posted by DevilsAdvocate at 6:54 AM on February 9, 2009
+Would scrapping Anonymous AskMes be a solution?
+I just think there's too many of them.
+after the wiseasses took their cheap shots
+There were no "cheap shots" (what does that even mean, really). There are legitimate concerns about your post, however.
+posted by Blazecock Pileon at 7:02 AM on February 9, 2009 [ 1 favorite ]
+I don't really care if Mefi has a privacy policy prominently linked on the front page or not.
+I do like the idea of a machine-readable standard for site privacy in general. It's clever.
+I asked about server logs a while back, and Matt replied with a thumbnail sketch of privacy policy and log retention .  Matt and his cronies appear to be very trustworthy; lots of people know them in different contexts, so we have a lot of reason to trust the cabal.  And Matt's been as open about the site as possible, and we can judge him by the moderation.  But servers do get hacked, subpoenas get issued, etc.
+You never know who's being stalked, in fact, I think Matt experienced some stalker-y stuff at some point.  I think the new US government is less likely to abuse their powers to track dissenters, but trusting any government very much is foolish.  So, I share the privacy paranoia, but I trust MeFi, more or less.
+Matt, you're probably pretty busy with cleaning up after the move, but a written privacy policy would be a good thing.
+DU , a mod contacted you about something site-related, which seems a quite reasonable use of email, although Matt & his cabal might want to correct some imperfect wording.
+posted by theora55 at 7:10 AM on February 9, 2009
+California's Online Privacy Protection Act (OPPA) requires that all commercial websites that collect "personally identifiable information" on users who reside in California must have a conspicuous privacy policy on their web sites – even if that company is based outside California, including overseas.
+ROFL.
+I could sell stuff from my own (hypothetical) web-based store here in the UK, and a Californian may well want to buy stuff from me. Now, do you for one second imagine I would bother finding out about Californian (or even American) privacy laws. No - the applicable law would be UK data protection legislation.
+I hate to be the one to break this to you, but not only does Californian law not apply in my country - neither does American federal law! *gasp*
+posted by idiomatika at 7:10 AM on February 9, 2009
+I know this may come as a shock to some of you out there, but my name is actually not pollomacho.
+Er, it was actually at 4:40AM.
+Not in mod-land.  And while I don't disagree with the idea of asking the question in public, I do agree with the folks who got a little bit of a weird read off it.  Benefit of the doubt, probably not what you intended, but it does come off as slightly more cagey and challenging and hostile than a simple "hey, so, why don't we have a privacy policy?  Is that in the works?" would have.
+As far as I know—and as some of the links to previous comments by Matt upthread attest—it's basically a Haven't Gotten Around To It situation, and yeah, we really ought to.  Right after a great big pain in the ass attack on the site and the ensuing (and for Matt and pb, literally exhasuting) repair and upgrade work is probably not the moment when we're thinking about it the most, but there's no reason not to engage in gentle prodding, so again no harm done in principle.
+This is exactly how corporations kid themselves into major crimes.
+Notwithstanding the good sense of getting a privacy policy posted, that's a pretty silly place to go with sans a plausible and compelling crime and an incentive for us to kid ourselves into it.
+Matt and his cronies appear to be very trustworthy
+Aw, you.  Gimme a hug.
+I could sell stuff from my own (hypothetical) web-based store here in the UK, and a Californian may well want to buy stuff from me. Now, do you for one second imagine I would bother finding out about Californian (or even American) privacy laws. No - the applicable law would be UK data protection legislation.
+I hate to be the one to break this to you, but not only does Californian law not apply in my country - neither does American federal law! *gasp*
+Obviously it's much harder to enforce this kind of thing when it's completely over the Internet, but international companies do have to be aware of the laws in the places where they sell things.  For example, the ZEV laws in California have had a significant impact, even though according to you companies like Honda and Toyota or even the American car makers in Detroit are free to ignore them.
+posted by burnmp3s at 7:31 AM on February 9, 2009
+Aw, you. Gimme a hug.
+$30, same as in town.
+Sorry for the price hike, the economy and all that.
+burnmp3s : " I could sell stuff from my own (hypothetical) web-based store here in the UK, and a Californian may well want to buy stuff from me. Now, do you for one second imagine I would bother finding out about Californian (or even American) privacy laws. No - the applicable law would be UK data protection legislation.
+I hate to be the one to break this to you, but not only does Californian law not apply in my country - neither does American federal law! *gasp*
+Obviously it's much harder to enforce this kind of thing when it's completely over the Internet, but international companies do have to be aware of the laws in the places where they sell things.  For example, the ZEV laws in California have had a significant impact, even though according to you companies like Honda and Toyota or even the American car makers in Detroit are free to ignore them."
+I think a better analogy would be that California laws mandate that all cars produced everywhere conform to CA emissions standards.  CA can block the in state production and sale of some cars, but they can't keep India or Indiana from producing non compliant cars and selling them outside of CA.
+posted by Science! at 7:40 AM on February 9, 2009
+Cortex seems trustworthy right up until he produces a sharpened toothbrush from his rectum and stabs you in the neck with it.
+While getting a real lawyer to draft the privacy policy and terms of use is a good idea, there is no reason that Metafilter LLC should need to drop the big bucks to lawyer up. This website is a valuable part of the Internet community, and i am quite sure that a cyberlaw clinic at some university would be happy to put a couple students on this.
+Failing the free cyberlaw representation route, the awesome Citizen Media Law Project (disclosure: they are down the hall from my office) have put together some info for webmasters to help them with this process.
+Wait, wait, you're all cranky about a privacy policy not being posted because it's an Important Legal Issue, but you think that getting a "real" lawyer to draft it is a waste of money?
+As mentioned up-thread, United States civil procedure and jurisdiction case law is not for the weak-spirited.
+I think all of you other faux lawyers have your undergarments rumpled about the wrong thing, though: the state of California would most likely be found to have jurisdiction over MeFi because the site "solicits" business in that state as much as any other and because it has (I imagine) a pretty large number of Californian members. (Countless citations omitted, the people for whom they would make sense probably don't need them)
+That said, the real issue here is the " personally identifiable " part, scroll down to sect. 22577.
+The only things on that list that I know of that MeFi records is the name and email address. The law also doesn't require that it is on the front page, only that it is posted "conspicuously".
+If you go to the "New User" page, here's what you get about those two thongs:
+Email: "required, but don't worry, we'll NEVER give away your address to anyone"
+Name: "(this is optional if you want to remain anonymous, but what's the point anymore?)"
+Doesn't get much more conspicuous than that. While some of the small things required by the statute are missed (like the effective date)... it seems both a) really unlikely that California would go to war over them and b) that the spirit of the law isn't being followed here. So, the hyperbole about suing companies out of existence seems a little much.
+The privacy policy, by my read of that statute, doesn't need to cover anonymous posting, server logs, or anything else like that. Might it be a good idea to have those things explained? Sure, but I'm not sure how helpful it is to have a bunch of non-lawyers arguing about the nuances of civil procedure.
+Shivhack: you can save time by leaving the toothbrush more or less in place, clenching, and leaping neckwards crotch first.
+posted by terranova at 7:53 AM on February 9, 2009
+Yeah, I've had both a Terms of Service and a Privacy Policy drafted by lawyers in the past, but they were both just boilerplate things you'd see on Yahoo or Google, and the last lawyer I talked with didn't understand the internet enough to be able to tweak it to my liking, so I never slapped it on the site.
+I would like to get a ToS and PP going. Here's the rough draft of what both those looked like in the past, summed up in outline form:
+Terms of Service:
+- anyone can read posts and comments on the site, but MeFi isn't responsible for anything that happens if you follow bad advice
+- you pay $5 for a one-time fee to get a membership
+- members contributing material retain their copyright on their works, but you grant MeFi a (perpetual?) license to display it on the site.
+- Don't spam, don't seo, don't be an asshole.
+- We can ban people that break the terms.
+Privacy Policy
+- We keep records of your IP address when contributing to MeFi
+- We will not reveal your identity to any third party unless forced to by law enforcement
+- We do our best to keep your details secure (no access logs, db is as secure as we can make it, etc)
+I would be willing to slap something together and put it on the site this week if we could reach a rough consensus on what both policies should say. To date, I've never had any problem with a privacy policy, but having a real terms of service would have come in handy many times over (especially with spammers, that demand refunds since there's nothing on this site saying don't spam in a ToS).
+What more does each policy need to say? Is there any problem with the things I mentioned?
+I think all of you other faux lawyers have your undergarments rumpled about the wrong thing, though: the state of California would most likely be found to have jurisdiction over MeFi
+California uber alles, basically?
+- you pay $5 for a one-time fee to get a membership
+Maybe clarify what you get or don't get from the membership?
+posted by Brandon Blatcher at 7:59 AM on February 9, 2009
+What more does each policy need to say?
+Just to be square with the FTC, it couldn't hurt to toss in a line of COPPA disclaimer along the lines of "This site is not created for or directed to children under 13, and does not knowingly collect information from children under 13."
+"You need to register a working email address in your profile. Only site admins can see that and may use it to contact you, as well as send password reminders."
+"The admins also have the email address you used when you signed up, and may use it to contact you for admin reasons. They will not give out this address, and it is not available to other users."
+These are in the FAQ as implicit rules you agreed to when you signed up; there is a box in your preferences that says 'Display email to other members' but a mod isn't exactly a member, per se, and the helping out of new people with warnings or advice is a purely altruistic service used by the forces of good etc. etc. etc. In essence, that's a fully functional privacy policy right there.
+Frankly I find it kind of charming and pleasant that MeFi doesn't have a twenty-page ToS and PP covering every aspect of their behinds from all angles; it's probably a good plan to have one just to be sure they're covered, but maybe they could preserve some of the magic by leaving it as
+1) We will not give out any personally identifying information in accordance with [CA/US OPPA], [UK DPA], [ETC ETC].
+2) If we don't like you we can ban you for any given reason we like, ethics be damned it's a private server. Wheee!
+3) [picture of a cat]
+Sample
+MetaFilter, LLC has created this privacy statement in order to demonstrate our firm commitment to your rights. The following discloses our information gathering and dissemination practices for this web site; MetaFilter, LLC
+Through our site visitor statistics tracking we use your IP address to help diagnose problems with our server, and to administer our web site. We use cookies to improve functionality, and to prevent abuse.
+MetaFilter, LLC links to many other web sites. We are not responsible for the privacy practices or the content at the end of those links, but we make our link choices only after careful consideration of their potential impact on our guests.
+We use interactive processing for the comments from you, our visitor. On the signup form we request your moniker and email address. You are not required to provide any of that information, but if you do, it is not shared with anyone else without your permission; period. MetaFilter, LLC, and only MetaFilter, LLC, uses the information you provide to expedite communication with you only in a critical event.
+Security
+This site has security measures in place to protect the loss, misuse, or alteration of the information under our control. None of your personal demographic information is stored on our server other than your IP address. All files on our server are password protected to prevent alteration by unauthorized parties. All email we receive is also password protected on multiple levels.
+Children's Online Privacy Protection Rule
+* We do not collect online contact information without prior parental consent or notification.
+* We do not collect personally identifiable offline contact information.
+* We do not distribute any information to third parties.
+* We do not provide the ability to publicly post or otherwise distribute personal identifiable information.
+* We do not entice by the prospect of a special game, prize, or other activity, to divulge more information than is needed to participate.
+* The parent can review the child's personal information, ask to have it deleted and refuse to allow any further collection or use of the child's information. To do this, contact us by phone, email, or postal mail. See below.
+Choice/Opt-Out
+MetaFilter, LLC provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. We offer you the following options for removing information from our records. Send email to moderator@metafilter.com. You may also change any information we may have on record in the same manner.
+Contacting MetaFilter, LLC
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, you may contact:
+Matthew Haughey
+MetaFilter, LLC
+posted by netbros at 8:06 AM on February 9, 2009
+In terms of terms of service, I don't know if this needs to go into a legal document, but something that is like "Once you've posted to the site, you've posted to the site. Please keep that in mind and don't have an overnight freakout and then ask us to remove all of yours posts from the last five years. You can be as anonymous or as identifiable as you choose, but once your words are up there, assume they can't be taken down and keep this in mind when posting"
+I'm sure there's a shorter way of saying that, but for a site with the sort of longevity that ours has, this has come up like clockwork every few months and it might be good to have language explaining our general approach.
+The only things on that list that I know of that MeFi records is the name and email address.
+PayPal membership fee receipts would show payers' names, addresses, paypal buyer ids, and email addies.
+posted by terranova at 8:06 AM on February 9, 2009
+idiomatika said: "ROFL. I hate to be the one to break this to you, but not only does Californian law not apply in my country - neither does American federal law! *gasp*"
+No, I hate to be the one to break this to you... but I'm having Cracklin' Oat Bran for breakfast.  *crunch*
+ROFLMAO
+posted by pineapple at 8:06 AM on February 9, 2009 [ 6 favorites ]
+"but we make our link choices only after careful consideration of their potential impact on our guests."
+Also I'd like it if the privacy/ToS policy contained as little "blow smoke up your ass" language as possible. Nothing personal netbros, but I'd like to stick to facts and not make our policies part of a marketing campaign.
+Cortex seems trustworthy right up until he produces a sharpened toothbrush from his rectum and stabs you in the neck with it.
+What does it say about me that my first thought was that cortex has a nanoforge crammed up his bum so that he can generate and extrude sharpened toothbrushes at will?
+I think it was the "produces"
+- We can ban people that break the terms.
+Though it's cynical, it's probably best to tack on a 'We reserve the right, without notice and at our sole discretion, to terminate your usage etc. etc.'. It sounds mean and dictatorial and certainly should be nice and polite and kept in the dust, but when all is said and done you could ban anyone any time, and who knows what situations will arise that aren't covered by the rules, and that's when you don't want a user to rules lawyer you over 'but you never said I couldn't!'
+posted by stelas at 8:10 AM on February 9, 2009
+I, Secret Life of Gravy, solemnly swear not be a dick, a douchebag, a jag-off, an arsehole, a twerp, a cuntface, a fuckwad, a boil on the backside of humanity, a lickspittle, a cocksucker, a poop, a scumbag, a shit-for-brains, a jerkoff, a shithead, a buttmunch, a pustulant cretin,  a scrotum, or a weasel, so help me God.
+posted by Secret Life of Gravy at 8:10 AM on February 9, 2009 [ 5 favorites ]
+jessamyn said: "In terms of terms of service, I don't know if this needs to go into a legal document, but something that is like "Once you've posted to the site, you've posted to the site...."
+Even if it's not crazy-common, there is definitely boilerplate out there on this, fwiw.   I signed a contributing-writer agreement to the same effect at one point a couple years back -- it was along the lines of, "This site serves as an internet publisher, and once material is published by you via our website, we cannot guarantee that it can later be removed, retracted, etc."
+The idea in that case was to state to users that Host, LLC not only couldn't be held responsible for what you posted to their site, but they weren't responsible for what Google cached, or Archive.org cached, or what other people might copy and save, etc.  But the same principles might apply here for the "DELETE ME FROM YOUR ARCHIVES BEFORE THE ALIENS FIND ME" types.
+SLoG: you forgot lazy, stupid and disrespectful.
+Queries/suggestions from a not lawyer:
+- We can ban people that break the terms.
+Wouldn't it be better for the official policy to be "We can ban whoever we want at any time for any or no reason, and in such cases any membership fees paid will not be refunded."?
+posted by ROU_Xenophobe at 8:20 AM on February 9, 2009
+You people can keep asking for all the privacy policies you want, but I'm not removing the chips from your brains. The government asked me to keep tabs on you, and that is exactly what I'm going to do.
+Speaking of, some of you have really filthy minds. You should be ashamed of yourselves.
+Be ashamed, but... you know, don't stop...
+jessamyn said: "In terms of terms of service, I don't know if this needs to go into a legal document, but something that is like "Once you've posted to the site, you've posted to the site...."
+Sumthin like this boilerplate:
+"By submitting material to METAFILTER discussions, you assert that the material is your own, is licensed to be uploaded and downloaded by other participants, is in the public domain, or is otherwise free of copyright or other restrictions. You also grant METAFILTER an irrevocable, nonexclusive, royalty-free license to redistribute or republish the information in any medium or form.
+"In no event will METAFILTER be liable for any incidental, consequential, or indirect damages (including, but not limited to, damages for loss of business profits, business interruption, loss of programs or information, and the like) arising out of METAFILTER discussion threads, or any information or services provided on METAFILTER, even if METAFILTER has been advised of the possibility of such damages, or for any claim attributable to errors, omissions, or other inaccuracies published on METAFILTER."
+posted by terranova at 8:22 AM on February 9, 2009
+but you grant MeFi a (perpetual?) license to display it on the site
+Yeah, probably say perpetual or something to that effect. The in-thing these days seems to be calling it a license for "universal publication", which in my understanding means that you're covered when the sever gets moved to New Los Angeles, Mars. IANAL.
+BB: You mean besides the lakeside condo?
+posted by niles at 8:24 AM on February 9, 2009
+Nothing personal netbros
+posted by netbros at 8:25 AM on February 9, 2009
+I remember some guy, I think his nick was paphnuty, asking about privacy policies here.  Don't think he's been around much since.  Plus his activity here has been mostly deleted, so meh.
+> What more does each policy need to say?
+Don't forget the irritatingly weasel-sounding yet essential part about your having the right to update the ToS at any time. Because once somebody finds a loophole, you gotta close it before others insist they have the right to exploit that loophole too.
+I'm a Finnish citizen, living in Spain.
+Please apply all laws and regulations that apply to my specific situation to everyone on this site.
+Funny, because the EU tries to do that all the time. I swear, it must be in their charter. Let's all say hello to the safe harbor concept.
+posted by aramaic at 8:31 AM on February 9, 2009 [ 1 favorite ]
+This is beautiful.  Open-source policy-making.  I am hoping it's what's in store for the world.
+posted by terranova at 8:36 AM on February 9, 2009
+Once you set this up, you will probably want to have all of us that are already members somehow agree to follow the terms of service.  This will unfortunately lead to a flameout or two but it also covers you for the existing members.
+posted by Pants! at 8:36 AM on February 9, 2009
+What more does each policy need to say?
+Something about the expressed written consent of Major League Baseball and I think we're covered.
+posted by jerseygirl at 8:38 AM on February 9, 2009 [ 6 favorites ]
+"but we make our link choices only after careful consideration of their potential impact on our guests."
+Oh, you betcha I want maximum consideration of just how offensive a post should be and how scarring an impact it would be to "our guests"... just so we can plot out the cluster of gouged-out-eyeballs-in-reaction across the world in real time.
+posted by edgeways at 8:38 AM on February 9, 2009
+-hug-
+What more does each policy need to say?
+Perhaps something more concrete about the membership fee being non-refundable in the event of a ban? Something to point to when the shills whine about not being able to shill here anymore.
+posted by CKmtl at 8:41 AM on February 9, 2009
+metafilter: we all agree to just not be dicks.
+And I've got nothing personally identifying on this site. Everything I've posted about myself is a lie.
+posted by cjorgensen at 8:44 AM on February 9, 2009
+lookatthiscat.com doesn't have a privacy policy either.
+WHAT. THE. FUCK. CORTEX?!?!?
+posted by slogger at 8:53 AM on February 9, 2009 [ 1 favorite ]
+There should just be one form like this for all of internet.
+"By submitting material to INTERNET discussions, you assert that the material is your own, is licensed to be uploaded and downloaded by other participants, is in the public domain, or is otherwise free of copyright or other restrictions. You also grant INTERNET an irrevocable, nonexclusive, royalty-free license to redistribute or republish the information in any medium or form.
+"In no event will INTERNET be liable for any incidental, consequential, or indirect damages (including, but not limited to, damages for loss of business profits, business interruption, loss of programs or information, and the like) arising out of INTERNET discussion threads, or any information or services provided on INTERNET, even if INTERNET has been advised of the possibility of such damages, or for any claim attributable to errors, omissions, or other inaccuracies published on INTERNET.
+INTERNET is not a truck."
+- members contributing material retain their copyright on their works, but you grant MeFi a (perpetual?) license to display it on the site.
+From my non-lawyer mind: If a user contributes material, what rights does the site have to edit, alter or delte that material?
+What about the part about reserving the right to boil spammers and self-linkers in oil?
+posted by pjern at 9:07 AM on February 9, 2009
+WHAT. THE. FUCK. CORTEX?!?!?
+I direct you to points 5-7 on the submit a cat page.  See also this awesome fucking cat , and point 8 on the aforementioned submission page.
+The privacy policy needs to remind us to keep the door of the privy shut.
+posted by klangklangston at 9:09 AM on February 9, 2009
+For those wondering about how California law can apply to a website headquartered in Oregon, pretty much every developed nation has privacy laws that do the same thing. The thing is, as long as an organization complies with one of these laws (say the one that is "local" to them) they probably are in compliance with all the other ones too. In the US that means compliance with the Safe Harbor . If you comply with the Safe Harbor (which is only a self-certification) then you're good for everywhere.
+Sample privacy policies:
+In case you don't want to read them, they all pretty much look the same.
+Membership fees, ownership of posts and the like really fall under Terms of Service, which is something different. I know the FAQ covers a lot of the Terms, but having a separate document might be a good idea. Sadly IANAL(yet) so I can't even dream of giving anything resembling legal advice. A decent lawyer should be able to whip up a privacy policy and Terms of Service fairly quickly. They probably will look boilerplate-ish because at the moment governments only care about appearing to make an effort to protect privacy so that's all that's needed.
+As a member who lives in California, I'm appalled at any implication that we are litigious arseholes.  Take these claims down or I will sue!
+Sample
+MetaFilter, LLC has created this privacy statement because some guy thought we should have some boilerplate no-one will ever read. Christ, what an asshole. Apparently if you have a website, and someone from jurisdiction X visits, you have to conform to all relevant laws of jurisdiction X.
+Through our site visitor statistics tracking we use your IP address to help diagnose problems with our server, and to administer our web site. This has already happened, if you're reading this text, you're in our logs. We use cookies to make it possible for users to log in.
+MetaFilter, LLC links to many other web sites. If your browser supports prefetching, you should read the privacy policies of all those links, even those you don't want to follow. Yeah.
+We use interactive processing for the comments from you. On the signup form we request a username and email address. We save that information in a database, and we may use your e-mail address to e-mail you. We also save your comments in a database, alongside your username. There's also a place where you can give personally identifiable information and have other users able to see it, if you so choose.
+Security
+This site has security measures in place to protect the loss, misuse, or alteration of the information under our control. All files on our server are password protected to prevent access by unauthorized parties, as proved by the fact you cannot read this text.
+Children's Online Privacy Protection Rule
+* Metafilter sign-up has a check box marked "I am aged 13 or above"; a user must tick it before their sign-up will be processed. Thank god the American government made that compulsory, our children are safer already.
+* We collect online contact information from any user that chooses to enter it.
+* We collect personally identifiable offline contact information from any user that chooses to enter it.
+* We distribute any information users choose to post on their user pages, to anyone who chooses to view that user's page.
+* We provide the ability to publicly post or otherwise distribute personal identifiable information, in the form of text forum posts.
+* One user of this website might entice another to post personally identifiable information by saying something like "New in town. Any mefites around Bangor, UK?" and we will do nothing to stop it. In fact, it's encouraged.
+Choice/Opt-Out
+MetaFilter, LLC provides users the opportunity to opt-out of receiving communications from us through the website's "preferences" section.
+Contacting MetaFilter, LLC
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, you may contact:
+Matthew Haughey
+MetaFilter, LLC
+911 Cabal Lane
+Portland, OR, USA
+Should this help-us-make-our-policy discussion maybe be sidebarred?
+Okay, I guess some people probably don't care. But I DO!
+posted by lunit at 9:30 AM on February 9, 2009 [ 1 favorite ]
+"but we make our link choices only after careful consideration of their potential impact on our guests."
+Given that users post links, and mods aren't always available to delete them instantly, you might want to disclaim responsibility for what users post. You don't want to be claiming to 'make...link choices' when some idiot has linked to goatse.
+You might also consider your choice of words with respect to the "we won't give anyone your email address" things . . . the typical example is in the event that MeFi sells out -- the buying company is going to want all of that info and you don't want that to become a legal pissing match.
+posted by toomuchpete at 9:31 AM on February 9, 2009
+You also grant METAFILTER an irrevocable, nonexclusive, royalty-free license to redistribute or republish the information in any medium or form.
+Hm. To my non-lawyer ears, this sounds like a bit much. It sounds like it would allow Matt to, say, scrape together all of jonmc's comments, publish them as "The Collected Wisdom of Jonmc, Or, The Ramblings of a Modern Rogue and Rapscallion of Our Time", get it on Oprah's Book Club, and leave jon up shit's creek.
+We keep records of your IP address when contributing to MeFi
+For how long?
+The length of data retention is a key issue in privacy circles, and the general trend seems to be for companies to destroy their logs (and thus identifying IP + cookie info) after a reasonable period of time. Yahoo has just recently lowered their retention period to 90 days.
+I really hope that MeFi is not keeping the IP address for each posted comment forever.
+posted by genome4hire at 9:38 AM on February 9, 2009
+Ceiling cat is invading your privacy.
+I really hope that MeFi is not keeping the IP address for each posted comment forever.
+Why?
+posted by jerseygirl at 9:43 AM on February 9, 2009
+This is getting really complicated.  I propose...
+"Welcome to Metafilter, you play nice and you can stay.
+Don't be a dick."
+posted by pearlybob at 9:46 AM on February 9, 2009
+I really hope that MeFi is not keeping the IP address for each posted comment forever.
+They're not.  I am, though.
+I really hope that MeFi is not keeping the IP address for each posted comment forever.
+Yahoo and the like are talking about data retention on every visitor, and with MeFi we're talking about members vs. non-members. With non-members, we don't track virtually anything. No logs, no real way to track anything they do. But with members, we attach the IP of any contribution you make in order to at least know one tiny thing about you (where you are at which implies who you are) and we use that to be able to know who is abusing their sockpuppet accounts, who is a spammer returning to spam again, and when people are almost completely anonymous, knowing at least a little bit about them if they start being abusive ("looks like it's a dickhead at this small college in Indonesia"). We also keep that stuff in case of emergency situations (ask mefi questions about killing yourself, threats on the president, etc) where a law enforcement agency would demand to know who said what.
+We have to retain that stuff forever in order to match up old comments with new stuff. While we might rarely ever use the IP of a comment more than a month old, it's nice to know we still have that info if someone starts suddenly being jerky on the site and we have to dig through their history to figure out who they are or why they're being jerky.
+posted by jerseygirl at 9:58 AM on February 9, 2009
+I really hope that MeFi is not keeping the IP address for each posted comment forever.
+I relieve myself on your posted comments. Forever.
+Metafilter Privacy Policy: This is free-form, go nuts.
+What Matt said.  The IP records that we do keep are actually one of the stronger tools we have for detecting and dealing with genuine sockpuppet dickishness when it occurs.  I understand that hardcore privacy types would prefer we didn't care about IPs at all, but keeping people from abusing the site is a pretty high priority for us and that's one of the things that helps.
+We have found IP correlations that outed bad behavior over a period far longer than 90 days.  In no case do IP records themselves come into play in public, ever, even in the case of abuse.
+We don't, by comparison, keep around logs on general reader traffic, but direct participation on the site is a two-way street as far as trust and responsibility goes.
+As much as I don't agree with the retention of IP data for comment posting, I am at least happy to hear the details about what is currently done, from the horse's er, keyboard.
+Putting that info into the privacy policy is a good idea -- not just the fact that IP information is logged, but that it is logged and retained forever.
+Thanks
+posted by genome4hire at 10:20 AM on February 9, 2009
+Also, yeah, when I can get something together that seems like a draft version of a ToS and PP, I'll post it as a new metatalk thread for comment.
+> You also grant METAFILTER an irrevocable, nonexclusive,
+> royalty-free license to redistribute or republish the
+> information in any medium or form.
+Hm. To my non-lawyer ears, this sounds like a bit much. It sounds like it would allow Matt to, say, scrape together all of jonmc's comments, publish them as "The Collected Wisdom of Jonmc, Or, The Ramblings of a Modern Rogue and Rapscallion of Our Time", get it on Oprah's Book Club, and leave jon up shit's creek.
+Yeah, this one is tough for the Terms of Service. I specifically DON'T want to be able to make a book without asking first (that's why I added the copyright thing), but I DO like to use MeFi Music in Podcasts without having to ask permission.
+Can the license MeFi gets to redistribute or republish be in limited mediums and forms?
+The instruction manual for the last iron I bought contains the instructions: "Remove clothing prior to ironing it" and if you needed that advice you probably don't have any business operating an iron.
+Metafilter guidelines, explained by furries
+I was going to
+DEMAND!!!!!!
+that any TOS be presented in comic form by furries or other evildoers.  It wouldn't need to just be a retread of fandango_matt's comic, either.  It could include pronouncements being delivered from Nudebama on a unicorn, or through dialogues between dragons that fuck cars and the cars they fuck.
+All right then. If there's not a policy in place, I'm going to have to put disclaimers at the bottom of my postings.
+CONFIDENTIALITY NOTICE
+This electronic posting and the information contained herein are intended for the metatalk readers only.  It may contain confidential, proprietary and/or privileged information.  If you have received this electronic message in error, please do not read any text other than the text of this notice and do not open any attachments. Also, please immediately notify the sender by replying to this electronic mail or by collect call to (262) 796-0925. After notifying the sender as described above, please delete this electronic message immediately and purge the item from the deleted items folder (or the equivalent) of your computer. Thank you.
+Disclaimer -- Do not remove this disclaimer under penalty of law.
+For optimum performance and safety, please read these instructions carefully.
+Void where prohibited. No representation or warranty, express or implied, with respect to the completeness, accuracy, fitness for a particular purpose, or utility of these materials or any information or opinion contained herein. Actual mileage may vary. Prices slightly higher west of the Mississippi. All models over 18 years of age. No animals were harmed during the production of this product. Any resemblance to actual people, living or dead, or events, past, present or future, is purely coincidental. This product not to be construed as an endorsement of any product or company, nor as the adoption or promulgation of any guidelines, standards or recommendations. Some names have been changed to protect the innocent. This product is meant for educational purposes only. Some assembly required. Batteries not included. Package sold by weight, not volume. Contents may settle during shipment. No user-serviceable parts inside. Use only as directed.
+Do not eat. Not a toy.
+Postage will be paid by addressee. If condition persists, consult your physician. Subject to change without notice. Times approximate. One size fits all. Colors may, in time, fade. For office use only. Edited for television. List was current at time of printing. At participating locations only. Keep away from fire or flame. Avoid contact with skin. Sanitised for your protection. Employees and their families are not eligible. Beware of the dog. Limited time offer. No purchase necessary. Not recommended for children under 12. Prerecorded for this time zone. Some of the trademarks mentioned in this product appear for identification purposes only. Freshest if eaten before date on carton. Subject to change without notice. Please allow 4 to 6 weeks for delivery. Not responsible for direct, indirect, incidental or consequential damages resulting from any defect, error or failure to perform. Slippery when wet. Substantial penalty for early withdrawal. For recreational use only. No Ca nadian coins. List each check separately by bank number. This is not an offer to sell securities.
+Read at your own risk. Ask your doctor or pharmacist. Parental guidance advised. Always read the label. Do not use while operating a motor vehicle or heavy equipment. Do not stamp. Breaking seal constitutes acceptance of agreement. Contains non-milk fat. Date as postmark. Lost ticket pays maximum rate. Use only in well-ventilated area. Price does not include taxes. Not for resale. Hand wash only. Keep away from sunlight. For a limited time only. No preservatives or additives. Keep away from pets and small children. Safety goggles required during use. If rash, irritation, redness, or swelling develops, discontinue use. Do not fold, spindle or mutilate. Please remain seated until the web page has come to a complete stop. Refrigerate after opening. Flammable. Must be 18 years or older. Seat backs and tray tables must be in the upright position. Repeat as necessary. Do not look directly into light. Avoid extreme temperatures and store in a cool dry place. No salt, MSG, artificial colouring or flavoring added. Reproduction strictly prohibited. Pregnant women, the elderly, and children should avoid prolonged exposure to this product. If ingested, do not induce vomiting. May contain nuts. Objects in mirror may be closer than they appear. Do not use if safety seal is broken.
+Apply only to affected area. Do not use this product if you have high blood pressure, heart disease, diabetes, thyroid disease, asthma, glaucoma, or difficulty in urination. May be too intense for some viewers. In case of accidental ingestion, seek professional assistance or contact a poison control center immediately. Many suitcases look alike. Post office will not deliver without postage. Not the Beatles. Products are not authorized for use as critical components in life support devices or systems. Driver does not carry cash. Do not puncture or incinerate. Do not play your headset at high volume. Discontinue use of this product if any of the following occurs: itching, aching, vertigo, dizziness, ringing in your ears, vomiting, giddiness, aural or visual hallucinations, tingling in extremities, loss of balance or coordination, slurred speech, temporary blindness, drowsiness, insomnia, profuse sweating, shivering, or heart palpitations. Video+ and Video- are at ECL voltage le vels, HSYNC and VSYNC are at TTL voltage levels. It is a violation of federal law to use this product in a manner inconsistent with its labeling. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. This product has been shown to cause cancer in laboratory rats. Do not use the AC adaptor provided with this player for other products.
+Warranty does not cover normal wear and tear, misuse, accident, lightning, flood, hail storm, tornado, tsunami, volcanic eruption, avalanche, earthquake or tremor, hurricane, solar activity, meteorite strike, nearby supernova and other Acts of God, neglect, damage from improper or unauthorised use, incorrect line voltage, unauthorised use, unauthorised repair, improper installation, typographical errors, broken antenna or marred cabinet, missing or altered serial numbers, electromagnetic radiation from nuclear blasts, microwave ovens or mobile phones, sonic boom vibrations, ionising radiation, customer adjustments that are not covered in this list, and incidents owing to an airplane crash, ship sinking or taking on water, motor vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass, disk failure, accidental file deletions, mud slides, forest fire, riots or other civil unrest, acts of terrorism or war, whether declared or not, explosive devices or project iles (which can include, but may not be limited to, arrows, crossbow bolts, air gun pellets, bullets, shot, cannon balls, BBs, shrapnel, lasers, napalm, torpedoes, ICBMs, or emissions of electromagnetic radiation such as radio waves, microwaves, infra-red radiation, visible light, UV, X-rays, alpha, beta and gamma rays, neutrons, neutrinos, positrons, N-rays, knives, stones, bricks, spit-wads, spears, javelins etc.).
+Other restrictions may apply. Breach of these conditions is likely to cause unquantifiable loss that may not be capable of remedy by the payment of damages.
+posted by DreamerFi at 10:51 AM on February 9, 2009 [ 24 favorites ]
+We don't need any more toss on Metafilter.
+posted by smackfu at 10:55 AM on February 9, 2009
+Freakin' page-breakin' DreamerFisclaimers.
+"Mefi, apply directly to the forehead,
+Mefi, apply directly to the forehead"
+DreamerFi's comment got cut off...
+/small
+posted by Pronoiac at 11:02 AM on February 9, 2009
+Hmm... I did close the small tag, right? Apologies if that went wrong...
+posted by DreamerFi at 11:02 AM on February 9, 2009
+[ WARNING, YOUR COMPUTER IS BROADCASTING AN IP ADDRESS ]
+posted by aubilenon at 11:07 AM on February 9, 2009
+YOUR IP ADDRESS IS COMING FROM INSIDE THE HOUSE!!!!!
+If you hadn't, I think it would have closed it automatically - if you open a small tag, & hit preview, it closes the tag.  I did actually close it on my previous comment.  (Though then I couldn't verify that it worked.)
+Recent Activity just messed up, & I've contacted the admins about it.
+posted by Pronoiac at 11:14 AM on February 9, 2009
+THAT KINKY ANON ASKME YOU POSTED IS COMING FROM YOUR IP ADDRESS
+Hmm... I did close the small tag, right? Apologies if that went wrong...
+You closed it, but Recent Activity truncates long comments.  I thought it did cleanup any lingering open tags, but that might just be my imagination.
+(Funny thing is that posting to this thread complaining about it resolved it, since now my most recent comment was below the offending one.)
+posted by smackfu at 11:19 AM on February 9, 2009
+I think pb did a bunch of work to refactor the Recent Activity query to reduce load, and the "close tags on truncated long comments" check, which I'm pretty sure we had in place for a while, may have just gotten missed in the shuffle.  It's a pretty edge-case scenario.
+I guess I'll have to extend that disclaimer to say something about closing tags, then...
+posted by DreamerFi at 11:23 AM on February 9, 2009
+Don't stick anything meaningful in the TOS or privacy policy that isn't duplicated in the guidelines, sign up pages, or elsewhere. Those aren't places where people go to look for practical and useful information so it shouldn't be hidden there.
+posted by TheOnlyCoolTim at 11:24 AM on February 9, 2009
+Whoa, whoa, whoa. You guys know my ip address?!? What kind of hacker website is this? I bet you're also watching me right now.
+::waves hand at monitor::
+You are, aren't you?
+::gives finger to monitor::
+Bango Skank : "The instruction manual for the last iron I bought contains the instructions: "Remove clothing prior to ironing it" and if you needed that advice you probably don't have any business operating an iron."
+One time I had just a few wrinkles on a shirt I was wearing and so I pressed a hot iron against them, a little warm but I kept it moving and I didn't get burned.  The wrinkles didn't come out with just dry heat so I misted a little water on my shirt and went at it again.
+Steam fucking hurts.
+Durin's Bane, please put some pants on.
+My life is an open book. Specifically, the Haynes manual for a Mk3 Ford Cortina at the page with the wiring diagrams.
+posted by Abiezer at 11:44 AM on February 9, 2009 [ 1 favorite ]
+Hey guys, what does this "D" button on the new server do?
+Hey guys, what does this "D" button on the new server do?
+posted by weapons-grade pandemonium at 2:47 PM on February 9 [+] [!]
+I'm not sure, but I bet there's only, like, 4 employees handling things at the moment, so why not hit the button a few times?
+Warning: Do not taunt the new servers.
+posted by chillmost at 11:55 AM on February 9, 2009
+There's a d-button on the - wait, I recognize that controller!  Give me that!
+↑ ↑ ↓ ↓ ← → ← → B A Select Start
+*perches, eyes wide open*
+'SLoG: you forgot lazy, stupid and disrespectful.'
+SHUT UP, PINEAPPLE. Now, go fix me a turkey pot pie.
+{fin}
+omfg i just made the server reboot
+posted by Pronoiac at 12:06 PM on February 9, 2009
+I have changed my my mind, we do in fact need a comprehensive privacy policy and TOS.
+Now will someone please take that iron away from Science! before he does any more damage.
+Formalizing this sort of thing is probably a good idea.  That said, if it were my site I'd probably go ahead and ban  genome4hire just on general principle.  He's going to be a problem, mark my words.  It's like a doctor treating a malpractice lawyer;  you just know that somehow, sometime he's going to be more trouble than he's worth.
+But maybe I'm just paranoid.
+If your're going to mention warning labels at all, you have to acknowledge the chutzpah of the Q-tip manufacturers, who claim their product has "100s of uses" but then specifically warn you against ever, ever using said product for the ONE THING THEY WERE CLEARLY DESIGNED FOR AND WHICH EVERYBODY DOES WITH THEM.
+I've been told that if you go to this site, a sexy woman will moan your ip address (though I haven't checked it out myself, damn you firewall!).  Do they have a privacy policy?
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, you may contact:
+Matthew Haughey
+MetaFilter, LLC
+Jesus FUCK! Thanks a bunch, asshole.
+If orange swan 'is' MetaFilter, how come there is no orange page?
+posted by Cranberry at 12:30 PM on February 9, 2009
+Well it took some time, but thanks to Metafilter I finally found you Genome4hire. It's good to see you again. No, wait, don't pull the blinds.
+posted by Elmore at 12:31 PM on February 9, 2009
+It sounds like the decision has already been made, but it would be nice if metafilter eventually forgot things like IP addresses and  the paypal records from purchasing the account.
+My concern is what will happen to this data if you sell the site in 10 years?
+posted by 517 at 12:32 PM on February 9, 2009
+Things that are unlikely to be in the ToS or privacy policy but which should be.
+- there is a greater than zero chance that the person you are asking this AskMe question about will one day read it.
+- if you get an attack of The Crazy, we reserve the right to save the site from you or save you from the site
+- you do not have the right to make any joke you want with the defense of "it's funny if only you weren't so uptight"
+- if you MeMail a mod for admin/work reasons even though there's text at the top of the MeMail page that says "don't use this for things like that" you will have to buy the first round at the next meetup.
+- we will add hard returns to overlong words-as-comments that cause people to have to scroll sideways
+- we may close your small tags
+- Google reads this site, your boss may too.
+- it's okay to use Q-tips in your ears here
+- if you MeMail a mod for admin/work reasons even though there's text at the top of the MeMail page that says "don't use this for things like that" you will have to buy the first round at the next meetup.
+I don't go to meetups, so it's cool!
+My concern is what will happen to this data if you sell the site in 10 years?
+I have a very hard time seeing the site sold (who would be buying, why would they be buying it, and why would we want to sell it to them?) but I have a harder time yet seeing this stuff not nuked from orbit were that ever even on the table.
+We don't have an eyes-just-on-the-money Bob From Accounting on the team angling for a sell-out, that's for sure.  Everybody who works here cares deeply about metafilter for what it is, not its abstract cash value.
+Things that are unlikely to be in the ToS or privacy policy but which should be.
+- Only British users can use the C word.
+posted by inigo2 at 12:42 PM on February 9, 2009
+I refuse to comment on this thread until I know genome4hire's privacy policy.
+posted by Eideteker at 12:42 PM on February 9, 2009
+- Only British and Australian users can use the C word.
+from the horse's er, keyboard
+"AAAGH!!! MY LAPTOP!!!"
+"Soooorry, Wilbuuur... I just waaanted to gooogle the peeeanut buuutter recaaaalls."
+- Only British and Australian users can use the C word.
+[ ]  by clicking here I indicate that my use of the C word is culturally protected and I don't care at all if people don't like it. I also pooped in your living room.
+i was wondering what that smell was.
+posted by UbuRoivas at 12:51 PM on February 9, 2009
+I tripped over an unclosed small tag and now I'm engaging in a personal injury suit against MeFi!
+posted by NikitaNikita at 1:00 PM on February 9, 2009
+[x] By clicking here I indicate that, while I did not, in fact, poop in your living room, I may have donated some fertilizer in this thread.
+mr_crash_davis mark II: Jazz Odyssey said: "'SLoG: you forgot lazy, stupid and disrespectful.' SHUT UP, PINEAPPLE. Now, go fix me a turkey pot pie. {fin}"
+Truly I cannot believe I had to wait four hours for someone to bring that home.
+I also have an unanswered letter to some Matthew Haughey guy.
+- Only British and Australian users can use the C word.
+- Only the Queen may use the C word. Royal prerogative and all that.
+posted by Kattullus at 1:17 PM on February 9, 2009
+UbuRoivas : i was wondering what that smell was.
+Err, yeah. Sorry about that. I got a little excited.
+All over the place.
+Twice.
+Also, you may want to wash your silverware before you use it again.
+No particular reason or anything.
+posted by quin at 1:21 PM on February 9, 2009
+[x] By clicking here, I indicate that Metafilter has ruined the C word for me forever, because now whenever I hear it - even in an appropriate cultural context - I am constantly aware that somewhere in Vermont, a librarian is seething!
+posted by the latin mouse at 1:30 PM on February 9, 2009 [ 6 favorites ]
+cjorgensen said: "I also have an unanswered letter to some Matthew Haughey guy."
+omg I did this too and i said "u were totes sweet in 'Dazed and Confused' thats like our favorite movie OF ETERNITY NO TAKEBACKS and my roomdawgs and me we wake and bake and watch Wooderson every day and i say like 'itd be a lot cooler if you did' after just about everything I say. it's like me and my firends are ACTUALLY LIVING WOODERSON'S LIFE. I mean, 'livin' right? L-I-V-I-N.   so, peace, brah."
+n e way, that bongo-playing stoner hippie never wrote me back so fuck him.
+Things that are unlikely to be in the ToS or privacy policy but which should be:
+MetaFilter: We reserve the right to refuse service to anyone.
+posted by fixedgear at 1:39 PM on February 9, 2009
+Sorry I forgot to mention - Bob from Accounting emailed this AM from Zurich. There have been no offers for the site, but everything else is OK. The accounts are secure and even the cabal does not know the numbers.
+posted by Cranberry at 1:39 PM on February 9, 2009
+What more does each policy need to say?
+For the privacy policy:
+You need provide explicit information on how people can change or modify their contact information.
+You need to provide explicit information on how people can request to have their account removed/disabled.
+You need to provide a way for people to "opt-out" of getting ANY emails. You can make it the policy that if they have a membership, they must receive rare, intermittent site mailings. You can point them to the preferences file to turn other mailings (I guess just MeFiMail notifications?) off as well as making their email private.
+I understand that even when someone disables their account, you keep their postings online. This is not really standard for most websites, so a note stating, "We do not have a policy of removing all comments or postings made by an account, although we will occasionally delete posts or comments on our discretion. Contact a mod for help with this."
+Something about whether or not you would ever make personal information available to commercial third parties (which is different than revealing identity). I assume you won't, so the boilerplate is: We do not sell or give your information to third parties.
+Do you make aggregate information available to third parties? Something like "We have 3000 active members in New Mexico between the ages of 20 and 35"? You generally need to disclose this.
+I understand that ads only show up for people who are not logged in. So something like, "If you are not logged in, you will be served ads by Google Ads. Please refer to Google's Privacy Policy for further information.
+You use google analytics for traffic monitoring. You should probably indicate that as well, and point to google's privacy policy.
+That's all I can think of off the top of my head. My recommendation would be to do this collaboratively for the next couple of days: set up a Privacy Policy page on the MeFiWiki and have people go in and add and edit whatever they come up with. After a couple of days, pick and choose the parts you like best and make a page. Remember, a mediocre-ly written privacy policy is better than no privacy policy. You can probably add something like:
+This privacy policy is here for informational purposes only and should not be considered a legally binding document for MetaFilter, its operators, or its users. It is MetaFilter's intent to protect the privacy of its users but we cannot be held responsible for any information disclosed through participation in this website.
+Does that sound like a good start? Then you can always find an internet lawyer to give it another quick comb-over before removing the disclaimer if you want.
+The TOS should explicitly state somewhere:
+With the exception of spam or self-linking in the main posts section, there is no set policy on what and what is not acceptable content on MetaFilter. The moderators assert the right to keep or remove content as they see fit, and to ban or suspend users who either explicitly break the terms of service or who behave in a manner the goes against the spirit of the community or who consistently engage in actions which prevent open, sociable, and effective interaction on the site. Past behavior (both positive and negative) will be taken into account when making such decisions.
+There have been too many stupid MeTas about "How come x could do n but I couldn't do n?" or "Why is a acceptable but not b?!?" We basically need it spelled out in the TOS that the mods are, have been, and always will be a bit capricious, and that this is expected and not abberant behavior. Personally, I think the site is better for it, especially since I feel the mods are generally good at figuring out the spirit of the law if not the letter of it.
+Shivhack: you can save time by leaving the toothbrush more or less in place, clenching, and leaping neckwards crotch first.
+Eye bleach STAT!
+posted by deborah at 1:42 PM on February 9, 2009
+With the exception of
+posted by Deathalicious at 1:43 PM on February 9, 2009
+- We do our best to keep your details secure ...
+Will you really pursue security to the absolute exclusion of all else, including continued operation of the site and any profitability? That's what best could be taken to mean.
+(as a rookie engineer, I got enlightened by a kindly corporate counsel who sat me down and explained just where the best efforts I had put into a contract draft could lead. I'm kind of sensitive about its use now.)
+posted by scruss at 1:55 PM on February 9, 2009
+I also have an unanswered letter to some Matthew Haughey guy.
+That would have been indistinguishable from stuff we receive daily via the contact form.  You should see my inbox.
+Yeah, but I sent it though the mail. That makes it distinguished, right?
+posted by cjorgensen at 2:08 PM on February 9, 2009
+Shoes on in the house, everybody!
+posted by UbuRoivas at 2:08 PM on February 9, 2009
+Only the Queen may use the C word. Royal prerogative and all that.
+Yes, once she stops blathering on about her annus horribilis.
+posted by UbuRoivas at 2:13 PM on February 9, 2009
+mathowie : I specifically DON'T want to be able to make a book without asking first (that's why I added the copyright thing), but I DO like to use MeFi Music in Podcasts without having to ask permission.
+I'd imagine that something to the effect of "... for use within the context of MetaFilter and its sub-sites" would convey that I'm-not-trying-to-screw-you feeling.
+posted by CKmtl at 2:15 PM on February 9, 2009
+Or was I dreaming this?
+No, and it was tanim , not aaron, posting in regards to the then mystery of thomcatspike 's diction. Well, it's still a mystery, I guess.
+posted by y2karl at 2:47 PM on February 9, 2009
+Why doesn't Metafilter have a privacy policy?
+I just want to be left alone.
+I just want to be left alone.
+That's ridiculous, no one wants to be alone. I'll be right over with some friends and we'll cheer you up!
+MetaFilter: We reserve the right to refuse service to anyone.
+I'm picturing this proudly displayed at the MeFi truck stop along with something along the lines of:
+MetaFilter: No pants, no problem.
+posted by grapefruitmoon at 3:12 PM on February 9, 2009
+MetaFilter: No pants, no problem.
+aka Chafed asshats in assless chaps
+Cracklin' Oat Bran. Mmmmmm.
+posted by cgc373 at 3:43 PM on February 9, 2009
+No, and it was tanim, not aaron, posting in regards to the then mystery of thomcatspike's diction. Well, it's still a mystery, I guess.
+Actually, tamim had pulled a mefite research coup at least two times ( 1 , 2 ) before.
+posted by oneirodynia at 3:54 PM on February 9, 2009
+I was kinda in a hurry this morning and I can't believe motherfucker.  Since it wasn't included in my oath, I guess that leaves me free to be mother-fuckery.
+Once you start using those little Japanese ear spoons, you can never go back to Q-Tips.
+can't believe I forgot motherfucker....
+For most of this thread I thought the OP's handle was "gnome4hire" and I was all, "Man, *I* want to hire a gnome!"
+posted by Pronoiac at 4:21 PM on February 9, 2009
+Man, I haven't had Cracklin' Oat Bran in eons. It just disappeared off of the store shelves years ago.
+I didn't even see any during clandestine cross-border jaunts into Ontario for yellow margarine.
+posted by CKmtl at 4:29 PM on February 9, 2009
+grapefruitmoon says: MetaFilter: No pants, no problem.
+I disagree.
+Shouldn't there be something about cooter somewhere?
+posted by nevercalm at 5:04 PM on February 9, 2009
+...those little Japanese ear spoons...
+Crazy. google "ear pick" Now I want one. Leave it to the Japanese to invent my idea of the reusable Q-tip! I do have a Q-tip addiction. But so far there isn't a QA.
+posted by cjorgensen at 5:36 PM on February 9, 2009
+so alone
+I have two (multipart) questions:
+1. Do you really need to store the IP address? Could you not perform all your anti-seo, sockpuppet hunting activities if you stored a hash of the IP address?
+2. Is this where we are playing Diplomacy?
+There's a cooter-as-c-word joke somewhere...
+nevercalm, here, cooter counter resets.
+dirty lies,
+1.  If you did a hashed IP, comparing subnets (like, say, ISPs, universities, etc.) would be impossible.
+Terms of Service:
+- anyone can read posts and comments on the site, but MeFi isn't responsible for anything that happens if you follow bad advice
+- you pay $5 for a one-time fee to get a single membership
+- members contributing material retain their copyright on their works, but you grant MeFi a (perpetual?) license to display it on the site.
+- Don't spam, don't seo, don't be an asshole.
+- We can ban people that break the terms.
+Privacy Policy
+- We keep records of your IP address when contributing to MeFi
+- We will not reveal your identity to any third party unless forced to by law enforcement
+- We do our best to keep your details secure (no access logs, db is as secure as we can make it, etc)
+I seem to recall reading about a movement for "Plain Language Legal Terms." The idea is that judges are (should be?) sensible enough to recognize the intent of the terms, and not dick people over just because they didn't obfuscate the language.  This obviously doesn't work in Big Business (vis a vis the "missing comma" terms that hosed a Canadian company (Nortel?) a few years back), but is intended for the likes of us, the common folk.
+I very much like the idea of MeFi having a plain-language contract.
+I'm sure there's a shorter way of saying that
+"What goes on the web, stays on the web.  You can't undo what others have read."
+To my non-lawyer ears, this sounds like a bit much. It sounds like it would allow Matt to, say, scrape together all of jonmc's comments, publish them as "The Collected Wisdom of Jonmc, Or, The Ramblings of a Modern Rogue and Rapscallion of Our Time", get it on Oprah's Book Club, and leave jon up shit's creek.
+Yes, but buy him a bottle of scotch and all will be forgiven.
+I do have a Q-tip addiction. But so far there isn't a QA.
+Try an ear syringe.  Best ear invention ever.
+What goes on the web, stays on the web.
+So it's like Vegas?  I guess that explains all the sex and gambling.
+But wherefore art the buffets?
+posted by box at 7:45 PM on February 9, 2009
+I saw this and thought of Metatalk. I haven't heard the songs yet, but the track record of that site is good.
+posted by jonmc at 7:54 PM on February 9, 2009
+I really hope you meant wherefore aren't the buffets, because goddammit, if I find out Bell's been keeping me from dirt cheap scrambled eggs too...
+jonmc, the flameouts link should have been posted in the stawberryviagra thread.
+posted by cjorgensen at 8:18 PM on February 9, 2009
+Regardless, the last article should be: "Everyone needs a hug."
+posted by schyler523 at 8:43 PM on February 9, 2009
+We don't have an eyes-just-on-the-money Bob From Accounting on the team angling for a sell-out, that's for sure. Everybody who works here cares deeply about metafilter for what it is, not its abstract cash value.
+That's nice, but completely non-binding (hence meaningless!). It would be nice to find a way to limit MetaFilter LLC's ability to pass along user contributions in the event of a change of ownership. Problem being, not all changes of ownership would be as odious as the typical web site buyout.
+Metafilter: policing your privacy since 1999.
+Metafilter: policing your privates since 1999.
+Metafilter: privatizing your policy since 1999
+Metafilter: privying your police since 1999.
+etc etc etc
+posted by Lynsey at 10:21 PM on February 9, 2009
+MetaFilter: 1999 prince capo slicing your ivy
+Be sure to wrap the new privacy policy in a blink tag.
+posted by davejay at 11:16 PM on February 9, 2009
+Leave it to the Japanese to invent my idea of the reusable Q-tip!
+Asians have dry ear wax, ( One gene makes earwax wet or dry ), so these ear cleaning tools make more sense than q-tips.
+I'm sure this has been asked before, but what happens to the paypal records right now?  Are they destroyed eventually?  Are they kept on a system that's connected to the internet?
+Reason I ask is because they're the only record that actually identifies who we are in the real world.  If there were some sort of security breach - and we know by now these things are possible - and these records got out, it could make life hard for a number of people.
+So, if I had my 'druthers, I'd ask that paypal records either be deleted or kept offline somewhere.
+As far as IP logs go - I don't see any reason these shouldn't be purged after a set amount of time.  Google does it.  Yahoo does it.  I'm sure even Microsoft does it.  It seems like a pretty industry-standard practice.
+posted by Afroblanco at 6:58 AM on February 10, 2009
+Don't forget to indemnify against bucket loss!
+posted by cowbellemoo at 9:45 AM on February 10, 2009
+privtacy?
+I thought we moved the server from that tug off the coast of Somalia
+posted by clavdivs at 9:47 AM on February 10, 2009
+I'm sure this has been asked before, but what happens to the paypal records right now? Are they destroyed eventually?
+Is there such a thing?  Doesn't paypal keep them forever?
+posted by smackfu at 9:51 AM on February 10, 2009
+Is there such a thing? Doesn't paypal keep them forever?
+Probably, but that's not what I'm concerned about.  What I'm asking about is what records Metafilter LLC keeps regarding the paypal transactions.  Specifically, what I'm curious about is where, in what manner, and for how long they are stored.  It seems like the wisest thing to do would be to either (A) not store any information about them on the MeFi end (unlikely, I know), (B) store them on some sort of offline media (tape, etc) but not on any computer, or (C) store them on some sort of offline media and/or a computer that isn't connected to the internet.
+I would think that (B) would be the best option for reducing surface area.
+posted by Afroblanco at 10:17 AM on February 10, 2009
+I suppose there's probably also a fourth option, (D) store paypal information that is meaningless unless you have the proper paypal credentials.
+So, for example, you could store some kind of primary key into paypal's database.  But you couldn't actually access any data associated with that key unless you had mathowie's PayPal username and password - which I assume he guards with his life :)
+I'd think the best solution would be to only store information meaningful to Paypal and then to only store that information offline.
+posted by Afroblanco at 10:38 AM on February 10, 2009
+I'm confused then.  Why would Metafilter keep any of the  Paypal-only details (like name and address) outside of Paypal?
+posted by smackfu at 10:45 AM on February 10, 2009
+I don't know.  That's what I'm asking about.  What information is stored, where and how is it stored, and how long is it stored for.
+posted by Afroblanco at 10:54 AM on February 10, 2009
+This document (PDF) from the British information commissioner's office may help you to draft a clear and useful privacy policy. It's based on British privacy law, but I'd guess the underlying principles apply in the US as well.
+posted by rjs at 11:02 AM on February 10, 2009
+Well, I bought my girlfriend a meta account for Christmas (romantic, huh?). I posted an askme a few days later she tried, since they were paid with the same paypal account she got a sockpuppet warning. Not sure what's actually kept as far as data goes, but am pretty sure it's kept to keep down puppet abuse. Or abuse by puppets. Or something.
+posted by cjorgensen at 12:39 PM on February 10, 2009
+cjorgensen : I had a similar thing happen with a gift account, and I emailed the mods about it. Apparently it was a test to see if they could automate sockpuppet detection, but there were too many flaws with it (such as the one you cited) and as far as I know it's been rolled back.
+posted by Phire at 12:41 PM on February 10, 2009
+We've got a middle-ground thing at this point with the askme sock-detection, what cjorgensen is describing, that's a little more softball I think than the initial test concept you ran into, Phire.
+If an account goes to post a new question and it's been less than a week since an associated (e.g. by matching Paypal info) account posted a question, the page displays a "you're not skirting the limit with multiple accounts, right?" type informational warning, but let's the poster go on ahead.
+We also receive an email letting us know when those go through, so we can do a quick sanity check to make sure that either (a) it was in fact associated-but-different-people accounts (in which case we flip a switch to explicitly dissociate so the prompt for them and the email for us won't come up again in the future) or (b) it looks like sockpuppetry after all, in which case they get an email from me asking what the heck is up.
+I don't know the guts of the implementation of the Paypal stuff, but my understanding is that for the automated checks we do hit we the PayPal API for some limited account information—name, email, biz name.  All three of those are super helpful for account wrangling and abuse-prevention, both short term and long term.
+We don't pull physical addresses—it's got no utility for us.
+Yeah, well, I don't know if the admins are still reading this thread, but ....
+I really think that some thought should be put into what information is stored on the server.  Especially seeing as that there's already been one security breech, I'd think it would be best to store as little identifying information as possible.
+Also, I'm curious as to whether or not the admins have a contingency plan for the following nightmare scenario : another security breech leads to theft/exposure of all data on the server.  Usernames, nicknames, sockpuppets, the whole shebang.  Would it be time to wipe the slate clean and start over?  Would posts/comments be removed upon request?  Or would all the site content remain the same, and everyone's just kinda screwed?
+posted by Afroblanco at 1:05 PM on February 10, 2009
+(on-post, I see that the mods *are* still reading the thread)
+posted by Afroblanco at 1:07 PM on February 10, 2009
+(Usernames, nicknames, sockpuppets should read Usernames, real names, sockpuppets )
+posted by Afroblanco at 1:11 PM on February 10, 2009
+Afroblanco, the paypal real name, business name, and emails are stored in the db, and those are great for figuring out who is really a online marketer that works at an agency pimping their new pet projects. We don't keep track of any other identifying info, but we keep the paypal stuff around for the reasons of abuse prevention and sometimes people do wait a couple years before they want to pimp their friend/coworker/family website on mefi so it comes in handy.
+Hmmm.  Ok, that's good to know.  Now how about my last question?  What would you do in the event of a massive security breach, where all data in the DB were exposed or stolen?  Would you shut the site down?  Remove posts/comments at users' requests?  Or refuse to take down posts/comments, in spite of the breach?
+I know this is unlikely.  But it is possible.  And I'm curious as to how you would handle the situation.  By holding onto the paypal and IP info indefinitely and keeping it in the DB, you are taking on a lot of responsibility, and I'd imagine liability as well.
+posted by Afroblanco at 2:16 PM on February 10, 2009
+Now how about my last question?
+How about it? We don't know, we'd assess the situation as it arose as we do with all sorts of totally new situations here. I don't think any of us is going to go on record saying "Nah, I think you're just going to be screwed" or, alternately "heh, that would never happen."
+I think it's unlikely enough, and we are not Bank of America, that having weekend scenario planning retreats "Okay cortex now you play the MeFite whose identity was stolen and I'll play mathowie" to figure out appropriate responses would so totally depend on what exactly happened that we're not putting a disaster response plan in place at the moment.
+cortex: We don't pull physical addresses—it's got no utility for us.
+I was going to joke about birthday or Christmas cards, but actually, signing-up anniversary e-cards would make me laugh.
+posted by Pronoiac at 2:29 PM on February 10, 2009
+Huh.  Well, I can understand that.  All the same, storing IP and paypal info in the database indefinitely is a huge risk - especially for a site that depends on an aging codebase, written for a nearly extinct platform.
+If I were to make one suggestion for the MeFi privacy policy, I'd say that you should openly publicize the fact that you store IP and paypal info in the database indefinitely.  Actually, I think you should probably tell people that when they first sign up.
+I'm not trying to be mean here, and I'm not trying to cast aspersions on the programmers or moderators - I know how hard you all work.
+Still, I'm a computer professional, and I'm used to thinking these things out.  Data security is a BIG DEAL, and will likely only become a bigger deal as criminals and attacks become more sophisticated.
+posted by Afroblanco at 2:33 PM on February 10, 2009
+Can someone sign up and pay by check, or stick a fiver in an envelope?
+posted by fixedgear at 2:37 PM on February 10, 2009
+""Okay cortex now you play the MeFite whose identity was stolen and I'll play mathowie" to figure out appropriate responses would so totally depend on what exactly happened that we're not putting a disaster response plan in place at the moment."
+Can I play Jessamyn?
+posted by klangklangston at 2:45 PM on February 10, 2009
+Now how about my last question?
+I think we'd answer that when we'd have to. I mean of course, I'd want to do what seemed to make the most sense for making users happy and keeping an informative resource on the web, but without the reality of it actually taking place, it's hard to say from this vantage point what exactly we'd do in that scenario. Virtually everything any member has ever done on this site is public (commenting, favoriting, posting) and in reality there is very little "private" info (the majority of users even share their Real Name on their userpage publicly) beyond an email address, what you've flagged before, and perhaps your business name on a paypal account (which can also be anonymized). Passwords aren't stored in plain text so a future security breach couldn't nab those details, so again, without this having happened I don't know what to say in regards to what exact steps we would take.
+Can someone sign up and pay by check, or stick a fiver in an envelope?
+Yes. Happens about once a month, maybe.
+Can someone sign up and pay by check, or stick a fiver in an envelope?
+That's what I did.
+I mailed 5 bucks to jessamyn, but I didn't hear anything for two weeks, so I thought she made off with it and bought some ice cream or some schwag or cat food or something.
+Turns out she was just on vacation.
+Someone up above mentioned an important point that hasn't been picked up since: the problem with having a privacy policy is that you have to follow it.
+So, who gives you problems / grief about a privacy policy? The kind of people who like to hire lawyers and sue people.  Don't give them ammunition!
+I think the policy should have two parts.
+1. The Official Policy - users have no expectation of privacy, MF reserves the right to keep any details provided indefinitely and do whatever it wants with them.
+2. The Unenforceable Statement of Intent - what you actually intend to do. With language explaining that this is not a guarantee and does not confer any rights, etc.
+The only people that end up suing are assholes.  I don't want assholes to sue MetaFilter.
+posted by Meatbomb at 3:59 PM on February 10, 2009
+Can I play Jessamyn?
+If you do, remember this: I do not actually have a cat.
+metafilter: we all agree to just not be dicks.
+Well, there goes that new years' resolution.
+posted by terrapin at 5:10 PM on February 10, 2009
+Am I in the right thread?
+"If you do, remember this: I do not actually have a cat."
+Yeah, um, under my interpretation of Jessamyn, she does have a cat and that cat is named Cooter.
+Also, she wears chain mail and is a half-dwarf with a constitution bonus.
+posted by klangklangston at 5:25 PM on February 10, 2009
+and flagged
+posted by terrapin at 5:32 PM on February 10, 2009
+Sorry, I couldn't resist. This thread started out well, but I can think of no other word to describe its bulk but quaint.
+posted by sluglicker at 6:53 PM on February 10, 2009
+the problem with having a privacy policy is that you have to follow it.
+Some of us consider this to be a feature, not a bug.
+posted by genome4hire at 9:04 PM on February 10, 2009
+the problem with having a privacy policy is that you have to follow it.
+No, in my experience it means you lie and say you follow it even if you don't.
+posted by smackfu at 10:08 PM on February 10, 2009
+the problem with having a privacy policy is that you have to follow it.
+Some of us consider this to be a feature, not a bug.
+What makes this site work as it does is the trust that the owner has for the users.  That has to be a two way street.  I believe matt, and don't think adding rules that people can hire lawyers to enforce adds anything of value to the mix.
+posted by Meatbomb at 11:26 PM on February 10, 2009
+Let's follow California's lead, eh? They all trust each other and never sue, right?
+Huh. Well, I can understand that. All the same, storing IP and paypal info in the database indefinitely is a huge risk - especially for a site that depends on an aging codebase, written for a nearly extinct platform.
+I think that's stretching it a bit, thank you very much. ColdFusion is miles from extinct. Setting aside the fact that it is currently supported, and in a big way, by its primary company and there are two alternative engines being offered, it is also present on such a significantly broad range of websites, particularly in the government sector, that support of some kind or another is likely for years and years to come...or did you mean "extinct" as in "not open source"? If so then, yeah, it's extinct, just like Mac OS X and every video game released past, present, and future. I mean, have you even looked at Coldfusion 8 and what it can do?
+As I understand it the MetaFilter codebase is in a state of constant evolution. No, it hasn't been rewritten from scratch recently, but that does not necessarily make a codebase better or more secure. The "security breach", as you call it, was incapable of reading information, only of appending some data to some fields. Definitely something to be concerned about, but now largely solved through a total site audit which would have made such breaches far less likely.
+Not to mention that, as I understand it, what they are storing is the person's real name, business, and email address. That is all. Is that really, really, really such a big deal? No, no it is not. This is one of those situations where you think there are freaky identity thieves out there with nothing better than to sift through years of AskMes, find out that someone is in the Minneapolis are and wants to declaw their cat, hacks into MetaFilter, finds their real name, looks them up using a phone book, and then calls them and leaves a very nasty voicemail.
+I mean, really. Are you telling me you never, never ever have given a website your real name and email? I've done it, on websites that I don't trust nearly so much as MetaFilter's, because I know that there is some information that it honestly doesn't matter if they have.
+There's wanting to protect your privacy to keep yourself safe, and there's wanting to protect your privacy out of some (IMHO) frankly weird set of principles. I mean, I'm not ready to throw my balls out on the Internet like jessamyn has (figuratively speaking, of course). I would never publicly post my physical address and phone number for all to see (although I'm sure if you did enough sleuthing you could handily track it down).
+Do you wear a ski mask when you go to meetups? Do you avoid using your real name when you meet strangers? Are you, in fact, the last direct descendant of Christ, who must maintain your awful horrible secret, everywhere, except here on the pages of MetaFilter, blithely and dangerously unaware that they are logging your IP address?!??
+(No.)
+posted by Deathalicious at 1:00 AM on February 11, 2009
+Deathalicious, you didn't come to the last Philly meetup.  We ALL wore ski masks.
+posted by greekphilosophy at 7:56 AM on February 11, 2009
+If by "meetup" you mean "bank-heist" then yes, most of the participants do wear ski masks.
+posted by Pollomacho at 8:03 AM on February 11, 2009
+Some of us consider this to be a feature, not a bug.
+Some of us have an ideological axe to grind, which is shortsighed IMO. The site doesn't really work with a lot black and white rules, which you seem to be pushing for. If not, then apologies for misunderstanding you.
+It's great that your " activism has resulted in the successful passage of an amendment to Indiana's data breach laws, " but I doubt the site needs activism, per se. There are lot of factors involved in the site's policies and procedures, which the mods have been willing to discuss in depth whenever someone brings it up, so lets not lump them in the same league as a  faceless corporation that ignores user requests or concerns is all I'm saying.
+Somebody should update kindall's sociological dichotomy of MeFi users for the let's-have-lots-of-rules-and-policies vs. let's-just-all-get-along argument.  It'd save a lot of time and handwringing.
+posted by gleuschk at 9:25 AM on February 11, 2009
+uh....hey genome4hire, where is the privacy policy on your site? Perhaps it isn't a commerical site so it isn't answerable to the California law, but insofar as I'm charitably taking your motivation in this thread to come from privacy geekery and not rules-lawyerocity...shouldn't you have a privacy policy on your site? PLS don't sell my IP address to hax0rs kthanks.
+posted by Kwine at 12:44 PM on February 11, 2009
+Can the license MeFi gets to redistribute or republish be in limited mediums and forms?
+Um, IAAL, but I am not your lawyer, and this isn't legal advice.  I'm coming late to the party, but unless I missed it, no one ever answered your question.  Not having done any of the necessary legal research, I can tell you the rule of thumb is that a contract is a contract is a contract.  There are limits to what you can do, but the ones that come immediately to mind involve real estate, sex, or illegal conduct.  You just want to have a different kind of license for things posted to music.metafilter than for things posted to other parts of the site.  I don't see any reason you couldn't do that.
+« Older FTW!   |   Son Or Shamefully Electrified Corpse of Son of... Newer »
+You are not logged in, either login or create an account to post comments
+About MetaTalk
+MetaTalk is the first spin-off subsite of MetaFilter and is designed as a space to talk about MetaFilter itself. MetaTalk is the place to discuss features, bugs, and issues of policy with the rest of the membership.
+All posts copyright their original authors.

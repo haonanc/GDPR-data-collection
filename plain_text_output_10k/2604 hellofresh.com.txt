@@ -1,0 +1,372 @@
+Last Modified 4/18/2018
+We, Grocery Delivery E-Services USA INC. DBA HelloFresh, are committed to protecting and respecting your privacy.
+This policy (together with our Terms & Conditions and any other documents referred to herein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy applies to information we collect:
+On HelloFresh’s website ( www.HelloFresh.com ) or mobile application (“Site” or “App,” respectively);
+In email, text, and other electronic messages between you and HelloFresh or our Site or App; and
+When you interact with our advertising and applications on third-party websites and services.
+This policy does not apply to information collected by:
+Us offline or through any other means, including on any other website operated by any third party (including our affiliates and subsidiaries); or
+Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on our Site or App.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you may choose not to use our Site or App. By accessing or using our Site or App, you agree to this Privacy Policy.
+CHANGES TO THIS PRIVACY POLICY
+HelloFresh reserves the right to change this Privacy Policy from time to time, at our sole discretion. Any changes we make to our Privacy Policy will be reflected on this page, with the date of the latest revision identified at the top of the page. If we make material changes to how we treat our users' personal information, we will notify you by email to the email address specified in your account. Your continued use of our Site or App after we make changes is deemed to be acceptance of those changes. You are responsible for ensuring that we have an up-to-date, active, and deliverable email address for you (See: Your Access to Information to learn how to update your email address), and for periodically visiting this page to check for any changes to our Privacy Policy.
+INFORMATION WE COLLECT & HOW WE COLLECT IT
+We collect several types of information from and about users of our Site and App, including information
+By which you may be personally identified, such as name, postal address, e-mail address, telephone number or ANY OTHER INFORMATION THE SITE OR APP COLLECTS THAT IS DEFINED AS PERSONAL OR PERSONALLY IDENTIFIABLE INFORMATION UNDER AN APPLICABLE LAW ("Personal Information");
+Details of transactions you carry out through our Site or App and of the fulfilment of your orders;
+That is about you but individually does not identify you; and
+About your internet connection, the equipment you use to access our Site or App, and usage details.
+We collect this information:
+Directly from you when you provide it to us (See: Information You Provide to Us);
+Automatically as you navigate through the Site or App (See: Information We Collect Through Automatic Data Collection Technologies). Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies; advertising
+From third parties, for example, our business partners.
+Information You Provide to Us
+The information we collect on or through our Site or App may include:
+Information that you provide by filling in forms on our Site or App, including information provided at the time of registering to use our Site or App, subscribing to our service, posting material, participating in an event, contest, or promotion, or requesting further services;
+Information we request when you report a problem with our Site, App, or any of our product offerings;
+Information that you provide while applying for a job or internship position with HelloFresh;
+Records of correspondence between you and HelloFresh;
+Information that you provide to complete optional surveys that we use for research purposes;
+Details of your visits to our Site or App including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access; and
+Details regarding other people, including email information and names of recipients of gifts purchased through the Site or App, or invitations to try the services or visit the Site or App.
+Information We Collect Through Automatic Data Collection Technologies
+As you navigate through and interact with our Site or App, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+Details of your visits to our Site or App, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Site and App;
+Information about your computer and internet connection, including your IP address, operating system, and browser type;
+Information about your mobile device and network, including the hardware model, operating system and version, unique device identifiers, and information about your use of our Site and App. To facilitate your use of certain Site and App features, we may request your permission to collect information about the location of your device and access information from certain native applications on your device, such as the camera or photo album.
+The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Site or App and to deliver a better and more personalized service, including by enabling us to:
+Estimate our audience size and usage patterns;
+Store information about your preferences, allowing us to customize our Site or App according to your individual interests;
+Speed up your searches; and
+Recognize you when you return to our Site or App .
+The technologies we use for this automatic data collection may include:
+Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer or mobile device. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site.
+Flash Cookies. Certain features of our Site may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Site. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+Web Beacons. Pages of our Site (and our emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that help deliver cookies and permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+HOW WE USE YOUR INFORMATION
+We may use information that we collect about you or that you provide to us:
+To present or improve our Site or App and its contents to you;
+To provide you with information, products, or services that you request from us or which we feel may interest you;
+To respond to your comment or questions, and provide you with customer service;
+To monitor Site and App trends and activities;
+To provide you notices about your account or your subscription;
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+To notify you about changes to our Site, App, or any products or services we offer or provide through it; and
+Towards any other purpose for which the information is collected.
+Please refer to Your Choices About How We Use and Disclose Your Information to learn how to opt-out of certain uses.
+Where We Store Your Data
+The information we collect from you is governed by U.S. law. However, the data may be transferred to, and stored at, a destination outside of the United States of America (USA). It may also be processed by staff operating outside the USA who work for us or for one of our suppliers or affiliates. Such staff may be engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+Who We Share Your Information With
+We may periodically share some information about you in the following manner (and pursuant to this Privacy Policy):
+To our subsidiaries and affiliates;
+To contractors, service providers, and other third parties we use to support our business;
+Provide our customer list, and the personal and/or delivery information contained therein, to third parties who may, in our estimation, offer products or services of interest to you;
+To comply with any court order, law, or legal process, including to respond to any government or regulatory request;
+If we believe that you are breaching the HelloFresh Terms and Conditions or other policies, or if disclosure is necessary or appropriate to protect the rights, property, or safety of HelloFresh, our customers, or others;
+To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of HelloFresh’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by HelloFresh about our customers is among the assets transferred; or
+With your consent.
+We may disclose information about identifiable individuals to our advertisers, or provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help our advertisers display their advertisement to their target audience.
+YOUR RIGHTS
+Your Choices About How We Use and Disclose Your Information
+HelloFresh strives to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website . If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by sending us an email stating your request to hello@hellofresh.com or calling (646) 846-3663.
+Updating Account Information. You may update or edit your account information by accessing your account page at www.hellofresh.com, accessing the account settings on your app, emailing hello@hellofresh.com , or calling (646) 846-3663. You may also deactivate your account pursuant to the Terms and Conditions . We may retain relevant information related to your account when permitted by law or for legitimate business purposes.
+Targeted Advertising. If you do not want us to use information for Customized Campaigns or any promotional materials, please contact hello@hellofresh.com or (646) 846-3663.
+Please note that we do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+Your Access To Information
+You can review and change your personal information by logging into the Site or App and visiting your account profile page.
+You may also send us an email at hello@hellofresh.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+Your California Privacy Rights
+California Civil Code Section § 1798.83 permits users of our Site and App that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. You may request this information once each calendar year. To make such a request, please send an email to us-legal@hellofresh.com or write us at: HelloFresh Legal Department, 40 West 25th St., 7th Floor, New York, NY 10010.
+THIRD PARTY USAGE
+Third Party Advertisement and Analytic Services
+Customized Ad Campaigns. We may also work with third party social media sites, such as Facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way.
+Internet-Based Ads. We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, device identifiers, web beacons and other technologies to collect information about your use of the services and other websites and mobile apps, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked and conversion information. This information may be used by HelloFresh and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance program, please visit www.aboutads.info/choices or email hello@hellofresh.com
+Third Party Sites
+Our Site or App may, from time to time, contain links to and from the Sites and/or Apps of our partner networks, advertisers, and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+DATA SECURITY
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site and App, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to or from our Site or App. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site or App.
+CONTACT
+Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed to hello@hellofresh.com .
+×Close
+Can I control which weeks I receive my meals?
+Definitely. You’re always in charge and can easily skip a week by clicking My Deliveries. Then Skip Week. Just be sure to let us know by 11:59pm PST 5 days prior to your next scheduled delivery so we can alert our suppliers.
+How do I cancel?
+Did you know you can also skip a delivery week? Here’s how:
+1. Log in to your account.
+2. Click on My Deliveries.
+3. Scroll to the week you’d like to skip, then click Skip Week.
+But if you’d prefer to cancel...
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Follow the steps to cancel, including indicating a cancellation reason.
+You will receive an email confirmation once your subscription has been cancelled. Please retain this for future reference.
+Just be sure to pause/cancel by 11:59pm PST 5 days prior to your next scheduled delivery so we can alert our suppliers.
+How do I change when I get my box delivered?
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Select Delivery address & schedule.
+4. Click Edit, make necessary changes, then click Save.
+How does payment work? Is it secure?
+We take payment security very seriously and do not store our customers’ full credit card information on file. Instead, we bill using a secure method called tokenization. A token is an encrypted, randomly-generated code that is assigned to your payment details during checkout to securely bill you.
+How do I update my payment information?
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Select Payment information.
+How do I redeem a HelloFresh discount?
+All HelloFresh discounts can be redeemed during the checkout process. Simply check the box next to Do you have a Promo Code? in the order summary box on the right. Then, enter the promo code and click Apply.
+My discount code isn't working. What should I do?
+Our Customer Care Team would be happy to help you sort out any discount code issues, so feel free to give them a call at 1-800-733-2414.
+How do I change my password?
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Select Account Details.
+How do I change my email preferences?             ?
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Select Account Details.
+4. Click Change my preferences to subscribe or unsubscribe from certain emails.
+PLACING & EDITING ORDERS
+How do meal selections work?
+If you’re a Classic Plan customer, you can choose your meals from a wide variety of menu options after going through the signup process. But going forward, be sure to select which meals you like by 11:59pm PST 5 days prior to your next scheduled delivery. Unfortunately, we cannot yet offer meal choice for our Family and Veggie customers, but we’re working on it!
+1. Click on My Deliveries.
+2. If you like the meals highlighted, nothing more needs to be done. However, if you’d like to switch one meal for another, click Edit Menu.
+3. Select which meals you’d like to see in your box. When a meal is selected, the words In Box will appear and the circle in the upper right-hand corner of the photo will have a check mark inside.
+4. Click Save. You will now see a small green rectangle with the words In Box in the lower left-hand corner of the recipe photo. If you're not in love with any of the recipes, you can easily skip that week’s delivery.
+Can I choose my ingredients, choose my recipes, or both?
+Recipes… yes! Ingredients, no. However, all ingredients are clearly listed along with specific allergens that correspond to certain ingredients. Everything is packaged and labeled separately, so substituting or omitting an ingredient at home is easy.
+How do I skip a delivery?
+1. Log in to your account.
+2. Click on My Deliveries.
+3. Scroll to the week you’d like to skip, then click Skip Week.
+Just be sure to let us know by 11:59pm PST 5 days prior to your next scheduled delivery so we can alert our suppliers.
+DELIVERY
+Where do you deliver?
+We deliver across the continental US. Unfortunately, we can’t make it to Hawaii and Alaska, but stay tuned! We’re always working on ways to improve.
+When do you deliver?
+We deliver on Wednesday, Thursday, and Friday for all customers, as well as Saturday, Sunday, Monday, and Tuesday in specific areas. Deliveries typically arrive between 8am and 8pm.
+Do you deliver over the holidays?
+We work tirelessly throughout the holidays to ensure your box arrives without any delays, but if we foresee any disruptions, we (or one of our delivery partners) will be sure to send an email letting you know.
+What if I am not at home to accept the delivery?
+No problem! We’ll drop the box at your door (or wherever you specify in your Delivery Instructions), so it’ll be patiently waiting for you when you get home. No signatures necessary.
+What if I don’t want my box delivered to my home?
+No problem! We suggest one of the following solutions:
+Get it delivered to a neighbor’s house.
+Get it delivered to your place of work.
+Get it delivered to a nearby business or restaurant that won’t mind you picking it up at a later time during that delivery day.
+What should I do if my delivery is late?
+You may receive an email from us (or one of our delivery partners) letting you know if there’s a change to your expected delivery day due to extreme weather conditions or other logistics issues. If your box does arrive late and you are worried about the freshness of your ingredients, please feel free to contact our Customer Care Team at 1-800-733-2414.
+How does the food stay fresh in transit?
+We have specially designed boxes with insulating liners, ice packs, and cooling material to keep your food as cool as possible. We even modify our packaging based on season to ensure optimal freshness.
+How much does delivery cost?
+Delivery is free, so it’ll cost you nothing! We take care of that.
+Can I narrow down my delivery window?
+We are unable to offer a narrower delivery window; however, you never have to be home to accept the box. And thanks to our specially designed boxes with insulating liners, ice packs, and cooling material, you can rest assured knowing everything will still be cool by the time you return home.
+MEMBERSHIP AND PLANS
+What type of customized plans do you offer?
+Classic Plan customers have the option to customize their plan via the following preferences: beef-free, pork-free, and fish/shellfish-free. They also have the option to select the Fit, Quick, or Variety preference.
+Our Fit Preference features the three most wholesome, nutritionally dense, and balanced meals on the menu each week. They are around 650 calories per serving, although if a meal falls higher on the calorie spectrum due to the inclusion of healthy fats (i.e. salmon and avocado) or whole grains (i.e. farro, brown rice, and quinoa), it’ll also be considered “Fit.”
+Our Quick Preference features the quickest and easiest recipes on the menu for those looking to whip up deliciously simple meals in 30 minutes or less.
+Our Variety Preference features recipes that showcase new ingredients and techniques for those craving something different (but still quick and totally doable).
+Do you offer vegetarian/vegan options?
+We do offer a vegetarian box with 3 meals for either 2 or 4 people. This box contains fresh fruits, vegetables, whole grains, and plant-based sources of protein. There is no meat or fish. Occasionally, the vegetarian recipes are also vegan; when they are, the recipe is listed as being vegan. With that said, many vegetarian recipes can be made vegan by opting to leave out certain ingredients (like cheese or yogurt).
+Can I choose my meals?
+Yes! Classic and Family Plan customers can choose from an array of meals after going through the sign up process. Here's how:
+1. Click on My Deliveries. If you like the meals highlighted, nothing more needs to be done. However, if you’d like to switch one meal for another, click Edit Menu.
+2. Select which meals you’d like to see in your box. When a meal is selected, the words In Box will appear and the circle in the upper right-hand corner of the photo will have a check mark inside.
+3. Click Save. You will now see a small green rectangle with the words In Box in the lower left-hand corner of the recipe photo.
+Unfortunately, we cannot yet offer meal choice for our Veggie customers, but we're working on it!
+Can I get an email reminding me to choose my meals?
+Classic Plan or 2-meal Family Plan customers can receive a meal choice email reminder. Just follow these steps to update your email preferences:
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Select Account Details.
+4. Click Change my preferences to subscribe or unsubscribe from certain emails.
+Can I choose how many meals I get?
+You bet.
+Classic Plan customers can select 3, 4, or 5 meals per week for either 2 or 4 people.
+Veggie Plan customers can select 3 meals per week for either 2 or 4 people.
+Family Plan customers can select 2 or 3 meals per week for 4 people.
+Do you offer plans for singles?
+Our entry level subscription feeds 2 people, but we have many single-person households who choose the 3-meal plan for 2 people. Not only are the meals perfect to share with friends, but they also make for a delicious lunch the next day.
+Can I switch between plans?
+Yes, you can easily switch between plans (Classic, Veggie, and Family), the number of meals received per week, and the serving sizes. All of these changes can be made on the meal choice page.
+Do you offer plans for people with special dietary requirements?
+Transparency is important to HelloFresh, and we make it our priority to provide as much nutrition information to our customers about every ingredient in every recipe. Because everyone has different tastes, allergies, and preferences, we leave it to our customers to review the ingredients and determine which recipes best meet their dietary needs. For more information on our recipes and ingredients, please refer to the section below.
+Are you cheaper than the grocery store?
+Yes! After completing a 10 week price comparison study analyzing our customers’ costs versus the costs of those that shop at nationwide grocers, we discovered that HelloFresh is 75% cheaper than grocery shopping. Here’s why:
+We go directly to suppliers and don’t mark up the price of ingredients
+We delivery everything so you save on transportation
+We keep it seasonal to get the most bang for your buck
+We pre-portion ingredients and kiss food waste goodbye
+How is HelloFresh different from its competitors?
+While anyone can deliver a box of food, HelloFresh opens up a full experience that brings the fun of cooking back into your life. So although the final presentation is important (gotta get in those #HelloFreshPics), the process of getting there is equally as important to us. This is why:
+Our chef-curated recipes have six easy-to-master steps, take just 30 minutes, and require minimal equipment.
+We offer up to 7 deliciously simple recipes every week to help you break out of your recipe rut and ensure “dinner” and “boring” are never in the same sentence.
+We’re as flexible as your lifestyle thanks to easily customizable weekly menus, flexible deliveries, and the option to pause or cancel anytime.
+Our recipes are balanced, nutritious, and wholesome, so you can feel amazing, be unstoppable, and say goodbye to food comas.
+RECIPES, INGREDIENTS, AND PACKAGING
+What exactly comes in a meal kit?
+In addition to receiving easy-to-follow recipes with step-by-step instructions, you’ll also receive individual meal kits containing all the pre-measured ingredients you need to make each meal. Everything from pasta to a teaspoon of chili powder is included. In fact, the only ingredients we assume you have on hand are salt, pepper, sugar, oil, and butter.
+How do you develop your recipes?
+HelloFresh has a team of chefs and dietitians, all of whom have completed their educations at accredited universities. Together, the chefs and dietitians work to plan menus with flavor, nutrition, and seasonality in mind. We also bring back recipes rated as favorites by our customers.
+What do the recipe difficulty levels mean?
+Level 1 recipes are all about simplicity and familiarity. They involve little multi-tasking and may require only 1-2 pots and pans.
+Do you provide nutrition information for your meals? Where can I find it?
+Yes! Nutrition information for calories, fat, saturated fat, carbs, sugar, fiber, protein, cholesterol, and sodium can be found on the website next to each recipe. The nutrition information provided is based on a per serving amount.
+If you order a 2 person box, you would multiply by 2.
+If you order a 4 person box, you would multiply by 4 to get the total calories in the dish.
+Occasionally we will have recipes that have more than the 2 or 4 servings, but this will always be listed on the website ahead of time.
+We purchase our ingredients from several different suppliers, so nutrition facts per meal can vary from the website to your box. However, a black and white, FDA-compliant nutrition label can be found inside of the HelloFresh box that is shipped to your home.
+I have an allergy - what do I do?
+Hellofresh has a variety of menus that could potentially contain an allergen. Ingredients are stored in HelloFresh facilities segregated by packaging that results in protection from cross-contact. This protection is as rigorous as the handling, storage, and display segregation achieved in typical retail establishments (supermarkets, etc.). Most ingredients pass through HelloFresh to the customer sealed in the packages they were received in.
+Transparency is important to HelloFresh, and we make it our priority to provide as much nutrition information to our customers about every ingredient in every recipe. HelloFresh has a team of dietitians that reviews every ingredient for any of the major 8 allergens: wheat, dairy, soy, eggs, nuts, peanuts, fish, and shellfish. The dietitians then use this information to identify and disclose if any recipe contains any of these allergens. Information about any potential allergens in any recipe is then posted on the website next to the meal choice, and the specific ingredient that contains the allergen is called out.
+We leave it to our customers to review the ingredients and determine which recipes best meet their dietary needs.
+Do you offer gluten-free, dairy-free, or nut-free options?
+Yes! HelloFresh has a variety of meal choices each week, some of which are gluten-free, dairy-free, or nut-free. When recipes are free of these allergens, they are labeled as such. We leave it to our customers to review the recipes each week and determine which ones best meet their dietary needs. But of course, we’re always here to help!
+Do you offer organic ingredients?
+Some, but not all, of our ingredients are organic. The focus of HelloFresh is on helping our customers make those first steps towards cooking well-balanced meals at home. While the majority of our product is not organic, what we do concentrate on is what produce looks and tastes best. We work with trusted, experienced, and sustainable business partners to ensure high quality, seasonal, and farm-sourced produce is delivered to our customers at peak freshness.
+Eating organic is certainly one way of eating better; however, the focus with HelloFresh is more on helping customers have a positive cooking experience in the kitchen. Rather than focus on whether or not the produce is organic, we are trying to help our customers take the necessary steps to add in more fruits and veggies in their everyday lives.
+Where do you source your fish from?
+HelloFresh is committed to buying delicious, sustainably sourced, natural seafood, and therefore we have rigorous sustainability standards. We currently buy both wild-caught and farm-raised fish. We identify the best option for each species on a case-by-case basis and require traceability (including country of origin, catching area, fishery, catch season, and catching method). This changes depending on the type of fish, time of year, and health of the fish population.
+HelloFresh is proud to work with the Monterey Bay Seafood Watch program which ensures that all of our seafood is rated either "Green/Best Choice" or "Yellow/Good Alternative" by the Monterey Bay Seafood Watch. In addition, some of the fish species HelloFresh buys have additional sustainability certifications such as MSC (Marine Stewardship Council) for wild-caught and BAP (Best Aquaculture Practices) for farm-raised.
+Where do you source your meats from?
+Our meat suppliers vary by week and region. When we choose our suppliers, our first priority is to get to know them and their operation from the inside out. We personally take an on-site visit to every meat vendor we work with to ensure the operation is food safe. Our meats are primarily sourced domestically and are all natural. Our poultry suppliers have certified that the animals they supply us with are both antibiotic and hormone free. Our pork suppliers have certified that the animals they supply us with get the best treatment possible and are all hormone free.
+What should I do if one of my ingredients is damaged or missing?
+This is definitely not acceptable, and we apologize for the inconvenience. Please contact Customer Care at 1-800-733-2414 so we can make this right ASAP.
+What is your packaging made out of?
+Insulating liners
+Summer and winter liners: honeycomb paperboard with a pulper-safe metalized film
+Summer liners: recycled cotton, jute, and kraft paper
+Winter liners: BPA-free plastic and mylar
+Ice packs
+Water soluble gel (it dissolves in water but is not pipe-friendly, so don’t pour down the drain!) and recyclable plastic
+HelloFresh box
+Separator and meal kits
+Can I recycle the packaging?
+Yes! We care just as much about our packaging as the delicious recipes that come inside it. Here’s how to recycle each part of the HelloFresh box responsibly: Insulating liners
+The honeycomb paperboard is 100% curbside-friendly.
+Take summer liners to a nearby recycling center.
+Trash winter liners.
+Ice packs
+Use scissors to cut a small corner and empty water soluble contents into trash before recycling this plastic pack.
+HelloFresh box
+Separator and meal kits
+1. Log in to your account.
+2. Click the three dots in the upper-right hand corner and select Gift cards.
+3. Choose whether you’d like to give the gift of a Classic, Veggie, or Family box.
+4. Follow the prompts to checkout.
+Why am I asked to enter a shipping address?
+We want to make sure the person receiving the gift card is in our delivery area. We’d hate for you to buy a gift for someone you love just to find out that they can’t receive a box.
+Can I purchase more than one?
+Absolutely! In order to purchase more than one gift card at a time, you must add each gift card for each product separately. However, you can pay for multiple gift cards at the end of the checkout process.
+When will the person I am sending a gift card to receive the gift card?
+Your gift card recipient will receive an email on the specific day that you indicate. This email will contain step-by-step instructions on how to redeem the gift card.
+Do gift card purchases result in the creation of a subscription?
+Nope, gift card purchases are one-off transactions. You will not be setting up a subscription for the sender or the recipient, and no further charges will apply.
+Will I receive an email confirmation for my gift card purchase(s)?
+Yes, you will receive an email confirmation after purchasing a gift card. This email will also include a printable card for you to download and give to the recipient.
+I received a gift card, now what?
+Get ready to have so much fun in the kitchen! But first, follow the instructions in the email notification. Alternatively, head to HelloFresh.com, click Gift Cards, then Redeem Gift.
+HELLOFRESH WINECLUB
+What is HelloFresh’s Wine Club?
+The HelloFresh Wine Club is an easy and convenient way to receive 6 bottles of top-quality red, white, or mixed wines delivered monthly to your doorstep. No commitment necessary. The wines are specially paired with your HelloFresh meals and come with detailed online pairing tips, tasting notes, and flavor profiles.
+How do I sign up for HelloFresh Wine subscription?
+1. Go to HelloFresh.com and click on Wine in the top navigation bar.
+2. Select your plan (Mixed Wine, Red Wine, or White Wine).
+3. If you’re already a HelloFresh member, please log in to your account. Once you do so, your delivery and account information will appear.
+4. If you don’t have an account with us but would like to sign up for a wine subscription, please follow the steps under the New Users section.
+Where can I learn more about the wines that you send?
+Head to HelloFresh.com/wine to preview the wines for the upcoming month and view online tasting notes with detailed flavor profiles and pairing tips.
+Who sources the wines I am shipped every month?
+Our trusted partner sources from renowned international vineyards in the top wine-producing regions, including France, Italy, Argentina, and Napa Valley.
+Is there a sales tax on my wine deliveries?
+Yes, there is a sales tax. The exact amount depends on your address and is calculated during checkout.
+Can I purchase HelloFresh wine as a gift?
+We currently don’t offer the option to purchase HelloFresh wine as a gift, but stay tuned! We’re actively working on it.
+How much does it cost to have a HelloFresh Wine Club membership?
+We source directly from the vineyard and eliminate all added costs so you can share, savor, and impress your guests at $89 per month, which is under $15 a bottle.
+How do I skip a wine delivery?
+1. Log in to your account.
+2. Click on My Deliveries.
+3. Click on the calendar icon in the upper right-hand corner.
+4. Scroll to the day of the month your wine is scheduled to be delivered, then click on the circle.
+5. Click Skip Month.
+Just be sure to let us know by 12pm EST 7 days prior to your next scheduled delivery.
+How do I cancel my HelloFresh Wine membership?
+Did you know you can also skip a delivery month? Here’s how:
+1. Log in to your account.
+2. Click on My Deliveries.
+3. Click on the calendar icon in the upper right-hand corner.
+4. Scroll to the day of the month your wine is scheduled to be delivered, then click on the circle.
+5. Click Skip Month.
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner and choose Settings.
+3. Click Cancel my subscription, which can be found underneath Account details.
+If you cancel by 12pm EST 7 days prior to your next scheduled delivery, you won’t be charged and all future deliveries will be cancelled. However, if you do so after the cut-off date, your order will be processed and the box will be sent to you.
+When will you charge my card for my wine delivery?
+You will be charged immediately upon signing up for your first box. After that, you will be charged 7 days prior to delivery.
+Where do you ship wine?
+We ship to over 95% of counties in the continental US. Upon entering your zip code during checkout, the system will inform you if you live in an eligible area.
+When will my wine be delivered each month?
+Follow these steps to find out when your wine box is scheduled to be delivered.
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner, then click Settings.
+3. Select Delivery address & schedule.
+The Delivery Windows section displays when your next wine box will arrive.
+Is an adult signature required for my wine delivery?
+Yes. An adult aged 21 years or older must be present with a valid ID to sign for the delivery. To make things easier, you can have the box shipped to your business address and use the FedEx Location Tool to track your delivery.
+What if I or another adult is not available to receive my wine delivery?
+If an adult aged 21 years or older will not be present to sign for the delivery, we recommend shipping to a business address. Otherwise FedEx will try delivering 3 timesbefore requiring an adult to retrieve the box from a FedEx center.
+How do I change my monthly Estimated Arrival Date or Address?
+1. Log in to your account.
+2. Click on your name in the upper right-hand corner, then click Settings.
+3. Select Delivery address & schedule.
+4. Click Edit, make necessary changes, then click Save.
+How do I skip a wine delivery?
+1. Log in to your account. 2. Click on My Deliveries.
+3. Click on the calendar icon in the upper right-hand corner.
+4. Scroll to the day of the month your wine is scheduled to be delivered, then click on the circle.
+5. Click Skip Month.
+Just be sure to let us know by 12pm EST 7 days prior to your next scheduled delivery.
+My scheduled delivery date is later in the month. Does that mean I’ll have fewer wine pairing options?
+Not at all! Our wines are hand-selected to complement HelloFresh recipes over the course of several weeks to ensure that everyone has plenty of options and time to enjoy the exceptional wine pairings.
+How much wine is in each delivery?
+Each curated box comes with 6 full-size bottles (750 ml) of all red wines, all white wines, or a mixture of reds and whites.
+Will my wine be shipped with my meals?
+Nope! Your weekly box of recipes and ingredients is shipped separately from your monthly box of wine.
+Where can I see the wines that are included in my next delivery?
+1. Log in to your account.
+2. Click on My Deliveries.
+3. Scroll to the bottom to view your wine menu for the month.
+Can I receive more or fewer than 6 wines every month?
+At this time, customers can only receive 6 wines in their box every month, but stay tuned! We’re always working on ways to improve.
+Can I order just red or just white wines?
+Absolutely! HelloFresh Wine Club members can choose to receive all red wines, all white wines, or a combination of reds and whites.
+What’s in the mixed wine box?
+There are 4 red wines and 2 white wines in the mixed box.
+I received a bottle of wine in my box that I loved! Can I buy more of the same bottle through you?
+Not at this time, but stay tuned! We’re always working on ways to improve.
+What if I don’t like the wine selected for my next delivery?
+Feel free to skip the month! Here’s how:
+1. Log in to your account.
+2. Click on My Deliveries.
+3. Click on the calendar icon in the upper right-hand corner.
+4. Scroll to the day of the month your wine is scheduled to be delivered, then click on the circle.
+5. Click Skip Month.
+Just be sure to let us know by 12pm EST 7 days prior to your next scheduled delivery.
+I didn’t receive my scheduled wine delivery this month. What should I do?
+Our Customer Care Team would be happy to help you sort out any delivery issues, so feel free to give them a call at 1-800-733-2414.
+Can I return wine I don't like?
+Definitely! Simply return the wines you don’t like with the return slip as well as the unopened bottles, and we’ll give you a full refund without any fuss. In fact, we have a 100% Satisfaction Guarantee.
+Can you replace a bottle that broke in transit?
+Absolutely! Please contact our Customer Care Team at 1-800-733-2414 — they’d be happy to send you a replacement for a bottle that broke in transit.
+I HAVEN’T FOUND AN ANSWER TO MY QUESTION. WHAT SHOULD I DO?
+SEE BELOW!
+For general inquires, contact our Customer Care Team at 1-800-733-2414 or hello@hellofresh.com .
+Forgot password?
+Please type in your email address. We'll send you a link to change the password.

@@ -1,0 +1,78 @@
+Present Privacy Policy regarding personal data (further - Privacy Policy) applies to all the Skyload website information, which is under the domain http://skyload.io, which can be retrieved about the User while using Skyload website, programs and products Skyload.
+The Terms
+In the resent Privacy Policy the following terms are used:
+Skyload site Administration (further – site Administration) – employees authorized to manage the website, who act on behalf of Skyload, organize or perform processing of personal data, as well as determine the purposes of processing the personal data, the structure of personal data which is subjected to processing, actions (operations) made with personal data.
+Personal data - any information directly or indirectly related to certain or determinate natural person (subject of personal data).
+Processing personal data - any action (operation) or set of actions (operations) made with personal data using automation means or without using it, including gathering, recording, systematization, accumulating, storing, specification (updating, modification), extracting, usage, transmission (spread, providing, access), depersonalization, blocking, deletion, abolition of personal data.
+Privacy of personal data - The obligatory to follow term for Operator or any other person who received an access to personal data is to prevent the personal data spread without personal data subject's agreement or without any other legal grounds.
+Skyload website User (further - User) – person who has access to the Website via internet and uses the Website and\/or browser add-on Skyload.
+Cookies — small fragment of data, sent by the web-server and stored on the User's computer, which is sent by the web-client or by the web-browser in HTTP-request while trying to open the page of the relevant website.
+IP-address — unique network address of node in computer network, lined up by IP protocol.
+Subscription – is a form of contract, in terms of which the User pays certain money amount on periodic basis and gets the Skyload add-on version which contains no advertisements in return.
+General provisions
+The usage of Skyload Website by the User means that he accepts the present Privacy Policy and the terms of processing of User's personal data.
+In case there is disagreement with the terms of Privacy Policy, User should stop using Skyload website and Skyload add-on.
+Present Privacy Policy is applied to Skyload website and Skyload add-on. Skyload does not control and can not be responsible for third party websites, which User can be transferred to, using links available at Skyload website.
+Website Administration does not verify the personal data provided by the Skyload website User.
+Privacy Policy's object
+Present Privacy Policy determines Skyload website Administration's obligations to non-disclose and to defend the personal data privacy regime for the data provided while User's registration on Skyload website or while purchasing the Subscription.
+Personal data, authorized to be processed under the present Privacy Policy, is provided by the User via filling in the registration form on Skyload Website or via separate services and social networks under the «Enter Skyload» and may include the following information:
+User's name and last name;
+E-Mail address;
+Skyload website protects the Data, which is automatically transferred while viewing commercials or visiting pages, which have statistic system scrypt ("Pixel") installed on:
+IP address;
+information from cookies;
+Information about browser (or any other program which grants access to showing commercials);
+Access time;
+Refferer (previous page address).
+Disabling cookies may cause obstacles while accessing certain sections of Skyload website, that require authorization.
+Skyload website gathers statistic of its User's IP-adresses. This information is used to detect and fix technical issues, to control the legality of financial operations made.
+Any other personal information, which may have not been mentioned above (purchase history, browsers and operation systems used, etc.) are subjected to secure storage and non-disclosure, except for the cases, specified in clauses 5.2. и 5.3. of the present Privacy Policy.
+Purposes for gathering User's personal data.
+User's personal data may be used by Skyload Administration for such purposes:
+Identification of User registered with Skyload website in order to create Subscription with Skyload Website.
+Granting User's access to personalized resourсes of Skyload website.
+To establish feedbacks, including sending notifications, requests, regarding usage of Skyload to the User, providing services, managing User's requests and demands.
+Determination of User's location for security purposes, avoid fraud.
+Verification of personal data provided by the User, its authenticity and completeness.
+Creating account for making purchases, in case User authorized creating of such account.
+Notify Skyload website User about making an order for subscription.
+Processing and receiving payments, confirmation of taxes and breaks, transaction disputes, determination of User's right to receive credit line.
+Providing User with effective customer and technical support, in case problems related to Skyload Website usage appear.
+Providing User, by his approbation, with updated product, special offers, information regarding prices, news delivery and other information sent by Skyload or Skyload's partners.
+To realize advertising activity after User's approval.
+Granting User's access to Skyload partners' websites in order to receive products, updates and services.
+Means and terms of personal data processing.
+User's Personal data processing is not limited in time in any legal way, including information systems of personal data which use means of automation or without usage of such means.
+User agrees that Website's administration has right to transfer personal data to third parties, namely, payment processors, for User's order processing purposes only in case the order was made on Skyload Website.
+User's Personal data can be transferred to authorized governmental representatives of Website's Administration country only under the circumstances and in order, established by legislature of Website Administration's country.
+If personal information was lost or disclosed, Administration informs User about the loss or disclosure of personal data.
+Website Administration undertakes required organizational anf technical measure in order to protect User's personal data from illegal or accidental accessing, deleting, modification, blocking, copying, spreading and other illegal actions of third parties.
+Website's administration, along with User take all the required measures in order avoid losses or other negative consequences caused by User's personal information spread or loss.
+Parties responsibilities
+User obliged to:
+Provide the Personal data required to be able to use Skyload Website.
+Update, fulfil the personal data in case it was modified.
+Website administration is obliged to:
+Use the personal data only for purposes outlined in clause 4 of present Privacy Policy.
+To keep the private data in secrecy, not to disclose it until written permission from User is received and also not to sell, trade, publish, or disclose by any possible means User's personal data except for cases outlined in clauses 5.2. and 5.3. of present Privacy Policy.
+To take precaution measures in order to protect User's private data security, in order which is commonly used to protect such kind of information in existing record keeping.
+To perform personal data block, concerning specific User, since the moment of inquiry or request was made by the User, his legal representative or authorized agency, regarding the rights protection of personal data subject, for the period of verification, in case false personal data or illegal use is detected.
+Parties' Responsibilities
+Website's administration, which failed to fulfil its obligations is responsible for the damage taken by User, in terms of illegal use of personal data, in accordance with legislature of Website Administration's country, except for cases mentioned in clauses 5.2., 5.3. and 7.2. of present Privacy Policy.
+In case personal data is lost or disclosed, website Administration will not be responsible for it, in case:
+Information became public before its loss or disclosure.
+Information was received by third party before it was received by the Website Administration.
+Information was disclosed under User's authorization.
+Solving Disputes
+Before going to trial with suit, regarding disputes that may appear between Skyload Website User and Website Administration is is obligatory to introduce a complaint (written offer for voluntary settlement).
+The complaint recipient, in 30-days term since the receipt of complaint, replies to complaint sender in written form, regarding the results of complaint's consideration.
+If the settlement was not reached, the dispute will bу passed to court of justice in compliance with actual legislature of Website Administration's country.
+Present Privacy Policy and relations between User and Website administration are subjected to actual legislature of Website Administration's country.
+Additional terms
+Website administration can modify present Privacy Policy without User's agreement.
+New Privacy Policy becomes effective right after it is posted on Skyload website, if it is not prohibited by current Privacy Policy.
+All the questions and suggestions regarding present Privacy Policy should be sent to support@skyload.io
+Actual Privacy Policy is posted on http://skyload.io/privacy-policy
+Developer:
+Close

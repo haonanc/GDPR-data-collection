@@ -1,0 +1,58 @@
+ 
+We at Guts United  (Unpop OU) know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
+​
+ 
+What does this Privacy Policy cover?
+ 
+ 
+Will Guts United (Unpop OU) ever change this Privacy Policy?
+ 
+Information You Provide to Us:
+We receive and store any information you knowingly provide to us. For example, if you email us at
+, we may collect Personal Information that you provide to us in connection with such email communication (such as email address and name). Note, however, that while we will receive your email address if you email us at
+, you do not need to provide your first or last name or any other Personal Information when you contact us, and we will not store your Personal Information for longer than required to address your issues or concerns.
+ 
+If you connect the App to a third-party account (e.g., Facebook, Inc. (“Facebook”)), you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into the App if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. For example, when you connect the App to Facebook, we will collect your first name, ID, token and profile picture url from Facebook in order to create and maintain your user profile, to sync your progress, and to surface your name on a leaderboard with any other Facebook friends that have also connected the App to their Facebook accounts.
+Information Collected Automatically
+ 
+For iOS: Every iOS includes an advertising identifier (IDFA) with two key features:
+Users can reset the identifier at any time.
+ 
+For Android: Every Android device includes an advertising identifier (AAID). To opt out or to change its settings, follow these steps:
+1.       If using Android 2.3 or above, select “Google settings” in the app drawer.
+2.       Select “Ads”.
+3.       Select “Reset advertising ID” to generate a new identifier and eliminate any previously stored data.
+4.       Then select “Opt out of interest-based ads”.
+ 
+Also, if you click on a link to a third party website or service, such third party may also transmit cookies to you. Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices. Please be aware that cookies placed by third parties may continue to track your activities online even after you have left our Services, and those third parties may not honour “Do Not Track” requests you have set using your browser or device.
+ 
+Where is my Personal Information stored and processed?
+ 
+ 
+What if I have questions, concerns or complaints?
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to mailbox@guts-united.com. We will make every effort to resolve your concerns.
+In compliance with the Privacy Shield Principles specified above (where applicable), we commit to resolve complaints about your privacy and our collection or use of your Personal Information. We have further committed to refer unresolved Privacy Shield complaints to JAMS, Inc. (“JAMS”), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may contact or visit JAMS by visiting
+ 
+Will Guts United (Unpop) share any of the Personal Information it receives?
+We may share your Personal Information with third parties as described below:
+ 
+ 
+ 
+Affiliated Businesses: We occasionally partner with thi
+ 
+Our Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we use third parties for customer support functions, hosting services, mobile ad mediation services, ad networks, and analytics services. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. Please click here for a list of vendors , third-party service providers and agents who provide us services and with whom we share Personal Information.
+Business Transfers: We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
+Protection of Guts United (Unpop OU) and Others: We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our Terms of Use and other agreements or protect the rights, property, or safety of Guts United (Unpop OU), our employees, our users, or others.
+Is Personal Information about me secure?
+ 
+ 
+What Personal Information can I access?
+ 
+What choices do I have?
+​
+​
+​
+What if I have questions about this policy?
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to 
+, and we will try to resolve your concerns.
+Contact: You may contact us at the following address: Unpop OU, Punane tn 56, Lasnamäe district, Tallinn city, Harju county, 13619

@@ -1,0 +1,45 @@
+We collect information from you when you register on our site, place an order, respond to a survey or fill out a form.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information. You may, however, visit our site anonymously.
+Any of the information we collect from you may be used in one of the following ways:
+To improve our website: (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+To improve customer service: (your information helps us to more effectively respond to your customer service requests and support needs)
+To process transactions: your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+To send periodic emails: the email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Note: if at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers.
+A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure Web site usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalize a known visitor’s experience to a website by being associated with profile information or user preferences.
+You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites’ features, we recommend that you leave them turned on. If you block or otherwise reject our cookies, you will not be able to use any Web site services that require you to sign in.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Personal Data
+We may ask for certain Personal Data to make our services available to you. We only ask for information associated with your account or the administration. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information. You may, however, visit our site anonymously. OpenVPN will retain your Personal Data only for as long as is necessary for the purposes detailed in our Privacy Policy.
+OpenVPN uses the collected Personal Data to provide and maintain our Services and provide customer support for our Services. OpenVPN will only use your Personal Data to provide you with news, special offers or general information only if you have willingly Opted In to receive such information.
+What OpenVPN Collects From our websites; www.openvpn.net and www.privatetunnel.com:
+OpenVPN collects Personal Data only through web form submissions, primarily for the purpose of enabling the purchase of services and engaging in support. OpenVPN also collects anonymous information about how visitors use our web site; for example, OpenVPN utilizes web analytics software to track, in aggregate, the number of unique views received by the pages of the web site, the domains from which users originate along with many other analytical data points. Through the use of web analytics software, the OpenVPN websites may use "cookies" to assist the tracking of how users engage our website. A cookie is a piece of data that the web server stores on the browser's PC which the web browser will then send back to the web server on any future requests, to facilitate identification of the user should they visit the web site again. While much of the information that we collect from users in this manner is not personally identifiable, it may be associated with personally identifiable information that users voluntarily provide to us through our web site.
+Data Usage
+What Data OpenVPN Retains From Private Tunnel Sessions:
+Each time a user connects to our Private Tunnel service, we retain the following data for 14-30 days: the user's source IP address, the Private Tunnel IP address used by the user, connection start and stop time and total number of bytes used.
+Why OpenVPN Retains Private Tunnel Session Data:
+We retain Private Tunnel session data for 14-30 days to use with billing issues, troubleshooting, service offering evaluation, TOS issues, AUP issues, and for helping to prevent criminal activity performed over the service.
+What OpenVPN Does Not Collect From Private Tunnel Sessions:
+•We Do Not log a user's traffic or the content of any communications
+•We Do Not perform deep packet inspection of your traffic, except where requested by the customer for firewall purposes.
+•We Do Not perform shallow packet inspection of your traffic, except where requested by the customer for firewall purposes.
+•We Do Not throttle your Internet connection.
+•We Do Not rate limit Internet connection.
+What OpenVPN Disclosures
+Legal process disclosure
+Your Personal Data is never released to others, unless we are ordered by a court of competent jurisdiction to do so. OpenVPN never sells any Personal Data, usage information or any other information.
+Civil Investigations:
+OpenVPN will never release requested data for civil litigation unless commanded to do so by to do so by a court of competent jurisdiction in the matter. We will exercise all rights to restrict and protect user data.
+Criminal Investigations:
+OpenVPN cooperates fully with law enforcement agencies when presented with a valid subpoena issued through a competent court of law. In such cases, OpenVPN provides only the minimum required information regarding users identifying information and no more. When an investigation is criminal in nature, OpenVPN would not be able to disclose the fact of the investigation to the service user.
+Third Party Payment Processors
+We use third-party services for payment processing (e.g. payment processors). If you use a credit card that information will be collected by the payment processor. We do not collect or store your credit card number.
+Consumer Rights
+OpenVPN takes reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us and we will make the requested changes for you.
+If you wish to be removed from our systems, please contact us at privacy@openvpn.net
+Still Have Questions?

@@ -1,0 +1,60 @@
+This page is an official policy on Wikiquote.
+It has wide acceptance among editors and is considered a standard that all users should follow.
+Please do not make significant changes to this page without prior discussion.
+Blocks are used to deal with vandalism , malfunctioning or unidentifited bots, and inappropriate usernames.
+There are three types of blocks:
+User accounts
+Anonymous IPs
+IP ranges
+Administrators have the technical ability to block any of these for any period of time, but such blocks should follow our blocking policy.
+For situations not described here, Wikipedia policy may be applied loosely, based on Wikiquote community consensus, until Wikiquote establishes its own blocking policy.
+Contents
+When blocks may be used
+Blocks are most frequently used to deal with vandalism.  There are several other less common situations where blocks are appropriate, which are listed below.  Blocks should, initially, last 24 hours, except as noted below.
+Abstract
+Sysops may block both registered and unregistered users, if they act improperly.
+Blocking by judgement of a sysop should be temporary (less than one month), except blocks placed on registered users for:
+Spamming
+Open accounts, where the password is publicly known (See for example BugMeNot )
+Sock puppets (An account of an already established Wikiquote user used as a separate person, especially for abuse)
+Offensive or impersonating user names.
+Accounts used only for disruption, either vandalism or trolling.
+In these cases, permanent blocking may be considered.
+Blocks of IP addresses (anonymous users) should not be permanent, and should typically be limited to no more than one month. For grave and repeated disruptions and open proxies , blocks may be extended up to six months.
+Blocks of registered users should last less than one year, with exceptions listed above. This doesn't prevent the same user being blocked multiple times.
+Sysops may put range blocks to stem a flood of vandalism, but they should be limited to 24 hours maximum. Blocked ranges should be the narrowest possible to stop the flood.
+All discussions of blocking policy and its application should be discussed on Wikiquote talk:Blocking policy .
+Vandalism
+Sysops may, at their judgement, block IP addresses that vandalise Wikiquote. For dynamic IPs, such blocks should last 24 hours. For static IPs, such blocks should initially last 24 hours, but repeat violators may be blocked for a maximum of one month; there are various rules of thumb that sysops follow in how much to extend the blocks of habitual vandals, none of which are formal policy.  In general, casual vandals should be warned twice before being blocked, though warnings are not usually given for deliberate vandalism intended to discredit Wikiquote or serve an activist agenda.  See dealing with vandalism for overall policy.
+Logged-in users that do essentially nothing but vandalism may also be blocked for the similar time periods, initially 24 hours for most cases, and next longer, but here permanently at maximum. Some vandalisms are considered desruptive and malicious enough to be subject to the permanent banning on sight, even if it is their first edit from a given account. See also the section for disruption . However, user accounts that perform a mixture of valid edits and vandalism should not be blocked in this manner.
+Blocks should not be used against isolated incidents of vandalism.
+Impersonation
+Usernames that are designed to impersonate legitimate users may be blocked immediately and indefinitely. The IP address of these users should be left autoblocked. Accounts and IP addresses that illegitimately use another account's name in the signature should be warned first, and then can be blocked.
+Please be sure that the account is a malicious impersonator before blocking it; someone might choose a name similar to that of another user without any ill intent. Use common sense. If the suspected impersonators are vandalising, flaming other users, or otherwise acting with malice, then they should be blocked immediately. If they are making legitimate edits, they should be told of the possible confusion and encouraged to change usernames.
+Inappropriate usernames
+Offensive, deliberately confusing, and other inappropriate usernames are not allowed, and sysops may block accounts with such usernames at their discretion. It may be blocked indefnitely. The IP address should be left auto-blocked for a vandal with inappropriate username, but should be unblocked in other cases so that people may log in with their new username.
+Public accounts
+Public account is any account where the owner posts the password for public use. These may be blocked on sight indefinitely, with the block message pointing out that public accounts are not needed.
+As an alternative, when confirming that the password is public, it is quite simple and often creates less fuss to just go into Special:Preferences and change the password. This makes the password no longer public, and can also be done by anyone, not just an administrator.
+Anonymous and open proxies
+Administrators are encouraged to IP-block anonymous proxies up to six months [1] . While it is permitted and familiar on Wikimedia project to block open proxies permanently, there is theoretically no assurance they remain so eternally, and most of open proxies, zombie machines moreover, are fixed within a reasonable term. See the entire thread for discussions about the legitimacy of using an anonymous proxy to edit Wikipedia.  Such blocks are routine and uncontroversial. For automatic blocking based on SORBS DNSBL, see also User:SORBS DNSBL .
+The suggested block message is MediaWiki:Proxyblockreason .
+Disruption
+Sysops may, at their judgement, block IP addresses that disrupt the normal functioning of Wikiquote. Such disruption is to be objectively defined by specific policies, and may include changing other users' signed comments or making deliberately misleading edits. Users should be warned that they are violating policy before they are blocked. For dynamic IPs, such blocks should last 24 hours. For static IPs and user names, such blocks should initially last 24 hours, but repeat violators may be blocked for a maximum of one month, if their disruptions are not considered as habitual.
+Sysops may block IP addresses for a maximum six months in those cases:
+The IP addresses in concern make disruptions for a certain term repeatedly (weeks, or even months).
+The IP addresses in concern are known as disruptive on multiple Wikimedia wikis.
+The results of CheckUser investigation suggest their cross-wiki disruptions or long-term disruptions on this wiki.
+Sysops may also block new user accounts that make lots of disruptive edits, for any length of time or permanently, at their discretion. Sockpuppets that were created to violate Wikiquote policy should be blocked permanently. However, blocks should not be used against isolated incidents of disruption from IP addresses nor against user accounts that make a mixture of disruptive and useful edits.
+Reincarnations of blocked disruptive users will be reblocked if they continue being disruptive, or if they edit in a way which suggests they are likely to continue being disruptive—such as "YOU CANT BLOCK ME!!" or "JOIN ME IN MY FIGHT TO DESTROY WIKIQUOTE!!"
+Blocks under this provision are almost always controversial .
+Elastic clause
+Sysops are chosen for their good judgement and ability to act in Wikiquote's best interests.  As long as the block is not punitive, a sysop may block a user or IP address for more time than outlined above or for a different offense than outlined above.  If this matter becomes an issue, the blocked user may e-mail another administrator or Wikiquote contact team at info-en@wikiquote.org and the matter may brought to the Administrators' noticeboard pending a consensus of the community.
+Range blocks
+Range blocks are sometimes used when a vandal or disruptive user has been IP-blocked on several occasions but responds by using a different IP address.  In many cases, range blocks could affect legitimate users, so they should only be used when the disruptive behavior is frequent and severe enough to make other methods ineffective.  This is a matter of judgement, and the likely number of legitimate users that might be affected should be considered.
+When used, range blocks should be as brief as possible.
+The range block feature is difficult to use correctly because it requires an understanding of binary arithmetic.  It has certain limitations inherent in its implementation, requiring the starting and ending addresses to be an exact multiple of the distance between them, which must be a power of two.  For details, see Range blocks .
+Miscellany
+Discussions of any aspects of blocking policy, including opposition to particular forms of blocking, should be held at Wikiquote talk:Blocking policy .
+See also
+This page was last edited on 29 August 2014, at 18:48.

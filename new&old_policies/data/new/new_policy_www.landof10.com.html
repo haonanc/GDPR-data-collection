@@ -1,0 +1,1920 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=1223;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUPUVJSDRACVFFQAwAGXg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="referrer" content="origin">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/favicon.ico"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-57x57.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-114x114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-60x60.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/apple-touch-icon-152x152.png"/>
+<link rel="icon" type="image/png" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/favicon-196x196.png" sizes="196x196"/>
+<link rel="icon" type="image/png" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/png" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/favicon-16x16.png" sizes="16x16"/>
+<link rel="icon" type="image/png" href="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/favicon-128.png" sizes="128x128"/>
+<meta name="application-name" content="Land of 10 (AJC)"/>
+<meta name="msapplication-TileColor" content="#000000"/>
+<meta name="msapplication-TileImage" content="https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/mstile-144x144.png"/>
+<meta name="msapplication-square70x70logo" content="https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/mstile-70x70.png"/>
+<meta name="msapplication-square150x150logo" content="https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/mstile-150x150.png"/>
+<meta name="msapplication-wide310x150logo" content="https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/mstile-310x150.png"/>
+<meta name="msapplication-square310x310logo" content="https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/site-icons/mstile-310x310.png"/>
+  <meta name="apple-itunes-app" content="app-id=1145537905, affiliate-data=0, app-argument=0">
+  <meta name="google-play-app" content="app-id=com.cmgdigital.LandOf10">
+
+    <meta property="fb:pages" content="1000320026753405,1039193112828123,1046910432046749,1064807013600887,107562272992736,1085805538131262,1088189981269817,1092163894176295,1113414552032791,1118653448201971,1140657956009657,1175175232627716,1182666068463527,118472808569417,1192497827458355,122204348217178,122820211663029,137646246620024,1404976626205438,1410779949004568,1438585156426488,1520951184902336,1544911322491371,1545765999055092,1584456968550805,1597855633860291,1603046040002786,1623795921275646,1665219280426809,1683273288601739,1700874360160131,1705257596414127,1705553436382369,1706769906243029,1729569590654544,1730769850518410,1733229693582542,1735748660044370,1735943393337808,179951652428341,1943961402497275,1948268232097252,2004265436477331,201377603546858,2027221540848021,209843419408348,227221315224,236677046700588,250108332152721,256682174829084,276888422706793,281015065570941,314905885528026,317754218667480,318860811780614,334957276837404,382660585151174,440952235956212,449173708619316,457638821280689,505867926416311,541149636073131,554529248052503,566683680389081,571758993000591,594151447422625,613338438836132,640242079462724,660256657396168,671748526367546,682081685310801,719061284908186,733395096832493,800461613414461,804293796372270,809347615869135,824838117644090,832227180238109,836206776483870,932664050188551,967603719987182,969976029767219"/>
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.landof10.com/xmlrpc.php">
+
+<script src="https://web.archive.org/web/20180603083007js_/https://use.typekit.net/sdm0hck.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<script type="text/javascript">
+	var ajaxurl = "https://web.archive.org/web/20180603083007/https://www.landof10.com/wp-admin/admin-ajax.php";
+
+		var teamPathArray = location.pathname.split( '/'),
+		_fan_type = teamPathArray[1];
+
+	if (document.cookie.indexOf('cmg_team_preference') > -1 ) {
+		document.cookie = 'cmg_team_preference=sec;expires=0;path=/';
+	}
+
+	if (document.cookie.indexOf('cmg_team_choice_helper') > -1 ) {
+		document.cookie = 'cmg_team_choice_helper=;expires=0;path=/';
+	}
+
+</script>
+
+
+<title>Privacy Policy - Landof10.com</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Privacy Policy Landof10.com Privacy Policy Updated on July 7, 2016 Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC (“CMG”). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television"/>
+<meta name="news_keywords" content="big ten conference, college football, sports, landof10 com"/>
+<meta name="original-source" content="https://www.landof10.com/privacy-policy"/>
+<link rel="canonical" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Privacy Policy - Landof10.com"/>
+<meta property="og:description" content="Privacy Policy Landof10.com Privacy Policy Updated on July 7, 2016 Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC (“CMG”). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television"/>
+<meta property="og:url" content="https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy"/>
+<meta property="og:site_name" content="Land of 10"/>
+<meta property="article:publisher" content="https://www.facebook.com/landof10"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Privacy Policy Landof10.com Privacy Policy Updated on July 7, 2016 Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC (“CMG”). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television"/>
+<meta name="twitter:title" content="Privacy Policy - Landof10.com"/>
+<meta name="twitter:site" content="@landof10"/>
+<meta name="twitter:creator" content="@landof10"/>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//web.archive.org/web/20180603083007/https://ajax.googleapis.com/"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20180603083007/https://cdnjs.cloudflare.com/"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20180603083007/https://cdn.datatables.net/"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20180603083007/https://s.w.org/"/>
+<link rel="alternate" type="application/rss+xml" title="Land of 10 » Feed" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/feed"/>
+<link rel="alternate" type="application/rss+xml" title="Land of 10 » Comments Feed" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/comments/feed"/>
+<link rel="alternate" type="application/rss+xml" title="Land of 10 » Privacy Policy Comments Feed" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy/feed"/>
+<link rel="stylesheet" id="cmg-teams-conferences-css" href="https://web.archive.org/web/20180603083007cs_/https://www.landof10.com/wp-content/plugins/cmg-teams-conferences/public/css/cmg-teams-conferences-public.css?ver=1.0.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="contact-form-7-css" href="https://web.archive.org/web/20180603083007cs_/https://www.landof10.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="foobox-noie7-min-css" href="https://web.archive.org/web/20180603083007cs_/https://www.landof10.com/wp-content/plugins/fooboxV2/css/foobox.noie7.min.css?ver=2.3.2.39" type="text/css" media="all"/>
+<link rel="stylesheet" id="cmgsports-css-css" href="https://web.archive.org/web/20180603083007cs_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/build/css/cmgsports-2016.css?ver=1526569015" type="text/css" media="all"/>
+<link rel="stylesheet" id="addthis_all_pages-css" href="https://web.archive.org/web/20180603083007cs_/https://www.landof10.com/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=4.8.6" type="text/css" media="all"/>
+<link rel="stylesheet" id="minqueue-9413640c-282e90be-css" href="https://web.archive.org/web/20180603083007cs_/https://www.landof10.com/wp-content/uploads/minqueue-cache/minqueue-9413640c-282e90be.css" type="text/css" media="all"/>
+<script type="text/javascript" src="//web.archive.org/web/20180603083007js_/https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cmg_ads_vars = {"YieldBotPubId":"WDD2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/cmg-ads/js/cmg.ads-init.js?ver=1526568915"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/cmg-teams-conferences/public/js/cmg-teams-conferences-public.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/uploads/minqueue-cache/minqueue-e1b3cf03-6d0e6e89.js"></script>
+<link rel="https://api.w.org/" href="https://www.landof10.com/wp-json/"/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.landof10.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.landof10.com/wp-includes/wlwmanifest.xml"/> 
+<link rel="shortlink" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/?p=262"/>
+<link rel="alternate" type="application/json+oembed" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.landof10.com%2Fprivacy-policy"/>
+<link rel="alternate" type="text/xml+oembed" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.landof10.com%2Fprivacy-policy&amp;format=xml"/>
+<meta property="fb:app_id" content=" 167879406948329"/><meta property="fb:admins" content="756553084"/><meta property="fb:pages" content="167879406948329"/>
+
+<script type="text/javascript">
+    window['adFunctions'] = [];
+    var _cmg_ads_headerBidder = false;
+    var _moatYieldActive = false;
+</script>
+    <!-- Yieldbot.com Intent Tag LOADING -->
+    <script type="text/javascript" src="//web.archive.org/web/20180603083007js_/https://cdn.yldbt.com/js/yieldbot.intent.js"></script>
+    <!-- Yieldbot.com Intent Tag ACTIVATION -->
+    <script type="text/javascript">
+        yieldbot.pub('WDD2');
+        yieldbot.defineSlot('MLB');
+        yieldbot.defineSlot('mobrec');
+        yieldbot.go();
+    </script>
+
+
+    <script type="text/javascript" src="//web.archive.org/web/20180603083007js_/https://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+    <script type="text/javascript">
+        try {
+            amznads.getAds('3185');
+        } catch (e) { /*ignore*/ }
+    </script>
+
+
+<script type="text/javascript">
+
+    var _adsGetCookie = function(cname) {
+        var name = cname + '=';
+        var ca = document.cookie.split(';');
+        for(var i=0; i<ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+        }
+        return '';
+    };
+
+    var team = '';
+    var fanType = _adsGetCookie('cmg_team_preference');
+    if (!fanType || fanType === null || fanType === '') {
+        fanType = 'Unknown';
+    }
+
+	// safety net, reset in single-default.php
+    var isSingleDefault = false;
+
+    var _isTeamFanPage = (fanType === team);
+
+    var sponsorId = '';
+
+    var categoryId = '';
+
+    var contentType = 'utility';
+
+    var adConference = 'big-ten';
+
+    if (_isTeamFanPage && contentType === 'team page') {
+        contentType = 'homepage';
+        categoryId = '';
+    }
+
+    if(fanType === 'Unknown' && contentType === 'team page' && team === 'big-ten'){
+        contentType = 'homepage';
+        categoryId = '';
+    }
+
+    var fullAdUnit = '/12523293/VER_Sports/landof10_web_default';
+
+    (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//web.archive.org/web/20180603083007/https://www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+})();
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+        try { amznads.setTargetingForGPTAsync('amznslots'); } catch(e) { /*ignore*/}
+    
+
+    var infiniteScrollSlotPos = 0;
+    var _sponsorshipLayoutType = null;
+
+    
+    var _isRepeatingStreamAds = false;
+
+    var _adsCollectionList = false;
+    var _adsHomePage = false;
+
+    var _adsCategoryPage = false;
+    var _adsPostPage = false;
+    var _adsTeamLandingPage = false;
+
+    var _adsPhotoGallery = false;
+
+    var _adsListPage = (_adsTeamLandingPage === true || _adsHomePage === true || _adsCategoryPage === true || _adsCollectionList === true);
+
+    var _isFlatPage = !_adsHomePage && !_adsPostPage && !_adsCategoryPage;
+
+    var _cmgConfig = {};
+    _cmgConfig.isHomePage = _adsHomePage;
+    _cmgConfig.mainTeam = '';
+    _cmgConfig.userTeam = fanType;
+
+//    _cmgConfig.pageTracker = {};
+//    _cmgConfig.pageTracker.startOnPage = //;
+//    _cmgConfig.pageTracker.pageViewsPerPopup = //;
+//
+//    _cmgConfig.pageTracker.forcePopupOnHomepage = //;
+
+    _cmgConfig.isGameDay = false;
+    _cmgConfig.isGamedayAnnouncment = false;
+
+    _cmgConfig.isPlayerPage = false;
+
+    googletag.cmd.push(function() {
+
+        
+                try{
+            googletag.pubads().setTargeting("ybot",yieldbot.getPageCriteria());
+        }catch(e){/*ignore*/}
+        
+        // Infinite scroll requires SRA
+        //googletag.pubads().enableSingleRequest();
+
+
+        // Disable initial load, we will use refresh() to fetch ads.
+        // Calling this function means that display() calls just
+        // register the slot as ready, but do not fetch ads for it.
+        //googletag.pubads().disableInitialLoad();
+
+        // Enable services
+        googletag.enableServices();
+    });
+</script>
+<script src="//web.archive.org/web/20180603083007js_/https://assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-95a41b6aa289e42bcd6c1f65c2f0ca29861d8d07.js"></script>
+<script type="text/javascript">
+    var _adblock = true;
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/inc/metrics/adframe.js"></script>
+
+
+<script type="text/javascript">
+
+    var DDO = {
+        contentData: {
+            blogName: "",
+            contentByline: 'Land of 10 Staff',
+            contentID: "262",
+            contentOriginatingCMS: "wordpress",
+            contentOriginatingID: "262",
+            contentOriginatingSite: "https://web.archive.org/web/20180603083007/https://www.landof10.com/",
+            contentPublishDate: "20150713134613",
+            contentUpdatedDate: "20170206113257",
+            contentTopics: "",
+            contentVendor: "",
+            contentViewType: "",
+            galleryName: ""
+        },
+        pageData: {
+            pageSiteSection: "sports",
+            pageCategory: "privacy-policy",
+            pageSubCategory: "",
+            pageContentType: "page",
+            pageName: "/privacy-policy",
+            pageType: "standalone page",
+            pageTitle: document.title.toLowerCase(),
+            pageURL: "https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy"
+        },
+        siteData: {
+            siteCMS: "wordpress",
+            siteDomain: "www.landof10.com",
+            siteFormat: "sports",
+            siteID: "landof10",
+            siteMedium: "newspaper",
+            siteMetro: "national vertical",
+            siteType: "national vertical",
+            siteVersion: "responsive site"
+        },
+        userData: {
+            userActive: "not-logged-in",
+            userProfileID: "",
+            userStatus: "not registered",
+            userType: "anonymous"
+        }
+    };
+
+</script>
+
+
+    <script>
+
+        var dataLayerDataObj = {
+            "AMP": "false",
+            "ad_blocked": _adblock,
+            "postdate": "2015-07-13T13:46:13-0400",
+            "team": "",
+            "seo_optimized": "",
+            "Universal URL": "https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy",
+            "sponsorID": sponsorId,
+            "collection": "",
+            "Facebook Instant Article": "false",
+            "Ad System": "DFP"
+        };
+
+        function setDataLayerFromDDO() {
+
+            var ddoPart = DDO.contentData;
+            for (var prop in ddoPart) {
+                dataLayerDataObj[prop] = ddoPart[prop];
+            }
+
+            ddoPart = DDO.pageData;
+            for (var prop in ddoPart) {
+                dataLayerDataObj[prop] = ddoPart[prop];
+            }
+
+            ddoPart = DDO.siteData;
+            for (var prop in ddoPart) {
+                dataLayerDataObj[prop] = ddoPart[prop];
+            }
+        }
+
+        function google_send_event(eventCategory, eventAction, eventLabel, eventValue) {
+
+            var eventObj = {
+                'event': 'event',
+                'eventCategory': eventCategory,
+                'eventAction': eventAction
+            };
+
+            if (eventLabel && eventLabel !== null) {
+                eventObj.eventLabel = eventLabel;
+            }
+
+            // Note: google treats this optional value as numeric
+            if (eventValue && eventValue !== null) {
+                eventObj.eventValue = eventValue;
+            }
+
+            dataLayer.push(eventObj);
+        }
+
+        setDataLayerFromDDO();
+
+
+        dataLayer = [dataLayerDataObj];
+    </script>
+
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+    var _cs_ClientID = '6035944'; // C2
+    var _cs_Genre = ''; // C5
+    var _cs_Package = ''; // C6
+    var _cs_ClientSegmentID = ''; // C15
+
+    var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: _cs_ClientID, c5: _cs_Genre, c6: _cs_Package, c15: _cs_ClientSegmentID });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20180603083007/https://sb/" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+    <img src="https://web.archive.org/web/20180603083007im_/https://b.scorecardresearch.com/p?c1=2&amp;c2=6035944&amp;c5=&amp;c6=&amp;c15=&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+
+    <script type="text/javascript">
+        var _cmg_is_single = false;
+        var _cmg_base_commit_route = 'https://web.archive.org/web/20180603083007/https://www.landof10.com/commits/';
+        var _cmg_cloud_name = 'cmgverticals';
+        var _cmg_cloud_api = '121999291434332';
+        var _cmg_site = 'big-ten';
+        var _cmg_domain = 'www-landof10-com';
+        var _cmg_conference = 'big-ten';
+        var _cmg_team = '';
+        
+    var _cmg_sockets = {
+        apiKey: "AIzaSyDW40iPt5gBh9RnwvErPpKD_1PcqA0-yYc",
+        authDomain: "cmg-sports.firebaseapp.com",
+        databaseURL: "https://web.archive.org/web/20180603083007/https://cmg-sports.firebaseio.com/",
+        storageBucket: "cmg-sports.appspot.com",
+    };
+
+    var _cmg_teams = [];_cmg_teams.push({name:'Big Ten',code:'big',slug:'big-ten',bg_color:'#048ACC',division:''});_cmg_teams.push({name:'Illinois',code:'ill',slug:'illinois',bg_color:'#F5873C',division:'West'});_cmg_teams.push({name:'Indiana',code:'iu',slug:'indiana',bg_color:'#A82B3D',division:'East'});_cmg_teams.push({name:'Iowa',code:'iow',slug:'iowa',bg_color:'#FFD700',division:'West'});_cmg_teams.push({name:'Maryland',code:'mar',slug:'maryland',bg_color:'#D5002B',division:'East'});_cmg_teams.push({name:'Michigan',code:'mich',slug:'michigan',bg_color:'#272341',division:'East'});_cmg_teams.push({name:'Michigan State',code:'msu',slug:'michigan-state',bg_color:'#1C453A',division:'East'});_cmg_teams.push({name:'Minnesota',code:'min',slug:'minnesota',bg_color:'#7F011B',division:'West'});_cmg_teams.push({name:'Nebraska',code:'neb',slug:'nebraska',bg_color:'#F20017',division:'West'});_cmg_teams.push({name:'Northwestern',code:'nw',slug:'northwestern',bg_color:'#393996',division:'West'});_cmg_teams.push({name:'Ohio State',code:'osu',slug:'ohio-state',bg_color:'#DE3121',division:'East'});_cmg_teams.push({name:'Penn State',code:'psu',slug:'penn-state',bg_color:'#00265D',division:'East'});_cmg_teams.push({name:'Purdue',code:'pur',slug:'purdue',bg_color:'#B89D29',division:'West'});_cmg_teams.push({name:'Rutgers',code:'rut',slug:'rutgers',bg_color:'#EE363D',division:'East'});_cmg_teams.push({name:'Wisconsin',code:'wis',slug:'wisconsin',bg_color:'#A00000',division:'West'});var _cmg_schedule = [];    </script>
+    <style type="text/css">
+
+</style>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u, i) {
+        if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        'https://web.archive.org/web/20180603083007/https://cdn.taboola.com/libtrc/cox-network/loader.js',
+        'tb_loader_script');
+    if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://web.archive.org/web/20180603083007/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K743J5D');</script>
+    <!-- End Google Tag Manager -->
+
+
+</head>
+
+<body class="page-template page-template-page-sidebar page-template-page-sidebar-php page page-id-262"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.landof10.com/privacy-policy
+', '20180603083007')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.landof10.com/privacy-policy
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180603083007" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180429071012/https://www.landof10.com/privacy-policy" title="29 Apr 2018"><strong>Apr</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 08:30:07 Jun 03, 2018">JUN</td>
+		  <td class="f" nowrap="nowrap">Jul</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180527091212/https://www.landof10.com/privacy-policy" title="09:12:12 May 27, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 08:30:07 Jun 03, 2018">03</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170126084107/https://www.landof10.com/privacy-policy" title="26 Jan 2017"><strong>2017</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 08:30:07 Jun 03, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180603083007*/https://www.landof10.com/privacy-policy
+" title="See a list of every capture for this URL">16 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">26 Jan 2017 - 03 Jun 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/twitteroutlinks)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/twitteroutlinks" target="_new"><span class="wm-title">Twitter Outlinks</span></a></div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.landof10.com/privacy-policy\n","2018-06-03",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://web.archive.org/web/20180603083007if_/https://www.googletagmanager.com/ns.html?id=GTM-K743J5D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+
+<!-- ##SVG-Sprite -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" style="display:none"><symbol id="cm-svg-blog-icon" viewbox="0 0 44.2 36">
+<path d="M0,0v36h44.2V0H0z M42.7,1.6v9.3H1.6V1.6H42.7z M1.6,34.4V12.4h41.1v22.1H1.6z"/>
+<polygon points="18.6,28.4 6.7,28.4 6.7,30.7 18.6,30.7 36.3,30.7 36.3,28.4 18.6,28.4 "/>
+<polygon points="18.6,21.6 6.7,21.6 6.7,23.9 18.6,23.9 36.3,23.9 36.3,21.6 18.6,21.6 "/>
+<polygon points="12.8,15.3 6.7,15.3 6.7,17.6 12.8,17.6 21.9,17.6 21.9,15.3 12.8,15.3 "/>
+</symbol><symbol id="cm-svg-chevron-down" viewbox="0 0 100.4 50">
+<polygon points="74.7,0 50.2,24.4 25.8,0 0,0 50.2,50 100.4,0 "/>
+</symbol><symbol id="cm-svg-delete-icon" viewbox="0 0 50 66.6">
+<path id="cantop" d="M36.4,8.7V5.4C36.4,2.4,34,0,31,0H19c-3,0-5.4,2.4-5.4,5.4v3.4H0v6.1h50V8.7H36.4z M30.3,8.7H19.7V6.1h10.6V8.7
+	z"/>
+<path id="canbody" d="M2.9,62.3c0,2.4,1.9,4.3,4.3,4.3h35.7c2.4,0,4.3-1.9,4.3-4.3v-43H2.9V62.3z M34.5,29.8h4.6v25.1h-4.6V29.8z
+	 M22.7,29.8h4.6v25.1h-4.6V29.8z M10.9,29.8h4.6v25.1h-4.6V29.8z"/>
+</symbol><symbol id="cm-svg-edit-icon" viewbox="0 0 50 50">
+<path d="M48.5,9.3l-7.8-7.8c-1.9-1.9-4.9-1.9-6.9-0.1l0,0l0,0L5.4,29.8l-0.6,0.6L0,50l19.6-4.9l1.8-1.8l0,0L48.5,16l0,0l0,0
+	C50.5,14.2,50.5,11.1,48.5,9.3z M6.9,32.3l10.8,10.8l-10,2.5l-3.1-3.3L6.9,32.3z M19.6,36.5l-6.1-6.1L33.8,10l6.1,6.1L19.6,36.5z"/>
+</symbol><symbol id="cm-svg-email-icon" viewbox="202 202 96 96">
+<path id="envelope" d="M250,258.3l-14-9.7l-30.4,30.3h88.7L264,248.3L250,258.3z M297.7,221.1h-95.3l47.7,33.9
+	C250,255,297.7,221.1,297.7,221.1z M266.1,246.7l31.9,32.1v-54.9L266.1,246.7z M202,223.9v54.9l31.9-32.1
+	C233.9,246.7,202,223.9,202,223.9z"/>
+</symbol><symbol id="cm-svg-facebook-logo" viewbox="0 0 50 50">
+<path id="f" d="M28.8,50V27.2h7.6l1.1-8.9h-8.8v-5.7c0-2.5,0.7-4.3,4.4-4.3H38v-8C37.2,0.3,34.4,0,31.1,0c-6.8,0-11.4,4.2-11.4,11.8
+	v6.6H12v8.9h7.7V50H28.8L28.8,50z"/>
+</symbol><symbol id="cm-svg-football-icon" viewbox="0 0 100 58.138"><path d="M12.343,13.094C4.861,18.53,0,24.599,0,29.069s4.861,10.538,12.343,15.974V13.094z"/><path d="M87.656,13.094v31.949C95.139,39.606,100,33.539,100,29.069S95.139,18.53,87.656,13.094z"/><path d="M50,0C39.436,0,28.577,3.571,19.689,8.452v41.234c8.888,4.881,19.747,8.452,30.311,8.452
+	c10.564,0,21.423-3.571,30.312-8.452V8.452C71.423,3.571,60.564,0,50,0z M66.632,34.333h-3.093v-3.718h-4.833v3.718h-3.093v-3.718
+	H50.78v3.718h-3.093v-3.718h-4.833v3.718H39.76v-3.718h-4.833v3.718h-3.093V23.805h3.093v3.717h4.833v-3.717h3.093v3.717h4.833
+	v-3.717h3.093v3.717h4.833v-3.717h3.093v3.717h4.833v-3.717h3.093V34.333z"/></symbol><symbol id="cm-svg-google-logo" viewbox="202 202 96 96">
+<path id="g" d="M268,256.9l-4.5-3.5c-1.4-1.1-3.3-2.7-3.3-5.4s1.9-4.5,3.5-6.1c5.2-4.1,10.5-8.5,10.5-17.8c0-9.5-6-14.5-8.9-16.9
+	h7.7l8.1-5.1h-24.6c-6.8,0-16.5,1.6-23.6,7.5c-5.4,4.6-8,11-8,16.8c0,9.8,7.5,19.6,20.7,19.6c1.2,0,2.6-0.1,4-0.3
+	c-0.6,1.5-1.2,2.8-1.2,4.9c0,3.8,2,6.2,3.7,8.5c-5.7,0.4-16.1,1-23.9,5.8c-7.3,4.4-9.6,10.8-9.6,15.3c0,9.2,8.7,17.9,26.8,17.9
+	c21.5,0,32.9-11.9,32.9-23.7C278.5,265.7,273.5,261.5,268,256.9z M251.7,242.4c-10.8,0-15.6-13.9-15.6-22.3c0-3.3,0.6-6.7,2.8-9.2
+	c2-2.5,5.5-4.1,8.7-4.1c10.4,0,15.7,14,15.7,23c0,2.3-0.3,6.2-3.1,9.2C258.2,241,254.8,242.4,251.7,242.4z M251.8,292.8
+	c-13.3,0-22-6.4-22-15.3s8-11.9,10.8-12.9c5.2-1.8,12-2,13.2-2c1.2,0,1.9,0,2.8,0.1c9.5,6.8,13.6,10.1,13.6,16.5
+	C270.1,287,263.8,292.8,251.8,292.8z"/>
+<polygon id="plus" points="253.2,246.8 253.2,233.9 246.8,233.9 246.8,246.8 233.9,246.8 233.9,253.2 246.8,253.2 246.8,266.1 
+	253.2,266.1 253.2,253.2 266.1,253.2 266.1,246.8 "/>
+</symbol><symbol id="cm-svg-magnifying-glass" viewbox="0 0 300 300">
+<style type="text/css">
+	.st0{opacity:0.99;enable-background:new    ;}
+</style>
+<path class="st0" d="M178.8,30.7c-40.9-40.9-107.3-40.9-148.2,0l0,0c-40.9,40.9-40.9,107.2,0,148.2c40.9,40.9,107.2,40.9,148.2,0
+	C219.8,137.9,219.8,71.6,178.8,30.7z M44.6,165c-33.2-33.2-33.2-87.1,0-120.4c33.2-33.2,87.1-33.2,120.4,0
+	c33.2,33.2,33.2,87.1,0,120.4C131.7,198.2,77.8,198.2,44.6,165z M168.1,67.4c-19-33.9-61.9-46-95.8-27.1
+	c-7.3,4.1-13.6,9.2-18.7,15.2c0.6-0.4,1.3-0.7,1.9-1.1c39.5-22.1,89.3-8,111.4,31.5c4.8,8.5,7.9,17.6,9.4,26.7
+	C178.6,97.6,176.1,81.7,168.1,67.4z M191.2,191.2c4.2-4.2,9.7-6.1,15.2-5.7l-13.7-13.7c-2.9,3.9-6.2,7.6-9.7,11.2
+	c-3.5,3.5-7.3,6.8-11.2,9.7l13.7,13.7C185.1,200.9,187,195.3,191.2,191.2z M294.2,266.4L223,195.3c-7.7-7.7-20.1-7.7-27.8,0l0,0
+	c-7.7,7.7-7.7,20.1,0,27.8l71.2,71.2c7.7,7.7,20.1,7.7,27.8,0C301.9,286.5,301.9,274.1,294.2,266.4z"/>
+</symbol><symbol id="cm-svg-reddit-logo" viewbox="63 102.9 96 96">
+<g>
+	
+		<circle id="circle21800" sodipodi:cy="11.836" sodipodi:rx="2.7019999" sodipodi:ry="2.7019999" sodipodi:cx="49.683998" fill="#FFFFFF" stroke="#000000" stroke-width="0.3051" cx="72.4" cy="150" r="9.4">
+	</circle>
+	
+		<circle id="circle21802" sodipodi:cy="11.836" sodipodi:rx="2.7019999" sodipodi:ry="2.7019999" sodipodi:cx="71.786003" fill="#FFFFFF" stroke="#000000" stroke-width="0.3051" cx="149.6" cy="150" r="9.4">
+	</circle>
+	
+		<path id="path21804" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.3051" stroke-linecap="round" stroke-linejoin="round" d="
+		M137.1,116.9c0,0,0,0-18.9-4.4l-6.9,21.9"/>
+	
+		<circle id="circle21808" sodipodi:cy="2.789" sodipodi:rx="2.1300001" sodipodi:ry="2.1300001" sodipodi:cx="70.431" fill="#FFFFFF" stroke="#000000" stroke-width="0.3051" cx="144.8" cy="118.4" r="7.4">
+	</circle>
+	
+		<ellipse id="ellipse21820" sodipodi:cy="15.552" sodipodi:rx="12.238" sodipodi:ry="7.987" sodipodi:cx="60.675999" fill="#FFFFFF" stroke="#000000" stroke-width="0.3051" cx="110.8" cy="162.9" rx="42.7" ry="27.9">
+	</ellipse>
+	<path id="circle21826" inkscape:connector-curvature="0" fill="#0F0F0F" d="M96,150.6c-3.8,0-7,3.2-7,7c0,3.8,3.2,6.9,7,6.9
+		c3.8,0,6.9-3.1,6.9-6.9C102.9,153.7,99.8,150.6,96,150.6z"/>
+	<path id="circle21828" inkscape:connector-curvature="0" fill="#0F0F0F" d="M126.1,150.6c-3.8,0-7,3.2-7,7c0,3.8,3.2,6.9,7,6.9
+		s6.9-3.1,6.9-6.9C133,153.7,129.9,150.6,126.1,150.6z"/>
+	
+		<path id="path21830" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.3051" stroke-linecap="round" d="
+		M96.2,175.8c3.7,3.7,9.7,4.4,14.7,4.4"/>
+	
+		<path id="path21832" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.3051" stroke-linecap="round" d="
+		M125.8,175.8c-3.7,3.7-9.7,4.4-14.7,4.4"/>
+</g>
+</symbol><symbol id="cm-svg-rss-icon" viewbox="-41 43 96 96">
+<circle fill="#FFFFFF" cx="-27.8" cy="125.8" r="13.2"/>
+<path fill="#FFFFFF" d="M22.6,139H4c0-24.8-20.1-45-45-45l0,0V75.4C-5.9,75.4,22.6,103.9,22.6,139z"/>
+<path fill="#FFFFFF" d="M35.8,139c0-42.4-34.4-76.8-76.8-76.8V43c53,0,96,43,96,96H35.8z"/>
+</symbol><symbol id="cm-svg-search-icon" viewbox="0 0 76.2 72.1">
+<path d="M52.6,43.5c6.8-11,5.5-25.7-4-35.2C43.2,3,36.1,0,28.5,0S13.7,3,8.3,8.3c-11.1,11.1-11.1,29.2,0,40.3
+	C13.7,54,20.9,57,28.5,57c7.2,0,14-2.7,19.2-7.5l20,22.7l8.6-8.6L52.6,43.5z M44.4,44.4c-4.2,4.2-9.9,6.6-15.9,6.6
+	s-11.7-2.3-15.9-6.6c-8.8-8.8-8.8-23,0-31.8C16.8,8.3,22.5,6,28.5,6s11.7,2.3,15.9,6.6C53.1,21.4,53.1,35.6,44.4,44.4z"/>
+</symbol><symbol id="cm-svg-share-more-icon" viewbox="0 0 96 96">
+<g>
+	<circle cx="13" cy="48" r="13"/>
+	<circle cx="48" cy="48" r="13"/>
+	<circle cx="83" cy="48" r="13"/>
+</g>
+</symbol><symbol id="cm-svg-twitter-logo" viewbox="0 0 50 50">
+<path id="tbird" d="M50,9.5c-1.8,0.8-3.9,1.4-5.9,1.6c2.1-1.2,3.7-3.3,4.5-5.6c-2,1.2-4.2,2-6.6,2.5c-1.9-2-4.5-3.3-7.5-3.3
+	c-5.6,0-10.3,4.6-10.3,10.3c0,0.8,0.1,1.6,0.2,2.4C16,16.9,8.4,12.8,3.4,6.6C2.5,8,2,9.9,2,11.8c0,3.6,1.8,6.8,4.6,8.6
+	C5,20.4,3.4,19.8,2,19v0.1c0,5,3.5,9.1,8.3,10.1c-0.9,0.2-1.8,0.4-2.7,0.4c-0.7,0-1.4,0-1.9-0.2c1.4,4.1,5.1,7,9.6,7.1
+	c-3.5,2.7-7.9,4.4-12.8,4.4c-0.8,0-1.7,0-2.5-0.1c4.5,2.9,10,4.6,15.7,4.6C34.6,45.4,45,29.8,45,16.1c0-0.5,0-0.9,0-1.4
+	C46.8,13.5,48.6,11.6,50,9.5L50,9.5z"/>
+</symbol></svg><!-- END SVG-Sprite -->
+
+<!--[if lt IE 9]>
+<div class="cm-browser-upgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+
+    
+	<style scoped>
+
+		
+		
+			.cm-site-header__topic__asset--large{ display: none; }
+
+			@media (min-width:  ) {
+
+				.cm-site-header__topic__asset--large{ display: block; }
+				.cm-site-header__topic__asset--small{ display: none; }
+
+			}
+
+		
+	</style>
+
+	<div class="cm-site-header">
+
+		<header data-header class="cm-site-header__content  cm-dynamic-bg-color" role="banner">
+
+			<div class="cm-container  cm-container--pad  cm-site-header__inner">
+
+				
+								<div class="cm-site-header__left">
+
+					<a data-header-drop-trigger="mainMenu" href="#" class="cm-site-header__ham">
+						<span>Menu</span>
+					</a>
+
+					<div class="cm-site-header__topic  cm-dynamic-bg-color">
+
+						<a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/" class="cm-site-header__topic__brand  cm-site-header__topic__asset"><img class="cm-site-header__topic__asset--small" src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/f_auto,q_auto/v1498835720/Lof10_horiz_white_125high-2_pzfeqd.png"></a>
+					</div>
+
+				</div>
+
+								<div data-header-drop-target="mainMenu" class="cm-site-header__drop  cm-site-header__drop--left" aria-hidden="true">
+
+					<nav class="cm-site-header__nav" role="navigation" aria-label="Topics menu" data-main-nav>
+
+						<ul role="menubar" aria-hidden="false">
+<li role="menuitem" class=" "><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/"><span>Land of 10 Home</span></a>
+</li>
+
+<li role="menuitem" aria-haspopup="true" class=""><a data-subnav-toggle href="#"><span>Football</span><svg class="cm-icon--svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use></svg></a>
+
+<ul aria-hidden="true" aria-label="submenu">
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/football-news/football" tabindex="-1"><span>Football News</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/illinois/football-schedule/2018" tabindex="-1"><span>2018 Schedule</span></a>
+</li>
+</ul>
+</li>
+
+<li role="menuitem" class=" "><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/football-news/recruiting"><span>Recruiting</span></a>
+</li>
+
+<li role="menuitem" aria-haspopup="true" class=""><a data-subnav-toggle href="#"><span>Basketball</span><svg class="cm-icon--svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use></svg></a>
+
+<ul aria-hidden="true" aria-label="submenu">
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/illinois/basketball-schedule/2017" tabindex="-1"><span>Big 10 Basketball Schedules</span></a>
+</li>
+</ul>
+</li>
+
+<li role="menuitem" aria-haspopup="true" class=""><a data-subnav-toggle href="#"><span>Big Ten West</span><svg class="cm-icon--svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use></svg></a>
+
+<ul aria-hidden="true" aria-label="submenu">
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/illinois" tabindex="-1"><span>Illinois</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/iowa" tabindex="-1"><span>Iowa</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/minnesota" tabindex="-1"><span>Minnesota</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/nebraska" tabindex="-1"><span>Nebraska</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/northwestern" tabindex="-1"><span>Northwestern</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/purdue" tabindex="-1"><span>Purdue</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/wisconsin" tabindex="-1"><span>Wisconsin</span></a>
+</li>
+</ul>
+</li>
+
+<li role="menuitem" aria-haspopup="true" class=""><a data-subnav-toggle href="#"><span>Big Ten East</span><svg class="cm-icon--svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use></svg></a>
+
+<ul aria-hidden="true" aria-label="submenu">
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/indiana" tabindex="-1"><span>Indiana</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/maryland" tabindex="-1"><span>Maryland</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/michigan" tabindex="-1"><span>Michigan</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/michigan-state" tabindex="-1"><span>Michigan State</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/ohio-state" tabindex="-1"><span>Ohio State</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/penn-state" tabindex="-1"><span>Penn State</span></a>
+</li>
+
+<li role="menuitem" class=""><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/rutgers" tabindex="-1"><span>Rutgers</span></a>
+</li>
+</ul>
+</li>
+
+<li role="menuitem" class=" "><a href="https://web.archive.org/web/20180603083007/https://www.diehards.com/diehards-partners"><span>Partners</span></a>
+</li>
+
+					</nav>
+
+				</div>
+
+				
+										<div class="cm-site-header__right">
+
+						<a data-header-drop-trigger="topicMenu" class="cm-site-header__topic-toggle" href="#">
+
+							
+							
+								<img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/v1/team_logos_safe/Lof10_white_200x.png">
+
+							
+						</a>
+
+					</div>
+
+										<div data-header-drop-target="topicMenu" class="cm-site-header__drop  cm-site-header__drop--right" aria-hidden="true">
+
+						
+							<nav class="cm-site-header__nav" role="navigation" aria-label="Conference menu">
+
+								<ul role="menu" aria-hidden="false">
+																			<li role="menuitem" aria-haspopup="true">
+
+																						<a data-subnav-toggle href="#" class="is-active">
+												<span>Big Ten</span>
+												<svg class="cm-icon--svg">
+													<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use>
+												</svg>
+											</a>
+
+											<ul aria-hidden="true" aria-label="submenu">
+
+																								<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/">All Big Ten News</a></li>
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/illinois">Illinois Fighting Illini</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/indiana">Indiana Hoosiers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/iowa">Iowa Hawkeyes</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/maryland">Maryland Terrapins</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/michigan">Michigan Wolverines</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/michigan-state">Michigan State Spartans</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/minnesota">Minnesota Golden Gophers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/nebraska">Nebraska Cornhuskers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/northwestern">Northwestern Wildcats</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/ohio-state">Ohio State Buckeyes</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/penn-state">Penn State Nittany Lions</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/purdue">Purdue Boilermakers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/rutgers">Rutgers Scarlet Knights</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.landof10.com/wisconsin">Wisconsin Badgers</a></li>
+
+												
+											</ul>
+
+										</li>
+																			<li role="menuitem" aria-haspopup="true">
+
+																						<a data-subnav-toggle href="#" class="">
+												<span>ACC</span>
+												<svg class="cm-icon--svg">
+													<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use>
+												</svg>
+											</a>
+
+											<ul aria-hidden="true" aria-label="submenu">
+
+																								<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/acc">All ACC News</a></li>
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/boston-college">Boston College Eagles</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/clemson">Clemson Tigers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/duke">Duke Blue Devils</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/florida-state">Florida State Seminoles</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/georgia-tech">Georgia Tech Yellow Jackets</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/louisville">Louisville Cardinals</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/miami">Miami Hurricanes</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/nc-state">NC State Wolfpack</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/north-carolina">North Carolina Tar Heels</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/notre-dame">Notre Dame Fighting Irish</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/pitt">Pitt Panthers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/syracuse">Syracuse Orange</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/virginia">Virginia Cavaliers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/virginia-tech">Virginia Tech Hokies</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/wake-forest">Wake Forest Demon Deacons</a></li>
+
+												
+											</ul>
+
+										</li>
+																			<li role="menuitem" aria-haspopup="true">
+
+																						<a data-subnav-toggle href="#" class="">
+												<span>Big 12</span>
+												<svg class="cm-icon--svg">
+													<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use>
+												</svg>
+											</a>
+
+											<ul aria-hidden="true" aria-label="submenu">
+
+																								<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/big-12">All Big 12 News</a></li>
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/baylor">Baylor Bears</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/iowa-state">Iowa State Cyclones</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/kansas">Kansas Jayhawks</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/kansas-state">Kansas State Wildcats</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/oklahoma">Oklahoma Sooners</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/oklahoma-state">Oklahoma State Cowboys</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/tcu">TCU Horned Frogs</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/texas">Texas Longhorns</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/texas-tech">Texas Tech Red Raiders</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/west-virginia">West Virginia Mountaineers</a></li>
+
+												
+											</ul>
+
+										</li>
+																			<li role="menuitem" aria-haspopup="true">
+
+																						<a data-subnav-toggle href="#" class="">
+												<span>Pac-12</span>
+												<svg class="cm-icon--svg">
+													<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use>
+												</svg>
+											</a>
+
+											<ul aria-hidden="true" aria-label="submenu">
+
+																								<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/pac-12">All Pac-12 News</a></li>
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/arizona">Arizona Wildcats</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/arizona-state">Arizona State Sun Devils</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/california">Cal Golden Bears</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/colorado">Colorado Buffaloes</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/oregon">Oregon Ducks</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/oregon-state">Oregon State Beavers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/stanford">Stanford Cardinal</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/ucla">UCLA Bruins</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/usc">USC Trojans</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/utah">Utah Utes</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/washington">Washington Huskies</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.diehards.com/washington-state">Washington State Cougars</a></li>
+
+												
+											</ul>
+
+										</li>
+																			<li role="menuitem" aria-haspopup="true">
+
+																						<a data-subnav-toggle href="#" class="">
+												<span>SEC</span>
+												<svg class="cm-icon--svg">
+													<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-chevron-down"></use>
+												</svg>
+											</a>
+
+											<ul aria-hidden="true" aria-label="submenu">
+
+																								<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/">All SEC News</a></li>
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/alabama">Alabama Crimson Tide</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/arkansas">Arkansas Razorbacks</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/auburn">Auburn Tigers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/florida">Florida Gators</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.dawgnation.com/">Georgia Bulldogs</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/kentucky">Kentucky Wildcats</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/lsu">LSU Tigers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/mississippi">Ole Miss Rebels</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/mississippi-state">Mississippi State Bulldogs</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/missouri">Missouri Tigers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/south-carolina">South Carolina Gamecocks</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/tennessee">Tennessee Volunteers</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/texas-am">Texas A&M; Aggies</a></li>
+
+												
+													<li role="menuitem"><a tabindex="-1" href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/vanderbilt">Vanderbilt Commodores</a></li>
+
+												
+											</ul>
+
+										</li>
+																	</ul>
+
+							</nav>
+
+						
+					</div>
+
+				
+			</div>
+
+		</header>
+
+		
+		<div class="widget widget_cmg_web_push">
+		<div class="cm-web-push" data-web-push="initial">
+
+			<div class="cm-web-push__inner  cm-flex  cm-flex--center-all">
+
+				<div class="cm-web-push__content" data-prompt-box>
+					<span class="cm-web-push__text--initial"></span>
+					<span class="cm-web-push__text--subscribed"></span>
+				</div>
+
+				<div class="cm-flex  cm-web-push__buttons">
+					<button class="cm-btn  cm-btn--radius  cm-btn--p1  cm-web-push__btn" data-web-push-yes>Yes</button>
+					<button class="cm-btn  cm-btn--radius  cm-btn--common  cm-web-push__btn" data-web-push-no>Not now</button>
+				</div>
+
+			</div>
+
+		</div>
+
+        		</div>
+	</div>
+
+
+<!-- Header Widget Area -->
+<div>
+	<aside id="execphp-10" class="cm-widget  cm-widget--header">			<div class="execphpwidget"><style>.cm-dynamic-bg-color{ background-color: black !important; }</style></div>
+		</aside></div>
+<!--<div data-show-header-ad class="cm-ad-block  cm-ad-block--short  cm-ad-block--header" style="display: none">-->
+<!---->
+<!--    <div id='header_ad' style="display:none">-->
+<!--	    -->
+<!--	    <div id="AS01"></div>-->
+<!---->
+<!--    </div>-->
+<!---->
+<!--</div>-->
+<main class="cm-container  cm-container--pad  cm-container--main">
+
+    <section class="cm-main">
+
+        <div class="cm-main__content  cm-main__content--sidebar">
+
+            
+                
+
+<article id="post-262" class="cm-page__content  ">
+
+	<header class="">
+
+        
+		<h1 class="cm-main__title">Privacy Policy</h1>
+	</header>
+
+    <div class="at-above-post-page addthis_tool" data-url="https://web.archive.org/web/20180603083007oe_/https://www.landof10.com/privacy-policy"></div><h2><strong>Privacy Policy</strong></h2>
+<p><strong>Landof10.com Privacy Policy<br/>
+</strong><em>Updated on July 7, 2016</em></p>
+<p>Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC (“CMG”). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television station, a local radio station, or a standalone website (each a “CMG Affiliate Site” and, collectively, the “CMG Network of Sites”). Each CMG Affiliate Site has adopted this privacy statement to the extent applicable. “Affiliate” means a company controlling, controlled by or under common control with another company.</p>
+<p>This privacy statement is provided by the CMG Affiliate that operates this website (“we,” “us” or “our”) to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the “Site”), and the ways that we and the other CMG Affiliate Sites may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices.</p>
+<p>By visiting and using this site, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our <a href="https://web.archive.org/web/20180603083007/http://www.landof10.com/visitor-agreement">Visitor Agreement</a>. If you have questions regarding privacy issues, please contact us at <a href="https://web.archive.org/web/20180603083007/mailto:privacy@coxinc.com">privacy@coxinc.com</a>.</p>
+<p><strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong></p>
+<p>California law allows California residents, once a year and free of charge, to request information about certain types of personal information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you of that you have the right to prevent disclosure of personal information, and (2) provide you with a cost-free means to exercise that right. As noted in this Privacy Statement, we require California residents to opt-in to activities where we would share their personal information with third parties for those third parties’ direct marketing purposes. If you are a California resident and you would like to prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to prevent our disclosure of your personal information to third parties for their direct marketing purposes, please contact us by sending a message to <a href="https://web.archive.org/web/20180603083007/mailto:privacy@coxinc.com">privacy@coxinc.com</a>.</p>
+<p>As of the Effective Date listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services.</p>
+<p><strong>TYPES OF INFORMATION WE COLLECT</strong></p>
+<p><strong>Overview.</strong> The information we gather generally falls into one of two categories: (1) information that you voluntarily supply when you are on the site, which may include, but not be limited to your name, email and mailing address) or when you participate in the features we offer on the site (such as comments posted on a blog, discussion group, or other social networking features on the site), and (2) information gathered on usage patterns and preferences as visitors navigate on the site. In some cases, one of our agents or Affiliates may collect the information on our behalf. Third party Service Providers (as defined below) that provide all or some of the services available through this site also may be gathering the same kinds of information.</p>
+<p><strong>Registration Information.</strong>  To make use of certain features available on the site (such as to receive email newsletters, to post a classified ad, or to participate in some social networking features) you may need to register and to provide certain information as part of the registration process. If permitted by the site, you may be able to bypass some of the steps within the registration process by using your user name and password associated with your account on certain specified social networking sites when you register for our site, but you will still have to complete the registration process after entering that information. We or our Service Providers may also ask for information from you if you buy products or services or conduct other transactions via this site. We may ask, for example, for your name, email address, sex, age or zip code, and we might request information on your interest in sports, your favorite college or professional sports teams, personal finance, the performing arts, and the like. The information you supply will help us to offer you more personalized features, to tailor the site to your interests and make them more useful to you, and also may be used in the processing of e-commerce transactions. In addition, our Service Providers may provide us with additional personal information about you that you provide to them through your separate accounts with them as described in their own privacy statements.</p>
+<p>The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don’t supply the information we request, we may be unable to provide you with services we make available to other visitors to the site. For instance, we can’t send you email alerting you to a new service we’re offering, or content that may interest you (for example, breaking news or sports headlines) if you don’t tell us what you’re interested in and give us your email address.</p>
+<p><strong>Contests and Other Promotions.</strong> From time to time, we may offer contests, sweepstakes or other promotions via the site. If you enter one of these contests, sweepstakes or promotions, you’ll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can administer and operate the contest, sweepstakes, or promotion (including contacting you if you win, fulfilling a prize, and publishing a winners’ list). If you don’t want us to collect the information requested in the registration form or to provide it to any of our Affiliates, Service Providers and co-sponsor(s) as described below, please do not enter the contest, sweepstakes or promotion.</p>
+<p><strong>Payment Information.</strong> We may offer you premium content or merchandise via the site. When you elect to purchase such content or merchandise through the site, we or our Service Providers may ask for additional information from you, such as payment card information.</p>
+<p><strong>Email Newsletters.</strong> We may also offer you the opportunity to subscribe to email newsletters that we make available through this site. If you have opted in to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See “Opting In/Opting Out” below.</p>
+<p><strong>Cookies.</strong> To help make our sites more responsive to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in a text file, on your hard drive. Our advertisers and Service Providers may also assign their own cookies to your browser, which is a process that we don’t control.</p>
+<p>We use cookies to help us tailor our site to your needs and enhance your experience with the site. For example, we may use cookies to personalize the ads you see on our site or to avoid showing you the same ad repeatedly during a single visit. In addition, we may use cookies to track the pages on our site, the CMG Network of Sites, or other sites visited by our users. We may also use cookies to measure site performance and/or advertising performance. We can build a better site if we know which pages our users are visiting and how often. You can manage your browser’s cookie setting through the “options” menu on most commercially available web browsers, including options to set your browser to notify you before accepting a cookie or to disable cookies entirely. Of course, if you set your browser not to accept cookies, you may not be able to take advantage of the personalized features enjoyed by other users of our site.</p>
+<p><strong>Web Beacons.</strong> Our site may contain electronic images (called “single-pixel GIFs” or “web beacons”) or other tools that allow us and our Affiliates, Service Providers, vendors and, where necessary, our advertisers to count users who have visited particular pages of this site, the CMG Network of Sites, or other sites or applications, or to access certain cookies. We may use these tools and other technologies to recognize which links the visitors click and to track how users respond to ads we place on third-party sites or applications. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. In combination with cookies, these web beacons allow us (and/or our Affiliates, Service Providers, vendors, or advertisers) to track the number of users who view particular pages and to fine tune the advertising messages delivered to users of this site and other websites and applications. We may use “clickstream” data collected using web beacons and cookies to help us tailor promotional content, including such content in email messages and on landing pages, to the perceived interests of our users. Advertising networks with which we are affiliated and third-party advertising services that we use may also use web beacons on our site to gather similar anonymous “clickstream” information, which is used to fine tune advertising messages delivered to our visitors and visitors to other websites.</p>
+<p><strong>Browser Level Information and IP Addresses.</strong> Our web servers automatically collect limited information about your computer configuration or your mobile device when you visit our site, including the device ID (if applicable), type of browser software you use, the operating system you’re running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you’re using, and your IP address. (Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address alone does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site (including ads distributed through our site) to the interests of our users, and to measure traffic within our site.</p>
+<p><strong>Social Networks.</strong> When you use the social networking features on our site, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you (including personal information) from that social network. In addition, when you use one of the social network sharing tools available on the site, the social network operating the tool may collect information about you based on such use. The social network’s use of that information will be subject to its own privacy policy, which may be different from ours.</p>
+<p><strong>Non-Personally Identifying Information.</strong> This website uses Google Analytics to help analyze how users use the site. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [applicable site URL], to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network in accordance with Google’s policy located at www.google.com/policies/privacy/partners/. Google Analytics features implemented on this site include Display Advertising (Demographics and Interest Reporting).  We use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics only to maintain this site’s functionality, responsiveness and improve content.  CMG uses the Google Analytics Demographics and Interest Reporting feature to identify trends in the usage of its website which may be published in reports for internal use.  Google’s ability to use and share information collected by Google Analytics regarding your visits to this site is restricted by the Terms of Service and Privacy Policy.  You may opt-out of Google Analytics for Display Advertising and customer Display Network ads using Ads Settings.</p>
+<p>The Google Analytics tool uses “cookies” which are text files placed on your computer, to collect standard internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity. At any time, you may choose to opt-out of Google Analytics tracking with the Google Analytics opt-out browser add-on.</p>
+<p><strong>Information You Post.</strong> Please remember that anything you post to any message boards, discussion or comment areas, or social networking services on our site can be seen, collected, and used by anyone who has access to that board, area, or social networking service. We cannot control how your postings may be used by third parties with such access.</p>
+<p><strong>Statistical Information.</strong> Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our site, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to any third parties as we see fit.</p>
+<p><strong>Mobile Applications and Location-Based Information.</strong> Our site may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable us to your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access our site, then your device and/or your browser may automatically collect and/or transmit your device’s unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location. In addition, we may identify your use of our site across devices, and we may use information we collect from you and receive from others to optimize your use of the sites and our services as you use different devices.</p>
+<p><strong>Data Collected in Connection with Ad Serving and Targeting.</strong> We use third-party Service Providers, such as ad networks, to serve advertising to you when you visit our site or use other sites or applications. These Service Providers may use information about your activities while you navigate through and use this site and other web sites and applications (and that the Service Providers collect through cookies) to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not usually using your name, address, email address, or phone number for these purposes, although they may use your IP address, your geographic location, or your device’s unique identifier). You can learn more about such data collection practices, and/or opt out of any use by our Service Providers’ of cookies to tailor advertising to your interests, by visiting aboutads.info.</p>
+<p><strong>CMG’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising.</strong> CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit aboutads.info.</p>
+<p><strong>DISCLOSURE OF INFORMATION</strong></p>
+<p><strong>Why We Collect Information From You.</strong> Like any business, it’s important for us to know our customers — their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this site available without charge to you, we rely heavily on advertisers to produce the income necessary to operate the site. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our site — in other words, how effective their ad is likely to be. So it’s important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this site.</p>
+<p><strong>Advertisers.</strong> Without your permission, we will not share the personally-identifying information you provide when registering on our site with advertisers. We may, however, take the information you provide and aggregate it with data from all the other people that use this site and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally.</p>
+<p><strong>Service Providers.</strong> All or portions of the site may be provided or supported by our third-party service providers (“Service Providers”), and we may share any of the information that we collect from you through our site (e.g., anonymous information collected through cookies on your browser, information you submit to us to enter a contest, sweepstakes or promotion offered through the site, etc.) with such Service Providers. In the event we offer services through this site such as chat, email newsletters, email services, online classifieds and/or similar services, such services may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Service Providers will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies.</p>
+<p><strong>Contest Co-Sponsors.</strong> If you enter any contest, sweepstakes or other promotion that we make available through this site, we may share the information you submit to us with the co-sponsor(s) of the contest, sweepstakes, or promotion. We will identify any co-sponsor(s) in the official rules for the promotion.</p>
+<p><strong>Our Affiliates. </strong> We may share any of the information that we collect from you (including anonymous information and personally identifying information that you may provide) with the other CMG Affiliate Sites within the CMG Network of Sites so that we and they can provide you with products and services that may be of interest to you.</p>
+<p><strong>Sites to Which We Link.</strong> Our site include may include links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don’t control. When you access another site or purchase products or services or conduct other transactions through their sites, use of any information you provide is governed by the privacy statement of the operator of the site you’re visiting or the provider of such products or services.</p>
+<p><strong>Other Disclosures.</strong> We reserve the right to release information about users of our site when release is necessary or appropriate to comply with law, to enforce this privacy statement or our <a href="https://web.archive.org/web/20180603083007/http://www.landof10.com/visitor-agreement">visitor agreement</a>, or to protect the rights, property or safety of users of our site, the public, our customers, or our company and its employees, agents, partners and Affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that we merge with another entity or otherwise transfer substantially all of our assets to another entity (including, without limitation, to one of our Affiliates as part of an internal reorganization), information collected from this site would be among the transferred assets.</p>
+<p><strong>OPTING IN/OPTING OUT</strong></p>
+<p>In certain places on this site (for example, when registering as a user of this site, managing your account, shopping, or participating in activities like promotional contests), we may ask you to consent to the sharing of your information with third parties with which we have business relationships. If you provide such consent (for example, by checking a box or by some other means), we will make your information available to such third parties as described in the consent form so that they, we, or both may contact you directly regarding special offers, prize promotions, products or services that may be of interest to you.</p>
+<p>&nbsp;</p>
+<p>If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by modifying your account settings on our site).</p>
+<p>You can unsubscribe from any SMS alerts you previously signed up to receive by using the “STOP” function within those messages. You may unsubscribe from promotional emails from us by following the unsubscribe link included in each such email.</p>
+<p>If you have submitted your information on a page provided in conjunction with one of our Service Providers, the information you submit may be jointly maintained by us and the Service Provider. If you decide to opt out of our site, you may also need to contact the Service Provider separately to request the Service Provider to remove your information from its database.</p>
+<p><strong>ACCESSING AND UPDATING YOUR INFORMATION</strong></p>
+<p>If you register with this site, you will have the opportunity to review or update the information you have provided us at any time. You agree that, subject to applicable law, we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site.</p>
+<p><strong>DATA SECURITY</strong></p>
+<p>All information gathered through our site is stored within database(s) operated by us or by a Service Provider on our behalf. We and/or our Service Providers secure the personally identifying information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet.</p>
+<p><strong>A NOTE ABOUT CHILDREN’S PRIVACY</strong></p>
+<p>This site is not directed at children under the age of 13, and we won’t knowingly allow anyone under age 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). If we become aware that we have collected any personally identifying information from a user under the age of 13, we will remove such information from our records as soon as possible.</p>
+<p><strong>CHANGES TO THIS PRIVACY POLICY</strong></p>
+<p>We may change the terms of this privacy statement privacy policy or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this site and will update the “Last Updated” date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.</p>
+<p>&nbsp;</p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-page addthis_tool" data-url="https://web.archive.org/web/20180603083007oe_/https://www.landof10.com/privacy-policy"></div><!-- AddThis Share Buttons generic via filter on the_content -->
+    
+	<footer class="entry-footer">
+			</footer>
+
+</article>
+
+            
+
+        </div><!-- .cm-main__content -->
+
+    </section><!-- .cm-main -->
+
+    <!-- ##SIDEBAR -->
+    <aside class="cm-sidebar" role="complementary">
+
+        
+<div class="cm-sidebar__inner">
+
+    <!-- Sidebar Ad Spot -->
+<!--    <div class="cm-sidebar__module  cm-ad-block">-->
+<!--        <div id="sidebar_ad_1"></div>-->
+<!--    </div>-->
+
+    
+    <!-- Sidebar Widgets -->
+    <div id="cmgads-10" class="cm-hide--narrow widget_cmgads cm-sidebar__module">
+		<div>
+
+			<div class="cm-ad-block  ">
+
+				<div id="widget-ad-cmgads-10">
+
+					<script>
+
+						var mapping = [];
+												mapping.push( [[1,1],[[300,600],[300,250]]] );
+						
+						var adWidget = {
+							sponsorId: '',
+							conference: '',
+							contentType: '',
+							slotId: 'AS02',
+							containerId: 'widget-ad-cmgads-10',
+							sizes: [[300,250],[300,600]],
+							mapping: mapping,
+                            hideIfSponsored: true,
+							isContentResponsive: false,
+							display: 'Desktop'
+						};
+
+						//console.log(adWidget);
+
+						if (adWidget.slotId && adWidget.slotId !== '') {
+							_cmg_registered_custom_ads.push(adWidget);
+						}
+
+					</script>
+				</div>
+			</div>
+
+		</div>
+
+		</div><div id="cmg_player_spotlight-2" class="widget_cmg_player_spotlight cm-sidebar__module">
+		<div data-player-id="9574" data-player-spot-ad class="cm-module  cm-module--bordered  cm-player-spot" style="box-shadow: 0 8px 0 0 #048ACC">
+
+			<a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/recruiting/player/caedan-wallace" class="cm-player-spot__link" title="View full profile">
+
+				<header class="cm-module__header  cm-module__header--with-logo  cm-player-spot__header" style="background-image: linear-gradient(100deg, rgba(0,0,0,1) 90px, rgba(4,138,204,1) 90px, rgba(4,138,204,1) 100%); color: #ffffff">
+
+					<div class="cm-player-spot__logo"><img src="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016-landof10-child/build/images/theme-logo.png"></div>
+
+					<div class="cm-player-spot__title">2019 Recruits</div>
+
+					<div class="cm-player-spot__ad">
+						<div id="WRP01"></div>
+					</div>
+
+				</header>
+
+				<section class="cm-player-info">
+
+					<div class="cm-player-lockup">
+
+						<div class="cm-player-lockup__headshot">
+														<img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/players/mystery-avatar.png"/>						</div>
+
+						<div class="cm-player-lockup__meta">
+
+							<div class="cm-player-lockup__name">Caedan Wallace </div>
+
+							<div class="cm-star-rating  cm-star-rating--med  cm-star-rating--4">
+																<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 213.5 35.3" enable-background="new 0 0 213.5 35.3;" xml:space="preserve"><path d="M18.7,0l5.7,11.6l12.8,1.9l-9.3,9l2.2,12.8l-11.5-6l-11.5,6l2.2-12.8l-9.3-9l12.8-1.9L18.7,0z"/><path d="M62.8,0l5.7,11.6l12.8,1.9l-9.3,9l2.2,12.8l-11.5-6l-11.5,6l2.2-12.8l-9.3-9l12.8-1.9L62.8,0z"/><path d="M106.8,0l5.7,11.6l12.8,1.9l-9.3,9l2.2,12.8l-11.5-6l-11.5,6l2.2-12.8l-9.3-9l12.8-1.9L106.8,0z"/><path d="M150.9,0l5.7,11.6l12.8,1.9l-9.3,9l2.2,12.8l-11.5-6l-11.5,6l2.2-12.8l-9.3-9l12.8-1.9L150.9,0z"/><path d="M195,0l5.7,11.6l12.8,1.9l-9.3,9l2.2,12.8l-11.5-6l-11.5,6l2.2-12.8l-9.3-9l12.8-1.9L195,0z"/></svg>							</div>
+
+							<div>The Hun School, Class of '19</div>
+							<div>Princeton, New Jersey</div>
+							<div>G</div>
+							<div>6-5, 315 pounds</div>
+
+						</div>
+
+					</div>
+
+					
+						<div class="cm-player-schools">
+
+							<div class="cm-player-subtitle">Committed:</div>
+
+							<ul class="cm-list--ui  cm-player-schools__list  ">
+
+								
+									<li>
+										<div class="cm-player-school is-committed"><img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_fill,f_auto,h_120,q_auto,w_120/v1/team_logos/PSU.png" alt="Penn State Nittany Lions" height="120" title="Penn State Nittany Lions" width="120"/></div>									</li>
+
+								
+							</ul>
+
+						</div>
+
+				</section>
+
+			</a>
+
+			<footer class="cm-player-spot__footer">
+
+				<a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/recruiting/player/caedan-wallace">View All Recent Articles</a>
+
+			</footer>
+
+		</div>
+
+		</div><div id="cmg_schedule_widget-2" class="widget_cmg_schedule_widget cm-sidebar__module"><!-- TEAM SLUG: big-ten --><div id="cmg_recent_posts-3" class="cm-hide--narrow widget_cmg_recent_posts cm-sidebar__module">
+
+        <div class="cm-module  cm-module--news  cm-module--small-text cm-recent-posts" data-cmg-ad-key="">
+
+            <header class="cm-text--left  cm-module__header  cm-module__header--with-logo">
+
+                <div class="cm-module__logo"></div>
+
+                <h2 class="cm-module__title js-recent-posts-ellipsis ">
+                    Latest Big Ten News                </h2>
+
+            </header>
+
+            <section class="cm-module__body">
+
+                <ul class="cm-clearfix cm-list--ui  cm-module__list  cm-module__list--bordered  cm-module__list--bordered">
+                    
+
+
+<li class="cm-module__list-item  cm-module__list-item--featured">
+
+    <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/big-ten/2018-ncaa-baseball-tournament-bracket-scores-schedule-saturday-regionals" class="cm-clearfix">
+
+        <div class="cm-meta-block  cm-clearfix" style="background-color: #048ACC">
+            <div class="cm-meta-block__info">Big Ten</div>
+        </div>
+
+        <div class="cm-module__list-item__asset">
+
+            <picture>
+<!--[if IE 9]><video style='display: none;'><![endif]-->
+<source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_168, /web/20180603083007im_/https://www.landof10.com/w_320/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_336, /web/20180603083007im_/https://www.landof10.com/w_640/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png 2x" media="(min-width: 1040px)"><source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_263, /web/20180603083007im_/https://www.landof10.com/w_500/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_526, /web/20180603083007im_/https://www.landof10.com/w_1000/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png 2x" media="(min-width: 640px)"><source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_316, /web/20180603083007im_/https://www.landof10.com/w_600/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_632, /web/20180603083007im_/https://www.landof10.com/w_1200/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png 2x"><img srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_523, /web/20180603083007im_/https://www.landof10.com/w_995, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_256/c_fill, /web/20180603083007im_/https://www.landof10.com/h_316, /web/20180603083007im_/https://www.landof10.com/w_600/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527935379/Screen-Shot-2018-06-02-at-6.28.40-AM_d2lfm2.png" alt="">
+</picture>
+        </div>
+
+        <div class="cm-module__list-item__info">
+
+            2018 NCAA Baseball Tournament: Bracket, scores, schedule for...
+        </div>
+    </a>
+
+</li>
+
+
+
+<li class="cm-module__list-item  cm-module__list-item--featured">
+
+    <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/wisconsin/wisconsin-qb-graham-mertz-number-3-elite-11-finals-rankings" class="cm-clearfix">
+
+        <div class="cm-meta-block  cm-clearfix" style="background-color: #A00000">
+            <div class="cm-meta-block__info">Wisconsin</div>
+        </div>
+
+        <div class="cm-module__list-item__asset">
+
+            <picture>
+<!--[if IE 9]><video style='display: none;'><![endif]-->
+<source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_168, /web/20180603083007im_/https://www.landof10.com/w_320/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_336, /web/20180603083007im_/https://www.landof10.com/w_640/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png 2x" media="(min-width: 1040px)"><source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_263, /web/20180603083007im_/https://www.landof10.com/w_500/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_526, /web/20180603083007im_/https://www.landof10.com/w_1000/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png 2x" media="(min-width: 640px)"><source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_316, /web/20180603083007im_/https://www.landof10.com/w_600/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_632, /web/20180603083007im_/https://www.landof10.com/w_1200/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png 2x"><img srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_265, /web/20180603083007im_/https://www.landof10.com/w_506, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_22/c_fill, /web/20180603083007im_/https://www.landof10.com/h_316, /web/20180603083007im_/https://www.landof10.com/w_600/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527995851/MertzE11_fq87yv.png" alt="">
+</picture>
+        </div>
+
+        <div class="cm-module__list-item__info">
+
+            Wisconsin QB commit Graham Mertz ranks No. 3 in Elite 11 Fin...
+        </div>
+    </a>
+
+</li>
+
+
+
+<li class="cm-module__list-item  cm-module__list-item--featured">
+
+    <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/ohio-state/ohio-state-denzel-ward-third-best-odds-nfl-defensive-rookie-of-the-year" class="cm-clearfix">
+
+        <div class="cm-meta-block  cm-clearfix" style="background-color: #DE3121">
+            <div class="cm-meta-block__info">Ohio State</div>
+        </div>
+
+        <div class="cm-module__list-item__asset">
+
+            <picture>
+<!--[if IE 9]><video style='display: none;'><![endif]-->
+<source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_168, /web/20180603083007im_/https://www.landof10.com/w_320/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_336, /web/20180603083007im_/https://www.landof10.com/w_640/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg 2x" media="(min-width: 1040px)"><source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_263, /web/20180603083007im_/https://www.landof10.com/w_500/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_526, /web/20180603083007im_/https://www.landof10.com/w_1000/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg 2x" media="(min-width: 640px)"><source srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_316, /web/20180603083007im_/https://www.landof10.com/w_600/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg, https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_632, /web/20180603083007im_/https://www.landof10.com/w_1200/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg 2x"><img srcset="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop, /web/20180603083007im_/https://www.landof10.com/g_north_west, /web/20180603083007im_/https://www.landof10.com/h_1750, /web/20180603083007im_/https://www.landof10.com/w_3321, /web/20180603083007im_/https://www.landof10.com/x_0, /web/20180603083007im_/https://www.landof10.com/y_277/c_fill, /web/20180603083007im_/https://www.landof10.com/h_316, /web/20180603083007im_/https://www.landof10.com/w_600/e_sharpen, /web/20180603083007im_/https://www.landof10.com/f_auto, /web/20180603083007im_/https://www.landof10.com/fl_lossy, /web/20180603083007im_/https://www.landof10.com/q_auto/v1527989570/DenzelRookie_apdd4h.jpg" alt="">
+</picture>
+        </div>
+
+        <div class="cm-module__list-item__info">
+
+            Former Ohio State CB Denzel Ward tied for third-best odds to...
+        </div>
+    </a>
+
+</li>
+
+
+
+<li data-news-item-height class="cm-module__list-item  cm-avatar  cm-avatar--xlarge">
+
+
+  <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/ohio-state/2018-ncaa-tournament-baseball-ohio-state-unc-wilmington-wallkoff" class="cm-media-block">
+
+      <div class="cm-media-block__asset  cm-avatar__asset" style="border-top-color: #DE3121">
+          <img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop,g_north_west,h_301,w_573,x_0,y_38/c_fill,h_105,w_200/e_sharpen,f_auto,fl_lossy,q_auto/v1527978910/OSUbaseball_nsikwd.png"/>      </div>
+      <div class="cm-media-block__info  cm-avatar__info">
+
+          <div class="cm-clearfix">
+
+              <div class="cm-avatar__info__sub-title  cm-push--right">
+                  <small>9 hours ago</small>
+              </div>
+
+              <div class="cm-push--left"><strong>Ohio State</strong></div>
+
+          </div>
+
+          <div class="cm-avatar__info__title">
+
+              Ohio State baseball&#8217;s season ends in 13-inning loss to...
+          </div>
+
+      </div>
+  </a>
+
+</li>
+
+
+
+<li data-news-item-height class="cm-module__list-item  cm-avatar  cm-avatar--xlarge">
+
+
+  <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/ohio-state/ohio-state-baseball-nick-swisher-watching-ncaa-tournament" class="cm-media-block">
+
+      <div class="cm-media-block__asset  cm-avatar__asset" style="border-top-color: #DE3121">
+          <img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop,g_north_west,h_403,w_766,x_0,y_190/c_fill,h_105,w_200/e_sharpen,f_auto,fl_lossy,q_auto/v1527973434/NickSwisherOSU_trhyq2.png"/>      </div>
+      <div class="cm-media-block__info  cm-avatar__info">
+
+          <div class="cm-clearfix">
+
+              <div class="cm-avatar__info__sub-title  cm-push--right">
+                  <small>11 hours ago</small>
+              </div>
+
+              <div class="cm-push--left"><strong>Ohio State</strong></div>
+
+          </div>
+
+          <div class="cm-avatar__info__title">
+
+              Former Buckeye Nick Swisher hangs on each pitch in Ohio Stat...
+          </div>
+
+      </div>
+  </a>
+
+</li>
+
+
+
+<li data-news-item-height class="cm-module__list-item  cm-avatar  cm-avatar--xlarge">
+
+
+  <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/minnesota/minnesota-football-vic-viramontes-transfer-riverside-city-college" class="cm-media-block">
+
+      <div class="cm-media-block__asset  cm-avatar__asset" style="border-top-color: #7F011B">
+          <img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop,g_north_west,h_2050,w_3888,x_0,y_0/c_fill,h_105,w_200/e_sharpen,f_auto,fl_lossy,q_auto/v1527972004/MinnyFans_u5tidn.jpg"/>      </div>
+      <div class="cm-media-block__info  cm-avatar__info">
+
+          <div class="cm-clearfix">
+
+              <div class="cm-avatar__info__sub-title  cm-push--right">
+                  <small>11 hours ago</small>
+              </div>
+
+              <div class="cm-push--left"><strong>Minnesota</strong></div>
+
+          </div>
+
+          <div class="cm-avatar__info__title">
+
+              Minnesota QB Vic Viramontes transfers so he can switch to li...
+          </div>
+
+      </div>
+  </a>
+
+</li>
+
+
+
+<li data-news-item-height class="cm-module__list-item  cm-avatar  cm-avatar--xlarge">
+
+
+  <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/nebraska/nebraska-football-adrian-martinez-espn-predicts-huskers-starting-quarterback" class="cm-media-block">
+
+      <div class="cm-media-block__asset  cm-avatar__asset" style="border-top-color: #F20017">
+          <img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop,g_north_west,h_335,w_638,x_0,y_2/c_fill,h_105,w_200/e_sharpen,f_auto,fl_lossy,q_auto/v1527960135/Adrian-Martinez-Twitter-Nebraska-2018-DRC_3820_fvjuv4.jpg"/>      </div>
+      <div class="cm-media-block__info  cm-avatar__info">
+
+          <div class="cm-clearfix">
+
+              <div class="cm-avatar__info__sub-title  cm-push--right">
+                  <small>12 hours ago</small>
+              </div>
+
+              <div class="cm-push--left"><strong>Nebraska</strong></div>
+
+          </div>
+
+          <div class="cm-avatar__info__title">
+
+              Nebraska football: ESPN predicts Adrian Martinez as Huskers ...
+          </div>
+
+      </div>
+  </a>
+
+</li>
+
+
+
+<li data-news-item-height class="cm-module__list-item  cm-avatar  cm-avatar--xlarge">
+
+
+  <a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/michigan/michigan-football-recruiting-cornell-wheeler-wolverines-updates" class="cm-media-block">
+
+      <div class="cm-media-block__asset  cm-avatar__asset" style="border-top-color: #272341">
+          <img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/c_crop,g_north_west,h_320,w_606,x_0,y_0/c_fill,h_105,w_200/e_sharpen,f_auto,fl_lossy,q_auto/v1527945288/8109556_bh8kpp.jpg"/>      </div>
+      <div class="cm-media-block__info  cm-avatar__info">
+
+          <div class="cm-clearfix">
+
+              <div class="cm-avatar__info__sub-title  cm-push--right">
+                  <small>12 hours ago</small>
+              </div>
+
+              <div class="cm-push--left"><strong>Michigan</strong></div>
+
+          </div>
+
+          <div class="cm-avatar__info__title">
+
+              Michigan one of schools recruiting LB Cornell Wheeler the ha...
+          </div>
+
+      </div>
+  </a>
+
+</li>
+                    
+                </ul>
+
+            </section>
+
+        </div>
+
+        <script>
+
+	        jQuery(function($) {
+
+		        $('[data-news-item-height]').matchHeight();
+
+		        Ellipsis({
+			        class: 'html.wf-active .js-recent-posts-ellipsis',
+			        lines: 2,
+                    break_word: true
+		        });
+
+	        });
+
+        </script>
+
+        </div><!-- CMG-CACHE: recent_post_widget_8 --><div id="cmgads-11" class="cm-hide--narrow widget_cmgads cm-sidebar__module">
+		<div>
+
+			<div class="cm-ad-block  ">
+
+				<div id="widget-ad-cmgads-11">
+
+					<script>
+
+						var mapping = [];
+												mapping.push( [[1,1],[[300,600],[300,250]]] );
+						
+						var adWidget = {
+							sponsorId: '',
+							conference: '',
+							contentType: '',
+							slotId: 'AS03',
+							containerId: 'widget-ad-cmgads-11',
+							sizes: [[300,250],[300,600]],
+							mapping: mapping,
+                            hideIfSponsored: true,
+							isContentResponsive: false,
+							display: 'Desktop'
+						};
+
+						//console.log(adWidget);
+
+						if (adWidget.slotId && adWidget.slotId !== '') {
+							_cmg_registered_custom_ads.push(adWidget);
+						}
+
+					</script>
+				</div>
+			</div>
+
+		</div>
+
+		</div><div id="cmg_follow_us-2" class="widget_cmg_follow_us cm-sidebar__module">
+		<div class="cm-follow">
+
+							<h3 class="cm-follow__title">Follow Us</h3>
+			
+			<ul class="cm-list--ui  cm-follow__list">
+
+									<li class="cm-follow__list-item  cm-follow__list-item--facebook">
+						<a href="https://web.archive.org/web/20180603083007/https://www.facebook.com/landof10" target="_blank" title="Land of 10 Facebook">
+							<svg class="cm-icon--svg">
+								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-facebook-logo"></use>
+							</svg>
+						</a>
+					</li>
+				
+									<li class="cm-follow__list-item  cm-follow__list-item--twitter">
+						<a href="https://web.archive.org/web/20180603083007/https://twitter.com/landof10" target="_blank" title="Land of 10 Twitter">
+							<svg class="cm-icon--svg">
+								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cm-svg-twitter-logo"></use>
+							</svg>
+						</a>
+					</li>
+				
+			</ul>
+
+		</div>
+
+		</div><div id="cmgads-14" class="cm-hide--narrow widget_cmgads cm-sidebar__module">
+		<div data-sticky-ad>
+
+			<div class="cm-ad-block  ">
+
+				<div id="widget-ad-cmgads-14">
+
+					<script>
+
+						var mapping = [];
+												mapping.push( [[1,1],[300,250]] );
+						
+						var adWidget = {
+							sponsorId: '',
+							conference: '',
+							contentType: '',
+							slotId: 'AS08',
+							containerId: 'widget-ad-cmgads-14',
+							sizes: [300,250],
+							mapping: mapping,
+                            hideIfSponsored: true,
+							isContentResponsive: false,
+							display: 'Desktop'
+						};
+
+						//console.log(adWidget);
+
+						if (adWidget.slotId && adWidget.slotId !== '') {
+							_cmg_registered_custom_ads.push(adWidget);
+						}
+
+					</script>
+				</div>
+			</div>
+
+		</div>
+
+		</div>
+    <!-- Sidebar Ad Spot -->
+<!--    <div data-sticky-ad>-->
+<!--        <div class="cm-sidebar__module  cm-ad-block">-->
+<!--            <div id="sidebar_ad_2"></div>-->
+<!--        </div>-->
+<!--    </div>-->
+
+</div>
+
+    </aside>
+
+</main> <!-- .cm-container--flush -->
+
+
+
+
+<footer class="cm-footer--main" role="contentinfo">
+
+    <div class="cm-container  cm-container--pad">
+
+        <ul class="cm-footer__menu  cm-list--ui  cm-list--inline">
+            <li>
+                © 2018 <a href="https://web.archive.org/web/20180603083007/http://www.coxmediagroup.com/" target="_blank"> Cox Media Group</a>
+            </li>
+            <li>
+
+                <div class="menu-footer-menu-1-container"><ul id="footer-menu-1" class="cm-footer__menu  cm-list--ui  cm-list--inline"><li id="menu-item-182857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182857"><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/about-us">About DieHards</a></li>
+<li id="menu-item-62129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62129"><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/contact-us">Contact Us</a></li>
+<li id="menu-item-293630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293630"><a href="https://web.archive.org/web/20180603083007/https://www.diehards.com/diehards-partners">Advertise With Us</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-262 current_page_item menu-item-624"><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/visitor-agreement">Visitor Agreement</a></li>
+<li id="menu-item-52440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52440"><a href="https://web.archive.org/web/20180603083007/https://www.seccountry.com/">SEC Country</a></li>
+<li id="menu-item-52441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52441"><a href="https://web.archive.org/web/20180603083007/https://www.dawgnation.com/">DawgNation</a></li>
+<li id="menu-item-182855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182855"><a href="https://web.archive.org/web/20180603083007/https://www.diehards.com/">DieHards</a></li>
+</ul></div>            </li>
+            <li>
+                <a href="#" onclick="fby.push(['showForm', 11487]);return false;">Feedback</a>
+            </li>
+        </ul>
+
+        
+            <a href="https://web.archive.org/web/20180603083007/http://www.sportradar.com/" class="cm-footer__attribution" target="_blank" title="Visit SportsRadar">
+                <img src="https://web.archive.org/web/20180603083007im_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/images/attribution/sports-radar-logo.png" alt="SportsRadar logo">
+            </a>
+
+        
+    </div>
+
+	
+	<div class="cm-container  cm-container--pad  cm-pad--top  cm-text--center" style="max-width: 450px;">
+
+		<a href="https://web.archive.org/web/20180603083007/https://www.landof10.com/about-us" title="About the Diehards Network">
+			<img src="https://web.archive.org/web/20180603083007im_/https://res.cloudinary.com/cmgverticals/image/upload/f_auto,q_auto/v1/team_logos_safe/diehards_network.png" alt="The Diehards Network">
+		</a>
+
+	</div>
+
+	
+    <!-- Custom Ad Targeting -->
+    <div id="PX01" style="position: absolute"></div>
+
+</footer>
+
+<script>_satellite.pageBottom();</script><script type="text/javascript">
+    var fby = fby || [];
+    //fby.push(['showTab', {id: '9599', position: 'right', color: '#FF1F3A'}]);
+    (function () {
+        var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+        f.src = '//web.archive.org/web/20180603083007/https://cdn.feedbackify.com/f.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
+    })();
+</script><script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.1.2"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "4.8.6"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":"300"}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = []; } else {  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.1.2","plugin_mode":"WordPress","anonymous_profile_id":"wp-7fdd0f284ce51a62ac91263aed31d9f1","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://s7.addthis.com/js/300/addthis_widget.js#pubid=wp-7fdd0f284ce51a62ac91263aed31d9f1" async="async"></script><script>var ajax_script = {"ajaxurl":"https:\/\/web.archive.org\/web\/20180603083007\/https:\/\/www.landof10.com\/wp-admin\/admin-ajax.php","idToBind":"#load-more","action":"ajax_request"};</script><script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/js/libs/jquery.sticky-kit.min.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.gstatic.com/firebasejs/4.5.0/firebase.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://cdn.datatables.net/v/dt/dt-1.10.12/sc-1.4.2/datatables.min.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/uploads/minqueue-cache/minqueue-bfcd4171-7186cb14.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cmg_ads_vars = {"YieldBotPubId":"WDD2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/cmg-ads/js/cmg.ads-plugin.js?ver=1526568915"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/cmg-jump-to-content/js/cmg-jump-to-content.js?ver=1526568919"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var iflychat_app_id = "a1df25ee-7301-4c35-b888-2831b0775142";
+var iflychat_external_cdn_host = "cdn.iflychat.com";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/iflychat/js/iflychat.js?ver=4.8.6"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/cmg-ticker/public/js/cmg-ticker-public.js?ver=1526568926"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/js/cmg.posts.js?ver=1526569029"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/js/libs/jquery.history.js?ver=1526569030"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.10/moment-timezone-with-data.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/js/libs/ellipsis.min.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/js/libs/jquery.fittext.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/themes/cmgsports-2016/build/js/cmg.header.js?ver=1526569029"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/fooboxV2/js/foobox.min.js?ver=2.3.2.39"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-includes/js/backbone.min.js?ver=1.2.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/web.archive.org\/web\/20180603083007\/https:\/\/www.landof10.com\/wp-json\/","nonce":"9bee51b32a","versionString":"wp\/v2\/"};
+var wpApiSettings = {"root":"https:\/\/web.archive.org\/web\/20180603083007\/https:\/\/www.landof10.com\/wp-json\/","nonce":"9bee51b32a","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-includes/js/wp-api.min.js?ver=4.8.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cmg_carousel = {"ajax_url":"https:\/\/web.archive.org\/web\/20180603083007\/https:\/\/www.landof10.com\/wp-json\/cmg\/v1\/vote","nonce":"46efdc5f25"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180603083007js_/https://www.landof10.com/wp-content/plugins/cmg-card-carousel/public/js/card-carousel-public.js?ver=1526568917"></script>
+<script type="text/javascript">/* Run FooBox (v2.3.2.39) */
+(function( FOOBOX, $, undefined ) {
+  FOOBOX.o = {wordpress: { enabled: true }, pan: { enabled: true, showOverview: true, position: "fbx-top-right" }, deeplinking : { enabled: true, prefix: "foobox" }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }, slideshow: { enabled:true}, social: { enabled: true, excludes: ['iframe','html'], position: 'fbx-above', links: [ { css: 'fbx-facebook', title: 'Facebook', url: 'https://web.archive.org/web/20180603083007/http://www.facebook.com/sharer.php?u={url}'  }, { css: 'fbx-google-plus', title: 'Google+', url: 'https://web.archive.org/web/20180603083007/https://plus.google.com/share?url={url-ne}'  }, { css: 'fbx-twitter', title: 'Twitter', url: 'https://web.archive.org/web/20180603083007/https://twitter.com/share?url={url}&text={title}'  }, { css: 'fbx-pinterest', title: 'Pinterest', url: 'https://web.archive.org/web/20180603083007/https://pinterest.com/pin/create/bookmarklet/?media={img!}&url={url}&is_video={is_video}&description={title}'  }, { css: 'fbx-linkedin', title: 'LinkedIn', url: 'https://web.archive.org/web/20180603083007/http://www.linkedin.com/shareArticle?url={url}&title={title}'  }, { css: 'fbx-buffer', title: 'Buffer', url: 'https://web.archive.org/web/20180603083007/http://bufferapp.com/add?text={title}&url={url}'  }, { css: 'fbx-digg', title: 'Digg', url: 'https://web.archive.org/web/20180603083007/http://digg.com/submit?url={url}&title={title}'  }, { css: 'fbx-tumblr', title: 'Tumblr', url: 'https://web.archive.org/web/20180603083007/https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&content={img}&title={title}&caption={desc}'  }, { css: 'fbx-reddit', title: 'Reddit', url: 'https://web.archive.org/web/20180603083007/http://reddit.com/submit?url={url}&title={title}'  }, { css: 'fbx-stumble-upon', title: 'StumbleUpon', url: 'https://web.archive.org/web/20180603083007/http://www.stumbleupon.com/submit?url={url}&title={title}'  } ] }, preload:true, modalClass: "fbx-sticky-buttons"};
+  FOOBOX.init = function() {
+    $(".fbx-link").removeClass("fbx-link");
+    $(".gallery").foobox(FOOBOX.o);
+    $(".foogallery-container.foogallery-lightbox-foobox").foobox(FOOBOX.o);
+    $(".foogallery-container.foogallery-lightbox-foobox-free").foobox(FOOBOX.o);
+    $(".foobox, [target=\"foobox\"]").foobox(FOOBOX.o);
+    $(".wp-caption").foobox(FOOBOX.o);
+    $("a:has(img[class*=wp-image-])").foobox(FOOBOX.o);
+
+  };
+}( window.FOOBOX = window.FOOBOX || {}, FooBox.$ ));
+
+jQuery(function() {
+  //preload the foobox font
+  jQuery("body").append("<span style=\"font-family:'foobox'; color:transparent; position:absolute; top:-1000em;\">f</span>");
+  FOOBOX.init();
+  jQuery(document).trigger("foobox-after-init");
+  jQuery('body').on('post-load', function(){ FOOBOX.init(); }); //Work with JetPack infiniteScroll
+
+});
+</script><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//web.archive.org/web/20180603083007/https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId= 167879406948329&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7cdac0b35f","applicationID":"20024118","transactionName":"YgdWZxNQCBdRV0wMXVtNdVAVWAkKH0RZAlcYEV1XBFMHFg==","queueTime":0,"applicationTime":1275,"atts":"TkBVEVtKGxk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 08:30:07 Jun 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:41:37 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 552.263 (3)
+  esindex: 0.007
+  captures_list: 636.296
+  CDXLines.iter: 17.958 (3)
+  PetaboxLoader3.datanode: 955.562 (4)
+  exclusion.robots.fetch: 59.308 (4)
+  exclusion.robots: 60.036
+  exclusion.robots.policy: 0.316
+  RedisCDXSource: 1.407
+  PetaboxLoader3.resolve: 139.432
+  load_resource: 569.048
+-->

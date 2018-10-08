@@ -1,0 +1,832 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=1371;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcFV1RSGwACVVlVAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<title>Privacy Policy | Hollywood Reporter</title>
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="Effective Date: January 15, 2016"/>
+<meta name="twitter:site" content="@THR"/>
+<meta name="twitter:creator" content="@THR"/>
+<meta name="twitter:url" content="https://web.archive.org/web/20180107210007im_/https://www.hollywoodreporter.com/p/legal/privacy"/>
+<meta name="twitter:domain" content="https://www.hollywoodreporter.com/"/>
+<meta name="twitter:title" content="Privacy Policy"/>
+<meta name="twitter:description" content="Effective Date: January 15, 2016"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:image" content="https://web.archive.org/web/20180107210007im_/https://cdn1.thr.com/sites/default/files/2014/12/thr_placeholder-squarea.jpg"/>
+<meta property="og:site_name" content="The Hollywood Reporter"/>
+<meta property="og:title" content="Privacy Policy"/>
+<meta property="og:description" content="Effective Date: January 15, 2016"/>
+<meta property="og:url" content="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/p/legal/privacy"/>
+<meta property="og:image" content="https://web.archive.org/web/20180107210007im_/https://cdn1.thr.com/sites/default/files/2014/12/thr_placeholder-landscapea.jpg"/>
+<meta property="og:image:width" content="1296"/>
+<meta property="og:image:height" content="730"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:type" content="article"/>
+<link rel="author" href="https://plus.google.com/+hollywoodreporter">
+<link rel="canonical" href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/p/legal/privacy"/>
+<link rel="shortcut icon" href="/web/20180107210007im_/https://www.hollywoodreporter.com/assets/1511301066//preta/favicon.ico?a9626db14bc78ff089df" type="image/x-icon"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/web/20180107210007im_/https://www.hollywoodreporter.com/assets/1511301066//preta/apple-touch-icon.png?a9626db14bc78ff089df">
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.config = PGM.config || {
+        contentHost: "https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/",
+    };
+    (function(PGM) {
+        var debug_queue = [];
+        PGM.debug = function() {debug_queue.push(arguments);};
+        PGM.debug.dump = function() {return debug_queue;}
+        PGM.debug.initialCategories = {
+                    };
+    })(PGM);
+
+    PGM.events = (function() {
+        var events_queue = [];
+        return {
+            trigger: function() {events_queue.push(arguments); },
+            get: function() { return events_queue; }
+        };
+    })();
+
+    PGM.createScript = (function() {
+        var q = [], cs = function createScript() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+    PGM.createScriptTag = (function() {
+        var q = [], cs = function createScriptTag() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+        PGM.tests = [];
+    PGM.ads = PGM.ads || {};
+    PGM.ads.adUnit = '/';
+    PGM.ads.slots = PGM.ads.slots || {};
+</script>
+<script src="https://web.archive.org/web/20180107210007js_/https://ads.blbrd.co/advertisement.js"></script>
+
+<script>
+		    window.CLARITY_GPT_DELAY = 0.01 * 1000;
+	
+			clarityPageData = {"site_code":"thr","zone":"","disable_initial_load":true,"single_request_mode":true};
+		
+</script>
+<script type="text/javascript">
+    (function(){
+        window.CLARITY = window.CLARITY || [];
+        var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+        ns.async = true; ns.type = 'text/javascript'; ns.src = '//web.archive.org/web/20180107210007/https://lib.pgmcdn.com/clarity-1510173566999.min.js'; s.parentNode.insertBefore(ns, s);
+    })();
+</script>
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.mediaQueries = {
+        medium: "only screen and (min-width: 768px)",
+        large: "only screen and (min-width: 1024px)"
+    };
+    PGM.ads = PGM.ads || {};
+</script>
+<script>
+var THR = THR || {};
+THR.config = THR.config || {
+    contentHost: "https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/",
+    debug: "",
+    getMediaHost: function(path) {
+        var mediaHosts=[],s=0,i=0;
+        for(; i<path.length; i++){s+=path.charCodeAt(i);}return (mediaHosts.length>0?mediaHosts[s%mediaHosts.length]:'')+path;
+    }
+};
+</script>
+
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+var PGM = PGM || {};
+PGM.ads = PGM.ads || {};
+PGM.ads.adUnit = '/6419/thr.com/';
+PGM.ads.data = {"ad_zone":"","targeting":{"tags":[],"page":"17817","env":"prod"},"slots":{"t":{"adUnit":null,"slotName":"t","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"767":[[728,90],[728,91]],"0":[[300,50],[300,51],[320,50],[320,51],[320,170]]},"defaultSizes":[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"targetingParameters":{"pos":"t","tags":[],"page":"17817"},"chartLine":null},"t2":{"adUnit":null,"slotName":"t2","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[644,380]],"767":[[644,380],[728,90],[728,91]],"0":[[300,50],[300,52],[300,300],[320,50],[320,52]]},"defaultSizes":[[644,380]],"targetingParameters":{"pos":"t2","tags":[],"page":"17817"},"chartLine":null},"b1":{"adUnit":null,"slotName":"b1","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[88,31],[120,60]],"767":[[88,31],[120,60]],"0":[[88,31],[120,60]]},"defaultSizes":[[88,31],[120,60]],"targetingParameters":{"pos":"b1","tags":[],"page":"17817"},"chartLine":null},"o1":{"adUnit":null,"slotName":"o1","outOfBody":true,"responsive":false,"sizeMapping":[[]],"defaultSizes":[],"targetingParameters":{"pos":"o1","tags":[],"page":"17817"},"chartLine":null},"lightbox":{"adUnit":null,"slotName":"lightbox","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,600]],"767":[[728,90]],"0":[[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"lightbox","tags":[],"page":"17817"},"chartLine":null},"m1":{"adUnit":null,"slotName":"m1","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,251],[300,600]],"767":[],"0":[]},"defaultSizes":[[300,250],[300,251],[300,600]],"targetingParameters":{"pos":"m1","tags":[],"page":"17817"},"chartLine":null},"m2":{"adUnit":null,"slotName":"m2","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,252]],"767":[[300,250],[300,252]],"0":[[300,250],[300,252],[300,50],[300,52],[320,50],[320,52]]},"defaultSizes":[[300,250],[300,252]],"targetingParameters":{"pos":"m2","tags":[],"page":"17817"},"chartLine":null}},"ima_tags":""};
+PGM.ads.slots = PGM.ads.slots || {};
+PGM.autoplayers = ["VkzEx53Fg","rJIWUc7eW","4kXvKxBFg","r1La1160g","ByDcA7lvg"];
+</script>
+<script type="text/javascript">
+
+googletag.cmd.push(function() {
+
+            googletag.pubads().setTargeting('template', 'n');
+        PGM.debug('dfpauto', 'PAGE', 'template', 'n' );
+        
+    googletag.pubads().setTargeting('zone', '');
+    PGM.debug('dfpauto', 'PAGE', 'zone', '');
+            googletag.pubads().setTargeting('tags', []);
+        PGM.debug('dfpauto', 'PAGE', 'tags', []);
+            googletag.pubads().setTargeting('page', "17817");
+        PGM.debug('dfpauto', 'PAGE', 'page', "17817");
+            googletag.pubads().setTargeting('env', "prod");
+        PGM.debug('dfpauto', 'PAGE', 'env', "prod");
+    
+    $('video').each(function () {
+        let $vid = $(this),
+            player = $vid.data('player'),
+            account = $vid.data('account');
+
+        if (PGM.autoplayers.indexOf(player) >= 0) {
+            // If there are any auto-play vids stop
+            googletag.pubads().setTargeting('video', 'autoplay');
+            PGM.debug('dfpauto', 'PAGE', 'video', 'autoplay');
+            return false;
+        } else if (account) {
+            googletag.pubads().setTargeting('video', 'click-to-play');
+            PGM.debug('dfpauto', 'PAGE', 'video', 'click-to-play');
+            // if there are click-to-plays there could still be an auto-play somewhere, continue
+        }
+    });
+
+    if( typeof Krux !== 'undefined' ) {
+        googletag.pubads().setTargeting('ksg', Krux.segments);
+        PGM.debug('dfpauto', 'PAGE', 'ksg', Krux.segments);
+        googletag.pubads().setTargeting('kuid', Krux.user);
+        PGM.debug('dfpauto', 'PAGE', 'kuid', Krux.user);
+    }
+
+    });
+</script>
+
+
+<script>
+    var _comscore = _comscore || [];
+    var comscoreVars = {
+        c1: "2"
+        ,c2: "7395269"
+        ,c3: ""
+            ,options: { url_append: "comscorekw=homepage" }
+        };
+    _comscore.push(comscoreVars);
+    </script>
+<script type="text/javascript" data-src="https://sb.scorecardresearch.com/beacon.js"></script>
+<noscript>
+    <img src="https://web.archive.org/web/20180107210007im_/http://b.scorecardresearch.com/p?c1=2&amp;c2=7395269&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+
+
+<script type="text/javascript">
+        var dataLayer = dataLayer || [];
+        dataLayer.push({
+            'fireGTM': 'on'
+    
+        });
+        dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        PGM.createScript('//web.archive.org/web/20180107210007/https://www.googletagmanager.com/gtm.js?id=GTM-WLF8ZZ');
+    </script>
+
+
+<link rel="stylesheet" type="text/css" href="/web/20180107210007cs_/https://www.hollywoodreporter.com/assets/1511301066/css/simple-page.css?a9626db14bc78ff089df">
+</head>
+<body data-twitter-handle="thr"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.hollywoodreporter.com/p/legal/privacy
+', '20180107210007')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/p/legal/privacy', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/p/legal/privacy&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.hollywoodreporter.com/p/legal/privacy
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180107210007" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20171203132137/https://www.hollywoodreporter.com/p/legal/privacy" title="03 Dec 2017"><strong>Dec</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 21:00:07 Jan 07, 2018">JAN</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20180315135323/https://www.hollywoodreporter.com/p/legal/privacy" title="15 Mar 2018"><strong>Mar</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20171208114013/https://www.hollywoodreporter.com/p/legal/privacy" title="11:40:13 Dec 08, 2017"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 21:00:07 Jan 07, 2018">07</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20180127110419/https://www.hollywoodreporter.com/p/legal/privacy" title="11:04:19 Jan 27, 2018"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 21:00:07 Jan 07, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180107210007*/https://www.hollywoodreporter.com/p/legal/privacy
+" title="See a list of every capture for this URL">19 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">28 Aug 2017 - 16 Mar 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/NO404" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+<br><br>
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+<br><br>
+The goal is to <a href="https://blog.archive.org/2013/10/25/fixing-broken-links/">fix all broken links on the web</a>. 
+
+Crawls of supported "No More 404" sites.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404-GDELT)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/NO404-GDELT" target="_new"><span class="wm-title">GDELT</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  A daily crawl of more than 200,000 home pages of news sites, including the pages linked from those home pages. Site list provided by <a href="http://gdeltproject.org/about.html">The GDELT Project</a>
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.hollywoodreporter.com/p/legal/privacy\n","2018-01-07",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<div class="header-wrapper">
+<header id="site-header" class="site-header " role="banner">
+<div class="site-header__background">
+<div class="site-header__contents">
+<div class="site-header__bar">
+<button class="site-header__nav-toggle"><i class="fa fa-bars"></i></button>
+<h1 class="site-header__brand">
+<a class="site-header__brand-link" href="/web/20180107210007/https://www.hollywoodreporter.com/">
+<img class="site-header__brand-logo" src="/web/20180107210007im_/https://www.hollywoodreporter.com/assets/1511301066//images/brand/thr-logo-white.svg?a9626db14bc78ff089df" alt="The Hollywood Reporter">
+<span class="site-header__brand-name">The Hollywood Reporter</span>
+</a>
+</h1>
+<button class="site-header__search-toggle"><i class="fa fa-search"></i></button>
+</div>
+<nav class="site-header__nav">
+<div class="site-header__nav-inner">
+<ul class="site-header__nav-items">
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/movies" class="site-header__nav-link">
+Movies
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/node/895551" class="site-header__nav-link">
+TV
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/business" class="site-header__nav-link">
+Business
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/style" class="site-header__nav-link">
+Style
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/node/859190" class="site-header__nav-link">
+Politics
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/tech" class="site-header__nav-link">
+Tech
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/culture" class="site-header__nav-link">
+Culture
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/awards" class="site-header__nav-link">
+Awards
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/video" class="site-header__nav-link">
+Video
+</a>
+</li>
+<li class="site-header__nav-item collapsed">
+<span class="site-header__nav-link">
+Sites
+</span>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/blogs/heat-vision" class="site-header__subnav-link">
+Heat Vision
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/blogs/live-feed" class="site-header__subnav-link">
+Live Feed
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/node/786127" class="site-header__subnav-link">
+Esq
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/blogs/race" class="site-header__subnav-link">
+The Race
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/blogs/behind-screen" class="site-header__subnav-link">
+Behind the Screen
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/blogs/bastard-machine" class="site-header__subnav-link">
+Bastard Machine
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/node/832202" class="site-header__subnav-link">
+Rambling Reporter
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/node/832198" class="site-header__subnav-link">
+The Fien Print
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<a href="https://web.archive.org/web/20180107210007/https://subscribe.hollywoodreporter.com/sub/?p=THR&amp;f=saleb&amp;s=IH1402HR12" class="site-header__nav-link site-header__nav-link--subscribe">Subscribe</a>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/newsletters/subscribe" class="site-header__nav-link site-header__nav-link--newsletter">Newsletters</a>
+<ul class="site-header__nav-items site-header__nav-items--site-tools">
+<li class="site-header__nav-item collapsed">
+<span class="site-header__nav-link--site-tools site-header__nav-link" class="site-header__nav-link">
+Site Tools
+</span>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/user/login" class="site-header__subnav-link">
+Login
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/daily/archive" class="site-header__subnav-link">
+Daily Edition
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<form class="site-header__search-form" method="get" accept-charset="UTF-8" action="/web/20180107210007/https://www.hollywoodreporter.com/search/">
+<input class="site-header__search-input" placeholder="Search..." name="keys" maxlength="255">
+<button id="site-header__search-submit" class="site-header__search-submit"><i class="fa fa-times"></i></button>
+</form>
+</div>
+</div>
+</header>
+<div class="header-wrapper__secondary-header">
+<nav class="site-header-links">
+<div class="site-header-links__contents">
+<a href="https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/lists/golden-globe-nominations-2018-full-list-nominees-1063937" class="site-header-links__link">
+Golden Globe Nominations
+</a>
+<a href="https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/roundtables" class="site-header-links__link">
+Roundtables
+</a>
+<a href="https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/lists/hollywood-reporter-film-critics-pick-5-performers-year-1060730/item/lois-smith-marjorie-prime-critics-pick-5-great-performances-1060754" class="site-header-links__link">
+2017’s Best Performances
+</a>
+<a href="https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/topic/movie-reviews" class="site-header-links__link">
+Movie Reviews
+</a>
+<a href="https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/topic/tv-reviews" class="site-header-links__link">
+TV Reviews
+</a>
+</div>
+</nav>
+<div class="breaking-news-bar"></div>
+</div>
+</div>
+<div class="site-header__placeholder"></div>
+<div class="ad-container leaderboard leaderboard--top">
+<div class="leaderboard-wrapper">
+<div class="ad_desktop_placeholder">
+<div class="ad_desktop_wrapper">
+<div class="ad_desktop dfp-ad dfp-ad-t " data-position="t" data-slot-name="t" data-sizes="[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]]" data-size-mapping="{&quot;980&quot;:[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],&quot;767&quot;:[[728,90],[728,91]],&quot;0&quot;:[[300,50],[300,51],[320,50],[320,51],[320,170]]}" data-targeting="{&quot;pos&quot;:&quot;t&quot;,&quot;tags&quot;:[],&quot;page&quot;:&quot;17817&quot;}" data-ad-unit="" data-trackaction="" data-tracklabel="Ad Click">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ad_desktop dfp-ad dfp-ad-o1 " data-position="o1" data-slot-name="o1" data-sizes="[[1,1]]" data-out-of-page="true" data-targeting="{&quot;pos&quot;:&quot;o1&quot;,&quot;tags&quot;:[],&quot;page&quot;:&quot;17817&quot;}" data-ad-unit="" data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<main class="page-content">
+<article class="simple-page" data-content-type="simple-page">
+<header class="simple-page__header container">
+<h1 class="simple-page__title">
+Privacy Policy
+</h1>
+</header>
+<div class="simple-page__body js-fitvids-content">
+<div class="container">
+<div class="simple-page__body-primary">
+<p><em>Effective Date</em>: January 15, 2016</p>
+<p>This Privacy Policy is applicable to&nbsp;<a href="https://web.archive.org/web/20180107210007/http://www.billboard.com/">www.billboard.com</a>, <a href="https://web.archive.org/web/20180107210007/http://www.billboardevents.com/">www.billboardevents.com</a>, <a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/">www.hollywoodreporter.com</a>,&nbsp;and any other site that may be operated by or for Prometheus Global Media (together, the &quot;Websites&quot;). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our&nbsp;<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/legal/terms">Terms of Use</a>, which govern the basic operation of the Websites.</p>
+<p>&nbsp;</p>
+<p><strong>1. The Information We Collect and Use</strong></p>
+<p>A. Non-Personally Identifiable Information. When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is &ldquo;Non-Personally Identifiable Information.&rdquo; It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.</p>
+<p>We may place a &ldquo;cookie&rdquo; on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website&rsquo;s computers and stored on your computer&rsquo;s hard drive. Our &ldquo;preference&rdquo; cookie expires after thirty (30) days. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.</p>
+<p>We also may use a small piece of code (sometimes referred to as &ldquo;1x1 clear pixel,&rdquo; &ldquo;Web beacon&rdquo; or &ldquo;clear GIF&rdquo;) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.</p>
+<p><strong>You can control cookies and tracking tools.</strong> To learn how to manage how we &ndash; and our vendors &ndash; use cookies and other tracking tools, and to read our <strong>Do Not Track </strong>policy, please click <a href="about-our-ads" target="_blank">here</a>.&nbsp;</p>
+<p>B. Personally Identifiable Information. We also may collect information that can be used to identify you (&ldquo;Personally Identifiable Information&rdquo;). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use [make link], or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Prometheus Global Media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.</p>
+<p>We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to &ldquo;unsubscribe&rdquo; from such mailings.</p>
+<p>We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties, except as described below.</p>
+<p>From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to Personally Identifiable Information and Non-Personally Identifiable Information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to Personally Identifiable and Non-Personally Identifiable Information, but only as needed to perform their functions.</p>
+<p>We may share Personally Identifiable Information with third parties, who may contact you to offer products and services. At any time, you can contact Prometheus Global Media at 1-212-493-4100 to request that we not share your Personally Identifiable Information with third parties.</p>
+<p>We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also&nbsp;may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.</p>
+<p>&nbsp;</p>
+<p>2. Data Security</p>
+<p>Prometheus Global Media cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.</p>
+<p>We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.</p>
+<p>&nbsp;</p>
+<p>3. 3. Children</p>
+<p>This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact&nbsp;<a href="https://web.archive.org/web/20180107210007/mailto:Contact@bbthr.com">Contact@bbthr.com</a>.</p>
+<p>&nbsp;</p>
+<p>4. Access to your information</p>
+<p>You may contact us at&nbsp;<a href="https://web.archive.org/web/20180107210007/mailto:Contact@bbthr.com">Contact@bbthr.com</a> if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).</p>
+<p>&nbsp;</p>
+<p>5. How To Contact Us</p>
+<p>You may contact Prometheus Global Media regarding our privacy practices at the following address:</p>
+<p>Prometheus Global Media<br/>
+340 Madison Avenue-6<sup>th</sup> Floor<br/>
+New York, New York 10173<br/>
+1-212-493-4100<br/>
+<a href="https://web.archive.org/web/20180107210007/mailto:Contact@bbthr.com">Contact@bbthr.com</a></p>
+<p>&nbsp;</p>
+<p>6. Changes To The Privacy Policy</p>
+<p>This Privacy Policy is effective as of January 15, 2016. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.</p>
+</div>
+</div>
+</div>
+</article>
+</main>
+
+
+<footer id="site-footer" class="site-footer">
+<div class="container">
+<div class="branding column">
+<div class="brand">
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/" title="The Hollywood Reporter" rel="home" class="logo" data-tracklabel="Drip Pan Footer - THR Logo">The Hollywood Reporter</a>
+</div>
+<p class="copyright date">
+&copy; 2017 The Hollywood Reporter
+<br>
+All rights reserved.
+</p>
+<p class="copyright terms">
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/legal/terms">Terms of Use</a> |
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/legal/privacy">Privacy</a> |
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/sitemap">Sitemap</a> |
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/legal/about-our-ads">About Our Ads</a>
+</p>
+</div>
+<div class="affiliate column">
+<ul>
+<li>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/about/about" data-tracklabel="Drip Pan Footer - About Us">About Us</a>
+</li>
+<li>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/user/login" data-tracklabel="Drip Pan Footer - Login">Login</a>
+</li>
+<li>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/daily/archive" data-tracklabel="Drip Pan Footer - Daily Edition">Daily Edition</a>
+</li>
+<li>
+<a href="https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/subscribe3" data-tracklabel="Drip Pan Footer - Subscribe">Subscribe</a>
+</li>
+<li>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/services" data-tracklabel="Drip Pan Footer - Subscriber Services">Subscriber Services</a>
+</li>
+<li>
+<a href="//web.archive.org/web/20180107210007/https://shop.hollywoodreporter.com/" data-tracklabel="Drip Pan Footer - Back Issues">Back Issues</a>
+</li>
+<li>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/ad/contacts" data-tracklabel="Drip Pan Footer - Advertising">Advertising</a>
+</li>
+<li>
+ <a href="/web/20180107210007/https://www.hollywoodreporter.com/contact" data-tracklabel="Drip Pan Footer - Contact Us">Contact Us</a>
+</li>
+<li>
+<a href="https://web.archive.org/web/20180107210007/http://prometheusglobalmedia.applytojob.com/" target="_blank" data-tracklabel="Drip Pan Footer - Careers">Careers</a>
+</li>
+<li>
+<a href="/web/20180107210007/https://www.hollywoodreporter.com/industry-jobs" data-tracklabel="Drip Pan Footer - Industry Jobs">Industry Jobs</a>
+</li>
+</ul>
+</div>
+<div class="follow column">
+<ul>
+<li>
+Follow Us On
+<a href="https://web.archive.org/web/20180107210007/https://twitter.com/thr" target="_blank" data-tracklabel="Drip Pan Footer - Twitter">Twitter</a>
+</li>
+<li>
+Find Us On
+<a href="https://web.archive.org/web/20180107210007/https://www.facebook.com/HollywoodReporter" target="_blank" data-tracklabel="Drip Pan Footer - Facebook">Facebook</a>
+</li>
+<li>
+Watch Us On
+<a href="https://web.archive.org/web/20180107210007/https://www.youtube.com/thrnetwork" target="_blank" data-tracklabel="Drip Pan Footer - YouTube">Youtube</a>
+</li>
+</ul>
+</div>
+<div class="partner column">
+<div class="publications">
+<p>Our affiliate publications</p>
+<ul>
+<li>
+<a href="https://web.archive.org/web/20180107210007/http://www.billboard.com/" target="_blank" class="footer logo billboard" data-tracklabel="Drip Pan Footer - Billboard">Billboard</a>
+</li>
+<li>
+<a href="https://web.archive.org/web/20180107210007/https://www.vibe.com/" target="_blank" class="foot logo vibe" data-tracklabel="Drip Pan Footer - Vibe">Vibe</a>
+</li>
+<li>
+<a href="https://web.archive.org/web/20180107210007/https://www.spin.com/" target="_blank" class="foot logo spin" data-tracklabel="Drip Pan Footer - Spin">Spin</a>
+</li>
+<li>
+<a href="https://web.archive.org/web/20180107210007/https://www.stereogum.com/" target="_blank" class="foot logo stereogum" data-tracklabel="Drip Pan Footer - Stereogum">Stereogum</a>
+</li>
+<li>
+<a href="https://web.archive.org/web/20180107210007/https://www.deathandtaxesmag.com/" target="_blank" class="foot logo deathandtaxesmag" data-tracklabel="Drip Pan Footer - Death and Taxes">Death and Taxes</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script type="application/ld+json">
+{
+    "@context": "https://web.archive.org/web/20180107210007/http://schema.org/",
+    "@type": "Organization",
+    "name": "The Hollywood Reporter",
+    "url": "https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/",
+    "logo": "https://web.archive.org/web/20180107210007/http://www.hollywoodreporter.com/assets/images/brand/thr-logo.gif",
+    "sameAs" : [
+        "https://web.archive.org/web/20180107210007/https://www.youtube.com/user/thrnetwork",
+        "https://web.archive.org/web/20180107210007/https://twitter.com/thr",
+        "https://web.archive.org/web/20180107210007/https://www.facebook.com/HollywoodReporter",
+        "https://web.archive.org/web/20180107210007/https://instagram.com/hollywoodreporter/"
+    ]
+}
+</script>
+<script>
+    window.CLARITY = window.CLARITY || [];
+</script>
+<div class="ad_clarity" data-out-of-page="true" style="display: none;"></div>
+<script>
+    CLARITY.push({
+        use: ['ads'],
+        run: function(Ads) {
+            Ads.site_code = "thr";
+            Ads.zone = "";
+
+            var keywords = [];
+
+            // Keyword injection
+            if (typeof(global_keywords) !== "undefined") {
+                keywords = global_keywords;
+            }
+            
+                                    
+            Ads.keywords = keywords;
+
+            Ads.autoPopulate();
+        }
+    });
+</script>
+<script type="text/javascript" src="/web/20180107210007js_/https://www.hollywoodreporter.com/assets/1511301066/js/commons.bundle.js?a9626db14bc78ff089df"></script>
+<script type="text/javascript" src="/web/20180107210007js_/https://www.hollywoodreporter.com/assets/1511301066/js/transition.bundle.js?a9626db14bc78ff089df"></script>
+<script type="text/javascript" src="/web/20180107210007js_/https://www.hollywoodreporter.com/assets/1511301066/js/templates.js?a9626db14bc78ff089df"></script>
+<script type="text/javascript" src="/web/20180107210007js_/https://www.hollywoodreporter.com/assets/1511301066/js/vendor.js?a9626db14bc78ff089df"></script>
+<script type="text/javascript" src="/web/20180107210007js_/https://www.hollywoodreporter.com/assets/1511301066/js/home.bundle.js?a9626db14bc78ff089df"></script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    PGM.createScriptTag("//web.archive.org/web/20180107210007/https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=303838389949803");
+</script>
+<script type="text/javascript">var __st_loadLate=true;</script>
+<script type="text/javascript">
+    PGM.createScript("//web.archive.org/web/20180107210007/https://ak.sail-horizon.com/horizon/v1.js", function() {
+        if (window.Sailthru) {
+            PGM.debug('sailthru', 'Running Sailthru.track for', 'https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/p/legal/privacy');
+            Sailthru.track({
+                domain: 'horizon.hollywoodreporter.com',
+                spider: true,
+                track_url: true,
+                url: 'https://web.archive.org/web/20180107210007/https://www.hollywoodreporter.com/p/legal/privacy'
+            });
+        }
+        else {
+            PGM.debug('sailthru', 'No window.Sailthru');
+        }
+    });
+    </script>
+<script type="text/javascript">
+    PGM.createScript("//web.archive.org/web/20180107210007/https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?"+Math.floor(new Date().getTime()/3600000));
+</script>
+
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 3388;
+    _sf_async_config.domain = 'hollywoodreporter.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "home";
+    /** CONFIGURATION END **/
+    PGM.createScript('//web.archive.org/web/20180107210007/https://static.chartbeat.com/js/chartbeat.js');
+</script>
+
+
+
+<script class="kxct" data-id="JtjzpxpZ" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        k.src=(location.protocol==='https:'?'https:':'http:')+'//web.archive.org/web/20180107210007/https://cdn.krxd.net/controltag/JtjzpxpZ.js';
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+</script>
+
+<script class="kxint" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+  function retrieve(n){
+    var k= 'kx'+''+n, ls=(function(){
+      try {
+        return window.localStorage;
+      } catch(e) {
+        return null;
+      }
+    })();
+    if (ls) {
+        return ls[k] || '';
+    } else if (navigator.cookieEnabled) {
+        var m = document.cookie.match(k+'=([^;]*)');
+        return (m && unescape(m[1])) || '';
+    } else {
+        return '';
+    }
+  }
+  Krux.user = retrieve('user');
+  var segs = retrieve('segs');
+  Krux.segments = segs ? segs.split(',') : [];
+})();
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<script>
+    window.CLARITY = window.CLARITY || [];
+</script>
+<div class="ad_clarity" data-out-of-page="true" style="display: none;"></div>
+<script>
+    CLARITY.push({
+        use: ['ads'],
+        run: function(Ads) {
+            Ads.site_code = "thr";
+            Ads.zone = "";
+
+            var keywords = [];
+
+            // Keyword injection
+            if (typeof(global_keywords) !== "undefined") {
+                keywords = global_keywords;
+            }
+            
+                                    
+            Ads.keywords = keywords;
+
+            Ads.autoPopulate();
+        }
+    });
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"645958bbf2","applicationID":"3218764","transactionName":"YAZRbEJXC0VUURFZV1lMZkpZGQxYUVcdHkhfEw==","queueTime":0,"applicationTime":612,"atts":"TEFSGgpNGEs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:00:07 Jan 07, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:47:50 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 284.77 (3)
+  esindex: 0.008
+  captures_list: 1205.939
+  CDXLines.iter: 12.603 (3)
+  PetaboxLoader3.datanode: 290.079 (4)
+  exclusion.robots.fetch: 887.741 (4)
+  exclusion.robots: 888.656
+  exclusion.robots.policy: 0.416
+  RedisCDXSource: 15.758
+  PetaboxLoader3.resolve: 75.186
+  load_resource: 136.966
+-->

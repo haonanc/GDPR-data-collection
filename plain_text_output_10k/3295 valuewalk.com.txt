@@ -1,0 +1,30 @@
+May 25, 2018 1:40 pm
+Image Source: European Commission / Twitter (screenshot)
+The European Union’s General Data Protection Regulation (GDPR) has officially gone into effect on May 25th. A large number of companies – big and small – are scrambling to comply with GDPR requirements. The GDPR legislation was passed in April 2016, and companies had at least two years to prepare for the new regulation. Let’s take a look at how GDPR aims to protect your data. Companies violating the law will have to pay hefty GDPR fines. Your email inbox might already be flooded with the GDPR privacy policy updates.
+What is GDPR?
+The GDPR is a new data protection regulation that replaces the European Union’s 23-year-old previous law governing user data protection. It gives the EU citizens greater control over their personal data and how companies can use it. It also clarifies the responsibilities for online services such as Google and Facebook with European users.
+This is it.
+Today, our EU #DataProtection rules enter into application, putting the Europeans back in control of their data.
+Europe asserts its digital sovereignty and gets ready for the digital age.
+Users will have the right to object to specific ways companies are using their personal data. If you are an EU citizen, you can ask companies to delete your data, send copies of the data, or rectify an error. Companies will have to comply with your request. The UK is part of the EU, but is set to leave it in 2019. So, the regulation applies to the UK citizens as well, until 2019 when the country’s own Data Protection Act will come into effect. It will have almost all the provisions of the GDPR with a few minor tweaks.
+The regulation is not restricted to European companies. It applies to any firm – European or otherwise – that collects, stores, and processes data of European citizens. That’s why companies like Google, Facebook, and dozens of others are updating their privacy policy. You can r ead the full text here .
+GDPR privacy policy
+The GDPR privacy policy will ensure that your data is not misused by companies. It covers a broad range of personal data such as your name, email, phone numbers, location data, government ID numbers, and oblique references. It protects any piece of information that shows your activity online as well as offline including cookies and IP addresses. You’ll have the right to be forgotten, meaning you can request a company to delete your information.
+You’ll be able to see what information companies are collecting about you, and whether you want that information to be deleted. Businesses will have to explicitly gain your consent to collect and use data. Just giving you a tick box with “I agree with terms & conditions” will no longer be enough. The user’s consent must be given in an accessible and easy-to-understand form. I have received dozens of GDPR privacy policy updates in the last 48 hours including from apps and websites I don’t even remember I had signed up for.
+The GDPR privacy policy provides special protection to children under age 16. Since children are less aware of potential risks, the regulation requires parental consent for collecting data of children up to 16.
+GDPR requirements for companies
+There are tons of GDPR regulations outlined by the European Union. To begin with, companies are required to notify users and regulators about data breaches within 72 hours of a breach. It would be a positive step for the Internet. Last year when a massive data breach at Equifax exposed the personal information of about 143 million Americans, the company spent several weeks preparing to deal with the aftermath before making it public.
+Other GDPR requirements include the data subject access request. The EU citizens can submit a data subject request and the company will have to give them access to review their data within 30 days. A lot of companies will have to revamp their internal infrastructures to handle such requests. If the company fails to respond within 30 days, the user can file a complaint with their local regulator.
+GDPR fines
+Carelessly handling or misusing your personal data will attract significant GDPR fines. Depending on the severity of the case, the GDPR fines could go up to 20 million euros or 4% of a company’s global turnover in the previous year. For instance, if Facebook fails to comply in a case, it could be fined up to $1.6 billion, which is 4% of its previous year’s revenue of $40 billion. Minor transgressions will be subject to smaller penalties.
+At this point, the regulation remains ambiguous and complex. So, the regulators might give companies some breathing room initially. Many US news outlets including the LA Times and The Chicago Tribune have made their websites temporarily unavailable in European countries as they are not prepared to comply with GDPR requirements.
+European consumer rights organization Noyb has filed complaints against Facebook and Google on the very first day of the GDPR going into effect. The complaints are related to Android, Facebook, WhatsApp, and Instagram. Noyb has accused the companies of having forced users into agreeing to their new terms & conditions. Noyb told The Guardian that Facebook has blocked accounts of people who haven’t given consent.
+Never Miss A Story!
+Subscribe to ValueWalk Newsletter. We respect your privacy no spam ever
+Send me ocassional third party offers
+Yes
+No
+Send me the ValueWalk Personal Finance newsletter, powered by ArcaMax
+Yes
+No
+Recent Posts

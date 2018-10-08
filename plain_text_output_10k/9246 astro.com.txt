@@ -1,0 +1,151 @@
+The Astro Codex is committed to safeguarding your privacy. Contact us if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy, as well as our Terms & Conditions .
+Table of Contents
+Personal Data – any information relating to an identified or identifiable natural person.
+Processing – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.
+Data subject – a natural person whose Personal Data is being Processed.
+Child – a natural person under 16 years of age.
+We/us (either capitalized or not) – The Astro Codex team, consisting in Xaos and Ordo.
+Data Protection Principles
+We promise to follow the following data protection principles:
+Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+Processing is limited with a time period. We will not store your personal data for longer than needed.
+We will do our best to ensure the accuracy of data.
+We will do our best to ensure the integrity and confidentiality of data.
+Data Subject’s rights
+The Data Subject has the following rights:
+Right to information – meaning you have the right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+Right for the help of  supervisory authority  – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
+If you have left comments on this site, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+Data we gather
+Information you have provided us with
+This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website.
+On The Astro Codex (https://theastrocodex.com), this information includes:
+Your e-mail address – when you subscribe to The Astro Codex newsletter
+Your e-mail address, your name and your message – when you use the Contact form or the Comments section
+Note – We do not collect the pieces of information entered when using our birth chart generators (name, birth date, time of birth, birth location) nor the generated natal charts.
+Information automatically collected about you
+This includes information that is automatically stored by cookies and other session tools. For example, your shopping cart information, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
+Information from our partners
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds. See the complete list of our partners  here .
+Publicly available information
+We might gather information about you that is publicly available.
+How we use your Personal Data
+We use your Personal Data in order to provide our service to you. This includes for example:
+Registering your account
+Providing you with other products and services that you have requested
+Providing you with promotional items at your request and communicating with you in relation to those products and services
+Communicating and interacting with you
+Notifying you of changes to any services
+Enhance your customer experience
+Fulfil an obligation under law or contract
+We use your Personal Data on legitimate grounds and/or with your Consent.
+On the grounds of entering into a contract or fulfilling contractual obligations, we Process your Personal Data for the following purposes:
+To identify you
+To provide you a service or to send/offer you a product
+To communicate either for sales or invoicing
+On the ground of legitimate interest, we Process your Personal Data for the following purposes:
+To send you personalized offers (from us and/or our carefully selected partners)
+To administer and analyse our client base (purchasing behaviour and history) in order to improve the quality, variety, and availability of products/ services offered/provided
+To conduct questionnaires concerning client satisfaction
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behaviour to be our legitimate interest.
+With your consent we Process your Personal Data for the following purposes:
+To send you newsletters and campaign offers (from us and/or our carefully selected partners)
+For other purposes we have asked your consent for
+We Process your Personal Data in order to fulfil obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymise Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymised. We save your billing information and other information gathered about you for as long as needed for accounting purposes or other obligations deriving from law, but not longer than three years.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+We keep contact form entries (“Contact Us” page) for one year and analytics records (Google Analytics) for 26 months.
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
+The link between purposes, context and nature of Personal Data is suitable for further Processing
+The further Processing would not harm your interests
+There would be appropriate safeguard for Processing
+We will inform you of any further Processing and purposes.
+Source: MailPoet
+MailPoet newsletter & emails
+If you have subscribed to our newsletter, there is a good chance you will receive emails from us.
+We will only send you emails which you have signed up to receive, or which pertain to the services we provided to you.
+To send you emails, we use the email address you provide us. Our site also logs the IP address you used when you signed up for the service to prevent abuse of the system.
+This website can send emails through the MailPoet sending service. This service allows us to track opens and clicks on our emails. We use this information to improve the content of our newsletters.
+No identifiable information is otherwise tracked outside this website except for the email address.
+Source: WordPress
+Comments
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+Contact form
+When someone submits a contact form (“Contact Us” page on the website), we collect their email address, their name and the content of their message. We keep such information for one year maximum and we do not use the information submitted for marketing purposes.
+Who else can access your Personal Data
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with:
+Our processing partners
+Elodie Grandjean – Web developer and webmaster
+Dropbox, Inc. – Backups storage
+Wysija SARL – MailPoet sending service. They have access to your e-mail address in order to mail you our Newsletter. Their Privacy Policy can be read here .
+PrintFriendly & PDF – PDF printing service. Their Privacy Policy can be read here . We have a Pro subscription, so you will not see any Ads from them, however the content of the page generated by the birth chart generators is transmitted to them for their services to convert it into a PDF file before sending it back to our server. They do not collect, store, sell such data though.
+Automattic Inc. (Akismet) – Spam protection. Their Privacy Policy can be read here . The content of all comments and messages submitted via the Contact form, along with the poster’s e-mail address, name, IP address, user agent, referrer, and site URL are sent to their servers to compare them to their spam database.
+Connected third parties
+Amazon Services LLC Associates Program – An affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites
+Share-A-Sale affiliate program – Allow us to earn fees by linking to certain products from Redbubble, BuddhaGroove and YogaDownload
+We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+How we secure your data
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks.
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+If you have an account with us, note that you have to keep your username and password secret.
+Children
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+Cookies and other technologies we use
+We use cookies and/or similar technologies to analyse customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalise and enhance your experience with us.
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+We use cookies for the following purposes:
+Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+Analytics cookies – these cookies are used to track the use and performance of our website and services
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review here .
+In order to be compliant with the new regulation, Google included a data processing amendment .
+The data we collect is processed anonymously and “Data sharing” is disabled.
+If you’d like to opt out of tracking by Google Analytics, visit the Google Analytics opt-out page .
+Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+Our 3rd party affiliate programs mentioned earlier work with advertising cookies.
+About Google advertising: Google uses cookies to help serve the ads it displays on the websites of its partners, such as websites displaying Google ads or participating in Google certified ad networks. When users visit a Google partner’s website, a cookie may be dropped on that end user’s browser.
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website or other websites.
+Google’s use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.
+Users may opt out of personalized advertising by visiting Ads Settings .
+About Amazon advertising: Like other online ad networks, Amazon use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”).
+You can ask Amazon not to use personalized-Ads by adjusting your Amazon Advertising Preferences:
+You can also control some 3rd party cookies by using a privacy enhancement platform such as optout.aboutads.info or youronlinechoices.com .
+Finally, you can remove cookies stored in your computer via your browser settings.
+For more information about cookies, visit allaboutcookies.org .
+Contact Information
+Supervisory Authority
+The data controller of this website is The Astro Codex, a company incorporated in Greece since 2018 and whose registered office is:
+Taxiarchon 51
+Changes to this Privacy Policy
+We reserve the right to make change to this Privacy Policy.
+Last modification was made on June 14th, 2018.
+Privacy Policy was last modified: June 14th, 2018 by Ordo
+Follow Us!
+This is The Astro Codex event chart (click on the picture to enlarge it). The website was created on the 26th of July, 2017, however the date was chosen randomly.
+General Astrology
+The Astro Team
+The Astro Codex was created by Xaos and Ordo with the ambition to provide some detailed information regarding placements and aspects in Astrology, that potentially interested people could use to interpret their own natal chart.
+Feel free to read our page About Us  for more information!
+Our Newsletter
+Please leave this field empty
+Our Newsletter will be sent to inform our readers about new blog posts, major updates or added functionalities.
+Join our  971 current subscribers!
+Email *
+Consent *
+I consent my e-mail address being stored and to receive e-mail communications from The Astro Codex.
+You can unsubscribe at any time.
+For further details, please refer to the Privacy Policy .
+Alternatively, you can receive some content updates in subscribing to our FeedBurner RSS feed .
+Check your inbox or spam folder now to confirm your subscription.
+Popular Posts

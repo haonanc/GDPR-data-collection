@@ -1,0 +1,59 @@
+The NPDB Privacy Policy
+The NPDB Privacy Policy
+The privacy of our customers has always been of utmost importance to the NPDB. As a federal agency, the Privacy Act of 1974 (5 U.S.C. 552a) requires us to protect certain information we collect. Specifically, if we collect information that will be placed in the National Practitioner Data Bank (NPDB) we will provide a separate Privacy Act notice at the point of collection, identifying (1) the legal authority which authorizes the collection; (2) whether the disclosure of the information is mandatory or voluntary; (3) the principal purpose(s) for the information; (4) the routine uses of the information; and (5) the effects, if any, of not providing the requested information. The Federal Register notices, which describe the Privacy Act aspects of the NPDB, can be found at 62 Fed. Reg. 12653 (1997) and 64 Fed. Reg. 7653 (1999) , respectively. The privacy policy information below applies to the data we collect over the internet, regardless of whether it is also protected by the Privacy Act.
+This is our notice about what personal information we collect; why we collect  personal information; how we use it; with whom we share it; how to get access to information; and how we protect the information we collect and maintain.
+Information Automatically Collected and Stored
+We automatically collect and temporarily store the following information about our website visitors:
+The date and time of the visit
+The website pages visited
+The IP address and screen resolution of the computer used to visit our site
+What Personal Information We Collect
+We only collect enough information to serve the mission of the NPDB. We collect the following personal information on subjects of NPDB reports and queries:
+Name
+Why We Collect Personal Information
+Information is vital to the existence of the NPDB. Without collecting the information contained in the NPDB, our mission could not be fulfilled. This information facilitates the tenets of our mission, including protecting the public, improving the quality of health care and combating fraud and abuse in health care delivery.
+We do not use the information for any other purpose
+We only collect the information necessary to fulfill our mission; no other information is collected
+How We Use Personal Information
+The personal information given at this website will be used only in connection with the administration and execution of the NPDB's mission of protecting the public and providing quality health care.
+Who We Share Personal Information With
+Personal information is only provided to registered organizations with Federal authority to query the NPDB. Information is not shared with any other non-registered third-party organizations with the exception of plaintiffs' attorneys. If a health care practitioner, health care entity, provider or supplier is reported to the NPDB, a Subject Notification Document (SND) will be mailed to the practitioner.
+Access to the Information We Collect
+The information from the NPDB is available to:
+Hospitals*
+Health plans
+State Licensing and Certification Authorities (including State Medical and Dental Boards and other State Licensing Boards)
+Quality Improvement Organizations
+State agencies administering or supervising the administration of state health care programs**
+Agencies administering Federal health care programs, including private entities administering such programs under contract
+Federal Licensing and Certification Agencies
+Federal law enforcement officials and agencies
+* Under Title IV, hospitals must query when physicians, dentists, and other health care practitioners apply for medical staff appointment (courtesy or otherwise) or for clinical privileges; and every two years on physicians, dentists, and other health care practitioners who are part of the medical staff or who hold privileges.
+** The NPDB regulations define "state law or fraud enforcement agency" to include but not to be limited to these entities.
+Health care practitioners, health care entities, providers and suppliers may self-query the NPDB regarding themselves at any time. Additionally, a plaintiff's attorney or a plaintiff representing him or herself is permitted to obtain information from the NPDB under special circumstances. Defense attorneys are not permitted access to the NPDB under law. However, the defendant practitioner may self-query the NPDB. Specific procedures for attorney requests are identified on Information for Attorneys .
+How We Protect the Security of the Information We Collect
+The internet was originally designed as an open system with no built-in security; however, we are required to protect the information we collect and maintain, and will not use the internet to do business  unless we can do so in a secure manner.
+We have extensive security controls that are tested and reviewed continually
+We are certified and accredited by Health Resources and Services Administration (HRSA)
+Protecting Personally Identifiable Information (PII)
+The NPDB is committed to protecting privacy and PII. In accordance with HHS and HRSA policy, the NPDB will not accept or send unencrypted PII via email or fax.
+PII sent to the NPDB must be transmitted in a secure and confidential manner. To aid in this effort, we recommend the following options:
+Contact the NPDB Customer Service Center at 1-800-767-6732 to discuss IQRS Secure Messaging or email encryption options
+Send all documents containing PII via US Mail or FedEx
+Our Use of "Cookies" and How It Affects Visits to Our Website
+What is a "cookie"? A cookie is a small piece of text that is sent to a computer along with a webpage when   a website is visited. The computer will give the information in the cookie only to the computer that sent it, and no other website can request it.
+The NPDB does not use cookies.
+If You Visit Other Websites
+Our website contains links to commercial and Federal organizations' websites. These websites are not within our control and may not follow the same privacy, security, or accessibility policies. Once you link to another site, you are subject to the policies of that site. However, all Federal websites are subject to the same Federal privacy, security, or accessibility mandates as ours.
+Contacting the NPDB
+Please refer to the NPDB Customer Service Center if you have questions regarding this privacy policy.
+Email address
+Sign Up!
+Exit
+Success!
+You have successfully signed up to receive the NPDB Insights. To ensure your entity is able to receive NPDB email, add npdb.hrsa.gov to your Safe Sender List .
+For organizations, notification preferences are managed through your individual user account.
+To Unsubscribe
+If you signed up by mistake, unsubscribe by sending an email to enewsletter-pub-unsubscribe@npdb.hrsa.gov .
+Note: The NPDB does not share email addresses with other parties.
+ Language       Assistance Available

@@ -1,0 +1,28 @@
+Privacy groups: 'Serial offender' Google deceived consumers with 2016 policy change
+Consumer Watchdog and Privacy Rights Clearing House last week asked the US Federal Trade Commission to investigate and punish Google for its privacy policy revision in June.
+Kim Jin-a/Newsis/AP/File
+An employee of Google Korea works at its office in Seoul, South Korea, on Nov. 18. The US-based company has been the subject of multiple complaints to the US Federal Trade Commission, including one filed last week in which privacy groups call the company 'a serial offender.'
+Loading...
+Two privacy groups have asked US regulators to investigate and punish Google over what they describe as an unfair and deceptive revision to the company's user data policies last June.
+Consumer Watchdog and Privacy Rights Clearing House filed a joint complaint Thursday with the US Federal Trade Commission (FTC), accusing the internet giant of violating the law little by little, despite repeated penalties. Google, a unit of Alphabet Inc., contends that its policy changes are part of a natural progression responding to market trends. But the privacy groups are having none of it.
+"It is clear that Google is operating without fear that it could be held to account for its conduct," the groups wrote in their complaint made public Monday. " Google is a serial offender , and the action that the FTC has taken to date has done nothing to slow Google’s intrusive violations of its users' privacy."
+The complaint argues that the company confused and misled consumers in June when it prompted them to consent to the policy revisions, which abolished a nearly decade-old data protection. Google had purchased the online advertising firm DoubleClick in 2007, eliciting concern from privacy groups who warned that DoubleClick's data could be combined to form what the New York State Consumer Protection Board ominously titled " super-profiles " that enable advertisers to relate personally identifiable user information with an individual's online history, as The Wall Street Journal reported.
+After the FTC reviewed the $3.1 billion purchase, Google said it would keep its newly acquired DoubleClick data – a massive amount of online browsing history – separate from the information it collected from other Google services, including search, maps, and email. That policy disappeared with the June revision, as ProPublica reported in October. The wording was replaced with a line saying the outside data " may be " combined with Google data.
+"By finally combining all of this information, Google has engaged in a dangerously invasive and far-reaching appropriation of user data," the privacy groups wrote in their complaint. "And the manner in which Google perpetrated this appropriation makes it that much more vexing and legally actionable: Google has done incrementally and furtively what would plainly be illegal if done all at once."
+While it is common for technology firms to update their policies and most users pay little attention, if any, to the changes, Google is in a unique position , as The Christian Science Monitor's Gloria Goodale reported from Los Angeles in April. Security and legal experts note that the company is caught up in a number of lawsuits over privacy issues and that the firm plays such an important role online that what it does has the potential to impact the entire online landscape.
+Google's influence and watchful eye even exists in American classrooms – a fact that prompted the Electronic Frontier Foundation, another privacy group, to complain to the FTC a year ago .
+The latest complaint alleges that Google violated a 2011 consent decree in which it agreed to undergo audits for 20 years and avoid misrepresenting its privacy policy changes. The company contends, however, that its latest policy update was designed "to match the way people use Google today: across many different devices," according to a statement provided to The Washington Post.
+"Before we launched this update, we tested it around the world with the goal of understanding how to provide users with clear choice and transparency," the statement continued. "As a result, it is 100 percent optional – if users do not opt-in to these changes, their Google experience will remain unchanged."
+When users were notified of the changes last June, they were asked to "turn on ... new features" on their Google accounts to gain "more control over the data Google collects and how it's used, while allowing Google to show you more relevant ads," as The Wall Street Journal reported. It was not clear until ProPublica's report more than three months later that the change had scrapped the DoubleClick data-separation policy.
+"The fact that DoubleClick data wasn’t being regularly connected to personally identifiable information was a really significant last stand ," Paul Ohm, faculty director of the Center on Privacy and Technology at Georgetown Law, told ProPublica at the time.
+Follow Stories Like This
+Get the Monitor stories you care about delivered to your inbox.
+"It was a border wall between being watched everywhere and maintaining a tiny semblance of privacy," he added. "That wall has just fallen."
+A spokesperson told the Journal that the FTC had received the latest complaint and that the agency is " closely reviewing it ."
+Next up
+Here are more stories that look at the news with empathy, insight, and hope.
+You've read 5 of 5 free stories
+Only $1 for your first month.
+Get unlimited Monitor journalism.
+Get journalism built for thinkers like you.
+Your first month is only $1.

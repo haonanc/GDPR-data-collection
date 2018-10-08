@@ -1,0 +1,73 @@
+Introduction
+ 
+ 
+BY ACCESSING OR USING THE WEBSITE OR THE APP OR ANY OTHER RALLYPOINT PRODUCT OR SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY AND OUR TERMS AND CONDITIONS.  IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE WEBSITE OR THE APP  This policy applies to registered members and visitors alike. 
+ 
+Personal Information:  In this policy, Personal Information is information that can be used to identify a natural person.  We collect the following Personal Information:  
+when you sign up (whether on the App or the Website), and  create or make changes to a RallyPoint profile, we collect the personal information you disclose on the account registration form and your profile, including your email address, password, contact information, first name, last name, gender, birthday, branch of service, rank, military specialty, current unit and duty station, professional experience or objectives, educational background, and any other information you provide at registration or add to your profile;
+ 
+Logging in via other Social Networks and Syncing Your Data
+If you login to the RallyPoint using your account information for a Social Network Site, we access and collect information about your use of the Social Network Site and information you provide to such Social Network Site.  To the extent you and the Social Network Site allow, we may access all of your information that is publicly available to other users of the Social Network Site and all information you have provided to the Social Network Site, such as login e-mail and other contact information, network statistics and updates regarding your Social Network Site account. You consent to such access and our collection, storage and use of this information in accordance with this Privacy Policy.  
+The App uses email addresses and profile ID’s to identify other members on RallyPoint with whom you may be connected on other Social Network Sites but have not connected with yet on RallyPoint. 
+If you use our contact importer feature to automatically sync your contacts from your devices, other online accounts, or other social networks to RallyPoint, we will collect and store that information.  (You can remove your address book or other synced information whenever you would like.)  If you utilize RallyPoint features that sync external email and calendar services, RallyPoint will access your email and calendar accounts, as well as  access and y store some of your email header and calendar history information in order to match it to RallyPoint and other public social media profiles. These features may also temporarily cache message content for performance reasons, in a way that is unreadable by RallyPoint and its service providers.
+​Automatically Collected Information 
+Mobile Device Information.  RallyPoint will collect and pass to third parties advertising-specific device identifiers unless you have opted-out of ad tracking for the device.  Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device.  
+Web Tracking Information: We, and our third party service providers, may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Website efficiently and to collect data related to usage of the Website and to web and email marketing conducted by us or on our behalf.  Such collected data (“Web Tracking Information”) may include the address of the websites you visited before and after you visited the Website, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Website you visit and what links you clicked on, and whether you opened email communications we send to you.  In order to collect Web Tracking Information and to make your use of the Website more efficient, we may store cookies on your computer.  In addition, the third party ad networks (“Ad Networks”) that we use to display advertising to you may also store their own cookies on your computer.  We may also use web tracking technologies that are placed in web pages on the Website or in email communications to collect information about actions that users take when they interact with the Website or such email communications, and Ad Networks and RallyPoint’s Contractors (as hereinafter defined) may also do so.  We do not correlate Web Tracking Information to individual user Personal Information.  Some Web Tracking Information may include data, such as IP address data and general segment information (e.g., your unit, career field, or information about your professional or educational background, that is unique to you.  You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Website, but this may affect the performance of the Website.
+How Do We Use the Information We Collect?
+We use the information we collect from or about you and your devices for a variety of purposes:
+Provide you with customized RallyPoint social networking and communication services via our Website or the App
+Communicate with you about your RallyPoint account or profile, your transactions with us and send you information about features on our Website and the App changes to our policies
+To allow you to grow, manage, and leverage your RallyPoint network:
+By using the RallyPoint contacts importer (or other similar mechanisms provided by RallyPoint) to upload individual contacts or your entire address book into RallyPoint. 
+By identifying your contacts already on RallyPoint; informing your contacts that you are building your RallyPoint network; providing a template to send invitations to your contacts that have not registered with RallyPoint; and suggesting people you may know but who may not be in your RallyPoint contacts. 
+RallyPoint may also use this information to show you and other members that you share the same uploaded contacts who may or may not be members.
+Consistent with local law and choices and controls that may be available to you we may use information collected from you, or from devices associated with you, to: 
+Connect you with potential military or veterans organizations which we have vetted and which we believe to have the best interest of the member in mind
+Connect you with employment opportunities
+Show you offers and promotions for our products and services or third-party products and services
+Personalize content and experiences
+Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please see "Automatically Collected Information" below.
+Optimize or improve our products, services and operations
+ 
+ 
+ 
+ 
+ 
+ 
+What Information Do We Disclose to Third Parties?
+We disclose the Personal Information we collect from or about you as follows:
+within the RallyPoint services, to your current employer and/or potential employers and recruiters who are looking to hire personnel with your skill sets;
+within RallyPoint, to companies, or organizations looking to provide services based on your unique accomplishments or background;
+to third party service providers or contractors engaged to provide services on our behalf (“Contractors”), such as performing marketing services, analyzing data and usage of the App, operating the App or providing support and maintenance services for the App, or providing customer service.  We use reasonable efforts to enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us.
+to partner organizations with whom we think our military members have a strong affinity, to facilitate the delivery of more relevant ads and email marketing (described below under "Advertising-related disclosures of information and Opt-Out instructions"); 
+to carry out your instructions, and 
+when we have your consent to share the information.
+ 
+Advertising-related disclosures of information and Opt-Out instructions.  RallyPoint is an ad-supported service.  
+We work with partner organizations with whom we think our military members have a strong affinity, to facilitate the delivery of more relevant ads and email marketing.  We do this by working with third party data brokers such as LiveRamp, who use cookies or Mobile advertising IDs to connect our data with our partner’s data, so that they can better target promotional or advertising communications to our mutual members.
+We may share your email address or other personally identifying information you provide to us with LiveRamp, our data partner. LiveRamp deidentifies this information with a hashing algorithm, and matches this information with other information about you it has collected from other sources in LiveRamp’s network , including cookies or Advertising IDs placed on your devices. When we do this, we contractually prohibit LiveRamp from re-identifying our members through their email address or other Personal Information . The deidentified information is used to deliver and measure tailored and relevant content, advertising, services, and experiences at RallyPoint, and also as you interact with other applications or websites. We also use this information to develop new services. Learn more about LiveRamp here and LiveRamp’s Privacy Policy here .  Opt out of LiveRamp sharing and uses generally here .
+We allow other companies to advertise on RallyPoint, and allow them to use cookies and similar technologies such as pixels, tags, beacons and other technologies to collect information about you.  Similarly, we may receive information about you as a result of ads we place on other websites and apps through cookies and similar technologies such as pixels, tags, beacons and other technologies.
+When we collect information about you through third-party advertising networks or other advertising, we use the information for the purposes described in this Privacy Policy.  The information practices of third-party advertising networks and their participating companies and the information practices of our other advertisers are not covered by this Privacy Policy. 
+ 
+ 
+ 
+ 
+Network Operators: Use of the RallyPoint App may involve use of the services of third party telecommunications carriers.  Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the App is not “Personal Information” and is not subject to this Privacy Policy.  We are not responsible for the acts or omissions of telecommunications carriers.
+ 
+ 
+ 
+Privacy Settings/E-Mail Preferences/Data Retention
+If you would like to close your RallyPoint account or opt-out of email updates, please visit your RallyPoint settings page where you can control all your privacy settings or close your account. If you close your account, your data will no longer be displayed on the RallyPoint network and other RallyPoint members will not be able to find you.  Your removal will not remove records of past transactions or delete information stored in our data backups and archives.  Data on past transactions and data stored in backups and archives will be maintained and/or deleted in the ordinary course of RallyPoint’s business.
+ 
+Access and Updating of Information
+ 
+General
+Security:  We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law.  However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur.  Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.
+Links: The RallyPoint website may contain links to other websites. RallyPoint is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our website and review the privacy statements of each third party website. This Privacy Policy applies solely to information collected by the Website.
+Amendments: RallyPoint may modify or amend this policy from time to time. If we make any material changes, as determined by RallyPoint, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes, which will be available for review by you at the Website.  Notwithstanding any modifications we may make, any Personal Information collected by RallyPoint from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
+ 
+ 
+Scroll
+close
+Please enter a password
+Sign Up

@@ -1,0 +1,30 @@
+What is GOG.com about?
+Hand-picking the best in gaming. A selection of great games, from modern hits to all-time classics, that you really shouldn’t miss.
+Customer-first approach. Delivering user-friendly support enriched with additional customer benefits.
+Gamer-friendly platform. We’re here to make a difference in the way you buy and play your games, giving you freedom of choice and a hassle-free experience.
+See new chat messages, friend invites, as well as important announcements and deals relevant to you
+Play, chat, and share experiences with your friends on GOG.com
+ 
+No results found
+Try adjusting the terms of your search, you can search by game titles, publishers, and developers.
+What is GOG.com about?
+Hand-picking the best in gaming. A selection of great games, from modern hits to all-time classics, that you really shouldn’t miss.
+Customer-first approach. Delivering user-friendly support enriched with additional customer benefits.
+......
+GOG Updates Privacy Policy, Will No Longer Use Geo-IP to Determine Your Region
+Share
+We’ve come to the conclusion that there are a number of issues with using a customer’s IP address to determine what offer they are being presented with from GOG.com. A good number of users can find themselves negatively impacted by a policy of using geo IP to set their region.
+For example, customers may be travelling when they want to purchase or download a game from GOG.com. In this case, automatic IP address capture might change the price or the content of the game they’re ordering (such as the default language of the installer). Further, geo IP data collection is not always right. IP addresses are not a perfect or unique identifier of location, and can report the incorrect region of users, particularly ones who are not using standard Internet connections.  Finally, we’re always very sensitive of our users’ privacy. Effective privacy protections for our users means that any data that we don’t need to collect, we shouldn’t. We only need to know the country that you’re making this purchase from, so although we originally planned to use geo-IP to determine user’s location, we’ve decided to trust our users and let them inform us as to the correct region for their purchase.
+Any of you who are having problems with your country’s location (and the offer you're presented with) can update this by going to ”My Account” and clicking on “Account & Settings."
+The change is now live on GOG.com and will effect all current purchases and preorders.
+EDIT: We'll update the privacy policy on our website to reflect this tomorrow, because we're having caching problems with it today. rest assured, the new changes are in effect even if the page doesn't show it.
+15 hours ago
+{{ language.displayLanguageMore }}
+English
+Deutsch
+Français
+Polski
+Pусский
+中文(简体)
+Currency:USDUSD
+USD

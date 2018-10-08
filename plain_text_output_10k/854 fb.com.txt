@@ -1,0 +1,83 @@
+Please note that acronym “PII” means “Personally identifiable information”
+PlugEx Software Private Limited. (“PlugEx”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use any websites owned by PlugEx (collectively, the “Site(s)” or “Website(s)”), and when they use any of PlugEx’s services.
+The Sites, Browser Plugins, Extensions and our services are collectively referred to as the “Service(s)” or “Product(s)”.
+Our Privacy Policy explains:
+Why we collect this information.
+How we use collected information for improving our services.
+It is PlugEx’s job to respect your privacy regarding any information we may collect while operating our websites.
+Confidential Data
+Third party services such as “Google Chrome Browser” can record confidential data such as browsing activities, cookies, local storage. We do not have any control over what data is recorded by third party services. Please refer to privacy policy of third party services for further clarification.
+Gathering of Personally-Identifying Information
+Certain users of our service choose to interact with PlugEx in ways that require PlugEx to gather personally-identifying information.
+The amount and type of information that PlugEx gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a account at our services to provide a name and email address.
+Those who engage in transactions with PlugEx - by purchasing access to the PlugEx paid service, for example - are asked to provide additional information, including as necessary the personal and financial information required to process those transactions.
+In each case, PlugEx collects such information only as far as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with PlugEx . PlugEx does not disclose personally-identifying information other than as described below.
+Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+How We Use Personally Identifying Information
+Your personally identifiable information is used for the following purposes :
+To provide, administer and improve our Services.
+To better understand your needs and interests.
+To fulfill requests you may make.
+To personalize our services according to your needs.
+To provide Service announcements.
+To provide you with further information and offers from us or our affiliates.
+To protect, investigate and deter against fraudulent, harmful, unauthorized or illegal activity.
+Information About Usage of License Keys
+PlugEx reserve the right to track usage of premium license key of all premium users in to avoid illegal and incorrect use of our services and products.
+Aggregated Statistics
+PlugEx may collect statistics about the behavior of visitors to its websites. PlugEx may display this information publicly or provide it to others. However, PlugEx does not disclose personally-identifying information other than as described below.
+Protection of Certain Personally-Identifying Information
+PlugEx discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations
+That need to know that information in order to process it on PlugEx’s behalf or to provide services available at PlugEx’s websites
+That have agreed not to disclose it to others.
+Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PlugEx’s websites, you consent to the transfer of such information to them. PlugEx will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above,
+PlugEx discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when PlugEx believes in good faith that disclosure is reasonably necessary to protect the property or rights of PlugEx, third parties or the public at large.
+If you are a registered user of our services and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our products.
+PlugEx takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Website Visitors
+Like most website operators, we collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PlugEx’s purpose in collecting non-personally identifying information is to better understand how our visitors use its website and to better provide related content to its visitors.
+From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. We only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+Purchase Information
+If you purchase subscriptions to our Service from our Site, we request that you provide your name, email address, billing address, credit card information, telephone number and other information necessary to open your account, complete the transaction and generate tax invoice.
+We do not collect or store your full credit card information (although we may store the last four digits for verification purposes).
+We use third party payment processing websites for processing payments. We do not have any control over information collected by third party payment processing websites. We encourage your to read privacy policy of third party payment processing websites for further clarification.
+Children
+The nature of our service appeal to people of all kinds, we do not knowingly acquire or receive personally identifiable information from children under 13. If we later learn that any user of our service is under the age of 13, we will take appropriate steps to remove that user’s information from our database and restrict that user from accessing our service.
+Security
+Security of your personally identifiable information is important to us. We follow industry standards to protect personally identifiable information.
+Please note that no system in this world is 100% secure and we do not guarantee the absolute security of your information.
+Privacy Policy Changes
+PlugEx reserve the right to make minor changes to our privacy policy page. We may notify our website visitors, clients and customers using their email address or notifications on this website. Most of the changes are likely to be minor changes, still we encourage all visitors to frequently check and re-evaluate our privacy policy page. Your continued use of this website and products and services offered on this website after a privacy policy change will indicate your acceptance of such changes.
+International Data Transfer
+Data provided by you is maintained on our servers, these servers are located at various places across the world. Your information may be transferred to, and maintained on servers that are located outside of your city, state, country or other governmental jurisdiction where the privacy laws might be different or not as protective as those in your jurisdiction.
+Third-party content
+Third-party content displayed on this website may be delivered to users by third party websites and partners. These website may use cookies , local storage and other modern browser features for tracking usage of their services. PlugEx does not have any control over tracking of this data by third parties therefore interaction of our users with functionality offered by third parties is governed by privacy policy of legal entity providing such functionality.
+Links to Other Sites and Services
+Our services may contain various links to other third party websites. We link to these websites is not a representation, authorization or endorsement with that third party websites. We do not have any control over third party websites and their actions. Other websites and services have their own privacy policies and follow different rules regarding to maintaining privacy of their users. We recommend our users to read privacy policies of other websites for further clarification.
+Testimonials
+We reserve the right to display personal testimonials of our satisfied customers on our website. With your consent we may post your testimonial along with your name. If you want to update or delete this testimonial, then you can contact us using our email address.
+Third Party Payment Processing Website
+We use third party payment processing websites for processing transactions. We do not have any control over information collected by third party payment processing websites. We encourage you to read privacy policy of payment processing websites for further clarification.
+Social Media Widgets
+Our site implements social media widgets, for example like button, share button etc. These features are either hosted by third parties or directly displayed on this website. These features are offered by third parties and they may collect personally identifying information and track your use of this site. PlugEx does not have any control over collection of this data. Your interaction with these features are governed by privacy policy of legal entity that is providing such functionality.
+Email And Mailing List Information
+We reserve the right to collect feedback / testimonials sent to us using our contact email. We reserve the right to collect contact emails sent to us using our contact us page. All emails that are sent to us are recorded on our email servers. These emails are used for improving our services.
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users.
+If you have submitted your email address or other contact information via our site, we may use this information to send you news about our services and products or promotions. We may use one or more service providers to send you information about our products.
+We will give you the ability to opt out of product related e-mails.
+Important emails, regarding to your account security and billing will be delivered to your email regardless of any other circumstances.
+Information Gathered Using Browser Features
+Products and services offered by PlugEx extensively use various browser features such as
+Cookies
+Local Storage
+Web-Sql etc.
+Personally identifiable information is stored on client’s computer and it can be accessed
+We use cookies, local storage, Web-Sql to help our products and services identify track visitors, their usage of our websites and products website, and their website access preferences.
+We encourage you to learn more about above terms on wikipedia.
+PlugEx clients and visitors who do not wish to have cookies, local storage data, web-sql data or any other personally identifiable data placed on their computers should set their browsers to refuse cookies, local storage, web-sql data before using Our websites services or products, with the drawback that certain features of websites may not function properly without the aid of these advanced features.
+Business Transfers
+If PlugEx, or substantially all of its assets were acquired, or in the unlikely event that PlugEx goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PlugEx may continue to use your personal information as set forth in this policy.
+Have Any Questions ?
+If you have any questions or concerns at all about our Privacy Policy, please feel free to contact us .
+Other

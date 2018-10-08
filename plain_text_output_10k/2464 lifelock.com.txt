@@ -1,0 +1,88 @@
+Legal > LifeLock Mobile App Privacy Policy
+This Mobile App Privacy Policy (referred to as the "Privacy Policy" herein) applies solely to the LifeLock mobile application Wallet (our "App"). By using our App, you agree that your information, including your personal information, will be handled as described in this Privacy Policy.
+This Privacy Policy supplements and incorporates by reference the following applicable additional terms (referred to herein as the "Policies"): our Service Terms and our LifeLock, Inc. Privacy Policy (posted on our website), which are all available at  https://www.lifelock.com/legal/ . In the event of a conflict between our LifeLock, Inc. Privacy Policy and this one, this one shall apply with respect to the services that are provided exclusively on the App.
+Your Affirmative Opt-in Consent
+The App requires the sharing of both your anonymized and personal information with affiliated third parties for processing, servicing, preventing fraud, joint marketing, marketing, credit evaluation, credit scoring, credit reporting, analytics and improving the App, and other activities. We also work with non-affiliated third parties to engage in marketing activities and to perform services on our behalf as described below. However, we will not share your personal information with, or sell your personal information to, any non-affiliated third parties for their own marketing purposes without your consent; rather, we use your anonymized data to identify a range of goods and services offered by non-affiliated third parties that may be of interest to you. By downloading our App, you are affirmatively opting-in and giving your affirmative consent to us to disclose your personal information, including personal financial information to affiliated and non-affiliated third parties as described herein.
+Information We Collect Directly From You
+We require you to register to use the App. To register, we will collect your name, email address, and log-in credentials. After registration, certain features of the App are available to all registered users (“Users”) (e.g., the wallet, credit score, and transaction monitoring) while other portions of the App are available only to members that subscribe to paid LifeLock services available at  https://www.lifelock.com/products/  ("Members"). Users and Members are referred to collectively as "Customers."
+You are required to provide us with some personal information to be able to use the functions offered in the App. The type of information and how much you provide to us is up to you and will depend on your desired interactions with the App. If you do not want us to use this information you should not download and use the App. Among other features, Customers may upload and store digital images of certain cards (e.g., insurance, credit card, loyalty programs, etc.) into the wallet feature. LifeLock Members may also use our App to interact with their Member Portal. Other examples of information you may elect to share with us include:
+Contact information (in addition to your name and email address, which are required, you may provide your postal address and phone number)
+Identification numbers and cards (e.g., driver’s license number)
+Social Security number
+Credit card and/or financial account data
+Loyalty card data, insurance card data, health club membership and any affinity or preference data
+Information about your transactions and information contained in receipts (e.g., credit card numbers, expiration dates, amount and method of payment, items purchased, merchant information)
+Descriptions, notes or tags that you add to your cards or receipts
+Photographs and images that you upload
+Any other information that you choose to provide to us
+Information We Collect Automatically
+We and our third party providers will track user interaction with our App. If you do not want us to collect this information from you, please do not use our App. Through various technologies (which may include cookies or similar programs designed to work with mobile apps) we will collect:
+Device ID or alternative ID where required by the platform provider
+Length of time spent on our App, what features you use, where you click within our App
+Installations
+Clicks
+Gestures
+Information We Collect About You From Other Sources
+We may obtain information about you from third party sources, such as the companies we work with to provide service to you (i.e., our service partners), affiliates, data aggregators or other public databases. We may combine the information that we collect about you from whatever source.
+How Do We Use Your Information?
+In general, we use your information to provide and improve our services, to communicate with you, for advertising, to send you offers and other promotional information, and for other related purposes. For example, we use your information, including your personal information (collectively, “information”) for the following purposes:
+To provide our App and our services to you
+To respond to your requests, including your customer service inquiries
+For marketing and advertising purposes through various marketing channels, including, without limitation, sending you promotional emails, advertising our services on third party sites and social media platforms, direct mail, and App ads. We may use the information we collect about you and other targeting criteria to identify a range of goods and services that may be of interest to you. These offers may include targeted special offers for goods and services tailored to you that are offered by us, our affiliates, and non-affiliated third parties.
+For authentication, detection and protection against identity fraud and identity theft
+To provide transaction monitoring, credit scores and related services, in particular we require submission of your Social Security number to provide you with a credit score (which we obtain from a third party) in response to your request.
+To understand how you use our App (including features used most frequently), and to improve our App and our services
+If you opt-in, to send you SMS texts and/or alerts/push notifications about your account (for example, the information that we collect automatically from you enables us to determine where to send your push notifications)
+To send you emails related to your use of our App and the service in general, including service alerts
+For research and analytics
+As we may notify you from time to time
+As permitted by law
+Sharing Your Information
+We do not share or sell your personal information to non-affiliated third parties for their own marketing or business purposes, unless you consent. We may share your information, including information that we collect directly from you, information that we collect about you from third parties, and information that we collect automatically, for the following purposes and with the following persons/entities:
+Service providers: such as entities that assist us with consulting, marketing, advertising, information technology, App usage, analytics, and any other services that we use in our operations
+To affiliated entities: our affiliates may combine your information with information that they collect about you. Our affiliates may use your information (whether alone, combined with other information, or in the aggregate) for their everyday business purposes; as part of the services that they provide to you and to third parties relating to identity verification, identity theft and identity fraud protection, credit visibility and credit decisioning; to market products and services to you (including through email); and to develop products or services
+To our business partners: where necessary to fulfill your requests or, if you consent, with business partners, including reward and enrollment partners and third party applications that may offer additional products, features or services of interest
+To a consumer reporting agency representative, to a credit reporting agency or to other organizations in order to obtain informational credit reports
+To law enforcement, government representatives or others where required by law
+To an insurance company
+To a representative of a payment verification service, financial institution, or credit card company
+In connection with the sale, purchase, merger, or reorganization
+When we believe it is necessary to protect the rights, property, safety of us or to comply with a judicial proceeding, court order, or legal process, or as evidence in litigation in which we are involved
+We also may share aggregate information about our users with third parties, including for various marketing purposes
+Email a Friend
+If you email an article to a friend, we do not collect or use that email address for any purpose.
+What Choices Do I Have?
+Notifications. You may have the option of receiving certain status alerts through push notifications and/or SMS text messages. If you choose to opt-in to receive these text messages, we will notify you when a status alert has been posted to your account, and you can log into your account and/or email to read the notification. You may cancel these notifications at any time by changing the settings in the App.
+Email Advertising. You may receive marketing messages and materials from us or our affiliates. You may opt-out of the marketing emails by following the instructions in the email and/or by contacting us as noted in the "Contact Us" section below. If you opt-out of email marketing, please note that we may continue to contact you via email regarding your services; we also may continue to market to you through other marketing channels.
+For more information about how to exercise choices about your personal information, see our LifeLock, Inc.  Privacy Policy .
+Links to Third Party Sites
+Certain portions of our App allow you to link to a third party site, to “like” an article on a social networking site, and to share articles via social networking sites. The third party’s use of the information that you post or share through that site is governed by their privacy policy, not this one.
+Security
+We take reasonable security measures to protect the information that you submit and view through our App. Please note that no App is 100% secure, and you should implement certain measures (e.g., password protection) to assist in the protection of the personal information you upload and store on your device, including entry of your Social Security number, credit card information, identification cards, or other information you choose to store in the wallet feature.
+Changes to this Privacy Policy
+WE MAY MODIFY THIS PRIVACY POLICY FROM TIME TO TIME. WHEN WE DO, WE WILL POST THOSE MODIFICATIONS  HERE  PRIOR TO THE MODIFICATIONS BECOMING EFFECTIVE. WE WILL ATTEMPT TO NOTIFY YOU OF MATERIAL MODIFICATIONS TO THIS PRIVACY POLICY, INCLUDING BY SENDING YOU A COPY OF THE UPDATED POLICY BY EMAIL IF WE HAVE YOUR EMAIL ADDRESS ON FILE. YOUR CONTINUED USE OF THE SITE OR OUR SERVICES AFTER ANY SUCH MODIFICATION MEANS THAT YOU ACCEPT THE MODIFIED PRIVACY POLICY. EACH TIME YOU USE THE APP, THE LATEST VERSION OF THE POLICY WILL BE DISPLAYED AND WILL APPLY.
+Special Notice to California Consumers
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Information to third parties for the third parties' direct marketing purposes. We may share your Personal Information with our affiliates for direct marketing, but we do not share it with unaffiliated third parties. You may request a list of our affiliates by contacting us at LifeLock, Attn.: Marketing, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. Please allow up to thirty (30) days for a response.
+Access to Personal Information and Communication with LifeLock
+If you have any questions about this Policy, please contact us at  privacy@lifelock.com , or by mail at LifeLock, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281, Attn.: Privacy Officer.
+If you would like to review the information that you have submitted to us or have questions about membership or the Services, contact us at  member.services@lifelock.com  or through phone/postal mail as noted below. Members may change/update your information by logging into your account and selecting “Update Account Information” or by contacting us directly.
+Phone: 1-800-LifeLock (543-3562)
+Postal Mail: LifeLock Member Services, 60 East Rio Salado Parkway, Suite 400, Tempe AZ 85281
+FREE
+Free Identity Protection Guide when you sign up for LifeLock emails.
+Submit
+We use the information you provide in accordance with our privacy policy.
+Text me a link
+Success! The download link has been sent to you via SMS.
+No one can prevent all identity theft.
+† LifeLock does not monitor all transactions at all businesses.
+†† Phone alerts made during normal local business hours.
+1 Credit reports, scores and credit monitoring may require an additional verification process and credit services will be withheld until such process is complete.
+° 2017 Identity Fraud Study, Javelin Strategy & Research.
+* Important Pricing & Subscription Details:
+By subscribing, you are purchasing a recurring membership that begins when your purchase is completed and will automatically renew after your first paid term.
+The price quoted today may include an introductory offer. Depending on your selection, your membership will automatically renew and be billed at the applicable monthly or annual renewal price found here . The price is subject to change, but we will always notify you in advance. This offer not combinable with other offers.
+The credit reports, scores, and credit monitoring features may require an additional verification process and credit services will be withheld until such process is complete.
+You can cancel your membership at any time here , or by contacting Member Services at: 844-488-4540 844-488-4540 . If you are an annual member and request a refund within 60-days after being billed, you are entitled to a complete refund. Otherwise, you are eligible for a pro-rated refund on any unused months through the end of your term. For more details, please visit the LifeLock Refund Policy.
+Copyright © 2018 Symantec Corp. All rights reserved.
+Symantec, the Symantec Logo, the Checkmark Logo, Norton, Norton by Symantec, LifeLock, and the LockMan Logo are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners.

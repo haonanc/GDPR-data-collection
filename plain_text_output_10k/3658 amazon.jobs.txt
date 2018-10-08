@@ -1,0 +1,259 @@
+Europe
+Amazon EU Candidate Privacy Notice
+In this Amazon EU Candidate Privacy Notice (“Notice”), references to “Amazon”, “we”, “us” and “our” will mean the hiring Amazon company (as specified in the job description or as the context of the job description provides; see for respective contact details “Questions and queries” below). Amazon and its affiliated companies will be referred to collectively as the “Amazon Group”.
+We know that you care how we use information about you and we appreciate your trust in us to do that carefully and sensibly. This Notice outlines how we collect, use and transfer (collectively “process”) the personal data of our candidates.
+Who is the controller?
+The controller is the hiring Amazon company; it determines how and why your personal data is processed. Our address can be found at “Questions and queries” below.
+Processing of your personal data
+How and why we process your personal data?
+Amazon will process your personal data for job recruiting and placement purposes, including notification of future job opportunities, and, for successful candidates, for employment purposes. You will find details on the personal data processed and the purposes for this processing below. Sometimes, these activities are carried out by third parties, including other members of the Amazon Group (see “Does Amazon share personal data with others?” below). We will inform you separately in case your personal data will be made subject to so-called automated decision-making.
+If provided to us, we process the following categories of personal data about you:
+identification data, including first name and surname;
+contact information, including home address, phone/mobile/fax number, e-mail address;
+gender, date of birth, citizenship;
+data regarding responses to screening questions (where applicable);
+background check information (where applicable);
+previous employment information, including date of hire, job title, department and business unit, work location, work status (full time, part time), data pertaining to work preferences and abilities;
+resume, including education, past work experience and references;
+information on certain health conditions (only where required by law);
+job interview notes;
+assessment results.
+Processing of this personal data is required to enable Amazon to administer the recruiting process, including the set-up of an electronic job applicant HR file, managing your application, organizing interviews – in short, the processing is necessary for us to entering into a contract with you.
+Besides, we may process your personal data for our following legitimate interests:
+In case of legal proceedings to establish, exercise or defend us against a legal claim.
+To notify you about future Amazon Group job opportunities.
+We will therefore retain your personal data for a limited period beyond an unsuccessful application. You can object to such use of your personal data (see below at “What are my rights under applicable data protection laws”).
+Where does Amazon obtain my personal data from?
+Most of the personal data we process is obtained from you when you file your application with Amazon, but we also obtain personal data about you in the course of the application process (for example, during interviews or via job assessments). Other data types may be obtained from third parties, including for example, recruitment agencies.
+In most cases, you will be required to set up an Amazon candidate online account to be able to file your application. You have the opportunity to use your external social media account, such as Facebook, Google+, LinkedIn, or Microsoft, to facilitate the set-up of your Amazon candidate online account. In that event, Amazon will be provided with the latest information from your social media account. Additional privacy terms of the social media service providers may apply.
+Does Amazon share personal data with others?
+Our Group Companies
+Personal data will only be shared across the Amazon Group in certain circumstances and where lawful to do so, for example with limited members of the human resources department or the IT department, both of which may be working for different Amazon entities. Whenever we need to share your personal data, we will only do so on a need to know basis and with selected employees for tasks within their job responsibilities. Amazon takes appropriate steps to ensure that such personnel are bound by duties of confidentiality with respect to your personal data.
+Your personal data may in particular be shared with
+Amazon Europe Core S.à.r.l. and Amazon EU S.à.r.l. in Luxembourg as various senior executive managers and HR functions are located here
+Amazon.com Services, Inc. in the USA for storing and maintaining your personal data in our electronic database
+Service Providers
+We use third party service providers (e.g. iCIMS, Inc., SalesForce Inc. or work agencies) who provide technical and support services in connection with the application and recruitment process (such as hosting or “Software as a Service”). In providing the services, your personal data will, where applicable, be processed by the service provider on Amazon’s behalf.
+We will confirm for any third party that we use that they can provide sufficient guarantees regarding the confidentiality and security of your data. We will ensure that any third party complies with our data security standards and international transfer restrictions.  
+Disclosure to third parties
+In certain circumstances, we share and/or are obliged to share your personal data with third parties outside the Amazon Group, for the purposes described above and in accordance with applicable data protection laws. These parties will act as controllers of your personal data in their own right, and they will be responsible for compliance with applicable data protection laws.
+These third parties are:
+benefits providers
+pension trustees
+Does Amazon transfer personal data to countries outside the EEA?
+We also transfer the personal data we process to countries outside the European Economic Area (”EEA”), for example, when one of our service providers (including Amazon Group companies) use staff or equipment based outside the EEA. We have put in place adequate safeguards with respect to the protection of your privacy, fundamental rights and freedoms, and the exercise of your rights, e.g. we establish an adequate level of data protection, usually through EU Standard Contractual Clauses based on the EU commission’s model clauses. If you would like to see a copy of any relevant provisions, please contact your hiring Amazon company (see “Questions and queries” below).
+How is my personal data secured?
+We maintain physical, electronic and procedural safeguards to protect the confidentiality, integrity and availability of your personal data. We have in particular taken appropriate security measures against unlawful or unauthorised processing of personal data, and against the accidental loss of, or damage to, personal data.
+How long does Amazon store my personal data?
+If your application for employment is successful and you commence employment with Amazon, your personal data will be transferred to your personnel file and will be processed for employment purposes.
+If your application for employment is not successful, we will keep your personal data for a limited period (depending on local laws) beyond the end of the application process for the purposes of (i) contacting you for future job vacancies and/or (ii) the establishment, exercise or defense of legal claims.
+What are my rights under applicable data protection laws?
+You have the right to request access to, correction, or deletion of your personal data, to ask for data portability, as well as – depending on the laws of your country - to define instructions on your personal data after your death. You are also entitled to object to the processing of your personal data in certain instances. If we process your personal data based on your consent, you may withdraw it for the future at any time. To make a data subject request, please contact us on EU-privacy-DSR@amazon.com . For general questions and queries on privacy, please contact us as outlined under  “Questions and queries” below.
+Questions and queries
+If you would like further information about your data protection rights please contact your hiring Amazon entity (or the respective data protection officer, where appointed) via EU-candidate-privacy@amazon.com or via the addresses as listed below. If you have any concern about privacy  or want to contact one of our data controllers, please contact us with a thorough description and we will try to resolve the issue for you. You can also lodge a complaint with a supervisory authority.
+Amazon company
+Avenue des Arts 27 bte 5ème étage, Brussels, 1040, Belgium
+Amazon Web Services EMEA SARL, succursale belge
+Avenue des Arts 27 bte 5ème étage, Brussels, 1040, Belgium
+The Book Depository (International) Limited
+no. 4, Andreak Zakou Street, Nicosia, 2404, Cyprus
+Amazon Logistic Prague s.r.o.
+Amazon Data Services Czech Republic s.r.o.
+Klimentska 1216/46, Prague 1, 11000, Czech Republic
+Amazon Czech Republic Services s.r.o.
+Evropská 2758/11, Dejvice, 160 00 Prague 6, Czech Republic
+A100 ROW GmbH
+AbeBooks Europe GmbH
+Amazon Distribution GmbH
+Amazon Logistik GmbH
+Amazon Deutschland Services GmbH
+Audible GmbH
+Amazon Fulfillment Germany GmbH
+Amazonstr.1, 47495 Rheinberg, Germany
+Amazon Deutschland Transport GmbH
+Amazon FC Graben GmbH
+Amazon CS Berlin GmbH
+Amazon Koblenz GmbH
+Amazon Pforzheim GmbH
+Amazon Online Germany GmbH
+Amazon VCC GmbH
+Amazon Logistik Potsdam GmbH
+Amazon Logistik Werne GmbH
+Amazon Verteilzentrum Krefeld GmbH
+Amazon Logistik Frankenthal GmbH
+Amazon Logistik Winsen GmbH
+Amazon Logistik Moenchengladbach GmbH
+Amazon Logistik Dortmund GmbH
+Amazon Logistik Westfalenhuette GmbH
+Twitch Interactive Germany GmbH
+Lovefilm Danmark A/S
+Amazon Data Services Denmark ApS
+Ørestads Boulevard 73, Copenhagen, 2300, Denmark
+Amazon Web Services, Dansk filial af Amazon Web Services EMEA SARL, Luxembourg
+Ørestads Boulevard 73, Copenhagen, 2300, Denmark
+Amazon Spain Fulfillment, S.L.U.
+Avenida De Astronomia, 24 San Fernando De Henares, Madrid, 28830, Spain
+Amazon Spain Services, S.L.
+Amazon Web Services Spain, S.L.
+Calle Ramirez de Prado, Num. 5, Madrid, 28045, Spain
+Amazon EU SARL, Sucursal en España
+Calle Ramirez de Prado, Num. 5, Madrid, 28045, Spain
+Amazon Online Spain, S.L.U.
+BCN1 Fulfillment, S.L.U.
+Avenida De Astronomia, 24 San Fernando De Henares, Madrid, 28830, Spain
+Amazon Web Services EMEA SARL, sucursal en España
+Calle Ramirez de Prado, Num. 5, Madrid, 28045, Spain
+Oy Modilis Labs
+Asianajotsto MK-Law Oy, Hirsalantie 11, Jorvas, 02420, Finland
+Amazon Data Services Finland Oy
+c/o Dittmar & Indrenius, Pohjoisesplanadi 25 A, FI-00100, Helsinki, Finland
+Amazon Web Services EMEA SARL, sivuliike Suomessa
+Aatsto MK-Law Oy, Jorvas Hitech Hirsalavägen 11, 02420 Jorvas, Finland
+Amazon France Logistique SAS
+Amazon Technological Services SAS
+Amazon Support Services France SAS
+31 place des Corolles, Tour Carpe Diem, Courbevoie, 92400, France
+Amazon Online France SAS
+Comixology Europe SAS
+Amazon France Services SAS
+Amazon City SAS
+Curse SARL
+Amazon France Transport SAS
+Amazon Data Services France SAS
+31 place des Corolles, Tour Carpe Diem, Courbevoie, 92400, France
+ORY4FULFILLMENT SAS
+ORY9SORTATION SAS
+Amazon Web Services EMEA SARL, succursale française
+31 place des Corolles, Tour Carpe Diem, Courbevoie, 92400, France
+A100 ROW, Inc. [UK Branch Office]
+1st Floor, Westcott House, 4 Ferrymuir, South Queensferry, EH30 9QZ, United Kingdom
+Amazon Development Centre (Scotland) Limited
+Waverley Gate, 2-4 Waterloo Place, Edinburgh, EH1 3EG, Scotland
+Amazon UK Services Ltd.
+Aphid Limited
+Audible Limited
+IMDB Services Limited
+Internet Movie Database Limited
+Lovefilm International Limited
+Amazon Video Limited
+Video Island Entertainment Limited
+Push Button Holdings Limited
+26-28 Glasshouse Yard, The Glasshouse, London, EC1A 4JU, England & Wales
+Amazon Development Centre (London) Limited
+Leadenhall Court, One Leadenhall Street, London, EC3V 1PP, England
+The Book Depository Limited
+Dodo Press Limited
+Evi Technologies Limited
+Amazon Web Services UK Limited
+1 Principal Place, Worship Street, London, EC2A 2FA, England
+Amazon Online UK Limited
+Amazon EU SARL, UK Branch
+1 Principal Place, Worship Street, London, EC2A 2FA, England
+Amazon Capital Services (UK) Limited
+1 Principal Place, Worship Street, London, EC2A 2FA, England
+Elemental Technologies Limited
+2nd Floor, 1310 Arlington Business Park, Theale, Reading, Theale, Reading, RG7 4SA, England
+Amazon Data Services UK Limited
+1 Principal Place, Worship Street, London, EC2A 2FA, England
+Twitch UK Limited
+Curse Limited
+Thinkbox Software UK Limited
+Amazon Web Services EMEA SARL, UK Branch
+1 Principal Place, Worship Street, London, EC2A 2FA, England
+Game Sparks Technologies Limited [UK Branch]
+1 Principal Place, Worship Street, London, EC2A 2FA, England
+Fresh & Wild Holdings Limited
+63/97, Kensington High Street, London, W8 5SE, England & Wales, United Kingdom
+Fresh & Wild Limited
+63/97, Kensington High Street, London, W8 5SE, England & Wales, United Kingdom
+Amazon Payments UK Limited
+The Book Depository International Limited
+P.O. Box 25, Regency Court, Glategny Esplanade, St Peter Port, GY1 3AP, Guernsey
+The Book Depository (Guernsey) Limited
+P.O. Box 25, Regency Court, Glategny Esplanade, St Peter Port, GY1 3AP, Guernsey
+Amazon Int'l., Inc. [Croatia Representative Office]
+Gramaca 21, Zagreb, Croatia
+Amazon CS Ireland Limited
+Unit 27, 6400 Cork Airport Business Park, Kinsale Road, Cork, Ireland
+Amazon Data Services Ireland Limited
+One Burlington Plaza, Burlington Road, Dublin 4, Ireland
+Amazon Web Services Ireland Limited
+One Burlington Plaza, Burlington Road, Dublin 4, Ireland
+FindTheBest Ireland Limited
+Game Sparks Technologies Limited
+Amazon Energy Eoraip Limited
+Amazon Web Services EMEA SARL, Irish Branch
+One Burlington Plaza, Burlington Road, Dublin 4, Ireland
+Amazon Italia Customer Services S.R.L.
+KM 6,500, Viale Monastir, Zona Industriale CACIP, Cagliari, Italy
+Amazon Italia Services S.R.L.
+Amazon Italia Logistica S.R.L.
+Amazon Web Services Italy S.R.L.
+Viale Monte Grappa 3/5, Milano, 20124, Italy
+Amazon City Logistica S.R.L.
+Amazon EU S.a r.l. [Italian Branch]
+Viale Monte Grappa 3/5, Milano, 20124, Italy
+Nice s.r.l.
+Amazon Online Italy s.r.l.
+Amazon Italia Transport S.R.L.
+Amazon Development Center Italy S.R.L.
+Viale Monte Grappa 3/5, Milano, 20124, Italy
+Amazon Web Services EMEA SARL, sede secondaria
+Viale Monte Grappa 3/5, Milano, 20124, Italy
+Amazon EU S.à r.l.
+Amazon Eurasia Holdings S.à r.l. [Macedonia Representative Office]
+Str. Mito Hadjivasilev, Jasmin No. 52v- 1/7, Skopje-Center, Macedonia, The former Republic of Yugoslavia
+A100 ROW, Inc. [Netherlands Branch Office]
+1, Johanna Westerdijkplein, EN's-Gravenhage, 2521, Netherlands
+Kiva Systems B.V.
+Amazon Development Center (Netherlands) B.V.
+1, Johanna Westerdijkplein, EN's-Gravenhage, 2521, Netherlands
+Liquavista B.V.
+Amazon Web Services Netherlands B.V.
+1, Johanna Westerdijkplein, EN's-Gravenhage, 2521, Netherlands
+Amazon Web Services EMEA SARL, Dutch Branch
+1, Johanna Westerdijkplein, EN's-Gravenhage, 2521, Netherlands
+Amazon NL International Holdings B.V.
+1, Johanna Westerdijkplein, EN's-Gravenhage, 2521, Netherlands
+Amazon Data Services Norway AS
+c/o Kvale Advokatfirma, Haakon VIIs gate 10, Oslo, 0161, Norway
+Ivona Software sp. z o.o.
+Al. Grunwaldzka 472, Gdansk, 80-309, Poland
+Amazon Web Services Poland sp. z o.o.
+9, ul. Cybernetyki, Warsaw, 02-677, Poland
+Amazon Fulfillment Poland sp. z o.o.
+ul. Poznanska 1d, Sady, Poland, 62-080
+Amazon Web Services EMEA SARL spółka z ograniczoną odpowiedzialnością Oddział w Polsce
+9, ul. Cybernetyki, Warsaw, 02-677, Poland
+Amazon Web Services EMEA SARL, Sucursal em Portugal
+Praça Duque de Saldanha, 1 Edif. Atrium Saldanha, Piso 7, Lisbon, 1050-094, Portugal
+Amazon Data Services Portugal, Lda
+Praça Duque de Saldanha, 1 Edif. Atrium Saldanha, Piso 7, Lisbon, 1050-094, Portugal
+Amazon Development Center (Romania) S.R.L.
+27A, Sf. Lazăr Street, United Business Center 5, 2nd floor, Iaşi, Iaşi County, Romania
+Twitch Sweden AB
+Amazon Web Services EMEA SARL, Sverige filial
+Kungsgatan 49, 11122 Stockholm, Sweden
+Amazon /Slovakia/ s.r.o.
+Suite 100, Námestie 1. mája 18, Park One, Bratislava, 811 06, Slovakia
+Amazon Fulfillment Slovakia s.r.o.
+5 rue Plaetis, Luxembourg, L-2338, Luxembourg
+Amazon Media EU S.à r.l.
+5 rue Plaetis, Luxembourg, L-2338, Luxembourg
+Amazon Services Europe S.à r.l.
+5 rue Plaetis, Luxembourg, L-2338, Luxembourg
+FinLux S.à r.l.
+Amazon Payments Europe S.C.A.
+Amazon Europe Core S.à r.l.
+5 rue Plaetis, Luxembourg, L-2338, Luxembourg
+Amazon Web Services EMEA SARL
+5 rue Plaetis, Luxembourg, L-2338, Luxembourg
+Amazon Global Store EU s.à r.l.
+5 rue Plaetis, Luxembourg, L-2338, Luxembourg
+Twitch Europe s.à r.l.
+Amazon International Services SARL
+Amazon EU S.à r.l.
+Changes to this Notice
+We may decide to change this Notice. If the change is fundamental or may significantly affect you, we will provide you with the updated Notice in advance of the change actually taking effect. We encourage you to review the content of this Notice regularly. 
+JOIN US ON
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation.

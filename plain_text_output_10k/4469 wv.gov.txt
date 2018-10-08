@@ -1,0 +1,65 @@
+Bring Your Page to Life!
+Click and drag your mouse anywhere on the screen to view the 360 image.
+I've got it! Don't show me this message again
+I've got it! Don't show me this message again
+OK
+Bring Your Page to Life!
+Click and drag your mouse anywhere on the screen to view the 360 image.
+ I've got it! Don't show me this message again
+OK
+​
+ 
+Use of This Policy
+ 
+PRIVACY STATEMENT
+Public Disclosure
+ 
+Visitors to the WV.gov Website
+We may collect some or all of the following information about visitors who view or download information from our website:
+​Information
+​Definition
+​Date
+​Client IP
+​Unique Internet Protocol (IP) address of the website visitor. The IP address recorded is normally that of the visitor's Internet service provider, e.g., aol.com if the visitor connects from an America Online account.
+​Server IP
+​Unique Internet Protocol (IP) address of the State of West Virginia web server accessed.
+​HTTP Status
+​Hyper Text Transfer Protocol (HTTP) error code. E.g., "404 Requested Page Not Found."
+​HTTP Request URL
+​Identifies the web page or file requested by the website visitor.
+​Bytes Sent
+​Amount of data sent from the web server to website visitor during that connection.
+​Bytes Received
+​Amount of data sent from website visitor to the web server.
+​User Agent
+​Type of web browser or other client software that made request to the web server.
+​Referrer
+​Uniform Resource Locator (URL) that referred to the requested file.
+​Protocol Version
+ 
+ 
+Personally Identifiable Information
+ 
+ 
+E-mail Messages
+ 
+Electronic Forms
+ 
+Surveys
+ 
+West Virginia Interactive Subscribers
+ 
+Cookies
+In order to better serve you, the user, we use cookies for certain types of online transactions. Cookies are small text files that a web server may ask your web browser to store, and to send back to the web server when needed. Cookies may be used to store a transaction identifier or other information a user may provide.
+We use cookies in the following ways:
+ 
+ 
+Customized Services: Cookies may also be used to automatically identify a particular user to the system, in order to provide a customized service, such as a personalized web page. In this case, a cookie containing a unique user identifier will be permanently stored on your web browser. We do not store sensitive information in such cookies; only a unique user identifier or generic preference values are stored. Personal information you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server.
+ 
+ 
+Children’s Online Privacy Protection Act
+ 
+ 
+Contact Information
+ 
+Charleston, WV 25301

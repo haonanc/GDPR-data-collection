@@ -1,0 +1,18 @@
+Search for:
+Pardot supports only permission-based email marketing.
+Spam is unsolicited commercial email, junk mail or bulk mail that has not been requested by the recipient. In addition to being perceived as intrusive, irrelevant and often offensive, it is also typical that spam emails do not contain an option to unsubscribe from the mailing list. Simply put, spam is the opposite of permission-based emails — those that are requested, anticipated, personal and relevant.
+Preventing Unsolicited Emails Via Pardot
+You may not use the Pardot Services or the products or services provided through or in connection with the Pardot Services to send unsolicited bulk email, for commercial or non-commercial purposes. Unsolicited bulk email is defined as email sent to more than 10 individuals with whom you do not have a prior business relationship.
+Also, users must accept that an unsubscribe or opt-out option will be automatically appended to every email sent via Pardot. This is not an option. In the event that a user violates any one of our usage rules, or for any other reason deemed appropriate by Pardot, Pardot reserves the right to suspend or terminate, without notice, access to the user’s account and all related data.
+Requiring Permission-Based Marketing
+Pardot requires its users to create and manage “opt-in” subscriber lists. By building and using an “opt-in” subscriber list, users can be certain that they are sending emails to recipients that have expressly given their permission to do so.
+It is also important to note that subscribers receiving email campaigns by users will only see their names in the header — all other email addresses are not viewable which makes them safer from unsolicited email abuse via other recipients of the same email campaign.
+Buying lists of email addresses from third parties and sending bulk emails to them is strongly prohibited and may result in the suspension and eventually termination of the user’s account.
+Responding to Unsolicited Email Complaints
+If a complaint is received regarding unsolicited emails being sent from our Pardot tools, an immediate investigation is undertaken.
+* Initial Warning – The user is first notified that an unsolicited email complaint has been lodged against them and: (a) Reminded of the terms they accepted in the Terms of Service. (b) Reminded that the complainant’s email address will automatically be flagged for suppression if the complainant did unsubscribe. (c) Requested to manually remove the complainant’s email address from their subscriber list if the address was not automatically suppressed because the complainant did not unsubscribe. Depending on the severity of the complaints, the user may be required to utilize a dedicated IP address at Pardot’s current market rate and at the user’s own expense.
+* Termination of account – If notifications of unsolicited emails continue after the warning, the user’s account privileges will be suspended and eventually terminated.
+Complaints?
+ 
+Request a personalized demo today!
+Ask about our products, pricing, implementation, or anything else. Our advisors are here to help you chart a course to success.

@@ -1,0 +1,66 @@
+This policy sets out how the National Library of Australia (the Library) approaches and manages the Australian Privacy Principles (APPs) contained in Schedule 1 to the  Privacy Act 1988  (Privacy Act).
+The Privacy Act regulates how Commonwealth agencies such as the Library collect, store, use and disclose personal information, and how individuals can access or correct personal information the Library holds.  It requires the Library to comply with the APPs and take reasonable steps to implement practices, procedures and systems to protect personal information.
+The Privacy Act does not apply to library material held, managed and made accessible by the Library, whether published (such as books, journals, newspapers and websites) or unpublished (oral history interviews, photographs and archival collections). 
+1.2.         Objectives
+This policy supports the principles outlined in the Privacy Act by:
+setting out how the Library manages personal information collected in accordance with the Privacy Act;
+promoting the management of all personal information held by the Library in an open and transparent way.
+1.3.         Personal and sensitive information collected by the Library
+This policy applies only to personal information the Library collects from:
+individuals who use Library services or products; request delivery of collection items for use; engage with the library via social media or stakeholder liaison; register for, or attend public events or activities; or purchase products through our bookshop.
+all Library employees, temporary staff, volunteers and contractors from who the Library collects personal information as part of personnel or IT security management.
+Personal information about individuals may be collected by the Library from the individual, or from a third party where it is not reasonably practicable to collect directly from the individual.
+The Library uses forms, online systems and other electronic or paper correspondence to collect personal information.  The Library collect personal information only if it is reasonably necessary for or directly related to one or more of the Library’s functions or activities. We only collect sensitive information with the individual’s consent.
+The Library currently collects and holds the following classes of personal information: 
+reference and user enquiries;
+applications for grants, fellowships and scholarships;
+membership records of Friends of the National Library of Australia Inc;
+records of National Library volunteers;
+user feedback database;
+surveys and evaluations;
+online event ticketing;
+Libraries Australia members;
+interlibrary loan requests;
+electronic mailing lists relating to the activities of the Library;
+personnel records;
+footage from closed circuit cameras.
+The Library holds personal information in searchable electronic data bases; financial management systems; online booking systems; Excel and Access applications; user management systems; electronic and paper files.
+Sensitive personal information
+Under the Privacy Act, ‘sensitive information’ is a subset of personal information which is afforded higher protections. Sensitive personal information includes information or opinion about an individual’s racial or ethnic origin; political opinions and association; religious beliefs or affiliations; philosophical beliefs; sexual preferences or practices; trade or professional associations and memberships; union membership; criminal record; and health or genetic information.
+1.4.         Authority and purpose for collecting personal information
+The Library collects personal information to perform its functions under section 6 of the  National Library Act 1960  and to undertake activities incidental to those functions. The Library’s functions include maintaining and developing a national collection of library material, providing library services, and cooperating in library matters with other organisations. 
+1.5.         Use and disclosure of personal information
+The Library holds, uses and discloses personal information for the particular purpose for which it was collected. For example, if you apply for a grant, the Library will use personal information to assess your grant application. The Library will not use or disclose personal information for another purpose, unless the individual provides consent, or the use or disclosure falls within an exception set out in APP 6.2. 
+1.6.         Disclosure of personal information to overseas recipients
+The Library sometimes discloses personal information to an overseas recipients, when it arranges an interlibrary loan, document delivery or the exchange of library collection metadata records. The country will depend on the location of the individual concerned.
+If personal information is disclosed overseas, the Library will take reasonable steps to ensure that the overseas recipient does not breach the APPs.
+1.7.         Security
+The Library protects personal information it holds and will take seriously and deal promptly with any accidental or unauthorised disclosure of personal information.  The Library uses a variety of electronic and physical measures to protect personal information from misuse, interference, loss and unauthorised access, modification or disclosure.
+The Library manages its online services and IT systems in accordance with the Australian Government Protective Security Policy Framework and the Australian Government Information Security Manual. 
+The Library’s IT management procedures and practices requirepersonal information to be stored on a network file server with restricted access permissions, safeguards including procedures for cleansing PCs, servers and storage systems of personal information prior to the PC being disposed or used for another purpose, use of removable media must be password-protected and stored in a secure place; and a responsible staff culture is fostered through continual information security awareness and training tailored to roles and responsibilities.  Other physical security measures are also in place included restricted physcial access to premises and use of lockable cabinets.  
+Storage and disposal of information is managed in accordance with Australian Government records management regulations, guidelines and authorities, including the Archives Act, Records Authorities and General Disposal Authorities. Access to the databases, systems and electronic and paper files is limited to authorised users only
+External service providers who handle personal information about the Library’s staff, customers or other individuals are required to comply with the requirements of the Privacy Act. 
+The Library will respond to any potential or actual data breach in accordance with its Data Breach Response Plan. The Library is required to notify any data breach which is an ‘eligible data breach’ under Part IIIC of the Privacy Act.
+Concerns regarding potential or actual data breaches should be raised with the Privacy Contact Officer.
+1.8.         Our website
+The Library publishes a  privacy notice  on its website explaining the privacy aspects of clickstream data, web analytics, cookies and e-mail.
+1.9.        Access and correction to personal information
+An individual may request access to his or her personal information held by the Library. If it is appropriate to process the request under the Freedom of Information Act 1982, we will let the individual know.
+An individual who believes that his or her personal information held by the Library is inaccurate, out-of-date, incomplete, irrelevant or misleading can request that the information be corrected.  
+A request for access or correction can be made to the Library Privacy Contact Officer.
+The Library will respond to access or correction requests within 30 days and give written reasons for any refusal to release or correct information. 
+2.      Complaints
+An individual may make a privacy complaint to the Library Privacy Contact Officer if they are unhappy with how the Library has handled his or her personal information. The Library will take reasonable steps to deal with enquiries or complaints about compliance with the APPs. The Library will send a considered response to complaints or suggestions within 30 days. The Library is committed to quick and fair resolution of complaints and will ensure that all complaints are taken seriously. 
+Complaints about the Library’s personal information handling practices may also be made to the  Office of the Australian Information Commissioner.
+3.      How to contact us
+An individual may contact the Privacy Contact Officer to:
+obtain access to their personal information;
+request amendment of their personal information
+make a complaint about a breach of privacy;
+raise a potential or actual data breach;
+query how personal information is collected, stored, used or disclosed; or
+ask questions about the Library’s privacy policy.
+General enquiries about the Library’s compliance with the Privacy Act can be made via:  
+Fax: +[02 6257 1703]
+4.      Privacy policy updates
+The Library reviews this policy every 12 months to ensure it is up-to-date.

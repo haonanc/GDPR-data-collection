@@ -1,0 +1,62 @@
+This Policy is effective July 6, 2016.
+This Privacy Notice sets forth the information gathering, use, and dissemination practices of URS Management Services, Inc. and its’ affiliates (collectively “Alltran”) in connection with the World Wide Web site located at www.alltran.com (its “Site”). This Privacy Notice addresses Alltran’s practices regarding information collected only directly through or from its Site – it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from its Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
+Alltran reserves the right to modify this Privacy Policy. We do so by posting and drawing attention to the updated Privacy policy on the Site. It is the obligation of users visiting the Site before the change to learn of changes to the Privacy Policy since their last visit. Any change to these Privacy Policy shall be effective as to any visitor who has visited the Site before the change was made.
+How Information is Collected:
+There are several ways that we could receive personal and non-personal information:
+You might provide information as a visitor to Alltran’s Site or choose to participate in some type of information exchange, including an employment inquiry or application.
+You may choose to log in to our Site using another website or service’s login information, and that website or service may transmit information to Alltran if you choose to log in through this option.
+You may transmit information either via email, chat, post or similar functionality, where we are permitted by law to collect this information.
+We may collect information automatically as you navigate through our Site. Information collected automatically may include usage details, IP addresses and information collected through cookies and other passive tracking technologies.
+What Information is Collected:
+The types of personal and non-personal information we receive may include:
+Information that identifies you individually and personally, such as name, postal address, email address, telephone number, policy or account number, government or other identification number, or any other identifier by which you may be contacted online or offline.
+Information that concerns you but may not directly identify you, such as zip code or certain demographic information.
+Technical and computer information on the domain and about the device you use to access the Site, referring location (e.g. the Internet address of the site from which you linked directly to this Site) the date and time of your visit to the Site, and other usage details.
+Technologies We Use:
+We may collect certain information by automated means when you visit our Site, such as cookies, flash cookies, web beacons, and similar technologies.
+A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. You may refuse to accept browser cookies through your browser settings. If you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site.
+A “flash cookie” is a local shared object that Adobe Flash may store on a user’s computer. Certain features of our Site may use flash cookies to collect and store information about your preferences and navigation to, from and on our Site. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server.
+We also may use third-party website analytics tools that collect information about visitor traffic on our sites and mobile applications.
+How and When Information is Used:
+Information provided by a user is used as permitted by federal, state and local regulations relating to privacy of personal information, consumer rights protection such as the Fair Debt Collection Practices Act, and relevant employment laws. We may use this information:
+To present our Site and their contents to you.
+To provide you with information, products or services that you request from us.
+To fulfill any other purpose for which you provide it, such as responding to communications that you send us, employment inquiries, or applications.
+To provide you with notices about your account and status.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+To notify you about changes to our Site or any products or services we offer or provide through them.
+To allow you to participate in interactive features on our Site, if any.
+To comply with applicable laws, regulations, and legal process.
+In any other way we may describe when you provide the information.
+To keep a record of our transactions and communications.
+As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law. Specific examples include: Analyzing our audience and use patterns for the Site; Storing information about your preferences and allowing us to direct or customize specific content to you; Recognizing you when you return to the Site or speeding-up your log in.
+For any other purpose with your consent.
+Sharing of Information
+Except for the purposes listed in this section, individual Alltran entities do not make personal information available to any third parties, specifically including other individual Alltran entities, other than as permitted by law including, but not limited to, the Fair Debt Collection Practices Act and does not sell personal information obtained on the Site to any company or marketing group.
+We may disclose identifiable information for the following purposes:
+To your creditor regarding an account placed with one of our affiliated entities at the creditor’s direction if applicable.
+Our employees, agents and/or contractors may have access to personally identifiable information to help carry out the services they are performing for us.
+To any service provider to help carry out the services they are performing on our behalf, including in relation to processing a payment on this site.
+To a third party pursuant to a subpoena, court order, or other form of legal process or in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process.
+To a third party if determined by Alltran in its sole judgment that such disclosure is appropriate to protect the life, health, or property of Alltran or any other person or entity (The foregoing is not intended to obviate or displace any legal obligations or duties applicable to Alltran).
+We may transfer information about you in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company.
+Our Site may contain links to other sites whose information practices may be different from ours. Visitors should consult the other sites’ privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties.
+How We Protect Your Information
+Alltran takes measures designed to prevent unauthorized intrusion to its Site and the alteration, acquisition or misuse of personal information by unauthorized persons. For example, we store the information you provide on computer servers with limited access that are located in controlled facilities. Your access to some services will require you to verify your identity. If there is a problem verifying identity through the Site we recommend you contact our office and speak to a representative directly.
+You may also wish to close your browser window when you have finished using our Site and have entered any personal information. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+No data transmission over the Internet is guaranteed to be 100% secure. In spite of our efforts to protect and maintain the confidentiality of any personal information you provide to our Site, Alltran cannot ensure or warrant the security of any information you transmit to us. You transmit all such information at your own risk. Please contact our offices directly if you would prefer to speak to a representative.
+Do Not Track Disclosure
+Our Site does not monitor for or behave differently if your computer transmits a “do not track” or similar beacon or message.
+Social Security Number Protection
+In the course of operating our business, we may collect or receive access to Social Security Numbers (“SSNs”). We protect the confidentiality of SSNs through various physical, technical, and administrative measures designed to protect against unauthorized access or use. We limit access to SSNs to purposes and uses that are lawful, and prohibit unlawful disclosure or use of SSNs.
+U.S. Audience
+This Site is intended for a United States audience. If you access this Site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
+California Privacy Rights
+California Civil code § 1798.83 provides certain rights to California residents, including the right to request information regarding our disclosure of personal information to third parties for marketing purposes. To request such information, please contact us as described below.
+Contact Us
+If you have any questions about this Agreement, please feel free to contact us. .
+Please note our third party collection agency affiliates, Alltran Health, Inc., Alltran Financial, LP and Alltran Education, Inc. are debt collectors, .and communication with them through this site is communications with a debt collector.
+You are now leaving the official Alltran website. You are about to access:
+Alltran does not endorse the organizations or views represented by the destination site and takes no responsibility for, and exercises no control over, the accuracy, accessibility, copyright or trademark compliance or legality of the material contained on the destination site. The site's privacy policy, if any, will govern while accessing the site.
+Please click "Go to URL" to leave this website and proceed to the destination site.

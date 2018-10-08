@@ -1,0 +1,53 @@
+| May 4, 2016 6:49 AM           PT
+Opinions expressed by ICN authors are their own.
+Privacy policy or privacy notice: what's the difference?
+To simplify the difference, a privacy policy is internally focused, telling employees what they may do with personal information, while a privacy notice is externally facing, telling customers, regulators and other stakeholders what the organization does with personal information.
+Email a friend
+From
+Sorry
+Thinkstock
+Defining a privacy policy and a privacy notice
+A privacy policy and a privacy notice are artifacts with two distinct purposes. To begin the comparison, let’s look at the definition of these two items from the glossary found on the International Association of Privacy Professionals website :
+Privacy Policy: An internal statement that governs an organization or entity’s handling practices of personal information. It is directed at the users of the personal information. A privacy policy instructs employees on the collection and the use of the data, as well as any specific rights the data subjects may have.
+Privacy Notice: A statement made to a data subject that describes how the organization collects, uses, retains and discloses personal information. A privacy notice is sometimes referred to as a privacy statement, a fair processing statement or sometimes a privacy policy. Special privacy notices are also mandated by specific laws such a GLBA and COPPA in the United States.
+To simplify the difference, a privacy policy is internally focused telling employees what they may do with personal information while a privacy notice is externally facing telling customers, regulators, and other stakeholders what the organization does with personal information.
+As they have different purposes, the content of these two artifacts are also different. A privacy policy typically contains sections to address:
+Scope
+Who the policy applies to (employees, contractors, vendors?)
+Policy statement
+Expected behavior
+An effective date
+A privacy notice typically discusses:
+What information is collected
+Who to contact
+How to opt-out / opt-in
+What to do if someone thinks there is a problem
+An effective date
+It should be noted that a privacy policy will have significantly more operational detail than a privacy notice. This is reflective of the audiences to whom the information is directed. The internally facing policy will have more details on how personal information should be handled than the privacy notice to provide direction to employees while leaving some flexibility in the commitments made to external stakeholders.
+Take for example the sharing of personal information with third parties such as a data processor. A privacy notice will typically have clauses that explains what is done with personal information. A good example of this may be found in the Staples Privacy Notice :
+We may provide your Personal Information to third parties to process this information on our behalf. We require that these parties agree to process this information based on our instructions and requirements consistent with this Privacy Statement.
+We may disclose your Personal Information to: (a) satisfy applicable law, regulations, legal process or valid governmental request; (b) enforce applicable Terms of Service, including investigation of potential violations of Terms of Service; (c) detect, prevent or mitigate fraud or security or technical issues; or (d) protect against imminent harm to the rights, property or safety of Staples, its customers or the public as required or permitted by law.
+We may disclose some elements of your Personal Information to third parties to notify you of offers or services that may be of interest to you. We do not share credit card or other financial information for marketing purposes.
+We may disclose Personal Information to third parties in connection with a merger, acquisition or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving Staples or its affiliated companies or as part of a corporate reorganization, stock or asset sale, or other change in corporate control.
+We may also disclose to third parties aggregated or other information that does not identify you individually, such as how many customers viewed a particular product or Web page, to conduct website analytics or to serve you targeted advertising.
+Comparatively, a privacy policy discusses how these activities may be done by focusing on:
+When it is permissible to share personal information.
+How the data may be transmitted (i.e. encrypted, clear text, secured, etc.).
+How information should be protected when it is shared.
+In transit to the third party
+At rest at the third party
+If and when it permissible to share de-identified information.
+How data may be de-identified.
+When and how consent for sharing must be obtained from data subjects.
+How data should be destroyed or collected from third parties when a relationship is terminated.
+Privacy policy and legal compliance
+Typically, privacy notices are developed based upon privacy policies. This enables an organization to define what is permissible and then then tell external stakeholders what is being done.
+It is critical that an organization be compliant with the clauses of their privacy notice as regulators will hold the organization accountable for meeting those commitments. The privacy policy will guide employees on how to be compliant with the privacy notice.
+Further, a proper privacy policy should facilitate legal and regulatory compliance allowing employees to focus on being “policy compliant” implicitly making them compliant with laws and regulations. The operational guidance that a privacy policy provides prevents each employee or each department from needing to be conversant with and interpret individual laws.
+If legal or regulatory requirements change that impacts how personal information should be handled within an organization, an interpretation from the legal team may be needed to determine if and how the privacy policy needs to change. The privacy office can then work with departments to implement the policy change. Future projects need only comply with the revised privacy policy to be legally and regulatory compliant.
+The privacy office may then update the privacy notice if necessary and/or appropriate. This will inform the external stakeholders what has changed in the organization’s personal information handling processes.
+It should be recognized that an organization’s privacy policy is often supplemented by individual privacy policies in some departments of divisions in different countries. These local privacy policies do not preempt the enterprise policy; they simply supplement the enterprise policy with requirements that are specific to the department’s or division’s operation.
+This article is published as part of the IDG Contributor Network. Want to Join?
+Next read this
+Follow
+Sponsored Links

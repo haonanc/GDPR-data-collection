@@ -1,0 +1,82 @@
+The purpose of this Privacy Policy is to inform you about the types of information we might collect about you when you visit our Websites, why we collect such information, how we may use that information, and whether we disclose that information to anyone.
+At TCGplayer, Inc., we value and respect our users and understand your concerns about privacy and security. We do our best to provide you with a convenient and safe online experience. This Privacy Policy applies when you visit any of our Websites or Apps or use any of our Services (described below). We offer our users choices about the data we collect, use, and share as described in this Privacy Policy.
+Websites, Apps, and Services
+Changes to This Policy
+TCGplayer may update this Privacy Policy from time to time in order to reflect, for example, changes to our privacy practices or for other operational, legal, or regulatory reasons. If we make material changes to this Privacy Policy, we will give you notice of such changes by posting the revised policy on this Website and where appropriate by other means.
+You acknowledge that your continued use of our Websites, Apps, and Services after we publish or send a notice about our changes to this Privacy Policy means that the collection, use, and sharing of your personal data is subject to the updated Privacy Policy.
+Our Privacy Policy as It Applies to Minors
+Our Websites are not purposefully directed at children under the age of 13. We do not collect or maintain personal information, via our Websites or otherwise, from those we actually know are children under 13 years of age. If you are under 13, you should not submit any personal information to us. If you are the parent of a child under 13, please help us protect your child’s privacy by instructing them never to provide personal information on TCGplayer Websites or any other without your permission.
+Why Does TCGplayer Use Cookies and Similar Tracking?
+A cookie is a small amount of data that may include a unique identifier. Cookies are sent to your browser from a website and stored on your device. We assign a different cookie to each device that accesses our website.
+We use cookies for a variety of purposes, including but not limited to:
+Recognizing your device and to provide you with a personalized experience on our websites
+Operating shopping cart functions on TCGplayer.com and associated TCGplayer Pro Online Stores
+Serving targeted ads from Google, Facebook, YouTube, and other third-party vendors
+Tracking your visits to our websites and elsewhere on the internet in order to serve you targeted ads
+What Information Do We Collect from TCGplayer Buyers and Why?
+We collect the following information from our buyers:
+Buyer name
+Payment details
+Phone number
+IP address
+Information about orders buyers initiate, along with overall buying behavior (what buyers search, which items they add to cart, etc.)
+User engagement information for all of our Websites, along with TCGplayer Pro Online Stores that buyers visit
+Information about the device and browser buyers use, including but not limited to operating system and version
+Complaints and escalations
+We use this information for a variety of purposes, including but not limited to:
+Completing your purchase transactions and providing the services you request
+Providing services to our sellers (protected under the Buyer Safeguard), including but not limited to supporting and processing orders, risk and fraud screening, authentication, and payments
+Improving our Websites, features, and services
+Conducting automated decision-making when necessary (Example: We track IP addresses or payment information to automatically block potentially fraudulent transactions.)
+Identifying your preferences so we can notify you of information or products, services, and promotions that might be of interest to you
+Measuring the advertising effectiveness of our online and other advertisements and events
+Improving merchandise selections, customer service, and the overall shopping experience
+Communicating with you by email, postal mail, telephone, text message, or other means
+In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also combine the information we collect with other public demographic information.
+What Information Do We Collect from TCGplayer Sellers and Why?
+When you initiate contact with TCGplayer either through registering as a seller on TCGplayer.com or through contact from a TCGplayer Customer Success Manager, we collect information, including but not limited to:
+Name
+Business ID and tax information
+Once on our platform, we continue to collect information, including but not limited to:
+Sales
+Complaints and escalations
+Platform messaging history
+We use this information for a variety of purposes, including but not limited to:
+Completing transactions on your behalf
+Improving customer service on your behalf
+Determining any programs or services your store qualifies for
+Marketing future services to your store
+Privacy Policy as It Applies to Sellers
+Privacy is important! As a seller, you are subject to adhere to TCGplayer’s Privacy Policy. Accordingly, if you collect any personal or sensitive information from your buyers, you also agree to obtain consent from your buyers for the use and access of their personal information by TCGplayer and other third parties. In addition, if you are collecting any sensitive personal information from your buyers, you agree to obtain affirmative, express consent from your buyers for the use and access of sensitive personal information by TCGplayer and other third parties. In addition, if you’re a seller in our TCGplayer Pro program, our Privacy Policy is stated on your TCGplayer Pro Online Store.
+Who Do We Share Your Information with and Why?
+We pass along information about your shopping cart choices, purchases, and preferences to our marketing, customer service, or other departments, as appropriate. They use this information to offer products and services to you consistent with the purposes identified in this Privacy Policy.
+Credit card and financing information is provided to credit card and consumer financing companies as is required to process applications and transactions.
+We also partner with third parties that provide us with information about prospective buyers and sellers to help us screen out individuals associated with fraud.
+We also share certain personal information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy Policy.
+For example, we use third parties to:
+Host our websites
+Operate certain features
+Manage and analyze data and our advertising effectiveness
+Fulfill gift card orders
+These third-party service providers are given the information that they need to perform their designated functions and we do not authorize them to use or disclose your personal information for their own or any others’ marketing purposes.
+On rare occasions, we may also be required to disclose your information as is required by law pursuant to lawful requests, such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to avert harm to persons or property, or to enforce this Privacy Policy.
+Your information may also be transferred as an asset in connection with a merger or sale (including any transfer made as part of insolvency or bankruptcy proceedings) involving all or part of TCGplayer’s business or as part of a corporate reorganization, stock sale or other change in corporate control.
+Our Websites may also contain links to other sites that are not owned or operated by TCGplayer. These include links to sites hosted by our service providers or partners where, for example, they provide security services or administer promotional programs. Also, links to our Websites may be featured on other websites on which we advertise. These links are not intended to be referrals or endorsements of the linked or host sites, and TCGplayer does not warrant, represent, or assume any responsibility or liability for the accuracy, security, completeness, or operation of any linked site (or any site contained in a linked site) or any host site, or the practices or privacy and other policies contained in any linked site (or any site contained in a linked site) or any host site. We advise you to familiarize yourself, therefore, with the specific legal, privacy, and security information contained in any such linked or host sites.
+Finally, our Websites may contain comment sections and embedded social media content available to our customers. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. TCGplayer assumes no liability or responsibility in connection with any customer participation in any social media platforms. Without limiting the foregoing, TCGplayer assumes no liability for any damages you may suffer because of posts made by or about you. This includes direct, incidental, consequential, indirect, or punitive damages arising out of your access to, or use of, these social media platforms. Without limiting the foregoing, everything on the TCGplayer.com social media platforms are provided to you AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+Third-Party Apps
+TCGplayer allows select developers to access TCGplayer data through APIs in order to power their app functionality and/or services. Developers using our APIs need to adhere to our Privacy Policy and Terms of Service in order to receive access to our data. Unless it’s stated as a TCGplayer app, we have no control over how these apps function and are not responsible for anything related to these apps.
+How Do We Keep Your Personal Information Secure?
+We will never disclose, share, rent, or sell personal information to other companies for the marketing of their own products and services.
+We employ various security measures designed to help protect the personal information that we collect from you online. For example, we use Secure Sockets Layer (“SSL”) encryption technology to protect the security of your credit card and personal information as it is transmitted to us. We have instituted firewalls to help protect our servers and network. Unfortunately, no collection or transmission of information over the internet can be guaranteed to be 100% secure, and therefore, we cannot ensure or warrant the security of any such information.
+You can opt out of receiving promotional email from us by indicating that preference when you register with us, by following the “unsubscribe” instructions at the bottom of any emails we may send you, or by contacting customer service.
+What Do We Do with Your Personal Information When You Terminate Your Relationship with Us?
+In general, we will continue to store archived copies of your personal information for legitimate business purposes and to comply with the law, except when we receive a valid erasure request or, if you are a seller, you terminate your account and your information is purged pursuant to our standard process.
+We will continue to store anonymous or anonymized information, such as website visits, without identifiers, in order to improve our features and services.
+TCGplayer will honor the rights of all data subjects regarding their personal data, including the right to be forgotten (see GDPR section below), when the data is no longer needed for its original purpose or the user withdraws their consent.
+We will delete backup copies of that personal data from our archives as soon as is practically possible to the extent allowed by our other data retention obligations (e.g. to protect other data stored in the same backup archives or meet other regulatory or legal requirements). As soon as those obligations have been fulfilled, we will permanently delete those archives as quickly as possible.
+TCGplayer will also retain audit logs showing the history of all operations on the customer’s personal data for the period required by legal obligations. Certain items the user might consider personal data (e.g. customer feedback may be retained according to the Terms of Service that the user agreed to when they posted). TCGplayer will always take reasonable steps to keep all personal data secure and inaccessible to unauthorized individuals.
+General Data Protection Regulation (GDPR)
+Residents in the EU have the “right to be forgotten” and we will make every attempt to comply with rules under GDPR Article 17, Paragraph 2. If you wish to initiate, we will remove personal data associated with your TCGplayer account. We will complete data deletion within 30 days for those in the European Union (EU) and within 90 days for non-European users barring any pending transactions, customer service, or fraud-related activity.
+If you are located in the European Union (EU), you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, or limit the use of your personal data. If you are a buyer, seller, partner, or visitor of TCGplayer’s websites or a user of TCGplayer’s services and wish to exercise these rights, please reach out to us using one of the following forms:
+Contact Us
+If you have any questions about your privacy or security at our Websites, please send an email to our customer service department at sales@tcgplayer.com and include your name and email address in the message.

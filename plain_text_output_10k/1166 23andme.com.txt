@@ -1,0 +1,1154 @@
+Privacy Highlights
+These "Privacy Highlights" provide an overview of some core components of our data handling practices. Please be sure to review the Full Privacy Statement .
+Information We Collect
+We generally collect the following information:
+Information we receive when you use our Services. We collect Web-Behavior Information via cookies and other similar tracking technologies when you use and access our Services (our website, mobile apps, products, software and other services). See our Cookie Policy for more information.
+Information you share directly with us. We collect and process your information when you place an order, create an account, register your 23andMe kit, complete research surveys, post on our Forums or use other messaging features, and contact Customer Care. This information can generally be categorized as Registration Information, Self-Reported Information, and/or User Content as defined in our full Privacy Statement.
+Information from our DNA testing services. With your consent, we extract your DNA from your saliva sample and analyze it to produce your Genetic Information (the As, Ts, Cs, and Gs at particular locations in your genome) in order to provide you with 23andMe reports.
+How We Use Information
+We generally process Personal Information for the following reasons:
+To provide our Services. We process Personal Information in order to provide our Service, which includes processing payments, shipping kits to customers, creating customer accounts and authenticating logins, analyzing saliva samples and DNA, and delivering results and powering tools like DNA Relatives.
+To analyze and improve our Services. We constantly work to improve and provide new reports, tools, and Services. For example, we are constantly working to improve our ability to assign specific ancestries to your DNA segments and maximize the granularity of our results. We may also need to fix bugs or issues, analyze use of our website to improve the customer experience or assess our marketing campaigns.
+For 23andMe Research, with your consent. If you choose to consent to participate in 23andMe Research, 23andMe researchers can include your de-identified Genetic Information and Self-Reported Information in a large pool of customer data for analyses aimed at making scientific discoveries.
+Control: Your Choices
+23andMe gives you the ability to share information in a variety of ways. You choose:
+To store or discard your saliva sample after it has been analyzed.
+Which health report(s) you view and/or opt-in to view.
+When and with whom you share your information, including friends, family members, health care professionals, or other individuals outside our Services, including through third party services that accept 23andMe data and social networks.
+To give or decline consent for 23andMe Research. By agreeing to the Research Consent Document, Individual Data Sharing Consent Document, or participating in a 23andMe Research Community you can give consent for the use of your data for scientific research purposes.
+To delete your 23andMe account and data, at any time.
+Access To Your Information
+Your Personal Information may be shared information in the following ways:
+With our service providers, including our genotyping laboratory, as necessary for them to provide their services to us.
+With research collaborators, only if you have given your explicit consent.
+23andMe will not sell, lease, or rent your individual-level information to any third party or to a third party for research purposes without your explicit consent.
+We do not share customer data with any public databases.
+We will not provide any person’s data (genetic or non-genetic) to an insurance company or employer.
+We will not provide information to law enforcement or regulatory authorities unless required by law to comply with a valid court order, subpoena, or search warrant for genetic or Personal Information (visit our Transparency Report ).
+How We Secure Information
+De-identification/Pseudonymization, encryption, and data segmentation. Registration Information is stripped from Sensitive Information, including genetic and phenotypic data. This data is then assigned a random ID so the person who provided the data cannot reasonably be identified. 23andMe uses industry standard security measures to encrypt sensitive personal data both when it is stored (data-at-rest) and when it is being transmitted (data-in-flight). Additionally, data are segmented across logical database systems to further prevent re-identifiability.
+Limiting access to essential personnel. We limit access of information to authorized personnel, based on job function and role. 23andMe access controls include multi-factor authentication, single sign-on, and a strict least-privileged authorization policy.
+Detecting threats and managing vulnerabilities. 23andMe uses state of the art intrusion detection and prevention measures to stop any potential attacks against its networks. We have integrated continuous vulnerability scanning in our build pipeline and regularly engage third party security experts to conduct penetration tests.
+Risks and Considerations
+There may be some consequences of using 23andMe Services that you haven't considered.
+You may discover things about yourself and/or your family members that may be upsetting or cause anxiety and that you may not have the ability to control or change.
+You may discover relatives who were previously unknown to you, or may learn that someone you thought you were related to is not your biological relative.
+In the event of a data breach it is possible that your data could be associated with your identity, which could be used against your interests.
+Full Privacy Statement
+This Privacy Statement applies to all websites owned and operated by 23andMe, Inc ("23andMe"), including www.23andme.com , and any other websites, pages, features, or content we own or operate, and to your use of the 23andMe mobile app and any related Services. Our Privacy Statement is designed to help you better understand how we collect, use, store, process, and transfer your information when using our Services.
+Please carefully review this Privacy Statement and our Terms of Service . By using our Services, you acknowledge all of the policies and procedures described in the foregoing documents. If you do not agree with or you are not comfortable with any aspect of this Privacy Statement or our Terms of Service you should immediately discontinue use of our Services.
+Contents
+1. Key Definitions
+Aggregate Information: information that has been combined with that of other users and analyzed or evaluated as a whole, such that no specific individual may be reasonably identified.
+De-identified Information: information that has been stripped of your Registration Information (e.g., your name and contact information) and other identifying data such that you cannot reasonably be identified as an individual, also known as pseudonymized information.
+Individual-level Information: information about a single individual's genotypes, diseases or other traits/characteristics, but which is not necessarily tied to Registration Information.
+Personal Information: information that can be used to identify you, either alone or in combination with other information. 23andMe collects and stores the following types of Personal Information:
+Registration Information: information you provide about yourself when registering for and/or purchasing our Services (e.g. name, email, address, user ID and password, and payment information).
+Genetic Information: information regarding your genotypes (i.e. the As, Ts, Cs, and Gs at particular locations in your genome), generated through processing of your saliva by 23andMe or by its contractors, successors, or assignees; or otherwise processed by and/or contributed to 23andMe.
+Self-Reported Information: information you provide directly to us, including your disease conditions, other health-related information, personal traits, ethnicity, family history, and other information that you enter into surveys, forms, or features while signed in to your 23andMe account.
+Sensitive Information: information about your health, Genetic Information, and certain Self-Reported Information such as racial and ethnic origin, sexual orientation, and political affiliation.
+User Content: all information, data, text, software, music, audio, photographs, graphics, video, messages, or other materials - other than Genetic Information and Self-Reported Information-generated by users of 23andMe Services and transmitted, whether publicly or privately, to or through 23andMe.
+Web-Behavior Information: information on how you use 23andMe Services collected through log files, cookies, web beacons, and similar technologies, (e.g., browser type, domains, page views).
+2. Information we collect
+Information you provide directly to us
+Registration Information. When you purchase our Services or create a 23andMe account and register your kit, we collect Personal Information, such as your name, date of birth, billing and shipping address, payment information (e.g., credit card) and contact information (e.g. email, phone number and license number).
+Self-Reported Information. You have the option to provide us with additional information about yourself through surveys, forms, features and applications. For example, you may provide us with information about your personal traits (e.g., eye color, height), ethnicity, disease conditions (e.g. Type 2 Diabetes), other health-related information (e.g. pulse rate, cholesterol levels, visual acuity), and family history information (e.g. information similar to the foregoing about your family members). Before you disclose information about a family member, you should make sure you have permission from the family member to do so.
+User Content. Some of our Services allow you to create and post or upload content, such as data, text, software, music, audio, photographs, graphics, video, messages, or other materials that you create or provide to us through either a public or private transmission ("User Content"). For example, User Content includes any discussions, posts, or messages you send on 23andMe's Forums.
+Blogs and Forums. Our website offers publicly accessible blogs. Additionally, 23andMe customers may participate in our online Forums. You should be aware that any information you provide or post in these areas may be read, collected, and used by others who access them. To request that we remove or de-identify your Personal Information from our blog or Forums, contact us at privacy@23andme.com . Please note that whenever you post something publicly, it may sometimes be impossible to remove all instances of the posted information, for example, if someone has taken a screenshot of your posting. Please exercise caution before choosing to share Personal Information publicly on our blogs, Forums or in any other posting. You may be required to register with a third party application to post a comment. To learn how the third party application uses your information, please review the third party's privacy statement.
+Social media features and widgets. Our Services include Social Media Features, such as the Facebook "Like" or "Share" button and widgets ("Features"). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. They may also allow third-party social media services to provide us information about you, including your name, email address, and other contact information. The information we receive is dependent upon your privacy settings with the social network. Features are either hosted by a third-party or hosted directly on our site. Your interactions with these Features are governed by the privacy statements of the third party companies providing them. You should always review and, if necessary, adjust your privacy settings on third party websites and services before linking or connecting them to our website or Service.
+Third party services (e.g., social media). If you use a third party site, such as Facebook or Twitter, in connection with our Services to communicate with another person (e.g., to make or post referrals or to request that we communicate with another person), then in addition to that person's name and contact information, we may also collect other information (e.g., your profile picture, network, gender, username, user ID, age range, language, country, friends lists or followers) depending on your privacy settings on the third party site. We do not control the third party site's information practices, so please review the third party’s privacy statement and your settings on the third party’s site carefully.
+Referral information and sharing. When you refer a person to 23andMe or choose to share your 23andMe results with another person, we will ask for that person's email address. We will use their email address solely, as applicable, to make the referral or to communicate your sharing request to them, and we will let your contact know that you requested the communication. By participating in a referral program or by choosing to share information with another person, you confirm that the person has given you consent for 23andMe to communicate (e.g., via email) with him or her. The person you referred may contact us at privacy@23andme.com to request that we remove this information from our database. For more information on our referral program, see here .
+Gifts. If you provide us with Personal Information about others, or if others give us your information, for the purpose of ordering the Service as a gift, we will only use that information for the specific reason for which it was provided to us. Once a gift recipient registers for his or her Services and agrees to our Privacy Statement , our Terms of Service , and if applicable, certain Consent Documents , his or her Personal Information will be used in manners consistent with this Privacy Statement, and will not be shared with the purchaser, unless they independently choose to share their own Personal Information through the Services with the purchaser.
+Customer service. When you contact Customer Care or correspond with us about our Service, we collect information to: track and respond to your inquiry; investigate any breach of our Terms of Service , Privacy Statement or applicable laws or regulations; and analyze and improve our Services.
+Information related to our genetic testing services
+Saliva sample and biobanking. To use our genetic testing services, you must purchase, or receive as a gift, a 23andMe Personal Genetic Service testing kit, create an online account and register your kit, and ship your saliva sample to our third party laboratory. Our laboratory will extract your DNA from your saliva sample for analysis. During kit registration you are asked to review our Consent Document for Sample Storage and Additional Genetic Analyses . Unless you consent to sample storage (“Biobanking”) and additional analyses, your saliva sample and DNA are destroyed after the laboratory completes its work, subject to the laboratory's legal and regulatory requirements. You can update your sample storage preference to discard a stored sample within your Account Settings once your sample has completed processing.
+Genetic Information. Information regarding your genotype (e.g. the As, Ts, Cs, and Gs at particular locations in your genome), your Genetic Information, is generated when we analyze and process your saliva sample, or when you otherwise contribute or access your Genetic Information through our Services. Genetic Information includes the 23andMe results reported to you as part of our Services, and may be used for other purposes, as outlined in Section 3 below.
+Web-Behavior Information collected through tracking technology (e.g. from cookies and similar technologies)
+We and our third party service providers use cookies and similar technologies (such as web beacons, tags, scripts and device identifiers) to:
+help us recognize you when you use our Services;
+customize and improve your experience;
+provide security;
+analyze usage of our Services (such as to analyze your interactions with the results, reports, and other features of the Service);
+gather demographic information about our user base;
+offer our Services to you;
+monitor the success of marketing programs; and
+serve targeted advertising on our site and on other sites around the Internet.
+If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. For more information, including the types of cookies found on 23andMe and how to control cookies, please read our Cookie Policy.
+We may receive reports based on the use of these technologies from third party service providers as de-identified, Individual-level Information or as Aggregate Information (as described in section 4.c). We and our third party service providers do not use your Sensitive Information, such as Genetic Information  and Self-Reported Information , for targeted advertising.
+Google Analytics. Google Analytics is used to perform many of the tasks listed above. We use the User-ID feature of Google Analytics to combine behavioral information across devices and sessions (including authenticated and unauthenticated sessions). We have enabled the following Google Analytics Advertising features: Remarketing, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and DoubleClick Campaign Manager integration. We do not merge information collected through any Google advertising product with individual-level information collected elsewhere by our Service. Learn more about how Google collects and uses data here . To opt out of Google Analytics Advertising Features please use Google Ad Settings . To opt out of Google Analytics entirely please use this link .
+Other Types of Information
+We continuously work to enhance our Services with new products, applications and features that may result in the collection of new and different types of information. We will update our Privacy Statement and/or obtain your prior consent to new processing, as needed.
+3. How we use your information
+23andMe will use and share your Personal Information with third parties only in the ways that are described in this Privacy Statement.
+To provide you with Services and analyze and improve our Services
+We use the information described above in Section 2 to operate, provide, analyze and improve our Services. These activities may include, among other things, using your information in a manner consistent with this Privacy Statement to:
+open your account, enable purchases and process payments, communicate with you, and implement your requests (e.g., referrals);
+enable and enhance your use of our website and mobile application(s), including authenticatint your visits, providing personalized content and information, and tracking your usage of our Services;
+contact you about your account, and any relevant information about our Services (e.g. policy changes, security updates or issues, etc.);
+enforce our Terms of Service and other agreements;
+monitor, detect, investigate and prevent prohibited or illegal behaviors on our Services, to combat spam and other security risks; and
+perform research & development activities, which may include, for example, conducting data analysis and research in order to develop new or improve existing products and services, and performing quality control activities.
+For individuals located in the European Economic Area (“EEA”), United Kingdom, or Switzerland (collectively the “Designated Countries”): We process your Personal Information in this way to provide our Services to you in accordance with our Terms of Service.
+To process, analyze and deliver your genetic testing results
+As described above, to receive results through the Personal Genetic Service, you must create a 23andMe account, register your kit, and submit your saliva sample to our contracted genotyping laboratory, which processes and analyzes your sample to provide us with your raw Genetic Information. Once we receive your raw Genetic Information from the laboratory, we further analyze it to provide you with our health and/or ancestry reports, dependent on the Service purchased. 23andMe continuously works to improve our Services based on our research and product development, and genetic associations identified in scientific literature. If you are eligible to receive additional reports or updates in the future, you may be notified of or may directly access these updates.
+For individuals located in the Designated Countries: We process your Personal Information in this way is to provide our Services to you in accordance with our Terms of Service.
+To allow you to share your Personal Information with others
+23andMe gives you the ability to share information, including Personal Information, through the Services. You have the option to share directly with individuals with 23andMe accounts through (i) our Forums, (ii) relative finding features (e.g., "DNA Relatives"), (iii) other sharing features and tools. You may also have the ability to share information directly with individuals who have not participated in our Service via a unique, shareable URL or through a social media platform (such information is "User Content"). Some sharing features, including receiving sharing invitations, may require that you opt-out, however you will always be required to take a positive action, such as opting in, to share sensitive data.
+For individuals located in the Designated Countries: Our legal basis for processing your Personal Information for the purpose described above is based on your consent. You may withdraw your consent at any time, however, the withdrawal of your consent will not affect the lawfulness of processing based on consent before its withdrawal.
+To allow you to share your Personal Information for 23andMe Research purposes
+You have the choice to participate in 23andMe Research by providing your consent. "23andMe Research" refers to research aimed at publication in peer-reviewed journals and other research funded by the federal government (such as the National Institutes of Health - NIH) conducted by 23andMe.
+23andMe Research may be sponsored by, conducted on behalf of, or in collaboration with third parties, such as non-profit foundations, academic institutions or pharmaceutical companies.  23andMe Research may study a specific group or population, identify potential areas or targets for therapeutics development, conduct or support the development of drugs, diagnostics or devices to diagnose, predict or treat medical or other health conditions, work with public, private and/or non-profit entities on genetic research initiatives, or otherwise create, commercialize, and apply this new knowledge to improve health care. 23andMe Research uses Aggregate and/or Individual-level Genetic Information and Self-Reported Information as specified in the appropriate Consent Document(s), as explained in greater detail below.
+Your De-identified Genetic and Self-Reported Information may be used for 23andMe Research only if you have consented to this use by completing a Consent Document. If you have completed the Main Research Consent Document:
+Your Genetic Information and/or Self-Reported Information will be used for research purposes, but it will be de-identified and will not be linked to your Registration Information.
+23andMe may use individual-level Genetic Information and Self-Reported Information internally at 23andMe for research purposes.
+23andMe may share summary statistics, which do not identify any particular individual or contain individual-level information, with our qualified research collaborators.
+If you have completed the Individual Level Data Sharing Consent , or additional consent agreement, in addition to the uses above under the Main Consent Document, 23andMe may share De-identified Individual-level Genetic Information and Self-Reported Information with select third party research collaborators for 23andMe partners for Research purposes.
+Withdrawing your Consent. You may withdraw your consent to participate in 23andMe Research at any time by changing your consent status within your Account Settings. If you experience difficulties changing your consent status, contact the Human Protections Administrator at hpa@23andMe.com . 23andMe will not include your Genetic Information or Self-Reported Information in studies that start more than 30 days after you withdraw (it may take up to 30 days to withdraw your information after you withdraw your consent). Any research involving your data that has already been performed or published prior to your withdrawal from 23andMe Research will not be reversed, undone, or withdrawn. You may also discontinue your participation in 23andMe Research by deleting your 23andMe account (as described in section 5.d).
+What happens if you do NOT consent to 23andMe Research? If you choose not to complete a Consent Document or any additional agreement with 23andMe, your Personal Information will not be used for 23andMe Research. However, your Genetic Information and Self-Reported Information may still be used by us and shared with our third party service providers to as outlined in this Privacy Statement.
+For individuals located in the Designated Countries: Our legal basis for processing your Sensitive Information for the purpose described above is based on your consent. You may withdraw your consent at any time, however, the withdrawal of your consent will not affect the lawfulness of processing based on consent before its withdrawal.
+To recruit you for external research
+Research is an important aspect of 23andMe’s Services and we want to ensure interested participants are aware of additional opportunities to contribute to interesting, novel scientific research conducted by academic institutions, healthcare organizations, pharmaceutical companies, and other groups. If you have chosen to participate in 23andMe Research, from time to time we may inform you of third party research opportunities for which you may be eligible. For example, if a university tells us about a new cancer research project, we may send an email to 23andMe research participants who potentially fit the relevant eligibility criteria based on their Self-Reported Information to make them aware of the research project and provide a link to participate with the research organization conducting the study. However we will not share Individual-level Genetic Information or Self-Reported Information with any third party without your consent. If you do not wish to receive these notifications, you can manage them by editing your preferences in your Account Settings.
+For individuals located in the Designated Countries: Our legal basis for processing your Sensitive Information for the purpose described above is based on your consent. You may  withdraw your consent at any time, however, the withdrawal of your consent will not affect the lawfulness of processing based on consent before its withdrawal.
+To provide customer support
+When you contact Customer Care, we may use or request Personal Information, including Sensitive Information, as necessary to answer your questions, resolve disputes, and/or investigate and troubleshoot problems or complaints. In some instances, we may be required to process one customer’s Personal Information to resolve another customer’s dispute or request. For example, if a customer reports behavior that violates our Terms of Service, we will separately process both customers’ Personal Information and respond separately to each individual as appropriate. We will not share your Personal Information with another customer without your consent.
+For individuals located in the Designated Countries: Our legal basis for processing your Personal Information for the purpose described above depends on the nature of the customer support request. Our legal basis can be to satisfy our contractual or legal obligations and/or our legitimate interest to improve our Services.
+To conduct surveys or polls, and obtain testimonials
+We value your feedback and may send you surveys, polls, or requests for testimonials to improve and optimize our Services. You are in control of the information you would like to share with us. If you do not wish to receive these requests, you can manage them in your Account Settings.
+For individuals located in the Designated Countries: Our legal basis for processing your Personal Information for the purpose described above is based on our legitimate interest. We think it is important to continue improving our Services to ensure your continued enjoyment.
+To provide you with marketing communications
+By creating a 23andMe account, you are agreeing that we may send you product and promotional emails or notifications about our Services, and offers on new products, services, promotions or contests. You can unsubscribe from receiving these marketing communications at any time. To unsubscribe, click the email footer “unsubscribe” link or go to the “Preferences” section of your Account Settings to edit your email notification preferences. You may not opt-out of receiving non-promotional messages regarding your account, such as technical notices, purchase confirmations, or Service-related emails.
+Individuals located in Designated Countries should review Section 9.d. to understand our marketing practices in relation to the Designated Countries.
+4. Information we share with third parties
+General service providers.
+We share the information described above in Section 2 with our third party service providers, as necessary for them to provide their services to us and help us perform our contract with you. Service providers are third parties (other companies or individuals) that help us to provide, analyze and improve our Services. While 23andMe directly conducts the majority of data processing activities required to provide our Services to you, we engage some third party service providers to assist in supporting our Services, including in the following areas:
+Order fulfillment and shipping. Our payment processor processes certain Registration Information, such as your billing address and credit card information, as necessary to enable you to purchase a 23andMe kit from the 23andMe.com online store. Our distribution centers ship your kit(s) to you, and in some cases help return your kit safely to our third party laboratory so your sample can be processed.
+Our CLIA-certified genotyping lab. To use our genetic testing services, you must purchase, or receive as a gift, a 23andMe Personal Genetic Service testing kit, and ship your saliva sample to our third party laboratory. Once delivered, receiving personnel at the laboratory remove and discard kit packaging, which in some cases may contain "sender information" (e.g., name, address), before testing personnel receive the samples for processing. Receiving personnel do not perform testing, and testing personnel handle saliva samples that are only identified by a unique barcode. When the laboratory has completed their analysis, they securely send the resulting Genetic Information to us identified by your unique barcode.
+During kit registration, you are asked to review our Consent Document for Sample Storage and Additional Genetic Analyses. Unless you consent to Biobanking and additional analyses, your saliva sample and DNA are destroyed after the laboratory completes its work, subject to the laboratory's legal and regulatory requirements. Should you wish to update your sample storage preference to discard a stored sample, you can do so within your Account Settings once your sample has completed processing. As detailed further in Section 5.d. (Account Deletion) our contracted genotyping laboratory will retain certain information as necessary to comply with applicable regulatory and legal obligations.
+Customer Care support. Our Customer Care team uses a number of tools to help organize and manage the requests we receive. These tools help to ensure we provide timely, high quality support.
+Cloud storage, IT, and Security. Our cloud storage providers provide secure storage for information in 23andMe databases, ensure that our infrastructure can support continued use of our Services by 23andMe customers, and protect data in the event of a natural disaster or other disruption to the Service. Our IT and security providers assist with intrusion detection and prevention measures to stop any potential attacks against our networks. We have these third party experts perform regular penetration tests and periodically audit 23andMe’s security controls.
+Marketing and analytics. When you use our Services, including our website or mobile app(s), our third party service providers may collect Web-Behavior Information about your visit, such as the links you clicked on, the duration of your visit, and the URLs you visited. This information can help us improve site navigability and assess our Marketing campaigns. Per applicable data protection regulations, our EU, UK, and International websites present visitors with a cookie opt in to allow the processing described above via Functionality and Advertising Cookies.
+NOTE: Our service providers act on 23andMe's behalf. We implement procedures and maintain contractual terms with each service provider to protect the confidentiality and security of your information. However, we cannot guarantee the confidentiality and security of your information due to the inherent risks associated with storing and transmitting data electronically.
+"Targeted advertising" service providers
+We permit third party advertising networks and providers to collect Web-Behavior Information regarding the use of our Services to help us to deliver targeted online advertisements ("ads") to you. They use cookies and similar technologies, to gather information about your browser's or device's visits and usage patterns on our Services and on other websites over time, which helps to better personalize ads to match your interests, and to measure the effectiveness of ad campaigns. For more information about our marketing practices, please review our Cookie Policy .
+Aggregate information
+We may share Aggregate Information, which is information that has been stripped of your name and contact information and combined with information of others so that you cannot reasonably be identified as an individual, with third parties. This Information is different from "Individual-level" information and is not Personal Information because it does not identify any particular individual or disclose any particular individual’s data. For example, Aggregate Information may include a statement that "30% of our female users share a particular genetic trait," without providing any data or testing results specific to any individual user. In contrast, Individual-level Genetic Information  or Self-Reported Information consists of data about a single individual's genotypes, diseases or other traits/characteristics information and could reveal whether a specific user has a particular genetic trait, or consist of all of the Genetic Information about that user. 23andMe will ask for your consent to share Individual-level Genetic Information or Self-Reported Information with any third party, other than our service providers as necessary for us to provide the Services to you.
+Information we share with commonly owned entities
+We may share some or all of your Personal Information with other companies under common ownership or control of 23andMe, which may include our subsidiaries, our corporate parent, or any other subsidiaries owned by our corporate parent in order to provide you better service and improve user experience. Generally, sharing such information is necessary for us to perform on our contract with you. We may provide additional notice and ask for your prior consent if we wish to share your Personal Information with our commonly owned entities in a materially different way than discussed in this Privacy Statement.
+As required by law
+Under certain circumstances your Personal Information may be subject to processing pursuant to laws, regulations, judicial or other government subpoenas, warrants, or orders. For example, we may be required to disclose Personal Information in coordination with regulatory authorities in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 23andMe will preserve and disclose any and all information to law enforcement agencies or others if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal or regulatory process (such as a judicial proceeding, court order, or government inquiry) or obligations that 23andMe may owe pursuant to ethical and other professional rules, laws, and regulations; (b) enforce the 23andMe Terms of Service and other policies; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of 23andMe, its employees, its users, its clients, and the public. View our Transparency Report for more information.
+NOTE: If you are participating in 23andMe Research, 23andMe will withhold disclosure of your Personal Information involved in such Research in response to judicial or other government subpoenas, warrants or orders in accordance with any applicable Certificate of Confidentiality that 23andMe has obtained from the National Institutes of Health (NIH). There are limits to what the Certificate of Confidentiality covers so please visit the Certificates of Confidentiality Kiosk .
+Business transactions
+In the event that 23andMe goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets your Personal Information will likely be among the assets transferred. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Statement.
+5. Your choices
+Access to your account
+We provide access to your 23andMe data within your 23andMe account. You can access and download data processed by 23andMe within your Account Settings and within applicable Reports, Tools, and features. If you lose access to your 23andMe account or account email address, please contact Customer Care for assistance. If you lose access to your 23andMe account, in certain circumstances, we may require that you submit additional information sufficient to verify your identity before providing access or otherwise releasing information to you. If you choose not to submit the required documentation, or the information provided is not sufficient for the purposes sought, 23andMe will not be able to sufficiently verify your identity in order to complete your request.
+You may access, correct or update most of your Registration Information on your own within your Account Settings. You may also review and update your consent to 23andMe Research and Biobanking. You may be able to correct Self-Reported Information entered into a survey, form, or feature within your account, such as on the surveys page , by clicking “Edit your answers here.” Please note that you may not be able to delete User Content that has been shared with others through the Service and that you may not be able to delete information that has been shared with third parties.
+Individuals located in Designated Countries should review Section 9.e. to understand their rights to access Personal Information.
+Marketing communications
+As noted in Section 3.h. you may be asked to opt-in to receive product and promotional emails or notifications when creating your 23andMe account depending on where you are located. Otherwise, you may view or update your email notification preferences by visiting your Account Settings or by contacting our Privacy Administrator at privacy@23andMe.com . You can also click the "unsubscribe" button at the bottom of promotional email communications.
+Sharing outside of the 23andMe Services
+You may decide to share your Personal Information with friends and/or family members, doctors or other health care professionals, and/or other individuals outside of our Services, including through third party services such as social networks and third party apps that connect to our website and mobile apps through our application programming interface ("API"). These third parties may use your Personal Information differently than we do under this Privacy Statement. Please make such choices carefully and review the privacy statements of all other third parties involved in the transaction. 23andMe does not endorse or sponsor any API applications, and does not affirm the accuracy or validity of any interpretations made by third party API applications.
+In general, it can be difficult to contain or retrieve Personal Information once it has been shared or disclosed. 23andMe will have no responsibility or liability for any consequences that may result because you have released or shared Personal Information with others. Likewise, if you are reading this because you have access to the Personal Information of a 23andMe customer through a multi-profile account, we urge you to recognize your responsibility to protect the privacy of each person within that account. Users with multi-profile accounts (i.e., where multiple family members register their kits to one account) should use caution in setting profile-level privacy settings.
+Account deletion
+If you no longer wish to participate in our Services, or no longer wish to have your Personal Information be processed, you may delete your 23andMe account and Personal Information within your Account Settings. Once you submit your request, we will send an email to the email address linked to your 23andMe account detailing our account deletion policy and requesting that you to confirm your deletion request. Once you confirm your request to delete your account and data, your account will no longer be accessible while we process your request. Once you confirm your request, this process cannot be cancelled, undone, withdrawn, or reversed. When your account is deleted, all associated Personal Information is deleted and any stored samples are discarded, subject to the following limitations:
+Information previously included in 23andMe Research. As stated in any applicable Consent Document, Genetic Information and/or Self-Reported Information that you have previously provided and for which you have given consent to use in 23andMe Research cannot be removed from completed studies that use that information. Your data will not be included in studies that start more than 30 days after your account is closed (it may take up to 30 days to withdraw your information after your account is closed).
+Legal Retention Requirements. 23andMe and our third party genotyping laboratory will retain your Genetic Information, date of birth, and sex as required for compliance with applicable legal obligations, including the federal Clinical Laboratory Improvement Amendments of 1988 (CLIA) and CA Business and Professional Code Section 1265 and CAP accreditation requirements. 23andMe will also retain limited information related to your account and data deletion request, including but not limited to, your email address, account deletion request identifier, and record of legal agreements for a limited period of time as required by contractual obligations, and/or as necessary  for the establishment, exercise or defense of legal claims and for audit and compliance purposes.
+6. Security measures
+23andMe takes seriously the trust you place in us. 23andMe implements physical, technical, and administrative measures to prevent unauthorized access to or disclosure of your information, to maintain data accuracy, to ensure the appropriate use of information, and otherwise safeguard your Personal Information.
+23andMe produces secure applications by design. 23andMe incorporates explicit security reviews in the software development lifecycle, quality assurance testing and operational deployment.
+De-identification/Pseudonymization. Registration Information is stripped from Sensitive Information, including Genetic and Self-Reported Information. This data is then assigned a randomly generated ID so an individual cannot reasonably be identified.
+Encryption. 23andMe uses industry standard security measures to encrypt Sensitive Information both at rest and in transit.
+Separation of Environments. 23andMe ensures processing, production, and research environments are separated and access is restricted. Data, including Registration Information, Genetic Information, and Self-Reported Information are segmented across logical database systems to further prevent re-identifiability.
+Limiting access to essential personnel. We limit access to Personal Information to authorized personnel, based on job function and role. 23andMe access controls include multi-factor authentication, single sign-on, and strict least-privileged authorization policy.
+Detecting threats and managing vulnerabilities. 23andMe uses state of the art intrusion detection and prevention measures to stop any potential attacks against its networks. We have integrated continuous vulnerability scanning in our processes and regularly engage third party security experts to conduct penetration tests.
+Incident Management. 23andMe maintains a formal incident management program designed to ensure the secure, continuous delivery of its Services. 23andMe has implemented an incident management program using industry best practices, including guidance from the National Institute of Standards and Technology (NIST).
+Managing third party service providers. 23andMe requires service providers to implement and maintain accepted industry standard administrative, physical and technical safeguards to protect Personal Information.
+Your Responsibility. Please recognize that protecting your Personal Information is also your responsibility. We ask you to be responsible for safeguarding your password, secret questions and answers, and other authentication information you use to access our Services. You should not disclose your authentication information to any third party and should immediately notify 23andMe of any unauthorized use of your password. 23andMe cannot secure Personal Information that you release on your own or that you request us to release.
+Your information collected through the Service may be stored and processed in the United States or any other country in which 23andMe or its subsidiaries, affiliates or service providers maintain facilities and, therefore, your information may be subject to the laws of those other jurisdictions which may be different from the laws of your country of residence.
+7. Children's privacy
+23andMe is committed to protecting the privacy of children as well as adults. Neither 23andMe nor any of its Services are designed for, intended to attract, or directed toward children under the age of 18. A parent or guardian, however, may collect a saliva sample from, create an account for, and provide information related to, his or her child who is under the age of 18. The parent or guardian assumes full responsibility for ensuring that the information that he/she provides to 23andMe about his or her child is kept secure and that the information submitted is accurate.
+8. Linked websites
+23andMe provides links to third party websites operated by organizations not affiliated with 23andMe. 23andMe does not disclose your information to organizations operating such linked third party websites. 23andMe does not review or endorse, and is not responsible for, the privacy practices of these organizations. We encourage you to read the privacy statements of each and every website that you visit. This Privacy Statement applies solely to information collected by 23andMe and our service providers on our behalf.
+9. Information for Customers in Designated Countries
+Section 9 only applies to individuals located in the European Economic Area (“EEA”), United Kingdom, or Switzerland (the “Designated Countries”).
+Privacy Shield
+23andMe participates in and has certified its compliance with both the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union (EU), European Economic Area (EEA), and Switzerland to the United States, respectively. 23andMe is committed to subjecting all Personal Information received from the EU member countries, EEA and Switzerland, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit U.S. Department of Commerce's Privacy Shield List.
+23andMe is responsible for the processing of Personal Information it receives, under the Privacy Shield Frameworks, or subsequently transfers to a third party acting as an agent on its behalf. 23andMe complies with the Privacy Shield Principles for all onward transfers of Personal Information from the EU, EEA and Switzerland, including the onward transfer liability provisions.
+With respect to Personal Information received or transferred pursuant to the Privacy Shield Frameworks, 23andMe is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, 23andMe may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Our relationship with you
+We are the “controller” with respect to your Personal Information because we determine the means and purposes of processing your information when using our Services.
+Legal bases for processing Personal Information from the EU
+We describe how we process your Personal Information in Sections 2 through 4 of this Privacy Statement. We may process your Personal Information if you consent to the processing, to satisfy our legal obligations, if it is necessary to carry out our obligations arising from any contracts we entered with you or to take steps at your request prior to entering into a contract with you, or for our legitimate interests to protect our property, rights or safety of 23andMe, our customers or others.
+Direct Marketing
+We will obtain your consent where required to send you marketing communications using electronic means. You may withdraw your consent at any time within your Account Settings or by emailing privacy@23andme.com We will only contact you by electronic means (email, push notification, SMS, etc.) with information  about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you.
+We will only share your Personal Information with third parties for marketing purposes with your explicit consent. If you do not want us to use your Personal Information in this way, please review and update your Account Settings as necessary or contact us at privacy@23andme.com . You may raise such objection with regard to initial or further processing for purposes of direct marketing at any time and free of charge. The withdrawal of your consent will not affect the lawfulness of processing based on consent before its withdrawal.
+Other marketing activities will happen based on the legitimate interests of 23andMe. E.g., where we tailor marketing communications or send targeted marketing messages via post, phone or social media and other third party platforms; and in providing existing customers with information (via email or other channels) about similar products and services.
+Privacy Rights
+You can exercise your privacy rights by following the instructions below or contacting us at privacy@23andMe.com. We will handle your request under applicable law. When you make a request, we may verify your identity to protect your privacy and security.
+Right to withdraw consent. To the extent 23andMe requests and you provide your consent to the processing of your Personal Information, you can withdraw your consent at any time. Your withdrawal will not affect the lawfulness of our processing based on consent before your withdrawal.
+Right of access to and rectification of your Personal Information. Our site allows you to access and rectify certain Registration Information within your Account Settings, and your Self-Reported Information by going to the surveys page. You can download your raw Genetic Information within your Account Settings or by going to the applicable tool in “Tools.” If you would like to access or rectify any other information, contact Customer Care and we will do our best to assist you without undue delay. We may reject part or all of your request if responding to your request could adversely affect the rights and freedoms of others.
+Right to erasure (or, “Right to be Forgotten”). As explained under Section 5.d. (“Account Deletion”), we allow our customers to delete theiraccounts at any time. You can request erasure of Personal Information that: (a) is no longer necessary in relation to the purposes for which it was collected or otherwise processed; (b) was collected in relation to processing to which you previously consented, but later withdrew such consent; or (c) was collected in relation to processing activities to which you object, and there are no overriding legitimate grounds for our processing. If we have made your Personal Information public and we are required to erase such Personal Information, we will take reasonable steps, including technical measures, to inform controllers that are processing any links to or copies or replications of your Personal Information of your erasure request. Our assistance with your request for erasure is subject to limitations by relevant data protection laws, available technology and the cost of implementation.
+Right to data portability. If we process your Personal Information based on a contract with you or based on your consent, or the processing is carried out by automated means, you may request to receive your Personal Information in a structured, commonly used and machine-readable format, and to have us transfer your Personal Information directly to another controller, where technically feasible, unless exercise of this right adversely affects the rights and freedoms of others. A “controller” is a natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of your Personal Information.
+Right to restriction of our processing. You can restrict our processing of your Personal Information where one of the following applies: (a) you dispute the accuracy of Personal Information processed by 23andMe (for a period enabling us to verify its accuracy); (b) the processing is unlawful and you oppose the erasure of the Personal Information and request the restriction of its use instead; (c) 23andMe no longer needs the Personal Information for the purposes of the processing, but it is required by you for the establishment, exercise or defense of legal claims; and (d) you have objected to certain processing relying on legitimate interest, pending the verification whether 23andMe’s legitimate grounds override your rights. Restricted Personal Information shall only be processed with your consent or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest. We will notify you if the restriction is lifted.
+Notification of erasure, rectification and restriction. We will provide notice to each recipient that we disclosed your Personal Information to regarding any rectification or erasure of Personal Information or restriction of processing, unless you initiated the disclosure or providing notice proves impossible or involves disproportionate effort. Upon your request, we will share the list of recipients with you.
+Right to object to processing. Where the processing of your Personal Information is based on consent, contract, or legitimate interests described under the Legal Bases for Processing heading above, you may restrict or object, at any time, to the processing of your Personal Information as permitted by applicable law. We may continue to process your Personal Information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
+Automated individual decision-making, including profiling. You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal or similarly significant effects on you, except as allowed under applicable data protection laws.
+Retention of your Personal Information. Unless you make a request for us to delete your account or delete certain Personal Information (i.e., User Content, etc.), we will store your Personal Information as long as your account is open. If you request to delete your account, we will take the steps described under “Your Choices – Account Deletion” and delete all your Personal Information, unless a longer retention period is required or permitted by law.
+The rights described above may be limited by local laws. Further, your right of access and deletion is not absolute and may not be available if fulfillment of such right would, among other things:
+cause interference with execution and enforcement of the law and legal private rights (such as in the case of the investigation or detection of legal claims or the right to a fair trial);
+breach or prejudice the rights of confidentiality and security of others;
+prejudice security or grievance investigations, corporate re-organizations, future and ongoing negotiations with third parties, the compliance with regulatory requirements relating to economic and financial management; or
+otherwise violate the interests of others or where the burden or cost of providing access would be disproportionate.
+Complaints
+If you believe that we have infringed your rights, we encourage you to contact us so that we can try to address your concerns or dispute informally. Our contact information is:
+Global Privacy Officer, 23andMe, Inc.,
+899 West Evelyn Avenue,
+Mountain View, CA 94041
+Alternatively, you may contact 23andMe’s EU member representative, DPR Group, at https://www.dpr.eu.com/23andme .
+23andMe’s commitment to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks entitle you to lodge a complaint via our Privacy Shield independent dispute resolution mechanism. To send your privacy complaints under the Privacy Shield Principles, please contact the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit https://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and/or to file a complaint.
+As a last resort and under limited circumstances, EU, EEA and Swiss individuals with residual privacy complaints may invoke a binding arbitration option before the Privacy Shield Panel.
+You also have a right to lodge a complaint with a competent supervisory authority situated in a Member State of your habitual residence, place of work, or place of alleged infringement. You can find the relevant supervisory authority name and contact details here: https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en .
+10. Changes to this Privacy Statement
+Whenever this Privacy Statement is changed in a material way, a notice will be posted as part of this Privacy Statement and on our website for 30 days. After 30 days the changes will become effective. In addition, all customers will receive an email with notification of the changes prior to the change becoming effective. 23andMe may provide additional "just-in-time" disclosures or additional information about the data collection, use and sharing practices of specific Services. Such notices may supplement or clarify 23andMe’s privacy practices or may provide you with additional choices about how 23andMe processes your Personal Information.
+11. Contact Information
+If you have questions about this Privacy Statement, or wish to submit a complaint, please email 23andMe's Privacy Administrator at privacy@23andme.com , or send a letter to:
+Privacy Administrator
+23andMe, Inc.
+*This Privacy Statement was last updated on July 17, 2018.
+Company Info
+23andMe is the first and only genetic service available directly to you that includes reports that meet FDA standards for clinical and scientific validity.
+23andMe was founded in 2006 to help people access, understand and benefit from the human genome.
+We have more than three million genotyped customers around the world. Read more .
+Customer Reviews
+Research
+You can make a difference by participating in research — online, from anywhere. Read more .
+Customer Care
+We are here to help with your questions. No question is too big or small. Read more .
+Legal
+See the list of important policies below. Click to read more.
+close
+Select report category
+Learn more about Genetic Health Risks and Carrier Status reports, genetic counseling and what to know about test results.
+For more information about other reports included in our Health +  Ancestry Service, including Wellness, Traits and Ancestry,
+The following information applies to Genetic Health Risk reports only.
+What you should know
+What you should know
+Genetic Health Risk reports tell you about genetic variants associated with increased risk for certain health conditions. They do not diagnose cancer or any other health conditions or determine medical action.
+Having a risk variant does not mean you will definitely develop a health condition. Similarly, you could still develop the condition even if you don't have a variant detected. It is possible to have other genetic risk variants not included in these reports.
+Factors like lifestyle and environment can also affect whether a person develops most health conditions. Our reports cannot tell you about your overall risk for these conditions, and they cannot determine if you will or will not develop a condition.
+These reports do not replace visits to a healthcare professional. Consult with a healthcare professional for help interpreting and using genetic results. Results should not be used to make medical decisions.
+We encourage you to speak to a genetic counselor
+We encourage you to speak to a genetic counselor
+There are many things to think about when deciding whether genetic testing is right for you. Although these tests can provide important information about health risks, they can also be upsetting or raise questions about what the results mean. Genetic tests also have certain limitations that are important to understand. Your personal and family medical history, as well as your goals for testing, should all factor into your decisions about whether and how to test.
+A genetic counselor, a healthcare professional with special training in genetic conditions, will be able to answer your questions and help you make an informed choice. We recommend that you speak with a genetic counselor before testing, and also after testing to help you understand your results and what actions you should take. This is especially important for health conditions that are preventable or treatable.
+Genetic counselors can help you navigate common questions, such as:
+What are the risks and benefits of genetic testing?
+Are there diseases that run in the family?
+How do you handle potentially distressing information?
+What are you hoping to find out from genetic testing?
+Talk to your healthcare provider or click here to search for a genetic counselor near you (this link takes you to a page managed by the National Society of Genetic Counselors: http://www.aboutgeneticcounselors.com/ ).
+Possible test results
+Variant(s) not detected
+You do not have the variant(s) we tested. Since these tests do not include all variants that may impact your risk of developing a condition, you may still have another variant that could affect your risk. Non-genetic factors may also affect your risk.
+Variant(s) detected
+You have one or more of the variants we tested. You may be at increased risk for the condition based on this result. This does not mean you will definitely develop the condition. Other factors may also affect your risk.
+Result not determined
+Your test result could not be determined. This can be caused by random test error or other factors that interfere with the test.
+In some cases, the laboratory may not be able to process your sample. If this happens, we will notify you by email and you may request one free replacement kit.
+Other companies offering genetic risk tests may include different variants for the same health condition. This means that it's possible to get different results using a test from a different company.
+What to do with the results
+If your report says you have variants associated with increased risk
+Consider sharing the result with a healthcare professional.
+Certain results, such as having a variant detected for the BRCA1/ BRCA2 (Selected Variants) report, may warrant prompt follow-up with a healthcare professional, since effective options may exist to prevent or reduce risk for disease. Each report will provide more specific guidance.
+Consider sharing your results with relatives. They may also have these variants. Keep in mind that some people may not want to know information about genetic health risks.
+If your report says you do not have any risk variants detected
+Continue to follow screening and other healthy behaviors recommended by your healthcare provider. This is because our reports do not cover all factors that might influence risk.
+Concerned about your risk?
+If you have other risk factors for the condition, you should discuss the condition with a doctor.
+You can also discuss your results with a genetic counselor (this link takes you to a page managed by the National Society of Genetic Counselors to find a genetic counselor near you: http://www.aboutgeneticcounselors.com/).
+Genetic Health Risk reports are intended to provide you with genetic information to inform conversations with a healthcare professional. These reports should not be used to make medical decisions. Always consult with a healthcare professional before taking any medical action.
+You will be asked whether you want to receive certain Genetic Health Risk reports
+You will be asked whether you want to receive certain Genetic Health Risk reports
+Some of our reports are about serious diseases that may not have an effective treatment or cure. Others may have effective treatment or prevention options, but these actions may carry their own health risks. You may be upset by learning about genetic risks for these diseases, and about genetic risks for family members who share DNA. If you tend to feel anxious or have a personal history of depression or anxiety, this information may be more likely to be upsetting. Knowing about genetic risks could also affect your ability to get some kinds of insurance.
+You can choose to exclude the following reports individually from your account before your results are returned to you:
+BRCA1/BRCA2 (Selected Variants)
+Parkinson’s Disease
+If you are interested in receiving these reports, we recommend that you consult with a genetic counselor before purchasing. Additional relevant information about these reports will be provided when you go through the process of setting your report preferences, after registering your kit.
+Select a Condition
+BRCA1/BRCA2 (Selected Variants)
+Age-Related Macular Degeneration
+Alpha-1 Antitrypsin Deficiency
+BRCA1/BRCA2 (Selected Variants) and our test
+Specific genetic variants in the BRCA1 and BRCA2 genes are associated with an increased risk of developing certain cancers, including breast cancer (in women and men) and ovarian cancer. These variants may also be associated with an increased risk for prostate cancer and certain other cancers. This test includes three genetic variants in the BRCA1 and BRCA2 genes that are most common in people of Ashkenazi Jewish descent.
+BRCA1- and BRCA2-associated cancer risks
+Women with a variant have a 45-85% chance of developing breast cancer by age 70 and up to a 46% chance of developing ovarian cancer by age 70.
+Men with a variant have up to an 8% lifetime risk of developing male breast cancer and may have an increased risk for prostate cancer.
+Men and women with a variant may also have an increased risk for pancreatic cancer and melanoma.
+Age
+When cancers develop
+In general, the chances of developing cancer increase as a person gets older. However, women with a BRCA1 or BRCA2 variant have an increased risk for early-onset breast cancer. Men with a variant may develop earlier and more aggressive prostate cancer.
+Screening and prevention
+Guidelines recommend that women with a BRCA1 or BRCA2 variant should be screened for breast cancer earlier and more often. Risk-reducing surgery or medication may also be offered. Men with a variant should be screened for breast cancer. Screening guidelines for prostate cancer vary. This test is not a substitute for visits to a healthcare professional for recommended screenings. Results should be confirmed in a clinical setting before taking any medical action. It is important to talk with a healthcare professional before taking any medical action.
+What do we test?
+We test for three specific genetic variants: the 185delAG and 5382insC variants in the BRCA1 gene and the 6174delT variant in the BRCA2 gene. These variants are associated with an increased risk of developing certain cancers.
+We do not test for all possible variants in the BRCA1 and BRCA2 genes. More than 1,000 variants in these genes are known to increase cancer risk.
+This test does not include variants in other genes linked to hereditary cancers.
+Genetic testing for BRCA1 and BRCA2 variants in the general population is not currently recommended by any healthcare professional organizations.
+Important ethnicities
+The three variants included in this test are most commonly found in people of Ashkenazi Jewish descent.
+In 23andMe customers of other ethnicities, between 0% and 0.1% of individuals has one of the three variants in this report.
+This test does not include most of the BRCA1 and BRCA2 variants found in people of other ethnicities. Therefore, a "variants not detected" result is less informative for people with no Ashkenazi Jewish ancestry.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+Age-Related Macular Degeneration and our test
+Age-related macular degeneration (AMD) is the most common cause of irreversible vision loss among older adults. The disease results in damage to the central part of the retina (the macula), impairing vision needed for reading, driving, or even recognizing faces. This test includes the two most common variants associated with an increased risk of developing the condition.
+Typical signs and symptoms
+Blurred or distorted vision
+Blood or fluid leakage in the retina
+Other factors that influence risk
+Smoking
+Age
+When symptoms develop
+AMD is rarely diagnosed in people under the age of 50. Vision loss related to AMD usually becomes noticeable in a person's 60s or 70s and tends to worsen over time.
+How it's treated
+There is currently no known prevention or cure for AMD. Having regular eye exams can help detect early signs of the condition. Progression of AMD can be slowed with the use of certain treatments and medications.
+What do we test?
+Tests for the Y402H variant in the CFH gene and the A69S variant in the ARMS2 gene associated with an increased risk of developing AMD.
+Genetic testing for AMD is not currently recommended by any healthcare professional organizations.
+Relevant ethnicities
+The variants included in this test are common in many ethnicities, but are best studied in people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+Alpha-1 Antitrypsin Deficiency and our test
+AAT deficiency is a genetic condition that can lead to lung and liver disease. It is caused by decreased levels of the alpha-1 antitrypsin (AAT) protein. This test includes the two most common variants linked to this deficiency.
+Potential signs and symptoms of AAT deficiency
+Shortness of breath and wheezing
+Chronic cough
+Other factors that increase risk
+Genetic variants are the only risk factor for AAT deficiency. In people with genetic risk variants, the chances of developing symptoms of AAT deficiency depend on lifestyle, environment, and other factors.
+Smoking
+Viral infections
+When symptoms develop
+Because it is a genetic condition, AAT deficiency is present at birth. Symptoms of lung disease usually appear later in life, and age of onset is strongly affected by smoking. Some people may never have symptoms of lung disease, especially if they don't smoke. Liver problems may develop anytime from infancy to adulthood.
+How it's treated
+There is currently no known cure. People with AAT deficiency are encouraged to avoid smoking and consider getting certain vaccinations. For those with symptoms, treatment focuses on management of lung and liver problems. Direct replacement of the AAT protein into the blood may be used to slow the progression of lung disease. Lung and liver transplants may be beneficial in some cases.
+What do we test?
+Tests for the PI*Z and PI*S variants in the SERPINA1 gene linked to AAT deficiency.
+Testing for genetic variants associated with AAT deficiency is recommended under certain circumstances by several health professional organizations, including the American Thoracic Society.
+Relevant ethnicities
+The variants included in this test are most common and best studied in people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+Celiac Disease and our test
+Celiac disease is an autoimmune condition in which the consumption of gluten (found in wheat, barley, and rye) can result in damage to the small intestine. Celiac disease can lead to both digestive and non-digestive problems. This test includes two common variants associated with an increased risk of developing this condition.
+Typical signs and symptoms
+Diarrhea, gas, and bloating
+Gluten
+When symptoms develop
+Celiac disease can develop anytime from infancy to adulthood, most commonly between the ages of 10 and 40. In people with celiac disease, symptoms occur after consuming gluten.
+How it's treated
+Celiac disease can be effectively treated by removing all sources of gluten from the diet. This includes foods and drinks made with wheat, barley, and rye.
+What do we test?
+Tests for variants near the HLA-DQA1 and HLA-DQB1 genes linked to the HLA-DQ2.5 and HLA-DQ8 haplotypes. These haplotypes are associated with celiac disease.
+Genetic testing for celiac disease is recommended under certain circumstances by several health professional organizations, including the American College of Gastroenterology.
+Relevant ethnicities
+The variants included in this test are common in many ethnicities, but are best studied in people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+G6PD Deficiency and our test
+G6PD deficiency is a common genetic condition caused by defects in an enzyme called glucose-6-phosphate dehydrogenase, or G6PD. The G6PD enzyme helps protect red blood cells from damage. In people with G6PD deficiency, red blood cells are destroyed upon exposure to certain environmental triggers, which can lead to episodes of anemia. This test includes the most common variant linked to G6PD deficiency in people of African descent.
+Typical signs and symptoms
+Other factors that influence risk
+Certain medications
+Certain infections
+Certain foods
+When symptoms develop
+Because it is a genetic condition, G6PD deficiency is present at birth. However, people with this condition typically don't develop symptoms unless they are exposed to certain triggering factors. Many people with G6PD deficiency never develop symptoms.
+How it's treated
+Most people with G6PD deficiency do not require treatment. People with G6PD deficiency often manage their condition by avoiding certain medications and foods that may trigger symptoms. If a person is exposed to a trigger and develops anemia, symptoms usually clear up on their own. However, in some cases patients may require a blood transfusion.
+What do we test?
+Tests for the Val68Met variant in the G6PD gene linked to G6PD deficiency.
+Genetic testing for G6PD deficiency in adults in the general population is not currently recommended by any healthcare professional organizations.
+Relevant ethnicities
+The variant included in this test is most common and best studied in people of African descent.
+This variant is also found in populations with African ancestry, like Hispanics or Latinos.
+This test does not include variants that are more common in people of Mediterranean, Middle Eastern, Asian, or Kurdish Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+Hereditary Hemochromatosis (HFE‑Related) and our test
+Hereditary hemochromatosis is a genetic condition characterized by absorption of too much dietary iron. This may lead to iron overload, which can cause damage to the joints and certain organs, such as the liver, skin, heart, and pancreas. This test includes the two most common variants linked to this condition.
+Typical signs and symptoms
+Joint and abdominal pain
+Age
+Sex
+When symptoms develop
+Because it is a genetic condition, hereditary hemochromatosis is present at birth. Many people with this condition never develop iron overload. Of those who do develop iron overload, only a small number develop symptoms. If men develop symptoms, they typically appear between 40 and 60 years of age. Women rarely develop symptoms, and when they do it tends to be after menopause.
+How it's treated
+People with hereditary hemochromatosis are typically monitored for symptoms or complications. Iron overload related to hereditary hemochromatosis is a treatable condition. In some patients, having blood drawn on a regular basis can help lower iron levels. People with iron overload are encouraged to avoid drinking alcohol to minimize liver damage and to limit intake of iron-rich food.
+What do we test?
+Tests for the C282Y and the H63D variants in the HFE gene linked to hereditary hemochromatosis.
+Genetic testing for hereditary hemochromatosis is recommended under certain circumstances by several health professional organizations, including the American Association for the Study of Liver Diseases and the European Association for the Study of the Liver.
+Relevant ethnicities
+The variants included in this test are best studied in people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+Hereditary Thrombophilia and our test
+Hereditary thrombophilia is a predisposition to developing harmful blood clots. These harmful blood clots most commonly form in the legs and can travel to the lungs. This test includes the two most common variants linked to hereditary thrombophilia.
+Typical signs and symptoms of harmful blood clots
+Pain, tenderness, swelling, or redness in one or both legs
+Chest pain
+Difficulty breathing
+Hereditary thrombophilia may also be associated with recurrent late pregnancy loss in some women.
+Other risk factors for harmful blood clots
+Major surgery
+When symptoms develop
+Hereditary thrombophilia is genetic, but the risk of developing harmful blood clots increases with age and other factors.
+How it's treated
+Hereditary thrombophilia typically does not require any ongoing treatment. In some cases medications can be used to prevent harmful blood clots from forming. Medications and surgery can also be used to break up existing clots.
+What do we test?
+Tests for the Factor V Leiden variant in the F5 gene and the Prothrombin G20210A variant in the F2 gene linked to hereditary thrombophilia.
+Testing for genetic variants associated with hereditary thrombophilia is recommended by ACMG under certain circumstances. This test includes the two variants recommended for testing by ACMG.
+Relevant ethnicities
+The variants included in this test are most common and best studied in people of European descent.
+These variants are also found in populations with European ancestry, like African Americans and Hispanics or Latinos.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+Late-Onset Alzheimer's Disease and our test
+Alzheimer's disease is characterized by memory loss, cognitive decline, and personality changes. Late-onset Alzheimer's disease is the most common form of Alzheimer's disease, developing after age 65. Many factors, including genetics, can influence a person's chances of developing the condition. This test includes the most common genetic variant associated with late-onset Alzheimer's disease.
+Typical signs and symptoms
+Mood and personality changes
+Age
+Sex
+How it's treated
+There is currently no known prevention or cure for Alzheimer's disease. Medication may be used to delay or ease symptoms.
+What do we test?
+Tests for the ε4 variant in the APOE gene associated with an increased risk of developing late-onset Alzheimer's disease.
+This test does not identify or report on the ε2 and ε3 variants of the APOE gene. These variants are not associated with an increased risk of developing Alzheimer's disease.
+Genetic testing for late-onset Alzheimer's disease is not currently recommended by any healthcare professional organizations.
+Relevant ethnicities
+The ε4 variant included in this test is found and has been studied in many ethnicities. Detailed risk estimates have been studied the most in people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What to know about:
+Parkinson's disease is characterized by tremor, muscle stiffness, and problems with movement. Many factors, including genetics, can influence a person's chances of developing Parkinson's disease. This test includes two genetic variants associated with increased risk of developing the condition.
+Typical signs and symptoms
+Age
+Sex
+When symptoms develop
+Parkinson's disease typically develops in adulthood, after 55 years of age.
+How it's treated
+There is currently no known prevention or cure for Parkinson's disease. Certain medications may be used to delay or ease symptoms. Speech, physical, and occupational therapies may also help with symptom management.
+What do we test?
+Tests for the G2019S variant in the LRRK2 gene and the N370S variant in the GBA gene associated with an increased risk of developing Parkinson's disease.
+Genetic testing for Parkinson's disease is not currently recommended by any healthcare professional organizations.
+Relevant ethnicities
+The variants included in this test are most common and best studied in people of European, Ashkenazi Jewish, and North African Berber descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert.
+What you should know
+23andMe Carrier Status Tests:
+What you should know
+Carrier status tests detect genetic variants that can cause inherited conditions. These variants are often found primarily in certain ethnicities.
+Being a carrier means you have one variant for the condition. Carriers typically don't have the condition but can pass the variant to their children.
+Knowing your carrier status is important when having children. If you and your partner are both carriers, you may have a child with the condition.
+Genetic counseling can help you understand your results and options. It is recommended before testing, and also if you are a carrier.
+Should you speak to a genetic counselor?
+Should you speak to a genetic counselor?
+We encourage you to learn more so you can decide whether testing is right for you. A genetic counselor, a healthcare professional with special training in genetic conditions, will be able to answer your specific questions and help you make an informed decision.
+Genetic counselors can help you navigate common questions, such as:
+What are the risks and benefits of testing?
+Are there diseases that run in the family?
+How do you handle potentially distressing information?
+What are you hoping to find out from genetic testing?
+Talk to your healthcare provider or click here to search for a genetic counselor near you (this link takes you to a page managed by the National Society of Genetic Counselors: http://www.aboutgeneticcounselors.com/ ).
+Possible test results*
+0 Variants
+You do not have the variant(s) we tested. There is still a chance that you could have a variant not covered by this test.
+1 Variant**
+You are a carrier and could pass the variant on to each of your children.
+2 Variants***
+You will most likely pass a variant on to each of your children.
+Result not determined
+Your result could not be determined.
+* For some reports, a customer may receive a result indicating that they have two copies of a variant. In these cases, the customer will pass a variant on to each of his or her children.
+** For some reports, customers with one copy of a variant will also be told that they are at risk for developing symptoms of the condition.
+*** For some reports, customers with two variants (or two copies of a variant) will also be told that they are at risk for developing symptoms of the condition.
+What to do with the results:
+Have a family history of a genetic condition? Planning to have children?
+Share your results with your doctor and discuss further testing options.
+You can also discuss your results with a genetic counselor (this link takes you to a page managed by the National Society of Genetic Counselors to find a genetic counselor near you: http://www.aboutgeneticcounselors.com/).
+Consider sharing your results with relatives.
+Your information – as well as knowing their own carrier status – may be useful to them.
+Select a Condition
+Autosomal Recessive Polycystic Kidney Disease
+Beta Thalassemia and Related Hemoglobinopathies
+Bloom Syndrome
+Canavan Disease
+Cystic Fibrosis
+Hereditary Fructose Intolerance
+MCAD Deficiency
+Mucolipidosis Type IV
+Phenylketonuria and Related Disorders
+Primary Hyperoxaluria Type 2
+Salla Disease
+Usher Syndrome Type 1F
+Usher Syndrome Type 3A
+Zellweger Syndrome Spectrum (PEX1-Related)
+View sample report here
+View package insert here
+What to know about:
+ARSACS and our test
+ARSACS is a rare genetic disorder characterized by loss of sensation and muscle control, as well as muscle stiffness that worsens over time. A person must have two variants in the SACS gene in order to have this condition.
+Typical signs and symptoms
+Muscle stiffness that worsens over time
+Loss of sensation in hands and feet that worsens over time
+Impaired movement and balance that worsens over time
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and providing supportive care through speech, physical, and occupational therapy.
+What do we test?
+1 variant in the SACS gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of French Canadian descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Agenesis of the Corpus Callosum with Peripheral Neuropathy and our test
+ACCPN is a rare genetic disorder. It is characterized by an incomplete connection between the two sides of the brain. This causes developmental disability, weakness, and loss of sensation. A person must have two variants in the SLC12A6 gene in order to have this condition.
+Typical signs and symptoms
+Poor or absent reflexes
+How it's treated:
+There is currently no known cure. Treatment focuses on physical and occupational therapy as well as other forms of supportive care as symptoms worsen, often into adulthood.
+What do we test?
+1 variant in the SLC12A6 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of French Canadian descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Autosomal Recessive Polycystic Kidney Disease and our test
+ARPKD is a rare genetic disorder. It is characterized by kidney, liver, and lung problems as well as urinary tract infections and high blood pressure. A person must have two variants in the PKHD1 gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing the symptoms of kidney, lung, and liver disease, as well as managing blood pressure.
+What do we test?
+3 variants in the PKHD1 gene.
+This test does not include a large fraction of PKHD1 variants that cause ARPKD in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test does not include a large fraction of PKHD1 variants that cause ARPKD in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Beta Thalassemia and Related Hemoglobinopathies and our test
+Beta thalassemia is a genetic disorder characterized by anemia and fatigue as well as bone deformities and organ problems. A person must have two variants in the HBB gene in order to have this condition.
+Typical signs and symptoms
+Bone deformities
+When symptoms develop
+Symptoms typically develop any time from late infancy (severe form) into adulthood (intermediate form).
+How it's treated:
+What do we test?
+10 variants in the HBB gene.
+Symptoms of beta thalassemia may vary between people with the condition depending on the variants involved.
+Carrier screening for beta thalassemia and related hemoglobinopathies is recommended by ACOG via complete blood count and hemoglobin electrophoresis for people of African, Southeast Asian, Mediterranean, Middle Eastern, and West Indian descent considering having children.
+Relevant ethnicities:
+This test is most relevant for people of Cypriot, Greek, Italian, and Sardinian descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Bloom Syndrome and our test
+Bloom syndrome is a rare genetic disorder characterized by impaired growth and increased risk of infections and cancer. A person must have two variants in the BLM gene in order to have this condition.
+Typical signs and symptoms
+Sun-sensitive skin
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and preventing complications such as infection and cancer.
+What do we test?
+1 variant in the BLM gene.
+Symptoms of Bloom syndrome may vary between people with the condition even if they have the same genetic variants.
+Carrier testing for Bloom syndrome is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes the variant recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Canavan Disease and our test
+Canavan disease is a rare genetic disorder characterized by a loss of nerve cell function in the brain that worsens over time. A person must have two variants in the ASPA gene in order to have this condition.
+Typical signs and symptoms
+Seizures
+How it's treated:
+There is currently no known cure. Treatment focuses on preventing complications by monitoring diet, treating infectious diseases, and managing seizures.
+What do we test?
+3 variants in the ASPA gene.
+Carrier testing for Canavan disease is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes the two variants recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Congenital Disorder of Glycosylation Type 1a (PMM2-CDG) and our test
+PMM2-CDG is a rare genetic disorder that affects the nervous system and other parts of the body. It is characterized by developmental delay, muscle weakness, and failure to gain weight. A person must have two variants in the PMM2 gene in order to have this condition.
+Typical signs and symptoms
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on nutritional, occupational, speech, and physical therapy.
+What do we test?
+2 variants in the PMM2 gene.
+Severity of symptoms can vary in people with this disorder, even when the same variants are involved.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Danish descent.
+This test does not include a large fraction of PMM2 variants that cause PMM2-CDG in people of Dutch descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Cystic Fibrosis and our test
+Cystic fibrosis is a rare genetic disorder characterized by impaired lung and digestive function. A person must have two variants in the CFTR gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and preventing complications such as lung infections and malnutrition.
+What do we test?
+29 variants in the CFTR gene.
+Symptoms of cystic fibrosis may vary depending on the variants involved.
+the American College of Medical Genetics (ACMG) recommends carrier testing for cystic fibrosis for people of all ethnicities considering having children. This test includes 22 of 23 variants recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of European, Hispanic/Latino, and Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+D-Bifunctional Protein Deficiency and our test
+DBPD is a rare genetic disorder. It is characterized by abnormal muscle tone, developmental disability, seizures, and early death. A person must have two variants in the HSD17B4 gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and preventing complications.
+What do we test?
+2 variants in the HSD17B4 gene.
+This test does not include the majority of HSD17B4 variants that cause DBPD in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test does not include the majority of HSD17B4 variants that cause DBPD in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Dihydrolipoamide Dehydrogenase Deficiency and our test
+DLD deficiency is a rare genetic disorder. It is typically characterized by low muscle tone and episodes of brain injury accompanied by liver disease. A person must have two variants in the DLD gene in order to have this condition.
+Typical signs and symptoms
+Episodes of brain injury
+How it's treated:
+There is currently no known cure. Treatment focuses on maintaining a stable metabolic state through diet. Blood tests can be used for routine monitoring and to guide dietary recommendations.
+What do we test?
+1 variant in the DLD gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Familial Dysautonomia and our test
+Familial dysautonomia is a rare genetic disorder that affects many different parts of the body. It is characterized by severe dysfunction in different parts of the nervous system involved in movement, the senses, and involuntary (autonomic) functions. A person must have two variants in the IKBKAP gene in order to have this condition.
+Typical signs and symptoms
+Poor growth
+Developmental delay
+How it's treated:
+There is currently no known cure. Treatment focuses on managing nerve dysfunction by providing medications and supportive care.
+What do we test?
+1 variant in the IKBKAP gene.
+Carrier testing for familial dysautonomia is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes one of two variants recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Familial Hyperinsulinism (ABCC8-Related) and our test
+ABCC8-related familial hyperinsulinism is a rare genetic disorder. It is characterized by very high levels of insulin production. This leads to episodes of low blood sugar, which can cause low energy, seizures, and brain damage if left untreated. People with ABCC8-related familial hyperinsulinism most often have two variants in the ABCC8 gene.
+Typical signs and symptoms
+High levels of insulin
+How it's treated:
+There is currently no known cure. Treatment depends on the severity of the condition. Some people can maintain healthy blood glucose levels through medication or diet. Other people may require surgery to remove part of the pancreas.
+What do we test?
+3 variants in the ABCC8 gene.
+Symptoms of familial hyperinsulinism may vary between people with the condition even if they have the same genetic variants.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition. However, the American Congress of Obstetricians and Gynecologists (ACOG) notes that testing for familial hyperinsulinism may be considered for people of Ashkenazi Jewish descent who are considering having children.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Fanconi Anemia Group C and our test
+Fanconi anemia group C is a rare genetic disorder. It is characterized by a decreased production of blood cells, birth defects, and an increased risk of infections and cancer. A person must have two variants in the FANCC gene in order to have this condition.
+Typical signs and symptoms
+Increased risk of cancer
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on increasing the number of blood cells, managing disabilities, and screening for cancer. Stem cell transplants may correct blood cell problems in some cases.
+What do we test?
+3 variants in the FANCC gene.
+Carrier testing for Fanconi anemia group C is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes the one variant recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+GRACILE Syndrome and our test
+GRACILE syndrome is a rare genetic disorder. It is characterized by impaired growth before birth, iron buildup, liver damage, and death in infancy. A person must have two variants in the BCS1L gene in order to have this condition.
+Typical signs and symptoms
+Small size at birth
+Buildup of lactic acid in the body
+Kidney and liver problems
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and ultimately providing end-of-life supportive care.
+What do we test?
+1 variant in the BCS1L gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Finnish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Gaucher Disease Type 1 and our test
+Gaucher disease type 1 is a rare genetic disorder that can affect many organs. It often leads to an enlarged liver and spleen, as well as bone abnormalities. A person must have two variants in the GBA gene, or two copies of a variant, in order to have Gaucher disease type 1.
+Typical signs and symptoms
+Bone weakness and pain
+When symptoms develop
+Symptoms can develop anytime from childhood to adulthood and can vary from mild to severe. Some people may never develop symptoms.
+How it's treated:
+There is currently no known cure. Treatment varies depending on the severity of symptoms, but often includes enzyme replacement therapy.
+What do we test?
+3 variants in the GBA gene.
+The severity of symptoms, and when they develop, can vary greatly in people with Gaucher disease type 1. Some people may never develop symptoms.
+The 84GG and V394L variants can occasionally be found in people with the more severe, type 2 or type 3 forms of Gaucher disease. People with two copies of the N370S variant, or one copy of N370S and one copy of another variant, typically have the less severe, type 1 form of the disease.
+Carrier testing for Gaucher disease type 1 is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes two of four variants recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Glycogen Storage Disease Type Ia and our test
+GSDIa is a rare genetic disorder. It is characterized by low blood sugar, liver and kidney problems, and poor growth. A person must have two variants in the G6PC gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing diet to control blood sugar levels and prevent problems with metabolism.
+What do we test?
+1 variant in the G6PC gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Glycogen Storage Disease Type Ib and our test
+GSDIb is a rare genetic disorder. It is characterized by low blood sugar, liver and kidney problems, and frequent infections. A person must have two variants in the SLC37A4 gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing diet in order to control blood sugar levels and prevent problems with metabolism. Medication can help prevent infections.
+What do we test?
+2 variants in the SLC37A4 gene.
+This test does not include the majority of SLC37A4 variants that cause GSDIb in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test does not include the majority of SLC37A4 variants that cause GSDIb in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Hereditary Fructose Intolerance and our test
+Hereditary fructose intolerance is a rare genetic disorder. It is characterized by low blood sugar levels, stomach pain, and vomiting after eating fructose. A person must have two variants in the ALDOB gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Maintaining a fructose-free diet may reduce or prevent symptoms.
+What do we test?
+4 variants in the ALDOB gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Herlitz Junctional Epidermolysis Bullosa (LAMB3-Related) and our test
+LAMB3-related JEB is a rare genetic disorder. The Herlitz form is characterized by severe blistering of the skin and mucous membranes and, typically, death in infancy. A person must have two variants in the LAMB3 gene in order to have this condition.
+Typical signs and symptoms
+Severe blistering
+Recurrent infections
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on protecting the skin, wound care, and managing infections and other complications.
+What do we test?
+3 variants in the LAMB3 gene.
+This test does not include the majority of LAMB3 variants that cause LAMB3-related JEB in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test does not include the majority of LAMB3 variants that cause LAMB3-related JEB in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Leigh Syndrome, French Canadian Type and our test
+LSFC is a rare genetic disorder. It is characterized by life-threatening periods of lactic acid buildup and brain injury as well as failure to gain weight. A person must have two variants in the LRPPRC gene in order to have this condition.
+Typical signs and symptoms
+Episodes of brain injury
+Failure to gain weight
+Distinctive facial features
+How it's treated:
+There is currently no known cure. Treatment focuses on providing nutritional support, managing symptoms, and preventing complications.
+What do we test?
+1 variant in the LRPPRC gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of French Canadian descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Limb-Girdle Muscular Dystrophy Type 2D and our test
+LGMD2D is a rare genetic disorder. It is characterized by muscle weakness that worsens over time as well as heart and lung problems. A person must have two variants in the SGCA gene in order to have this condition.
+Typical signs and symptoms
+Wasting of arm and leg muscles closest to the torso
+Large calf muscles
+How it's treated:
+There is currently no known cure. Therapy focuses on maintaining muscle function, preventing skeletal problems, and monitoring heart and lung function.
+What do we test?
+1 variant in the SGCA gene.
+Symptoms can vary greatly in people with this condition, and can be mild in some cases.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is expected to identify the majority of carriers of Finnish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Limb-Girdle Muscular Dystrophy Type 2E and our test
+LGMD2E is a rare genetic disorder. It is characterized by muscle weakness that worsens over time as well as heart and lung problems. A person must have two variants in the SGCB gene in order to have this condition.
+Typical signs and symptoms
+Wasting of arm and leg muscles closest to the torso
+Large calf muscles
+How it's treated:
+There is currently no known cure. Therapy focuses on maintaining muscle function, preventing skeletal problems, and monitoring heart and lung function.
+What do we test?
+1 variant in the SGCB gene.
+Symptoms can vary greatly in people with this condition, and can be mild in some cases.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Southern Indiana Amish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Limb-Girdle Muscular Dystrophy Type 2I and our test
+LGMD2I is a rare genetic disorder. It is characterized by muscle weakness that worsens over time as well as heart and lung problems. A person must have two variants in the FKRP gene in order to have this condition.
+Typical signs and symptoms
+Wasting of arm and leg muscles closest to the torso
+Heart and lung problems
+How it's treated:
+There is currently no known cure. Therapy focuses on maintaining muscle function, preventing skeletal problems, and monitoring heart and lung function.
+What do we test?
+1 variant in the FKRP gene.
+Symptoms can vary greatly in people with this condition, and can be mild in some cases.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is expected to identify the majority of carriers of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+MCAD Deficiency and our test
+MCAD deficiency is a rare genetic disorder characterized by episodes of very low blood sugar while fasting or under stress. A person must have two variants in the ACADM gene in order to have this condition.
+Typical signs and symptoms
+Severely low blood sugar
+How it's treated:
+There is currently no known cure. Early diagnosis, avoiding fasting, and making certain diet modifications can help limit symptoms and prevent complications.
+What do we test?
+4 variants in the ACADM gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Maple Syrup Urine Disease Type 1B and our test
+MSUD 1B is a rare genetic disorder. It is characterized by poor growth and feeding, slowed mental and physical processes, and urine with a distinct, sweet odor. A person must have two variants in the BCKDHB gene in order to have this condition.
+Typical signs and symptoms
+When symptoms develop
+How it's treated:
+There is currently no known cure. Strict diet management, and in some cases liver transplantation, may reduce symptoms and slow or stop disease progression.
+What do we test?
+2 variants in the BCKDHB gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Mucolipidosis Type IV and our test
+Mucolipidosis IV is a rare genetic disorder characterized by developmental delay and gradual vision loss in childhood. A person must have two variants in the MCOLN1 gene in order to have this condition.
+Typical signs and symptoms
+Decreased muscle tone
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and providing supportive care through speech, physical, and occupational therapy.
+What do we test?
+1 variant in the MCOLN1 gene.
+Carrier testing for mucolipidosis IV is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes one of two variants recommended for testing by ACMG and does not include the second most common variant found in people of Ashkenazi Jewish descent.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+This test does not include the second most common variant found in people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Neuronal Ceroid Lipofuscinosis (CLN5-Related) and our test
+CLN5-related NCL is a rare genetic disorder. It is characterized by seizures, vision loss, and intellectual disability. A person must have two variants in the CLN5 gene in order to have this form of NCL.
+Typical signs and symptoms
+Muscle spasms
+Shortened lifespan
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms, providing physical therapy, and using seizure medications as needed.
+What do we test?
+1 variant in the CLN5 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Finnish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Neuronal Ceroid Lipofuscinosis (PPT1-Related) and our test
+PPT1-related NCL is a rare genetic disorder. It is characterized by seizures, vision loss, and intellectual disability. A person must have two variants in the PPT1 gene in order to have this form of NCL.
+Typical signs and symptoms
+Muscle spasms
+Death in childhood
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms, providing physical therapy, and using seizure medications as needed.
+What do we test?
+3 variants in the PPT1 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Finnish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Niemann-Pick Disease Type A and our test
+Niemann-Pick disease type A is a rare genetic disorder. It is characterized by an enlarged liver and spleen, developmental disability, recurring lung infections, and early death. A person must have two variants in the SMPD1 gene in order to have this condition.
+Typical signs and symptoms
+Enlarged liver and spleen
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and preventing complications through physical and occupational therapy.
+What do we test?
+3 variants in the SMPD1 gene.
+Carrier testing for Niemann-Pick disease type A is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes the three variants recommended for testing by ACMG.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Nijmegen Breakage Syndrome and our test
+Nijmegen breakage syndrome is a rare genetic disorder. It is characterized by developmental delay, recurring infections, and an increased risk of cancer. A person must have two variants in the NBN gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and preventing complications such as infection and cancer.
+What do we test?
+1 variant in the NBN gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is expected to identify the majority of carriers in people of Eastern European descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Nonsyndromic Hearing Loss and Deafness, DFNB1 (GJB2-Related) and our test
+DFNB1 is an inherited condition characterized by mild to severe hearing loss that is present from birth. People with GJB2-related DFNB1 most often have two variants in the GJB2 gene.
+Typical signs and symptoms
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment options include hearing aids, cochlear implants, and educational programs for people with hearing loss.
+What do we test?
+2 variants in the GJB2 gene.
+The severity of hearing loss can vary, but there are no other symptoms associated with this condition.
+Most people with DFNB1 have two variants in the GJB2 gene. However, some people with the condition have one variant in the GJB2 gene and a second variant not tested (a deletion) in the GJB6 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish and European descent.
+This test does not include the majority of GJB2 variants that cause DFNB1 in people of East Asian descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Pendred Syndrome and DFNB4 Hearing Loss (SLC26A4-Related) and our test
+Pendred syndrome and DFNB4 are inherited conditions characterized by deafness and structural problems with the inner ear. Pendred syndrome is sometimes characterized by an enlarged thyroid. People with Pendred syndrome or DFNB4 most often have two variants in the SLC26A4 gene.
+Typical signs and symptoms
+Abnormal inner ear development
+How it's treated:
+There is currently no known cure. Early intervention is recommended to teach alternative communication skills. Hearing aids or cochlear implants may treat hearing loss. Medication can treat low thyroid hormone levels.
+What do we test?
+6 variants in the SLC26A4 gene.
+Symptoms of Pendred syndrome and DFNB4 vary in severity depending on which variants are causing the condition.
+This test does not include a large fraction of SLC26A4 variants that cause Pendred syndrome or DFNB4 in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for these conditions.
+Relevant ethnicities:
+This test does not include a large fraction of SLC26A4 variants that cause Pendred syndrome or DFNB4 in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Phenylketonuria and Related Disorders and our test
+PKU is part of a spectrum of related genetic disorders. These disorders are characterized by intellectual disability, seizures, and skin problems. A person must have two variants in the PAH gene in order to have one of these disorders.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Diet management throughout life may help reduce common PKU symptoms. For some people, use of medication can minimize intellectual disability and seizures.
+What do we test?
+PKU and related disorders can be managed with appropriate treatment.
+Symptoms of these disorders vary in severity depending on which variants are causing the condition.
+There are currently no professional guidelines in the U.S. for carrier testing for these conditions.
+Relevant ethnicities:
+This test is most relevant for people of Northern European descent, particularly those of Irish ancestry.
+This test does not include a large fraction of PAH variants that cause PKU and related disorders in people of other ethnicities.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Primary Hyperoxaluria Type 2 and our test
+PH2 is a rare genetic disorder. It is characterized by frequent kidney stones that can lead to kidney failure if left untreated. A person must have two variants in the GRHPR gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing oxalate levels and hydration in order to slow the development of kidney disease. Kidney transplantation is considered in some cases.
+What do we test?
+1 variant in the GRHPR gene.
+This test does not include a large fraction of GRHPR variants that cause PH2.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is expected to identify the majority of carriers in people of European descent.
+This test does not include the most common variant found in people of Asian descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Rhizomelic Chondrodysplasia Punctata Type 1 and our test
+RCDP1 is a rare genetic disorder. It is characterized by bone abnormalities, cataracts, and intellectual disability. A person must have two variants in the PEX7 gene in order to have this condition.
+Typical signs and symptoms
+Symptoms are typically present at birth or develop during infancy.
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and providing supportive care through physical therapy. Treatment may include cataract removal.
+What do we test?
+1 variant in the PEX7 gene.
+This test does not include a large fraction of PEX7 variants that cause RCDP1 in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test does not include a large fraction of PEX7 variants that cause RCDP1 in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Salla Disease and our test
+Salla disease is a rare genetic disorder. It is characterized by a gradual loss of muscle tone and coordination, as well as impaired growth, intellectual disability, and seizures. A person must have two variants in the SLC17A5 gene in order to have this condition.
+Typical signs and symptoms
+Seizures
+How it's treated:
+There is currently no known cure. Treatment focuses on managing seizures and providing supportive care through speech, physical, and occupational therapy.
+What do we test?
+1 variant in the SLC17A5 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Finnish and Swedish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Sickle Cell Anemia and our test
+Sickle cell anemia is a genetic disorder characterized by anemia, episodes of pain, and frequent infections. A person must have two HbS variants in the HBB gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+What do we test?
+Carrier screening for hemoglobinopathies such as sickle cell anemia is recommended by the American Congress of Obstetricians and Gynecologists (ACOG) via complete blood count and hemoglobin electrophoresis for people of African, Southeast Asian, Mediterranean, Middle Eastern, and West Indian descent considering having children.
+Relevant ethnicities:
+This test is most relevant for people of African descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Sjögren-Larsson Syndrome and our test
+Sjögren-Larsson syndrome is a rare genetic disorder. It is characterized by scaly dry skin, intellectual disability, and persistent muscle stiffness. A person must have two variants in the ALDH3A2 gene in order to have this condition.
+Typical signs and symptoms
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and providing supportive care through speech and physical therapy as well as skin care.
+What do we test?
+1 variant in the ALDH3A2 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Swedish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Tay-Sachs Disease and our test
+Tay-Sachs disease is a rare genetic disorder. It is characterized by a loss of strength and coordination over time as well as developmental disability, seizures, and early death. A person must have two variants in the HEXA gene in order to have this condition.
+Typical signs and symptoms
+Severe developmental disability
+When symptoms develop
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms, providing nutritional support, and using seizure medications as needed.
+What do we test?
+4 variants in the HEXA gene.
+Symptoms of this disorder vary in severity depending on which variants are causing the condition.
+Carrier testing for Tay-Sachs disease is recommended by the American College of Medical Genetics (ACMG) for people of Ashkenazi Jewish descent considering having children. This test includes the three variants recommended for testing by ACMG.
+When carrier testing for Tay-Sachs disease is indicated in people who are not of Ashkenazi Jewish descent, the American College of Medical Genetics (ACMG) recommends biochemical carrier screening as a first step. Genetic testing can then be used to confirm carrier status in people with a positive result.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish and Cajun descent.
+This test does not include the most common variant found in people of French Canadian descent with Tay-Sachs disease.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Tyrosinemia Type I and our test
+Tyrosinemia type I is a rare genetic disorder. It is characterized by high levels of the amino acid tyrosine that can lead to liver and kidney disease. A person must have two variants in the FAH gene in order to have tyrosinemia type I.
+Typical signs and symptoms
+Liver and kidney problems
+Increased risk of liver cancer
+When symptoms develop
+How it's treated:
+There is currently no known cure. Medication and a low protein diet may decrease liver and kidney damage. Liver transplantation is considered in some cases.
+What do we test?
+4 variants in the FAH gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of French Canadian and Finnish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Usher Syndrome Type 1F and our test
+Usher 1F is a rare genetic disorder. It is characterized by deafness at birth, poor balance, and vision loss that worsens over time. A person must have two variants in the PCDH15 gene in order to have this condition.
+Typical signs and symptoms
+Poor balance
+How it's treated:
+There is currently no known cure. Deafness may be treated with cochlear implants. Vision loss may be monitored with routine eye exams. Early intervention is recommended to teach alternative communication skills.
+What do we test?
+1 variant in the PCDH15 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Usher Syndrome Type 3A and our test
+Usher 3A is a rare genetic disorder. It is characterized by hearing and vision loss that begins in late childhood and worsens over time. A person must have two variants in the CLRN1 gene in order to have this condition.
+Typical signs and symptoms
+Gradual vision loss
+How it's treated:
+There is currently no known cure. Hearing loss may be treated with hearing aids. Vision loss may be monitored with routine eye exams. Early intervention is recommended to teach alternative communication skills.
+What do we test?
+1 variant in the CLRN1 gene.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test is most relevant for people of Ashkenazi Jewish descent.
+This test does not include variants commonly found in people of Finnish descent with Usher 3A.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+What to know about:
+Zellweger Syndrome Spectrum (PEX1-Related) and our test
+ZSS is a group of rare genetic disorders. The form of ZSS covered by this report is characterized by impaired hearing, vision, and organ function, as well as developmental disability and early death. A person must have two variants in the PEX1 gene in order to have this form of ZSS.
+Typical signs and symptoms
+Symptoms are typically present at birth or develop during infancy.
+How it's treated:
+There is currently no known cure. Treatment focuses on managing symptoms and preventing complications.
+What do we test?
+1 variant in the PEX1 gene.
+This test does not include the majority of PEX1 variants that cause ZSS in any ethnicity.
+There are currently no professional guidelines in the U.S. for carrier testing for this condition.
+Relevant ethnicities:
+This test does not include the majority of PEX1 variants that cause ZSS in any ethnicity.
+Test performance summary
+Accuracy was determined by comparing results from this test with results from sequencing. Greater than 99% of test results were correct. While unlikely, this test may provide false positive or false negative results. For more details on the analytical performance of this test, refer to the package insert .
+close
+Changing your location to a region outside the EU may impact how your information is processed. Keep in mind EU data protection laws may no longer apply.
+continue
+Select your location
+Our product is available in English only, and due to the applicable regulations it may only be ordered by customers with shipping addresses in the following countries. If your country is not listed, please visit the International site. (or please visit 23andMe's International site.)
+United States

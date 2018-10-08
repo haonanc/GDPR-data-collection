@@ -1,0 +1,42 @@
+WooCommerce Support Policy
+About this Support Policy
+This Support Policy describes what support you can expect from us in regards to WooCommerce Service.
+If you have questions about this Support Policy or do not agree with it, please Contact Us  before using the Website. We may amend this Support Policy from time to time, so check this page to ensure that you are aware of any changes. This Support Policy is effective from 1 December 2013.
+By using any part of the Website or providing personal information to us, you consent to us processing it as set out in this Support Policy.
+What Our Support Service Covers
+We only support our Products, sold on WooCommerce.com. Our Support Service includes assistance with Product installations, configuration and use. If you need help setting up or configuring your plugin, please first check the documentation and FAQs of the extension. Your question might have been answered already. If it hasn’t, please submit a ticket.
+Retired themes  are supported until your subscription expires. If you spot a fatal error in the code and are using the latest versions of all code on your website, please submit a ticket at our Helpdesk.
+Bug Fixing
+We will fix any defects in our Products as quickly as possible after they are brought to our attention. We will also try to provide a solution via our Helpdesk for smaller defects or errors as a precursor to a more substantial update to the particular Product as part of our scheduled Product updates. If you think you have found a bug, please let us know. If you want to speed up the process, make sure to follow the steps in our self-help guide first. If you don’t, we might ask you to go through those steps.
+What Our Support Service Does Not Cover
+Our Support Service does not cover our Products supplied by Third Parties who are not our Resellers or Third Party products and services. We may require you to disable Third Party products that are installed alongside our Products before we are able to assist you.
+We do not give general WordPress support. You can find resources and and answers around WordPress in the WordPress.org forums
+Customization
+We provide our Products as is. While we can help you to configure our products within the capabilities of each plugin, we do not customize our Products or support any Third Party customizations of our Products. A customization is anything that changes the way our Products look or function relative to how we make our Products available to you
+If you need customization, we do our best to offer advice and direct you to appropriate resources. But we do not take responsibility or endorse Third Party solutions for customized Products. Third Party services that some customers have found helpful include:
+Product Support Channels
+We provide Support Services through our Helpdesk. We do not provide our Support Service through any other channel (including, but not limited to direct e-mail, Facebook, Twitter or over the phone) at this time.
+You need to submit a ticket using the Helpdesk to take advantage of our Support Service. Depending on the product, you might be offered a live chat option. In both cases, please  bear in mind what we do support when submitting your ticket. We may ask you to send us your login details if we need them to assist you. Our Helpdesk tickets, and information you share with us through these Helpdesk tickets, are confidential. Only you and our support team will see your ticket.
+Who handles Support for extensions purchased on WooCommerce.com?
+On each product page, you can find the information about who handles the extension. Some extensions are developed by our own developers and supported by our Happiness Engineers. These extensions are marked as “Handled by WooCommerce”.
+Other extensions are developed and supported by certified extension developers. These extensions are marked as “Handled by [PARTNER]”.
+When you have a question about an extension you purchased, this question will be sent directly to the developer of that extension. If the extension is maintained by the WooCommerce team, we will get back to you. If the extension is handled by one of our certified extension developers, your request will be sent directly to them. This ensures that you get the answers you need as quickly as possible, from exactly the people that are best equipped to help you.
+Other support options
+You may find relevant community forums to be a helpful source of tips and assistance from the broader community. We do not moderate these forums and we do not control discussions taking place, so we do not take responsibility for or necessarily endorse the content of these discussions. Be sensible. When in doubt, take independent steps to verify advice you receive through community forums before relying on it.
+Our frequently answered questions (or “FAQs”) contain answers to common questions and may help answer questions you may have. These FAQs are relatively generic and may not be directly relevant to your specific query or challenge.
+General Information
+Our general support hours are Monday to Friday, 08:30 to 17:00 (South African Standard Time, or GMT+2). Although we strive to respond to all queries within 24 hours, our actual response times may vary and we may take longer to respond to more advanced or technical queries.
+If you would like to contact us regarding account-related issues or pre-sales questions, use our Contact Form . We will respond to you as soon as possible.
+Incorporation by reference
+This Support Policy incorporates the following provisions and their subordinate provisions of the Terms by reference:
+Interpreting these Use Terms
+Documents and Notices
+The provisions incorporated into this Support Policy from the Terms must be read as being applicable to this Support Policy, to the extent doing so does not materially change their meaning. To the extent the provisions of this Support Policy conflict with the Terms, the provisions of this Support Policy will prevail to the extent of the conflict.
+The defined terms in the Supplementary Glossary in the Support Policy have specific meanings in the context of this Support Policy and shall be interpreted in accordance with the principles set out in the Terms.
+Supplementary Glossary
+“ Electronic Communications” means any text, voice, sound, image or video message sent over an electronic communications network that can be stored in the network or in the recipient’s terminal equipment until it is collected by the recipient or on the recipient’s behalf;
+“ Helpdesk” means the Support Service interface on our Website, accessible at http://support.woothemes.com ;
+“ Support Policy” means this support policy, as amended from time to time;
+“ Terms” means the WooCommerce Website Use Terms located at http://woocommerce.com/terms-conditions/
+WooCommerce - the most customizable eCommerce platform for building your online business.
+Safe & Secure online payment

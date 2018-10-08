@@ -1,0 +1,81 @@
+Commitment to Individual Privacy
+The libraries of The University of North Carolina at Chapel Hill respect each library user’s right to privacy and confidentiality regarding information sought or received; resources consulted, borrowed, acquired or transmitted; and services used.
+Wherever your personal information may be held within The University of North Carolina at Chapel Hill Libraries or on its behalf, we intend to take reasonable and appropriate steps to protect the information that you share with us from unauthorized access or disclosure.
+The University of North Carolina at Chapel Hill Libraries are committed to protecting the privacy and accuracy of confidential information submitted by employees, students, and visitors to our Web site and our libraries. We do not actively share personal information gathered.
+Confidentiality of Library User Records
+The libraries comply with the North Carolina General Statutes regarding confidentiality of library user records.
+North Carolina General Statutes
+The relevant North Carolina statutes state:
+§ 125-19. Confidentiality of library user records
+(a) Disclosure. – A library shall not disclose any library record that identifies a person as having requested or obtained specific materials, information, or services, or as otherwise having used the library, except as provided for in subsection (b).
+(b) Exceptions. – Library records may be disclosed in the following instances:
+(1) When necessary for the reasonable operation of the library;
+(2) Upon written consent of the user; or
+(3) Pursuant to subpoena, court order, or where otherwise required by law. (1985, c. 486, s. 2.)
+Definitions
+As used in this Article, unless the context requires otherwise:
+(1) “Library” means a library established by the State; a county, city, township, village, school district, or other local unit of government or authority or combination of local units of governments and authorities; community college or university; or any private library open to the public.
+(2) “Library record” means a document, record, or other method of storing information retained by a library that identifies a person as having requested or obtained specific information or materials from a library. “Library record” does not include nonidentifying material that may be retained for the purpose of studying or evaluating the circulation of library materials in general. (1985, c. 486, s. 2.)
+North Carolina Public Records
+(General Statutes Chapter 132. Public Records)
+The University of North Carolina at Chapel Hill is a public institution and some information collected by the Library may be subject to the North Carolina General Statutes Chapter 132 Public Records.
+In some cases we may be compelled by law to release information gathered from our Web servers or other services. This may include server log information, e-mail messages sent to an individual identified on the Web site, and information collected from Web-based forms.
+Public Records Definition
+§ 132 1. “Public records” defined.
+(a) “Public record” or “public records” shall mean all documents, papers, letters, maps, books, photographs, films, sound recordings, magnetic or other tapes, electronic data processing records, artifacts, or other documentary material, regardless of physical form or characteristics, made or received pursuant to law or ordinance in connection with the transaction of public business by any agency of North Carolina government or its subdivisions. Agency of North Carolina government or its subdivisions shall mean and include every public office, public officer or official (State or local, elected or appointed), institution, board, commission, bureau, council, department, authority or other unit of government of the State or of any county, unit, special district or other political subdivision of government.
+(b) The public records and public information compiled by the agencies of North Carolina government or its subdivisions are the property of the people. Therefore, it is the policy of this State that the people may obtain copies of their public records and public information free or at minimal cost unless otherwise specifically provided by law. As used herein, “minimal cost” shall mean the actual cost of reproducing the public record or public information. (1935, c. 265, s. 1; 1975, c. 787, s. 1; 1995, c. 388, s. 1.)
+UNC at Chapel Hill Network Use and Privacy
+As a user of library computers and the campus network, you are subject to the University of North Carolina at Chapel Hill’s Policy on the Privacy of Electronic Information (February 27, 2002), as well as related policies.
+Electronic Information
+As stated in the Policy on the Privacy of Electronic Information, “Electronic mail and other data stored on University computers may constitute a public record like other documents subject to disclosure under the North Carolina Public Records Act or other laws, or as a result of litigation. However, prior to such disclosure, the University evaluates all requests for information submitted by the public for compliance with the provisions of the Act or other applicable law… Destruction of such records is governed by the Records Retention Policies of one’s unit of employment. Information about such policies is available from one’s supervisor…Wherever possible in a public setting, individuals’ privacy should be preserved. However, there is no guarantee of privacy or confidentiality for data stored or for messages stored or sent on University-owned equipment.”
+Individual and Institutional Responsibilities
+The  Privacy@UNC website provides privacy resources for members of the University community. Specific privacy policies are available at the  UNC-Chapel Hill Policies and Guidance  section of the site.
+We work with staff of the university’s Information Technology Services (ITS) network security staff to help ensure compliance with network policies. On occasion, this may require providing access to your personally identifiable information.
+Protected Health Information (PHI)
+The University of North Carolina at Chapel Hill Libraries serve the information needs of the UNC Health Care System. In so doing, the libraries work to protect any of your individually identifiable health information that might be obtained through interactions with the libraries.
+Protected health information is “…information that is a subset of health information, including demographic information collected from an individual, and:
+Is created or received by a health care provider, health plan, employer, or health care clearinghouse; and
+Relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual; and
+That identifies the individual; or
+With respect to which there is a reasonable basis to believe the information can be used to identify the individual.
+” as defined in section E. of the policy referenced in the  University of North Carolina at Chapel Hill Privacy of Protected Health Information Policy.
+Information Collected
+It is The University of North Carolina at Chapel Hill Libraries’ policy to collect the least amount of personally identifiable information required to fulfill its required duties and responsibilities, to complete a particular transaction or as required by law. This policy applies to the collection of all personally identifiable information, regardless of the source or medium.
+Site Administration
+For site administration functions, information, other than personal information linked to a particular individual, is collected for analysis and statistical purposes of Web site navigation. This information is used to help diagnose problems, assess what information on the sites is of most interest, determine technical design specifications, identify system performance and/or problem areas, and other administration functions.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clock stream patterns; and dates and times that our site is accessed. Our use of tracking technologies allows us to analyze trends and statistics to improve our Web site and your Web experience. Data used from tracking technologies is not linked to Web users’ personal information.
+You may choose whether or not to provide personal information to The University of North Carolina at Chapel Hill Libraries via the Internet. If you choose not to provide the personal information we request, you can still visit most of the libraries’ web site content, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+Library Accounts
+The University of North Carolina at Chapel Hill Libraries do maintain personally identifiable information for library accounts of valid library users.
+a) If you are affiliated with The University of North Carolina at Chapel Hill, the library automatically receives personally identifiable information to create and update your library account from the Registrar’s Office (for students), Human Resources (for employees), the Area Health Education Program (for AHEC staff and community preceptors), and UNC Health Care (for hospital employees). For faculty, staff, and students we only use PID numbers; for these patrons, we do not collect or use social security numbers.
+b) If you purchase borrowing privileges, we must obtain certain information about you in order to provide you with a library account.
+Information Services
+We will maintain confidentiality of information sought or received, and materials consulted, borrowed or acquired, including database search records, reference interviews, circulation records, interlibrary loan records, and other personally identifiable uses of library materials, facilities, or services.
+The Library maintains several web-based management tools, such as forms related to renewing books, asking reference questions, saving search histories or resource preferences, requesting materials, etc.
+The personally identifiable information collected through these tools and stored in the library’s computer systems will only be used to maintain your library account and provide services to you and is not made available to any other entity outside the Library except as required by law or appropriate law enforcement procedures, as noted elsewhere in this policy.
+Library Surveys and Assessments
+Periodically, The University of North Carolina at Chapel Hill Libraries conduct library surveys and assessments. Information and data obtained through electronic, group or individual surveys are considered confidential and will adhere to Institutional Review Board policies, as appropriate, unless otherwise publicly stated in the collection process or permission is explicitly obtained from the respondent(s).
+Periodically, the libraries review and use demographic and similar aggregated data for reports, both internal and external. This use does not identify individuals.
+Browser Cookies
+Some of our Web pages utilize “cookies.” A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies may serve to recall personal information previously indicated by a Web user. Cookies created by the University Libraries’ Web pages cannot be read by a third party.
+Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. To protect your privacy, it is good practice to clear your browser’s cache and temporary files regularly. UNC Information Technology Services provides  information on clearing your cache and cookies .
+Security Cameras
+Some campus libraries have security cameras installed to improve safety for patrons and staff and to help prevent theft and vandalism. These recordings are used by library staff and law enforcement officials investigating incidents that occur in the libraries.
+Vendors and Other Entities
+On The University of North Carolina at Chapel Hill Libraries’ behalf, vendors and other third parties may provide certain services available on the libraries’ Web sites. The University of North Carolina at Chapel Hill Libraries may provide information, including personal information, collected on the Web to third-party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which The University of North Carolina at Chapel Hill Libraries maintains its Web site and mailing lists. We will take reasonable steps to ensure that these third-party service providers are obligated to protect, de-identify, or dispose of personal information on our behalf.
+We license resources from vendors who may, in turn, request information from you for services, e.g., “notify me” or “alert” services. We encourage you to understand the privacy policies of those vendors and take personal responsibility for protecting your personal information.
+Enforcement
+Our library will not share data on individuals unless required by law or as noted above. Library users who have questions, concerns, or complaints about the library’s handling of their privacy and confidentiality should file written comments with the University Librarian, Director of the Law Library, or Director of the Health Sciences Library, as appropriate. We will respond in a timely manner and may conduct a privacy audit, investigation or a review of our policy and procedures.
+Requests from Law Enforcement
+The Library Directors or their administrative designees receive requests from law enforcement officers and confer with University Counsel before determining the proper response. Library administrators will not make library records available to any agency of state, federal, or local government unless a subpoena, warrant, court order or other investigatory document is issued by a court of competent jurisdiction that shows good cause and is in proper form. Library staff and volunteers are trained and expected to refer any law enforcement inquiries to library administrators.
+Requests from Vendors and Other Entities
+The libraries balance enforcement of vendor licensing terms with protecting your personal information. When vendors report suspected violations of particular license terms, e.g., ineligible users, excessive downloads, non-educational use, the libraries will investigate on behalf of the vendor. This policy does not protect your personal information if you are engaged in illegal activities or license or policy violations.
+Changes
+We will post any substantial changes in this privacy policy at least 30 days prior to changes taking effect. Any information collected under this current policy will remain bound by the terms of this privacy policy.
+After the changes take effect, all new information collected, if any, will be subject to the revised privacy policy.
+Contact Information
+For inquiries, please call the office of the University Librarian (919-962-1301) or the Director of the Law Library (919-962-1049), or contact the Libraries (email, chat, and text options).
+Disclaimer
+The information provided in this privacy statement should NOT be construed as giving business, legal, or other advice, or as warranting the security of information provided through The University of North Carolina Libraries.
+Related Policies
+Chapel Hill, NC 27515-8890

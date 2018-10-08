@@ -1,0 +1,62 @@
+or
+Your request to send this item has been completed.
+Harvard (18th ed.)
+MLA (7th ed.)
+Turabian (6th ed.)
+Export a citation
+The E-mail Address(es) field is required. Please enter recipient e-mail address(es).
+The E-mail Address(es) you entered is(are) not in a valid format. Please re-enter recipient e-mail address(es).
+You may send this item to up to five recipients.
+Enter recipient e-mail address(es):
+The name field is required. Please enter your name.
+Enter your name:
+Subject:
+The E-mail message field is required. Please enter the message.
+E-mail Message:
+Add a review
+ 
+ 
+You already recently rated this item.
+Your rating has been recorded
+Edition/Format:
+Summary:
+The first book to evaluate public-private partnerships in a broad range of policy areas.
+Rating:
+Add library to Favorites
+Please choose whether or not you want other users to be able to see on your profile that this library is a favorite of yours.
+Allow this favorite library to be seen by others
+Keep this favorite library private
+Details
+Contents:
+Mapping the terrain of the public-private policy partnership / Stephen H. Linder and Pauline Vaillancourt Rosenau --
+Coming to terms with the public-private partnership: a grammar of multiple meanings / Stephen H. Linder --
+Public-private technology partnerships: promises and pitfalls / Joseph E. Stiglitz and Scott J. Wallsten --
+The good lessons of bad experience: rethinking the future of commercial nuclear power / Walter A. Rosenbaum --
+Transportation: policy-level partnerships and project based partnerships / James A. Dunn, Jr. --
+An organizational analysis of the public-private partnership in the provision of public infrastructure / Ronald J. Daniels and Michael J. Trebilcock --
+Forming partnerships in environmental policy: the business of emissions trading in clean air management / Sheldon Kamieniecki, David Shafie, and Julie Silvers --
+The public-private nexus in education / Harry M. Levin --
+Myths and misunderstandings : health policy, the devolution revolution, and the push for privatization / Michael S. Sparer --
+From welfare state to Opportunity, Inc.: public-private partnerships in welfare reform / Mark Carl Rom --
+Policy partnering between the public and the not-for-profit private sectors: a key policy lever or a dire warning of difficulty ahead? / Nicholas P. Lovrich, Jr. --
+Public-private partnerships in the U.S. prison system / Anne Larason Schneider --
+The strengths and weaknesses of public-private policy partnerships / Pauline Vaillancourt Rosenau.
+Responsibility:
+Reviews
+ 
+User-contributed reviews
+Add a review and share your thoughts with other readers. Be the first.
+Add a review and share your thoughts with other readers. Be the first.
+Tags
+Confirm this request
+You may have already requested this item. Please select Ok if you would like to proceed with this request anyway.
+Linked Data
+    schema:description "Mapping the terrain of the public-private policy partnership / Stephen H. Linder and Pauline Vaillancourt Rosenau -- Coming to terms with the public-private partnership: a grammar of multiple meanings / Stephen H. Linder -- Public-private technology partnerships: promises and pitfalls / Joseph E. Stiglitz and Scott J. Wallsten -- The good lessons of bad experience: rethinking the future of commercial nuclear power / Walter A. Rosenbaum -- Transportation: policy-level partnerships and project based partnerships / James A. Dunn, Jr. -- An organizational analysis of the public-private partnership in the provision of public infrastructure / Ronald J. Daniels and Michael J. Trebilcock -- Forming partnerships in environmental policy: the business of emissions trading in clean air management / Sheldon Kamieniecki, David Shafie, and Julie Silvers -- The public-private nexus in education / Harry M. Levin -- Myths and misunderstandings : health policy, the devolution revolution, and the push for privatization / Michael S. Sparer -- From welfare state to Opportunity, Inc.: public-private partnerships in welfare reform / Mark Carl Rom -- Policy partnering between the public and the not-for-profit private sectors: a key policy lever or a dire warning of difficulty ahead? / Nicholas P. Lovrich, Jr. -- Public-private partnerships in the U.S. prison system / Anne Larason Schneider -- The strengths and weaknesses of public-private policy partnerships / Pauline Vaillancourt Rosenau."@ en ;
+    .
+21274
+book_printbook
+Languages:
+You:
+Follow WorldCat:
+Please sign in to WorldCat 
+User Name:

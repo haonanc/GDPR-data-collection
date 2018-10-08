@@ -1,0 +1,54 @@
+Sign up for our daily recaps of the ever-changing search marketing landscape.
+Note: By submitting this form, you agree to Third Door Media's terms . We respect your privacy .
+Privacy Policies And Search Engines
+Bill Slawski on March 27, 2008 at 11:36 am
+More
+A few weeks back, I started wondering about whether or not search engines might care whether or not a web site had a privacy policy.  Is the content of a page less relevant or more relevant if there’s a link on it to information about how any data collected about visitors might be used?  Probably not.
+But it’s possible that a search engine might consider that the source of content is more trustworthy, and more authoritative if it does include such a page.  And that may make a difference…
+Many large commercial sites hand off the creation of a privacy policy to their legal departments, and a privacy policy is usually part of what they present to visitors.  There are some standards that have been created that make it easier for a computer to read and understand that a site has a privacy policy, and what that policy contains – but those are complex, and might be something that small business owners may avoid because of their complexity.
+It may be worth it for small business owners to cut through the complexity and include a machine readable privacy policy that also reassures visitors about information that they share with a site.
+Why have a Privacy Policy Page?
+Credibility
+Simply put, including a privacy policy page on your web site can add credibility to what you offer.  It’s a sign that your business is a legitimate one which cares about interacting with consumers in a responsible manner.  Along with an “about us” page and a contact page, a privacy policy can show that there is a real business behind the pages of a site.
+Reassurance
+Most visitors to web sites are unlikely to click through a link to a privacy policy when they visit a site, but some will. Regardless, if you collect information on a site, and if you offer goods or services online, you want to increase the possibility that someone will fill out a form, or send an email, or call you.  Even if you make it as easy to contact you or order via form or phone or email, there are a number of additional steps you can take to make it more likely that visitors will take those steps.
+Beyond just appearing to be a credible business, you want to reassure potential customers that you are safeguarding their trust.  Including a logo that transactions made on a site are secure is one step towards reassurance. Displaying information about membership in organizations like a Better Business Bureau or Chamber of Commerce is another.  Displaying security and privacy information can help to increase confidence in your business.
+Privacy Policies and Paid Search
+Having a privacy policy on your web site has the power to impact how a search engine like Google perceives the quality of your pages.
+On the Google Adwords Landing Page and Site Quality Guidelines page, we are told that there are “three main components of a quality website: relevant and original content, transparency, and navigability.”
+The word “transparency” refers to how you interact with your visitors:
+In order to build trust with users, your site should be explicit in three primary areas: the nature of your business; how your site interacts with a visitor’s computer; and how you intend to use a visitor’s personal information, if you request it.
+If you advertise using Google’s paid search, the inclusion of a privacy policy may be one of the factors that the search engine is looking for when it comes to how transparent your business may be to visitors.  We’re told in the Site Quality Guidelines page:
+Visitors’ personal information:
+Unless necessary for the product or service that you’re offering, don’t request personal information.
+If you do request personal information, provide a privacy policy that discloses how the information will be used.
+Give options to limit the use of a user’s personal information, such as the ability to opt out of receiving newsletters.
+Allow users to access your site’s content without requiring them to register. Or, provide a preview of what users will get by registering.
+So the Google Adwords program appears to be looking for the same kind of indication of credibility and reassurance from the presence of a privacy policy that can help with human visitors to a site.
+Privacy Policies and Search
+Carnegie Mellon University runs the CMU Usable Privacy and Security Laboratory (CUPS), which has been exploring “privacy and security software and systems” since 2004.  One of their projects is the Privacy Finder search engine and search bar, which lets you search both Google and Yahoo in a manner that pays attention to the privacy policies of web sites.  Their Frequently Asked Questions page tells us this about how it works:
+Privacy Finder is a privacy-enhanced search engine. Once you state your privacy preferences (low, medium, high, or custom), the search results are ordered based on how their computer-readable privacy policies comply with your preferences. A privacy meter with four green boxes indicates that the website complies with all your privacy preferences. Websites that do not comply with some or all of your preferences will have privacy meters with fewer than four green boxes. The number of green boxes that are missing are proportional to the number of preference conflicts between the website’s privacy policy and your privacy preferences. The absence of the privacy meter means that a valid computer-readable privacy policy, known as a P3P policy, could not be located.
+The CMU Usable Privacy and Security Laboratory also ran an interesting study on the impact of visible privacy information in a paper that’s worth spending some time with – The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study (pdf).
+I was left with a couple of questions after reading about the projects happening in the Carnegie Mellon lab.
+While the CMU group is a strong advocate for search that acknowledges the privacy policies of sites, is this a step that Google or Yahoo or Microsoft would take – to rank sites more highly because of the inclusion of a machine readable privacy policy?
+How likely is it that most sites will start using a computer-readable privacy policy like the P3P (Platform for Privacy Preferences Project) policies?
+Phishing, Malicious Code, and Search Engines
+Phishing is an effort to use false pretenses to try to gain someone’s financial or personal information.  Google created a safe browsing plugin for Firefox , and has now incorporated the function into the Firefox toolbar.
+Search engines are also branching out to learn about and block searchers from sites that attempt to download malicious code onto their pages.  Three documents from Google, Microsoft, and Yahoo explore those topics:
+Conclusion
+The machine readable P3P standard looks like something that the average web site owner might have problems setting up themselves.  There are a number of policy generators, editors, and checkers listed on the P3P 1.0 Implementations page from the World Wide Web Consortium that may help making setting up a machine readable privacy policy easier.  Some are free, and some charge a fee.
+With safe browsing anti-phishing toolbars, landing quality scores based upon inclusion of a privacy policy, and the possibility of search engines ranking pages on the basis of privacy policies, it makes sense for businesses small and large to include privacy policies that reassure human visitors, and search engines too.
+Bill Slawski is Director of Search Marketing at KeyRelevance, Inc. , blogs at SEO by the Sea , and has been one of the Business and Marketing Forum moderators at Cre8asite Forums for the last six years. The Small Is Beautiful column appears on Thursdays at Search Engine Land .
+Opinions expressed in this article are those of the guest author and not necessarily Search Engine Land. Staff authors are listed here .
+About The Author
+Popular Stories
+Sign up for our daily recaps of the ever-changing search marketing landscape.
+Note: By submitting this form, you agree to Third Door Media's terms . We respect your privacy .
+We're listening.
+Have something to say about this article? Share it with us on Facebook , Twitter or our LinkedIn Group .
+Attend Our Conferences
+×
+Oct 1-3, 2018: Boston
+×
+Sign up for our daily newsletter.
+Follow Us

@@ -1,0 +1,35 @@
+Policy Action List
+Join our mailing list to keep up with our policy initiatives.
+The Wikimedia Foundation is a non-profit organization. We will never sell your data or use it for commercial advertising. We try to collect the minimal amount of information to run our site, and the goal of this policy is to explain that as clearly as possible.
+Hosted by Automatic
+This site is hosted by Automattic, subject to the Automattic privacy policy . In addition, this site is subject to this privacy policy, which outlines the privacy practices of the Wikimedia Foundation or “us.”
+This site is not subject to the same Wikimedia Privacy Policy as Wikipedia and other projects.
+What do we collect
+Personally identifying info
+Visiting this site will save some information like IP addresses, user agents info, and cookie data on Automattic’s servers and we will be able to access that data.
+If you sign up for the Public Policy email list, the list administrators (including the Wikimedia Foundation and some trusted volunteers) will be able to see your data.
+Cookies and tracking
+The site may use cookies or other common tracking technologies to get statistics on how you use our site. We will not be able to see your personal browsing data.
+How will we keep your data
+Purpose
+We will keep your data to run and improve the site. Our goal is to retain the minimal amount of information for this purpose.
+Data retention
+We will delete or anonymize personally identifying info after 90 days. But we will keep your email address for as long as you remain on the Public Policy email list.
+Who has access
+The Wikimedia Foundation staff may need access to your data to run and improve the site. A few trusted volunteers can also access your email address as administrators if you sign up for the mailing list.
+When may we share your data
+We may share your personally identifying info if you consent, if the Wikimedia Foundation gets transferred (very very unlikely!), to protect our users and services, or pursuant to a law enforcement request (see below).
+Law enforcement and legal demands
+We share your personally identifying info if we reasonably believe that it is necessary to satisfy a legally enforceable warrant, subpoena, administrative or court order, or law or regulation. When possible, we will notify you via email at least ten (10) calendar days before we disclose your personally identifying info in response to a legal demand. However, we may not provide notice if we are legally restrained from contacting you, or if there is a credible threat to life or limb.
+Nothing in this policy is intended to limit any legal objections or defenses you may have to protect your information. We recommend seeking legal counsel immediately if you are involved in a legal demand.
+About this policy
+Updates
+Things naturally change over time. To ensure this policy accurately reflects our practices and the law, we reserve the right to modify it.
+We will provide reasonable notice of policy updates. Please review the most recent version of this policy. You accept the new version of this policy if you use the site after we announce an update. We’ll save a copy of the previous versions of this policy and link to them below (as Wikipedians we love keeping a revision history).
+Contact us
+If you have questions or suggestions about this policy, or the information collected under this policy, please email us at privacy@wikimedia.org or contact us directly.
+September 2, 2015: original version of this privacy policy
+To discuss or help translate this page visit the public policy discussion group.
+Keep up-to-date with Wikimedia’s policy initiatives
+The list admins will not give your email address to others.
+Wikimedia Public Policy

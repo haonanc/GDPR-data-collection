@@ -1,0 +1,35 @@
+Contact Email: 
+Reason for Policy: 
+The Georgia Institute of Technology Data Privacy Policy provides the standards the Institute follows when accessing the files and communications of its students and employees. In the interest of promoting academic freedom and the mission of the Institute, the Georgia Institute of Technology (Georgia Tech) recognizes its obligation not to infringe upon the reasonable privacy expectations of its employees and students in their electronic communications and data.
+Policy Statement: 
+Georgia Tech provides information technology resources to faculty members, staff and students for the purpose of furthering Georgia Tech’s mission and conducting Georgia Tech business. While personal use of such systems is permitted, as per the Georgia Tech Acceptable Use policy, personal communications and files transmitted over or stored on Georgia Tech systems are subject to the same regulations as business communications.
+Georgia Tech is committed to respecting the privacy expectations of its employees and students; however, consistent with this policy, electronic information that is transmitted over or stored in Georgia Tech systems and networks is subject to being audited, inspected and disclosed to fulfill administrative or legal obligations which may include, but are not limited to, the following:
+is necessary to comply with legal requirements or process (e.g., Georgia Open Records Act or subpoena);
+may yield information necessary for the investigation of a suspected violation of law or regulations, or of a suspected infraction of Georgia Tech or Board of Regents policy;
+is needed to maintain the security of Georgia Tech computing systems and networks;
+is needed for system administrators to diagnose and correct problems with system software or hardware;
+may yield information needed to deal with an emergency;
+is needed for the ordinary business of the Institute to proceed, (e.g., access to data associated with an employee who has been terminated/separated or is pending termination/separation, is deceased, is on extended sick leave, or is otherwise unavailable);
+is necessary to comply with a written request from the Vice President for Student Life on behalf of the parents, guardian, or personal representative of the estate of a deceased student; or
+is for research authorized by Georgia Tech under a data use agreement that precludes the disclosure of personally identifiable information.
+Scope: 
+This policy governs access to the files and communications transmitted on or stored in Georgia Tech’s IT Resources.
+Any individual whose personal files and communications exist on a Georgia Tech IT Resource by virtue of unauthorized access will have no expectation of privacy.
+Definitions
+Procedures: 
+Application, System, and Network Login Banner
+Where possible, all Georgia Tech applications and systems (excluding endpoints and mobile devices) must display the following login banner to all users prior to authentication of user credentials:
+TERMS OF USE
+This information technology resource is the property of the Georgia Institute of Technology and is available for authorized use only, in accordance with Institute IT policies (http://policylibrary.gatech.edu/information-technology). Any and all files on this system are subject to being audited, inspected and disclosed to authorized system administrators and/or law enforcement personnel to fulfill administrative and/or legal obligations.  By using this system, I acknowledge these terms.
+Requests for Access
+All requests for access to information that is transmitted over or stored on Georgia Tech systems and networks should be directed to the Chief Information Officer or designee.  The determination of whether access to information is necessary to fulfill administrative or legal obligations is made by the Chief Information Officer or designee, and may not be made at the departmental or unit level.
+Business Continuity
+Deceased Students
+Emergency
+Legal Requirements
+Research
+System Integrity
+Violation of Law or Policy
+Refer to Security Standards and Procedures for detailed procedures.
+Enforcement: 
+Violations of the policy may result in loss of system, network, and data access privileges, administrative sanctions (up to and including termination or expulsion) as outlined in applicable Georgia Tech disciplinary procedures, as well as personal civil and/or criminal liability.  

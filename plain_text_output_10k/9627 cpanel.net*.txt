@@ -1,0 +1,174 @@
+cPanel Privacy Policy
+1. OUR APPROACH TO PRIVACY
+1.1 cPanel is committed to providing information to its customers about how cPanel uses certain information.  This Privacy Policy describes the ways in which cPanel, Inc. (cPanel, we or our) collects, uses, maintains and discloses information collected from our customers through the use of the cPanel Product and visitors to our websites (collectively, you or your).
+1.2 If you have a question about this Privacy Policy or how we use information collected about you, we encourage you to send an email to us at: privacy [at] cpanel.net.
+1.3 Our Privacy Policy supplements, but does not replace, any other agreements or policies applicable to you including our Terms of Service (TOS), Partner NOC Agreement and Acceptable Use Policy (AUP).  You may find these policies useful in learning how we handle information.
+1.4 cPanel complies with the EU-US Privacy Shield Framework and the Swiss-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and Switzerland to the United States, respectively (Privacy Shield). cPanel has certified that it adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity, purpose limitation, access, and recourse, enforcement and liability (Principles). If there is any conflict between this Privacy Policy and the Privacy Shield Principles, the Principles shall govern. To learn more about Privacy Shield, please visit the U.S. Department of Commerce Privacy Shield website: https://www.privacyshield.gov/ For more information regarding our Privacy Shield certification, please see: https://www.privacyshield.gov/list .
+2. WHAT OUR PRIVACY POLICY COVERS
+2.1 This Privacy Policy sets out how we collect, store, process, transfer, share and use data that identifies or is associated with you (Personal Information) and information regarding our use of cookies and similar technologies.
+2.2 cPanel provides software and services which allow customers to manage their web hosting activities via hosting automation software (cPanel Product) made available via our website located at https://cpanel.com (Website) or through those licensed to distribute the cPanel Product, or those who are legally entitled to use the cPanel Product (Authorized Distributors).  The term “cPanel Product” excludes third party software, applications and similar items incorporated into our software and services.
+2.3 This Privacy Policy applies to the cPanel Product and our Website.
+2.4 Before accessing our Website or using the cPanel Product, please ensure that you have read and understood this Privacy Policy.
+2.5 cPanel is the data controller of the Personal Information we hold about you
+3. PERSONAL INFORMATION WE COLLECT ABOUT YOU AND HOW WE USE IT
+3.1 We process Personal Information about the following types of individuals:
+(a) individuals who are our direct customers;
+(b) where our customer is a business or similar entity, individuals who are our customer’s employees, agents and other representatives; and
+(c) where the cPanel Product is licensed through an Authorized Distributor, individuals who are customers of our Authorized Distributors.
+3.2 We collect Personal Information about you when you voluntarily submit information directly to us when you access our Website or use the cPanel Product. This can include information you provide to us when you register for an account, fill in a form, correspond with us via the Website, phone, email or otherwise, subscribe to our mailing lists, newsletters or other forms of marketing communications, respond to surveys or use some other feature of the cPanel Product as available from time to time.
+3.3 If you choose not to provide Personal Information, we may not be able to provide the cPanel Product to you or respond to your other requests.
+3.4 Schedule 1 describes categories of Personal Information we collect and how we use that Personal Information. When we process that Personal Information, the legal basis we rely on for this activity is also set out.  If Personal Information is provided to third parties, that fact is stated.  Finally, Schedule 1 also sets out information as to how we determine applicable retention periods.
+3.5 Regardless of whether you license the cPanel Product directly from us, or an Authorized Distributor, we automatically collect certain Personal Information about you indirectly about how you access and use the cPanel Product and information about the device you use to access the cPanel Product.
+3.6 Schedule 2 sets out the categories of Personal Information we collect about you automatically and how we use that information. The schedule also lists the legal basis which we rely on to process the Personal Information, the categories of recipients of the Personal Information and information as to how we determine applicable retention periods.
+3.7 We may link or combine the Personal Information we collect about you and the information we collect automatically. This allows us to provide you with a personalized experience regardless of how you interact with us.
+3.8 We may anonymize and aggregate any of the Personal Information we collect (so that it does not directly identify you). We may use anonymized information for purposes that include testing our IT systems, research, data analysis, improving the cPanel Product and developing new products and features. We may also share such anonymized information with others.
+4. MARKETING AND ADVERTISING
+4.1 From time to time we may contact you with relevant information about the cPanel Product. Most messages we send will be by email. For some messages, we may use Personal Information we collect about you to help us determine the most relevant information to share with you.
+4.2 If you do not want to receive such messages from us, you will be able to tell us by selecting certain boxes on forms we use when we first collect your contact details. You can change your marketing preferences by clicking on the unsubscribe link at the bottom of our emails, or following the “update preferences” on these emails.
+5. APPLYING FOR A JOB THROUGH OUR SITE
+If you apply for a job through the Website, we, or a human resources company assisting us, may ask you to provide certain self-identifying information in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission (EEOC), and other federal, state, and local regulatory agencies. Providing self-identifying information is voluntary, but if you do provide us with that information, we may submit it to the EEOC, and other federal, state, and local regulatory agencies, upon legal compulsion, for business-related purposes, responding to information requests, fulfilling regulatory reporting requirements and defending against employment related complaints.
+6. STORING AND TRANSFERRING YOUR PERSONAL INFORMATION
+6.1
+Security.
+We implement and maintain appropriate technical and organizational measures to protect your Personal Information against accidental or unlawful destruction, loss, change or damage. All Personal Information we collect from the cPanel Product will be stored on secure servers. All electronic transactions entered into via our Website will be protected by SSL encryption technology.
+Where you register for an account on the cPanel Product, you are responsible for maintaining your account’s security as more specifically explained in our TOS.  If you are not a direct cPanel customer, information about your account’s security may be explained in the contract between you and the Authorized Distributor from whom you license the cPanel Product.
+6.2 International Transfers of your Personal Information. The Personal Information we collect may be transferred to and stored in countries outside of the jurisdiction you are in where we and our third party service providers have operations. If you are located in the European Union (EU), your Personal Information will be processed outside of the EU including in the United States; these international transfers of your Personal Information are made pursuant to appropriate safeguards, such as the EU-US Privacy Shield. If you wish to inquire further about these safeguards used, please contact us using the details set out at the end of this Privacy Policy.
+6.3 Disclosure to Government Agencies and Law Enforcement. Our Transparency Report discusses the standards we use to evaluate disclosures to governments and law enforcement agencies.  It is incorporated into this Privacy Policy.
+7.  CERTAIN RIGHTS THAT APPLY IF YOU ARE LOCATED IN THE EU
+7.1 Under the GDPR
+7.2 In accordance with applicable privacy law, you have the following rights regarding Personal Information covered by the GDPR that we hold:
+(a) Right of access. The right to obtain access to your Personal Information.
+(b) Right to rectification. The right to obtain rectification of your Personal Information without undue delay where that Personal Information is inaccurate or incomplete.
+(c) Right to erasure. The right to obtain the erasure of your Personal Information without undue delay in certain circumstances, such as where the Personal Information is no longer necessary in relation to the purposes for which it was collected or processed.
+(d) Right to restriction. The right to obtain the restriction of the processing undertaken by us on your Personal Information in certain circumstances, such as where the accuracy of the Personal Information is contested by you, for a period enabling us to verify the accuracy of that Personal Information.
+(e) If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy.
+7.3 Pursuant to Privacy Shield
+7.4 For data that is received or transferred pursuant to the Privacy Shield, we have agreed to the Privacy Shield’s principles of Notice, Choice and Onward Transfer.  Pursuant to Privacy Shield:
+(a) Notice:  Schedules 1 and 2 describe the Personal Information we collect about you, how we use it, and the types of third parties with whom we share it.
+(b) Choice:  Disclosure to third parties of Personal Information covered by Privacy Shield is set out in Schedules 1 and 2.  For Personal Information covered by Privacy Shield, and which is not required for the operation of the Product or Services, we will provide you with an opportunity to decline to have us disclose this Personal Information to third-parties for a purpose that is different than the one for which it was originally collected.  Email marketing is opt-in, lists are segmented by reason for collection, and recipients may remove their names from email lists by unsubscribing.
+(c) Onward Transfer:  When cPanel discloses information to third parties to provide functions on its behalf, cPanel will take appropriate measures to protect the privacy of the Personal Information it transfers.  These measures are set out in paragraph 6.1.  This Personal Information will only be shared with third parties to the extent reasonably necessary for them to perform the services contracted for, or when cPanel must comply with applicable law.  Third parties will not be authorized by us to process Personal Information in any other way.  cPanel is responsible for the processing of Personal Information that it transfers to third parties acting as an agent on its behalf.
+(d) If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy.
+7.5 Privacy Shield Jurisdiction and Enforcement
+(a) As part of our participation in the Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+(b) In compliance with the EU-US and Swiss-US Privacy Shield Principles, cPanel commits to resolve complaints about your privacy and our collection or use of your Personal Information transferred to the United States. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact cPanel using the contact information listed at the end of this policy
+(c) cPanel has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus.  If your complaint is not satisfactorily addressed, please visit https://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint.
+(d) Finally and as a last resort, EU or Swiss individuals with residual complaints may invoke a binding arbitration option before the Privacy Shield Panel (as that term is defined in the Privacy Shield Framework
+(e) Please note that we may be liable for the onward transfer of EU and Swiss personal data to agent third parties unless we can provde we were not a party to the actions giving rise to the damages.
+(f) cPanel may be required to reveal EU and Swiss Personal Information in response to lawful requests by public authorities and to meet national security and law enforcement requirements.  Our policies regarding this topic are set out in our transparency report: https://cpanel.com/transparency-report.html
+8. COOKIES AND SIMILAR TECHNOLOGIES
+8.1 The cPanel Product and Website use cookies to distinguish you from others. This helps us to provide you with a good experience when you use the cPanel Product orbrowse our Website and also allows us to improve both the cPanel Product and Website.
+8.2 Cookies are pieces of code that allow for personalization of your experience by saving your information such as user ID and other preferences. A cookie is a small data file that we transfer to your device's hard disk (such as your computer or smartphone) for record-keeping purposes.  A list of the cookies we use and other relevant information is set out in Schedule 3.
+8.3 We use the following types of cookies:
+(a) Strictly necessary cookies. These are cookies that are required for the essential operation of our Website such as to authenticate users and prevent fraudulent use.
+(b) Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
+(c) Functionality cookies. These are used to recognize you when you return to our Website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region), and your username.
+(d) Targeting cookies. These cookies record your visit to our Website, the pages you have visited and the links you have followed. We will use this information to make our Website, and the advertising displayed on it, more relevant to your interests. We may also share this information with third parties for this purpose.
+Please be aware that third parties (for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+8.4 The cookies we use are designed to help you get the most from the Website but if you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to refuse cookies you may not be able to use the full functionality of our Website. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+9. SELF SERVICE PORTALS
+cPanel may provide blogs, chat features and moderated and unmoderated FAQs on the Website (Self Service Portal).  When you interact with a Self Service Portal, the information you provide may be read by cPanel employees.  In addition, if you provide information to a Self Service Portal, other than a chat function operated by cPanel, any Personal Information you submit may be seen by third parties outside of cPanel’s control.
+10. LINKS TO THIRD PARTY SITES
+The cPanel Product may, from time to time, contain links to and from third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites.
+11. OUR POLICY TOWARDS CHILDREN
+The cPanel Product is not directed at persons under 13 and we do not knowingly collect Personal Information from children under 13. If you become aware that your child has provided us with Personal Information, without your consent, then please contact us using the details below so that we can take steps to remove such information and terminate any account your child has created with us.
+12. CHANGES TO THIS POLICY
+We may update this Privacy Policy from time to time. When we change this Privacy Policy in a material way, we will update the "last modified" date at the end of this Privacy Policy and provide notice on our account management software.  Because the individual who accesses the cPanel Product may be different than the person who has authority to license the cPanel Product from us, it is important that the person with licensing authority review this Privacy Policy regularly.  Changes to this Privacy Policy are effective when they are posted on this page.
+13. NOTICE TO YOU If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this by email, by placing a notice on our Website, as well as contacting the email address provided to us by you, or the Authorized Distributor. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this Privacy Policy.
+14. CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS
+14.1 Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information relating to third parties to which the company has disclosed certain categories of Personal Information during the preceding year for the third parties’ direct marketing purposes.  Alternatively, the laws provides that a company may comply, as cPanel does, by disclosing in its Privacy Policy that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice.  As stated above in this Privacy Policy, cPanel provides you choice prior to sharing your Personal Information with third parties for their direct marketing purposes.  If you do not opt-in or if you choose to opt-out at the time cPanel offers that choice, cPanel does not share your information with that identified third party for its direct marketing purposes.
+14.2 If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: privacy [at] cpanel.net or write to us at the following mailing address:
+cPanel, Inc.
+Attention: Privacy
+Houston, TX 77092
+Please put the statement "Your California Privacy Rights” in the subject field of your e-mail or include it in your letter if you choose to write to us at the designated mailing address. You must also include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labelled or sent properly, and do not have complete information.
+15. SWEEPSTAKES, CONTESTS AND PROMOTIONS
+We may offer sweepstakes, contests, and other promotions (Promotion) that may require registration.  By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you by, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion.  If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion in connection with winner selection, prize fulfilment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
+16. CONTACTING US
+16.1 Questions, comments and requests regarding this Privacy Policy are welcome and should be addressed to the General Counsel at privacy [at] cpanel.com.
+16.2 This Privacy Policy was last modified on June 1, 2018.
+SCHEDULE 1 – PERSONAL INFORMATION WE COLLECT WHEN YOU USE THE CPANEL PRODUCT
+Category of Personal Information
+How We Use it
+Categories of recipients
+Retention period
+Contact information and basic personal details. Such as your name, phone number, address, domain                 name, e-mail address and, where applicable, employment information such as name of your company and the nature                 of your role.
+We use this information to:
+communicate with you, sending statements and invoices, communications, news, alerts and marketing communications;
+deal with inquiries and complaints made by or about you relating to the cPanel Product;
+operate, maintain and provide to you the features and functionality of the cPanel Product;
+authenticate users to our products and systems;
+process applications where you have applied for a job with us;
+Enter you into sweepstakes, contests and promotions at your request.
+The processing is necessary for:
+the performance of a contract and to take steps prior to entering into a contract; and
+our legitimate interests, namely administering the cPanel Product, administering our ticketing and abuse                         systems for marketing purposes, for processing job applications and for communicating with users
+As required in accordance with how we use it, we will share your Personal Information with the following:
+Service providers and advisors. Third party vendors and other service providers that perform                     services for us, on our behalf, which may include providing mailing or email services, HR services, tax                     and accounting services, payments processing, data enhancement services, fraud prevention, web hosting,                     or providing analytic services.
+Purchasers and third parties in connection with a business transaction. Personal Information                     may be disclosed to third parties in connection with a transaction, such as a merger, sale of assets                     or shares, reorganization, financing, change of control or acquisition of all or a portion of our business.
+Other third parties using the Self Service Portal. Where you provide information to a Self Service                     Portal (other than a char function operated by cPanel), your comments and any other Personal Information                     you submit may be seen by other third parties
+Law enforcement, regulators and other parties for legal reasons. Third parties as required by                     law or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable                     requests of law enforcement and regulators; (b) enforce our Terms of Use or to protect the security or                     integrity of our Website; and/or (c) exercise or protect the rights, property, or personal safety of                     cPanel, our customers or others.
+For no longer than necessary for the purposes set out and in accordance with our legal obligations and legitimate                 business interests.
+Payment information. Details such as your bank account number or PayPal account and related information.
+We use this information to facilitate payment for use of the cPanel Product and to detect and prevent fraud.
+The processing is necessary for the performance of our contract with you and our legitimate interests, namely                 the detection and prevention of fraud and to ensure our users get paid for the resources they have provided.
+Technical and server information. Information required for ongoing web-hosting activities such as:                 server address / hostname, IP address, domain name; log files; configurative files; service reports; and                 server-related information which we retrieve from your server where you have requested technical support                 which may also include usernames and passwords, root directory, affected accounts such as email accounts.
+We use this information to:
+operate, maintain and provide to you the features and functionality of the cPanel Product; resolve your                         technical issues at your request; and facilitate our customer interaction activities and customer                         forums; and
+where you have had a technical issue, we sometimes use the information to replicate the issue in order                         to identify weaknesses and make improvements to the cPanel Product. Normally, we will use an anonymized                         copy of this information though sometimes this is not possible.
+authenticate users to our products and systems.
+The processing is necessary for the performance of our contract with you; and administering our ticketing                     and abuse systems.
+Where we collect and use your Personal Information for the purposes of improving the cPanel Product, we will                     first obtain your consent.
+HTTP request of the user; information about the browser, host name, cpanel company ID, browser type and language;                 reads first party cookies; CAKEPHP site counting cookie; and number of visits to site.
+Third party code included in the cPanel Product retrieves data from HTTP requests of the user and via first party                 cookies. This enables a third party to perform analytics and provide aggregated analytical information to                 cPanel.
+The processing is necessary for our legitimate interests, namely: to tailor the cPanel Product to the user and                 to improve the cPanel Product generally; to monitor and resolve issues; and for marketing purposes.
+Correspondence and comments. When you contact us directly, e.g. by email, phone, mail, via the Self                 Service Portal, when you post on message boards, blogs or complete an online form, we will record your comments and opinions.
+To address your questions, issues and concerns and improve the cPanel Product, to determine products and services                 that may be of interest to you and to send you news, alerts and marketing communications in accordance with                 your marketing preferences.
+The processing is necessary for our legitimate interests, namely communicating with users and for marketing purposes.
+Self identifying information. Where you have applied for a job with us, you may voluntarily provide                 us with certain self-identifying information.
+We use this information for regulatory purposes, fulfilling regulatory reporting requirements, responding to                 information requests and defending against employment related complaints.
+The processing is necessary for:
+the compliance with legal and regulatory obligations; and
+our legitimate interests, namely defending against employment related complaints
+All Personal Information set out above.
+We will use all the Personal Information we collect to operate, maintain and provide to you the features and                 functionality of the cPanel Product, to communicate with you, to monitor and improve the cPanel Product,                 our Website and business, and to help us develop new products and services.
+The processing is necessary for our legitimate interest, namely to administer and improve the cPanel Product,                 our Website, our business and develop new services.
+SCHEDULE 2 – PERSONAL INFORMATION COLLECTED AUTOMATICALLY
+Category of Personal Information
+How we use it
+Categories of recipients
+Retention period
+Information about how you access and use the cPanel Product. For example, the website from which you came and the website to which you are going when you leave our Website, how frequently you access the cPanel Product, the time you access the cPanel Product and how long you use them for, whether you open emails or click the links contained in emails, whether you access the cPanel Product from multiple devices, and other actions you take on the cPanel Product.
+We use this information to:
+present the cPanel Product to you on your device;
+determine news, alerts and other products and services that may be of interest to you for marketing purposes;
+monitor and improve the cPanel Product and our business, and to help us develop new products and services; and
+Validate our software and license status.
+The processing is necessary for our legitimate interests, namely: to tailor the cPanel Product to the user and to improve the cPanel Product generally; to monitor and resolve issues; for marketing purposes; to communicate with users; to contact users; and for the detection and prevention of fraud.
+As required in accordance with how we use it, we will share your Personal Information with the following:
+Service providers and advisors.
+Third party vendors and other service providers that perform services for us, on our behalf, which may include providing mailing or email services, tax and accounting services, payments processing, data enhancement services, fraud prevention, web hosting, or providing analytic services.
+Purchasers and third parties in connection with a business transaction. Personal Information may be disclosed to third parties in connection with a transaction, such as a merger, sale of assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business.
+Law enforcement, regulators and other parties for legal reasons. Third parties as required by law or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) enforce our Terms of Use or to protect the security or integrity of our Website; and/or (c) exercise or protect the rights, property, or personal safety of cPanel, our customers or others.
+For no longer than necessary for the purposes set out and in accordance with our legal obligations and legitimate business interests.
+Information about your device. We also collect information about the computer, tablet, smartphone or other electronic device you use to connect to the cPanel Product. This information can include details about the type of device, unique device identifying numbers, operating systems, browsers and applications connected to the cPanel Product through the device, information about the server upon which the cPanel Product software log files, configurative files, server reports, your Internet service provider or mobile network, your IP address.
+We use this information to:
+enable the cPanel Product to be presented to you on your device;
+operate, maintain and provide to you the features and functionality of the cPanel Product;
+monitor and improve the cPanel Product and business, and to help us develop new products and services.
+Validate our software and license status.
+Facilitate our customers interaction activities and customer forums.
+The processing is necessary for our legitimate interests, namely: to tailor the cPanel Product to the user and to improve the cPanel Product generally; to monitor and resolve issues; for marketing purposes; to communicate with users; to contact users; and for the detection and prevention of fraud.
+For no longer than necessary for the purposes set out and in accordance with our legal obligations and legitimate business interests.
+SCHEDULE 3 – INFORMATION REGARDING COOKIES
+Information collected by cookie
+Website uses
+Google analytics:
+HTTP request of the user: information about the browser, host name, browser type and language.
+cPanel, Google and DoubleClick
+The cookie retrieves data from HTTP requests of the user and via first party cookies. This enables Google to perform analytics and provide aggregated analytical information to cPanel.
+Persistent: cookie remains on visiting computer until deleted by visitor.  cPanel retains aggregate information from Google analytics perpetually.  No personal data is conveyed by Google to cPanel.
+Persistent:
+cookie remains on visiting computer until deleted by visitor.  cPanel retains aggregate information from Google analytics perpetually.  No personal data is conveyed by Google to cPanel.
+cPanel
+Persistent: cookie remains on visiting computer until deleted by visitor.
+Open source and cPanel

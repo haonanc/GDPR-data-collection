@@ -1,0 +1,90 @@
+ 
+Inside Higher Ed values your privacy and promises to protect your personally identifiable information. The privacy policy below applies to all Inside Higher Ed sites and services. Some third-party service providers used by Inside Higher Ed may have their own privacy policies, and Inside Higher Ed is not responsible for their privacy policies or any other practices of these sites, it is always our intention to work with reputable providers who maintain views similar to ours regarding privacy. Below, we’ll detail the ways in which we may collect information about you and how that information is handled.
+ 
+Account Creation
+You only need to provide an email address to subscribe to Inside Higher Ed (create an “Account”). You have the option to provide additional data, such as your name, job title, organization, or geographic location, but you are not required to do so to receive email newsletters from us.
+Other Information You Provide
+If you are making a purchase or otherwise entering information on our site (including to apply to a job, comment on an article, or access specific content such as a booklet/survey or webcast), we may require information to help process your transaction. This might include but is not limited to: your name, email address, job title, organization, mailing address, phone number, credit card information or other information to help facilitate your experience or purchase. The only time we will ask for credit card information is when you are making a purchase on our site.
+From time to time, Inside Higher Ed collects data from users via surveys or other forms of market research. This data may be shared with third parties, such as advertisers, but is done so in aggregate. The only time you will need to provide personally identifiable information is if you wish to enter a contest associated with a particular survey; in those cases, you will need to provide an email address, so we can contact you about your prize. Participation in any survey is completely voluntary.
+Information You Authorize From Third-Party Services
+ 
+Non-Identifiable Information
+Inside Higher Ed uses third-party analytics providers, such as Google Analytics and Chartbeat, to monitor and analyze site traffic. Our systems collect basic information about your computer, including IP address, location, operating system or browser. We also collect information about the content and services our users access on the site, including the pages they visit and the duration of use. We use this information to help us understand the needs and preferences of the Inside Higher Ed audience as a whole. This information is not used to identify any specific user or track a specific user’s behavior on the site. Our systems also collect information from cookies, web beacons and similar technologies. To read more about our use of these technologies, please see the “Use of Cookies” section.
+Other Information
+ 
+How We Use Your Information
+We may use your information in one or more of the following ways:
+Provide the information or services you requested: This may include, but is not limited to, sending you electronic newsletters, sending you job alerts, processing your registration for a webcast or event, or enabling you to comment on an article.
+To communicate with you: We use your information to send you customer service or transactional emails. These may include, but are not limited to, communications regarding the status of your job posting, reminders about events for which you registered, replies to your email or phone inquiries, emails containing resources you requested or purchase confirmations.
+Provide information, services or advertising based on your information or preferences: We may use your information to inform you about resources that may be of interest to you. For example, if you subscribe to our “Admissions Insider” newsletter, we may send you an invitation to a webcast on our annual “Survey of College and University Admissions Directors.” These other messages may include marketing messages from Inside Higher Ed partners. You have the right to opt out of getting those messages while still getting content from Inside Higher Ed. If you do not wish to receive these messages, click the “Manage Subscription Preferences” link in your email and uncheck the box(es) designating “Inside Higher Ed Resources & Events” and/or “Partner Resources & Events.” Please note that these selections are not permanent; they may be changed in the event you register for other products or services and consent to receive marketing messages. You may also email us at publishing@insidehighered.com for assistance.
+Conduct statistical analysis of our website(s): The information we collect is used to analyze and ultimately improve our sites and services to better serve our users.
+ 
+At Your Direction or With Your Consent
+ 
+ 
+Accessing specific content and/or registering for an event: In some cases, we may ask for your information to facilitate the access of site content or to register for an event. This content and/or event is made possible in part by the support of a sponsor(s) and the information you provide will be shared with the sponsors(s) stated on the download or registration form. For example, if you register for a webcast sponsored by a particular company, your information may be shared with that company and also used internally for marketing purposes. The download or registration form will clearly state that your information will be shared and will require your consent to this sharing before you can access the resources or register for the event. Inside Higher Ed is not responsible for the marketing or privacy practices of sponsors or business partners.
+Provide the Information or Services You Requested
+Inside Higher Ed uses third parties for services and functions such as managing user accounts, sending email newsletters and processing payments. Your information may be shared with the third-party services who are responsible for processing or facilitating these services on our behalf, including, but not limited to, third-party authentication, email or newsletter distribution, or data service providers and subcontractors. For example, Inside Higher Ed Careers is powered by the Madgex Job Board Platform; if you post a job to or apply for a job through Inside Higher Ed Careers, your information will be shared with and handled by Madgex. Likewise, when purchasing a product or service from us, your payment information will be shared with the third-party company that is responsible for processing financial transactions for Inside Higher Ed.  
+ 
+Use of Cookies
+To enhance your experience on our Services, we may place "cookies" on your computer or device. Cookies are small text files that store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, creating an account. Once you choose to provide us with your personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device and may enable us to recognize you as the same user who has used our services and relate your use of the Services to other information about you, such as your usage information and personal information.
+We use cookies (including, but not limited to cache cookies, web beacons or clear gifs) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
+ 
+Policy Regarding Children
+ 
+Your Right to Information
+ 
+How We Retain Your Data
+ 
+How We Protect the Security of Your Data
+ 
+Contact Us
+ 
+Dispute Resolution
+ 
+Changes to Our Privacy Policy
+We review this privacy policy regularly and may modify or otherwise update it at any time. The current version in effect will be available on our website at https://www.insidehighered.com/content/privacy . We encourage you to review this policy from time to time to understand how your data is collected and used.
+Last Updated: 5-23-2018
+{* loginWidget *}
+We have found an existing account for the email address.
+Please sign in to update your newsletter preferences.
+{* /emailNewsletterEnrollmentForm *}
+Account Reactivation Failed
+Account Activated
+Email Verification Required
+You must verify your email address before signing in. Check your email for your verification email, or enter your email address in the form below to resend the email.
+{* #resendVerificationForm *}             {* signInEmailAddress *}
+{* #socialRegistrationForm *} {* firstName *}             {* lastName *}             {* displayName *}             {* emailAddress *}             {* optInIHE *}             {* optIn3rdParty *} {* agreeToTerms *}
+{* /socialRegistrationForm *}
+Almost Done
+Please confirm the information below before signing in. Already have an account? Sign In.
+{* #registrationForm *} {* firstName *}             {* lastName *}             {* displayName *}             {* emailAddress *}             {* newPassword *}             {* newPasswordConfirm *}             {* optInIHE *}             {* optIn3rdParty *} {* agreeToTerms *}
+{* /registrationForm *}
+Thank You for Registering
+We have sent a confirmation email to {* emailAddressData *}. Please check your email and click on the link to verify your email address.
+We'll send you a link to create a new password.
+{* #forgotPasswordForm *}             {* signInEmailAddress *}
+Create New Password
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+Create New Password
+This email address was registered with a social account. We've sent an email with instructions to create a new password, which can be used in addition to your linked social providers.
+{* #signInForm *}                 {* signInEmailAddress *}                 {* currentPassword *}
+Resend Verification Email
+Sorry, we could not verify that email address. Enter your email below, and we'll send you another email.
+{* #resendVerificationForm *}             {* signInEmailAddress *}
+Verification Email Sent
+Check your email for a link to verify your email address.
+Create New Password
+We didn't recognize that password reset code. Enter your email below, and we'll send you another email.
+{* #resetPasswordForm *}             {* signInEmailAddress *}
+Create New Password
+We've sent you an email with instructions to create a new password. Your existing password has not been changed.
+Link Your Accounts
+This allows you to sign in to your account using that provider in the future.
+{* loginWidget *}
+{* /linkAccountContainer *}
+Password
+{* savedProfileMessage *}
+{* /editProfileForm *}
+Deactivate Your Account
+Are you sure you want to deactivate your account? You will no longer have access to your profile.

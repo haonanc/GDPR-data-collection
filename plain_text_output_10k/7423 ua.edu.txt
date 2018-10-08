@@ -1,0 +1,16 @@
+Privacy policy
+Your privacy matters to us, and we make every effort to provide you with the best possible user experience while respecting the highest privacy standards. In a rapidly changing environment, our privacy policy needs to be constantly updated to keep par with changing technologies and user expectations. In this page we keep you updated about developments in our privacy policy.
+Cookie policy
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to "remember" your actions or preferences over time.
+We use our own session and permanent cookies to:
+Authenticate you and keep you logged in. For instance, we use a cookie so that you don't need to re-enter your login information every time you enter the site from the same computer or device.
+Remember your custom preferences. For instance, we may use a cookie to remember the language in which you want to see content displayed when there are translations available.
+Help you complete tasks without having to re‑enter information when browsing from one page to another or when visiting the site later. For instance, we may use a cookie to remember your search filters in some search forms.
+We never use our own cookies to track you or show you ads, and we never sell this information to anyone.
+Session and permanent third-party cookies are also served by some of our partners:
+Youtube: When we embed Youtube videos on our site, they serve their own cookies, which they use for behavioral target advertising, i.e. showing you ads relevant to some page you visited or some video you watched on our site. In order to minimize the effect this may have on your privacy, we implement the so-called "Privacy-Enhanced Mode" when we embed Youtube videos. This means that no permanent cookies will be served until you actually play those videos.
+ReCAPTCHA. reCAPTCHA is a CAPTCHA-like system designed to establish that a computer user is human (normally in order to protect websites from bots). We use this for the creation of new user accounts or the resetting of passwords.
+Most browsers support cookies, but you can set your browser to decline them and can delete them whenever you like.
+Secure login
+Acknowledgement
+This project has been carried out with the support of the Erasmus+ programme of the European Union. The content of this project does not necessarily reflect the position of the European Union, nor does it involve any responsibility on the part of the European Union.

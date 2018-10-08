@@ -1,0 +1,15 @@
+Health Insurance Portability and Accountability Act (HIPAA)
+The Health Insurance Portability and Accountability Act (HIPAA) Law consists of Public Law 104-191.  The Administrative Simplification provisions of HIPAA (Title II) require the Department of Health and Human Services to address and establish clear standards for the privacy and security of identifiable health information. The Office for Civil Rights at the Department of Health and Human Services enforces the regulations and imposes penalties on institutions that do not make a good-faith effort on privacy and security.
+The HIPAA privacy rule ensures a national floor of privacy protections for patients by limiting the ways that health plans, pharmacies, clinics, hospitals and other covered entities (CEs) can use and disclose patients’ personal medical information. The regulations protect individually identifiable health information, whether it is on paper, in electronic formats, or communicated orally.
+The Security Rule defines the standards which require covered entities to implement basic safeguards to protect electronic protected health information (EPHI), which is individually identifiable health information in the electronic form. Privacy depends upon security measures: no security, no privacy.
+HIPAA also mandates that CEs must maintain reasonable and appropriate administrative, physical, and technical safeguards to protect patients’ electronic protected health information. This information may be in any electronic format that is stored or transmitted from devices such as desktop or laptop computers, networked systems, disks, CD-ROMs, hand-held device (PDAs), and other clinical-related devices.
+In summary, HIPAA provides patients with more control over their health information, sets boundaries on the use and disclosure of protected health information, establishes safeguards, holds violators accountable, and supports public responsibility of disclosures.
+At East Carolina University we are committed to protecting our patients’ privacy and maintaining our organization’s security of information. At ECU, we continue to comply with the HIPAA rule and maintain the confidentiality, security, and integrity of our patients’ health information.
+If you have a question about HIPAA or wish to report a privacy concern, please call:
+1-252-744-5200 or email us at  HEALTHCAREPRIVACY@ecu.edu .
+HIPAA extends significant privacy rights to our patients concerning the use and disclosure of their medical information. These rights are described in detail under the East Carolina University Notice of Privacy Practices posted below in English and Spanish.
+Email:  devillem18@ecu.edu
+Phone: 252-744-5200
+Email:  devillem18@ecu.edu
+Phone: 252-744-5200
+East Carolina University

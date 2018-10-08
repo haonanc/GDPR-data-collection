@@ -1,0 +1,68 @@
+Welcome to Item Support
+Item support is a service provided by many authors on ThemeForest and CodeCanyon. Having support for your purchased item means that the author will be available to you, the buyer, to iron-out any potential issues you have in using the item.
+This page will tell you all about what you can expect from authors who sell supported items. Here’s a summary:.
+What's included
+Supported item - 6 months support from purchase with options to extend
+All items
+Updates to ensure the item works as described and is protected against major security concerns
+Yes
+Yes
+Yes
+Yes
+Availability of the author of the item to provide item support
+Yes
+No
+Technical questions about the item's built-in features, functionality and third party plugins
+Yes
+No
+Yes
+No
+Help with included third party assets (e.g. image sliders, contact forms)
+Yes
+No
+Managing buyer support requests can become quite a task for authors who sell to many buyers. To maintain a sustainable marketplace we’ve set out what is and isn’t included in supported items from Envato Market. This helps Envato Market authors spend more time doing what they do best — creating great new items and keeping their existing items up-to-date.
+Read the item documentation first
+Many support queries and technical questions will already be answered in supporting documentation such as FAQ's and comments from previous buyers. We also make sure that all of the items sold on Envato Market have documentation included so always check the included information and if you can’t find the answer you’re looking for then consider whether the author might be able to help.
+What's included in item support
+The item support period
+A supported item includes item support for 6 months from the purchase date. During those 6 months, the author is expected to be available to provide the item support services we’ve set out on this page. Response times by authors can vary depending on the volume of inquiries, the nature of the request, and whether questions have already been answered or support has already been provided (see ‘fair-use’ later on).
+If you’re about to purchase the item, you’ll have the option to purchase extended item support, increasing the item support period up to a maximum of 12 months from the date of purchase.
+Answering questions about how to use the item
+During the item support period, the author is expected to be available to answer your general questions about the item and how to use it. For example, how do I get my homepage to look like the one in the preview? The response to this type of question can come in various formats including directing you to an already documented response (e.g. in the comments or FAQs).
+Answering technical questions about the item (and included third party assets)
+During the item support period the author is expected to be available to:
+Answer your specific questions about the features and functionality of the item
+Provide some guidance on the way the item is designed
+Help you with issues related to using the item and getting the most value out of its functionality.
+Answer questions about third party assets or functionality (e.g. plug-ins) bundled with the item, such as how they work and other technical questions.
+Help with defects in the item or included third party assets
+During the item support period, you can report and discuss bugs and minor item defects with the author, and authors are expected to be available to assist you with reported bugs. If appropriate, authors may issue bug fixes directly to you as part of item support. (If an author decides to address a bug fix through a general version update, that update will be available to all buyers.)
+A supported item may include third party functionality or items from other authors such as plugins, image sliders or contact forms. During the item support period, the author is expected to be available to assist with questions about third party assets, and to either help you to address particular issues with the third party asset or direct you to where you can find the solution.
+Item updates to ensure ongoing compatibility and to resolve security vulnerabilities
+If a supported item includes a third party asset (e.g., a plugin), or is intended to work with third party software or platforms (e.g. a CMS), authors are expected to ensure the item remains compatible if the software or platform version is updated. This includes if the third party asset has a security update. Item updates of this type will generally be delivered as version updates available to all buyers. Choosing a supported item (or upgrading to extended support) ensures you’re getting an item that’s backed by the author, and enables our authors to maintain their items in these ways.
+What's not included in item support
+Item customization
+Item support does not include services to modify or extend the item beyond the original features, style and functionality described on the item page. For customization services that will help you tailor the item to your specific requirements, we recommend contacting the author to see if they privately offer paid customisation services or checking out the great service providers on Envato Studio.
+Installation of the item
+Buyers have varying levels of experience with different software platforms and technologies and getting your item up and running can depend on many variables that are specific to your circumstances. You’ll need to  have a working knowledge of the software platforms and technologies for which items are created, so item support does not include help to install the item on your server or on a CMS.  If you’re just starting out or skilling up, try a course or tutorial on Envato Tuts+.  If you’re after installation services, you can ask the authors if they privately offer paid installation  services or you can check out service providers on Envato Studio.
+Hosting, server environment, or software
+Authors are not required to support issues about your web hosting or server environment, or issues with the software you’ve got installed on your machine to use the item. Please check your ISP/web hosting provider or other software documentation that you’re trying to use to help solve your issues.
+Help from authors of included third party assets
+If a supported item includes a third party asset (e.g. a plugin or slider), the author of the third party asset is not required to provide support for that asset to buyers of the supported item. Direct your questions about third party assets to the author of the item you purchased.
+What’s included in all item purchases
+Updates to ensure the item works as described and is protected against major security concerns
+All items on Envato Market should work as described by the author (in the preview, screenshots, item description, etc) and be protected from major security issues. Security issues are assessed by the impact they have on the buyer and their users. Examples of major security issues are site administration takeover, the ability to use the site against other sites, and breaches of private data.
+In the instance that there is something wrong with the item and you are expecting an update; depending on the type of update, it can take several days/weeks to properly fix, test, review and release.
+Included version updates for all items
+In addition to updating an item to keep it working as described or to fix major security issues, authors of all items may from time to time and at their discretion, provide other updates to improve or modify the functionality of an item or fix other minor issues. Generally authors of supported items will provide these type of updates more frequently to keep their items up to date for sale. In all instances, the new version of the item will automatically be made available to previous buyers through the Downloads page.
+Fair-use, and other details
+We believe an author’s time is best spent using their amazing creative and technical skills to build great new items and keep their existing items up-to-date. We have outlined   what item support is all about and we ask that you’re mindful of the author’s time when making item support requests. We suggest that before you ask an author for support, read the documentation (included with the downloaded item) and any additional information available on the item pages (FAQs, Comments, etc) to see if that information answers your questions.
+Most authors sell their items to many buyers, so the time taken to respond to your request can vary. If you’re waiting for an update or fix to an item, it may  take several days/weeks for an author to  properly fix, test, review and release. Authors can also take breaks (e.g. a vacation) from providing item support. Authors will let you know of any extended breaks via the Support and Comments tabs on their items.
+*Supportable items on ThemeForest and CodeCanyon include all categories except PSD templates, Sketch templates, TypeEngine themes, Mobile, and Edge Animate templates.
+Version 1.0 - Effective date: September 1, 2015.
+by
+by
+by
+by
+by
+by

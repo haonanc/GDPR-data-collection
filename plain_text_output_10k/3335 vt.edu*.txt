@@ -1,0 +1,28 @@
+Current DJ: Not Available
+Privacy Policy
+Our Beliefs
+WUVT-FM believes strongly in a right to privacy; however, as part of the services we provide, we collect certain information. We believe you, as a supporter and listener, should be aware of this, and pledge transparency in how we collect data. We promise to uphold these beliefs, and to defend your data as if it were our own.
+tl;dr
+We collect the following information from you. We promise we will not use it for malicious purposes, but recommend you read this whole page to understand why and how it is collected and used.
+The IP address of the host from which you connect
+The user-agent string in your web browser when you access the site
+The user-agent string of your music player, should you use a separate one for the stream
+Additional browser headers such as preferred language and encoding
+Time spent listening to the web stream
+Personal information used when processing donations, including:
+Name
+Email address
+Phone number
+Mailing address
+Payment information
+We also use third parties including Stripe, Google, and Facebook to offer some of our services. These services have their own privacy policies that govern their use of this information.
+Data We Collect
+As part of standard operation of the website and stream, we collect data including user-agent strings and IP addresses of hosts connecting. If you are concerned about this, we suggest that you use anonymizing software, such as Tor , to protect this information. This website has been optimized for use with the Tor Browser.
+We use cookies as part of operation of the site, but not to track your usage. One of the reasons that we require cookies is to protect against a type of attack called a cross-site request forgery . You can use tools such as uMatrix , to block cookies, but this may prevent usage of some features of our site, such as the "donate" page.
+As part of the streaming service, we also collect data such as time spent listening and the client connecting, which are used in aggregate for internal analytical purposes. If our average listener-hours exceed a particular threshold, we are required to report anonymized listening statistics for each track. We will update this privacy policy should this happen.
+As part of our donation service, we will request personal information, including name, email address, phone number, and mailing address. We do not directly process or store your credit card and billing information. We use the collected information to keep you up-to-date with WUVT happenings, to ship you Radiothon premiums, collect pledges, and, should you consent, to thank you on-air and in publications. This information is never shared with third parties.
+Data Collected by Third Parties
+As part of the donation payment processing, Stripe will process information including your IP address, browser headers, credit card number, email address, billing ZIP code, and Bitcoin wallet address. This is used by Stripe in accordance with their own privacy policy .
+Some pages include embedded content from Google. Google uses a variety of technologies, including cookies, to track you across the web; the information they collect is used in accordance with their own privacy policy .
+During certain promotional campaigns, we may also enable the Facebook Pixel to monitor the success of these campaigns and target advertisements. Facebook uses a variety of technologies, including cookies, to track you across the web; the information they collect is used in accordance with their own privacy policy .
+If you would like to opt-out from this third-party tracking by Google and Facebook, you can use software such as uBlock Origin or Privacy Badger in order to prevent this type of tracking across a number of sites, in addition to ours. You can also opt-out out of targeted advertisements and some tracking by placing an opt-out cookie on your computer , but this mechanism only indicates your preference and does not technically prevent tracking.

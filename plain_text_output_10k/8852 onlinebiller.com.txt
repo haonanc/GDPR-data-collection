@@ -1,0 +1,107 @@
+What Information Bill.com Collects, and How It Is Used
+This privacy policy applies to the collection, use and disclosure of personal information we receive from users of Bill.com (the “website”) and our accounts payable and accounts receivable services offered through the website and via our mobile application (“app”).
+Account Information.  When you sign up for us to provide Bill.com's services, our website asks you to choose a username and password and to provide various types of information, some of it relating to the corporate entity on behalf of which you will be using Bill.com, some of it related to individuals.  Some of the latter is personally identifiable information (PII) about:
+you, either in your personal capacity or in your role of administering a Bill.com account for a corporate entity;
+your employees who will be using the website and services; and/or
+anyone you sign up to interact with your company on Bill.com. 
+The provided information includes:
+address, phone number; business tax identification number, and
+The names, work phone numbers and work email addresses of your employees who will be using the website and services.
+A credit card to pay for your subscription to Bill.com.
+Your company's bank account details if you elect to use Bill.com's payment service.  Bill.com will use those details and other information collected about you to verify your identity and your company's creditworthiness.
+If you enroll an individual on Bill.com, we will ask that person to provide a name and email address and to choose a password.  In addition, if you elect to use Bill.com’s payment service or receivables service, we will ask each of your pertinent vendors and customers, respectively, whom you enroll to provide the same various types of information about it and its pertinent employees as we asked you to provided to us about your company and your pertinent employees (See bulleted lists in the preceding paragraph.)  This privacy policy is presented to each enrolled individual and entity online at the time he, she or it is about to enter into the Terms of Service for using Bill.com.
+Bill.com also asks you to provide information about how to contact you not only by email but also by telephone and fax.  We will use this information to provide you with updated information and service your account in other ways. We may also use this information to contact you about additional products or services that may be of interest to you. You will have an opportunity to "opt out" of such offers in the future, if you so choose, by following the instructions set forth in the offer that we send you.
+If you sign up your accountant, he or she may use Bill.com to process payables and receivables for you.  Accordingly, your accountant, on your behalf, will be able to enter your PII of the types described above.  Bill.com will use this information for the purposes of verifying identity and creditworthiness, as also described above.  When you send emails or otherwise communicate with Bill.com, we may retain those communications to process your requests and inquiries and improve the quality of our website. Bill.com also asks you to provide information about how to contact you not only by email but also by telephone and fax.  We will use this information to provide you with updated information and service your account in other ways. We may also use this information to contact you about additional products or services that may be of interest to you. You will have an opportunity to "opt out" of such offers in the future, if you so choose, by following the instructions set forth in the offer that we send you.
+Information Collected Using Tracking Technologies We Place.  We use tracking technology such as cookies, scripts, and tags to keep track of who visits our website.  A cookie is an element of data that a website can send to your browser, which may then store it on your system.  You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.  If you do not accept cookies from Bill.com, you will not be able to use our website. Usage of a cookie is in no way linked to any PII while on our website.
+In addition to cookies, we collect the following information from all visitors to our website: the name of the domain through which you access the internet; the date and time you access our website; the internet address from which you linked to our website; and the individual address of the computer you used to access our website. We use this information in the aggregate to administer our website, to help diagnose and troubleshoot potential server malfunctions, and to gather broad demographic information about usage of our website.
+Tracking Technologies Placed by Third Parties.  The use of third party cookies, local storage (HTML 5), beacons, scripts, and tags by our partners, affiliates, tracking utility company and service providers is not covered by this privacy policy.  We do not have access or control over these tracking technologies. Our partners, affiliates, tracking utility company and service providers use tese tracking technologies to store and collect information in order to make it easier for you to navigate our website, to provide certain features on our website, or to display advertising based upon your web browsing activities. Various browsers may offer their own management tools for removing local storage (HTML 5).
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+Non- PII.  We may also collect other information as part of the registration and personalization process (e.g., zip code and individual preferences). Certain non-identifying information would be considered a part of your PII if it were combined with other identifiers (e.g., combining your zip code with your street address) in a way that enables you to be identified. However, the same pieces of information are considered non-identifying information when they are taken alone or combined only with other non-identifying information (e.g., your viewing preferences). We may combine your PII with non-identifying information and aggregate it with information collected from other users to attempt to provide you with a better experience, to improve the quality and value of the website and to analyze and understand how the website is used.
+ 
+How Information May Be Shared
+We will only share personal information with third parties in the ways that are described in the privacy policy, and we may share personal information as permitted by law. We may share all of the personal information we collect about you, as described above.
+Service Providers and Vendors.  We share your PII with third parties as needed to maintain, support and operate the website and app, to perform website-related services, to undertake the services we are providing and to assist us in analyzing how our website is used (e.g., maintenance services, database management, payment processing, web analytics and improvement of the website's features). These third parties have access to your PII only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+The website uses Plaid Technologies, Inc. (“Plaid”) to gather your personal and financial information about you from financial institutions. By using the website, you grant us and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy .
+We may provide PII to your vendors or customers who are party to your Bill.com transaction for the purpose of providing services to you. We may also provide PII to our business partners or other trusted entities for the purpose of providing you with information we believe will be of interest to you.
+ 
+Compliance with Laws and Law Enforcement.  Bill.com cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Bill.com or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
+Business Transfers/Transactions.  Information, including PII, that we collect from our users is considered to be a business asset.  As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition, reorganization or asset sale, your PII may be disclosed, sold or transferred to the third-party acquirer in connection with the transaction.
+Aggregate Information and Non-Identifying Information. We may share aggregated information which does not include PII and we may otherwise disclose non-identifying information and log data with third parties for industry analysis, demographic profiling and other purposes.  Any such aggregated information will not contain your PII.
+Bill.com payment network.  As part of the Bill.com service you may optionally allow us to share information with your vendors and/or customers.  This information includes your company’s address, phone number, website URL/link, name and email address of each user managing the account; and this information may also include similar business data and/or transactional information, such as bills, invoices and payment data.  You can control how much information is shared, respectively, with other Bill.com customers and the public, as described in more detail in “Your Profile Visibility – Three Choices” immediately below.
+ 
+Your Profile Visibility – Three Choices
+Your profile controls where your business contact information, your logo and other information about your business is displayed and how you are represented on the internet and/or within the Bill.com network of customers and vendors (“Network”). You have three different options for how your profile is visible to others. The three options are described below. Your default profile visibility setting is Limited. See Network Profile Visibility Settings for additional details about your profile settings and making changes to your profile visibility.
+1)  Public
+Bill.com offers a “Public” profile feature that allows you to publish portions of your Bill.com Network profile to the public Internet.  This Public profile will be indexed and displayed through Internet search engines when someone searches for your company’s name.  Then the web surfer will know it can connect with you to send and/or receive electronic payments via Bill.com. 
+You may choose the parts of your profile that get indexed and displayed on the public Internet or completely opt out of this feature in your Bill.com Network Profile settings.  However, third-party search engines may not automatically update their caches, which may contain old public profile information.
+If you choose the “Public” option:
+Your profile, including your custom Network profile URL, will be shareable with, and available to anyone, including:
+those other Bill.com members logged into the Bill.com Network (see “Limited” and “Private” below); and
+the general public on the internet, including web surfers/searchers who are not logged into, the Bill.com Network and who may not yet be Bill.com users.
+You will have some control over how much of your business information is displayed through the service functionality.  Note, though, that:
+At a minimum (by default), the following information will always be displayed:
+Company Name
+At your option, the following additional information can be displayed:
+Company Address
+Phone Number
+“About” – Description of the business
+ 
+2)  Limited (one of our two “in-Network” options)
+Alternatively, Bill.com offers a “Limited” profile feature, which enables only other Bill.com members who are logged into the Bill.com network to search for your profile.  However, non-Bill.com members will not be able to search for your profile. Your profile visibility is set to "Limited" by default.
+If you choose the “Limited” option:
+You will have some control over how much of your business information is displayed through the service functionality.  Note, though, that:
+At a minimum (by default), the following information will always be displayed in a result of a search run by another Bill.com member and in a “recommendation” that Bill.com proactively generates for another member:
+Company Name
+Username and email address of the user managing the account
+Company Address
+Phone Number
+“About” – Description of the business (if provided)
+ 
+3)  Private (the other of our two in-“Network” option)
+If you choose the “Private” option:
+By default, your company profile will not be searchable, even by Bill.com members logged into the Bill.com network.
+ 
+Links to Other Sites
+ 
+Social Media Widgets
+ 
+Import Contacts
+ 
+Forum
+ 
+Referrals
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the website.  Bill.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+ 
+Data Retention
+ 
+Modifying Your Information; Cancelling Your Account
+ 
+International Transfers
+ 
+Our Policy Toward Children
+ 
+Testimonials
+ 
+Changes to This Privacy Policy
+If we decide to change our privacy policy, we will post those changes to this privacy policy page, the home page, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+ 
+Bill.com Data Security
+Bill.com is committed to protecting the security and privacy of your information. We know that information regarding you and your company is extremely important and confidential.  Bill.com uses reasonable measures – consistent with industry standard practices – as well as some advanced security and process controls designed to ensure that the security, confidentiality, integrity and availability of your data are protected. However, no method of transmission over the Internet or electronic storage is one hundred percent secure. Therefore we cannot guarantee its absolute security. Bill.com is a U.S.-based corporation, and may store and process data in the US as well as other jurisdictions where our service providers may be located.
+Data Security Practices.  At Bill.com, our data security practices include:
+Extended Validation (EV) SSL encryption technology designed to achieve privacy of communications between your browser and the Bill.com service.
+Firewalls that aim to prevent unauthorized electronic access to servers
+Production servers in a high-security locked facility with biometric access controls to protect against unauthorized physical access to servers
+Encryption of all sensitive data at rest in our database
+Off-site continuous backup processes intended to enable Bill.com to recover promptly from a potential disaster
+Data Security Controls.  We take controls seriously, including the following:
+Bill.com undergoes an annual SOC 1 Type II Audit by a leading national CPA Firm.
+Payments are FDIC-insured en route.
+Our employees may access data only on a “need to know” basis, and then the relevant employees access your information only to the extent necessary to help us provide you with our services.
+All employees undergo background checks and annual training on handling and securing sensitive data.
+We will make any legally required disclosures of any breach of the security, confidentiality, integrity or availability of your information.  Such disclosures will be made to you via email or conspicuous posting on this website without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+ 
+Contact Us
+ 
+ 
+ 
+Ready to get started? Get your 30-day, risk-free trial today. Get Started »

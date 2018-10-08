@@ -1,0 +1,145 @@
+Objective
+PSECU recognizes its responsibility to protect the privacy of member nonpublic personal information and personally identifiable financial information. The objective of this policy is to set forth the guidance under which PSECU implements the requirements of privacy laws and regulations.
+Senior Management intends to create and maintain this policy to provide Management support for PSECU's Privacy Program and unambiguously demonstrates PSECU's commitment to Privacy. This policy is both supported and approved by PSECU's Board of Directors.
+Scope
+All PSECU officials, employees, third party service providers, part-time and temporary workers, and those employed by others to perform work on PSECU premises, or who have been granted access to member nonpublic personal information and personally identifiable financial information, are covered by and must comply with this policy and all applicable laws and regulations governing the privacy of nonpublic personal information and personally identifiable financial information, including Consumer Financial Protection Bureau (CFPB)'s Privacy of Consumer Financial Information rule (Regulation P, 12 CFR §1016.1 - §1016.17), issued to implement the provisions of the Gramm-Leach-Bliley Act (GLBA) and the Right to Financial Privacy Act.
+Policy Statement
+The goals of the PSECU's Privacy Policy are:
+To define and assign accountability for the Privacy Program and practices and how it is communicated.
+To define why PSECU collects nonpublic personal information and personally identifiable financial information.
+To provide guidance on the content within the Privacy Notice to members which describes choice and consent for which personal information is collected, used, retained and disclosed.
+To define and provide guidance to PSECU staff when it is appropriate to disclose nonpublic personal information and personally identifiable financial information to third parties.
+To provide guidance on the protection of nonpublic personal information and personally identifiable financial information against unauthorized access.
+To provide guidance on Privacy Training for PSECU Staff that includes accountability, frequency and monitoring.
+To provide guidance on addressing privacy related to complaints and disputes.
+ 
+Roles & Responsibilities
+PSECU has adopted this Privacy Policy in response to both regulatory requirements (e.g., GLBA, Regulation P, 12 CFR §1016.1 - §1016.17, etc.) and corporate due diligence. All individuals, groups, or organizations identified in the scope should familiarize themselves with and adhere to this policy.
+Accordingly, the Board appoints the Privacy Officer to develop and manage the Privacy Program to support the goals of this policy. The Privacy Officer, who is the Corporate Compliance and Ethics Officer, shall oversee the development, implementation, and maintenance of PSECU's Privacy Policy and Program.
+The Privacy Officer is responsible for and has direct oversight of all aspects of the Privacy Program and will report to Board and Senior Management on a periodic basis. Additionally, the Privacy Officer has direct responsibility for maintaining this policy and providing guidance on its implementation.
+This policy should be read in conjunction with other corporate policies developed by PSECU, e.g., Privacy Notice, Information Security Policy, Acceptable Use Policy, Information Classification and Handling Policy, Records Retention Policy, Physical Plant Policies, Incident Response Plan, etc., and other applicable policies.
+Notice
+PSECU will disclose the Privacy Notice (See Attachment A)  as required by law, in a form that members can keep and on psecu.com .
+PSECU will deliver the Privacy Notice to each new member no later than when the relationship with PSECU is established.
+PSECU will provide a revised Privacy Notice in the following circumstances:
+PSECU discloses a new category of nonpublic personal information and personally identifiable financial information to any nonaffiliated third party;
+PSECU discloses nonpublic personal information and personally identifiable financial information to a new category of nonaffiliated third party; or
+ 
+Collection of Information
+In the course of delivering products and services to its members, PSECU obtains nonpublic personal information and personally identifiable financial information, either directly from the member or from outside sources. This nonpublic personal information and personally identifiable financial information is used to comply with all applicable laws and regulations, to provide effective member service and to inform members of products and services which may be of interest to the member.
+The PSECU Internet Privacy Disclosure  further details the types of information PSECU collects from our website(s) and mobile application(s).
+PSECU's other policies further define the collection and handling of nonpublic personal information and personally identifiable financial information (e.g. Information Classification and Handling Policy, Record Retention Policy, etc.).
+Use, Retention & Disposal
+PSECU limits the use of nonpublic personal information and personally identifiable financial information to the purposes identified in the Privacy Notice. PSECU retains and disposes of nonpublic personal information and personally identifiable financial information in accordance with PSECU's Record Retention Policy and procedures.
+Access to Nonpublic Personal Information & Personally Identifiable Financial Information
+PSECU members have access to their nonpublic personal information and personally identifiable financial information for review and update within online banking and by contacting the call center.
+Accuracy of Information
+PSECU will exercise reasonable caution in gathering and maintenance of information to ensure its accuracy. When inaccurate information is discovered or when notified by the member, it will be corrected as promptly as possible.
+Disclosure to Third Parties
+Credit Unions that wish to share sensitive information with non-affiliated third parties must provide members the right to opt out. The exceptions to the "opt out" that allow credit unions to share information in ways that are necessary to run its business are listed below (see Exceptions to Disclosure to Third Parties).
+PSECU will disclose nonpublic personal information and personally identifiable financial information to third party service providers when it is necessary to effect, administer, or enforce a transaction that a consumer requests or authorizes. PSECU requires contractual agreements with third party service providers. In accordance with GLBA and Regulation P requirements, PSECU requires confidentiality, security breach notice, and compliance with laws in contractual agreements with third party service providers. These clauses prohibit the third party service provider from disclosing and reusing nonpublic personal information and personally identifiable financial information for any reason other than the intended purpose, as well as require the third party service provider to notify PSECU within appropriate timeframes of security breaches.
+PSECU will grant requests for nonpublic personal information and personally identifiable financial information when PSECU receives the member's written permission, court order, subpoenas or government enforcement authority.
+Exceptions to Disclosure to Third Parties
+Regulation P provides for exceptions to the requirements of initial notice and opt-out (12 CFR §1016.15) and does not apply when PSECU discloses nonpublic personal information and personally identifiable financial information:
+To protect the confidentiality or security of PSECU records pertaining to the consumer, service, product, or transaction;
+To protect against or prevent actual or potential fraud, unauthorized transactions, claims, or other liability;
+For required institutional risk control or for resolving consumer disputes or inquiries;
+To persons holding a legal or beneficial interest relating to the consumer;
+To persons acting in a fiduciary or representative capacity on behalf of the member;
+To law enforcement agencies (including the Bureau, a Federal functional regulator, the Secretary of the Treasury, etc.) in accordance with the Right to Financial Privacy Act of 1978 (12 U.S.C. §3401 et seq.);
+To a consumer reporting agency in accordance with the Fair Credit Reporting Act (15 U.S.C. §1681 et seq.);
+To comply with Federal, state, or local laws, rules and other applicable legal requirements;
+To comply with a properly authorized civil, criminal, or regulatory investigation, or subpoena or summons by Federal, state, or local authorities; and
+ 
+PSECU maintains strict policies and security controls to assure that nonpublic personal information and personally identifiable financial information in its computer systems and files is protected.
+PSECU employees and certain third party service providers are permitted access to nonpublic personal information and personally identifiable financial information that they may need to perform their jobs and to provide service to the members (if the third party service providers' contractual agreements include PSECU contractual language dealing with confidentiality.)
+PSECU employees and third party service providers will have access to such nonpublic personal information and personally identifiable financial information only as necessary to conduct a transaction, respond to a member's inquiries, or support the security of PSECU.
+All PSECU employees and third party service providers will be required to respect member privacy through confidentiality and information security provisions included in the PSECU's employee policy manual and contractual agreements with third party service providers.
+No one except PSECU employees and authorized third party service providers will have regular access to the PSECU computer system and records storage. PSECU has established internal security controls, including physical, electronic and procedural safeguards to protect the nonpublic personal information and personally identifiable financial information provided to PSECU and the information PSECU collects about the member.
+PSECU will continue to review its internal security controls to safeguard member nonpublic personal information and personally identifiable financial information as the Credit Union employs new technology in the future.
+Monitoring & Enforcement
+PSECU contracts with a third party to conduct compliance reviews on Regulation P, NCUA 748 and vendor management and advises Senior Management on privacy issues, as needed. Information Security Unit will advise Senior Management and Privacy Officer of potential breach or violation of PSECU's privacy initiatives in accordance with PSECU's Incident Response Policy and procedures. Any violations of this policy will be investigated by the Privacy Officer and may be referred to Human Resources for disciplinary action.
+Corporate Compliance in conjunction with Information Security Unit performs a corporate-wide risk assessment pertaining to privacy and security.
+Corporate Compliance monitors and responds to member complaints regarding privacy concerns received from Administration.
+Corporate Compliance will provide bi-annual training on privacy law requirements, including this policy, which is required for all PSECU employees. Privacy training will also be a part of orientation for new hires which should be completed within 30 days from the date of their employment. Corporate Compliance may provide additional privacy training, as needed.
+Protecting Children's Online Privacy
+PSECU does not knowingly collect, nor is our website designed or directed, to use personal information from children under the age of 13 without containing verifiable consent from their parents. Should a child whom we know to be under the age of 13 send personal information to us, we will only use that information to respond directly to that child, seek parental consent or provide parental notice.
+Terms & Definitions
+Affiliates
+Companies related by common ownership or control. They can be financial and nonfinancial companies. PSECU does not have affiliates.
+Consumer
+An individual who obtains or has obtained a financial product or service from you that is to be used primarily for personal, family, or household purposes, or that individual's legal representative. A consumer is not necessarily a member of PSECU. 
+Member
+A consumer with whom PSECU has, or has had in the past, a continuing relationship where the consumer owns and retains one or more shares.
+Nonaffiliates
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+Nonpublic Personal Information 
+Any information that is not publicly available and that:
+A consumer provides to a financial institution to obtain a financial product or service from the institution;
+Results from a transaction between the consumer and the institution involving a financial product or service; or
+A financial institution otherwise obtains about a consumer in connection with providing a financial product or service.
+For example, nonpublic personal information may include names, addresses, phone numbers, social security numbers, income, credit score and information obtained through Internet collection devices (i.e., cookies).
+Personally Identifiable Financial Information 
+Any information provided to the Credit Union by a consumer to obtain a financial product or service, or as a result of a transaction with the consumer. Examples:
+Information a consumer provides to the Credit Union on an application to obtain membership, a loan, credit card or other financial product or service;
+Account balance information, payment history, overdraft history, and credit or debit card purchase information;
+The fact that an individual is or has been one of the Credit Union's members or has obtained a financial product or service from the Credit Union;
+Any information about a consumer if it is disclosed in a manner that indicates that the individual is or has been a member of the Credit Union;
+Any information that a consumer provides to the Credit Union or that the Credit Union or its agent otherwise obtains in connection with collecting on a loan or servicing a loan;
+Any information the Credit Union collects through an Internet "cookie" (an information collecting device from a web server); and
+Information from a consumer report. 
+Third Party Service Provider 
+ 
+ 
+ 
+PSECU's mission is "To safely and securely provide the best value to our members throughout their lives."
+PSECU uses the latest technology to deliver our products and services to all members, which often translates into use of the various technologies for service delivery. PSECU's primary delivery channel is the Internet. A logical concern arising from the rapidly changing world of technology and specifically the Internet is your right to conduct business with us in confidence and your right to maintain privacy over your financial matters.
+We, the Board of Directors, want to assure our members that we share your concern. PSECU is committed not only to providing you with the most efficient services, but also to ensure that all business you conduct with us is held in the strictest confidence and that your transactions are safe and secure. PSECU is committed to continually earning the faith and trust you, our members, have placed with us. We value that faith and trust, and take it very seriously. Therefore, we submit to you our pledge of that commitment, through the adoption of our Privacy Policy.
+PSECU's Privacy Policy and practices concern the personal information we collect and disclose about our members. It also includes information about third parties who may receive personal and sometimes nonpublic information from us as we conduct the business of the credit union. PSECU and its affiliates follow these practices; therefore, this notice will be applied to all.
+PSECU will not sell and/or disclose any of your personal information to any mailing lists or to any merchants. We are in the business of serving our members and not selling or providing those lists to merchants. PSECU will not engage in the business of unsolicited email (spam). However, we may use email to communicate with you when necessary regarding new services or matters concerning your accounts with us, or news about the credit union.
+In addition, the Board of Directors has adopted a Confidentiality of Member Information Policy. This policy is distributed to all staff. The policy basically states that any information disclosed to PSECU in the course of PSECU's business will be held in the strictest of confidence. Unauthorized or illegal disclosure of your private information is considered a policy violation and subjects the guilty party to discipline. Employees are reminded that their responsibility to maintain this privacy continues even after their employment ends.
+We invite you to review our Privacy Policy and contact us with any questions you may have.
+Gregory A. Smith, President
+Joseph Sassano, Chair Board of Directors
+Thank you for visiting PSECU's website. PSECU is respectful to your right to privacy and is committed to maintaining your privacy. This Internet Privacy Disclosure only relates to the information we collect through any PSECU owned website(s) and our mobile application(s) that may be obtained through your use of our website(s) and mobile application(s).
+Please review our Privacy Notice  for details of the information we may collect, reasons we may share your information and whether you may limit PSECU sharing your information with third parties. 
+Information We May Collect About You
+As part of standard Internet practice, PSECU may collect information from you while you are visiting our website(s). PSECU does this so that we can assist you in serving your financial needs, providing services and information and offering new products and services. Some of the information we may collect from you includes:
+Information you input into online applications and forms for membership and products or services;
+Information about your transactions with us while on our website(s) and all of our mobile applications;
+Additionally, we may collect, store and use information about your visit, such as:
+Cookies: Cookies are pieces of data stored directly on the device you are using when you visit our website. Cookies are used to collect information such as browser type, the date of your visit, time spent on our website, and pages visited. The information is used for security purposes, to facilitate navigation, to display information more effectively, to personalize and enrich your experience while visiting the website, and to recognize your device to allow your use of our online services. It is also used to gather statistical information about the usage of the website in order to continually improve the design and functionality, to monitor responses to advertisements, to understand how customers use the website, and to assist with resolving website questions. You can refuse to accept these cookies, and most devices and browsers offer their own privacy settings for cookies. You will need to manage your cookie settings for each device and browser you use. However, if you do not accept these cookies, you may experience some inconvenience in your use of the website and some online services. For example, systems may not be able to recognize your device and you may need to answer challenge questions each time you log on. As a matter of security, we do not embed your Social Security number, account numbers, password, or other personal information in our cookies.
+IP Addresses: Your IP Address is a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the website, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is a standard practice on the Internet and is done automatically by many websites. We use IP Addresses for purposes such as calculating website usage levels, helping diagnose server problems, and administering the website.
+How PSECU Uses Your Information
+We may use your information:
+to evaluate your eligibility for accounts, loans, and other products and services for which you apply;
+to respond to your inquiries and fulfill your requests;
+to administer, manage, and service your accounts, products, and services;
+to send you marketing communications on products and services that we believe may be of interest to you, and/or to prequalify you for such products and services;
+to personalize your experience on our website by presenting products and offers tailored to you;
+to verify your identity in order to allow you online access to your accounts, conduct online transactions and to maintain measures aimed at preventing fraud and protecting the security of your account and personal information;
+to facilitate your transactions;
+to send you important information about your account(s), products and services;
+to comply with applicable law and regulation, other legal process, and law enforcement requirements; and
+for our business purposes, such as data analysis, audits, developing new and improving our existing products and services, enhancing our website, identifying usage trends, and determining the effectiveness of promotional campaigns.
+Online Security
+To protect your personal information from unauthorized access and use, PSECU has taken steps to protect the information we collect by implementing and maintaining physical, electronic and procedural safeguards that comply with federal law. PSECU utilizes a Secure Socket Layer (SSL) connection to provide industry standard encryption technology while connecting to our systems.
+PSECU members may create User IDs and passwords to access online banking. You should not divulge your password to anyone. PSECU will never ask you for your online banking password.
+Protecting Children's Online Privacy
+PSECU does not knowingly collect, nor is our website designed or directed, to use personal information from children under the age of 13 without containing verifiable consent from their parents. Should a child whom we know to be under the age of 13 send personal information to us, we will only use that information to respond directly to that child, seek parental consent or provide parental notice.
+Links to Other Websites
+PSECU does have links on our website(s) to third parties. Please be aware that other websites may offer different privacy policies and levels of security than what is offered by PSECU. PSECU is not responsible for and does not endorse, guarantee or monitor content, availability, viewpoints, products or services that are offered or expressed on other websites. We urge you to review the privacy policies of each website you visit.
+Emailing Marketing Service
+PSECU has an email marketing service. PSECU will periodically send emails promoting our products and services, or those of our affiliates, to members for whom we have recorded email addresses. All members who receive the marketing emails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button.
+What You as a Member Can Do to Help
+PSECU is committed to protecting the privacy of our members. Members can help by following some simple suggestions:
+Protect your account numbers, plastic card numbers, PINs and passwords. Never keep your PIN with your card.
+Use caution when disclosing your account numbers, Social Security numbers, etc. to other persons. If you receive a telephone call from someone claiming to be from the credit union, and that unknown person asks for account numbers, or other identifying information, do not give that information.
+Keep your information with us current. If your address or telephone number changes, please let us know promptly. It is important that we have current information as to how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately.
+After you complete your online session, log out of psecu.com before surfing other sites. It is suggested that you do not surf other sites during your online banking session, as this could allow a cookie to be attached and possibly compromise your information.
+Review your account statements as soon as possible after receiving them. Contact us immediately regarding any discrepancies.
+Board Approval 05/30/2017
+Mobile Banking
+Important: You are now leaving PSECU.com
+By selecting continue, you will be leaving PSECU’s website. Other websites may offer different privacy policies and levels of security than what is offered by PSECU. PSECU is not responsible for and does not endorse, guarantee, or monitor content, availability, viewpoints, products, or services that are offered or expressed on other websites.
+You may close this window if you choose not to continue to   .

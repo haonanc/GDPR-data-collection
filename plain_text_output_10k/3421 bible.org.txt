@@ -1,0 +1,50 @@
+ 
+ 
+Personal Information Definition
+This policy applies to personally identifiable information (“personal information”), which is information that we directly associate with a specific person or entity (for example, name; email addresses; wireless device location). Personal information does not include “anonymous” or "aggregate" information – neither of which are associated with a specific person or entity. 
+Bible.org collects personal information when you register for a Bible.org service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Bible.org services or third parties to provide a better user experience, including customizing content for you.
+Bible.org uses cookies and other technologies to enhance your online experience and to learn about how you use Bible.org services in order to improve the quality of our services.
+ Location-Based Services: For mobile apps our systems capture details about the type and location of the wireless device you use, unless you have the GPS locations services turned off. Our application detects your device's approximate location. We use this information for the sole purpose of providing information related to the applications services. We do not share this information with anyone. You do, however, have the choice to share this information with Facebook or Twitter. You alone have control on how you share your location.
+Bible.org’s servers (like Google and other web providers) automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
+Uses
+We may use personal information to provide the services you’ve requested, including services that display customized content and advertising, verify your identity, make internal decisions about current and future services and protect our rights and property. We may contact you by e-mail, about your services and periodically send you our newsletter.
+To the primary account holder. We cannot be held responsible for information provided through our app if you share your logon information with others who use your mobile device  
+We do not sell, lease, or rent your personal information. We will only release information that is appropriate to comply with law, preventing fraud or imminent harm, and ensuring the security of our network and services or to protect the rights or safety of our users . We may share aggregated non-personal information with third parties outside of Bible.org.
+When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+Access and Your Choices
+We offer you choices when we ask for personal information, whenever reasonably possible.
+For some users living in regions without religious freedoms, you may need to provide fictional personal information or you may decline to provide personal information to us and/or refuse cookies in your browser, which may cause some of our features or services to not function properly. However, for some of our services we do need an active email to keep the large amount of spammers and registration robots under control.
+ Access to Your Information: You may access and modify your information by logging on to your account on bible.org or or one of our Discipleship apps or through our Mobile App.(your account is synchronized across services/devices) You can edit your data or you can email us and we will make good faith efforts to resolve requests to correct inaccurate information except where the request is unreasonable, requires disproportionate technical effort or expense, jeopardizes the privacy of others, or would be impractical.
+Protecting Your Own Personal Information
+You play an important role in ensuring the privacy of personal information, including protecting against unauthorized access to your device. Many mobile devices store information both in the phone and on the SIM card. Therefore, before discarding, trading in, or giving away your device, be sure you remove and retain your SIM card and follow the manufacturer's instructions for deleting personal information or other data on the device. (This can be found in your owner's manual or on the manufacturer’s Web site.) If you provide a third-party access to your device, you should understand that personal information will remain on the device and may be accessible, deleted, altered, or transferred to another device or our network servers by the person using the device, and that we will treat that user as you for purposes of this policy.
+ 
+Security for financial transactions
+Bible.org web site store: Protecting your privacy is extremely important to us, therefore your online credit card transactions and your donations to the ministry will be processed by a secured 3rd party. Our Website's e-commerce system processes everything about your order except your sensitive credit card information. This step in the order process is performed by a trusted 3rd party company who uses Secure Sockets Layer (SSL) encryption. SSL encryption is an advanced technology recognized as the online industry security standard. This technology is used by all major e-commerce organizations including banks and credit card companies. We have set it up this way so that your credit card information is not maintained by bible.org’s website and therefore can never be stolen from a bible.org’s website.
+Mobile Applications: Bible.org mobile apps are normally acquired through the service providers stores eg apple (ITunes/app store) ;android app store. When you purchase through these channels, Bible.org has no access to your financial information.
+Message Boards/Walls
+ 
+Other Privacy Information
+We do not solicit children to purchase or use our products. If, however, parents want to authorize their child to use our products by providing them access, You must comply with COPPA and provide us with a signed permission stating such authoriziation. You can fax that to our fax number located on our contact us page. Personal information associated with your childs use will be treated as your information in accordance with this policy. Our Web sites are not designed to attract children under the age of 13 and we do not intentionally or knowingly collect personal information on our sites from anyone under the age of 13 without authorization by the parent. We encourage parents to be involved in the online activities (including wireless Internet browsing) of their children to ensure that no information is collected from a child without verfiable parental consent.
+Customer Service Monitoring
+ 
+Changing Your Information and Mailing Preferences
+Your information is used to send items you ordered to you. Occasionally we will also send you information we believe will be of interest and useful to you including ministry updates and offers to support the ministry. You will always be able to remove yourself quickly and easily should you prefer to no longer receive these updates. If you would like to change our information about you or your mailing preferences (physical or email), simply log in and change your contact information. If you are having trouble contact us at the below address.
+Contact Us
+ 
+ Changes to this Statement
+Bible.org reserves the right to make changes to this privacy statement at any time and requests that you review this statement periodically for updates.
+ADDITIONAL INFORMATION
+ 
+Copyright
+ 
+Posting and Submission Policy
+When materials you submit are accepted to be posted on the bible.org website(s) including forum posts, articles, books, illustrations, audio and video resources, you are agreeing that these will remain available to bible.org and will be available for posting on the bible.org website(s), at our discretion, forever.
+ 
+This means that you (and not bible.org) have full responsibility for the message, including its legality, reliability, appropriateness, originality, and copyright.
+Limitation of Liability
+Bible.org and its mobile applications/websites are made widely available in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The entire risk as to the quality and performance of the website or mobile app  is with you. Should the mobile application, website or resources provided by bible.org (including but not limited to software and electronic downloads) prove defective; you assume the cost of all necessary servicing, repair or correction. If you purchase the product that you deem defective, we will refund your purchase price. In no event, unless required by applicable law or agreed to in writing, will bible.org be liable to you for damages, including any general, special, incidental or consequential damages arising out of the use or inability to use any resources provided by bible.org or its websites (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or a third party), even if such holder or other party has been advised of the possibility of such damages. Since there is no warranty we may provide a support number or a forum that will be monitored for users to assist other users.
+And Also...
+ 
+Acceptance of This Policy
+ 
+updated da  7/27/12 ,5/19/15,1/7/16

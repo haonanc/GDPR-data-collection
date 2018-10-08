@@ -1,0 +1,51 @@
+Privacy Policy for Google AdSense
+Privacy Policy for Google AdSense
+Google AdSense is a popular and free Google tool that lets websites and mobile app operators make money by allowing Google to place relevant and targeted ads on their websites.
+If you choose to use AdSense on your website, you need to update your Privacy Policy to meet Google’s requirements.
+Contents
+Requirements from Google AdSense
+When you sign up to use AdSense, you must agree to Terms and Conditions agreement of Google AdSense .
+“Section 8” of the AdSense’s agreement requires that a Privacy Policy must be provided to your users and that this Privacy Policy includes clear and comprehensive information about your practices.
+These can include, but are not limited to cookies placement, location information, and specific device information. Options for how users can manage cookies should be included (especially to comply with EU Cookies Directive ), but you can do this through a Cookies Policy as well.
+“Section 8” also dictates that you use “commercially reasonable efforts” to ensure that you obtain consent to place and access cookies on a user’s device when this is required by law.
+Below is a screenshot from AdSense’s Terms and Conditions agreement with “Section 8: Privacy” highlighted.
+Here’s the full text of what Google says:
+Our privacy policy explains how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that Google can use such data in accordance with our privacy policy. You will ensure that at all times you use the Services, the Properties have a clearly labeled and easily accessible privacy policy that provides end users with clear and comprehensive information about cookies, device-specific information, location information and other information stored on, accessed on, or collected from end users’ devices in connection with the Services, including, as applicable, information about end users’ options for cookie management. You will use commercially reasonable efforts to ensure that an end user gives consent to the storing and accessing of cookies, device-specific information, location information or other information on the end user’s device in connection with the Services where such consent is required by law.
+DoubleClick Cookie
+Google AdSense uses what is called a DoubleClick Cookie. A DoubleClick cookie is a cookie that gets placed on a user’s device when the user clicks on an ad on a partner’s website.
+Google requires all websites and mobile apps that use AdSense to inform visitors and users of Google’s DoubleClick cookie usage.
+Google has a section in their AdSense Help that addresses exactly what DoubleClick cookies are and how you, as a website or mobile app operator, can update your Privacy Policy in an appropriate way to include this information:
+According to Google, if you use AdSense, your Privacy Policy should include the following information and let users know that:
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the internet
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ad Settings. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest-based advertising by visiting aboutads.info )
+Google doesn’t give specific guidelines beyond the above points because laws vary, but so long as the above points are made, your legal agreement should be adequate to satisfy Google’s requirements at least.
+Sample disclosure for Google AdSense
+You do not need a separate Privacy Policy for the DoubleClick Cookies disclosure. You can simply update your current agreement to include this kind of disclosure.
+Below is an example from JenSense Contextual Strategy of a way to work in language about AdSense in a general Cookies section in a Privacy Policy. Notice that the three disclosure points required by Google and outlined above are met:
+Requirements for EU businesses
+While all of the above applies to businesses everywhere that use AdSense, there are specific requirements for businesses located in the EU. These requirements include the following:
+Users must be informed of cookies usage on a website before any cookies are placed on that user’s device
+Consent for cookies placement must be obtained
+Requirement 1: Inform users
+When a user first visits your website, you must immediately inform them that cookies are in use on your site and link them to a page where the following information is included:
+Your site uses cookies
+What types of cookies your site uses
+What, if any, types of cookies third parties are using on your site
+Technical details about the cookies in use on your site, such as how they’re placed and what purposes they serve
+You can give notice to visitors by using a pop-up message or banner ad that clearly and concisely lets them know that cookies are in use and that more information is available about this elsewhere on the website.
+See an example below of a very conspicuous and basic cookies notice that’s a great way to let visitors know that cookies are in use, and provides a link to the its Cookie Policy from Thomas Cook :
+Below is an example of the Cookie Policy of Facebook that tells users about how cookies are used on the site. A page like this should be linked to from the notice that is given to visitors immediately upon visiting your site.
+Facebook also includes the following chart that breaks down clearly for users what cookies are used, and what purposes each serves.
+Consider including something similar in your Cookie Policy to provide as much information to your visitors as possible:
+Requirement 2: Obtain consent
+You can obtain consent to place cookies either actively or passively.
+Active consent is obtained when you require a user to click something such as a check mark box showing they give consent for cookies to be used, or a Continue button that must be clicked to close the window, such as in the example below from the BBC website :
+Passive consent can be obtained by letting a user know that if they continue to browse your website, it will be assumed that consent has been given.
+See examples below for how passive consent can be obtained by use of a banner ad in the header of a website:
+You don’t need to create a separate AdSense Privacy Policy, but rather just update the one you currently have on your website.
+By Sara Pegarella
+Jan 29, 2018
+This article is not a substitute for professional legal advice. This article does not create an attorney-client relationship, nor is it a solicitation to offer legal advice.
+Start here
+Disclaimer: Legal information is not legal advice, read the disclaimer .

@@ -1,0 +1,113 @@
+Privacy Policy
+Privacy Policy
+This Privacy Policy lets You (as defined below) know how DS SolidWorks collects and uses Your Personal Data and how You can control its use.
+Dassault Systèmes SolidWorks Corporation, a Delaware Corporation headquartered at 175 Wyman Street, Waltham Massachusetts 02451 U.S.A., (hereinafter “DS SolidWorks”) processes Personal Data (as defined below) in the course of its business, including the Personal Data of people using and browsing the DS SolidWorks websites (the "Sites") and providing information via activation.
+Note that the SOLIDWORKS Apps for Kids products and services are consumer products and subject to a separate privacy policy. This DS SolidWorks Privacy Policy does not cover the SOLIDWORKS Apps for Kids line of business.
+1. SCOPE OF THIS PRIVACY POLICY
+This Privacy Policy sets forth the principles and guidelines governing the protection of Your Personal Data (as defined below) including Your Personal Data collected during product registration and on or through the Sites and concerning users of our products and services and the Sites’ visitors and users ("You" or "Your").
+Personal data ("Personal Data") means any information that may result in the identification of an individual. Non-Personal Data means any information that does not result in the identification of an Individual.
+DS SolidWorks collects Personal Data online and offline (e.g., via a business card voluntarily given to a DS SolidWorks employee) and this Privacy Policy is applicable regardless of the means of collection. 
+The Sites’ Terms of Use, which can be found here are incorporated into this Privacy Policy. Your use of the Sites and any Personal Data You provide to us are subject to the terms of this Privacy Policy and those Terms of Use.
+2. DATA COLLECTED
+Personal Data collected from those who visit a Site without entering information may include:
+IP address
+contents of cookies (as described below)
+Personal Data collected from those who provide information to us for the purposes listed below may include:
+IP address
+title
+type of organization (company, school, university, etc.), organization name, organization size, department, and job title
+industry and industry sub-industry sectors
+people to whom purchases are shipped
+financial data (credit card number and expiry date, name and address of the cardholder)
+MAC address
+any other Data as may be relevant for the purposes listed below
+In all cases, however, the Personal Data gathered is limited to data necessary for the purposes described under section 4 herein.
+In order to use certain functions and features of a Site, DS SolidWorks requires that You provide certain Personal Data when visiting or using the respective Site. You are free to decide whether or not to provide all or part of Your Personal Data. However, if You choose not to provide all or part of Your Personal Data, the purposes as described in section 4 might not be achieved or not properly achieved, some areas and functions of the Sites may not function properly, and/or You may be refused access to certain pages on the Sites. In particular, You will not be authorized to purchase products or services via the Sites.
+3. PROTECTION OF PERSONAL DATA CONCERNING CHILDREN
+DS SolidWorks products (other than SOLIDWORKS Apps for Kids, which is subject to a separate privacy policy), are not marketed to children under the age of 13 and DS SolidWorks does not knowingly collect, or store Personal Data from children under the age of 13. Additionally, DS SolidWorks will not collect or store Personal Data, or send email marketing messages to those who are 13, 14, and 15 years old unless permitted by the local data protection laws.
+Certain DS SolidWorks products and services may be appropriate for use by children, however, in which case children below the age of consent under local data protection laws must seek consent from their parents or guardians prior to creating a DS SolidWorks account or registering a product. Teachers and school administrators may act in the place of parents and guardians and provide consent for the collection of Personal Data from children (schools should always ensure that they have received permission from parents or guardians to do so).
+If parents or guardians become aware that their child has provided DS SolidWorks with Personal Data without their consent or without a teacher’s or school administrator’s consent, they can ask DS SolidWorks to remove such Personal Data and terminate the child’s account by sending an email to privacy@solidworks.com .
+If DS SolidWorks becomes aware that it has collected Personal Data from a child below the age of consent under local data protection laws without consent from a parent or guardian, DS SolidWorks will take steps to seek the parent’s or guardian’s consent for that processing or to remove such Personal Data and terminate the child’s account.
+4. PURPOSES FOR PROCESSING PERSONAL DATA
+DS SolidWorks collects and uses Your Personal Data for the purpose of carrying out its business based on the following legal grounds and for the following purposes:
+Processing activities for Personal Data collected from those who visit a Site without entering information, and which are based on Your prior consent if required by law (e.g., You are a resident of the European Union, Iceland, Liechtenstein, or Norway):
+To improve Your user experience; and
+To recognize that You may have given us information and do not need to provide such information again.
+Processing activities for Personal Data collected from those who provide information to us for purposes listed above, and which are based on Your prior consent if required by law (e.g., You are a resident of the European Union, Iceland, Liechtenstein, or Norway):
+To enable You to request and receive information related to DS SolidWorks products and services from DS SolidWorks and its resellers;
+To provide You with a personalized interactive use of the Sites;
+To ascertain Your requirements and interests and provide You with the most suitable products and/or services;
+To enable You to participate in marketing activities and surveys; and
+To enable You to register for a seminar, webinar, or event.
+Processing activities based on performance of a contract:
+To allow You to open and maintain an account in order to obtain specialized documentation and technical assistance;
+To enable You to subscribe to a commercial or a support service;
+To enable You to make online purchases of some of our products and/or services;
+To enable You to exchange information with other users of the Sites;
+To enable DS SolidWorks to manage its business relationships, including sales opportunities, commercial offers, purchasing, contracts, orders, and invoices, and which may include conversational data (e.g., chat, email, and voice messaging data);
+To provide You with commercial or support services;
+To enable DS SolidWorks to manage its Research & Development activities, including development requests, incidents, and product stability control; and
+To manage Your training and/or certification on DS SolidWorks products and services.
+Processing activities based on DS SolidWorks’ legitimate interest:
+To process an employment application from You and manage the recruitment sources; and
+To manage the DS SolidWorks’ obligations related to applicable export laws, trade sanctions, and embargoes issued, without limitation, by the European Union and its member states, and of the United States of America. This may include (i) automated checks of any user registration data as set out herein and other information You provide about Your identity against applicable sanctioned-party lists; (ii) regular repetition of such checks whenever a sanctioned-party list is updated or when You update Your information; (iii) blocking of access to DS SolidWorks services and systems in case of a potential match; and (iv) contacting You to confirm Your identity in case of a potential match.
+In addition, DS SolidWorks collects and manages activation data for Dassault Systèmes DraftSight® software, and uses that data and supplemental data provided by the DraftSight customer for marketing purposes (e.g., sending newsletters and offers to DraftSight customers).
+When You register for an event organized by DS SolidWorks, DS SolidWorks may share Your name, company, and email address with other participants and sponsors of the same event for the purpose of communication and the exchange of ideas. In addition, DS SolidWorks may ask You for information about Your health for the sole purpose of identifying and being considerate of individuals who have disabilities or special dietary requirements throughout the event.
+Subject to applicable local law, by providing Personal Data such as but not limited to an email address, You hereby expressly authorize DS SolidWorks and its affiliates and subsidiaries (“3DS Group Companies”) to use it together with other relevant Personal Data to send You commercial or marketing communications. DS SolidWorks might also use Your email address for administrative and other non-marketing purposes (for example, to notify You of significant changes to the Sites).
+5. PERSONAL DATA RETENTION PERIOD
+DS SolidWorks does not store Your Personal Data for more time than necessary. Retention periods may vary depending on the data categories and the processing activities.
+Where DS SolidWorks is processing and using Your Personal Data as permitted by law or under your consent, DS SolidWorks will store Your Personal Data (i) only as long as required to fulfill the purposes set out above, (ii) where DS SolidWorks has a legitimate interest in using Your Personal Data, until You object to DS SolidWorks’ use of Your Personal Data, or (iii) where You gave Your consent, until You withdraw it. However, where DS SolidWorks is required by applicable law to retain Your Personal Data longer or where Your Personal Data is required to assert or defend against legal claims, DS SolidWorks will retain Your Personal Data until the end of the relevant retention period or until the claims in question have been settled.
+6. TRANSFER OF PERSONAL DATA AND RECIPIENTS
+If You are accessing the Site from a location outside of the United States, please note that through Your continued use of the Site, which is governed by Massachusetts law, the corresponding Terms of Use and this Privacy Policy, You may be transferring Your Personal Data to the United States and You consent to that transfer.
+As a member of a global group, DS SolidWorks is able to use available technology to efficiently manage Personal Data and obtain such Personal Data online or otherwise throughout its affiliates’ international operations. Personal Data may be collected through the Site and subsequently disclosed to and used by an affiliate of DS SolidWorks for the purposes stated in section 4 of this Privacy Policy.
+Where DS SolidWorks has knowledge that a third party to which DS SolidWorks has provided Personal Data for the purposes listed in section 4 above, is using or disclosing Personal Data contrary to this Privacy Policy or to applicable laws, DS SolidWorks will take reasonable steps to prevent or stop such use or disclosure.
+You will have the opportunity to decide whether You authorize DS SolidWorks to use Your Personal Data for a purpose differing from the purpose for which it was originally collected.
+DS SolidWorks will also disclose Personal Data to third parties if DS SolidWorks determines that such disclosure is necessary for technical reasons (such as hosting services by a third party) or to protect DS SolidWorks’ legal interests (such as in the event of acquisition or merger by a third company or total or partial liquidation of DS SolidWorks).
+Additionally, DS SolidWorks may share Your Personal Data with the reseller assigned to You or in the territory where You are located. DS SolidWorks may also share Your Personal Data with business partners when DS SolidWorks and the business partner sponsor an event together or participate in a marketing promotion together and in which You engage.
+Furthermore, if allowed by applicable law, DS SolidWorks may share Your Personal Data with a third party who owns content You wish to access, such as a third-party supplier of a part model. By accessing such content, You consent to DS SolidWorks sending Your Personal Data to the content owner and You acknowledge that Your Personal Data will be processed by the content owner in accordance with its own privacy policies.
+DS SolidWorks may also disclose such personal information if required by law or if DS SolidWorks believes in good faith that such disclosure is reasonably necessary to comply with legal process (for example, a warrant, a subpoena, or other court order) or protect the rights, property, or personal safety of DS SolidWorks, our customers, or the public.
+If allowed by applicable law, DS SolidWorks may also share Your Personal Data with third parties in order to offer You targeted marketing or advertising.
+These transfers may be transmitted over the Internet, via mail, via facsimile, or by any other method that DS SolidWorks determines is appropriate and in accordance with applicable law.
+7. RIGHTS OF ACCESS TO AND RECTIFICATION OF THE DATA, AND OTHER RIGHTS
+DS SolidWorks will take reasonable steps to ensure that the Personal Data collected is used for the purposes stated in this Privacy Policy and that such Personal Data is correct and up to date.
+You have a right to access Your Personal Data. In addition, You have a right to request the rectification, completion, update, and erasure of Your Personal Data. You also have a right to obtain a copy of the Personal Data stored by DS SolidWorks.
+If You have an account, You may be able to exercise Your rights of access to and rectification of the Personal Data by logging on to Your account. Otherwise, You may exercise Your rights of access to and rectification of the data by sending an email to  privacy@solidworks.com .
+Depending on the scope of the request, DS SolidWorks reserves the right to charge a reasonable fee to cover any out-of-pocket costs incurred in connection with such access, modification and deletion of Personal Data. DS SolidWorks may deny access to Personal Data in limited circumstances, defined by applicable laws and regulations.
+8. DATA SECURITY
+DS SolidWorks undertakes to ensure the protection and security of Personal Data that You choose to communicate, in order to ensure the confidentiality of Your Personal Data and prevent Your Personal Data from being distorted, damaged, destroyed or disclosed to unauthorized parties.
+DS SolidWorks maintains reasonable physical, electronic, and procedural safeguards to protect Personal Data from loss, misuse and unauthorized access, disclosure, modification, and destruction. As part of those safeguards, DS SolidWorks employs sophisticated technology designed to protect Personal Data during its transmission and prevent transmission errors or unauthorized acts of third parties. However, while DS SolidWorks strives to protect Your Personal Data, in light of the inevitable risks of data transmission over the Internet, DS SolidWorks cannot guarantee full protection against any error occurring during the course of Personal Data transmission that is beyond DS SolidWorks' reasonable control.
+Since Personal Data may be confidential, access is limited to employees, contractors, resellers, and vendors of 3DS Group Companies who have a need to know such data in carrying out their tasks. All the people who have access to Your Personal Data are bound by a duty of confidentiality and subject to disciplinary actions and/or other sanctions if they fail to meet these obligations.
+However, it is important for You to exercise caution to prevent unauthorized access to Your Personal Data. You are responsible for the confidentiality of Your password and information appearing on Your account. Consequently, You must ensure that You log out of Your session in the event of shared use of a computer.
+9. COOKIES
+The Sites may use cookies or other technologies (together referred to as “cookies”) that may collect or store Personal Data. Cookies are text files stored and used to record non-personal and personal information concerning Your browsing and use of the Sites. Cookies can be either persistent (i.e., remain after You close Your browser in order to be used on Your subsequent visits to the Site) or transient (i.e., removed when You close Your browser).
+DS SolidWorks may use cookies to:
+improve Your user experience through, for example:
+enabling a service to recognize Your device so You don't have to give the same information several times, and
+recognizing that You may already have given a username and password so You don't need to do so repeatedly.
+analyze traffic and data on a Site to:
+measure how many people are using the Sites, so they can be made easier to use and navigate and have enough capacity to ensure have adequate response times, and
+help DS SolidWorks understand how people interact with a Site so DS SolidWorks can improve the functionality and performance of the Site.
+DS SolidWorks may also use third-party vendor services to measure and analyze the effectiveness of the Site (e.g., Adobe Analytics, Google Analytics, Piwik, DART, LinkedIn), and in particular to:
+analyze Your browsing habits and measure a Site’s audience,
+analyze Your interests and offer You targeted marketing or advertising, and
+allow You to share content from the Sites with other people on social networks and to let other people know what You are looking at and how You feel about content (e.g., the “Like” button on Facebook).
+In such cases, cookies provided by such third party vendors may be used and stored. By transmitting the information generated by these cookies, the cookies’ settings ensure that IP addresses are anonymous before geo-localization and before storage. Our third party vendors will use this information for the evaluation of Your use of the Site, compiling reports on the Site activity for DS SolidWorks to provide better services to You suited to Your needs, and provide advertisements to You that are suited to Your needs. Cookies will not associate Your IP address with any other data they store.
+When You browse the Sites, cookies are enabled by default and data may be read or stored locally on Your device if Your browser settings allow. DS SolidWorks will notify You of the use of cookies the first time You access the Sites with a different device; DS SolidWorks will not install any cookies before obtaining Your explicit consent. You may decide to accept or refuse some or all cookies. You can configure Your browser software to refuse all cookies (including cookies used for web analytics services); if You do so, however, some areas and features of the Sites may not function properly and/or You may not be able to access some parts or services of the Sites.
+10. LINKS TO WEBSITES NOT CONTROLLED BY DS SOLIDWORKS
+This Site might offer links to third party Websites that may be of interest to You.
+DS SolidWorks does not exercise any control over the content of third party websites or the practices of these third parties in connection with the protection of Personal Data that they might collect and are thus not in the control of DS SolidWorks. Consequently, DS SolidWorks shall have no liability for the content of third party websites or the practices of these third parties concerning the protection of Personal Data.
+It is therefore Your responsibility to inform Yourself as to these third parties' privacy policies.
+11. DISPUTE RESOLUTION
+Although DS SolidWorks has put in place reasonable safeguards to protect Personal Data, we recognize that there is no method of transmitting or storing Personal Data that is completely secure.
+However, DS SolidWorks is committed to ensure the privacy of Personal Data. If You have a reason to believe that the security of Your Personal Data has been compromised or misused, You should contact DS SolidWorks by sending an email to  privacy@solidworks.com .
+DS SolidWorks will investigate and attempt to resolve complaints regarding use and disclosure of Personal Data in accordance with the principles contained in this Privacy Policy.
+Unauthorized access to Personal Data or the improper use of Personal Data may constitute offenses under local law.
+If Your usual place of residence is in European Union, Lichtenstein, Norway or Iceland, You have a right to file a complaint with Your competent data protection authority.
+12. CONTACT
+For any additional question concerning this Privacy Policy, to opt out of receiving information from DS SolidWorks or any request regarding Your rights in Your Personal Data You may send an email to the following email address: privacy@solidworks.com .
+Please note that You may also contact the 3DS Group Companies Data Protection Officer via the following address: 3DS.Compliance-Privacy@3ds.com
+13. DATE OF ENTRY INTO FORCE OF THE PRIVACY POLICY AND CHANGES TO IT
+This Privacy Policy may be updated according to DS SolidWorks' requirements and circumstances, or when required by applicable laws and regulations so please check back periodically for updates.
+If major changes occur to this Privacy Policy, DS SolidWorks may inform You via email or via posting a notice on the Site.
+Last modification: This Privacy Policy was last modified June 13, 2018.
+English (US)

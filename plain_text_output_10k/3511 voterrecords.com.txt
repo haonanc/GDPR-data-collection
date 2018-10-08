@@ -1,0 +1,49 @@
+Updated June 5, 2018
+This Privacy Policy sets forth how personal information is collected and used, that is provided on Internet Web site located at www.acorns.com (the “Site”) and our mobile application (collectively, “Acorns Technology”). Unless otherwise indicated, this Privacy Policy only applies to personal information collected through Acorns Technology by Acorns Grow Incorporated, Acorns Advisers, LLC, Acorns Securities, LLC, Acorns Pay, LLC, or any of their respective affiliates (together, for purposes hereof, “Acorns”). By using the Acorns Technology, you agree to be bound by this Privacy Policy and our Terms of Use, as they may be amended from time to time in the future (see "Change to this Privacy Policy" below).
+Acorns is committed to maintaining the confidentiality, integrity and security of any personal information about our users. This Privacy Policy explains how we protect personal information provided through the Acorns Technology and how we use that information in connection with our service offered through the Acorns Technology (the "Service"). "Personal information" for purposes of this Privacy Policy means information that identifies you, such as your name, address, phone number, fax number or email address.
+Acorns stresses its privacy and security standards to guard against identity theft and provide security for your personal information. We regularly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges.
+Personal Information Collected
+We collect the following personal information from you:
+contact information such as name, email address, mailing address, phone number;
+billing information such as credit card number, and billing address;
+financial information such as bank or brokerage account numbers, types of investments;
+Social Security number;
+driver's license number;
+unique identifiers such as user name, account number, password;
+preferences information such as product wish lists, order history, and marketing preferences; and
+demographic information such as age, education, gender, interests, and zip code.
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID"). We do not collect your location-based information.
+Information Sharing
+Acorns uses and discloses your personal information only as follows:
+to analyze site usage and improve the Service;
+to deliver to you any administrative notices, money alerts, and communications relevant to your use of the Service;
+to fulfill your requests for certain products and services;
+for market research, project planning, troubleshooting problems, and detecting and protecting against error, fraud, or other criminal activity;
+to third-party contractors that provide services to Acorns and are bound by these same privacy restrictions;
+to enforce Acorns's Terms of Use; and as otherwise set forth in this Privacy Policy.
+In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL, your email address used for registration on the Service may be provided to that co-brand partner.
+In addition, we may, from time to time, offer promotions with various businesses, websites, mobile applications or third parties, which may include opportunities for you to earn deposits within your Acorns account. Each such promotion will be subject to and governed by our Terms of Use, this Privacy Policy, and any applicable rules or terms and conditions we may post online, post in our mobile application, include within e-mail or other communications, or otherwise make available to you. To the extent you elect to participate in any such promotion or otherwise make any purchase subject to a promotion, we may share personal information such as name, e-mail address, purchase dates, and other related information with the applicable third party for the limited purpose of allowing the parties the make the promotion available and track participation within such promotion.
+We may use information you provide to connect you with people you may already know. For example, through our mobile application we may identify contacts within your address book as potential new users of Acorns. We may match the contact information you provide to the information provided by other users to improve the Service, including making it easier to find contacts you may refer to Acorns that are not already customers.
+We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+If Acorns Grow Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+Third Party Services
+If you choose to apply for an Acorns VisaTM debit card, you understand that such card is issued by Lincoln Savings Bank and you conform acceptance of Lincoln Savings Bank’s privacy policy .
+User Access and Choice
+If the personal information on file for you changes, or if you no longer desire our service, you may correct or update it by making the change on our customer information page or by emailing Acorns Customer Service.
+We will retain and use your information as necessary to comply with our legal and/or regulatory obligations, resolve disputes, and enforce our agreements.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at the information below.
+Cookies / Tracking Technologies
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Site. We do not link the information we store in cookies to any personally identifiable information you submit while on the Site.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.
+If you reject cookies, you may still use the Site, but your ability to use some areas of the Site, such as contests or surveys, may be limited.
+The use of cookies by our partners, affiliates, tracking utility company, and/or service providers is not covered by our Privacy Policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and/or service providers use session ID cookies to make it easier for you to navigate the Site.
+We employ (and/or our third-party advertising partner employs) a software technology called clear gifs (sometimes known as web beacons or web bugs), that help us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+Security
+The security of your personal information is important to us. When you enter sensitive information, such as a credit card number or financial information, on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on the Site, please contact us.
+Changes to this Privacy Policy
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+Contact Us
+If you have any questions about our Privacy Policy, please contact Acorns Customer Service at:
+Irvine, CA 92612
+© 2018  Acorns | Disclosures

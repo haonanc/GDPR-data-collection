@@ -1,0 +1,42 @@
+Submit an APK
+Have the APK file for an alpha, beta, or staged rollout update? Just drop it below, fill in any details you know, and we'll do the rest!
+NOTE: Every APK file is manually reviewed by the AndroidPolice team before being posted to the site.
+ERROR:
+SUCCESS: Your files have been uploaded, please check if there were any errors.
+An easy-to-use data manager, and privacy assistant, exclusively for Samsung.
+● Save data in your favorite apps
+● Scan for app privacy risks and shield your privacy
+● Manage your apps
+Save mobile data . Protect your Privacy. Get updates, alerts, stats, and tips on everything your apps are doing, and how to manage them.
+Watch MORE, listen MORE, and browse MORE without concern for your data plan or your personal privacy - Samsung Max has you covered with both savings and privacy protection.
+The most efficient way to stretch your data plan and save the money you spend on data. Track and control your apps’ data consumption on mobile and Wi-Fi, or easily block background data, and data access for any app. Samsung Max advises you when apps consume aggressive amounts of background data, and gives you control to allow or block access.
+FEATURES
+• Samsung Max offers foreground data savings / data compression service and background data management to EXTEND YOUR TIME in all of your apps without your mobile data plan running out as quickly - perfect for everyday data savings, maximum savings when travelling, or when you encounter poor network conditions.
+• SAVINGS REPORTS - See the data your apps are using and reduce it by turning on data savings - to save your data and money.
+• MANAGE APPS by limiting or restricting their mobile and Wi-Fi data consumption to save money. It's easy, Samsung Max will give you alerts for apps using too much background data.
+• WI-FI SECURITY - Use Samsung Max’s super-secure and encrypted connections when on public Wi-Fi to ensure your personal information is protected.
+• INCOGNITO - Go incognito in all your apps to avoid targeted ads and data snoopers from tracking you. Throw those tracking companies off your trail.
+• Get PRIVACY REPORTS to better manage both your privacy within apps and network connections.
+• ULTRA APPS will save data, protect your privacy , and give you more powerful control over the experience of your favorite social networks and destinations without wasting your mobile data plan or putting your privacy at risk. Ultra apps are advanced web apps that load mobile website versions of your favorite services, but they are optimized by Samsung Max’s cloud technology.
+• BOOST WI-FI connectivity in crowded Wi-Fi hotspots or weak signal areas.
+HOW IT WORKS
+With data saving modes or privacy modes activated, all your network traffic from your apps is compressed and encrypted by Samsung Max’s servers before it reaches your Android device. A bank-grade, secure network connection means even when you are on public Wi-Fi your personal information is protected, and Max’s data savings cloud means the data usage is as efficient as possible.
+PREMIUM MODE
+To support the most advanced and FREE data savings service, and the powerful Secure Wi-Fi and Privacy protection service, Samsung Max shows ads to keep the services free.
+There is an option to control your ad experience. You can choose to view ads inside the app or enable premium mode, which grants you access to powerful app management features and unlimited usage of savings and privacy services. In exchange, it shows you ads in the Samsung lock screen ONLY while your device is plugged in charging. Choose how you want to experience ads, and enjoy the powerful and free data savings and privacy protection services from Samsung.
+Have questions or need help? Visit: www.samsungmax.com/
+End User Terms:
+By downloading and/or using this product, you acknowledge and agree to the end user license agreement at max.apps.samsung.com/eula and Privacy Statement at max.apps.samsung.com/pp .
+Variant
+ArchArchitecture
+File size:10.74 MB
+File size:10.26 MB
+File size:9.74 MB
+File size:9.66 MB
+File size:19.59 MB
+File size:16.66 MB
+File size:16.66 MB
+File size:16.66 MB
+File size:16.55 MB
+File size:14.57 MB
+© Illogical Robot LLC, AndroidPolice.com, 2014-2018

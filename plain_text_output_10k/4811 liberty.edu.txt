@@ -1,0 +1,40 @@
+YOUR PRIVACY IS IMPORTANT
+West Liberty University is the owner and operator of westliberty.edu , subdomains, various social media properties (to the extent these properties allow our control), and other sites, including but not limited to hilltoppersports.com . All such web properties are referred to herein as Web Presence. The privacy policy below reflects the policy of both our Web Presence and our normal operating procedures for our operational practices. We recognize the importance of your privacy. It’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use it. With these concerns in mind, we’ve developed the Privacy Policy outlined below.
+We may update this Policy from time to time, so please check back occasionally.  If you have any questions about our Privacy Policy, you can contact us at [email protected]
+Note to children under the age of 13
+If you’re under 13, you must provide us with written permission from your parent(s) or legal guardian(s) before sending any information about yourself to us over the Internet.
+Information collected and how it is used
+ 
+User Information
+We do not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. This means we don’t require you to register or provide personally identifiable information to us in order to view our site. However, you must register if you wish to use certain features on our site, such as the online admissions application.
+Security & Safety
+To take the worry out of sending us personally identifiable information or financial information through the web, our site uses a Secure Socket Layer (SSL), which encrypts your personal information so that it cannot be read as it travels over the Internet. This means the characters are scrambled, making it impossible for a third party to easily intercept and access your personal information.
+Cookies
+Parties of our Web Presence may use “cookie” technology. A cookie is a small piece of information that is stored on a computer for the purpose of identifying that browser during interaction on websites. Cookies may be used to store items such as identifiers and user preferences. A website may set a cookie to the browser if the browser’s preferences allow it. A browser only permits a website to access the cookies it has set, not those set by other websites.
+You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. West Liberty may use cookies for a number of purposes. We deliver advertisements and content relevant to your interests by collecting and maintaining information based on your websurfing activity when you are visiting our Web Presence. We may also use cookies to provide general internal and customer analytics. Browser-based analytic systems are used to collect information about visitors to our Web Presence.
+Other parts of our Web Presence use LAMP stack technology that does not install “cookie” on your computer. Information about your visit to the site is merely passed from page to page in session variables. For example, if you submit information to us, these variables help us know what you requested. If you cancel the submission of this information, the session variables are discarded.
+Comments
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+Media
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+Embedded content from other websites 
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+Log Files
+Each time a page is requested from your browser, we log your computer’s IP address into our log files. Your computer has been pre-assigned a 12-digit number from your Internet Service Provider and may be static or dynamically assigned. This number is the IP address. We use your IP addresses to analyze trends, administer the site, track your movements on the site, and gather broad demographic information for aggregate use. We do not use IP addresses to link to any other personally identifiable information.
+Other Sites
+From time to time we may have links to other websites from our site. We do not control, and therefore cannot be responsible for, the collection, use or disclosure of your information by any such third party site. Please carefully review the privacy policy of any third party site that you link to from our site.
+Security
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of your information, we have put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. We use industry standard security measures called SSL (secure socket layer) encryption.
+Correction/updating Personal Information
+At any time, you can update your information by sending an email request to us at: [email protected] In addition, you may notify us if you wish to cease the use of any of your information by sending an email request to the same address and we will use reasonable efforts to comply with your request.
+Our policies may change
+By using our website, you consent to the collection and use of your information on our Web Presence, as described above. If we make any changes to our Privacy Policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will extend to any and all information we may collect or may have collected, regardless of whether the policy was different at the time the information was collected.
+ 
+This privacy policy was last updated on May 24, 2018.
+Search WLU
+Our Mission
+To provide our students the opportunity for a high quality undergraduate, graduate, and professional education through appropriate formats and venues.
+West Liberty University
+208 University Drive

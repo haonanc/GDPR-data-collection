@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=564;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20180528043939im_/https://security.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_brand/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortlink" href="/web/20180528043939/https://security.berkeley.edu/node/1023"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20180528043939/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites"/>
+  <title>Privacy Statement for UC Berkeley Websites | Information Security and Policy</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_OfisoDAZLCsS_ljrWoAkD6v0_iHaE_TAjgyfAQzvRjM.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_8XutOtFtUXVmvHNa0lL2436KhnCuczjOTmEcG7L7j7o.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_EWvy5VYskxQsQ8Nbyn9tBEAPHsUOqG4WzQcJnHEE-1w.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_KPI9rB8s0iqRXVoapUnYbFZmMaav5ADrFEXeUdmAkA8.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_fTfJo-dPtzirDva2c_4irCYiTua1w5HvujwppmNQxcE.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_ntWwHNqIRC0PVuinmUDLBq8-MGmt-FENITNcm_GOddU.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_81EreKB4Ffrx5o-vUNZjj3ZYWD1OdbxZpAw5iIonfBQ.css" media="print"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20180528043939cs_/https://security.berkeley.edu/sites/default/files/css/css_pmWHe0zK_mu8c-yUaR0DTFcMapBK3EqQDlYajIK89rY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20180528043939cs_/https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" media="all"/>
+  <script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_v7z_ueNi9EIrZXPI8So7AkuzyXuKekr2jbdDptsM5Oc.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_CplP3uaSe7aRXQ9aiBD3b56wkeieD2nerD94Kv9mV3k.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_X4PNIOonum4F0u5AcbZHH3y3TRZfjf5opwQqqUgn4EY.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_ZlEddDZl8RdaNTK7luiZ9DVYVT8jdZ8pTn3_TmQ9oR0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//web.archive.org/web/20180528043939/https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-77528404-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20180528043939js_/https://use.typekit.net/ixk1zbq.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_eIDV56BUHUd2F15YXvRBniElbkhrH1chwmmLhlNSaxk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"openberkeley_theme_brand","theme_token":"L5RyEv3kGythV80_B8PCpvV271LrItycEhIZi96rNE4","js":{"profiles\/openberkeley\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"profiles\/openberkeley\/themes\/openberkeley_theme_base\/assets\/js\/bootstrap-accessibility.js":1,"profiles\/openberkeley\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/openberkeley\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/openberkeley\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/openberkeley\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/openberkeley\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/openberkeley\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_faq\/openberkeley_faq.js":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_portfolio\/openberkeley_portfolio.js":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_theme\/openberkeley_theme.js":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_twitter\/js\/openberkeley-twitter.js":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_wysiwyg_override\/js\/openberkeley-wysiwyg-override.js":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/openberkeley\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openberkeley\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"profiles\/openberkeley\/libraries\/maphilight\/jquery.maphilight.min.js":1,"profiles\/openberkeley\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"profiles\/openberkeley\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"\/\/web.archive.org\/web\/20180528043939\/https:\/\/use.typekit.net\/ixk1zbq.js":1,"1":1,"profiles\/openberkeley\/themes\/radix\/assets\/js\/radix.script.js":1,"profiles\/openberkeley\/themes\/openberkeley_theme_base\/assets\/js\/openberkeley_theme_base.script.js":1,"profiles\/openberkeley\/themes\/openberkeley_theme_base\/assets\/js\/drupal-announce.js":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/js\/openberkeley_theme_brand.script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/openberkeley\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/openberkeley\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/openberkeley\/modules\/contrib\/mvpcreator_theme\/css\/mvpcreator-theme.css":1,"modules\/node\/node.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_brand_widgets\/css\/openberkeley-widgets-hero.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_brand_widgets\/css\/openberkeley-widgets-image.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_brand_widgets\/css\/openberkeley-widgets-promo.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_brand_widgets\/css\/openberkeley-widgets-thumbnail-list.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_faq\/openberkeley_faq.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_news\/openberkeley_news.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_portfolio\/openberkeley_portfolio.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_svc_catalog\/openberkeley_svc_catalog.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_theme\/openberkeley-theme.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_widgets\/openberkeley_widgets.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_wysiwyg_override\/css\/openberkeley-wysiwyg-override-list-properties.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/openberkeley\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/openberkeley\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/openberkeley\/modules\/contrib\/views\/css\/views.css":1,"profiles\/openberkeley\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/openberkeley\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/openberkeley\/modules\/ucb\/ucberkeley_cas\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openberkeley\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/bootstrap-custom.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_base\/assets\/css\/bootstrap-accessibility.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_base\/assets\/css\/openberkeley_theme_base.style.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/openberkeley_theme_brand.style.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_event.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_event_reg.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_news.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_portfolio.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_privatepages.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_pubs.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_people.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/brand_openberkeley_search.css":1,"profiles\/openberkeley\/themes\/openberkeley_theme_brand\/assets\/css\/print.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_theme\/openberkeley-theme-collapsible.css":1,"profiles\/openberkeley\/modules\/openberkeley\/openberkeley_wysiwyg_override\/css\/openberkeley-wysiwyg-override.css":1,"profiles\/openberkeley\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"\/\/web.archive.org\/web\/20180528043939\/https:\/\/fonts.googleapis.com\/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800":1}},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"automatic"},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":0,"extExclude":"(security\\.berkeley\\.edu)","extInclude":"","extCssExclude":"map","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/search\/node":true},"openberkeley_theme_base":{"disable_linearizable_tables":false,"file_link_icons":0}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1023 node-type-openberkeley-content-page region-content panel-layout-radix_bryant panel-region-contentmain panel-region-sidebar no-slogan site-name-normal site-slogan-legacy site-name-option-two"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://security.berkeley.edu/privacy-statement-uc-berkeley-websites
+', '20180528043939')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180528043939/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180528043939/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://security.berkeley.edu/privacy-statement-uc-berkeley-websites
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180528043939" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180329054538/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites" title="29 Mar 2018"><strong>Mar</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 04:39:39 May 28, 2018">MAY</td>
+		  <td class="f" nowrap="nowrap">Jun</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180508042339/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites" title="04:23:39 May 08, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 04:39:39 May 28, 2018">28</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170131053727/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites" title="31 Jan 2017"><strong>2017</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 04:39:39 May 28, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180528043939*/https://security.berkeley.edu/privacy-statement-uc-berkeley-websites
+" title="See a list of every capture for this URL">8 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">31 Jan 2016 - 28 May 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/NO404" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+<br><br>
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+<br><br>
+The goal is to <a href="https://blog.archive.org/2013/10/25/fixing-broken-links/">fix all broken links on the web</a>. 
+
+Crawls of supported "No More 404" sites.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/NO404-GDELT)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/NO404-GDELT" target="_new"><span class="wm-title">GDELT</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  A daily crawl of more than 200,000 home pages of news sites, including the pages linked from those home pages. Site list provided by <a href="http://gdeltproject.org/about.html">The GDELT Project</a>
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://security.berkeley.edu/privacy-statement-uc-berkeley-websites\n","2018-05-28",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+  <div id="skip-link" role="navigation" aria-label="Skip links">
+    <a href="#main" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="header" class="header">
+  <div class="container">
+    <div class="navbar navbar-default">
+      <div class="home-branding">
+        <a href="https://web.archive.org/web/20180528043939/http://berkeley.edu/" class="home-link">UC Berkeley</a>
+              </div>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <div class="navbar-header">
+        <div class="navbar-brand">
+                      
+          <div id="site-name-and-slogan">
+                                      <div id="wordmark"></div>              <div id="option-two">
+             
+                              <div id="site-name">
+                                      <a href="/web/20180528043939/https://security.berkeley.edu/" rel="home" title="Home">
+                      Information Security and Policy                    </a>
+                                  </div>
+                                        </div>
+             
+          </div>
+        </div>
+      </div> <!-- /.navbar-header -->
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <nav class="collapse navbar-collapse" id="navbar-collapse" aria-label="Site navigation">
+                  <form class="search-form navbar-form navbar-right" role="search" aria-label="Sitewide search" action="/web/20180528043939/https://security.berkeley.edu/search/node" method="post" id="search-form--2" accept-charset="UTF-8"><div><div class="container-inline form-inline form-wrapper" id="edit-basic--2"><div class="form-item form-type-textfield form-item-keys form-group">
+  <label class="element-invisible" for="edit-keys--2">Search Terms </label>
+ <input placeholder="Search this site" class="form-control form-text" type="text" id="edit-keys--2" name="keys" value="" size="20" maxlength="255"/>
+</div>
+<button type="submit" id="edit-submit--2" name="op" value="Submit Search" class="form-submit btn btn-default btn-primary"><i class="fa fa-search"></i> <span class="button-text">Submit Search</span></button></div><input type="hidden" name="form_build_id" value="form-gAVEo0AYLHJRYMeDNwWV1Fhy_L5vp9CCQthMYDP1J2A"/>
+<input type="hidden" name="form_id" value="search_form"/>
+</div></form>                <div id="primary-nav">
+                      <ul id="main-menu" class="menu nav navbar-nav">
+              <li class="first expanded dropdown menu-link-about-"><a href="/web/20180528043939/https://security.berkeley.edu/about" title="Learn more about our mission and team." class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-staff-listing--pgp-keys"><a href="/web/20180528043939/https://security.berkeley.edu/about/staff-listing-and-pgp-keys">Staff Listing &amp; PGP Keys</a></li>
+<li class="last leaf menu-link-contact-us"><a href="/web/20180528043939/https://security.berkeley.edu/about/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded dropdown menu-link-services-"><a href="/web/20180528043939/https://security.berkeley.edu/services" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Services <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-all-services"><a href="/web/20180528043939/https://security.berkeley.edu/services" title="View our sortable Service portfolio">All Services</a></li>
+<li class="collapsed menu-link-aggressive-ip-distribution-aid-list"><a href="/web/20180528043939/https://security.berkeley.edu/services/aggressive-ip-distribution-aid-list">Aggressive IP Distribution (AID) List</a></li>
+<li class="collapsed menu-link-application-security-testing-program-astp"><a href="/web/20180528043939/https://security.berkeley.edu/services/application-security-testing-program-astp">Application Security Testing Program (ASTP)</a></li>
+<li class="collapsed menu-link-california-state-cphs-data-security-assessment"><a href="/web/20180528043939/https://security.berkeley.edu/services/california-state-cphs-data-security-assessment">California State CPHS Data Security Assessment</a></li>
+<li class="collapsed menu-link-campus-wide-network-vulnerability-scanning"><a href="/web/20180528043939/https://security.berkeley.edu/services/campus-wide-network-vulnerability-scanning">Campus-wide Network Vulnerability Scanning</a></li>
+<li class="collapsed menu-link-departmental-network-vulnerability-scanning"><a href="/web/20180528043939/https://security.berkeley.edu/services/departmental-network-vulnerability-scanning">Departmental Network Vulnerability Scanning</a></li>
+<li class="collapsed menu-link-ibm-appscan-web-application-vulnerability-scanning"><a href="/web/20180528043939/https://security.berkeley.edu/services/ibm-appscan-web-application-vulnerability-scanning">IBM AppScan Web Application Vulnerability Scanning</a></li>
+<li class="leaf menu-link-log-correlation"><a href="/web/20180528043939/https://security.berkeley.edu/services/log-correlation">Log Correlation</a></li>
+<li class="collapsed menu-link-mssei-assessment-service"><a href="/web/20180528043939/https://security.berkeley.edu/services/mssei-assessment-service">MSSEI Assessment Service</a></li>
+<li class="collapsed menu-link-network-intrusion-detection-systems"><a href="/web/20180528043939/https://security.berkeley.edu/services/network-intrusion-detection-systems">Network Intrusion Detection Systems</a></li>
+<li class="collapsed menu-link-netreg"><a href="/web/20180528043939/https://security.berkeley.edu/services/netreg">NetReg</a></li>
+<li class="leaf menu-link-restricted-data-management-rdm"><a href="/web/20180528043939/https://security.berkeley.edu/services/restricted-data-management-rdm">Restricted Data Management (RDM)</a></li>
+<li class="last collapsed menu-link-vendor-security-assessment-program"><a href="/web/20180528043939/https://security.berkeley.edu/services/vendor-security-assessment-program">Vendor Security Assessment Program</a></li>
+</ul></li>
+<li class="expanded dropdown menu-link-news-"><a href="/web/20180528043939/https://security.berkeley.edu/news-archive" title="Browse the latest Announcements and Security Alerts in our News section." class="dropdown-toggle" data-toggle="dropdown" data-target="#">News <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-announcements"><a href="/web/20180528043939/https://security.berkeley.edu/news-archive/announcements" title="">Announcements</a></li>
+<li class="last leaf menu-link-security-alerts"><a href="/web/20180528043939/https://security.berkeley.edu/news-archive/security-alerts" title="">Security Alerts</a></li>
+</ul></li>
+<li class="expanded dropdown menu-link-resources-"><a href="/web/20180528043939/https://security.berkeley.edu/resources" title="Find training, software, step-by-step guides, best practices, FAQs, and more in our Resources section." class="dropdown-toggle" data-toggle="dropdown" data-target="#">Resources <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li class="first collapsed menu-link-security-software"><a href="/web/20180528043939/https://security.berkeley.edu/resources/software" title="Download security software">Security Software</a></li>
+<li class="collapsed menu-link-training"><a href="/web/20180528043939/https://security.berkeley.edu/resources/training" title="Discover security training courses and tools">Training</a></li>
+<li class="collapsed menu-link-phishing"><a href="/web/20180528043939/https://security.berkeley.edu/resources/phishing">Phishing</a></li>
+<li class="leaf menu-link-ransomware"><a href="/web/20180528043939/https://security.berkeley.edu/resources/ransomware">Ransomware</a></li>
+<li class="collapsed menu-link-mailing-lists--workgroups"><a href="/web/20180528043939/https://security.berkeley.edu/resources/mailing-lists-workgroups">Mailing Lists &amp; Workgroups</a></li>
+<li class="collapsed menu-link-block-lists"><a href="/web/20180528043939/https://security.berkeley.edu/resources/block-lists">Block Lists</a></li>
+<li class="collapsed menu-link-best-practices--how-to-articles"><a href="/web/20180528043939/https://security.berkeley.edu/resources/best-practices-how-to-articles">Best Practices &amp; How-To Articles</a></li>
+<li class="last collapsed menu-link-faqs"><a href="/web/20180528043939/https://security.berkeley.edu/faq-page" title="">FAQs</a></li>
+</ul></li>
+<li class="expanded dropdown menu-link-policy-"><a href="/web/20180528043939/https://security.berkeley.edu/policy" title="Explore campus IT Policy including important Information Security policies and standards." class="dropdown-toggle" data-toggle="dropdown" data-target="#">Policy <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li class="first collapsed menu-link-governance"><a href="/web/20180528043939/https://security.berkeley.edu/policy/governance">Governance</a></li>
+<li class="leaf menu-link-a-z-policy-catalog"><a href="/web/20180528043939/https://security.berkeley.edu/policy/policy-catalog">A-Z Policy Catalog</a></li>
+<li class="last leaf menu-link-laws--regulations"><a href="/web/20180528043939/https://security.berkeley.edu/policy/laws-regulations">Laws &amp; Regulations</a></li>
+</ul></li>
+<li class="leaf menu-link-projects"><a href="/web/20180528043939/https://security.berkeley.edu/projects">Projects</a></li>
+<li class="last expanded dropdown menu-link-i-want-to-"><a href="/web/20180528043939/https://security.berkeley.edu/i-want" class="dropdown-toggle" data-toggle="dropdown" data-target="#">I Want To... <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li class="first collapsed menu-link-report-a-security-incident"><a href="/web/20180528043939/https://security.berkeley.edu/i-want/report-security-incident">Report a Security Incident</a></li>
+<li class="collapsed menu-link-respond-to-a-security-notice"><a href="/web/20180528043939/https://security.berkeley.edu/i-want/respond-security-notice">Respond to a Security Notice</a></li>
+<li class="leaf menu-link-report-a-stolen-or-lost-device"><a href="/web/20180528043939/https://security.berkeley.edu/i-want/report-stolen-or-lost-device">Report a Stolen or Lost Device</a></li>
+<li class="collapsed menu-link-request-an-information-security-policy-exception"><a href="/web/20180528043939/https://security.berkeley.edu/i-want/request-policy-exception">Request an Information Security Policy Exception</a></li>
+<li class="leaf menu-link-submit-an-off-site-hosting-request"><a href="https://web.archive.org/web/20180528043939/http://offsitehosting.berkeley.edu/" title="Submit a request to host Berkeley data or resources off-site to IT Policy" rel="noreferrer">Submit an Off-Site Hosting Request</a></li>
+<li class="leaf menu-link-login-to-netreg"><a href="https://web.archive.org/web/20180528043939/https://netreg.berkeley.edu/" title="" rel="noreferrer">Login to NetReg</a></li>
+<li class="last leaf menu-link-login-to-rdm"><a href="https://web.archive.org/web/20180528043939/https://rdm.berkeley.edu/" title="Register information systems dealing with PL2 data or higher in our RDM application" rel="noreferrer">Login to RDM</a></li>
+</ul></li>
+            </ul>
+                  </div>
+        <div id="secondary-nav">
+          <div class="container">
+                          <h2 class="visible-xs visible-sm">Secondary navigation</h2>
+              <ul id="secondary-menu" class="menu nav navbar-nav navbar-right">
+                <li class="first leaf menu-link-back-to-technology--berkeley"><a href="https://web.archive.org/web/20180528043939/http://technology.berkeley.edu/" title="" rel="noreferrer">Back to Technology @ Berkeley</a></li>
+<li class="last leaf menu-link-contact-us"><a href="/web/20180528043939/https://security.berkeley.edu/about/contact-us" title="">Contact Us</a></li>
+
+                              </ul>
+                      </div>
+        </div>
+      </nav><!-- /.navbar-collapse -->
+    </div><!-- /.navbar -->
+  </div> <!-- /.container -->
+</header>
+
+<div id="main-wrapper" class="main-wrapper">
+  <div id="pre-content" class="container" role="navigation" aria-label="Breadcrumbs">
+    <div class="row">
+      <div class="col-md-12">
+                  <div id="breadcrumb" class="visible-desktop">
+            <h2 class="element-invisible">You are here</h2><div class="item-list"><ul class="breadcrumb"><li class="first"><a href="/web/20180528043939/https://security.berkeley.edu/home">Home</a></li>
+<li class="last">Privacy Statement for UC Berkeley Websites</li>
+</ul></div>          </div>
+              </div>
+    </div>
+  </div> <!-- /#pre-content -->
+  <div id="main" role="main" tabindex="-1">
+    <div id="title-pre-content" class="container">
+      <div class="row">
+        <div class="col-md-12">
+                  <div class="page-title">
+            <div class="container">
+              <h1 class="title">Privacy Statement for UC Berkeley Websites</h1>
+            </div>
+          </div>
+                  <div id="page-header">
+                                        </div>
+        </div>
+      </div>
+    </div> <!-- /#title-pre-content -->
+        <div id="main-content" class="container">
+          <div id="content" class="col-md-12">
+        <div class="main">
+          <div id="main-inner">
+              <div class="region region-content">
+    
+<div class="panel-display bryant clearfix radix-bryant" id="page-page">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 col-md-3 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-fieldable-panels-pane pane-vuuid-388689cc-6e9f-44be-8839-ce6991ec8e80 pane-bundle-text clearfix">
+  
+        <h2 class="pane-title">
+      On This Page    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><ul><li><a href="#policy">Policy</a></li>
+<li><a href="#info">Information collected</a></li>
+<li><a href="#use">Use of collected information</a></li>
+<li><a href="#distribution">Distribution of collected information</a></li>
+<li><a href="#individual">Individual choice</a></li>
+<li><a href="#access">Access to own information</a></li>
+<li><a href="#additional">Additional Information</a></li>
+<li><a href="#responsibility">Responsibility for external sites</a></li>
+</ul></div></div></div></div>
+  </div>
+
+  
+  </div>
+        </div>
+      </div>
+      <div class="col-sm-8 col-md-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-node-content">
+  
+      
+  
+  <div class="pane-content">
+    <article class="node node-openberkeley-content-page clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div>
+<div>
+<div>
+<blockquote>
+<p><strong>Effective Date:  April 2009</strong><br>For questions about this policy, contact: <a href="https://web.archive.org/web/20180528043939/http://privacy.berkeley.edu/" rel="noreferrer">UC Berkeley Privacy Office</a></p>
+</blockquote>
+<h2><a name="policy" id="policy"></a>Policy</h2>
+<ul><li>The University of California, Berkeley is committed to protecting the privacy and accuracy of your confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personally-identifiable information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.</li>
+</ul><h2><a name="info" id="info"></a>Information collected</h2>
+<ul><li>UC Berkeley websites may collect personal information such as name, address, e-mail address, telephone number(s), and/or educational interests. Such personal information may be requested by us for research, public service or teaching programs, or for administrative purposes. Additional personal information, such as credit card account information, may be requested for purchases or enrollment purposes.</li>
+<li>Web servers typically collect, at least temporarily, the following information: Internet Protocol (IP) address of computer being used; web pages requested; referring web page; browser used; date and time. UC Berkeley may collect statistics identifying particular IP addresses from which our websites are accessed.</li>
+</ul><h2><a name="use" id="use"></a>Use of collected information</h2>
+<ul><li>UC Berkeley may use personal information collected from websites for the purpose of future communication back to online enrollees, in order to keep you informed of such activities as campus programs, symposia and/or special events, but only if you are provided the opportunity to opt out of that type of use.</li>
+<li>UC Berkeley may use browser-IP-address information and anonymous-browser history to report information about site accesses and for profiling purposes. This information is generally used to improve Web presentation and utilization. The campus also may use IP address information for troubleshooting purposes.</li>
+<li>Some UC Berkeley online activity sites may use "cookies" in order to deliver web content specific to individual users’ interests or to keep track of online purchasing transactions. Sensitive personal information is not stored within cookies.</li>
+</ul><h2><a name="distribution" id="distribution"></a>Distribution of collected information</h2>
+<ul><li>UC Berkeley will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.</li>
+<li>UC Berkeley will not distribute or sell personal information to third-party organizations.</li>
+</ul><h2><a name="individual" id="individual"></a>Individual choice</h2>
+<ul><li>Individuals who wish to use methods other than online enrollment may submit requests by email or U.S. mail addressed to the UC Berkeley organization responsible for the website.</li>
+</ul><h2><a name="access" id="access"></a>Access to own information</h2>
+<ul><li>Questions regarding users’ rights to review, modify or delete their previously provided personal information should be directed to the campus organization to which they provided the information. Any disputes will be resolved under existing records regulations applicable to UC Berkeley.</li>
+</ul><h2><a name="additional" id="additional"></a>Additional Information</h2>
+<ul><li>For more detailed information about requirements for campus online activities see the <a href="https://web.archive.org/web/20180528043939/https://security.berkeley.edu/policy/online#priv" rel="noreferrer">Campus Online Activities Policy section on Privacy and Confidentiality of Information</a>.</li>
+</ul><h2><a name="responsibility" id="responsibility"></a>Responsibility for external sites</h2>
+<ul><li>UC Berkeley does not control the content or information practices of external organizations. We recommend you review the privacy statements of these organizations.</li>
+</ul></div>
+</div>
+</div>
+<p></p>
+<div>
+<div></div>
+</div></div></div></div>  </div>
+
+  
+  
+</article>
+  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+</div><!-- /.bryant -->
+  </div>
+          </div>
+        </div> <!-- /.main -->
+      </div> <!-- /#content -->
+                </div> <!-- /#main-content -->
+  </div> <!-- role main -->
+</div> <!-- /#main-wrapper -->
+
+<footer id="footer" class="footer">
+    <div id="footer-main">
+    <div class="container">
+              <div class="row">
+          <div class="col-md-7">
+                          <a href="https://web.archive.org/web/20180528043939/http://www.berkeley.edu/" rel="external" id="footer-logo">
+                <img src="/web/20180528043939im_/https://security.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_brand/assets/images/logo-ucberkeley-white.png" alt="University of California Berkeley"/>
+              </a>
+            
+                      </div>
+          <div class="col-md-5">
+            <div id="footer-main-first" class="clearfix">
+                <div class="region region-footer">
+    <div class="block block-menu block--">
+
+      
+  <div class="block__content">
+    <ul class="nav nav-pills"><li class="first leaf menu-link-home"><a href="/web/20180528043939/https://security.berkeley.edu/home">Home</a></li>
+<li class="leaf menu-link-credits"><a href="/web/20180528043939/https://security.berkeley.edu/credits" title="">Credits</a></li>
+<li class="last leaf menu-link-contact-us"><a href="/web/20180528043939/https://security.berkeley.edu/about/contact-us" title="">Contact Us</a></li>
+</ul>  </div>
+</div>
+  </div>
+            </div>
+            <div id="footer-main-last" class="clearfix">
+                <div class="region region-footer-third">
+    <div class="block block-block block--about">
+
+      
+  <div class="block__content">
+    <p>Related Websites</p>
+<ul><li><a href="https://web.archive.org/web/20180528043939/https://calnet.berkeley.edu/" rel="noreferrer">Identity and Access Management (IAM)</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/https://ist.berkeley.edu/telecom/nso" rel="noreferrer">Network Operations and Services (NOS)</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/http://ist.berkeley.edu/cts/eei/" rel="noreferrer">Endpoint Engineering and Infrastructure (EEI)</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/http://sharedservices.berkeley.edu/" rel="noreferrer">Campus Shared Services (CSS)</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/http://www.rescomp.berkeley.edu/security/" rel="noreferrer">Residential Computing Security</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/http://compliance.berkeley.edu/uc-berkeley-privacy-office" rel="noreferrer">Privacy Office</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/http://technology.berkeley.edu/" rel="noreferrer">Office of the Chief Information Officer</a></li>
+<li><a href="https://web.archive.org/web/20180528043939/https://technology.berkeley.edu/" rel="noreferrer">IT Service Catalog</a></li>
+</ul>  </div>
+</div>
+  </div>
+            </div>
+          </div>
+        </div>
+          </div>
+  </div>
+  <div id="footer-bottom">
+    <div class="container">
+      <div class="row">
+              </div>
+      <div class="row">
+                  <div class="col-md-6">
+                          <p><small class="copyright">Copyright © 2018 UC Regents; all rights reserved
+</small></p>
+                                      <p><small id="openberkeley"><a href="https://web.archive.org/web/20180528043939/https://open.berkeley.edu/">Powered by Open Berkeley</a></small></p>
+              <p><small id="privacy-statement"><a href="/web/20180528043939/https://security.berkeley.edu/website-privacy-statement-berkeley-security">Privacy Statement</a></small></p>
+                      </div>
+          <div class="col-md-6">
+            <p><small class="back-to-top"><a href="#skip-link">Back to Top</a></small></p>
+          </div>
+              </div>
+    </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_29qYXJz8NLGg8Aomg-RZPjJcj9yEdEst1BMZ9gZbs-4.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180528043939js_/https://security.berkeley.edu/sites/default/files/js/js_PVEcHbX1e9-OairC7bnd7VJIqy3hBNiEN8qt7z72IgI.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"286f63fcf7","applicationID":"12960141","transactionName":"ZFQBZ0pRWkdWVhVYDl0eNkFRHxtdWVEESU9DWRM=","queueTime":0,"applicationTime":15,"atts":"SBMCEQJLSUk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html><!--
+     FILE ARCHIVED ON 04:39:39 May 28, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:42:25 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 227.066 (3)
+  esindex: 0.01
+  captures_list: 298.439
+  CDXLines.iter: 14.209 (3)
+  PetaboxLoader3.datanode: 208.671 (4)
+  exclusion.robots: 0.499
+  exclusion.robots.policy: 0.478
+  RedisCDXSource: 52.497
+  PetaboxLoader3.resolve: 63.31
+  load_resource: 226.644
+-->

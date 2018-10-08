@@ -1,0 +1,54 @@
+Search Dropdown
+Information You Give Us
+The CDC Privacy Notice that follows is applicable to www.cdc.gov , as well as most CDC websites, and its mobile and voice applications. If a different Privacy Notice is used by a CDC website, you can find a link to it in the footer at that web page. CDC does not collect Personally Identifiable Information (PII) when you use its digital media from your computer or mobile device unless you choose to provide that information to us
+Visits to CDC.gov:
+While using the CDC’s digital media, certain information will be gathered and stored about your usage of the digital media. This information does not identify you personally. We collect and store only the following information:
+The Internet domain name (for example, “xcompany.com” if a private Internet access account is used, or “schoolname.edu” if connecting from a university’s domain) and IP address (an IP address is a number that is automatically assigned to a device when surfing the web);
+Information about your computer or mobile device (e.g., type and version of web browser, operating system, screen resolution, and connection speed);
+The number of times CDC’s digital media was accessed.
+The pages or screens accessed or visited on CDC’s digital media
+The visit date and time;
+If www.cdc.gov is designated as a home page (in the event your mobile device allows this functionality); and
+The internet address or URL of the website visited immediately prior to visiting CDC’s digital media, but only if you connect to CDC.gov via a link from any web page.
+Collection and analysis of this information in the aggregate will help us enhance performance of our digital media, expand informational materials available through digital media, and improve overall customer experience.
+Use of Cookies
+CDC also uses web measurements and customization technologies (such as “cookies”). You can choose not to accept cookies from any website, including cdc.gov, by changing your browser settings. Click here to learn more about how we use cookies .
+Using CDC’s Mobile & Voice Applications
+When you use CDC’s Mobile and Voice Applications (Apps), certain information will be gathered and stored about your usage of that App. This information does not identify you personally. We collect and store information as follows:
+CDC receives aggregate data about the use of our Apps, such as the number of times the applications have been opened or the interactions or actions completed in the application. This is gathered via a third party provider ( please refer to the tools list ). We also receive aggregate data from the platforms that distribute our Apps to various app stores ( please refer to the tools list ), such as the number of people who download the App and mobile set-up information (e.g., device model, App version, country, language, and mobile carrier). We do not, however, receive information unique to you or your use of our Apps.
+You may sign up to receive “push notification” messages via a third party provider ( please refer to our tools list ). To make sure messages reach the correct devices, our third party provider relies on a device token unique to your mobile device. A device token is a unique identifier issued to the app by the operating system of your mobile device. While we may be able to access a list of the tokens, neither the App nor the tokens will reveal your identity, your unique device ID, or your contact information to us. The third party provider may collect the following: the time of an event, how a User came to our site, what search engine and search keywords users may have used to get to our site, information about the device our user is on such as their Operating System, and browser, as well as the city, region and country location of users. This location information enables CDC to send public health push notification messages that are relevant to certain geographic locations. If, at any time, you wish to stop receiving push notifications, simply adjust your phone settings or remove the App. Please consult the privacy policies of these third parties ( please refer to third-party tools list  ) for further information.
+CDC does not disclose, share, sell, or transfer any information about CDC digital media visitors or users unless required for law enforcement or otherwise required by law.
+For site security purposes and to ensure that this service remains available to all users, CDC employs software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+CDC’s digital media are maintained by the U.S. Government and is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in Federal court.
+Image Reuse Terms and Conditions
+Most images found in the Public Health Image Library (PHIL)  are royalty-free and available for personal, professional and educational use in electronic or print media, with appropriate citation. Please credit CDC and the individual photographer if his/her name is given. If used in electronic media, please link back to the PHIL site .
+Images other than those in the PHIL may have been licensed for use by CDC from a stock photography service or other copyright holder and the license holder may prohibit republication, retransmission, reproduction or other use of the images. Please contact us  with any other questions about reuse of specific images.
+Email Subscriptions
+If you choose to provide your personal information to CDC via its mobile application or the CDC website  – for instance by sending us an e-mail message or completing a questionnaire, form, or other online survey found within the mobile applications or on the CDC website –  CDC will handle, use and maintain the information in accordance with all applicable federal laws. Click here to learn more about how we handle personal information  that is sent to us.
+Third Party Websites
+CDC uses social media and third-party (non-CDC) websites to share public health information and to engage the public. Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
+Also, there may be third-party applications and/or services linked to or embedded on www.cdc.gov to improve its functionality. Likewise, applications created by CDC may be embedded on third-party websites as a way to increase public awareness of CDC activities. Click here to learn more about Third-Party Websites and Applications .
+Children and Privacy on CDC.gov
+ governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. Our digital media is not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please contact the CDC Senior Official for Privacy at mailto:privacy@cdc.gov .
+Updates to this Privacy Policy
+We will revise or update this policy periodically.  If we make significant changes in the manner that we handle personal information, we will post those changes here and change the date at the bottom.  We will also provide additional advance notice on our website if material changes are made.
+Disclaimer
+CDC’s digital media may allow the public to access and share information on various social media channels or blogs (please refer to the social networks list ).
+When using these features on CDC’s digital media, you are responsible for the content of the post, tweet or blog entry. Please note:
+Comments and views expressed on CDC social media channels or blogs do not necessarily reflect those of the CDC, HHS or the U.S. Federal government.
+CDC does not control or guarantee the accuracy, relevance, timeliness or completeness of comments on its social media channels or blogs.
+CDC does not endorse content or links provided in comments that appear on its social media channels, or blogs.
+CDC does not authorize the use of copyrighted materials contained in a personal message. Those who provide comments are responsible for the copyright of the text they provide.
+CDC’s digital media follows the CDC.gov privacy policy. CDC will not share or sell any personal information obtained from users with any other organization or government agency except as required by law. Additional CDC online policies and regulations are available at https://www.cdc.gov/Other/policies.html
+THE MATERIALS EMBODIED IN THIS SOFTWARE ARE PROVIDED TO YOU “AS-IS” AND WITHOUT WARRANTY OF ANY KIND, EXPRESSED, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC) OR THE UNITED STATES (U.S.) GOVERNMENT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY DIRECT, SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION, LOSS OF PROFIT, LOSS OF USE, SAVINGS OR REVENUE, OR THE CLAIMS OF THIRD PARTIES, WHETHER OR NOT CDC OR THE U.S. GOVERNMENT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE POSSESSION, USE OR PERFORMANCE OF THIS SOFTWARE.
+Page last reviewed: June 22, 2018
+Get Email Updates
+To receive email updates about this page, enter your email address:
+indicate that you are leaving the CDC website.
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+You will be subject to the destination website's privacy policy when you follow the link.
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website Disclaimers .
+Cancel
+Continue

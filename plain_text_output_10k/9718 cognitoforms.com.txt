@@ -1,0 +1,144 @@
+Privacy Policy
+Here at Cognito Forms, our goal is to empower you to easily build powerful solutions using the best online form builder in the world! We do not sell or mine your data or share it for any reason - except to safely provide these great form-building capabilities to you, our customer.
+We collect the bare minimum of personal data necessary to create and administer accounts. The forms you build and the entries you collect using Cognito Forms are yours alone.
+Your Information
+Personal Data We Collect
+We collect the minimum amount of personal data required to provide form building services.
+When you sign up to use Cognito Forms, you provide:
+your first and last name,
+your email address,
+a password for your account, and
+your IP address.
+We also collect some of this information when you contact us for more information, such as through email, chat, or support requests.      Additionally, your email address may be provided to us by someone you know when they invite you to join their organization in Cognito Forms, or when they configure notification emails for their forms.
+When you upgrade your organization to a paid plan, we collect for your organization:
+the billing contact first and last name,
+the billing contact email address,
+the billing address, and
+the credit card to charge.
+All of this information must be accurately provided to use Cognito Forms. If you are unable or unwilling to provide this information, you will not be able to sign up for an account or upgrade to a paid plan.
+We record information about how and when you use Cognito Forms, including, for example, your IP address, time, date, browser used, and actions you have taken within the application. This information helps us to improve our services both for you and for all our users.
+How We Use Personal Data
+We use this personal information to provide form building services, not to mine or sell your data.
+We use your personal information to provide services to you and to communicate with you:
+We show your first and last name in Cognito Forms when you log in and when other users of your organization interact with your account, such as when viewing organization users.
+We use your email address as your username when you log in. We also use your email address to send notification emails from Cognito Forms, including announcements about new product features.
+We use your organization name throughout Cognito Forms so that you and your customers know which organization you are interacting with.
+We use your password solely to verify access to your account. We do not store your actual password, just an undecipherable representation (encrypted hash).
+We use your IP address to personalize Cognito Forms based on where you are located and to help prevent fraud or abuse of our service.
+We use your billing information solely to communicate with you about your paid subscription and charge your credit card for services. Cognito Forms does not capture, process, store or transmit credit card information. Stripe, a third-party PCI compliant payment processor, handles all interactions with credit card information on our behalf.
+We use personal information for auditing, research and analysis to operate and improve Cognito Forms. We may use certain other information collected from you to help diagnose technical problems, administer Cognito Forms, and improve the quality and types of services delivered.
+We use cookies to assist in delivering the services and to provide a positive and personalized user experience. Our cookies are used to identify unique visitors to Cognito Forms and to provide you with easy access to the services when you log in. If you have your browser set to reject cookies, you will not be able to log into Cognito Forms. Cognito Forms does not use cookies on your public or embedded forms, and does not track your customers when they fill out your forms.
+Reasons We Share Personal Data
+We share information with authorized third parties to provide form building services, and with authorities to reduce crime and abuse.
+Personal information we gather is for internal use only and we will not authorize the release of this information to anyone outside Cognito Forms, except as clearly described below.
+We may release the information we collect to authorized third parties so they can perform functions on our behalf and on behalf of you, our customer. These third parties have agreed to use at least the same level of privacy protections described in this Privacy Policy and are permitted to use the information only for the purpose of performing these functions.
+Should you breach our Terms of Service, or if we are under a duty to disclose or share your personal data in order to comply with any legal obligations, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. Specifically, we may release the information we collect to third parties when we believe it is appropriate to comply with the law, to enforce our legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct.
+How to Access & Control Your Personal Data
+You can access, download, update or remove your information at any time by logging in to your account.
+You can opt out of marketing emails by clicking the link at the bottom of each email.
+You can easily access or modify your personal information in Cognito Forms at any time:
+You can access and modify your personal information by logging into Cognito Forms using your email address and password and going to https://www.cognitoforms.com/myaccount . On this page you can edit your name and email address and change your password.
+If you have forgotten your password, you can reset your password by going to https://www.cognitoforms.com/forgotpassword .
+When you change your personal information, we make every effort to update this information in all of our systems. However, some historical data, like previous support requests you submitted, may reflect the information provided at the time the information was initially recorded. This historical data will not affect your future use of Cognito Forms or new communications with us.
+You can easily opt out or remove your personal information from Cognito Forms at any time:
+You can opt out of receiving marketing emails from Cognito Forms by clicking the “unsubscribe from this list” link included in every email. This will opt you out of receiving any notifications not specifically related to your account, so you will only learn about new features, changes to our terms, etc. by logging in to Cognito Forms.
+You can also permanently delete your user account by going to https://www.cognitoforms.com/myaccount and clicking the “Delete Account” button. This will delete both your user account and all organizations for which you are the sole organization owner.
+Opting out of receiving marketing emails will not affect your ability to use Cognito Forms. Conversely, deleting your account will not affect your ability to receive marketing emails and become aware of future product features you may be interested in.
+When you delete your account, we make every effort to remove your personal information from all of our systems. However, some historical data, like previous support requests you submitted, will be retained for customer support purposes. After deleting your account, your organization, forms and entries will no longer be accessible or recoverable, and you will no longer receive notifications from Cognito Forms about your account.
+Authorized organization users can export all entry data and uploaded files from Cognito Forms at any time for any reason. Our JSON webhooks, Zapier and Microsoft Flow integrations also allow you to transfer entry data and uploaded files to other cloud services in real time as changes occur.
+Data Collected by You
+You are responsible for obtaining consent and maintaining any personal information you collect with your forms.
+Please let us know if your personal information was improperly collected by our users.
+While Cognito Forms only collects the personal information necessary to provide form building services, you may collect a wide variety of information from your customers using the forms you create with our service.
+We have no direct relationship with your customers, so you are responsible for making sure you have obtained the appropriate permission for us to collect and process information about these individuals. We may share information you collect via Cognito Forms for the same reasons we share personal data , such as with third parties to provide services on your behalf or with legal authorities when obligated to assist in criminal investigations.
+If one of our users has collected your information using a Cognito Form, please contact the form owner directly to assist with obtaining, correcting, or removing this information. If you feel the form has collected information about you in a way that violates our Terms of Service, please report the abusive form .
+Public Information and Third-Party Websites
+If you comment on our blog or Idea Board, these comments will be public.
+Our privacy policy does not apply to websites we link to, just ours.
+Some of the information we collect from you about Cognito Forms is shared publicly:
+We use Disqus to allow anyone to comment on our blog posts. Anyone with a Disqus account can comment on our posts.
+We use Trello to provide a view into our roadmap for new features. Anyone with a Trello account can comment on these features.
+These comments are public and may be read, collected and used by anyone. If your personal information appears on our blog or Trello Idea Board and you want it removed, please contact us and we will be glad to remove the information.
+Cognito Forms includes links to other websites whose privacy practices may be different from ours. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Authorized Third Parties
+We use a number of authorized third-parties to provide form building services.  They are not permitted to use information we share with them for any other purpose.
+We use third parties to assist us in processing your personal information, and we require these third parties to comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+Hosting
+Secure hosting of Cognito Forms is essential to both us and our customers. That is why we entrust Microsoft, an industry leader in secure cloud hosting, to protect all of our customer data.
+Microsoft Azure
+All customer data, and the servers that process this data, are securely managed by Microsoft Azure, geo-replicated in real time to multiple datacenters in the US. Microsoft Azure has more security certifications than any other cloud provider. You can learn about these security measures in the Microsoft Azure Trust Center .
+Payment Processing
+Cognito Forms uses three industry leading payment processors for secure PCI-compliant handling of credit card information for both our subscription plan payments and our payment forms.
+Stripe
+Stripe handles collecting, transmitting, processing, and storing credit card information for our customers when they upgrade to a paid plan. Stripe only processes this information to support the needs of Cognito Forms. Additionally, Stripe is available as a payment provider option to our customers on all plan levels to enable the creation of forms that collect payment. When you first connect your organization to Stripe, we share your name, email address, and organization namne with Stripe to facilitate quickly creating a new Stripe account. You can learn more about how Stripe protects your personal information in the Stripe Privacy Policy .
+PayPal
+PayPal is available as a payment provider option to our customers on the Team and Enterprise plans. When you first connect your forms to PayPal, we share your name, email address, and organization name with PayPal to facilitate quickly creating a new PayPal account. You can learn more about how PayPal protects your personal information in the PayPal Privacy Policy .
+Square
+Square is available as a payment provider option to our customers on the Team and Enterprise plans. When you first connect your forms to Square, we share your name, email address, and organization name with Square to facilitate quickly creating a new Square account. You can learn more about how Square protects your personal information in the Square Privacy Policy .
+Email Providers
+Cognito Forms sends millions of emails each month, both to our customers and to your customers when they fill out your forms. We use multiple email providers to ensure secure and reliable email delivery.
+MailChimp
+Cognito Forms uses MailChimp to send marketing emails to notify you about new features, changes to our terms, and other useful information about our services. MailChimp automatically manages our unsubscribe list, allowing you to easily unsubscribe from future communications at any time. MailChimp only uses the information we share with them to send these emails. You can learn more about how MailChimp protects your personal information in the MailChimp Privacy Policy .
+Mandrill
+Cognito Forms uses Mandrill to send transactional emails from Cognito Forms to you and your customers on your behalf. These emails are specific to your organization, your forms, and your entries. Mandrill only uses the information we share with them to send these emails. Mandrill is a MailChimp product and adheres to the MailChimp Privacy Policy .
+Postmark
+Cognito Forms uses Postmark, a product of Wildbit, to send transactional emails from Cognito Forms to you and your customers on your behalf. These emails are specific to your organization, your forms, and your entries. Postmark only uses the information we share with them to send these emails. You can learn more about how Postmark protects your personal information in the Wildbit Privacy Policy .
+Mailgun
+Cognito Forms uses Mailgun to send transactional emails from Cognito Forms to you and your customers on your behalf. These emails are specific to your organization, your forms, and your entries. Mailgun is the only transactional email provider used for organizations that have signed our HIPAA BAA, as we have a BAA with them covering email delivery. Mailgun only uses the information we share with them to send these emails. You can learn more about how Mailgun protects your personal information in the Mailgun Privacy Policy .
+Integrations
+Cognito Forms supports integrations with hundreds of other cloud services through our Zapier and Microsoft Flow connectors. You must establish accounts directly with Zapier and Microsoft Flow to use these connectors. Cognito Forms will only share information with these providers when you authorize them by securely connecting your organization to their services.
+Zapier
+Zapier allows you to create Zaps to send your form entry data to hundreds of other cloud services. You must separately agree to the Zapier Terms of Service and Privacy Policy when you sign up to use Zapier to connect your forms.
+Microsoft Flow
+Microsoft Flow allows you to create Flows to send your form entry data to hundreds of other cloud services. You must separately agree to the Microsoft Terms of Service and Privacy Policy when you sign up to use Microsoft Flow to connect your forms.
+Customer Support
+Cognito Forms provides direct one-on-one support to all our customers, not a public forum free-for-all. We leverage Zendesk to provide email, chat and social media support for our customers.
+Zendesk
+Zendesk is an industry-leading customer support management platform. When you submit a help request through Cognito Forms, engage with our Customer Success team in a chat session, email us, or connect with us over social media platforms like Facebook or Twitter, we share this information with Zendesk to create and track your request. Zendesk then facilitates the communication necessary to answer your question or resolve your issue. We only send the minimum information necessary to create these requests in Zendesk and Zendesk only uses this information to support the request resolution process. You can learn more about how Zendesk protects your personal information in the Zendesk Privacy Policy .
+Tools
+Google Analytics
+Cognito Forms uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help analyze how individuals use websites they visit. Non-personal information generated by this cookie about your use of Cognito Forms is transmitted to and stored by Google on servers in the United States. Google does not associate your IP address with any other data held by Google. Google uses this information to understand how you use Cognito Forms, and compiles reports on this activity to help us improve Cognito Forms for our users. By using Cognito Forms, you consent to the processing of data about you by Google for these purposes.
+You may disable cookies within your browser to block this tracking by Google, understanding that doing so may affect your ability to use the full functionality of the Cognito Forms. For certain browsers, you can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading and installing this browser plug-in: http://tools.google.com/dlpage/gaoptout .
+Cognito Forms does not include Google Analytics on your public or embedded forms, and does not track usage by your customers.
+Microsoft Application Insights
+Cognito Forms uses Microsoft Application Insights to monitor and assess the health of the services we provide in real time. App Insights logs tons of useful information, like requests to our servers, connections to third-party dependencies, and any errors that may occur during processing. This data includes information like the IP address, browser version, internal user id and organization id for each request—information typically found in web server logs. We actively monitor and review reports from App Insights to proactively address any issues as they occur. App Insights is a Microsoft Azure product and is governed by the same security measures as our production hosting environment.
+In addition to tracking server-based metrics about our services, App Insights also tracks errors that occur in the browser when you or your customers use Cognito Forms to build forms, submit entries, etc. We only track errors that occur in the browser while on our website, www.cognitoforms.com , not any browser errors that may occur when you embed your forms on your own website. This ensures that we are only tracking issues specifically related to Cognito Forms and not accidentally collecting information that is unrelated to the delivery of our services to you.
+Security
+Notice of Breach of Security
+We will notify you if there was a breach of your personal information.
+If a security breach causes an unauthorized intrusion into our system that materially affects you or your organization’s information, then we will notify you as soon as possible and later report the action we took in response.
+Safeguarding Your Information
+We work hard to keep your information safe and secure.  Please do your part and protect your account password.
+We take reasonable and appropriate measures to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the personal information. We rely on Microsoft Azure to safeguard the physical and technical security of your information, and we have documented and enforced organizational controls to limit access to, and to protect your information and the information you collect via your forms. You can learn more about our commitment to the security of your personal information.
+Cognito Forms accounts require an email address and password to log in. You must keep your email address and password secure, and never disclose it to a third party. If you feel like the security of your account has been compromised, you must inform us immediately so we can take protective measures to safeguard your information.
+Compliance
+We Operate in the United States
+Our servers and data are securely stored in geo-redundant datacenters in the United States.
+Our servers and offices are located in the United States, so your information may be transferred, stored, or processed in the United States. While the data protection, privacy, and other laws of the United States might not be as comprehensive as those in your country, we take many steps to protect your privacy, including offering a data processing addendum. By using Cognito Forms, you understand and consent to the collection, storage, processing, and transfer of your information to our facilities in the United States and to those third parties with whom we share it as described in this policy.
+Data Transfers from Switzerland or the EU to the United States
+We participate in the EU-U.S. & Swiss-U.S Privacy Shield Frameworks to meet the privacy adequacy provisions of the GDPR.
+Cognito Forms participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal information received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield website: https://www.privacyshield.gov/welcome . A list of Privacy Shield participants is maintained by the Department of Commerce and is available at: https://www.privacyshield.gov/list.
+Cognito Forms is responsible for the processing of personal information it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you have a privacy or data use concern related to Cognito Forms, please first email us at privacy@cognitoforms.com so we can promptly address the issue. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge to you) at https://www.jamsadr.com/eu-us-privacy-shield .
+Under certain conditions, Privacy Shield provides the right to invoke binding arbitration when other dispute resolution procedures have not provided resolution. This is described in Annex I to the Privacy Shield .
+If you're collecting personal information about anyone in the European Economic Area (EEA), you must sign our Data Processing Addendum to be compliant with the General Data Protection Regulations.
+Accuracy and Retention of Data
+You can easily update your information at any time by logging into your account.
+Deleted information may be retained in backups, but if you delete your organization, all of your forms and entries will be permanently deleted.
+We do our best to keep your data accurate and up to date, to the extent that you provide us with the information we need to do so. If your data changes (for example, if you have a new email address), then you are responsible for logging into your account and updating this information, as this is the only way we can verify your identity given the limited amount of personal information we collect.
+We will retain your information for as long as your account is active or as long as your information is necessary to provide you with our services. We may also retain and use your information to comply with our legal obligations, resolve disputes, prevent abuse, and enforce our agreements.
+Organization information you delete during your use of Cognito Forms, such as entries, may be retained in secure backups. However, if you delete your organization, all of the organization’s forms and entries will be permanently deleted and will not be recoverable.
+Policy
+Scope
+This Privacy Policy applies to your use of Cognito Forms in any form.
+This Privacy Policy applies to websites and services provided by Cognito, LLC ("Cognito Forms", "us" "we" or "our"). This Privacy Policy addresses information we have collected, or will collect, about or from you, according to our Terms of Service , via websites located at *.cognitoforms.com (“service”, “services”). This Privacy Policy applies to visitors to Cognito Forms who are not yet customers and those who become customers, whether you upload information to Cognito Forms, download it, or are simply browsing around.
+Changes
+We may update this Privacy Policy from time to time.
+We may change this Privacy Policy at any time and from time to time. The most recent version of the Privacy Policy is reflected by the modification date located at the bottom. All updates and amendments are effective immediately upon notice, which we may give by any means, including, but not limited to, by posting a revised version of this Privacy Policy or other notice on Cognito Forms.
+Questions & Concerns
+Please email us at privacy@cognitoforms.com if you have any questions about the privacy or accuracy of your information!
+If you have a question or complaint about this Privacy Statement or our information collection practices, please contact us at privacy@cognitoforms.com or write to us at the address listed below. We will investigate the matter and are committed to resolving any privacy concerns that you may have.
+Cognito, LLC
+Columbia, SC 29201
+Part of the Cognito AppsSM family of products.

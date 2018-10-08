@@ -1,0 +1,26 @@
+Twitter introduced an updated privacy policy  on Wednesday that has users worried about how their private information is being tracked, stored and used. In the policy, the micro-blogging platform announced its plans to discontinue a privacy preference it previously honored,  store your cookies for a longer period of time, and change how Twitter shares your private data.
+“Twitter’s announcement is bad news for online privacy,” Marc Rotenberg, president of the nonprofit Electronic Privacy  Information Center, told The Associated Press . “The company  dropped Do Not Track and gave advertisers access to more user data.”
+Advertisement
+But there’s reason not to get too worked up: Twitter’s also rolling out a new set of controls giving you the choice to opt out of sharing certain kinds of data. You just have to remember to actually do it since they’re going to to opt you into these changes in a month’s time.
+How has the privacy policy changed?
+No More “Do Not Track”: The new privacy policy,  effective June 18, eliminates the “Do Not Track” option—a privacy  preference that allows you to opt out from being tracked by third-party  services on the website. Though, according to The AP, many social networks didn’t honor the Do Not Track request anyway.
+Advertisement
+Twitter explains their rationale on their website :
+Twitter has discontinued support of the Do Not Track browser preference.  While we had hoped that our support for Do Not Track would spur  industry adoption, an industry-standard approach to Do Not Track did not  materialize.
+Then, of course, there’s the fact that Twitter can generate more revenue on tailored advertisements than it can on generic ones. And tailored advertisements require a bunch of information about who you are and what you like.
+Advertisement
+Cookies: When you visit a site that has a Twitter share button or a tweet embedded, Twitter utilizes tracking cookies to store information about you. Previously, the platform kept this information for 10 days. As per the new privacy update, Twitter is extending this  to 30 days. Tripling the storage length means they’ll have more data and, in turn, be able to create a more complete profile of you.
+This change is not impacting those living in the European Union or member states of the European Free Trade Association: Iceland, Liechtenstein, Norway and Switzerland.
+Sharing your data: This part is a bit murky, but essentially, Twitter is changing how it shares your “non-personal, aggregated, and  device-level” data. The troubling part is that some select partnership agreements will link the  data to your personal information like your name and email , which means Twitter’s partners can get access to a comprehensive profile of you.
+Advertisement
+The good news is that Twitter gives you the option to revoke access. But know that Twitter is taking a “consent until told otherwise” approach: they will assume you’ve given permission unless you rescind  it.
+How do I stop sharing all my data?
+With Twitter opting out of “Do Not Track” and changing how they share your data, the platform introduced new Personalization and Data settings that it says offers “even more granular control over how [they] use your data.” By “granular control” they mean you can pick and choose what information they can share and what they can’t.
+Advertisement
+This page seeks permission for personalized ads, personalization across  all devices, access to your location, tracking to see where Twitter  content is seen across web, and sharing data with select partners.
+On your mobile app, go to  “Settings and privacy,” “Privacy and safety,” and then “Personalization  and data.” This will land you on a page where you can enable or disable  Twitter’s access to your information. You’ll also have to do the same on your web browser by going here and customizing your preferences.
+Just know that the default setting is for everything to be enabled—so if you have an issue, you have to manually hop in to opt out and customize the settings.
+Advertisement
+What do I do?
+Up to you! If you’re into receiving tailored ads then you don’t have to do anything to your settings—Twitter will soon be using your information to tailor ads directly to you. If you want to share some information but not others, then you should go to the personalization and data page and choose which settings you want to enable and which you don’t. And if you’re fully creeped out by how much information is being shared, choose “disable all.”
+About the author

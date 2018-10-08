@@ -1,0 +1,71 @@
+Industries
+IT
+Manage IT strategy, operations, service delivery, and apps on our single system of action.
+Automate, predict, digitize, optimize, monitor, and resolve risks by impact for security, compliance, and IT.
+Making it #EasyForEmployees
+A guide with best practices for transforming the employee service experience.
+Got 60 Seconds?
+See how you measure up and find out what impact you can expect to achieve
+2018 Magic Quadrant for Enterprise High-Productivity Application PaaS.
+Global employee service experience shows entire corporation how it’s done.
+Table of Contents
+Scope
+ServiceNow commits to comply with the Principles with respect to the   Personal Data the company receives from its Customers or their Users   in the EEA and Switzerland in connection with the use of (i)   applications downloaded to a User’s mobile device (“Mobile   Applications”);  and (ii) ServiceNow’s hosted software   applications (the “Subscription Service”) and related support   services (“Support Services”), as well as expert services   (including professional services, training and certification) (the     “Expert Services”) that we provide to Customers.  In this   Privacy Shield Policy, the Subscription Service, Support Services and   the Expert Services are collectively referred to as the “Service.”
+Definitions
+For the purposes of this Privacy Policy:
+“Controller” means a person or organization which, alone or   jointly with others, determines the purposes and means of the   processing of Personal Data.
+“Customer” means any entity that purchases the Service.
+“Customer Data” means the electronic data uploaded into the   Subscription Service by or for a Customer or its Users.
+“Device” means a mobile device.
+“Personal Data” means any information, including Sensitive   Data, that is (i) about an identified or identifiable individual and   (ii) received by ServiceNow in the U.S. from the EEA or Switzerland in   connection with the Service.
+“Processor” means any natural or legal person, public   authority, agency or other body that processes Personal Data on behalf   of a Controller.
+“Sensitive Data” means Personal Data specifying medical or   health conditions, racial or ethnic origin, political opinions,   religious or philosophical beliefs, trade union membership, sex life,   the commission or alleged commission of any offense, any proceedings   for any offense committed or alleged to have been committed by the   individual or the disposal of such proceedings, or the sentence of any   court in such proceedings.
+“User” means an individual authorized by Customer to access and   use the Subscription Service.
+Types of Personal Data Collected
+ServiceNow hosts and processes Customer Data, including any Personal   Data contained therein, at the direction of and pursuant to the   instructions of ServiceNow’s Customers.  ServiceNow also collects   several types of information from our Customers, including:
+Information and correspondence our Customers and Users submit     to us in connection with Expert Services or other requests related     to our Service.
+Information we receive from our business     partners in connection with our Customers’ and Users’ use of the     Service or in connection with services provided by our business     partners on their behalf, including configuration of the     Subscription Service.
+Information related to Users’ use of     the Mobile Applications, including geographic location data and     information regarding Users’ Devices and OS identification, login     credentials, language and time zone.
+In addition, ServiceNow collects general information about its   Customers, including a Customer’s company name and address, credit   card information, and the Customer representative’s contact   information (“General Information”) for billing and contracting purposes.
+Purposes of Collection and Use
+ServiceNow may use Personal Data submitted by our Customers and Users   as necessary to provide the Service and Mobile Applications, including   updating, enhancing, securing and maintaining the Subscription Service   and Mobile Applications and to carry out ServiceNow’s contractual   obligations to its Customers.  ServiceNow also obtains General   Information in connection with providing the Service and maintaining   ServiceNow’s relationships with its Customers. 
+Third Party Disclosures
+We may disclose Personal Data that our Customers and Users provide to   our Service and Mobile Applications:
+To our subsidiaries and affiliates;
+To contractors,     business partners and service providers we use to support our   Service;
+In the event ServiceNow sells or transfers all or a     portion of its business or assets (including in the event of a     merger, acquisition, joint venture, reorganization, dissolution or     liquidation), in which case Personal Data held by us about our     Customers will be among the assets transferred to the buyer or   acquirer;
+If required to do so by law or legal process;
+In response to lawful requests from public authorities,     including to meet national security, public interest or law     enforcement requirements.
+Access
+Individuals in the EEA and Switzerland generally have the right to   access their Personal Data.  As an agent processing Personal Data on   behalf of its Customers, ServiceNow does not own or control the   Personal Data that it processes on behalf of its Customers or their   Users and does not have a direct relationship with the Users whose   Personal Data may be processed in connection with providing the   Service.  Since each Customer is in control of what information,   including any Personal Data, it collects from its Users, how that   information is used and disclosed, and how that information can be   changed, Users of the Subscription Service should contact the   applicable Customer administrator with any inquiries about how to   access or correct Personal Data contained in Customer Data.  To the   extent a User makes an access or correction request to ServiceNow, we   will refer the request to the appropriate ServiceNow Customer and will   support such Customer as needed in responding to any request.
+To access or correct any General Information Customer has provided,   the Customer should contact their ServiceNow account representative   directly or by using the contact information indicated below.
+Choice
+In accordance with the Principles, ServiceNow will offer Customers   and Users choice to the extent it (i) discloses their Personal Data to   third party Controllers, or (ii) uses their Personal Data for a   purpose that is materially different from the purposes for which the   Personal Data was originally collected or subsequently authorized by   the Customer or User.  To the extent required by the Principles,   ServiceNow also will obtain opt‑in consent if it engages in certain   uses or disclosures of Sensitive Data.  Unless ServiceNow offers   Customers and Users an appropriate choice, ServiceNow uses Personal   Data only for purposes that are materially the same as those indicated   in this Policy.
+ServiceNow may disclose Personal Data of Customers and Users without   offering an opportunity to opt out, and may be required to disclose   the Personal Data, (i) to third‑party Processors that ServiceNow has   retained to perform services on its behalf and pursuant to its   instructions, (ii) if it is required to do so by law or legal process,   or (iii) in response to lawful requests from public authorities,   including to meet national security, public interest or law   enforcement requirements.  ServiceNow also reserves the right to   transfer Personal Data in the event of an audit or if the company   sells or transfers all or a portion of its business or assets   (including in the event of a merger, acquisition, joint venture,   reorganization, dissolution or liquidation).
+Liability for Onward Transfers
+ServiceNow complies with the Privacy Shield’s Principle regarding   accountability for onward transfers.  ServiceNow remains liable under   the Principles if its onward transfer recipients process Personal Data   in a manner inconsistent with the Principles, unless ServiceNow proves   that it was not responsible for the event giving rise to the damage.
+Dispute Resolution
+If ServiceNow maintains your Personal Data in one of the Services   within the scope of our Privacy Shield certification, you may direct   any inquiries or complaints concerning our Privacy Shield compliance   to privacy@servicenow.com ,   or in the U.S., EEA, or Switzerland by regular mail as indicated   below.  ServiceNow shall respond within 45 days.  If your complaint   cannot be resolved through ServiceNow’s internal processes, ServiceNow   will cooperate with JAMS pursuant to the JAMS International Mediation   Rules, available on the JAMS website at www.jamsadr.com/international‑mediation‑rules .    JAMS mediation may be commenced as provided for in the relevant JAMS   rules.  The mediator may propose any appropriate remedy, such as   deletion of the relevant Personal Data, publicity for findings of   non‑compliance, payment of compensation for losses incurred as a   result of non‑compliance, or cessation of processing of Personal Data   of the Customer or User who brought the complaint.  The mediator, or   the Customer or User, also may refer the matter to the U.S. Federal   Trade Commission, which has Privacy Shield investigatory and   enforcement powers over ServiceNow.  Under certain circumstances,   Customers and Users may be able to invoke binding arbitration to   address complaints about ServiceNow’s compliance with the Principles. 
+How to Contact ServiceNow
+To ask questions or comment about this Privacy Shield Policy and our   privacy practices or if you need to update, change or remove your   information, contact us at:  privacy@servicenow.com or by   regular mail addressed to:
+ServiceNow, Inc.
+Attn: Privacy
+Santa Clara, CA 95054
+Alternatively, regular mail may also be directed to our European   Union‑based subsidiary, ServiceNow Nederland B.V., by addressing it to:
+ServiceNow Nederland B.V.
+Attn: Legal Department
+Two + 3 = ?
+Thank you!
+Thank You
+Thank you for submitting your request. A ServiceNow representative will be in contact within 48 hours.
+CLOSE
+*
+*
+*
+*
+*
+*
+I would like to hear about upcoming events, products and services from ServiceNow. I understand I can unsubscribe any time.
+By submitting this form, I confirm that I have read and agree to the Privacy Statement .
+Contact Us
+Two + 3 = ?

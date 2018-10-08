@@ -1,0 +1,30 @@
+Privacy Policy URL for Facebook app
+Privacy Policy URL for Facebook app
+If you’re currently developing an app for Facebook, you may be required to enter URL of your Privacy Policy at the “Privacy Policy URL” field.
+This requirement is mandatory when you want to make your app public and have the app featured in the App Store of Facebook or whenever your app requests information from users, i.e. the Sign-in with Facebook.
+But why is Facebook requiring you to have a URL to your Privacy Policy?
+Because a Privacy Policy agreement is required by law if you collect personal information (email address, name, photo, and so on) from users. Using the APIs from Facebook, you’re requesting the personal information from users through Facebook.
+A Privacy Policy is a legal statement that specifies what the owner of a business will and will not do with the personal data collected from its users.
+Because you collect personal information from Facebook users, you’re not only required to have this legal agreement for your Facebook app, but also have it for your website, mobile app, and so on.
+Download the instructions: How to add the Privacy Policy URL to your Facebook app
+Here’s how the Privacy Policy URL field looks on your account dashboard, where you need to add the URL to this agreement:
+Here’s how you can find the Privacy Policy URL field:
+Go to App Details page
+Go to Contact Info tab
+Find the Privacy Policy for Login Dialog section
+The App Details link is located in the sidebar of the Facebook Developers website , after you login as a developer. Click on “App Details” and then go to the “Contact Info” tab to add the URL:
+Your Facebook App will not go live if you don’t have a public URL for the “Privacy Policy URL” field.
+This applies to apps that request personal information from users, but even for apps that don’t collect any kind of personal information from users. If your app doesn’t collect personal data , you may need a much simpler Privacy Policy just inform users of this.
+The Privacy Policy must be hosted on your own website. Facebook doesn’t offer any kind of static page hosting service for this.
+If your app doesn’t have a website yet, create your website and host the agreement there. You can read some of these best practices where to place the link to your Privacy Policy .
+Then copy that URL of the agreement from your website and paste it in the “Privacy Policy URL” in your Facebook Developers account dashboard.
+The URL must be public and accessible by all users, logged-in or not. Don’t restrict the URL with a password in any way.
+If your app is only used to allow users to log in using their Facebook accounts (the “Sign-in with Facebook” functionality), you’ll still need to have a Privacy Policy ready as this will appear in the “Login Dialog” permission dialog when users click Okay:
+If your app is going to appear in Facebook App Store (or App Center), the URL you saved in the dashboard will appear in the profile page of your app:
+Criminal Case, a game developed on Facebook platform, links their Privacy Policy in their Facebook profile page with that of their website. Their legal page is also linked from their website footer:
+Buffer, the social sharing application, is using a Facebook app to allow users to login to Buffer directly with their Facebook accounts (the “Sign-in with Facebook” button):
+The “Login Dialog” dialog window links to the “Privacy Policy” link to that of Buffer’s from their website :
+Sep 22, 2017
+This article is not a substitute for professional legal advice. This article does not create an attorney-client relationship, nor is it a solicitation to offer legal advice.
+Start here
+Disclaimer: Legal information is not legal advice, read the disclaimer .

@@ -1,0 +1,175 @@
+Updated 24 May 2018
+Foodient Ltd (company number 08001091) (“we” or “us”) are committed to protecting and respecting your privacy. This policy (together with our terms and conditions and any other documents referred to in it) sets out the basis on which any information (including personal data) we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Data Controller
+Foodient Ltd.
+ 
+Types of Data collected
+Among the types of Personal Data that this Application collects, by itself or through services used by Whisk, includes: Cookies, Usage Data, contact information and food preference data.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
+The Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
+All Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without any consequences on the availability or the functioning of the service.
+ 
+Personal data we may collect about you
+We may obtain and use the following data about you and your Users:
+Any correspondence we have with you and your Users should you or your Users contact us. This data will be used only for providing support through our support help desk solution and for improving the Whisk service.
+Contact Data like Name and Email address should you enter it into Whisk. This data will be used for running the Whisk service, providing customer support and internal Whisk analytics.
+Food Preference Data you submit or is inferred by your usage of Whisk which may include, among other things, what cuisines you like, what flavors you prefer, whether you have any dietary preferences.
+Details of you visits to our website (including shopping list and recipe interactions) including transactions at grocery retailers that you may do via Whisk.
+Cookies
+We use cookies to identify users and track a number of their preferences. These are all first-party cookies stored and transmitted securely
+Identity
+We use a cookie to track the identity of our users, such that they may recover their lists. This is a long-lived cookie rather than a session cookie.
+Preferences
+We store user preferences inside cookies to retain the choice of user language, regions, and preferred supermarkets (where online checkout is available).
+Display preferences
+We use a number of long-lived cookies to track some user-interface settings, such as whether the user has already seen tutorial materials.
+Third-party cookies
+We use a number of third-party tools to track user behaviour within Whisk, so we can see which functionality our users are using, and whether or not they are having issues with it.
+ 
+Methods of processing
+The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+ 
+Place
+Data obtained from you may be moved to and stored at a destination within the European Economic Area (“EEA”). Staff members who work for or on behalf of us may process this information. Such staff members may, among other things, the provision of support services and the delivery of you request(s) for us to provide services. When submitting your personal data, you are agreeing to such processing, transfer or storage as outlined above.
+ 
+Retention time
+ 
+The use of the collected Data
+The Data concerning the users is collected to allow the Whisk to provide its services and for improving it’s services through Analytics and feature testing (A/B testing), Hosting and backend infrastructure, Infrastructure monitoring, Managing contacts and sending messages, Traffic optimisation and distribution, and User database management and anonymised trend analysis.
+ 
+Detailed information on the processing of Personal Data
+The information we hold about you and your Users may be used in any of the following ways:
+To provide and to improve our services to you, including administration and management of your account, allowing you to upload, store and access data and allowing users to access data relevant to themselves
+To send you further information about our Whisk services for which we think you may have an interest. This information will be used only where you have given consent.
+To send you further information about our services based on a request we have received from you
+To fulfil our obligations to you
+To provide you with notification about any changes to our services
+ 
+Analytics
+ 
+Google Analytics (Google Inc.)
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+Personal Data collected: Cookies and Usage Data.
+ 
+Infrastructure monitoring
+This type of service allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
+ 
+Sentry is a monitoring service provided by GetSentry, LLC.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+ 
+Traffic optimization and distribution
+This type of service allows this Application to distribute their content using servers located across different countries and to optimize their performance.
+ 
+CloudFlare (Cloudflare)
+CloudFlare is a traffic optimization and distribution service provided by CloudFlare Inc. The way CloudFlare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User’s browser, while also allowing analytical data from this Application to be collected.
+Personal Data collected: Cookies and various types of Data as specified in the privacy policy of the service.
+ 
+Content performance and features testing (A/B testing)
+ 
+Google Website Optimizer (Google Inc.)
+Google Website Optimizer is an A/B testing service provided by Google Inc.
+Google may use Personal Data to contextualize and personalize the ads of its own advertising network.
+Personal Data collected: Cookies and Usage Data.
+ 
+Hosting and backend infrastructure
+ 
+Google Cloud Storage (Google Inc.)
+Google Cloud Storage is a hosting service provided by Google Inc.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+ 
+Google BigQuery (Google Inc.)
+Google BigQuery is a database service provided by Google Inc. Whisk uses BigQuery to store user data and interaction event data.
+Personal Data stored: Various data described in this policy. This service is a general storage solution.
+ 
+Mixpanel (Mixpanel Inc.)
+Mixpanel is a database service provided by Mixpanel Inc. Whisk uses Mixpanel to store user data and interaction event data.
+Personal Data stored: Various data described in this policy. This service is a general storage solution.
+ 
+Managing contacts and sending messages
+This type of service makes it possible to manage a database of contact information to communicate with the User.
+ 
+Sendgrid (Sendgrid)
+Sendgrid is an email address management and message sending service provided by Sendgrid Inc.
+Personal Data collected: email address.
+ 
+User database management
+This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks’ profiles) and used to build private profiles that Whisk uses for customer support operations and for improving the Whisk platform.
+ 
+Intercom (Intercom Inc.)
+Intercom is a User database management service provided by Intercom Inc. Intercom can also be used as a medium for communications, either through email, or through messages within our product(s).
+Personal Data collected: email address and various types of Data as specified in the privacy policy of the service.
+ 
+Additional information about Data collection and processing
+Legal action
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
+ 
+Additional information about User’s Personal Data
+ 
+System logs and maintenance
+ 
+Information not contained in this policy
+ 
+The rights of Users
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
+This Application does not support “Do Not Track” requests.
+ 
+Changes to this privacy policy
+ 
+The Data Controller is responsible for this privacy policy.
+ 
+Definitions and legal references
+Personal Data (or Data)
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+Usage Data
+Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
+User
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
+Data Subject
+The legal or natural person to whom the Personal Data refers.
+Data Processor (or Data Supervisor)
+The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
+Data Controller (or Owner)
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+This Application
+The hardware or software tool by which the Personal Data of the User is collected.
+Cookies
+Small piece of data stored in the User’s device.
+Legal information
+Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+This privacy policy relates solely to this Application.
+ 
+Platform
+Free
+For personal recipe sites, blog, and anyone who wants to add shoppability to their recipe content.
+For professional recipe sites and blogs who have more require more configuration, custom styles, and analytics.
+Plugin
+JS, Plugin, API
+Custom stylesChange look and feel of the shopping list tools - from colours and fonts to button styles.
+Widget
+Reporting & AnalyticsDetailed data and charts about shopping list performance and user shopping trends.
+Retailer CurationSelect which retailers you would like to appear on your site. Note: Whisk will automatically show the appropriate retailers based on users’ region.
+Brand LockDefine brands or ranges to prioritize in store item matching.
+SupportOn-demand access to support regarding technical issues or questions.
+Self Service
+Some
+WhiskAd Platform & SupportUse WhiskAds to sell advanced shopper marketing solutions to your clients. Targeted to purchase intent, ads  display on recipes and follow users through the shopping list journey into the offline or online store purchase.
+Affiliate FeesAdd custom affiliate codes to earn revenue for checkouts at integrated retailers.
+50/50 Whisk Codes or Publisher Codes
+Free
+For personal recipe sites, blog, and anyone who wants to add shoppability to their recipe content.
+For professional recipe sites and blogs who have more require more configuration, custom styles, and analytics.
+Plugin
+JS, Plugin, API
+Custom stylesChange look and feel of the shopping list tools - from colours and fonts to button styles.
+Widget
+Reporting & AnalyticsDetailed data and charts about shopping list performance and user shopping trends.
+Retailer CurationSelect which retailers you would like to appear on your site. Note: Whisk will automatically show the appropriate retailers based on users’ region.
+Brand LockDefine brands or ranges to prioritize in store item matching.
+SupportOn-demand access to support regarding technical issues or questions.
+Self Service
+Some
+WhiskAd Platform & SupportUse WhiskAds to sell advanced shopper marketing solutions to your clients. Targeted to purchase intent, ads  display on recipes and follow users through the shopping list journey into the offline or online store purchase.
+Affiliate FeesAdd custom affiliate codes to earn revenue for checkouts at integrated retailers.
+50/50 Whisk Codes or Publisher Codes
+This website uses cookies. Read more
+Accept cookies

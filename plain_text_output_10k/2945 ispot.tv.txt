@@ -1,0 +1,55 @@
+Version 2.0, Last Modified: June 19th, 2018
+The iSpot.tv Business-to-Business  Privacy and Cookies Policy (“Policy”) describes the privacy practices relating to information that iSpot.tv, Inc. (“iSpot.tv,” “we,” “us,” “our”) collects and uses on behalf of our business partners via their websites, apps, and ads.
+We may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Modified" date above. We encourage you to review this Policy often.
+iSpot.tv Services
+We provide analytics services (the “iSpot Services”) that allow advertisers, web/app developers, and third party ad platforms (collectively referred to as “Clients”) to better understand the effectiveness of their content, including online, OTT, and linear advertising. We help Clients understand, for example, whether their ads tend to be viewed or skipped by consumers or how well their ads drive consumers into their funnel. In providing the iSpot Services, we may work with Clients who collect and provide us with information collected from consumers’ browsers or devices.
+“Cookies,” “Pixel Tags,” and “SDKs,” and their Use
+Cookies are small data files that contain a string of characters, such as an anonymous unique browser identifier. Cookies are stored on your computer or other device and act as (usually unique) tags that identify your device. Our servers send your browser or device a cookie when you visit a website where the iSpot Services are deployed, and Clients and partners may do likewise on their websites or through their multi-site platforms.
+A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages. When you access these web pages, pixel tags generate a generic notice of the visit and permit us to set or read our cookies. Pixel tags are used in combination with cookies to track activity on a website by a particular device. When you turn off cookies, pixel tags simply detect a unique website visit.
+An iSpot.tv cookie falls under the following categories:
+Analytical/performance cookies: These allow us to recognize and count the number of visitors and to see how visitors move around our website or our Clients' websites.
+Functionality cookies: These are used to recognize you when you return to our website or our Clients' websites.
+Information We Collect How We Use It
+The information that we or our Clients may collect through the iSpot Services includes the following:
+Log information: When consumers visit a website where the iSpot Services are deployed, the iSpot Services may automatically record information from the consumer’s web browser. These server logs include information such as a consumer’s Internet Protocol (“IP”) address (a unique number that is automatically assigned to every computer), the date and time the consumer visited the website, browser type, and a consumer’s interactions with Clients’ content and advertising.
+Mobile data: Through mobile applications on which the iSpot Services are deployed, we or our Clients may collect consumer IP address and time-stamp information, as well as information about the consumer’s mobile devices (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, and app-specific identifiers).
+We and/or our Clients may collect information about a consumer’s browser and device. We also may record whether digital content is displayed through the use of cookie IDs associated with the consumer’s web browser.
+We collect the following information when our Clients deploy pixel tags using the iSpot Services:
+Cookies and Unique IDs: Like most web businesses, we use automated mechanisms (e.g., cookies) with unique identifiers to track consumer browsing activities;
+Customer ID: the ID related to the Client’s website / application (if provided by the Client);
+Unix timestamp: the exact time in UTC format;
+Client IP address;
+Language: contents of the Accept-Language request header; and
+User agent: this includes (but is not limited to) device, OS, and browser.
+When We Share Information
+We may share information collected through the iSpot Services (such as viewing and performance data):
+with our Clients, their service providers, and other platforms that may assist those Clients;
+as part of a business sale, merger, consolidation, investment, change in control, transfer of substantial assets, reorganization or liquidation, or in connection with steps taken in anticipation of such an event (e.g., due diligence);
+if required by law or in response to a legal process, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official;
+with our vendors that perform tasks on our behalf;
+where we believe sharing the information may prevent physical, financial or other harm, injury or loss;
+if we believe it is necessary for protecting our interests; and
+if it is in connection with an investigation of suspected or actual unlawful activity.
+Your Choices and Your Opt-Out Options
+We work with companies that capture anonymous or de-identified data and create custom reports based on the aggregate of consumers' online browsing activities.  We may also link your various devices, this allows us to deliver consistent iSpot Services with our Clients, their service providers and other platforms...
+Network
+Most modern mobile operating systems provide mobile advertising identifiers for mobile devices (AAID/IDFA). These identifiers are commonly used to help enable digital advertising across mobile applications. The operating systems that provide these mobile advertising identifiers tend to include built-in settings to express privacy preferences for online advertising across applications.
+Apple Devices:
+Open Settings
+Select Privacy
+Android Devices:
+Open Settings
+Select Google
+Select Privacy
+Select Privacy
+Select Ads and follow the on-screen instructions
+We or our Clients and partners we work with may use other information collected from consumers when they are online (for instance, IP address), aggregated with information collected from various websites, mobile applications, devices, or browsers. You can opt out of iSpot Services by following this link https://www.ispot.tv/privacy/opt-out .
+Consumers Located Outside of the United States
+The iSpot Services are currently only available in the United States. While we may work with Clients located outside of the United States, the iSpot Services can only be deployed within the United States. If you are located outside of the United States and have reason to believe that we or a Client has collected information about you through the iSpot Services, please email us at privacy@ispot.tv so that we may investigate the matter. You may be required to identify yourself by providing personal information so that we can review your request.
+Contact Us
+If you have any questions about our privacy practices, please email us at privacy@ispot.tv .
+If you wish to make a complaint about a breach of privacy laws that applies to us, please contact us as set out above and we will take reasonable steps to investigate the complaint and respond to you. If you are not happy with our response, you may complain directly to the relevant privacy commissioner or authority.
+Request a Trial of the
+iSpot TV Analytics Platform
+Thanks for contacting iSpot.tv
+Awesome! Someone from our sales team will be in touch with you soon.

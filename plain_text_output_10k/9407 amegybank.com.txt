@@ -1,0 +1,63 @@
+AMEGY BANK, a Division of ZB, N.A. MOBILE BANKING APP PRIVACY POLICY
+Effective date:  January 2016
+This Mobile Application Privacy Policy ("Policy") describes the types of information ZB, NA. dba Amegy Bank ("Amegy Bank") collects through the Amegy Bank Mobile Banking application  (the "App"), and what we do with that information. This Policy applies solely to the App and does not apply to any other Amegy Bank mobile applications, interactive features, web sites, or offline information collection, unless expressly stated at the time of collection. Please review our full Privacy Policy before using the App.  The information  presented in the Summary Table may be qualified or explained more fully in the section below titled "Additional Information."
+SUMMARY TABLE
+Ways We Use Your Information
+Information Sharing
+Marketing
+Profiling
+Tracking your activity on this App ("Usage Information"), including Device Identifier
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+The App does not collect biometrics, browser history, phone or text logs, your contacts, financial information other than your activity on this App as described elsewhere in this privacy policy, health, medical or therapy information,  or user files on your device that contain your content.
+DEFINITIONS
+App Settings
+Data stored locally on the device you use to access the App that contain information about your activities on the App or that allow the App to remember information about you and your activities.
+Contact Information
+May include name, address, date of birth, phone number, mobile phone number, email address, last four digits of  your payment card number, and other online or physical contact information.
+Device Identifier
+IP address or other unique identifier for any computer, mobile phone, tablet or other device you may use to access the App. A Device Identifier is a number that is automatically assigned to your device, and our servers identify your device by its Device Identifier. The App does not collect, use, or share your hardware-based Device ID (such as your UDID or IMEI).
+Financial Information
+Tracking your activity includes:
+Which pages you visited on this App and how long you stayed at each page
+Activities you engaged in at this App, such as your searches and transactions
+Messages you sent to the company, such as via email.
+Usage Information
+Information about your use of the App, including the type of device you are using to access the App, the browser and operating system you are using, the search terms or advertisements that referred or otherwise led you to the App, the areas of the App that you access or use, and the time of day you used the App. Usage Information may also include a Device Identifier. We and our Service Providers, including analytics providers, may automatically collect certain "Usage Information" whenever you access and use the App.
+Your location
+ADDITIONAL INFORMATION
+Information Use
+Use for "Marketing," as described in the chart above, means contacting you through means other than telephone (for example, email or postal mail) to offer and market to you services or products, including special offers or advertisements, any of which may be tailored to you.
+Use for "Profiling," as described in the chart above, means use of your information to do research and analysis and to make decisions that directly affect you, such as to display ads based on your activity in the App.
+Use for "Registration, Providing the service and maintaining the App" means using information about you to: (1) allow you to participate in features we offer or to provide related customer service; (2) process your registration, including verifying that information you provide is active and valid; (3) process a transaction you initiate; (4) improve the App and our products, and for internal business purposes, including the measurement of the App's effectiveness; and (5) contact you with regard to your use of the App and, in our discretion, changes to our policies.
+In addition to the uses described above, to analyze our App, the App may use various analytics services, which may independently collect Usage Information, set and access their own tracking technologies, and otherwise collect or have access to non-personally or personally identifiable information about you.
+We may also use your information for purposes disclosed at the time you provide your information, or with your consent.
+Information Sharing
+As noted in the chart above, when you provide information to us through the App, we may share your information with service providers we have retained to perform services on our behalf, including developing, hosting or maintaining the App, providing customer support, sending email or other communications, providing marketing assistance, and providing analytics services. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+Sharing for "Legal Purposes," as described in the chart above, means we may disclose your information (i) if we are required or permitted to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
+In addition to the information sharing described in the chart above, we may also share your information with third parties with your consent or at your request, or as disclosed at the time you provide us with information. Amegy Bank also reserves the right to disclose and transfer your information if Amegy Bank goes through a business transition, such as a merger, acquisition by another company, sale of all or a portion of its assets, or other corporate change, including during the course of any due diligence process.
+We may also share non-personal Information, such as aggregate user statistics (e.g., number of downloads and registrations, and most popular merchants), demographic information and Usage Information, with affiliates and third parties, including advertisers, content providers, and analytics providers. Third parties may collect non-personal Information when you download or use the App.
+Some third parties may collect your personal information when you visit the App. We do not control the information collection, use, or sharing practices of third parties, including analytics providers.
+We do not share your personal information with ad networks, carriers, consumer data resellers, data analytics providers other than the independent collection by those third parties described above, operating systems and platforms, other apps, or social networks.
+Updating Your Information and Your Choices
+You may be able to review and update your account information though the App.  You may opt out of receiving marketing e-mails from us by following the opt-out instructions provided to you in those e-mails.  Please note that we reserve the right to send you certain communications relating to your account or use of the App, and these transactional account messages may be unaffected if you opt-out from marketing communications.
+Third Party Content and Links to Third Party Content
+Certain content provided through the App may be hosted and served by third parties. In addition, the App may link to third party web sites, apps, or other content over which we have no control and which are governed by the privacy policies and business practices of those third parties. We are not responsible for the privacy practices or business practices of any third party.
+Security
+We take commercially reasonable security measures to help protect your information, both during transmission and once we receive it. However, no method of electronic transmission or method of electronic storage is 100% secure. Therefore, we cannot guarantee the security of any information you submit and you do so at your own initiative and risk.
+Consent to Transfer
+If you are located outside of the United States, please be aware that information we collect through the App will be transferred to and processed in the United States. By using the App or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+Children's Privacy
+We do not knowingly collect personally identifiable information from children under 13 without parental consent. The App is not directed to or intended for individuals under 13 years of age. If you are under the age of 13, please do not provide personally identifiable information of any kind.
+Changes to this Privacy Policy
+We may add to, delete, or change the terms of this Policy from time to time by posting a notice of the change (or an amended Policy) on this App. Your continued use of the App or any online service following notification will constitute your agreement to the revised Policy.  If we make any material changes to this Policy, we will notify you by email prior to the change becoming effective.
+Questions
+                                                            

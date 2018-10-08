@@ -1,0 +1,236 @@
+You are about to log out from corporate booking account.
+Do you want to continue?
+Cancel
+Last Updated: 27 July 2018
+This is the Singapore Airlines Limited (“SIA”, “we”, “our”) Privacy Policy.
+We are a corporation registered in the Republic of Singapore with company number 197200078R and a registered office at 25 Airline Road, Airline House, Singapore 819829. For the purpose of the General Data Protection Regulation (“GDPR”) and other applicable data protection laws, we are the data controller. Our data protection officer can be contacted at dpo@singaporeair.com.sg . Our representative in the EU is our UK establishment, Singapore Airlines Limited a branch registered at Building 11, Chiswick Park, 566 Chiswick High Road, London W4 5YS, United Kingdom.
+ 
+By continuing to use SIA’s services, you signify that you have read and understood this Privacy Policy.
+What information do we collect about you?
+We collect information when you purchase flights or other products on our website, mobile application or when you travel with us, such as your contact details, travel information and credit card details. We also collect information about your preferences from your interactions with our in-flight and ground-based staff, and from specific requests you make.  In addition, we collect device and technical information from you when you use our website or mobile application. More Information
+How will we use the information about you?
+We use your information to fulfil our contract of carriage with you, to administer your membership with our frequent flyer programme, KrisFlyer and/or our corporate travel programme for small and medium enterprises, HighFlyer. We also use your information to maintain our website and mobile application, and to tailor our products and services to your preferences to provide the best service possible. In addition we use your information to market our products and services to you, and those of our group companies, partners and agents (with your consent where required by applicable law).  More I nformation
+Who do we share your information with?
+We share your data with our third party service providers to the extent necessary for them to provide their services such as payment processors, ground-operating personnel and in-flight entertainment. We use these third parties services solely to process or store your information for the purposes described in this policy. We also share your information with our interline, code share and strategic alliance partners, other carriers who help us provide our services, related group companies and our overseas stations and with government bodies as required by law.   More Information
+Where do we process your information?
+Our servers are located in Singapore, Germany, Japan and the United States. We transfer your information to airports and ground staff in destinations that you are flying to and where we operate. Our staff are located in our offices around the world.  More Information
+How long do we keep hold of your information?
+We retain your information for as long as it is necessary to fulfil the purpose for which it was collected, the legal or business purposes of SIA, or as required by relevant laws. We will usually keep your Customer Data for up to 7 years to ensure that any contractual disputes can be addressed. For EU and Swiss residents, we will endeavour to delete data within 30 days of a request for erasure or contact you if it will take longer. More Information
+How can I exercise my rights over my information?
+You may have various rights in relation to your data.
+If you have any concerns or complaints, please contact us here .
+How will we notify you of changes?
+SIA will amend this Privacy Policy from time to time and the updated versions will be posted on SIA’s Website and date stamped so that you are aware of when the Privacy Policy was last updated. Please check back frequently to see any updates or changes to this Privacy Policy. If we make any material changes to this Privacy Policy, we will provide notice including by banner on our website.
+There are two broad categories of Customer Data that SIA collects:
+• Personal Data. The data we collect includes but is not limited to:
+(i) personal information that can be used to identify an individual, such as name, gender, date of birth, passport or other personal identification numbers;
+ 
+ 
+ 
+(vi) your customer preferences, such as dietary, seating, entertainment viewed, KrisShop purchases, places that you would like to visit or other service preferences;
+ 
+ 
+ 
+(x) health information, such as doctors’ notes, medical certificates and letters and requests related to medical conditions; 
+(xi) information we receive from the queries you enter into our chatbot, Kris on our global Facebook page and Website (as defined below);
+(xii) information we receive from flight bookings made via our online corporate booking platform; 
+(xiii) information we receive from other sources e.g. our page on social media websites; and
+(xiv) business contact information, such as the contact details of the employees of our vendors and corporate customers, as well as the contact details collected by our divisions including the Cargo Division and Engineering Division.
+• Technical Data. This includes device and technical information you give us when using our website or mobile application (“Website”) such as IP addresses or other unique identifiers, cookies, mobile carrier, time zone setting, operating system and platform. Information on cookies may be found in our cookie policy.
+For purposes of this policy statement, Customer Data means Personal Data and Technical Data.
+ 
+Special categories of information or “sensitive personal data”
+Certain categories of Customer Data, such as information about your race, ethnicity, religion or health, are considered special categories of information, or “sensitive personal data” under the GDPR.
+Generally, we try to limit the circumstances where we collect your sensitive personal data. However, this can occasionally occur because you have made certain requests in connection with your travel arrangements that reveal or suggest something about you that could be considered “sensitive personal data”, or if you otherwise choose to provide such information to us (or a third party such as the travel agent through which you made your booking).
+For example:
+ 
+• if you request specific medical assistance from us and/or an airport operator, e.g. the provision of a wheelchair, this may reveal that you have a particular medical condition.
+How we collect data from you
+SIA collects Customer Data, either directly from you or from your authorised representatives (i.e. persons whom you have authorised and/or persons who have been validly identified as being your authorised representative (e.g. your organisation’s corporate travel manager) pursuant to our then-current security procedures).
+SIA also collects Customer Data from third parties which are located in various countries. This includes, but is not limited to, travel agents, our KrisFlyer partners (including, amongst others, airlines and non-airlines such as Hilton, Avis, Hertz, American Express, the Economist and Esso), our service providers, other airlines including our subsidiaries to facilitate travel on code share or multi-airline flights, or through our Website, mobile services, any posts on our SIA-specific pages on social media websites and other channels including our ticketing counters and airport operations.
+Where you make reservations on behalf of another person, you undertake and will ensure that the individual whose Customer Data is supplied to SIA has authorised the disclosure, is informed of and agrees to the provisions of this Privacy Policy.
+ 
+ 
+• Payment details, e.g. the name on the credit or debit card, the credit or debit card number, expiry date and card verification value on the credit or debit card, and billing address which will be transmitted to our payments processors.
+Additional information may be mandatory if you are flying to a specific country, or if you are flying on behalf of a business registered in a specific country, e.g. your gender, nationality, passport number, the country of issue of your passport, the name, GST registration number and address of the business you are flying on behalf of, and your business email address and phone number. These mandatory fields will be clear when you make a booking.
+The collection of the following types of Customer Data is mandatory to enable SIA to administer your membership with KrisFlyer: (i) title; (ii) last/family name; (iii) first/given name if you do not have a last/family name; (iv) date of birth; (v) email address; (vi) mobile phone number; (vii) mailing address; (viii) gender; (ix) nationality; and (x) whether you are an EU or Swiss resident.
+The collection of the following types of Customer Data is mandatory to enable SIA to administer your membership with HighFlyer: (i) title; (ii) last/family name; (iii) first/given name if you do not have a last/family name; (iv) date of birth; (v) email address; (vi) mobile phone number; (vii) mailing address; (viii) gender; and (ix) nationality.
+These types of Customer Data are marked as mandatory on our sign up form. If you do not provide this information, you will not be able to benefit from points accruals and membership tier benefits and we will not be able to provide you with our services and/or products required.
+The failure to supply the following types of Customer Data will result in (i) SIA being unable to update you on our latest products and/or launches; and/or (ii) your inability to enter or participate in contests, promotions or redemption activities organised by SIA:
+• Contact Information e.g. email address, telephone number; and
+• Country of residence.
+If you are an EU or Swiss resident, we are required to disclose the legal basis for processing your data under the GDPR and the Swiss Data Protection Act. We will use the Customer Data in the following ways:
+In accordance with our contract of carriage with you, we will use the Customer Data to:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv. administer our KrisPay programme and mobile application; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• to customise our marketing e.g. send you targeted marketing on places you would like to visit, based on your responses to optional questions on our Website and your prior travels. If you are an EU or Swiss resident, you can object to this profiling and opt-out of receiving such targeting marketing. For more information on this right, click here ; and
+• In relation to our KrisFlyer programme:
+ 
+ 
+ 
+ 
+ 
+v. send KrisFlyer members KrisFlyer-related news and KrisFlyer e-statements and associated promotions and offers (with your consent where required by applicable laws).
+• If you are a participating company under the HighFlyer programme (“Participating Company”) and if you are a Corporate Travel Manager (“CTM”) or Assistant Corporate Travel Manager (“ACTM”), we will use the Customer Data to:
+i. maintain the Participating Company’s HighFlyer account;
+ 
+ 
+ 
+ 
+v. respond to email and call enquiries from the CTMs and ACTMs; and
+vi. Send the CTMs and ACTMs programme information updates and other account related information.
+• If you are a Participating Company under the HighFlyer programme and if you are a Corporate Traveller (“CT”), we will use the Customer Data to:
+ 
+ 
+ 
+iv. respond to email and call enquiries from the CTs.
+• if you are an employee of an entity with a contractual relationship with us:
+ 
+ 
+iii. communicate with you about products, services, promotions, events and other news and information we think will be of interest to you.
+If you are an EU or Swiss resident, you can object to this profiling and opt-out of receiving such targeted marketing. For more information on this right, click here
+With your consent where required by applicable laws, we will use your Customer Data to:
+ 
+• register you for KrisFlyer.
+You have the right to withdraw your consent at any time by contacting us at saa_feedback@singaporeair.com.sg , by logging on to your KrisFlyer account for KrisFlyer members or by logging on to your HighFlyer account for HighFlyer Participating Companies.
+ 
+ 
+ 
+• analytics and search engine providers that assist us in the improvement and optimisation of the Website.
+SIA will share your Customer Data with any member of our group, which means our overseas stations and our subsidiaries  in order to better customise your preferences when you travel with SIA or any of our other group companies, such as Scoot Tigerair Pte. Ltd. (“Scoot”), SilkAir (Singapore) Private Limited (“SilkAir”) and Tradewinds Tours & Travel Private Limited:
+• For the purposes of our contract with you, i.e. to:
+i. Fulfill bookings and facilitate flight transfers of passengers;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• protect the rights, property, health or safety of us, our users, a third party or the public as required or permitted by law (including exchanging Customer Data with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+For example, SIA and other airlines are required by laws in the United States of America, France and other countries to provide border control agencies with access to your booking information or flight itinerary. Accordingly, relevant Customer Data (known as PNR or Advance Passenger Information (“API”)) will be disclosed to the appropriate customs and immigration authorities as required by law.
+ 
+ 
+ 
+• to comply with legal obligations, processes or requests (such as disclosing Customer Data to executors in response to court orders).
+In addition, SIA may disclose Customer Data to our legal advisors for establishing, exercising or defending our legal rights, to our other professional advisors, or as otherwise authorised or required by law. SIA also reserves the right to share Customer Data as is necessary to prevent a threat to the life, health or security of an individual or corporate entities such as SIA. Further, SIA will disclose Customer Data, as is necessary, to investigate suspected unlawful activities including but not limited to fraud, intellectual property infringement or privacy.
+The SIA Head Office is based in Singapore. Customer Data will be transmitted to data storage facilities where SIA keeps its central records. Customer Data will be transferred to SIA’s offices and appointed agents, including groundhandling agents, sales agents and contact centre agents, in Singapore and around the world in connection with SIA’s performance of the contract with you.
+This means that Customer Data will be transferred to, and stored at, a destination outside of your country and outside the European Economic Area ("EEA"), and Switzerland, and in particular to Singapore, Germany, Japan and USA where we have data centres.
+We will transfer Customer Data to airports and ground crew in destinations that you are flying to in and where we operate. The Customer Data is transferred outside the EEA and Switzerland on the basis that it is necessary for the performance of the contract of carriage between you and SIA. 
+We will also transfer Customer Data to our code share and joint venture partners in strategic alliances in  Europe, West Asia and Africa, North Asia, Southeast Asia, Southwest Pacific and the Americas for the purposes of performing any contract of carriage.  Please click here for a list of our partners . 
+If you are an EU or Swiss resident, where we transfer Customer Data outside the EEA and Switzerland, this is done either on the basis that it is necessary for the performance of the contract of carriage between you and SIA, or that the transfer is subject to the European Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and Decision 2010/87/EU as appropriate.
+The Customer Data will also be processed by staff operating outside the EEA and Switzerland who work for us, for our suppliers or our business partners. Such staff are engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
+Access.
+You have the right to know whether we process Customer Data about you, and if we do, to access Customer Data we hold about you and certain information about how we use it and who we share it with.
+Where permitted by law, SIA reserves the right to charge a reasonable administrative fee for this service. In exceptional circumstances, SIA reserves the right to deny you access to your Customer Data and may provide an explanation as required by applicable laws.
+ 
+ 
+• data is collected in connection with an investigation of a breach of contract, suspicion of fraudulent activities or contravention of law.
+Correction.
+You have the right to correct any Customer Data held about you that is inaccurate.
+Feedback and complaints
+If you have any concerns, feedback or complaints about the use and/or sharing of your Customer Data, we are open to receiving your feedback or complaints.
+Exercise of Rights.
+To exercise any of your rights, please use the following form:  Data Privacy Rights Form and submit it to saa_feedback@singaporeair.com.sg . For KrisFlyer members, you may correct any Customer Data by logging into your KrisFlyer account under the section titled “Profile”.
+These rights include:
+ 
+ 
+ 
+ 
+ 
+Please note that we will require you to provide us with proof of identity before responding to any requests to exercise your rights. We must respond to a request by you to exercise those rights without undue delay and at least within one month (although this may be extended by a further two months in certain circumstances). To exercise any of your rights, please use the following form:  Data Privacy Rights Form and submit it to saa_feedback@singaporeair.com.sg .
+Complaints.
+In the event that you wish to make a complaint about how we process your Customer Data, please contact us and we will endeavour to deal with your request as soon as possible. This is without prejudice to your right to launch a claim with your data protection authority.
+Access.
+You have the right to know whether we process Customer Data about you, and if we do, to access Customer Data we hold about you and certain information about how we use it and who we share it with.
+If you require more than one copy of the Customer Data we hold about you, we may charge an administration fee.
+We may not provide you with certain Customer Data if providing it would interfere with another’s rights (e.g. where providing the Customer Data we hold about you would reveal information about another person) or where another exemption applies.
+Portability.
+You have the right to receive a subset of the Customer Data we collect from you in a structured, commonly used and machine-readable format and a right to request that we transfer such Customer Data to another party.
+The relevant subset of Customer Data is data that you provide us with your consent (please see here for the types of Customer Data we process on the basis of your consent: How we use your Customer Data  or for the purposes of performing our contract with you (please see here for the types of Customer Data we process on the basis of our contract with you: How we use your Customer Data
+If you wish for us to transfer the Customer Data to another party, please ensure you detail that party and note that we can only do so where it is technically feasible. We are not responsible for the security of the Customer Data or its processing once received by the third party. We also may not provide you with certain Customer Data if providing it would interfere with another’s rights (e.g. where providing the Customer Data we hold about you would reveal information about another person). 
+Correction.
+You have the right to correct any Customer Data held about you that is inaccurate. Please note that whilst we assess whether the Customer Data we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
+To exercise any of your rights, please use the following form:  Data Privacy Rights Form and submit it to saa_feedback@singaporeair.com.sg . For KrisFlyer members, you may correct any Customer Data by logging into your KrisFlyer account under the section titled “Profile”.
+Erasure.
+You may request that we erase the Customer Data we hold about you in the following circumstances:
+ 
+ 
+• we are processing the Customer Data we hold about you on the basis of our legitimate interest and you object to such processing (please see here for the types of Customer Data we process on that basis: How we use your Customer Data . Please provide us with detail as to your reasoning so that we can assess whether there is an overriding interest for us to retain such Customer Data;
+• you no longer wish us to use the Customer Data we hold about you in order to send you promotions, special offers, marketing and lucky draws; or
+• you believe the Customer Data we hold about you is being unlawfully processed by us.
+Also note that you may exercise your right to restrict our processing of the Customer Data whilst we consider your request as described below.
+Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure. However, we may retain the Customer Data if there are valid grounds under law for us to do so (e.g., for the defence of legal claims or freedom of expression) but we will let you know if that is the case.  Please note that after deleting the Customer Data, we may not be able to provide the same level of servicing to you as we will not be aware of your preferences.
+Where you have requested that we erase Customer Data that we have made public and there are grounds for erasure, we will use reasonable steps try to tell others that are displaying the Customer Data or providing links to the Customer Data to erase the Customer Data too.
+To exercise any of your rights, please use the following form:   Data Privacy Rights Form and submit it to saa_feedback@singaporeair.com.sg . For KrisFlyer members, you may correct any Customer Data by logging into your KrisFlyer account under the section titled “Profile”.
+Restriction of Processing to Storage Only.
+You have a right to require us to stop processing the Customer Data we hold about you other than for storage purposes in certain circumstances. Please note, however, that if we stop processing the Customer Data, we may use it again if there are valid grounds under data protection law for us to do so (e.g. for the defence of legal claims or for another’s protection).
+You may request we stop processing and just store the Customer Data we hold about you where:
+ 
+ 
+• we wish to erase the Customer Data as it is no longer necessary for our purposes but you require it to be stored for the establishment, exercise or defence of legal claims; or
+• you have objected to us processing Customer Data we hold about you on the basis of our legitimate interest and you wish us to stop processing the Customer Data whilst we determine whether there is an overriding interest in us retaining such Customer Data.
+Objection.
+At any time you have the right to object to our processing of Customer Data about you in order to send you promotions, special offers, marketing messages, including where we build profiles for such purposes and we will stop processing the Customer Data for that purpose.
+You also have the right to object to our processing of Customer Data about you and we will consider your request in other circumstances as detailed below by using the following form: Data Privacy Rights Form and submitting it to saa_feedback@singaporeair.com.sg referencing: Data Subject Rights.
+You may object where we are processing the Customer Data we hold about you (including where the processing is profiling) on the basis of our legitimate interest and you object to such processing (please see here for the types of Customer Data we process on that basis: How we use your Customer Data
+Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims. Also note that you may exercise your right to request that we stop processing the Customer Data whilst we make the assessment on an overriding interest by indicating this in our Data Privacy Rights form .
+SIA needs your assistance to ensure that your Customer Data is current, complete and accurate. As such, please inform SIA of changes to your Customer Data by contacting SIA and submitting your updated particulars to SIA in writing (see Section 14). If you are a KrisFlyer member or HighFlyer Participating Company, you may update your Customer Data at any time by logging on to your Website account with SIA.
+SIA will also request Customer Data updates from you from time to time. As detailed above, your booking information or flight itinerary will be disclosed to the appropriate customs and immigration authorities as required by law. As such, it is important to ensure that the Customer Data contained in your booking information or flight itinerary is current, complete and accurate.
+Singapore Airlines DPO
+08D Airline House
+25 Airline Road
+Alternatively for queries specific to KrisFlyer, you may contact:
+KrisFlyer Membership Services
+PO Box 177
+Singapore 914006
+Link Singapore Airlines
+Going back to our current website?
+By choosing to go back, you'll be taken to the home page of our current website. Any transaction you haven't completed on this page of our new website will no longer be valid.
+
+We use cookies
+Cookies allow us to optimise and personalise your experience. Find out more.
+By continuing to use the website, you will be agreeing to our Privacy Policy , Terms & Conditions and Cookie Policy .
+We use cookies
+Cookies allow us to optimise and personalise your experience. Find out more.
+By continuing to use the website, you will be agreeing to our Privacy Policy , Terms & Conditions and Cookie Policy .
+Introducing revised fare types
+From 20 January 2018, you'll enjoy clearer choices when it comes to booking with new fare types to suit the way you travel.
+Introducing revised fare types
+From 20 January 2018, you'll enjoy clearer choices when it comes to booking with new fare types to suit the way you travel.
+We use cookies
+Cookies allow us to optimise and personalise your experience. Find out more.
+By continuing to use the website, you will be agreeing to our Privacy Policy , Terms & Conditions and Cookie Policy .
+ASK KRIS
+By proceeding with this chat, you agree to our privacy policy and the terms and conditions of using our website.
+Accept
+Got a question?

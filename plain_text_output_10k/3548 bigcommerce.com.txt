@@ -1,0 +1,76 @@
+Date of Last Revision: May 21, 2018
+BigCommerce wants to help you better understand how we collect, use, protect, and share your personal data. This Privacy Policy is designed to help you understand your privacy choices when you visit our site or use our services. It does not apply to other websites or services that we do not control, including websites or services of other BigCommerce users.
+This Privacy Policy is incorporated into, and forms an integral part of, the BigCommerce Terms of Service. The meaning of any capitalized term can be found in the Definitions section. Other terms may be defined in the Terms of Service.  Please note that our services may vary by region. We encourage you to read this Privacy Policy carefully and take the time to get to know our practices.  If you have questions about this Privacy Policy or our privacy practices, please contact us at privacy@bigcommerce.com.
+Privacy Shield.
+BigCommerce is responsible for all onward transfers of Personal Data to third parties in accordance with the EU-U.S. Privacy Shield Framework. To learn more about the EU-U.S. Privacy Shield Framework, or to view BigCommerce’s certification, please visit the U.S. Department of Commerce site at a http://www.privacyshield.gov/.
+Definitions.
+Information Types.
+“Account Information” means data about how and when a BigCommerce account is accessed and the features used.
+“Browser Information” means provided by a browser, including the IP address, the website visited, network connection, device information, and other data, including Cookies.
+“Contact Information” means basic personal details, including such information as first and last name, company name, email address, postal address, phone number, and may include social media account information.
+“Payment Information” means, for example, credit card, ACH or other payment information.
+“Security Information” means user ID, password and password hints, and other security information used for authentication and account access.
+“Support Information” includes hardware, software, authentication data, chat session contents, error reports, performance data, and other communication or technical information and may, with express permission, include remote access to facilitate troubleshooting.
+“Transaction Information” means the data related to transactions that occur on our platform, including product, order, shipping information, Contact Information, and Payment Information.
+“Automated Decision Making” means a decision made solely by automated means without human involvement.
+“Controller” means an entity that determines the purposes and means of the Processing of Personal Data.
+“Cookie” a small file that resides on your computer’s hard drive that often contains an anonymous unique identifier that is accessible by the website that placed it there, but is not accessible by other sites.
+“Merchant” means an entity that has using BigCommerce Services for ecommerce.
+“Partner” means a separate legal entity that is a participant in our Design and Solution Partner (DSP) Program, our Technology Partner Program or other third-party technology integration with the BigCommerce platform, a theme designer,  reseller, or referrer of the Services.
+“Personal Data” means any information relating to an identified or identifiable natural person identifiable information under applicable data protection laws and regulations.
+“Processing” means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, including, but not limited to, alteration, collection, organization, recording, retrieval,  storage, transmission, and use.
+“Processor” means the entity which processes Personal Data on behalf of the Controller
+“Sensitive Personal Data” means any data that reveals racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, or data concerning health or a natural person’s sex life and/or sexual orientation.
+“Shopper” means an entity that interacts with the ecommerce offering of a Merchant through the BigCommerce platform.
+Merchants.
+Merchant Policies. Merchants should help Shoppers understand how the Merchant and BigCommerce collect and process their Personal Data. To that end, Merchants must:
+post an accurate privacy policy on their storefront that complies with all applicable laws and regulations;
+obtain informed consent from Shoppers for the use and access of their Personal Data by BigCommerce and other third parties; and
+if the Merchant is collecting any Sensitive Personal Data from Shoppers, obtain affirmative, explicit, and informed consent and allow such Shoppers to revoke their consent to the use and access of Sensitive Personal Data at any time.
+Information Collected. When a Merchant interacts with our Website, for example, by signing up for a trial, a subscription, or a newsletter, or performing transactions, BigCommerce may collect and control information such as Account Information, Browser Information, Contact Information, Payment Information, Support Information, and Security Information.
+Information Usage. We use this information to provide Merchants with our Services, confirm identities, provide support, for advertising and marketing, invoicing, to resolve incidents related to the use of our Website and Services, to improve and personalize our Services, and to comply with legal requirements. We may use this information in other cases where we have received express permission.
+Partners.
+Information Collected. When a Partner signs up for a partner account or signs up a Merchant for our Services, BigCommerce may collect and control information such as Account Information, Browser Information, Contact Information, Payment Information, Support Information, and Security Information.
+Information Usage. We use this information to provide Partners with our Services, confirm identities, provide support, for advertising and marketing, invoicing, to resolve incidents related to the use of our Website and Services, to improve and personalize our Services, and to comply with legal requirements. We may use this information in other cases where we have received express permission.
+Shoppers.
+Information Collected. When Shoppers interact with a Merchant’s ecommerce offering through the BigCommerce platform, we may collect and process Browser Information and Transaction Information of the Shopper on behalf of the Merchant.
+Information Usage. We use this information as a Processor to provide our Services to Merchants, support and process orders, improve and personalize our Services, and manage risk and fraud.
+Visitors.
+Information Collected. When visitors browse our Website, or engage in communications with us, we may collect and control Browser Information, Support Information, and Contact Information submitted using any messaging features.
+Information Usage. We use this information to provide our Services, improve and personalize our Services, and provide support if needed.
+Communications.
+Promotional. We may deliver and personalize our communications with Merchants and Partners. For example, we may notify a Merchant by email or other means when a subscription is ending, or invite the recipient to participate in a survey. For information about managing email subscriptions and promotional communications, please go to our email preferences page.
+Account. We send certain required communications, such as account notices or information, to users of our Services. You may not opt out of receiving these communications if you have an active storefront.
+Information Sharing.
+Our Services are possible because of a variety of third parties and service providers. Sometimes it is necessary to share Merchant, Partner, or Shopper Personal Data with them to support our Services. We may access, transfer, disclose, and/or preserve that Personal Data with consent or in the following circumstances.
+Compliance. If we have a good faith belief that doing so is necessary to: (i) comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies; or (ii) protect the rights or property of BigCommerce, including enforcing the terms governing the use of the Services.
+Protection. If we have a good faith belief that doing so is necessary to: (i) protect Merchants, Partners, Shoppers, or visitors; for example, to prevent spam or attempts to defraud users of our Services, or in response to threats of safety of any person; (ii) operate and maintain the security of our products, including to prevent or stop an attack on our computer systems or networks.
+Affiliates. We share Personal Data among BigCommerce-controlled affiliates and subsidiaries.
+Service Providers.BigCommerce may use from time to time a limited number of third-party service providers, contractors, and other businesses to assist us in providing our Services for the purposes described in this Privacy Policy.
+Payment Processing. We share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction.
+Apps. Upon receiving a Merchant’s consent to install an application, we will share the Merchant’s Contact Information with the app Partner.
+Merger; Sale. We may also disclose Personal Data as part of a corporate transaction such as a merger or sale of assets.
+Automated Decision-Making.
+Some Personal Data may be used in Automated Decision Making to help us screen accounts for risk, fraud, or abuse concerns.
+Cookies.
+Cookies can be used to recognize you when you visit our Website, remember your preferences, and give you a personalized experience. Third party integrations on our Website also use Cookies. By using our Website or Services, you are agreeing to the use of Cookies and similar technologies for the purposes described in this Privacy Policy. It possible to disable Cookies through your device or browser settings, but doing so may affect your ability to use the Website. The method for disabling Cookies may vary by device and browser, but can usually be found in preferences or security settings. To find out more about Cookies, including how to see what Cookies have been set and how to manage and delete them, visit allaboutcookies.org, or aboutcookies.org. Because there is no consistent industry understanding of how to respond to “Do Not Track” signals, we do not alter our data collection and usage practices when we detect such a signal from your browser.
+Information Protection.
+We maintain administrative, technical, and physical security measures designed to provide reasonable protection for Personal Data against unauthorized access, disclosure, alteration, loss, and misuse. These security measures include access controls, encryption, and firewalls. We are certified as a PCI DSS Level 1 compliant service provider, which is the highest level of compliance available, and our platform is audited annually by an independent third-party qualified security assessor. Unfortunately, no method of Internet use, data transmission, or electronic storage is completely secure, so we cannot guarantee the absolute security of Personal Data.
+While we are dedicated to securing our Website and Services, you are responsible for securing and maintaining the privacy of your passwords and account information. We are not responsible for protecting Personal Data shared with a third-party based on an account connection that you have authorized.
+Accountability for Onward Transfer.
+Privacy Shield. We provide services around the world. To provide our Services, it may be necessary to transmit Personal Data outside of the country, state, or province where the data was received. As a participant in the EU-U.S. Privacy Shield Framework, we are subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
+Data Processors. We will only share or disclose Personal Data to Processors that we have contractually obligated to provide at least the same level of privacy protection required by the principles underlying the Privacy Shield. Furthermore, we will obligate any Processor to the specified, explicit and legitimate purposes consistent with your consent.
+Remedial Measures. If we learn Personal Data is not protected according to our contract, or is being processed beyond your consent, we will take reasonable steps to protect your information and/or cease its illegitimate processing.
+Access to Your Personal Data.
+We understand that you have rights over your Personal Data, and provide reasonable steps to allow you to access, correct, amend, delete, port, or limit the use of your Personal Data. This includes the right to withdraw, at any time, your consent for our collection and use. Additionally, you may have the right to make a complaint with the Data Protection Authority in your country.
+Merchants, Shoppers, and Partners are able to update many types of collected Personal Data directly within their accounts. Please contact us if you are unable to access or otherwise change your Personal Data within your account, or if you are concerned about other data collected.
+Shoppers, we are a Processor to your Merchant. You may also wish to contact your Merchant(s) directly regarding your Personal Data they have collected. We can only forward your request to them. Any deletion or limitation on the use of your Personal Data may negatively affect your use of our Services.
+Enforcement; Recourse.
+Inquiries and complaints relating to BigCommerce treatment of Personal Data and its compliance with the Privacy Shield Principles may be directed to:
+privacy@bigcommerce.com or
+BigCommerce, Inc.
+BigCommerce will respond to any such inquiries or complaints within forty-five (45) days. If BigCommerce fails to respond or its response is insufficient or does not address the concern, BigCommerce has registered with the Direct Marketing Association to provide independent third party dispute resolution at no cost to the complaining party. To contact Direct Marketing Association and/or learn more about the company’s dispute resolution services, including instructions for submitting a complaint, please visit  https://thedma.org/shield-complaint-form/  or  www.thedma.org/privacy-shield-safe-harbor-for-consumers/ . Complaining parties may also, in absence of a resolution by BigCommerce and Direct Marketing Association, seek to engage in binding arbitration through the Privacy Shield Panel. DMA Contact Information:
+Privacy Shield Line
+Direct Marketing Association
+New York, New York 10018
+BigCommerce also commits to periodically reviewing and verifying the accuracy of this Privacy Policy and the company’s compliance with the Privacy Shield Principles, and remedying issues identified. All employees of BigCommerce that have access to Personal Data covered by this Privacy Policy are responsible for conducting themselves in accordance with this Privacy Policy. Failure of a BigCommerce employee to comply with this Privacy Policy may result in disciplinary action. BigCommerce is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).

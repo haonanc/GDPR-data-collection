@@ -1,0 +1,61 @@
+Help protect student data. Use our privacy evaluations before choosing edtech tools for your school.
+As part of the Common Sense Privacy Evaluation Initiative , privacy evaluations break down complex privacy policies and help you make informed choices to protect student information online. Our privacy team goes beyond the requirements of COPPA, FERPA, PPRA, and other federal and state privacy regulations. We consider a broad range of legal requirements and industry best practices to pinpoint what you need to know about company policies on safety, privacy, security, and compliance.
+Not intended for teens.
+Intended for students.
+Intended for teachers.
+Geolocation data are collected.
+Behavioral data are collected.
+The privacy evaluation process categorizes edtech tools into the following three tiers:
+Use Responsibly
+Indicates that the service meets the minimum criteria and more research should be completed prior to use.
+Use with Caution
+Indicates that the service does not clearly define the safeguards to protect student information.
+Not Recommended
+Indicates that the service does not support encryption or lacks a detailed privacy policy.
+64
+Overall Evaluation
+This Overall Evaluation score represents how the service addressed all our evaluation questions. A higher score (up to 100) means the service provides more transparent and comprehensive policies.
+Overview
+ABCmouse.com helps kids learn to read through phonics, and offers lessons in math, social studies, art, and music. The terms of ABCmouse state they do not allow any social interactions between users of its site, or display a user's information to others publicly. However, the terms specify that ABCMouse may occasionally hold contests or similar activities where a child may create and submit free-form artwork or other content. The terms describe that account registration and login pages use encryption and they employ physical, technical, and administrative security measures to safeguard all information collected by their services. In addition, the terms describe how ABCmouse requires adults to register for its service through various family, teacher, and community center accounts to provide verifiable parental consent and ensure that any child or student authorized by them to use and access the services does so in accordance with their terms.
+The terms specify that accounts for children under 13 will never include any pop-up ads or other advertisements and information collected from children is never used for marketing or for targeted advertising purposes. However, parents and teachers should be aware the terms of ABCmouse describe how the service may use third-party advertising networks to collect cookie information about Adult Users' visits to the non-child-directed portions of the services and to deliver interest-based advertising to those adult users. Interest-based ads may include ABCmouse-branded advertising when those adult users visit other third-party websites across the Internet, which ostensibly provides ABCmouse with statistics about the effectiveness of their advertising for adults.
+ABCmouse can be accessed through its website , and is available for download at the iOS App Store , the Google Play Store , and Amazon Appstore . The Privacy Policy and Terms of Use accessed for this evaluation can be found on ABCmouse’s website , iOS App Store , the Google Play Store , and Amazon Appstore . This evaluation only considers policies that have been made publicly available prior to an individual using the application or service.
+Not intended for teens.
+Intended for students.
+Intended for teachers.
+Geolocation data are collected.
+Behavioral data are collected.
+Parental Consent
+Parental consent is required.
+The terms are unclear about whether or not this product limits parental consent with respect to third parties.
+Parents can withdraw consent for the further collection of their child's information.
+Children's personal information is deleted if collected without parental consent.
+Parental consent notice and method for submission are provided.
+The terms are unclear about whether or not this product discloses COPPA parental consent exceptions.
+The terms are unclear about whether or not this product discloses FERPA parental consent exceptions.
+The terms are unclear about whether or not this product discloses Directory Information.
+Parental consent obligations are transferred to the school or district.
+Safety: Promoting responsible use
+Evaluating safety takes into consideration best practices that protect a user's physical and emotional health. A higher score (up to 100) means the service provides more transparent and comprehensive responses related to safety.
+38
+The terms of ABCmouse state they do not allow any social interactions between users of its site, or display a user's information to others publicly. However, the terms describe how ABCmouse may occasionally hold contests or similar activities where a child may create and submit free-form artwork or other content. Upon submission, ABCmouse may review this content and may publish it along with the child's first name on a page that may be viewed by other ABCmouse users with parental consent.
+In addition, the terms describe a TutorIQ service which is a personal online tutoring in one-on-one or group settings. Parents and teachers should be aware each tutoring session will be recorded by ABCmouse so that the tutor conducting the session may evaluate the child users in the session. The terms encourage parents to use its services with their child if they would like to monitor any content uploaded or created by them. The terms specify that if a parent would like to review all of a child's content, they can access their content by clicking on the "My Files" menu item in their child's "About Me" section of the Services. Additionally, with parental consent, Teacher Accounts can be linked to a student’s Family Account, or parents with no Family Account can be given access through a separate limited access account (a Classroom-Linked Account) to a student’s lessons that have been assigned by a Teacher.
+Evaluating privacy takes into consideration best practices that protect the disclosure of a user's personal information. A higher score (up to 100) means the service provides more transparent and comprehensive responses related to privacy.
+60
+The terms of ABCmouse clearly describe the personally identifiable information and non-personal information automatically collected, as well as behavioral and analytical information collected from people who use the site. The terms state that during registration, the only information the vendor may ask a child who will be using the services to provide is the child’s first name, birthdate, and gender.
+The terms of ABCmouse state that it is "Child Safe" because it is committed to providing children with a learning environment where every activity is just as fun as it is educational, and where parents can feel confident that their children’s privacy is protected. The terms specify that accounts for children under 13 will never include any pop-up ads or other advertisements and information collected from children is never used for marketing or for targeted advertising purposes. However, parents and teachers should be aware the terms of ABCmouse describe how the service may use third-party advertising networks to collect cookie information about Adult Users' visits to the non-child-directed portions of the Services and to deliver interest-based advertising to those Adult Users. Interest-based ads may include ABCmouse-branded advertising when those Adult Users visit other third-party websites across the Internet, which ostensibly provides ABCmouse with statistics about the effectiveness of their advertising for Adults.
+Lastly, ABCmouse specifies in their terms that they may disclose de-identified or aggregated information to third parties for any purpose, for example, the distribution of de-identified user records to outside researchers or the distribution of reports containing aggregate user demographic and traffic patterns.
+Security: Protecting against unauthorized access
+Evaluating security takes into consideration best practices that protect the integrity and confidentiality of a user's data. A higher score (up to 100) means the service provides more transparent and comprehensive responses related to security.
+60
+The terms of ABCmouse specify that account registration and login pages use encryption and ABCmouse uses physical, technical, and administrative security measures to safeguard all information collected by their services. In addition, the terms state ABCmouse limits employee access to children’s PII to only those employees with a need to access the information to fulfill their job. However, the terms of ABCmouse do not include additional transparency or details about its data security practices regarding notification in the event of a data breach.
+Compliance: Following statutory laws and regulations
+Evaluating compliance takes into consideration best practices of companies that collect personal information from children or students and the legal obligations for the privacy and security of that information. A higher score (up to 100) means the service provides more transparent and comprehensive responses related to compliance.
+75
+The terms of ABCmouse state it requires Adults to register for its service through various family, teacher, and community center accounts to provide verifiable parental consent and ensure that any child or student authorized by them to use and access the services does so in accordance with their terms.
+The terms state an adult user can review or change the information they provided when registering for the services, including by adding or removing child users to the account, by updating information through the parent section of the services or, for teacher accounts or community center accounts, by using the class builder or settings feature in the teacher dashboard. In addition, at any time, adult users may contact ABCmouse to request that they provide for their review, or delete from their records, any personally identifiable information that has been provided about child users associated with their Account, or to cease collecting personally identifiable information from those child users.
+Where parents or legal guardians have linked a family account to a teacher account, the adult users of both accounts will be able to review the progress and details of their child users within both accounts. Additionally, with parental consent, teacher or community center accounts can be linked to a child or student’s family account. The terms describe that inking accounts allows a child user or student to complete their teacher’s assignments outside the classroom or community center, and linking a family account to a teacher account gives parents the opportunity to view their own child’s overall progress in the community center account or teacher account (but not the progress of other children).
+About Privacy Evaluations
+The privacy evaluations have been designed with the help and support of a consortium of schools and districts across the United States. These evaluations are designed to streamline making an informed decision about the potential privacy implications of educational technology used to support teaching and learning.
+Our core evaluation criteria are freely available and will remain freely available. People are encouraged to read the questions we use and the information security primer we released . Vendors are encouraged to use our questions and the information security primer to self-evaluate. You can also learn more about our evaluation process .
+Common Sense is the nation’s leading nonprofit organization dedicated to improving the lives of kids and families by providing the trustworthy information, education, and independent voice they need to  thrive in the 21st century.
+Headquartered in San Francisco, with offices in Los Angeles, New York, and Washington, D.C.

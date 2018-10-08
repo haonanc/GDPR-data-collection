@@ -1,0 +1,38 @@
+Cookies help us provide, protect and improve our products and services. By using our website, you agree to our use of cookies ( Privacy policy ).
+Ask Yoast: Having a privacy page and SEO
+Post author
+There are several kinds of pages that you’ll expect to find on most websites: a home page , a contact page or an about page, for example. In this Ask Yoast, I’m going to discuss another type of page: the privacy page. This is a page where you put your privacy policy, which allows your visitors to check, for instance, how their information is handled. Not every website will need a such a page, but what about privacy pages and SEO? Is there a benefit to having a privacy page on your site? Read on to find out!
+Derek Little sent us an email with the following question:
+I’ve heard that having (or not having ) a privacy page is or was a big factor in SEO, and important to Google. Is this still the case?
+Watch the video or read the transcript further down the page!
+Privacy pages and SEO?
+So, does having or not having a privacy page on your site have an impact on SEO?
+“Well, as far as I know, this was only ever a factor for the AdWords quality score, not for SEO itself. So, it was important when you were advertising in AdWords, and not in SEO.  
+At the same time, having a privacy page on your site makes you look all that more professional, which can help, of course, if you’re selling something. So, I would say, make it, think about what you put on there, think about how you deal with the privacy of your visitors and customers. Put that on there, and show that to the world: that’s always a good thing.
+Good luck!”   
+Ask Yoast
+In the series Ask Yoast we answer SEO questions from our readers. Have an SEO-related question? Let us help you out! Send an email to ask@yoast.com .
+(note: please check our knowledge base first, the answer to your question may already be there! For urgent questions, for example about our plugin not working properly, we’d like to refer you to our support page .)
+Read more: Holistic SEO »
+Get free SEO tips!
+Get weekly tips on how to optimize your website's SEO, usability and conversion
+Be the first to know about new features and other cool (free) plugins.
+Get our free SEO for beginners course right away to learn how to make your site rank higher.
+Email
+Yes, give me your free tips
+Yoast respects your privacy. Read our privacy policy on how we handle your personal information.
+Home » SEO blog » Content SEO » Ask Yoast: Having a privacy page and SEO
+Joost de Valk is the founder and CEO of Yoast. He's a WordPress / Web developer, SEO & and an Open Source fanatic. He's also (and more importantly) the father of three sons called Tycho, Ravi and Borre, a daughter called Wende and the husband of the lovely Marieke, who also works at Yoast.
+jono1  • 11 months ago
+seoyab  • 11 months ago
+EKIAA  • 11 months ago
+For a long time, I have believed it to be part of SEO rudiments, knowing fully well i started implementing this PRIVACY POLICY page because of AdSense. Thank you for the information.
+I am yet to agree with your stand on “meta keywords” though.
+Andy Kuiper  • 11 months ago
+Looking forward to seeing you in Vegas next month :-)
+T I Antor  • 11 months ago
+Hey, Joost,
+A great informative post! I have got my answer after reading your post. Many users who are in dilemma of this question can get their answer if they read this post. Great work indeed. Thanks for sharing this informative post.
+haftganj  • 11 months ago
+Check out our must read articles about Content SEO
+© 2003-2018 Yoast BV Yoast is a trademark of Yoast BV

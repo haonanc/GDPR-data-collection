@@ -1,0 +1,76 @@
+Last Updated: August 16, 2018
+We (Placed, LLC) provide services to help advertisers understand and reach audiences that may be interested in their products. We do this by offering apps, software development kits, and other services that collect location and other information from individuals. We use this information - often combined with other information from third-party data providers - to measure the performance of advertisements and help our customers deliver more relevant advertisements.
+This Privacy Policy explains how and why we collect, use, and share information in connection with our services, including our websites, mobile apps, software development kits (SDKs), and other products that link to this Privacy Policy.
+If you have questions about anything in our Privacy Policy, please contact us .
+Information We Collect
+Information You Provide
+We collect information you provide directly to us. For example, we collect information when you create an account, request a download link for one of our mobile apps, download and use any of our mobile apps, request a white paper, participate in a contest or promotion, fill out a form or survey, communicate with us via third-party social media services, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, home address, phone number, social media usernames, survey responses, demographic information and any other information you choose to provide.
+Information We Collect When You Use Our Services
+When you access or use our services, we automatically collect information about you, including:
+Location Information: When you use our services, including our mobile apps and our SDKs integrated into third-party mobile apps, we may collect information about your location. For example, we may collect information about your precise location using GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses. For information about how to opt out of the collection of certain location information, please see "Your Choices" below.
+Device Information: We collect information about the device you use when interacting with our services, including the hardware model, operating system and version, sensor activity, device identifiers (including advertising identifiers assigned to your device), wireless carrier headers, mobile device name, mobile apps installed, and mobile network information. Depending on your device operating system, we may also collect the names of nearby Wi-Fi networks, phone number associated with the device, and whether certain social media accounts are linked to the device.
+Usage Information: We collect information about how you use our services, including the type of browser you use, how long you access our or a third party's online service, pages viewed, your IP address and the page you visited before navigating to our website or a website that integrates our services.
+Information Collected by Cookies and Similar Technologies: We use various technologies to collect information via our websites and apps and the third-party online services that integrate our SDKs and other services. This may include sending cookies to your device and using unique identifiers assigned to your device. These technologies help us understand usage activity, how you respond to ads, what ads may interest you, and see which areas and features of our services (and other apps, websites and online services that integrate our services) are popular. For more information about cookies, and how to disable them, please see "Your Choices" below. Please note we do not respond to Do Not Track signals.
+Information We Collect From Other Sources
+We may also obtain information from other sources and combine that with information we collect through our services. For example, we may receive information from:
+Advertisers and ad networks, including impression and clickstream data (such as the websites you have visited and ads you have viewed or interacted with), location information, and device identifiers;
+Referral partners that enable consumers to download our mobile apps from their websites;
+Various partners that share information about their users with us by matching unique device identifiers or cookie identifiers commonly held between us and those partners. The information we receive from these partners may include your purchase history or TV viewing history; and
+Social media services if you choose to create or log into your Placed account using your credentials from such services (in this case, we will have access to certain information from the social media service, such as your name, account information and friend lists, in accordance with the authorization procedures determined by the service).
+How We Use Information
+We use the information we collect for various purposes, including to:
+Identify where you shop and the places you visit to help advertisers and other businesses learn how you respond to ads, what ads may be interesting to you, and to identify broader trends about consumer behaviors and preferences (see "Sharing of Information" for more details);
+Infer certain details about you, including demographic information and whether separate devices are owned by you or by members of the same household;
+Provide, maintain, personalize and improve our products, surveys, and services;
+Send you technical notices, updates, security alerts, and support and administrative messages;
+Respond to your comments, questions and requests, and provide customer service;
+Communicate with you about products, services, offers, promotions, rewards, and events offered by Placed and others, and provide news and information we think will be of interest to you;
+Process and deliver contest entries and rewards;
+Link or combine with information we collect from or about you; and
+Carry out any other purpose for which the information was collected.
+How We Share Information
+We share location and demographic information, TV viewing data, purchase data, and device and advertising identifiers, with our customers to provide insight into consumer behaviors and preferences and to enable them to tailor market research, attribution modeling, and future ad campaigns based on such data. We may also share this information as follows:
+With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+In response to a request for information if we believe disclosure is in accordance with, or otherwise required by, any applicable law, regulation or legal process;
+If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Placed or others;
+In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company
+Between and among our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+With your consent or at your direction.
+We may also share aggregated or de-identified information.
+Advertising and Analytics Services Provided by Others
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, device identifiers, web beacons, and other technologies to collect information about your use of our services and other websites and apps, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our services and third-party services, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance program, please visit www.aboutads.info/choices . or if you reside in the European Union, http://www.youronlinechoices.eu .   Your device may also include a feature ("Limit Ad Tracking" on iOS and "Opt out of Ads Personalization" or "Opt Out of Interest-Based Ads" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+Your Choices
+Account Information
+For our mobile apps, you may update or correct information you have provided to us by going into the settings screen within the app. If you wish to deactivate your account, please delete the mobile app, but note that we will retain your information as required by law and for business purposes.
+Location Information
+Because the purpose of the Placed mobile apps is to collect location information and other information about you in return for points or other benefits, we require the collection of location information from you in order to earn those benefits. If you initially consented to our collection of location information through our mobile apps or a mobile app that integrates our Services, you can subsequently stop the collection of this information at any time by following the standard uninstall process to remove all of those mobile apps from your device. You can also stop the collection of certain precise location information by changing the preferences on your mobile device. Please note, however, that if you withdraw consent to our collection of location information, you will no longer be able to earn points or other benefits through the Placed mobile apps.
+Cookies
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Optionally, you may choose to specifically reject Placed cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services or the websites and apps that integrate our Services.
+Promotional Communications
+You may opt out of receiving promotional communications from Placed by following the instructions in those messages. If you opt out, please note that we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+Push Notifications/Alerts
+We may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings within our mobile apps or your device settings or by uninstalling our apps from your device.
+Targeted Advertising
+You can opt out of our web-based behavioral targeted advertising by clicking this link .
+Please note that while opting out limits Placed's collection of information to serve you interest-based ads on the web, it does not prevent you from receiving ads from Placed or third parties.
+Your mobile operating system may let you opt-out from having your device identifier (Ad ID or Identifier for Advertising) collected or used for interest-based advertising on mobile devices. You should refer to the instructions provided by your mobile device's manufacturer; this information is typically available under the "settings" function of your mobile device.
+Users Outside the United States
+No matter where you live or where you happen to use our services, your information may be shared with our current and future parents, affiliates, subsidiaries and other companies under common control and ownership. This means that we may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live.
+Data Retention
+We store the information we collect for as long as is necessary for the purpose(s) described above. Additionally, we retain the information we collect to resolve disputes, enforce our policies, and to comply with the law.
+Residents of the European Economic Area
+If you are a resident of the EEA, you have certain rights and protections under the law regarding the processing of your personal data.
+Legal Basis for Processing
+If you are a resident of the EEA, we will only process your personal data:
+Where we or our affiliate has obtained your consent to collect personal data from you;
+When we have a legitimate interest in processing your personal data (e.g., to communicate with you about changes to our services, to advertise our services, and to provide, secure, and improve our services);
+To perform our responsibilities under our contract with you (e.g., providing rewards you have earned or delivering prizes to the winner of a contest);or
+To comply with our legal or regulatory obligations.
+Data Subject Requests
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected or erased.  To make any of these requests please email privacy@placed.com .Please note that because most of the information we store can only identify a particular device, and cannot identify you individually, you may need to provide us with some additional information to enable us to identify the information we hold about you and ensure that we accurately fulfill your request.
+You may also withdraw your consent to our processing of personal data we hold about you by going to the settings menu of the app using Placed services.
+Questions or Complaints
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm .
+Revisions to this Privacy Policy
+We may change this Privacy Policy from time to time. If we do, we will notify you by revising the date at the top of this Privacy Policy. We may also provide you with additional notice, such as providing in-app notifications or notice on our websites.
+Contact Us

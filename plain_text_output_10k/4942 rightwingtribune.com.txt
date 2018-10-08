@@ -1,0 +1,99 @@
+Shopcast is the anticipated world first ecommerce tool that allows your brand ambassadors to bring legions of engaged shoppers to your site. With Shopcast visitors stay longer, and buy more.
+Your privacy is important
+This policy applies to information we collect when you choose to use this website, and also to personal information which we process further to supplying services to our clients.
+We take your privacy very seriously and we ask that you read this privacy policy carefully as it contains important information on the personal information we collect about you; what we do with your information and who your information might be shared with.
+This website is owned and operated by Bunting Software Limited and our registered office is at Bunting Software, floor 2 WeWork, 1 St Peters Square, Manchester, England, M2 3AE.
+Who we are
+Bunting Software Limited is a 'data controller' for the purposes of the Data Protection Act 1998 and, as of 25 May 2018, the General Data Protection Regulation ('GDPR') (as applicable the "Legislation") where we control the purposes for which we process your personal information.
+We are the 'data processor' where we are processing your personal data in order to provide services to our clients.  In either case we comply with the Legislation.
+Any questions about our data protection policy or how we handle your personal data should be addressed to Bunting Software Ltd at gdpr@ bunting.com
+What information do we collect?
+Personal information provided by you
+We collect personal information about you (such as your name, contact details), for example your email address when you make an enquiry, register with us or purchase products or services from us.
+Personal information provided to and by third parties
+We may send information about you to other sources for transactional purposes and only that which is necessary in order to fulfil our business requirements. Here are the sources:
+Amazon Web Services is used to host our website on cloud servers based in the United Kingdom and Ireland (in the EU).
+Google Analytics is used to analyse our website data such as number of visits and page views.
+HubSpot is used for our contacts and sales database (CRM).
+Intercom is used for website visitor support.
+Gmail is used for our email system.
+HRLocker is the HR and hiring software we use to process job applications.
+Personal information about other individuals
+If you give us information on behalf of someone else, you confirm that either;
+the other person has a contractual relationship with you and knows that you will be transferring their personal data to us for specific purposes and/or
+s/he has appointed you to act on his/her behalf and has agreed that you can:
+give consent on his/her behalf to the processing of his/her personal data
+receive on his/her behalf any data protection notices
+give consent to the processing of his/her personal data (as listed below).
+Sensitive/special category personal information
+Use of cookies
+A cookie is a small text file which is placed onto your computer (or other electronic device) when you use our website. We use cookies on our website.
+Where applicable, this website uses a cookie control system allowing you on your first visit to the website to allow or disallow the use of cookies on your computer/device. This complies with GDPR legislation requirements for websites to obtain explicit consent from users.
+We may monitor how many times you visit the website, which pages you go to, traffic data, location data and the originating domain name of a user's internet service provider, to improve your experience whilst visiting the website, and better understand how you use it.  This information helps us to build a profile of our users. Some of this data will be aggregated or statistical, which means that we will not be able to identify you individually.
+You can set your browser not to accept cookies and the websites below tell you how to remove cookies from your browser. However, some of our website features may not function as a result.
+For more information on our use of cookies, including a detailed list of your information which we and others may collect through cookies please see our website cookie policy .
+For further information on cookies generally visit www.aboutcookies.org or www.allaboutcookies.org.
+How will we use the information about you?
+We collect information about you so that we can:
+identify you and manage any accounts you hold with us
+provide the services requested
+if you agree, let you know about other products, content or services that may be of interest to you (see 'Marketing' section below)
+detect and prevent fraud
+customise our website and its content to your particular preferences
+notify you of any changes to our website or to our services that may affect you
+improve our services
+Marketing and email newsletter
+With your consent, we use any information submitted to us by you to provide you with further information by email about the products and services we offer which you have requested and/or which may be of interest to you.
+As part of our services we supply an email newsletter which we use to inform you about products and services supplied by us.  You can choose to unsubscribe at any point by clicking on the link at the bottom of the email.
+Email marketing campaigns published by us may contain tracking facilities within the actual email.  Subscribed activity is tracked and stored in a database for future analysis and evaluation.  Such tracked activity may include: the opening of emails, forwarding of emails, the clicking of links within the email, consent, times, dates and frequency of activity.
+Who your information might be shared with
+We may disclose your personal data to:
+our service providers such as CRM, recruitment and marketing automation software providers.
+law enforcement agencies in connection with any investigation to help prevent unlawful activity.
+Keeping your data secure
+Our staff are bound by obligations of confidentiality and trained in the protection of personal data.  We comply with the Legislation and use the appropriate technical and organisational measures necessary to safeguard your personal data.  We only share your personal data with third parties who also comply with the Legislation.
+While we will use all reasonable efforts to safeguard your personal data, you acknowledge that the use of the internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal data that is transferred from you or to you via the internet. If you have any particular concerns about your information, please contact us (see 'How can you contact us?' below).
+We only send your data outside the European Economic Area where we have in place a legal agreement which complies with the GDPR Legislation.
+What can I do to keep my information safe?
+If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses.
+Retention Periods
+We store your personal data on secure Amazon AWS servers and routinely delete aged data when it is no longer of use.
+We delete customer accounts after one year of inactivity.
+What rights do you have?
+The GDPR provides the following rights for individuals whose personal data is processed:
+The right to be informed
+The right of access
+The right to rectification
+The right to erasure
+The right to object to processing
+Rights in relation to automated decision making and profiling (We do not carry out automated decision making and profiling)
+Right to access – i.e., to request a copy of your information
+You can request a copy of your information which we hold free of charge (this is known as a subject access request). If you would like a copy of some or all of it, please:
+Email us at gdpr [at] bunting [dot] com;
+or write to us at Bunting Software, WeWork floor 2, 1 St Peters Square, Manchester, England, M2 3AE
+let us know what information you want.
+We will advise you as to how to prove your identity.
+Right to correct any mistakes in your information
+You can require us to correct any mistakes in your information which we hold, free of charge. If you would like to do this, please:
+email or write to us
+let us know the information that is incorrect and what it should be replaced with.
+We will advise you as to how to prove your identity.
+Right to remove your details from our records or restrict how we use your information
+You can ask us to stop contacting you for particular purposes or remove your information completely from our records. If you would like us to do this please:
+email or write to us. To stop us contacting you, you can also click on the 'unsubscribe' button at the bottom of our emails and/or newsletters.
+Right to data portability
+You can request to obtain your data to reuse across different services. We will send you your data in a format to allow portability. If you wish to do this:
+email or write to us.
+let us know the data you require.
+Right to lodge a complaint with the Supervising Authority
+If you have any concerns or complaints about how we use your personal data we hope you will alert us to these directly.  If you are still unhappy you are entitled to complain to the Information Commissioner's Office (ICO) which is the supervising authority in the UK. Their contact details and the procedure can be found at http://www.ico.gov.uk
+How to contact us
+If you have any further questions about your data and privacy, or you would like to contact us about any of the above you can reach our Data Protection Officer via the following:
+For GDPR: gdpr@bunting. com
+By post: Data Protection Officer, Bunting Software Limited, Accelerate Places, 101 Princess Street, Manchester, England, M1 6DD.
+Changes to the privacy policy
+We may change this privacy policy from time to time. You should check this policy occasionally to ensure you are aware of the most recent version that will apply each time you access this website or use our services.
+Bunting Software Limited
+We use cookies to offer you a better browsing experience, analyze site traffic, and personalize content.
+You can read about how we use cookies , and change cookie settings . If you continue to use this site, you consent to our use of cookies.
+Accept cookies

@@ -1,0 +1,150 @@
+Mercari Europe Ltd: Privacy Policy
+This Privacy Policy applies to Mercari Europe Ltd (Company No 09882090)          ("Mercari Europe") and Merpay Ltd (Company No 10137848) ("Merpay")          (together "Mercari", "our", "us" and "we").          Mercari Europe and Merpay are controllers for the purposes of data protection law.
+This Privacy Policy (together with Mercari Europe’s Terms & Conditions ,          Merpay’s Terms & Conditions and any other documents referred to in it) sets out the basis on which any personal information          we collect from you, or that you provide to us, will be processed by us.          Please read the following carefully to understand our views, practices and policies          regarding your personal information and how we will use, store and share it.          If you do not agree with the practices described in this Privacy Policy,          please do not provide us with any personal information.
+We respect your concerns about privacy and are committed to protecting it.          This Privacy Policy describes the types of personal information we collect through          the application for your mobile device (the "App") provided to you by us, and our website          at https://www.mercari.com/uk/ ("Website") as well as all related web sites, networks,          downloadable software, and other services provided by us and on which a link to this          Privacy Policy is displayed (collectively, together with the App and Website,          our "Service") and describes the measures we take to protect the security          of the personal information. It also tells you how to reach us to ask us to:          (i) access, change or discontinue use of your personal information; (ii) withdraw          consent previously provided to us to process your personal information; (iii) refrain          from communicating with you about our Service; and, (iv) answer any queries you may          have regarding our privacy practices.
+This Privacy Policy does not apply to information collected by any third party, including          through any third party content (i.e. advertising that may link or be accessible from or          on the website).
+Changes to this Privacy Policy:
+This Privacy Policy was last updated on the "Effective Date" noted below.            Mercari reserves the right to change, modify or amend this Privacy Policy from            time to time to reflect changes in our privacy practices and will be inline with the            General Data Protection Regulation (Regulation (EU) 2016/679 - "GDPR").            You are encouraged to review this Privacy Policy periodically and to check the "Effective Date" at the top of this Privacy Policy for the most recent version,            to inform yourself about how your Personal Information is collected, used and            shared when you use the Service. To the fullest extent under applicable law,            your use of the Service after the "Effective Date" means you are subject to            the Privacy Policy then in effect.
+INFORMATION WE MAY COLLECT FROM YOU AND HOW WE USE IT
+1. What personal information do we collect from you?
+Information you provide to us
+We request your personal information when you make a purchase, register a product,            request a service, answer a survey, enter a contest, correspond with us, engage in            activities on the Service, or receive the Service.
+You make the decision whether to proceed with any activity that requests personal            information. If you do not wish to provide the requested personal information,            however, you may not be able to complete the transaction.
+My Account - "Sign in to Mercari"
+You may wish to register to create an account on this Service. To do so we may ask            for information - your full name, email address, telephone number and a password.            Alternatively, your account registration may be undertaken via a third party platform,            such as Facebook, Twitter or Google using your twitter handle, Facebook ID or Google Plus ID.
+Making purchases on our Service
+If you use the Service and purchase a product through our Service, we will collect            certain personal information about you in order for your order to be processed            and fulfilled. This information may include your name, billing and shipping address            information, email address, telephone number and payment card information.
+Shipping products using our App
+If you use the Service and ship a product through our Service, we will collect certain            personal information about you in order for your shipment to be conducted. This            information may include your name and address information of shipment origin.
+Redemption of sales amount
+When you request to redeem your sales amount from your Merpay e-money account,            we will collect certain personal information about you in order to transfer your            sales amount to your designated bank account. This information may include your            bank account information.
+Contests and Promotions
+You may be able to participate in contests and promotions. If you choose to            participate in these promotions, we may ask for information such as your full name,            email address, confirmation of age bracket, twitter handle, Facebook ID,            Google Plus ID, postal address, and phone number. We use this information to            administer our contests and other promotions.
+Customer Due Diligence
+When you use Merpay’s services, as required by law, we may perform due diligence            procedures based on the collection of your name, date of birth, residential address,            nationality, ID number such as passport, driver’s licence. This information will be            collected from you directly and/or third parties.
+The above personal information is processed for the purposes of our contractual            obligation to provide the Service to you.
+Information we collect automatically or from third parties
+When you use our Service, we collect and process usage data about your use of            our Service such as how many users arrive, the length and frequency of stays,            the types of browsers and computer operating systems used by our users and            Internet Protocol ("IP") addresses from which our users connect to our Service            (meaning the address that identifies the device you use to connect to our Service).
+This information, combined with the details you have provided us with, enables us to            customise your visits and enhance your shopping experience by gathering demographic            information about you. It may also help us diagnose problems with our servers and            software. The above personal information is processed for the purposes of our            legitimate commercial interest in improving and developing the Service for your            individual needs and also for the evolution of the Service generally. However,            in order to safeguard your rights as a user we only use pseudonymous personal information            or anonymous data so that it is not possible to identify you as an individual without            additional information. Please note that we will not attempt to identify you as an            individual using any pseudonymous personal information in our possession and that we cannot identify you as an individual using anonymous data in our possession.
+We may also receive information about you if you use any of the other websites            we operate or the other services we provide. We work closely with third parties            (including, for example, business partners, sub-contractors in technical, payment            and delivery services and advertising networks) and may receive information about            you from them. We allow these third parties to obtain personal information for            providing support services. Please note, our third party contractors may change            from time to time as we continue to offer more services and continue to improve            our offerings. Such third parties may have access to your personal information            for the purposes of  providing services on our behalf as processors, but they may            not use your information for any other purpose beyond what we direct them to do.
+As Merpay is an authorised electronic money institution ("EMI") authorised and            regulated by the Financial Conduct Authority, it is required to comply with anti            money laundering and counter terrorist financing legislation, and financial and            payment services regulations. Therefore, Merpay is required identify and verify users.            Merpay is required to verify customers and we do by requesting personal information from you (see Section 1:            Customer Due Diligence) and then verifying that information by checking that            it against information held by third party verification service providers (i.e.            Sift Science, KYC6 and ID3Global GB Group) - this information is usually from            within the European Economic Area ("EEA") but may be processed outside the EEA.
+Consent
+Under GDPR your consent to the processing of personal information must be a statement            or a clear affirmative action that is freely given, specific, informed and unambiguous.            Where we rely on your consent to process your personal information you have the right            to withdraw that consent at any time (see section 2: Electronic Marketing).
+2. How do we use the information we collect?
+We use personal information in the following ways:
+To facilitate payments between the users of the Mercari online marketplace in relation              to the sale and purchase of goods and to provide e-money accounts and services.              This will involve the transfer of your personal information (including financial data)              from Mercari Europe to Merpay.
+To provide you – subject to your marketing preferences – with information about product              upgrades, new products, services, newsletters, informative emails and research on              future product ideas or improvements.
+To assist us in creating content that is relevant to you.
+To provide you – subject to your marketing preferences – with special offers that              may be of interest to you.
+To invite you to participate in online surveys or give us product feedback online.
+To assist us in creating better products and services to meet your needs.
+To allow you to download documents, obtain access to services or otherwise              engage in activities you select.
+To help you quickly find software, services or product information important to              you.
+To perform due diligence procedures required by applicable law. This will              involve the transfer of your personal information to and from a third party              service providers.
+To process/store your personal information. This will involve the transfer of              your personal information to third party service providers.
+You can object to a use of your personal information for marketing and market and            opinion research (see Section 2: Electronic Marketing).
+Mercari Europe and Merpay share between themselves personal information that they            have collected from you or have received from third party verification service            providers (i.e. Sift Science, KYC6 and ID3Global GB Group). Please note we will            only use and/or share the minimum amount of personal information that is required            to achieve our objectives.
+Retention
+We only retain personal information for as long as we need it for our business purposes,            e.g. the provision of the Service. Where possible we will pseudonymise or anonymise            personal information for our use in order to protect it.
+We will retain personal information about a user’s identity, the purchases and sales            made by the user, and the user’s conduct during their relationship with us for a period            of 6 years commencing on the termination of our relationship. We do this in case there            is a complaint regarding our conduct or the user’s conduct during the period of our            relationship so that we can defend any claims or counterclaims made against us.
+Where Merpay is required as an EMI to collect and retain personal information            in compliance with the law, Merpay does so for the minimum retention period specified            by law taking into account practical considerations. Merpay will retain personal            information related to customer due diligence for a period of 5 years commencing            on the termination of our relationship. Merpay will retain personal information            related to a payment transaction for a period of 5 years commencing on the date            of the payment transaction.
+Electronic Marketing
+From time to time, we may send you marketing emails with information about new            products and services, as well as newsletters relating to our product and services            offerings to the extent you have consented to the receipt of such marketing emails or            the sending of such marketing emails is otherwise permitted by applicable laws. If            you sign up for our marketing email list or for the marketing email list for an affiliate            brand, then you will be asked to provide your email address. If you do not wish to            receive emails from Mercari, then please click on the unsubscribe link provided in the            email in question. Generally, we use information from our marketing and research            communications in an aggregated and anonymised way.
+As a user of the Service, our processing of your personal information for marketing            and other advertising purposes is based on your consent. Within the App you have an            online switch that allows you to consent to receiving direct marketing from us, or            withdraw that consent. You may opt out of receiving such material at any time by going            to your privacy settings and selecting withdraw your consent "Marketing emails".
+Profiling
+We currently do not make decisions about our users based solely on automated decision            processing, which produces legal effects concerning them or similarly significantly            affects them.
+Cookies
+Mercari uses the industry-wide technology called cookies. A cookie is a unique text            file that is sent to your browser software when you use the Service. Cookies enables            us to tailor information presented to you based on your browsing preferences. We may            use cookies to personalise your pages, or to remember you when you register products            or services. We may also use cookies to track the visits to our Service with Google            Analytics software. The information hereby gathered helps us to optimise the content,            navigation and performance. You may object to the analysis of your anonymous browsing            behaviour by us for direct marketing, market and opinion research or the adaption of            the Service to your needs. In order to do so please set your browser settings to reject            cookies before using the Service. Please note that rejecting cookies may affect your            ability to use parts of the Service. For further information, please refer to our Cookies Policy .
+3. How do we protect your personal information?
+In order to guarantee the security of your personal information we have set in place            a series of security measures and safeguards. Your personal information is stored on            secure networks that may only be accessed by a limited number of persons holding special            access rights and who undertake to respect and maintain its confidential nature.            We maintain appropriate administrative, technical and physical safeguards to protect            the personal information collected via the Service against accidental, unlawful or            unauthorised destruction, loss, alteration, access, disclosure or use and other            unlawful forms of processing.
+4. Transfer of personal information to other countries
+We may transfer the personal information we collect about you to countries other than            the country in which you originally provided it including outside the EEA where            necessary to allow your use of the Service. Countries outside the EEA may not provide            for the same level of data protection as the country in which you provided the information            (or other countries within the EEA). When we transfer your information to other countries,            we will protect that information as described in this Privacy Policy. We only transfer            personal information outside the EEA for the purposes of processing personal information            on our behalf; this processing currently takes place only in the United States ("US")            and Japan. Personal information processed in the US is done so under the EU-US Privacy Shield or            under a contract incorporating standard contractual clauses approved by the European Commission. Personal information processed in Japan            is done so by our group company Mercari Corporation under a data processing agreement incorporating standard contractual clauses approved by the European Commission.
+5. Who has access to your personal information and to what extent?
+In addition to the companies mentioned, we do not sell, trade or transfer            your personal information in any form to third parties without informing you            first and in accordance with the personal information protection legislation            currently in effect.
+Your personal information may be transferred to outside contractors to provide services            for us. They may be used to provide technical support. We require that these contractors            keep your personal information secure and confidential. We also require that these            contractors use personal information only on behalf of Mercari.
+Links and Social Media
+In order to improve our Service, we may include links to websites of third parties. We            are not responsible for the privacy practices of these websites. We encourage you to            read their privacy statements, as they may differ from ours.
+The Service Providers who process your personal information on our behalf as processors are:
+Mercari Corporation
+6. Choices and opt-out
+We provide a number of ways for you to review, edit or delete your personal information or to 'opt out' of receiving additional information from us. We may offer you these            choices at the same time you give us personal information (see Section 2: Electronic Marketing).
+You may also review, update or delete your account by editing your account and profile            settings in the registration area. To protect your privacy and security, we will take            reasonable steps to verify your identity before granting access or making corrections            (see Section 7).
+If you experience difficulties in changing or deleting your personal information you            may contact us for assistance (see Section 10).
+7. Your rights under GDPR
+You have the following data rights:
+The right of access.
+The right to erasure (i.e. the right to be forgotten).
+The right to restriction of processing.
+The right to data portability.
+The right to object.
+Please submit your request to the address specified below in Section 10: Contact us.            Please include your name, email address and postal address in your request.            In order to process your request to exercise your data rights we may require you            provide us with such additional information or documents as specified in order to            verify your identity before we can process your access request. Your request will            be deemed to be received on the date we verify your identity.
+We will respond to requests within one month of our receipt of your request.            If your requests are complex or numerous, we will inform you within the initial            one-month response period that we will require a further two months in which to            respond, i.e. we will respond within three months of our receipt of your request.
+Where you make a request electronically we will respond electronically by email or by granting you remote access to a secure self-service system, which would            provide you with direct access to your information.
+Right of access
+confirmation that your personal information is being processed;
+a copy of the personal information held about you excluding any personal              information that is prohibited from providing such as data that would adversely              affect the rights or freedoms of others; and
+a copy of this privacy notice.
+The information will be provided free of charge except where:
+the request is manifestly unfounded or excessive, particularly if it is repetitive;
+the request is for further copies of the same information.
+In these cases we will charge a fee of £50 which will cover our administrative cost for            providing you with the information.
+Please note that if we find your access request to be manifestly unfounded or excessive,            we may refuse to provide the requested information. In this case we will inform you why            we are not providing you with the information set out above, that you have the right to            complain to our supervisory authority for data protection purposes, the Information            Commissioner’s Office ("ICO"), and that you have a right to file a case with the courts.
+Right to rectification (correction)
+You have the right to have any personal information corrected if it is inaccurate or            incomplete. We may require you to provide documents or additional information to demonstrate            that the personal information is inaccurate or incomplete.
+If we have disclosed such personal information to third parties, we will contact each third            party and inform them of the correction unless this proves impossible or involves disproportionate            effort. If you expressly request us to do so, we will inform you about these third parties.
+If we refuse to comply with your request, we will inform you why we are not making the            corrections, that you have the right to complain to the ICO and that you have a right to file            a case with the courts.
+Right to erasure
+The right to erasure only applies when:
+the personal information is no longer necessary in relation to the purpose for which it was              originally collected/processed;
+you withdraw consent for the processing of personal information where consent is the sole              legal basis of the processing;
+you object to the processing and there is no overriding legitimate interest for continuing              the processing;
+the personal information is being unlawfully processed;
+the personal information has to be erased in order to comply with a legal obligation;
+the personal information is processed in relation to the offer of information society              services to a child.
+We may refuse to erased the personal information if the following conditions apply:
+the personal information is processed to comply with a legal obligation for the             performance of a public interest task or exercise of official authority; or
+the personal information is processed for the exercise or defence of legal claims.
+If we have disclosed personal information that is to be erased to third parties,            we will contact each third party and inform them of the erasure unless this proves            impossible or involves disproportionate effort. If you expressly request us to do so,            we will inform you about these third parties.
+Right to restriction of processing
+We will restrict the processing of personal information in the following circumstances:
+Where you contest the accuracy of the personal information, we will restrict the processing              until we have verified the accuracy of the personal information.
+Where you have objected to the processing (where it was necessary for the performance of a              public interest task or purpose of legitimate interests), and we are considering whether our              legitimate grounds override your interest, rights and freedoms.
+When processing is unlawful and you oppose erasure and request restriction instead.
+If we no longer need the personal information but you require the data to establish,              exercise or defend a legal claim.
+If we have disclosed personal information that is to be subject to restriction to third parties,            we will contact each third party and inform them of the restriction unless this proves impossible            or involves disproportionate effort. If you expressly request us to do so, we will inform you            about these third parties.
+We will inform you if we decide to lift the restriction on processing.
+Right to data portability
+to personal information that you have provided to us;
+where the processing is based on your consent or for the performance of a contract; and
+when the processing is carried out by automated means.
+We will provide you with this personal information in form of a .CSV file or another file            format that is agreed upon in advance and presents the personal information in a structured,            commonly used and machine readable form.
+We will provide this information free of charge. If you so request, we transmit the information            directly to another information if this is technically feasible.
+If we refuse to comply with your            request, we will inform you why we are not providing the information, that you have the right to            complain to the ICO and that you have a right to file a case with the courts.
+Right to object
+You have the right to object to our processing of your personal information based on our            legitimate interests on grounds relating to your particular situation except:
+where we can demonstrate compelling legitimate grounds for the processing, which              override your interests, rights and freedoms; or
+the processing is for the establishment, exercise or defence of legal claims.
+You have the right to object to our processing of your personal information            for direct marketing purposes.
+We will comply with your objections unless an exception applies.
+8. Children
+We do not knowingly collect personal information from children under 13. No-one            under age 13 may provide any information to or on the Service. If you are under the            age of 13, do not register on the Service or use the Service or provide any personal            information to us, including your name, email address or any screen name or user            name you may use. If we come into the possession of such personal information,            we will deleted it.
+9. Transfer of Ownership
+In the event that Mercari goes through a business transition, such as a merger,            acquisition by another company, or sale of all or a portion of its assets, your personal            information will likely be among the assets transferred. If so, you will be notified via            email and/or by way of a prominent notice on the Service which will be displayed for            at least thirty (30) days with information regarding change in ownership, uses of your            personal information, and choices you may have regarding your personal            information.
+10. Contact us
+Should you have questions about this privacy policy, the privacy aspects of our            products and the Service or would like to make a complaint, please contact us            using the details set out below:
+Address: Mercari Customer Support, Mercari Europe Ltd, 5th Floor, The Record Hall,            16-16a Baldwin’s Gardens, London EC1N 7RJ
+If you contact us may be asked for information such as your name, email address,            postcode and telephone number. We will use this information to respond to and            communicate with you about your questions and comments.
+11. Data Protection Officer ("DPO")
+Should you need to contact our DPO, please contact them using the details set out below:
+Address: Data Protection Officer, Mercari Europe Ltd, 5th Floor, The Record Hall,            16-16a Baldwin’s Gardens, London EC1N 7RJ
+Email: uk-dpocontact@mercari.com
+12. ICO
+You have the right to contact the ICO to complain about our processing of your            personal information. The ICO can be contacted by:
+(i) live chat (Monday to Friday, 9am to 5pm) – ico.org.uk/global/contact-us/live-chat;
+(iii) web form – ico.org.uk/global/contact-us/email/ ;
+(iv) phone – 0303 123 1113 (calls from within the UK) or +44 1625 545 700              (calls from outside the UK); and
+(v) post – Information Commissioner's Office, Wycliffe House, Water Lane,              Wilmslow, Cheshire SK9 5AF, UK.
+Effective Date: 31 January, 2017
+Updated: 17 May, 2018
+They're not as good as real cookies, but the ones on our site give you the best possible experience. Continue to browse and we'll take that as acceptance of our Cookie Policy .
+Mmm, cookies. Continue to browse and we'll take that as acceptance of our Cookie Policy.

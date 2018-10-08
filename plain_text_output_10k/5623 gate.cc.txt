@@ -1,0 +1,65 @@
+×
+This privacy and data protection policy is aimed to inform you about our services, the types of personal data we are provided or obtain, how we use that information, whether we disclose the information provided to us to others and the rights you have with regard to the use of and correction of this information.
+Introduction
+CommerceGate Ireland Ltd. (CommerceGate) provides its partners and suppliers with a variety of fulfillment, support and E-commerce related services. Some of these services may be provided through sites bearing our partners and suppliers names and trademarks.
+CommerceGate, its subsidiaries, partners and affiliated companies respect the privacy of our partners and suppliers of products or services, clients and their customers.
+This privacy and data protection policy does not apply to websites or services that are not own or controlled by CommerceGate, including websites or services of other CommerceGate users.
+Our goal in handling personal data provided to us in connection with the processing of transactions through our Payment Forms and / or APIs is to comply with applicable data privacy and protection laws and to offer users of our website notice, choice, consent, security, data integrity, access and enforcement with regard to personal data provided to us by individuals in conjunction with those transactions.
+BY CHOOSING TO CONTINUE TO USE OUR SERVICES, YOU ARE CONSENTING TO USE OF YOUR PERSONAL DATA AS CONTAINED IN OUR PRIVACY AND DATA PROTECTION POLICY. YOU CAN WITHDRAW YOUR CONSENT AT ANYTIME SENDING AN EMAIL TO:
+How we obtain your personal data
+We may obtain your personal data when you use our services through the following:
+Registration and Verification: While registering on our site to establish an account, we will request for the necessary personal data to avail the services requested. Such personal data may include; name, website, telephone number, address, electronic mail address, business registration/incorporation certificates, identity card. We may as well request for additional personal data as you use our services.
+Transaction Data: When you transact using our services, we will request for the transaction details and all reasonable information regarding the transaction. This information may include; account name, account number, transaction amount, device usage, geolocation, IP, Email address, participant/recipient data.
+Third Party Sources: Depending on the nature of the services provided by CommerceGate to our partners or suppliers, CommerceGate may receive personal data either from you directly or from our partner or supplier who provides us with the personal data to fulfill a service to you on their behalf.
+Customer Support: When interacting with our customer service, you may be asked to provide us with additional personal data.
+Why do we retain your personal data
+We are bound by the General Data Protection Regulation ( Regulation (EU) 2016/679 ) and Ireland Data Protection national law. We retain your personal data to fulfill our legal and regulatory obligations:
+Identify you under the 4th Anti Money Laundering Directive ( Directive (EU) 2015/849 ) (“4th AMLD”) and Ireland National Law;
+To process payments between under the Payment Services Directive ( Directive (EU) 2015/2366 ) (“PSD2”) and Ireland National Law.
+In the event that your account is closed, we reserve the right to retain and access the data for as long as required to comply with applicable laws.
+Use of your personal data
+Some of the ways in which we will use the personal data provided us includes:
+to take, process or deliver your order, process or obtain payment or notify you of the status of your purchase;
+to provide it to industry and credit related organizations for security, credit or fraud prevention purposes;
+to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
+to facilitate the renewal of subscriptions for products or services;
+to provide you with technical support;
+to monitor service or purchasing patterns;
+and to manage risk and protect the site.
+The personal data we receive may as well be transferred to other countries or regions for processing. We will undertake to obligate any person or entity receiving such information to process any such information in accordance with this Privacy and Data Protection Policy and in accordance with applicable laws. By submitting your order either to our partner or to us, you consent to the use of your personal data as set forth above and the transfer of that data as outlined.
+Sharing your personal data
+We may share your personal data for the following reasons:
+In some circumstances, we may share your personal data with our partners or suppliers in order for them to fulfill a service to us for your benefit or directly to you. The personal data may include but not limited to your name, mailing address, phone number, and other data required to provide you with the products, services or support requested. We will share your personal data subject to your consent and/or direction with third parties.
+We may share your personal data with the companies/organizations we engage to provide services to us in connection with your transaction. Such engagement includes: to process credit card payments, send mail, analyze data, provide customer service, and otherwise provide services to us to enable us to serve you and enhance our services. These companies/organizations may have access to personal data as required to permit them to perform their obligations to us. We will require these companies / organizations to undertake to protect such personal data and to only use it in accordance with applicable laws and for the purposes for which they are specifically engaged.
+We may also provide links from our Website to third party websites who may provide services to you directly and/or on our behalf.
+THE PRIVACY POLICIES OF THESE THIRD PARTY SITES MAY BE DIFFERENT FROM OUR PRIVACY POLICIES AND WILL GOVERN ANY TRANSACTIONS UNDERTAKEN ON THAT SITE. COMMERCEGATE AND SUCH THIRD PARTY SITES HAVE THEIR INDEPENDENT DETERMINED PRIVACY AND DATA PROTECTION POLICIES, NOTICES AND PROCEDURES FOR PERSONAL DATA THEY HOLD AND ARE EACH INDEPENDENT DATA CONTROLLER AND NOT JOINT DATA CONTROLLERS.
+We therefore urge you to review the privacy policy of any site to which you are linked.
+The personal data we receive may be transferred to other countries or regions for processing. We will undertake to obligate any person or entity receiving such personal data to process any such data in accordance with this privacy and data protection policy and in accordance with applicable laws.
+CommerceGate will not share or use your personal data in ways unrelated to the purpose for which you provided us the personal data, without providing you the opportunity to consent to such unrelated uses.
+CommerceGate will not use your personal data to send you communications about special offers, product information or other marketing messages.
+CommerceGate does not sell, trade or rent personal information to anyone.
+With the presence of a legal or regulatory obligation public authorities and institutions (European Banking Authority, European Central Bank, Central Bank of Ireland, Garda Bureau of Fraud Investigation (GBFI), other financial authorities, law enforcement agencies, etc.) could receive your personal data.
+Personal data protection
+Customers who use the CommerceGate system are on a secure server which encrypts all of a customer’s personal data. This makes it difficult, if not impossible, for a third party to access or use your personal data in an unauthorized manner. CommerceGate has developed its service with security as a top priority. We use firewalls to prevent access to information in our system and Secure Socket Layers (“SSL”) to encrypt your personal data and protect it from disclosure, destruction, modification or use.
+About cookies
+CommerceGate uses third-party cookies to measure and monitor the activity at our payment form whilst providing you the service.
+You can set your browser to reject cookies or to notify you when a website attempts to place a cookie in your browser.
+Your rights
+Your rights by using the CommerceGate services, regarding your personal data, include:
+The right to access to the provided personal data;
+The right to rectification of the provided personal data;
+The right to erasure the provided personal data. You understand that Your personal data related to our performance or compliance with either the 4AMLD ( Directive (EU) 2015/849 ) and PSD2 ( Directive (EU) 2015/2366 ) will be retained by us as a data controller for a minimum of five (5) years as required by law, and that such data may not be subject to a ‘right to be forgotten’;
+The right to restrict processing. In this case, you will not be authorised to continue purchasing using the CommerceGate services. Aslo any ongoing subscriptions will be cancelled;
+The right to data portability of the provided personal data.
+You can exercise any of this rights ending your request to: dpo@commercegate.com
+You also have a right of appeal to the Ireland Office of the Data Protection Commissioner as a regulatory authority if you are of the view that the processing of your personal data is not occurring in accordance with the law: https://www.dataprotection.ie
+As a Payment Institution, CommerceGate Ireland Ltd. is required to perform due diligence in the prevention money laundering and financing of terrorism, obligated to gather certain documents and information from persons upon the establishment of a business relationship. Pursuant to the Ireland Money Laundering laws ( Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 ), the payment institution is required to determine and verify the identity of customers, the financial holdings of customers or any trusters of the customer, to evaluate the purposes pursued by the customer and the intended form of business relationship, to gather and verify information about the source of the invested means, as well to continually monitor the business relationship and the transactions executed in the framework of this relationship. The payment institution must especially retain copies of the received documents and information which are required for the fulfilment of the described due diligence requirements as well as transaction receipts and records which are necessary for the investigation of transactions. These laws grant the Payment Institution the legal authority within the meaning of Data Protection Law to use the mentioned customer data for the purpose of exercising due diligence requirements pertaining to the prevention of money laundering and financing of terrorism, to which requirements the institution is legally subject and which serve the public interest. The processing of data within the scope of the described due diligence requirements are based on a legal obligation of the payment institution. An objection by the client to these uses of data thus may not be observed by the payment institution.
+Changes to this privacy policy
+We may amend this Privacy Statement to remain compliant with any changes in law and/or to reflect how our business processes personal data. This version was last updated on 25th May 2018. The most recent version is available at https://www.commercegate.com
+Contact information
+CommerceGate Ireland Ltd.
+Registered at: 32 Merrion Street, Dublin 2, D02 KW80, Dublin, Ireland.
+CommerceGate is a private limited liability company, incorporated under the laws of Ireland and registered under the number 423009.
+Phone: +34 931 149 991 • info@commercegate.com • www.commercegate.com
+For questions, enquiries or comments concerning our PRIVACY AND DATA PROTECTION POLICY, please contact our Data Protection Officer at dpo@commercegate.com
+Last updated:  25/05/2018

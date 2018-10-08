@@ -1,0 +1,93 @@
+PRIVACY POLICY FOR USE OF FAO APPLICATIONS
+By downloading and using the FAO Application, you acknowledge and agree that these Terms and Conditions shall apply, including in connection with the processing of any personal or third party data you may make available through the FAO Application.
+1.Definitions
+The following definitions shall apply to these Terms and Conditions.
+Authorized vendor and/or subcontractor:
+a company, organization, institute or other legal entity which may supply goods, works or services to FAO in relation to any FAO Applications, and authorized by FAO to access to and/or process data in accordance with these Terms of Conditions.
+Contact Data
+means data provided by you when contacting FAO by any means, including by sending an email or filling a form. The Contact Data comprise: (a) your name and/or surname, (b) your email address; (c) your postal address; (d) your telephone number; (e) the organization or company you are representing or working for, if applicable; (f) any other content or information conveyed by means of your communication to FAO. The Contact Data may include Personal Data.
+Database Data
+Data other than contact, personal or registration data provided by you by using the FAO application. This includes data submitted by you using forms and/or by performing certain actions within a FAO application. This data is public and could be made available to other users.
+Personal Data:
+means any information relating to a person who is or can be identified either from the data, or from the data in conjunction with other information that is in, or is likely to come into, the possession of FAO and/or its authorized vendors or subcontractors. Personal Data may include but is not limited to, an individual’s [1] (a) name and/or surname, (b) place/date of birth, (c) age, (d) gender, (e) nationality, (f) country, state, postcode, city or village of residence, (g) job title, (h) personal contacts (e.g. postal address, email address, telephone number, etc.).
+Processing of Personal Data:
+means any operation or set of operations which is performed on or using personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
+Registration Data:
+means data provided by you when creating a Personal Account in a reserved area section of the FAO website, for the purpose of downloading a FAO Application. The Registration Data comprise: (a) your name and/or surname, (b) your email address; (c) the organization or company you are representing or working for, if applicable, and (d) any other information that may be required by FAO for purposes of registration. Registration Data may include Personal Data.
+FAO Database
+A database managed by FAO or an authorized vendor or subcontractor to store and process Database Data.
+FAO Application
+ 
+Third Party(ies):
+means any natural or legal person, public authority, agency or any other body other than the user, FAO and/or FAO’s authorized vendors and subcontractors, who may access and process data from a FAO database.
+[1] The term “individual” may refer, for example, to the user, the beneficiary, the interviewer, the interviewee (examples provided are not exhaustive).
+2. Processing of Personal Data
+When you download a FAO Application (as described in paragraph 2.1 below), when you use a FAO Application (paragraph 2.2 below), and when you contact FAO (paragraph 2.3 below), you may entrust FAO with your information, including your Registration Data, Personal Data and Contact Data.
+You are not required to provide any information to FAO or to download or use a FAO Application. However, in some cases, failure to provide certain information may prevent you from downloading or accessing a FAO Application, and/or may affect the availability or correct functioning of a particular feature or service associated with a FAO Application.
+Personal data will only be used for the purpose(s) specified in these Terms and Conditions. Should FAO use or process your Data for any other purposes, FAO will inform you and request your consent.
+When you choose to provide FAO with your information, including Registration and Personal Data, the following conditions shall apply to its processing:
+2.1    Downloading a FAO Application
+In order to download a FAO Application, you are required to create a Personal Account in the relevant reserved area section of the FAO website (hereinafter "Reserved Area").
+The conditions described in this sub-section 2.1 apply to the provision and processing of data relating to the download of a FAO Application from the FAO website. Should the FAO Application be downloaded from a website or server administered by other legal entities (e.g. Google Play, Apple Store), the provision and processing of Registration Data and/or Personal Data may also be subject to the terms, conditions and policies of such legal entities, as applicable. FAO is not responsible for the treatment by other entities of information you provide, including any Registration Data.
+ 2.1.1   Personal Data involved
+When creating a Personal Account, you will be required to provide your Registration Data.
+ 2.1.2   Use of Registration Data 
+Consent to FAO’s processing of the Registration Data is necessary if you wish to download a FAO Application. You are not required to provide any information to FAO, including Registration Data, however, if you do not consent to the above, you will be unable to register your Personal Account and to download the FAO Application.
+ 2.1.3   Applicable rules
+Your Registration Data will be processed by FAO in accordance with FAO’s rules, policies and practice, to the exclusion of any single national system of law. In addition, your Registration Data may be processed by FAO’s authorized vendors or subcontractors, and therefore, subject to additional rules, policies and procedures, which they may have in place. For more information about these, please contact web@fao.org.
+The Registration Data will be processed by FAO and/or its authorized vendors or subcontractors for purposes of enabling you to download the FAO Application and to manage your account. FAO and/or its authorized vendors or subcontractors may also use Registration Data, as well as authentication and tracking logs, for technical administration purposes, including to produce usage statistics and troubleshooting.
+FAO will not share, sell, distribute or rent Registration Data to any Third Party without prior authorization of the person to which such Data refer.
+2.2    Use of a FAO Application
+When you download a FAO Application, the FAO Application will be saved on your mobile device. The use of the FAO Application may sometimes require the processing of Personal Data. Such Data will be saved locally on your device. Under such circumstances, FAO shall have no access to the information, including Personal Data, that you have provided and stored on your mobile device, and FAO shall not be responsible for any loss or damage arising from the use of the FAO Application or the processing of information, including Personal Data, included or generated therein.
+2.2.1   Personal Data involved
+Information provided when using a FAO Application may include Personal Data.
+2.2.2   Use of Personal Data
+You may wish to share information, including Personal Data, with FAO through a FAO Application, [e.g. by sending it by email or text message, or by uploading it on a FAO database]. If you choose to do so, all such information, including Personal Data will be processed by FAO and its authorized vendors and/or subcontractors through a FAO Database. Information, other than Personal Data, provided when using a FAO Application and any information generated through it, will be processed by FAO and/or its authorized vendors or subcontractors, and may be made available to Third Parties exclusively in an aggregate and anonymized manner and for statistical and monitoring purposes only.
+2.2.3   Applicable rules
+All information, including Personal Data, shared with FAO, through a FAO Application, will be processed by FAO and/or its authorized vendors or subcontractors in accordance with FAO’s rules, policies and practice, to the exclusion of any single national system of law. For more information, please contact web@fao.org.
+Personal Data will be treated by FAO and its authorized vendors and/or subcontractors as confidential in accordance with FAO’s rules, policies and practice, and will not be disclosed, sold, distributed or rented to Third Parties without prior authorization of the person to which such Data refer.
+2.3    Contacting FAO
+When downloading or using a FAO Application, you may wish to contact FAO in connection with the Application.
+In such cases, when you contact FAO by any means, including by sending an email or completing a form, you provide FAO with Contact Data.
+You acknowledge and agree that by contacting FAO, you are consenting to FAO’s processing of the Contact Data. Failure to provide some Contact Data may hinder FAO’s ability to communicate with you and/or to fully or properly provide feedback to your communications to FAO.
+2.3.1   Personal Data involved
+When you contact FAO, you provide FAO with Contact Information.
+2.3.2   Use of Contact Data
+The Contact Data will be processed by FAO and/or its authorized vendors or subcontractors for purposes of providing feedback to your communication and addressing any request contained therein. FAO and/or its authorized vendors or subcontractors may also use Contact Data for technical administration purposes, including to produce usage statistics and troubleshooting.
+2.3.3   Applicable rules
+All information, including Contact Data, will be processed by FAO in accordance with FAO’s rules, policies and practice, to the exclusion of any single national system of law. For more information, please contact web@fao.org.
+Contact Data will be treated by FAO and its authorized vendors and/or subcontractors as confidential in accordance with FAO’s rules, policies and practice, and will not be disclosed, sold, distributed or rented to Third Parties without prior authorization of the person to which the data refer.
+2.4    Use of a FAO Database
+Database Data provided when using, or generated through, FAO Applications will be processed by FAO and/or its authorized vendors or subcontractors, and may be made available to Third Parties.
+2.4.1   Data involved
+Database Data, i.e. data other than contact, personal or registration data provided by you by using the FAO application. This includes data submitted by you using forms and/or by performing certain actions
+2.4.2   Use of Information
+The Database Data will be processed by FAO and/or its authorized vendors or subcontractors for purposes of presenting and/or aggregating information to do further analysis. This information will be freely available via the FAO website or the FAO application as appropriate.
+2.4.3   Applicable rules
+All information processed through FAO Databases will be processed by FAO in accordance with FAO’s rules, policies and practice, to the exclusion of any single national system of law. For more information, please contact Copyright@fao.org
+3. Responsibility of User
+As a user, you acknowledge and agree that you are responsible for ensuring the integrity and security of the information, that you provide when accessing or using a FAO Application, including any Personal Data, irrespective of whether this Personal Data belongs to you or to a Third Party.
+In the event that you are not the owner of the Personal Data you process using the FAO Application, you further acknowledge and agree that you are responsible for obtaining the prior informed consent of the owner of the Personal Data you collect as regards the use and processing of his/her Personal Data by FAO and/or its authorized vendors and subcontractors as described in these Terms and Conditions for the of Use of a FAO Application.
+4. Responsibility of FAO
+FAO shall process Registration Data, Personal Data, Contact Data and Database Data in accordance with its rules, policies and practice, to the exclusion of any single national system of law. FAO’s authorized vendors and subcontractors may also treat such Data in accordance with any additional rules, policies and practice, which may apply to their operations.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, FAO has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we process, consistent with the FAO’s rules, policies and practice.
+FAO shall not be liable for any loss or damage arising from, or directly or indirectly connected to, the use or operation of any of its Applications or Databases, including, but not limited to, any liability arising from any intentional or negligent misuse, errors, disclosure, undue transfer, loss or destruction of data that may occur.
+5. No warranties
+FAO does not represent or endorse the accuracy or reliability of any data, information or other material provided by any user through FAO Applications, or accessible through FAO Databases. FAO explicitly disclaims any responsibility for the content of such data, information and materials provided or processed through FAO Applications and/or FAO Databases.
+FAO reserves the right at any time, and from time, to time to modify or discontinue, temporarily or permanently, the FAO Applications and/or Databases, including any means of accessing or utilizing them, at its sole discretion with or without prior notice to you.
+FAO may at its sole discretion, under any circumstances, for any or no reason whatsoever and with or without prior notice to you, terminate your access to any of its FAO Databases, including to any means of accessing or utilizing them.
+6. No Endorsement and Prohibition to use the FAO emblem or logo
+The content of a FAO Application or Database does not imply any endorsement, accreditation or recommendation by FAO.
+The designations employed in FAO Databases and Applications do not imply the expression of any opinion whatsoever on the part of FAO concerning the legal status of any country, city or area or its authorities, or concerning the delimitation of its frontiers or boundaries.
+Hyperlinks to non-FAO websites available on the FAO Applications or Databases do not imply any official endorsement of or responsibility on the part of FAO for the opinions, ideas, data, products or activities presented at these locations, nor guarantee the validity of the information provided. The sole purpose of links to non-FAO sites is to indicate further information available on related topics. The information is provided on the basis that users accessing the platform assume responsibility for assessing its relevance, accuracy and suitability for application.
+You may not publicly represent or imply that FAO is participating in, or has sponsored, approved or endorsed the manner or purpose of your use or reproduction of the Database Data.
+The official emblem or logo of FAO, shall not, under any circumstances, be used without FAO's prior written consent, nor represent or imply an association or affiliation with FAO.
+7. Privileges and Immunities
+Nothing in these Terms and Conditions or in any document relating thereto, shall be construed as constituting a waiver of privileges or immunities of FAO, or as its acceptance of the jurisdiction of the courts of any country over disputes arising out of these Terms and Conditions.
+8. Notification of changes
+Changes to these Terms and Conditions will be posted on this webpage, and will be available via the FAO website . By continuing to use a FAO Application subsequent to FAO making available amendments to these Terms and Conditions, you acknowledge, agree and consent to such amendment(s).
+9. Profile Deletion and Data Retention
+Data processed under these Terms and Conditions may be kept by FAO and its authorized vendors and/or subcontractors for as long as is necessary for purposes of ensuring the proper use and functioning of the relevant FAO Application and Database.
+At any time, you can delete, review, correct or update your Contact, Registration and Personal Data by accessing your Personal Account. Residual data may remain within FAO Databases and other FAO records, which may or may not contain Personal Data you have provided. 
+10. Contact us
+For more information about these Terms and Conditions, please contact web@fao.org.

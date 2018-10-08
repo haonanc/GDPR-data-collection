@@ -1,0 +1,68 @@
+EngageNY Internet Privacy Policy
+Your online privacy is important. This section of the EngageNY website provides information about the New York State Education Department's (NYSED) approach to information from online visitors as well as general information about online privacy.
+This section describes the online information practice regarding the information collected from visitors to the EngageNY website and ways in which NYSED uses and maintains this information.
+The EngageNY website has four main purposes:
+Provide useful information and resources for educational practice.
+Provide a means for NYSED to communicate with educators about New York State education initiatives. Users can use the EngageNY website as a convenient alternative to mail, telephone, or email communication.
+Provide an online platform for educators to form a community to collaborate and share information.
+Provide secure authenticated login for authorized users to access other State or district-provided applications.
+There are several ways described below that NYSED may collect information from visitors to EngageNY.  These include cookies, content intentionally uploaded by users, and information provided by users when creating accounts. 
+Cookies (Also known as Internet, web or browser cookies)
+A cookie is a small piece of information or data that is sent from a website and, if accepted by the user, is recorded on that user's hard drive. Unless the cookie expires or is deleted by the user, this file can be accessed by the server when the user returns to the same website on another visit. EngageNY uses cookies for several purposes including:
+Authentication services - EngageNY uses a cookie to store the session information necessary to ensure data security and privacy when a user accesses the secure sections of the EngageNY website.
+Website analytics - EngageNY uses cookies to track website usage such as how users navigate the website and how long users visit certain pages. This information is used by NYSED to analyze and improve the functionality of EngageNY.
+External Services - Some of the functions of EngageNY, such as video and social media functions, are hosted on third-party websites (Vimeo, YouTube, Google, and Twitter) that send cookies to a user's computer. EngageNY does not control or maintain these cookies, and the policies governing their usage are the authority of their respective service providers.
+ 
+Information you decide to give NYSED via the EngageNY website
+How NYSED uses information you provide on the EngageNY website
+The EngageNY website provides a convenient way for users to communicate with NYSED in addition to the more traditional means such as mail, phone, or email.
+"User content" is any material that you upload to EngageNY communities.   
+User content is subject to the Attribution-NonCommercial-ShareAlike Creative Commons license (see http://creativecommons.org/licenses/by-nc-sa/4.0 ). As such, NYSED reserves the right to use, reproduce, adapt, publish, translate and distribute your user content, including any comments, documents, videos, blog posts, or any other user-generated content, in whole or in part, that is submitted to the website, consistent with the terms of this license.
+NYSED also reserves the right to edit or remove any user-generated content or comments added to the EngageNY website, including but not limited to content that it deems to infringe on a copyright, as well as content that is vulgar, defamatory, or otherwise inappropriate.
+Messages that NYSED receives via the EngageNY "Contact Us" page may not be re-posted or re-used by NYSED on the EngageNY website, on the NYSED website, or in any other public space unless explicitly authorized by the user.
+Personally Identifiable Information (PII)
+Personally identifiable information is information about you, such as your name or email address, that someone could use to identify or locate you.
+Users may not upload personally identifiable student information or other personally identifiable information about anyone except the user. 
+NYSED acquires PII online when a visitor sends it or signs up for a user account on EngageNY. If you browse through EngageNY – reading, printing, or downloading information such as educational resources – you do not transmit PII.
+If you choose to upload PII in a comment, resource, blog post, or any other content that you submit to the website, you are solely responsible for that content and understand that the information will be available to anyone with similar access to the website.
+Data sharing and transfer
+NYSED does not sell or rent information provided by online visitors.
+NYSED may share or disclose certain information pursuant to the exceptions outlined in this document or otherwise required by law.
+Data security, integrity, and retention
+ 
+The following notices apply generally to any information NYSED receives via the EngageNY website:
+Exceptions
+Legal obligations to disclose information: NYSED may disclose information to comply with a court order, authorized law enforcement request, subpoena, or a request under federal or state "freedom of information" law.
+Emergency exceptions: If necessary to protect health or safety in an emergency situation, NYSED may use, share, or disclose information other than outlined in this policy.
+If there are other exceptions or special needs for handling information in a specific case, NYSED will provide notice as appropriate.
+Notice of changes in this Privacy Policy
+If any of the information in this section changes in a material way, NYSED will post 30 days advance notice on the home page of the EngageNY website, with the effective date of the change. Where a specific EngageNY webpage is affected specifically by a change in policy, NYSED will post a clear and conspicuous notice on that page.
+Links to other websites
+ 
+Details on EngageNY Online Information Practices
+Personally identifiable information you provide to NYSED on the EngageNY website
+Many visitors to the EngageNY website provide personally identifiable information for a particular purpose. For example, if you send NYSED a message and want a reply, NYSED needs at least your name and your e-mail address or telephone number.
+Information your computer automatically provides to all websites
+While you are browsing, your computer automatically provides certain "navigation" information to every website you visit, including the EngageNY website. The navigation information includes: 
+The address (also known as URL, short for "uniform resource locator") of the webpage you visited immediately before you linked to an EngageNY webpage.
+Your Internet Protocol address (or "IP address"). This is the Internet's address for your particular computer. A website's computer must know your IP address so the site can send the webpage you ask to view.
+Operating system on your computer and the web-browsing software you are using.
+Whether your computer is configured to display English or some other language.
+Your online service provider.
+Note: Your computer does not automatically provide your e-mail address.
+Use of information your computer automatically provides to all websites
+The EngageNY website uses automatic navigation information for internal, site-monitoring purposes. 
+This data allows NYSED to measure visitors' interest in different sections of the EngageNY website, so NYSED can make the site more useful to visitors.
+NYSED generates internal reports that identify the number of web users on a given day who requested pages through particular online service providers. This information may report the volume of requests originating from a service provider associated with a particular school or company or from foreign countries.
+NYSED does not:
+analyze visitors' automatic navigation information to attempt to identify unique or repeat visitors
+routinely retain permanent records of automatic navigation information or attempt to identify individual visitors by analyzing their IP (Internet Protocol) addresses except in cases of attempted security breaches and/or intrusions.
+Identifiability of domain names and IP addresses
+Identifiability of your domain name: If you access the Internet through facilities provided by an organization such as your school or business, your automatic navigation information may reveal the name of your organization. For example, a student's navigation information might let a website know that the student accesses the Internet through www.myuniversity.edu .
+Geographic area: Similarly, if you access the Internet through an Internet Service Provider (ISP) located in a particular geographic area, a website may be able to use the ISP's identity to infer that to be your geographic location.
+Identifiability of your IP address: Whether your IP address is identifiable depends on whether it is dynamic or static. If it is dynamic, your ISP assigns a different IP address for each online visit that does not identify any person or machine.
+ 
+EngageNY Contact Information
+If you have questions about the EngageNY website or its privacy statement, please contact the EngageNY Team by visiting our Contact Us page .
+Additional Related Resources:
+89 Washington Avenue

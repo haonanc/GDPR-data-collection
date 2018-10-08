@@ -1,0 +1,164 @@
+ 
+ 
+Table of Contents:
+Name and contact details of the controller and contact details of the data protection officer
+Collection of personal data in case of a mere informational visit of our website
+Contacting our customer support via our Chat-Function or via email to support@DiceKings.com and filing of a complaint via regular post or via email to resolutioncentre@DiceKings.com
+Collecting and processing of personal data with the opening of a player account and with a game participation
+Cookies
+Duration of storage/retention periods
+Transfer of personal data to data processors and/or third parties
+Transfer of personal data to third countries (non-EU and non-EEA-states)
+Security
+Links
+contact
+ 
+1. Name and contact details of the controller and contact details of the data protection officer
+The controller within the meaning of Art. 4 par. 7 GDPR is the Altair Entertainment N.V., #131458 @ Dr. M.J. Hugenholtzweg Z/N UTS Gebouw, Curaçao, support@DiceKings.com .
+The contact details of the data protection officer are the following:
+#131458 @ Dr. M.J. Hugenholtzweg
+ 
+2. Collection of personal data in case of a mere informational visit of our Website
+In case of a mere informational use of our Website, hence, if you do not register or provide us otherwise with personal data, we will only collect the personal data which your browser transfers to us. If you would like to visit our Website without registering for our services or contacting us otherwise, we therefore collect the following data which is technically necessary to display our Website and to guarantee its stability and security:
+IP-address;
+Time zone difference to the Greenwich Mean Time (GTM);
+Content of the demand (precise page);
+Access status/HTTP-status code;
+The website from which the access takes place;
+The browser;
+Language and version of the browser software.
+ 
+ 
+3. Contacting our customer support via our Chat-Function on our Website or via email to support@DiceKings.com and filing of a complaint via regular post or via email to resolutioncentre@DiceKings.com
+You may contact our customer support either via the chat function on our Website or via email to support@DiceKings.com . Both is also possible without a registration.
+In case of a contacting via email we collect:
+Your first name and your last name
+Your email-address, and
+Your email-massage.
+If you have registered and provide of a player account on our Website, we would like to ask you to also provide your user name to us.
+In some cases we may ask you to provide further evidence for your identity as the case may be, in order to enable us to verify that the inquiry was actually filed by you. If this should become necessary, then we will inform you accordingly and explain in detail which identity proof we require.
+The collection and processing of your personal data described above happens in accordance with Art. 6 par. 1 sent. 1 lit. b) GDPR in order to enable us to process your query. The deletion of your emails takes place according to the retention periods described in sec. 7 of this Privacy Policy.
+In case of a contacting via the chat function on our Website the following personal data is visible for us:
+Your country;
+Your IP-address;
+Your chat-massage; and
+Your player-ID if you have a player account on our Website and are locked into your account at the time when you contact our customer support
+The aforementioned data will not be stored. It will be deleted as soon as the user leaves the website.
+However, we may also ask you in case of a contacting via chat to provide your name and your email-address as the case may be in order to be able to further process your inquiry, if we are not able to help you during the chat. In this case your personal data will be deleted in accordance with the retention periods detailed in sec. 7 of this Privacy Policy.
+The collection and processing of your personal date as described above takes place pursuant to Art. 6 par. 1 sent. 1 lit. b) GDPR in order to enable us to process your query.
+Last but not least you can contact us in case of complaints or reclamations of any kind either via regular post to the postal address of DiceKings (Altair) or via email to resolutioncentre@DiceKings.com . Thereby we collect the following personal data of you:
+You first and last name
+If you are registered on our website: your user name
+If you file your request via regular mail: your postal address
+If you file your request via email: your email-address
+Further personal data which you disclose to us in your massage
+Your inquiry with a description of your complaint/reclamation as well as the data connected to it, e. g. the place, date and time of the incident.
+ 
+4. Collection and processing of personal data with the opening of a player account and with a game participation
+In order to be able to participate in the games offered on our Website you have to register by providing your email-address, a user name which you may freely choose and a password chosen by yourself. There is no constraint to use your clear name, a pseudonymous use is possible.
+Further, we are obliged due to anti-money laundering reasons to collect the following personal data of you:
+Your first and last name
+Your postal address (street, postal code, city, country)
+Date of birth
+Moreover, we have to verify the aforementioned personal data (pursuant to Maltese law in case of an accumulated pay-out of EUR 2,330.00 (or of the corresponding value in the currency chosen by the player) and according to German law prior to the opening of the player account). We are therefore obliged to demand the provision of the following further documents of you which may contain further personal data (e. g. the place of birth, the nationality, the height and/or the eye colour):
+A copy or scan of your passport or ID-card
+As the case may be a copy of rental agreements, utility and electricity bills, bank account statements or other documents which DiceKings (Altair) deems fit as appropriate for the verification of your majority and/or of the personal data provided by you within the course of registration as player.
+We may also demand the provision of documents for a verification of the identity, including a photo of the customer together with the identifying document, before is bonus is credited to the player account.
+Also for verification purposes we ask you for the provision of your mobile phone number. This we use especially in such cases for control calls in order to secure that the user of the player account actually is the person who this user pretends to be in which we suspect that this may not be the case.
+Further, for youth protection reasons (prohibition of a participation of minors), you have to confirm during the registration that you are of full age. This question whether you are an adult we verify with the help of the date of birth you provided during the registration process and with the help of the copy of your passport or ID-card.
+For the processing of payments – hence for the execution of deposits to and refunds and pay-outs of winnings from your player account – we ask you for the currency in which we shall register your player account during the registration process. Further, we may collect payment data of you as the case may be like e. g. the IBAN or bank account number or a debit or credit card number.
+During your participation in games we monitor your payment and gaming conduct in order to prevent money laundering and terrorist financing as well as fraud and manipulation.
+The aforementioned collection and processing of your personal data takes place for the purposes described above and again summarized and allocated to the respective legal basis in the following and is necessary for those purposes:
+According to Art. 6 par. 1 sent. 1 lit. b) GDPR for the fulfilment of contractual obligations respectively for the execution of pre-contractual measures: for the processing of your orders – i. a. for the examination of your identity, for the placement of your bets, for the processing of your payments and in order to be able to provide a customer service to your, for a correspondence with you, for a settlement of claims by you or of us, in order to secure the technical administration of our Website as well as to administrate our customer data;
+Pursuant to Art. 6 par. 1 sent. 1 lit. b) and c) GDPR for the fulfilment of contractual obligations and due to statutory requirements: in order to send to you emails on the use of our Website, the products and services offered there, current information on technical problems or matters in connection with our statutory or regulatory obligations (such as e. g. such vis-à-vis the Curaçao eGaming N.V. sowie der Lotteries and Gaming Authority von Curaçao); and
+In accordance with Art. 6 par. 1 sent. 1 lit. c) GDPR due to statutory prerequisites or in compliance with Art. 6 par. 1 sent. 1 lit. e) GDPR in the public interest: in order to protect you and us (including affiliated companies) from fraud and manipulation as well as for purposes of an identity and age verification (to comply with youth protection requirements and to prevent money laundering and terrorist financing).
+In order to facilitate the participation in wagers and in order to design our offers in a more personalized way for you, we also ask you within the course of registration in which format we shall display the quotes (whether decimal, American or in fractions (parts/peaks). The legal basis for this data processing is Art. 6 par. 1 sent. 1 lit. b) and lit. f) GDPR. You can always change this setting in your account settings.
+For information on the processing of your personal data for player protection purposes for a determination of financial limits, of a time-out or of a self-exclusion please read the declaration on the prevention of gambling addiction (please inert the link!). This processing happens on your demand, thus, with your consent according to Art. 6 par. 1 sent. 1 lit. a) GDPR.
+ 
+5. Cookies
+Additional to the personal data mentioned in sec. 2 cookies are stored on your PC or on your mobile device when using our Website. Cookies are small text files which are stored on your hard disk or on your mobile device allocated to the browser used by you und through which certain information is provided to the controller using the cookie (here to us). Cookies may not execute programs or transfer viruses to your device. They serve the purpose to make the internet offer more user friendly and more efficiently overall.
+Use of cookies by us:
+This Website uses the following kinds of cookies, whose extent and manner of function are explained in the following:
+Transient cookies (thereto under lit. b))
+Persistent cookies (thereto under lit. c))
+Transient cookies are automatically deleted, if you close the browser. To transient cookies belong especially the session-cookies. Such store a so called session-ID with the help of which different requests of your Browser may be allocated to the same session. Thereby your device may be recognized if you return to our Website. Such session-cookies are deleted if you lock-out or close the browser.
+Persistent cookies remain on your hard disk or on your mobile device also beyond the termination of the browser session and will be deleted after a pre-determined period which may differ depending on the cookie. You can delete cookies at any time in the security settings of your browser. We use those persistent cookies in order to facilitate for you the use of our Website as well as of the offers provided there, by storing certain information and settings in a way that you do not permanently need to re-enter them repeatedly. With the help of the persistent cookies we may identify you for subsequent visits, if you provide of a player account on our Website. Without the persistent cookies you would need to lock into your account any time you visit our Website. Further, the persistent cookies enable us to measure the use of our Website statistically and serve the optimization of our offers as well as to design our Website and the offers provided there in a more personal way for you.
+The cookies may also be such of third parties (so called “third party cookies”), because we use several partners complementing our offer and helping thereby to make the Website and the offers provided there more interesting for you (see thereon also sec. 11 of this Privacy declaration).
+You may configure your browser-settings corresponding to your preferences and e. g. reject the acceptance of third party cookies of all cookies, allow those only in certain cases or activate the automated deletion of cookies with the closing of the browser. However, we point out to you that in this case you may not be able to use our Website and the offers contained thereon unobstructed. Further information on cookies and on the undertaking of browser settings concerning cookies you may find under www.allaboutcookies.org/manage-cookies .
+The flash-cookies used are not collected by your browser, but by flash-plug-ins. Further, we use HTML5 storage objects which are stored on your device. Those objects store the necessary data independently of your browser used by you and do not have an automated expiry date. If you do not desire a processing of flash cookies, then you will need to install a corresponding add-on, e. g. “Better Privacy” for Mozilla Firefox (https://addons.mozilla.org/de/firefox/addon/betterprivacy/) or the Adobe-Flash-Killer-cookie for Google Chrome. The use of HTML5 storage objects you may prevent by setting your browser in the private mode. Additionally, we recommend to manually delete your cookies and the browser-route.
+ 
+6. Your rights in connection with your personal data
+You have the following rights against us concerning your personal data:
+The right of access to the personal data stored by us on you (Art. 15 GDPR),
+The right to rectification of incorrect or to the completion of your personal data stored by us (Art. 16 GDPR),
+The right to erasure  of your personal data stored by us (under certain prerequisites), as far as the processing is not necessary for exercising the right of freedom of expression and information; for compliance with a legal obligation, due to reasons of the public interest or for the establishment, exercise or defence of legal claims (art. 17 GDPR),
+The right to a restriction of processing as far as you contest the accuracy of the data, the processing is unlawful but you oppose the erasure of the personal data and we no longer need the personal data for the purposes of the processing, but you require the data for the establishment, exercise or defence of legal claims or if you have objected to the processing pursuant to Art. 21 par. 1 GDPR (Art. 18 GDPR),
+The right to data portability in a structures, common and machine readable format (Art. 20 GDPR), and
+ 
+If you would like to exercise one or more of the above mentioned rights, please contact our customer support via email to support@DiceKings.com from the email-address registered for your player account under the provision of the following information:
+Your first and last name,
+Your user name,
+All details on your query.
+In case of a use of another email-address than the one which is registered for your player account delays of our response may be possible.
+ 
+7. Duration of storage/retention periods
+ 
+8. Transfer of personal data to data processors and/or third parties
+Partially, we use the services of external service providers for the processing of your personal data (data processor or third parties). Those have been carefully chosen and commissioned by us. As far as the external service providers are data processors, they are bound to our instructions and are regularly audited. In all cases in which we disclose your personal data we make sure that there is a contract in place with the recipient which guarantees that the data disclosed are transferred in a secure manner and that we only disclose the necessary minimum amount of personal data. Under no circumstances will we sell your personal data to third parties.
+We cooperate with the following data processors and/or third parties:
+The execution of the payment traffic, hence of deposits and pay-outs as well as the execution of debits of stakes and credits of winnings undertakes the Payific Ltd, #C63971 @ 114 The Strand, Gzira, Malta, for us;
+Further payment services providers;
+Services for the administration of our customer data and for the processing of approaches of our customer service via the chat function of via email;
+As the case may be with affiliated companies for the use of corporate structures as well as for the fulfilment of accountabilities vis-à-vis a mother company or a company holder;
+Services in connection with the identity check and the prevention of money laundering, terrorist financing, fraud and manipulation;
+Analysis services;
+Systems for the monitoring of the performance of our Website and security systems;
+Marketing and promotion agencies;
+Providers of communication platforms;
+Social media platforms;
+ 
+9. Transfer of personal data to third countries (non-EU and non-EEA-states)
+Generally, no transfer of personal data to third countries, i. e. non-EU or non-EEA-states, takes place. In principle, all processing of personal data happen in the EU or in the EEA.
+ 
+10. Security
+ 
+Use of Google Analytics
+This Website uses google analytics, a web analysis service of the Google Inc. (“Google”). Google analytics uses so called “cookies”, text files which are stored on your device and which make possible an analysis of your use of the Website. The information generated by the cookie on your use of our Website is regularly transferred to a server of Google in the USA and stored there. In case of an activation of the IP-anonymization on this Website your IP-address will be shortened by Google within the Member States of the EU or in another contracting state of the EEA prior to the transfer to the USA. The complete, not shortened IP-address will only be transferred to a server of Google in the USA in exceptional cases and will then be shortened there. In commission of the operator of this Website Google will use this information to analyse your use of the Website in order to draft reports on the Website-activities as well as to render further services to us connected to the website use and the internet use.
+The IP-Address transferred by your browser within the framework of Google Analytics will not be merged with other data of Google.
+You may prevent the storage of cookies through a corresponding setting of your browser-software; however, we point out to you that you may not be able to fully use all functions of this Website in this case as the case may be. Beyond that you can prevent the collection of the data generated by the cookie and correlated to your use of the Website (including your IP-address) and the processing of such data by Google by downloading and installing the browser-plug-in available under the following link: http://tools.google.com/dlpage/gaoptout?hl=de .
+This Website uses Google Analytics with the extension “anonymizeIp()”. Thereby the IP-addresses are processed shortened. Thereby, the possibility of an individualization a particular individual is excluded. As far as the data collected on you are linked to you person, this link is hence immediately excluded and the individualization deleted without delay.
+We use Google Analytics in order to be able to analyse our Website and to improve it regularly. With the statistics gained thereby we can improve our offers and design them more interesting for our users. For the exceptional cases in which personal data is transferred to the USA Google has submitted itself to the Privacy Shield, https://www.privacyshield.gov/EU-US-Framework . The legal basis for the use of Google Analytics is Art. 6 par. 1 sent. 1 lit. f) GDPR.
+Information on the third party provider: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, fascimile: +353 (1) 436 1001. Terms of use: http://www.google.com/analytics/terms/de.html, overveiw on data protection: http://www.google.com/intl/de/analytics/learn/privacy.html, as well as the privacy declaration: http://www.google.de/intl/de/policies/privacy .
+ 
+Use of social media plug-ins
+Currently, we use the following social-media-plug-ins: Facebook, Google+, Twitter and LinkedIn. We thereby have implemented the “two-clicks-solution”. That means that in general, when you visit our website, no personal data is transferred to the plug-in-provider. The provider of the plug-in you may recognize by the marking on the box above the initials or with the help of the logo. We provide the possibility to you to directly communicate with the provider of the plug-in. Only if you click on the marked field and activate it thereby, the plug-in provider will receive the information that you have opened the respective website of our online-offer. Moreover, the data mentioned in sec. 2 of the Privacy Declaration (Collection of personal data in case of a mere informational visit of our Website) will be disclosed. Hence, by activating the plug-in your personal data will be transferred to the plug-in provider and will be stored on the servers of the latter (in case of US-American providers in the USA). However, in case of Facebook the IP-address is anonymized in Germany immediately after the collection according to the provider. Because the plug-in provider undertakes the data collection especially by means of cookies, we advise that you delete all cookies in the security settings of your browser before you click on the box with the plug-in.
+We neither have influence on the personal data collected or their processing, nor are the complete extent of the data collection, the purposes of the processing or the retention periods known to us. We do not provide of any information on the deletion of personal data gathered by the plug-in provider either.
+The plug-in provider stores the personal data gathered as user profile and uses these for promotional purposes, for market research and/or for a needs-oriented design of its website. Such an analysis especially takes place (also for users who are not locked into their account) for the display of needs-based advertising and to inform other users of the social network on your activities on our website. You do have the right to object against the creation of these user profiles, whereas you have to refer to the plug-in provider for the exercise of this right. With the help of the plug-ins we provide the possibility to you to interact with the social networks and other users, so that we may improve our offer and design it in a more interesting way for you as user. The legal basis for the use of the plug-ins is Art. 6 par. 1 sent. 1 lit. f) GDPR.
+The disclosure of the personal data takes place independently thereof whether you possess an account at the social network or not and whether you have signed in into this account or not. If you have signed in into your account, then your personal data stored by us will be related to your account existing at the plug-in provider. If you confirm the activated button and e. g. link the Website, then the plug-in provider will store also this information in your user account and will communicate it publicly. We advise to log out of your account regularly after the use of a social network, especially prior to the activation of the button, because thereby you may avoid the assignment to your user profile at the plug-in provider.
+Further information on the purpose and extent of the data collection and the data processing by the plug-in provider you may find in the privacy declarations of those providers mentioned in the following. There, you may also find further information on your rights concerning your personal data and the setting options for the protection of your privacy.
+Addresses of the plug-in providers and URLs to their privacy declarations:
+i)        Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; http://www.facebook.com/policy.php; further information on the collection and processing of personal data: http://www.facebook.com/help/186325668085084, http://www.facebook.com/about/privacy/your-info-on-other#applications as well as http://www.facebook.com/about/privacy/your-info#everyoneinfo. Facebook has submitted itself to the EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+ii)       Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA; https://www.google.com/policies/privacy/partners/?hl=de. Google has submitted itself to the EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+iii)      Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy. Twitter has submitted itself to the EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+iv)      LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; http://www.linkedin.com/legal/privacy-policy. LinkedIn has submitted itself to the EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+ 
+Use of the AddThis-bookmarking
+Our Website further contain AddThis-pug-ins. Those plugins enable you to set bookmarks respectively the sharing of interesting contents with other users. Via those plug-ins we provide the possibility to you to interact with social networks and other users, so that we may improve our offer and may design it in a more interesting way for you as user. The legal basis for the use of those AddThis-plug-ins is Art. 6 par. 1 sent. 1 lit. f) GDPR.
+Via those AddThis-plug-ins your browser builds up a direct connection with the servers of AddThis and – as the case may be – with the social network or bookmarking-service. Those recipients receive the information that you have visited the respective website of our online-offer as well as the data mentioned in sec. 2 of this Privacy Statement (Collection of personal data in case of a mere informational visit of our Website). Those information are processed on the servers of AddThis in the USA. If you send contents on our Website to social networks or bookmarking services, then a connection between the visit on our website and your user profile at the respective network may be created. We neither have influence on the personal data collected or their processing, nor are the full extent of the collection or processing, the purpose of the processing or the retention periods known to us. We neither have information on the deletion of the personal data gathered by the plug-in provider.
+The plug-in provider stores these data as user profiles and uses these for promotional purposes, for market research and/or for a needs-oriented design of its website. Such an analysis especially takes place (also for users who are not locked into their account) for the display of needs-based advertising and to inform other users of the social network on your activities on our website. You do have the right to object against the creation of these user profiles, whereas you have to refer to the plug-in provider for the exercise of this right.
+If you do not want to participate in this procedure, than you may object to the data collection and storage at any time by installation of an opt-out cookie with effect for the future: https://www.addthis.com/privacy/opt-out . Alternatively, you may set the settings in your browser in a way that the installation of a cookie is prevented.
+ 
+12. Links
+ 
+13. Currency and modifications of this Privacy Policy
+This Privacy Declaration is currently valid and has the state June 2018.
+(2)     Because of the advancement of our website and the offers made over it or due to modified regulatory respectively governmental requirements it may become necessary to modify this privacy policy. You can always download, save and print the at a time valid version of this Privacy Policy under www.dicekings.com/help/privacy-policy/ .
+14. Contact
+ 
+Menu
+DiceKings
+  
+ 
+ 
+The Netent Casino Games are operated under the License of IGS N.V. No. 8048-JAZ 2013015. Authorised and Regulated by the Government of Curaçao. Dice Kings™ is operated by Altair Entertainment N.V. (# 131458 @Dr. M.J. Hugenholtzweg Z / N UTS Gebouq. Curacao) under the gaming license # 1668 / JAZ which is available on Curacao eGaming N.V. Is issued and regulated by the government of Curacao. The website is jointly operated by PAYIFIC LTD and the company holding the gambling license. Payific Ltd. Room 1, Level 2, Palazzo Ca Brugnera, Valley Road, Birkirkara BKR 9024, Malta
+DiceKings 2018. All rights reserved. | ver:2.10.0.4

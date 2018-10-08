@@ -1,0 +1,79 @@
+Introduction
+The integrity of individuals is an core prority for Addiliate. Addiliate is a 100% subsidary of Clicktron S.L. ( www.addiliate.com ). Clicktron S.L. and Addiliate will herein after be referred to as “Addiliate”. Addiliate’s advertisers, publishers and other customers (hereafter the “Client/Clients”) that contract Addiliate for a Service which involves processing of personal data of Users (hereafter the “User/Users”), must be able to trust that data is processed by Addiliate in accordance with applicable privacy laws and regulations.
+This Privacy Policy was created in order for Clients and Users to better understand how information relating to them is processed by Addiliate. The Privacy Policy is not exhaustive, but contains certain fundamental privacy principles applied by Addiliate.
+This Privacy Policy was last revised on May 10, 2018. Addiliate may at any time and without notice change it, e.g. to keep it compliant with applicable laws. You should therefore read this Privacy Policy each time you intend to provide Addiliate with personal data.
+Personal data
+Any information related to a natural person or ‘Data Subject’, that can be used to directly or indirectly identify the person. It can be anything from a name, an email address, phone number, or a computer IP address.
+ Addiliate’s role as a data controller and a data processor?
+A controller is the entity that determines the purposes, conditions and means of the processing of personal data, while the processor is an entity which processes personal data on behalf of the controller. Addiliate is both a data controller as a data processer. As a controller relies on its advertisers and publishers to get consent for Addiliate to process such data as Addiliate is not in direct contact with users.
+Data controller
+When analyzing anything present in HTTP headers for quality control purposes and tracking. HTTP headers is a standard web protocol sent by default between any browser request and any server on the Internet. HTTP headers include IP addresses, User Agent, Operating System, Timestamp, Web browser, Carrier, Device Type, Device Brand, Device Model, Referrer and Requested page.
+When a publisher tracking pixel is implemented
+When Addiliate sends to the Publisher the Session ID or Publishers Cookie
+Data Processer when receiving information via
+The tracking pixel implemented on the advertiser site:
+When advertisers send us the Session ID or Addiliate Cookie
+Optional value for quality control
+When advertisers send us additional information related to quality and control like orderID, Amount, Currency, IP Address, Carrier .
+When publishers send us additional information related to quality and control.
+Optional value for traffic optimization
+When publishers send us additional information in the Sub-ID’s
+ Collection of personal data
+Personal data for which Addiliate is controller will be provided by Clients to us e.g. in the following situations:
+Clients profiles
+If you are a Client you may be required to provide us with personal and corporate information, such as name, address, email address and other account information, in order to be able to access and use our services;
+As part of our sales efforts, we may collect and store data through online forms for contact purposes;
+If you are a prospect Client, you may provide us with personal data through this Site when applying to join our network;
+You may provide us with personal data when you send us inquiries relating to our services or in relation to this Privacy Policy;
+Users
+When analyzing anything present in HTTP headers for quality control purposes and tracking. HTTP headers is a standard web protocol sent by default between any browser request and any server on the Internet. HTTP headers include IP addresses, User Agent, Operating System, Timestamp, Web browser, Carrier, Device Type, Device Brand, Device Model, Referrer and Requested page.
+The tracking pixel implemented on the advertiser site:
+When advertisers send us the Session ID or Addiliate Cookie
+Optional value for quality control
+When advertisers send us additional information related to quality and control like orderID, Amount, Currency, IP Address, Carrier .
+When publishers send us additional information related to quality and control.
+Optional value for traffic optimization
+When publishers send us additional information in the Sub-ID’s
+Use of personal data
+Addiliate is committed to protect any personal data you provide to us and to process your personal data in accordance with this Privacy Policy and applicable laws.
+All Data processed is necessary for the Service and is defined in the agreement
+Clients profiles
+Personal data provided to Addiliate may be used for the following purposes:
+Provide you requested products and services;
+Manage Addiliate’s agreed obligations and rights towards you;
+Process payments; administration;
+Internal analysis to improve or more effectively tailor Addiliate’s Site, business or offerings generally;
+Allow you access to agreed products and services;
+Direct marketing;
+Any other purpose you have consented to or which is allowed under applicable law.
+Users
+Quality control
+Traffic optimization
+Disclosure and transfer of personal data
+Personal data may be transferred to other companies within Addiliate (and hence Clicktron S.L.). Addiliate may as a consequence of service agreements with third parties, also transfer personal data to such third parties who process personal data on behalf of Addiliate. Such service agreement shall contain obligations for third parties to process data only in accordance with Addiliate’s instructions and to take appropriate measures to secure that the processing of the personal data is secure.
+All Users data is stored in the European Union.
+Some of clients data, personal data may be transferred to Addiliate’s business partners within or outside the EU/EEA. Should any of the recipients reside in a country without adequate legal protection for personal data, Addiliate will make reasonable efforts to make the recipient adopt the principles described in this Privacy Policy.
+Consent
+Where it is required by law or where Addiliate otherwise deems it appropriate, Addiliate will seek consent directly of via its Clients from individuals before Addiliate processes individuals personal data. Such consent may e.g. be obtained by asking you to accept processing of your personal data in accordance with this Privacy Policy. If you do not agree to this Privacy Policy and/or other terms and conditions stated in connection with the collection, please do not provide personal data to Addiliate. Addiliate reserves the rights not to provide you certain products or services should you choose not to provide required personal data.
+Withdrawal of consent
+You are at all times entitled to withdraw your consent to process personal data that you have provided to Addiliate. In such case Addiliate will not process your personal data based on consent any more and erease all personal data.
+You are entitled to request that Addiliate shall not process your personal data for direct marketing purposes any longer by writing an email to privacy (at) addiliate.com with subject line “withdrawal of consent” and with your contact details (first name, last name, company name, email address, etc.) clearly listed in the email.
+Right to information and rectification of personal data
+Addiliate will take reasonable measures to rectify, block or erase personal data that it is shown incorrect without undue delay. You should contact privacy (at) addiliate.com if you would like us to correct personal data that we hold on you and which you consider incorrect.
+You may request a copy of the personal data that Addiliate holds about you. You are entitled to such information free of charge upon simple request. This information will include information regarding what personal data Addiliate processes about you, where such information has been collected, for which purpose the information is being processed, and to whom, or to which categories of persons, the information is being disclosed.
+Security
+Addiliate is dedicated to maintain the security of personal data and preventing unauthorized access through the implementation of appropriate technical and organizational measures, as far as is reasonably possible. Such security measures also include that personal data may be accessed only by a limited number of persons within Addiliate.
+Our employees are made aware of and must comply with Addiliate’s security standards. When we occasionally use third-party contractors to perform tasks that might otherwise be performed by our employees, these contractors are contractually bound to adhere to this Privacy Policy and they are subject to similar restrictions as our employees. All Data is secured with Google cloud protection
+Cookies
+This Site sends your browser a cookie – a small piece of data stored on your computer’s hard drive. The purpose of the cookie is to improve your reading of and your search possibilities on our Site. If you are a registered Client (e.g. a publisher), the cookie will also manage and control your login and session on those part of our Site that are only available to registered Clients.
+If you do not want to accept that your computer receives and stores cookies, you can alter your security settings on your web browser (Internet Explorer, Netscape etc.). However, note that certain parts of our Site may only be used fully if your browser allows cookies. Thus, your reading experience of our Site may be affected negatively by removing and not allowing cookies.
+Age restriction
+People under 18 (or the legal age in your jurisdiction) are not permitted to use our services on their own, and so this privacy policy makes no provision for their use of the site.
+Contact Us
+If there are any questions regarding this Privacy Policy, you may contact us using the information below:
+Clicktron SL
+08006 Barcelona, Spain
+Stay connected
+div#stuning-header .dfd-stuning-header-bg-container {background-image: url(https://www.addiliate.com/wp-content/uploads/2017/09/Default_header.jpg);background-color: #164194;background-size: cover;background-position: center top;background-attachment: scroll;background-repeat: no-repeat;}#stuning-header div.page-title-inner {min-height: 300px;}
+This website uses cookies to ensure you get the best experience on our website. Learn more
+Accept

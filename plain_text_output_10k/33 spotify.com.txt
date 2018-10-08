@@ -1,0 +1,57 @@
+At Spotify, we want to give you the best possible experience. To do this we process some personal data about you to understand your listening habits and to develop the best service for you and all of our customers. But, be assured, your privacy and the security of your personal data are very important to us.
+The purpose of this Privacy Center is to give you more information about the rights and controls you have in relation to your personal data, and to highlight some important sections of our Privacy Policy to you.
+What personal data does Spotify collect about me?
+It is very important to us that you understand what personal data we collect about you, how we collect it, and why it’s necessary.
+We collect your personal data in the following ways:
+Personal data collected when you sign up for the Spotify Service - when you sign up to the Spotify Service, we collect certain personal data so you can use the Spotify Service. This is the Account Registration Data category described in section 5 of our Privacy Policy.
+Personal data collected through your use of the Spotify Service - when you use the Spotify Service, we collect personal data about your use of the Spotify Service such as what songs you have played and what playlists you have created. This is the Spotify Service Usage Data category contained in section 5 of our Privacy Policy.
+Personal data collected that enables us to provide you with additional features/functionality - from time to time, you may also provide us with additional personal data or give us permission to collect personal data e.g. to provide you with more features or functionality. These are the Voluntary Mobile Data, Payment Data, Contests, Surveys and Sweepstakes Data, and Marketing Data categories contained in section 5 of our Privacy Policy. You will always have the option to change your mind and withdraw your permission at any time.
+Why does Spotify collect and use this personal data?
+We collect and use your personal data for the following reasons:
+to provide, personalize, and improve your experience with the Spotify Service and other services and products provided by Spotify;
+to understand how you access and use the Spotify Service to ensure technical functionality of the Service, develop new products and services, and analyze your use of the Spotify Service;
+to communicate with you for Spotify Service-related purposes;
+to process your payment to prevent or detect fraud, including fraudulent payments and fraudulent use of the Spotify Service;
+to communicate with you, either directly or through one of our partners, for:
+marketing,
+research,
+promotional purposes,
+via emails, notifications, or other messages, consistent with any permissions you may have given us;
+to provide you with features, information, advertising, or other content which is based on your specific location; and
+for other legitimate business purposes as explained in the Privacy Policy.
+To learn more about why Spotify uses your personal data, please refer to the Privacy Policy.
+How does Spotify protect my personal data?
+We are committed to protecting our users’ personal data. We implement appropriate technical and organizational measures to help protect the security of your personal data; however, please note that no system is ever completely secure. We have implemented various policies including pseudonymization, encryption, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems.
+Your password protects your user account, so we encourage you to use a unique and strong password, limit access to your computer and browser, and log out after having used the Spotify Service.
+How does Spotify share / transfer my personal data?
+Spotify shares your personal data globally with other companies in the Spotify Group.
+Spotify may also subcontract processing to, or share your personal data with, third parties located in countries other than your home country. Your personal data may therefore be subject to privacy laws that are different from those in your country of residence.
+Personal data collected within the European Union (“EU”) and Switzerland may, for example, be transferred to and processed by third parties located in a country outside of the EU and Switzerland. In such instances Spotify shall ensure that the transfer of your personal data is carried out in accordance with applicable privacy laws and in particular that appropriate contractual, technical, and organizational measures are in place such as the Standard Contractual Clauses approved by the EU Commission.
+Your Personal Data Rights
+You may be aware that a new European Union law, called the General Data Protection Regulation or "GDPR" gives certain rights to individuals in relation to their personal data. Accordingly, we have implemented additional transparency and access controls in our Privacy Center and Privacy Settings to help users take advantage of those rights. As available and except as limited under applicable law, individuals have the rights described below.
+If you have further questions, please refer to the FAQs section of this Privacy Center or reach out to us by using this contact us form
+Access your personal data
+The right to be informed of and request access to the personal data we process about you.
+Update your personal data
+The right to request that we amend or update your personal data where it is inaccurate or incomplete.
+Restrict the use of your personal data
+The right to request that we temporarily or permanently stop processing all or some of your personal data.
+Object to the use of your personal data
+The right to object to us processing your personal data where we no longer have a legitimate or legal need to process it.
+Object to direct marketing
+The right to object to your personal data being processed for direct marketing purposes.
+Object to automated decision making
+The right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+Port your personal data
+The right to request a copy of your personal data in a machine readable format and the right to transmit that personal data for use in another party’s service.
+Erase your personal data
+The right to request that we delete your personal data.
+Where can I go to control what personal data Spotify uses?
+You can access the following controls via your Account Settings :
+Privacy Settings page - allows you to control some of the categories of personal data we process about you, enables you to access your personal data via a ‘Download my Data’ button, and includes a link to the Privacy Center on spotify.com, where you can find out more information about how Spotify uses your personal data and what your rights are.
+Notification Settings page - allows you to choose which communications you receive from Spotify, manage your publicly available personal data, and set your sharing preferences.
+For more information about the personal data you can control from your Account Settings page, see data rights and privacy settings .
+Our Policies
+At Spotify we are dedicated to providing you with the best music experience. Below are the policies that we apply when providing you with this service.
+Questions?
+If you have questions about your privacy, our Privacy Policy, information we have about you, or your rights and how to exercise them, please contact us .

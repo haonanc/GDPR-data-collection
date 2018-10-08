@@ -1,0 +1,53 @@
+Privacy Policy
+Codacy is dedicated to providing its Customers and Users the highest level of transparency and control over the use of their data when using our Services. This Policy details each type of personal data we collect, how we use it and how you can control it. Any information processed by Codacy is treated as confidential, stored securely and accessed by authorized personnel only. Codacy has implemented and maintains appropriate technical, security and organisational measures to protect you personal data against unauthorized or unlawful processing and against any loss, destruction, damage, theft or disclosure.
+1 What data do we collect:
+Codacy currently collects the following personal data from Website Visitors and Customers or Users:
+1.1 Website Visitors
+Website Visitors (before sign up) - Whenever you visit our Website, certain information gets created and logged automatically. Here are the data points we collect:
+Cookie data - Codacy uses cookies to make interactions with our Services easy and meaningful. Cookies do not identify you if you are merely visiting Codacy’s Website; however, a cookie may store a unique identifier for each logged in user. The cookies that Codacy sets are essential for the operation of the Website, or are used for performance or functionality. When we use cookies, we use session cookies that last until you close your browser or persistent cookies that last until you or your browser delete them. For more detailed information about how we use cookies, please review our Cookies Policy;
+Log data anonymously - When you use Codacy’s Website, we process log data, including the information that your browser automatically sends and information related with your interaction with our Website;
+Codacy may collect and process any personal data that you make voluntarily available by filling our Website’s forms, such as Demos or Free Trials requests, our Blog or Newsletters subscription and/or by downloading our Ebooks. In all of these actions you need to provide us voluntarily the required fields which may vary depending on the action.
+1.2 Customers or Users
+Customers or Users (after sign up) - Following sign up, whenever you use our Services we collect behavioral data points essential for the provision of Codacy Services.
+Cookies data - The cookies Codacy sets are essential for the operation of the website, or are used for performance or functionality. We use cookies to keep you logged in, remember your preferences, and provide information for future development of Codacy. By using our Services, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use Codacy’s services. When we use cookies we use session cookies that last until you close your browser or persistent cookies that last until you or your browser delete them. For more detailed information about how we use cookies, please review our Cookies Policy.
+On sign up - When you sign up you give us certain information voluntarily. This includes your name and email address (inferred from the third party application you selected to register on Codacy).
+On Services Plan subscription - If you decide to subscribe to one of our Services Plans, we may request payment and billing details. Your payment information (credit or debit card details), although provided on our platform is only made available through a third party payment platform. At any point Codacy does not have access to or stores data related to your card details. The information collected for billing purposes (such as: First name, Last name, Company name, email, phone, address, VAT number (when applicable)) is directly inserted by you in a third party platform, and Codacy can access to issue invoices.
+Please note that all data requested by Codacy is mandatory and failure to provide this data may make it impossible for us to provide our Services. In cases where we specifically state that some of the data is not mandatory, Customers and/or Users are free not to communicate this data without any consequences on the availability or the functioning of the Services.
+2 What we do with the information we collect:
+We use the information we collect to provide a better Service to you. In order to do that, it is necessary for us to use your information to:
+Do registration and authentication;
+Collect information from Github and Bitbucket to perform our Service;
+Provide payment and billing information to third party platforms;
+Perform database management for Customers or Users;
+Send you notifications when you activate these - we will only use your information with your consent in order to send you marketing materials by email or push notification. Each time we send you marketing materials, we give you the option to unsubscribe;
+To answer the queries you may ask on live chat platforms;
+Content performance and features testing (A/B testing);
+Work with law enforcement in keeping Codacy safe. We may get requests for account information from law enforcement authorities like the police or courts.
+We do not share, sell, rent, or trade user information with third parties for their commercial purposes.
+3 How you can control your data:
+Our goal is to give you simple and meaningful choices regarding your information. If you have a Codacy account, many of the choices you have on Codacy are built directly into Codacy or your settings. You can:
+Access the information we hold about you at any time - which can be done directly on our Platform;
+Edit your account information at any time - this does not include your email, since any change needs to be done directly in the third party platform you selected on sign up;
+Remove credit or debit card details at any time - if you decide to downgrade your Service Plan, you can remove your payment details through our Platform;
+Delete your account at any time - when you decide to do so, all your personal information will be deleted, except for any information required to comply with our legal obligations, to resolve disputes, and enforce our agreements;
+Unsubscribe from Marketing or Services related communications - you can unsubscribe directly on the emails you receive from Codacy, related with Newsletters, Blog updates and others or define your notification preferences on the Platform;
+Have the information you provided to us sent to another organization, where we hold this information with your consent or for the performance of a contract with you, provided that it is technically feasible;
+Complain to a regulator. If you are based in the EEA and suspect that we have not complied with data protection laws, you have a right to lodge a complaint before the Data Protection Commission in Portugal or with your local supervisory authority;
+Object to us processing your information by sending a request to privacy@codacy.com , that will be executed within a period of 30 days following the date of your request.
+4 How and when we share information:
+Some of the ways we use your information requires us to share information with third parties, so we can provide you with the best experience, make sure our customization is effective and comply with laws that apply to us. We share your information with:
+Third party services you select on sign up;
+Online advertisers and third party companies that we use to audit or improve the delivery and performance of ads or content on websites and apps (Google adwords) and vice versa;
+Third party companies or individuals that we employ to process information on our behalf based on our instructions and in compliance with this Privacy Policy;
+Law enforcement agencies or government agencies. We only share information if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Codacy; or to detect, prevent, or otherwise address fraud, security or technical issues.
+5 How long we keep your information:
+We keep your information only so long as we need it to provide Services to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
+6 Our policy on children’s information:
+Children under 13 are not allowed to sign up for our Services and use Codacy. Codacy does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will close your account. If you are based in the EEA you may only use Codacy if you are over the age at which you can provide consent to data processing under the laws of your country or if verifiable parental consent for your use of Codacy has been provided to us. If you are a parent and you learn that your child is using Codacy and you don't want them to, please contact us at privacy@codacy.com .
+7 Transferring your information:
+Codacy is a global service platform. By using Codacy, you authorize us to transfer and store your information outside your home country, for the purposes described in this policy. The privacy protections and the rights of authorities to access your information in these countries may not be the same as in your home country.
+We take additional measures when information is transferred from the European Economic Area (EEA). This includes having standard clauses approved by the European Commission in our contracts with parties that receive information outside the EEA. We also rely on European Commission adequacy decisions about certain countries, as applicable, for data transfers to countries outside the EEA.
+Changes to this Privacy Policy
+Codacy reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using Codacy’s Services.
+Contact us
+If you have any queries on this matter, please contact us at privacy@codacy.com .

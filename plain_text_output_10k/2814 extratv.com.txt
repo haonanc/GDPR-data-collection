@@ -1,0 +1,40 @@
+-What information is collected?
+-Do you make sales?
+-Do you save inquiries?
+-Do you have a web site?  Are Internet cookies used?  How long are the web log files maintained?
+-Is information combined to create a profile?  Does this include combining third party information?
+-Do you report information to third parties?
+-Do you distribute information to third parties?
+-Do you have third parties use information for marketing campaigns?
+-Do you conduct telemarketing or fax marketing to current or perspective cutomers?
+-Do you conduct e-mail marketing?
+-Do you have third party e-mail marketers?  Do you know what they are doing?
+-Do you have affiliates/partners conducting marketing?
+-Are there long term plans to sell/merge the company and transfer the data to the new owners?
+-Is your service used by children?  Have you considered children who use your web site?
+Do users have control over the information:
+-Is there reasonable contact information?
+-Is a user’s information reviewable?
+-Can a user correct information?
+-Can a user review the third party information and correct that?
+-Can a user review any information distributed to third parties?
+-Can a user opt-out of marketing?  How are third party marketers notified?  Will a user’s information continue to reappear on marketing lists after removal requests?  Do you have control/knowledge about what third party marketers are doing?
+-Are deceased prior customers easily removed?
+-Are do not call lists maintained for telemarketing?
+-Is the National Do-Not-Call registry used?
+-Are the Direct Marketing Association’s do-not mail/e-mail/call lists honored?
+What laws affect your operation?
+-Data retention laws?
+-Do not spam laws?
+-Banking laws?
+-Could your activities put your web site or e-mail on Internet “blacklists”?
+-Credit laws?  Are credit reports accessed?  Are collection actions taken?
+-Could law enforcement request information you have in an emergency?
+-Are you a government entity or doing work on behalf of one?
+-Do you transfer information to other countries that have legal requirements?
+-Is the Federal Privacy Act or other similar laws relevant?
+Some web site policies claim their online privacy policy only covers online contacts. This makes no sense and is a red flag that there is no coordinated privacy program, a policy was copied without much thought, or the site is attempting to use a legal loophole.  Would it make sense to have separate privacy policies for telephone communications, regular mail, or face-to-face contacts?  A coordinated privacy program would have one policy covering the collection and use of information no matter what the medium.
+Many companies, such as Microsoft and Cisco, actually maintain different privacy policies for different web sites.  They claim to government officials that they have comprehensive corporate privacy programs monitored by TRUSTe. However, when an inquiry is made Microsoft and Cisco both claim that some of their data collection at sites with different privacy policies not covered by TRUSTe.  Microsoft, Cisco and TRUSTe have all claimed that the posted privacy policies are not enforceable by web site visitors under contract law because visiting a web site does not constitute a contract!  Both Microsoft and Cisco are compiling IP address “blacklists” and/or “reputation scores” of accused spammers.  There have been many false alarms Microsoft or Cisco often will not tell people or small businesses why they were put on the list.  Many have complained that the responses have been arrogant and accusatory and there is no recourse through the TRUSTe system because the date is collected at non-TRUSTe sites or TRUSTe says the situation does not apply.  ( Microsoft’s reputation system | Cisco’s reputation system ). In these cases the online privacy policy, and the associated TRUSTe seals, are worthless.  The purpose is to give a false sense of security and deceive people into thinking they have control over the information collected about them.
+No Responses to “PrivacyPolicy.com – Online Privacy Policies”
+Leave a Reply
+Website

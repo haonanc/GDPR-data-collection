@@ -1,0 +1,263 @@
+Privacy Policy of Kiwi.com
+We at Kiwi.com take your privacy very seriously. Currently, for our customers in the EU, we comply with the Regulation No. 2016/679, the General Data Protection Regulation, also known as GDPR, which sets the highest privacy and data protection standard in the world. For our customers in the rest of the world, we will try our best to uphold the same level of data protection based on the principles of the security (confidentiality and integrity), transparency, data minimisation, purpose limitation, accuracy and storage limitation. However, we cannot always guarantee the same treatment to all our customers outside of the EU with regards to their rights as data subjects. For example, if we are overloaded by requests from our EU customers, which we absolutely must comply with, we might be forced refuse some requests from Third Countries.
+In this Privacy Policy we explain what data we collect from you, why we collect it, how we use it and with whom we might share it. It also explains what rights you as a data subject have and how you can fulfil them.
+This Privacy Policy applies to any data processing done by us in connection to your use of our services, both through our website kiwi.com and through our application Kiwi.com: Cheap Flight Tickets, which is currently available on the Play Store and the App Store.
+Who are we and how can you contact us?
+We, as the Data Controller, are the company Kiwi.com s.r.o., ID No. 29352886, with a registered office at Palachovo náměstí 797/4, Starý Lískovec, Post Code 625 00 Brno, registered in the Companies Register administered by the Regional Court of Brno, file no. C 74565, Tax ID No. CZ29352886.
+For all matters concerning privacy and data protection, you can always contact us through this form: kiwi.com/privacy/questions . To exercise your rights under the GDPR, you can use this form: kiwi.com/privacy/rights .
+Some terms that we use in this Privacy Policy
+Personal Data: any information relating to a directly or indirectly identified or identifiable natural person. That means that if we possess means to identify either you or even the device you're using, any information that we can connect to you will be treated as Personal Data.
+Data Controller: someone that determines the purposes and means of processing Personal Data. For example, we are a Data Controller when we process your Personal Data for the purposes stated in this Privacy Policy. If you choose to book a ticket through our website or app, we will be sending your Personal Data to another Data Controller – the air carrier or the provider of other services – who will again use your Personal Data for its own purposes. Each Data Controller (to whom the GDPR or similar legal regime applies) should have a Privacy Policy such as this one where you can learn about how your Personal Data is processed. You can see the full list of Data Controllers we might share the data with below.
+Data Processor: a third party that only helps to achieve the purposes determined by the Data Controller. For example, we as a Data Controller use many third-party services to which we outsource some parts of our activities that we don't do ourselves for various reasons such as cost efficiency. A Data Processor is only allowed to process your Personal Data according to our documented instructions, and the GDPR obliges us to have a strict formal contractual relationship that ensures a truly sufficient protection of your privacy.
+Third Countries: countries in which the GDPR regime is not applicable. Currently, by Third Countries we mean all countries that lie outside of the European Union.
+What Personal Data we collect?
+For every purpose for which we need your Personal Data, we only process data that are necessary for us to fulfil it. Depending on the given purpose, we may process:
+Your identification information
+Mainly your name, surname, nationality, IP address, ID number, and other identification information that you might give us. Additionally, we will assign you some unique identifiers for our use, such as the booking ID or, in some cases, unique promotional codes.
+Your contact details
+Your email address, phone number and other contact details that you might give us in non-standard situations.
+Your settings
+We will remember what choices you make so that we can apply the same settings when you come back to us. If, for example, you decide to opt-out of using cookies for some reason, we will try to remember that and make sure we don't store those cookies during your next visit to our website.
+What you've ordered
+We will gather data about the order itself and its payment and we will keep your past orders for the purposes of the Provision of our services, and to a limited extent, for Marketing purposes also (we will never use any data about your payment for Marketing purposes).
+What you did on our website
+When you use our website, we track what you do on it and use this for the purposes of Improving our services . For example, we monitor which pages you visit, what you click on or where your cursor is, and based on this, we analyse if certain features on our website need improvement. Also, we remember some info that you fill into our booking forms for the purpose of reminding you that the order wasn't actually completed as a part of the purpose of Sending personalized offers .
+Info that we need to make our offers relevant to you
+If you book a flight or order other service, we will gather some data about you so that we can tailor our offers just for you and your needs. This includes information about your device (software and hardware), your IP address, general information about your location (such as timezone or general area), identification and contact information.
+Information that we collect when you contact us (if you ever contact us)
+When you send us email, contact us through chat or when you call us, we will store your contact details, booking ID and all the information that you give us during the contact, including the messages or the call itself. We will then use it to:
+Solve your problem as a part of our customer support
+Provision of our services
+Searching and booking of flights and related services
+The main reason we collect and use your Personal Data is to conclude an agreement with you and then to provide you the services that you've ordered. Depending on the extent in which you use our services, we will process your Personal Data in a way that is necessary to enter into and fulfil our Service Agreement as described in Article 2 of our Terms & Conditions. The services that we provide include, primarily, the brokering of an air carriage contract and related services between you and the selected carrier.
+To achieve this purpose, we need to share your Personal Data with the air carriers with whom you will enter into an air carriage contract and in some cases also with the providers of the Global Distribution Network.
+If you order additional service Special assistance or when you ask us to get a refund due to health issues, we will process your Personal Data concerning health and in case of the Special assistance service, we will share it with the air carrier of your choice. During the ordering process, you will be asked to give your explicit consent with the processing of this Personal Data. You can always withdraw your consent through this form: kiwi.com/privacy/rights . However, please note, that if you withdraw the consent with the processing of your personal data for the purpose of the Special Assistance additional service, we won't be able to provide you with any subsequent support related to this service.
+Ordering other services
+It may also happen that you choose to order another service that we or our partners offer on our website or in our app, such as insurance or accommodation. We will process your Personal Data that that is required to enter into a contract with you, to provide you with the ordered service and (if the service is provided by our partner) to do our part in the contractual relationship between you and the third-party service provider. This will include the transfer of your data to this third-party service provider. You can find the complete list of third-party Data Controllers that we might share your data with here .
+As with the previous example, we are allowed to process your Personal Data for this purpose based on a legal ground of necessity for conclusion or performance of a contract.
+Customer support
+Customer support is a huge part of our services. We will record all of our communication through all channels, such as email, chat and phone calls, in order to provide you with the service that you require. Part of our customer support is also helping our customers with potential legal issues with the air carriers (in case of missed flights and similar situations). For this, we have partnered with a third-party service provider. When you have a legal problem, we will send this provider your email address and you will be contacted with an offer to help you exercise your claims. You can learn more about the sharing of your personal data with third-party data controllers here .
+Again, we are legally allowed to process your Personal Data for this purpose based on a necessity for the conclusion or performance of a contract.
+User account
+If you want to register a Kiwi.com account, we need to process your Personal Data such as your email address, password and other information necessary to provide you with this service. We are legally allowed to this based on a necessity for the conclusion or performance of a contract.
+Fraud prevention
+When you book a flight or order any other service through our website or app, during the payment transaction, we use a third-party service that helps us prevent fraudulent behaviour. This is a very common process that happens nearly every time you order something online. For this to be possible, we will transfer your Personal Data momentarily to a third-party Data Processor. However, this is not something to worry about, the whole transaction is completely secure, and we use one of the best and most common fraud-prevention tools. You can learn more about the Data Processors we use here . Furthermore, to prevent attempts for fraudulent chargebacks, if you report fraudulent purchase through your bank, we might check your social media to see, whether you have some sort of connection to the person who ordered the ticket to make sure that it is not an attempt to get the money for the ticket back by fraud. We shall only process limited information about your connection to the person, who ordered the ticket, and whether you by any chance haven’t published some information connected to the flight (e.g. photos from the airport taking the flight).
+We need to prevent fraudulent behavior to protect our business and our property. This protection against fraud is one of the strongest legitimate interests recognized within the EU. Therefore, we process your personal data for this process on the legal ground of the legitimate interest.
+Marketing purposes
+Sending personalized offers
+To provide you with the best offers and to maximise our marketing efficiency, we process your Personal Data for the purposes of direct marketing (email offers and related processing activities). Besides your contact details, we also keep data like your transaction history, flight preferences and other data about your interaction with us that help us with customer segmentation and personalisation of these offers. For example, we might tailor a special offer just for you based on your previous orders.
+Additionally, when you provide your information during the booking process or while ordering another service, we may send you an email to remind you of any unfinished orders that are still incomplete. We will only keep your Personal Data collected in this way for 30 days.
+We can send you offers and other commercial communications based on a legitimate interest in direct marketing. At any time, you can object to this and we will immediately cease to process your Personal Data for this purpose. However, this means that we will no longer be able to send you any offers.
+We will never share your contact details with other Data Controllers without your knowledge and we will only contact you with offers that are linked to our main business. You can always unsubscribe and check your subscription status through the links below every newsletter that you get from us.
+Marketing Analytics
+To improve our marketing campaigns in general, we also perform analysis to help us see which campaigns work and how they contribute to our conversion rates. To secure the maximum effectiveness and best outcomes of such analysis, we use third-party Data Processors. You can see the full list of third parties that we use and therefore share your Personal Data with here . In all cases, we remain the Data Controllers of your Personal Data and these third parties can only use them to fulfill our purposes.
+For this purpose, we also process your Personal Data based on our legitimate interest of market research. At any time, you can object against this processing. We will then assess whether we can prove that our legitimate grounds for the processing override your individual interests, rights and freedoms. If not, we will cease to process your Personal Data for this purpose.
+Ads, notifications and banners on Kiwi.com and third-party websites
+We want to make sure that you don't miss out any special offers that we have. Because of this, we send website and app push notifications (with your consent) and we also display ads on Kiwi.com and third-party websites that are tailored for you according to your past orders. It might therefore happen that you'll see ads offering booking of flights on Kiwi.com elsewhere on the internet.
+We can send you notifications and display ads based on our legitimate interest in direct marketing. At any time, you can object and we will immediately cease to process your Personal Data for this purpose.
+Friend referral
+If you have a friend with a Kiwi.com account, it may happen that he/she will refer you to us and provide us with your email address even if you have never visited our website or even heard about Kiwi.com before. You will then get an informational email with a link. If you use it to make a booking on our website, both you and your friend will get a financial reward in the form of credit that can be used as discount when paying for flight tickets or services.
+For this purpose, we process your Personal Data based on our legitimate interest of direct marketing. At any time, you can object against processing and we will immediately cease to process your Personal Data for this purpose.
+Improving our services
+Improvement and development of our website and services
+As with any other business, to improve the way we do things, we need some data about you, our customers. To this end we use third-party services that allow us to record and analyse your behaviour. Thanks to this, we can see trends and patterns which help us improve many areas of our business activities.
+You can see the full list of third parties that we use and therefore share your Personal Data with here . In all cases under this purpose, we remain the controllers of your Personal Data and these third parties can only use it to fulfil our purposes.
+For this purpose, we process your Personal Data based on our legitimate interest in improving our services. At any time, you can object against this processing. We will then assess whether we can prove that our legitimate grounds for this processing override your individual interests, rights and freedoms. If not, we will cease to process your Personal Data for this purpose.
+Training and evaluation of our customer support staff
+If you call us on our customer support line or contact us through email or chat, we will record the phone call or the messages for the purpose of improving our services. These recordings will be then sorted, and we will only keep those in which our staff made some sort of mistake when dealing with your requests. These recordings are subsequently used during training sessions so that we can make sure these mistakes don't happen again.
+For this purpose, we also process your Personal Data based on our legitimate interest in improving our services. At any time, you can object against this processing. We will then assess whether we can prove that our legitimate grounds for this processing override your individual interests, rights and freedoms. If not, we will cease to process your Personal Data for this purpose.
+Other purposes
+Establishment, exercise or defence of legal claims
+We also store and process your Personal Data for the purpose of establishing, exercising or defending against legal claims. Whenever you book a ticket or order any other service, we will keep all relevant data for potential future legal claims that you or we could have. Similarly, if you send us a data protection request, we will also be storing all the data you give us and the data about our handling of the request for this purpose.
+Generally, we will keep your data for this purpose for 4 years which is the maximum length of the statute of limitation (the maximum time in which you can file a lawsuit against us) set by the Act No. 89/2012 Coll, the Civil Code. We will never use your Personal Data for any other purpose when it is stored solely for this purpose.
+For this purpose, we process your Personal Data based on our legitimate interest in the protection of our legal rights. At any time, you can object against this processing. We will then assess whether we can prove that our legitimate grounds for the processing override your individual interests, rights and freedoms. If not, we will cease to process your Personal Data for this purpose.
+Compliance with legal obligations
+We need to process some of your Personal Data to be able to fulfil certain legal obligations that are applicable to us. Because this is a legal necessity, we don't need to obtain your consent for it. For this purpose, we will process your identification and contact information and information about your bookings. The main legal obligations we need to do this for arise from Act No. 89/2012 Coll, the Civil Code, Act No. 634/1992 Coll, on the protection of consumers, Act No. 235/2004 Coll, on Value Added Tax and Act. 563/1991 Coll, on Accounting. If you send us a data protection request to fulfil one of your rights under the GDPR, we will ask you for some personal data which we will then process for the purpose of achieving compliance with the GDPR.
+Who do we share your Personal Data with and why?
+Sharing data with other Data Controllers
+We will share your Personal Data with third parties for their purposes. We send your data to the air carriers with which you, through our brokerage services, enter into a contract of carriage and whose identity will be made known to you before you enter into the agreement with us or with a provider of other services under the same conditions. In some cases, we also share your Personal Data with the operators of the Global Distribution Service.
+This means that your Personal Data may be disclosed to selected carriers or other service providers in Third Countries. You can learn more about transferring your data to Third Countries here .
+Each selected carrier will treat your Personal Data in accordance with their own Privacy Policy (which is published on every carrier's website). Disclosure of Personal Data to other service providers will be done in accordance with the applicable Personal Data laws and regulations.
+Learn More
+Flight Bookings
+To be able to book flights that you choose, we need to send your Personal Data to the air carriers.
+The air carrier, whose flight ticket you choose to buy. When booking a flight, it will be always visible, who is the air carrier that you will fly with.
+Global Distribution System
+Sometimes, when we search for the flights, we use the Global Distribution System (GDS). GDS providers are always Data Controllers. The data protection duties by GDS providers are specifically addressed in the EU Regulation No. 80/2009 on Code of Conduct for computerised reservation systems.
+Amadeus
+Other services
+When you order another service, we will send your Personal Data to the third party that provides the service that you've ordered.
+The provider of service that you order. When ordering the service, it will be always clearly visible, who is its provider.
+Sharing Data with Data Processors
+There are many activities that we need completed but can't do by ourselves. Therefore, we use third-party partners to help us. In many such situations, the partners logically couldn't manage without your Personal Data. Because of this, we share it with them. However, in all cases like this, we remain controllers of your Personal Data and they act as processors.
+That means that even though they are in possession of your data, they can only process it for our purposes and we are always in charge of it. They cannot under any circumstances use the data for their own purposes or to use the data in a way that would go against our agreement.
+Furthermore, we only use partners that have given us sufficient guarantees that they comply with the GDPR requirements and that your data will be always kept safe.
+Learn More
+Basic infrastructure
+As for nearly any other internet company, the best way to operate our business is to outsource the basic infrastructure (servers) to the biggest, best and most secure providers in the world.
+Amazon Web Services Inc.
+Booking management and customer support
+We need to keep all the data related to your booking and customer support in one place. Therefore, we use platform(s)/software from third-party provider(s) that allow us to quickly access your data in order to maximize your customer experience.
+Citrix Systems, Inc.
+Genesys Telecommunications Laboratories, Inc.
+Payment acquiring and processing
+To receive money from you in exchange for our services, we need to pass your Personal Data related to the card payment to "payment acquirers" (internet banks and payment service providers). To process your payment information, we use third-party payment gate which offer the highest standard of security in the industry (PCI DSS).
+PayU S.A.
+ZOOZ Ltd.
+Credorax Ltd
+SMS communication
+Sometimes, we need to send SMSs to our customers. To do this automatically and smoothly, we need to use the services of external technology providers.
+Twilio Inc.
+Nexmo Inc.
+Fraud prevention
+To avoid fraudulent transactions, we check all payments with a "fraud preventor" i.e. third-party technology provider, which detects fraudulent payment attempts.
+Forter, Inc.
+Jumio Corp.
+Ticketing partners
+Sometimes, we need help with the purchase of the flight tickets, mainly in cases where the purchase has to be made via the Global Distribution System and mainly because it is the only way to get the best price for our customers. In these cases, we need to share your Personal Data with our "ticketing partners" who are able to help us with the purchase directly from the airline via the Global Distribution System.
+«AVIA CENTER» Ltd.
+STUDENT AGENCY, k.s.
+FLY UNITED s.r.o.
+Sending personalized offers and Marketing analytic
+Sometimes, we want to send you marketing materials or use your Personal Data for market segmentation to find out which marketing strategy to use based on shared characteristics with our customers. To automate this, we outsource these services from third parties.
+Exponea s.r.o.
+Facebook Inc.
+Data Analytics
+We use analytic and logging software tools from third-party providers which allow us to have bigger insights about our customer base and make our services as convenient to our customers as possible.
+Exponea s.r.o.
+Facebook Inc.
+Google LLC.
+Keboola s.r.o.
+GoodData Corporation.
+Datadog Inc.
+Smartsupp.com, s.r.o.
+Mapbox, Inc.
+Criteo SA
+Software engineering
+Sometimes, we may share Personal Data with our external software engineers who help us with our technology.
+Currently, we cooperate with many individual software engineers. To respect their right to privacy, we will provide you with the specific list relevant in your individual case on your demand.
+Other purposes
+Accounting
+We are obligated to issue proper invoices and keep accounting documents (e.g. invoices) in the state which is required by Czech law, therefore, we are using accounting systems which are provided by a third party.
+Fakturoid s. r. o.
+How long do we store your Personal Data?
+In general, we will process your Personal Data until we won't need it for any of these purposes . The maximum data retention length will generally be 4 years, which covers the general statute of limitation in the Czech Republic (the purpose of establishing, exercise or defence of legal claims).
+The exception from this is the processing for the purpose of Sending personalized offers. Under this purpose, you will periodically get email offers from us, and in every email, there will be a clear and easy way to unsubscribe and therefore object to this type of processing. Therefore, we will keep and use your Personal Data for this purpose, until you unsubscribe.
+How to access and control your Personal Data?
+We want you to always be in control of your Personal Data. To this end, you have certain rights that allow for it. Under certain conditions, you may:
+gain access to all your data that we use or processing, and even get a copy of all of it,
+ask us to delete your data,
+correct the data that we are processing if you think that there are mistakes,
+restrict the data processing,
+object to processing,
+receive your Personal Data in a commonly used and machine-readable format or to transmit this data to a different provider.
+You can exercise your rights by sending us an email with your request through this form: kiwi.com/privacy/rights .
+Please note, that in order to ensure the safety of your Personal Data, we will only comply with the requests that are sent from the email address used during the booking or ordering of a service. If someone else did the booking for you, we will request that you provide additional information to us (Booking ID, etc) to ensure that you are really the owner of the Personal Data in concern.
+Learn More
+Access your Personal Data
+At any time, you have the right to ask us whether we process your Personal Data and to get the following information:
+Purposes for which we process your Personal Data,
+Categories of your Personal Data we're processing,
+List of third-parties with whom we share your Personal Data, in particular when these third-parties are based in Third Countries
+Duration that we plan to process your Personal Data, or at least how we determine the retention period
+Your rights as a data subject according to the GDPR
+Your right to lodge a complaint with a supervisory authority
+Where we received your data in cases where we didn't get the data straight from you,
+If applicable, any information about automated decision making that you may be subject to
+When the data was transferred to a Third Country and what safeguards apply according to the GDPR
+Also, on your request, we will provide you with a full copy of all the Personal Data about you that we're processing. The first copy is for free. However, for any further copies we may charge you a fee to cover our administrative costs.
+You can also request your data in a commonly used format for the sake of data portability .
+Delete your Personal data
+You have also the right to have your data completely deleted (or more precisely, irreversibly anonymised) if one of the following situations applies to you:
+we no longer need your Personal Data for any of the purposes defined in this Privacy Policy
+you've successfully objected to the processing according to the Art. 21 of the GDPR and we have no other purpose for which we need your Personal Data,
+we've processed your Personal Data unlawfully, or
+there is a legal obligation that obliges us to delete your Personal Data.
+However, you don't have the right to request the deletion of your Personal data, if the processing is necessary for:
+exercising the right of freedom of expression and information,
+compliance with a legal obligation that obliges us to keep the Personal Data, or
+we need the Personal Data for the establishment, exercise or defence of legal claims
+Correct your Personal Data
+If you feel that any Personal Data that we're processing about you is not accurate, you can let us know and we will do our best to correct it.
+Please note, that we cannot correct the data in our databases that are connected to your flight ticket. If we would do that, it wouldn't change it on the part of the air carriers or providers of other services and we couldn't pair it together. If you want to change it, you can always do it in the Manage My Booking section on kiwi.com.
+Restrict processing of your Personal Data
+Under certain conditions, we will restrict the processing of your Personal Data. This means that we will make sure that they are not being processed for any other purpose than to archive it or to move it to a secure archive. You have the right to request this restriction if:
+you challenged the accuracy of your Personal Data (we will continue processing it once this is resolved),
+we've processed your Personal Data unlawfully but instead of deletion, you only request restriction,
+the only remaining purpose for processing your Personal Data is the establishment, exercise or defence of legal claims, or
+you've objected to data processing according to the Art. 21 Para 1 of the GDPR and we're assessing whether your request is justified
+Object to processing of your Personal Data
+You can object against any purpose for which we're processing your Personal Data based on the legal ground of legitimate interest. When you object against processing for any Marketing purposes , we will stop using your Personal Data for this purpose immediately.
+If you protest against any other purpose based on a legitimate interest, we will stop processing your Personal Data for this purpose, unless we can prove that our legitimate grounds for processing it override your individual interests, rights and freedoms.
+Get your Personal Data portable
+Lastly, you have the right to obtain your Personal Data processed for the purposes of Provision of our services (or any other purposes where we process your Personal Data based on either consent or necessity for a conclusion or performance of a contract) in a commonly used and machine-readable format and have the right to transmit that data to another controller of your choice.
+Cookies & Similar technology
+Cookies are small text files placed on your device that allow us to remember certain information about you for multiple purposes, such as the operation of multiple basic functionalities of our website, storing your setting and preferences on our website, managing your account, preventing fraud, improving performance while browsing our website, marketing purposes or analysing your use of our website for the purposes of improving our website and our services.
+Basically, on our site, you will encounter three types of cookies:
+Cookies that are strictly necessary for the operation of our website and provision of our services (these cannot be turned off),
+So-called "performance cookies", i.e. cookies that we use for statistics in order to improve our services, and
+Cookies that we use for marketing purposes.
+You can turn off the cookies that use for statistics and marketing purposes by setting your cookie preferences here .
+Learn More
+CloudFlare Security Features
+Cookies necessary for the purpose of technical security of the core functions of our website.
+forterToken
+forterTokenCopy
+ftr_ncd
+Forter
+A fraud prevention tool used for all payments on our website. This cookie is necessary to complete the transaction.
+gwmSourcePage
+SKYPICKER_AFFILIATE
+SKYPICKER_AFFILIATE_UID
+SKYPICKER_AFFILIATE_SUB
+sub1Param
+We use these cookies to track from which affiliate website you came (if any) and other information needed to realise the three-point relationship with the affiliate website, such as an indication of a successful booking. This cookie is an absolute necessity for the functionality of this operation model.
+cookie_consent
+preferred_currency
+preferred_language
+raf_creditBalance
+If you Refer a Friend from your account, we need to use this cookie to track your credit balance.
+SKYPICKER_VISITOR_UNIQID
+We need this cookie to track users who are not logged in. Without it, multiple basic functionalities of this website would not work.
+ua_session_token
+Without this cookie, logging into a Kiwi.com account would not be possible.
+track_*
+We need this cookie to know if a user completed the ordering process.
+ignore_mobile_ad
+This cookie is used to track whether the user has already closed the advert for our mobile application during their visit to our website. Without this cookie, we wouldn’t remember if the advert was already closed and it would pop up on every page.
+II. PERFORMANCE COOKIES
+Google Analytics
+We use Google Analytics tools to measure the traffic on our website to see our visitors' interactions with our website and other useful information that our visitors generate while browsing through our website.
+__inf_*
+Exponea Infinario
+As with the Google Analytics, this cookie helps us measure traffic on our website. We use this tool specifically to track how many visitors book a flight or order another service. We also collect data for testing new features on the website.
+jaco_uid
+Jaco Analytics
+This cookie allows us to use the Jaco recording software which monitors users' interactions on our website. We use this to improve parts of our website, e.g. because we can see, whether the users understand certain features and use them the way they should be used.
+splitster_*
+We use this cookie for A/B testing when we implement a new functionality or do any sort of modification on our website that we want to test how the users react to it. With this cookie, we can split our visitors into halves and show them two different versions of the website.
+logglytrackingsession
+Loggly
+We use this cookie to collect information about the overall functionality of our website along with all the activity on the page, so that our developers are able to debug issues on our website. Without this, we are limited in addressing certain production issues.
+SL_C_*_KEY
+SL_C_*_SID
+SL_C_*_VID
+Smartlook
+This cookie allows us to see the exact path that our users take while browsing through our website.
+III. MARKETING COOKIES
+COOKIES
+PURPOSE
+cto_lwid
+Criteo
+Criteo is an advertisement network that helps us display ads on third-party websites that you visit.
+__inf_*
+Exponea Infinario
+This cookie is necessary for marketing analytics and marketing automation. It allows us to segment our customers and to subsequently send them custom-made emails, pop-ups and push notifications and to display ads on Kiwi.com and third-party websites.
+Transferring your data outside of the European Union
+If we need to, we may transfer your Personal Data outside of the European Union. This will happen when you want to book a flight ticket with an air carrier from a Third Country or when you order a service from a provider based in a Third Country. Naturally, we need to transfer your data to these third parties because without it, the provision of ordered services would not be possible.
+For transfers to recipients in countries where we cannot rely on the decision of the adequate level of protection according to Art. 45 of the GDPR or appropriate safeguards according to the Art. 46 of the GDPR, we will transfer your Personal Data based on the exception in the Art. 49 Para. 1 Lett. b) of the GDPR. Each selected carrier or service provider will treat Your Personal Data in accordance with its own Privacy Policy (which is published on every carrier's website). Disclosure of Personal Data to other service providers will be done in accordance with the applicable Personal Data laws and regulations.
+Complaint with the supervisory authority
+Data Protection is a serious matter and the rules are quite difficult to implement correctly. No one is perfect, and it may happen that we make a mistake. If you feel that we mishandled your Personal Data, please turn to us first and we promise that we will try our best to resolve the situation. You can always approach us with any privacy or data protection related issue through this form: kiwi.com/privacy/questions .
+Nevertheless, at any time, you have the right to lodge a complaint with a supervisory authority. If you are from the EU, you can complain at the authority in the member state of your residence, in the member state where you work or in the member state of the alleged infringement.
+Generally, the complaints will be handled by the Czech Office for Personal Data Protection. You can learn more on http://www.uoou.cz .
+Company

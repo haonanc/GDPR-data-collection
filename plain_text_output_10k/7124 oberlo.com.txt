@@ -1,0 +1,286 @@
+ 
+ 
+ 
+_ _ _ _ _ _
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We base our processing of Personal Information as a data controller on the following lawful grounds:
+All processing of Personal Information related to you which are not based on the lawful grounds indicated below, are based on your consent.
+We process your account and payment details to perform the contract with you.
+We will process Personal Information related to you to comply with a legal obligation and to protect your and others’ vital interests.
+We will rely on our legitimate interests, which we believe are not overridden by your fundamental rights and freedoms, for the following purposes:
+Communications with you, including direct marketing where you are our client or a user of our client, or where you make contact with us through our Site and other digital assets;
+Cyber security;
+Support, customer relations, service operations;
+Enhancements and improvements to yours and other users’ experience with our services
+Fraud detection and misuse of the Service.
+You can:
+Access the data that Fyber keeps about you. Fyber will need to ask you to provide us credentials to make sure that you are who you claim you are. If you find that the data is not accurate, complete or updated, then you can provide us with the necessary information to rectify it.
+CONTACT US IF YOU WANT TO WITHDRAW YOUR CONSENT TO THE PROCESSING OF PERSONAL INFORMATION RELATED TO YOU. EXERCISING THIS RIGHT WILL NOT AFFECT THE LAWFULNESS OF PROCESSING BASED ON CONSENT BEFORE ITS WITHDRAWAL.
+Request to delete or restrict access to Personal Information related to you. Fyber will postpone or deny your request if Personal Information related to you is in current use for providing the Services or due to other legitimate purposes, such as compliance with regulatory requirements associated with Fyber.
+If you exercise one (or more) of the above-mentioned rights, in accordance with the provisions of applicable law, you can request to be informed that third parties that hold Personal Information related to you, in accordance with this Policy, will act accordingly.
+You can ask to transfer Personal Information related to you in accordance with your right to data portability.
+You can object to the processing of Personal Information related to you for direct marketing purposes.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fyber provides advertisers, advertising agencies, Demand-Side Platforms  and advertising networks (collectively, “Demand Partners”) and website and/or mobile application/website developers and/or owners publishers (collectively, “Supply Partners”); Supply Partners and Demand Partners are also referred to as “Customers”) with the following Services:
+Ad Exchange service, that enables Supply Partners to make their ad inventory available for purchase by Demand Partners for their ad campaigns through a Programmatic auction and for the winning ad of such auction to be served on Supply Partner;
+Mediation service, that enables Supply Partners to optimize placement of ads by third-party Demand Partners on their website, mobile application or mobile website (collectively, “Property”)  and for Demand Partners to buy ad inventory and serve ads directly on such property;
+Programmatic Mediation service, that enables Supply Partners and Demand Partners to use Programmatic auction for the sale and purchase of advertising space inventory on the Property;
+Offer Wall service, that enables Supply Partners and Demand Partners to use an opt-in scrollable offers which includes individual Ads to integrate into Property.
+Direct Sales service, that enables Supply Partners and Demand Partners to run ad campaigns on  Properties.
+From time to time, Fyber will offer ancillary services to the services described above and additional services.
+Fyber has no direct engagement or interaction with the individuals that visit Customers’ services (users), except for the Fyber Offer Wall service where Fyber provides technical support to users of the Offer Wall on behalf of Supply Partner. When you contact Fyber’s customer support team for technical issues related to the Offer Wall, Fyber will process any Personal Information that you provide within the support request form, such as your name and email address to respond to your support request.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When interacting with the Property, Fyber may collect/receive the following information, which includes Personal Information:
+Information about your device, such as device type and model, network provider, browser type, language.
+Information about the Property, such as package name, key words, version.
+Information about your operation system, such as Android, iOS.
+Information about your mobile advertising identifiers, such as your Advertising ID (Apple IDFA or Google AAID).
+Information that your device provides, such as device IP address, network connection type and device GPS location (only if you provide permission).
+ 
+ 
+ 
+ 
+Fyber uses the Personal Information that it collects and receives –
+to provide the Services;
+to enable and optimize the Services’ tools and features;
+to study and analyze the functionality of the Services, Customers’ and Users’ activities;
+to provide support;
+to maintain the Services;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Share it with its Trusted Demand Partners:
+For the purpose of serving you with contextual ads, based on the content that you view or use on the Property, or targeted ads which are based on your preferences and online behavior, and that we believe can interest you.
+ 
+Share it with Supply Partners:
+ 
+Share it with Third Parties:
+To receive additional data on you from sources other than the Property in order to help analyze and enrich the Personal Information that we collect about you, and serve you with more relevant ads on the Property and on additional online properties.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fyber uses anonymous, statistical or aggregated information and  shares it with its partners for legitimate business purposes. It has no effect on your privacy, because there is no reasonable way to extract data from the aggregated information that can be associated with you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you’d like to opt-out from Demand Partners’ use of Personal Information about you to serve targeted advertising to your mobile application, you can download the Digital Advertising Alliance’s mobile application for each of your devices and set your preferences in the mobile application.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Managing Directors: Ziv Elul, Daniel Sztern, Yaron Zaltsman, Crid Yu
+Statutory seat: Amsterdam, The Netherlands,
+Kamer van Koophandel KvK-Nr. 54747805
+German Branch Office: Amtsgericht Charlottenburg, HRB 166541
+VAT ID No.: DE289234185
+Editorial responsibility for content under § 55 II RStV: Gerd Mittmann, Johannisstrasse 20, DE-10117 Berlin
+Disclaimer
+Fyber is not responsible for any content of third-party websites which can be accessed via links from Fyber’s website. Fyber does not control any of these sites and expressly dissociates itself from their content.
+Copyright
+All rights reserved. Reproduction of any content on Fyber’s website as well as storage and usage of such content on optical or electronic data carriers only upon prior written consent of Fyber. Unwarranted utilization of such content in whole or in part by third parties is strictly prohibited.

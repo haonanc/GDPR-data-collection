@@ -1,0 +1,54 @@
+This Privacy Policy explains the following items:
+How Sony Marketing Inc. ("Sony", "we", "our" or "us") may read, collect, use and/or store information about your use of the “Support by Sony” application.
+How you can contact us.
+Please read this Privacy Policy and indicate whether you agree to its terms by selecting the button or checkbox describing your consent or refusal. This Privacy Policy is in addition to any other privacy policy that may apply to your interactions with any Sony parent, affiliate, subsidiary, product, software or service.
+1. About Support by Sony
+“Support by Sony” is an application helpful for quickly finding support information to troubleshoot your Sony product.
+2. Information collected when you use Support by Sony
+Information Collected Automatically
+Sony may also receive certain information automatically when you use the Support by Sony application:
+Device information which is registered by a user on the Support by Sony application
+(e.g., device ID, model name, name of manufacturer)
+Application information (e.g., application ID or application version)
+Information on how you use the Support by Sony application
+Information collected automatically described above will be uploaded with a unique number assigned to the devices this application is installed, which allows us to distinguish the data received from such device from that received from other devices.
+Information collected automatically described above is used for statistical purposes and for sending you support information based on your choice of language and region. Sony will not send you any unsolicited marketing communications.
+If you wish to stop automatic data collection, you should cease using / uninstall the application.
+Information Collected Through Third Party Module
+Sony may collect information through following third party module(s) embedded in the Support by Sony application and use such information as follows:
+*Information collected hereunder may be also sent automatically to each module provider.
+[AWS Mobile SDK]
+Amazon Web Services privacy policy: https://aws.amazon.com/privacy/?nc2=h_ls
+Information collected through this module:
+- App usage history information
+- To push notification
+Information relating to push notification (e.g., device ID, Notification Token)
+Purpose of the collection:
+To develop future products and services
+Sony may collect and/or analyze the information referred to in Section 2 in order to improve our products and services and to develop new ones.
+To protect Sony and its users
+Sony may collect and/or analyze the information referred to in Section 2 in order to identify potential security threats and to protect Sony, its users and its parent and affiliates.
+4. Who else has access to your information?
+Your information that is communicated to and stored by Sony may be made available to other Sony Corporation's group companies and to third parties, as follows:
+Sony Corporation's group companies
+Your information may be shared with Sony Corporation and Sony Network Communications Inc. for the purposes of pursuing the activities outlined in Sections 2 and 3 above.
+Third party contractors
+We may use Hearbest Co., Ltd. as a third party contractor to process or analyze your information on Sony's behalf for the purposes set out in this Privacy Policy.
+5. Data Retention, Managing Your Information
+We will retain the information described in Section 2 for as long as you use the applications and for a period of six months thereafter. If you'd like us to delete user provided data that you have provided via the applications, please contact us at https://www.sony.net/supportapp and we will respond in a reasonable time and manner. Please note that some or all of the user provided data may be required in order for the applications to function properly, and we may be required to retain certain information by law.
+6. Transfer of your information internationally
+The applications are available to users around the world. Your information will be processed, stored and transferred for the purposes outlined in Sections 2 and 3 to countries outside the European Economic Area (EEA) and/or your country of residence, including in particular Japan. Your information will be processed by staff operating outside the EEA and/or your country of residence who work for us or for one of our service providers and may be seen by such staff in those countries. Data protection and privacy laws in these countries may not offer the same level of protection as in the EEA and/or your country of residence and you may have fewer legal rights in relation to your information.
+7. Security
+Sony undertakes reasonable security measures designed to protect against the loss, misuse or alteration of your information. Although we strive to protect your information, we cannot guarantee or warrant the security of any information transmitted to us through the application or that we store on our systems or that is stored on our third party contractors' systems.
+8. Our Policy Regarding Children
+Sony is committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information concerning children. If you are a parent or guardian and are concerned that your child has provided us with personal information without your consent, you should contact us as indicated below.
+9. Privacy Rights (including California Privacy Rights)
+In some countries, including countries in the EEA, you have certain rights with respect to the personal information Sony holds about you. These may include the right to request a copy of the personal information that we hold about you and you may request that we correct, amend, delete or block such personal information. If you would like to exercise any of these rights, please contact us at https://www.sony.net/supportapp .
+As of January 1, 2005, California Civil Code Section 1798.83 (the "Code") permits users who are California residents to request certain information regarding the disclosure of personal information to third parties which is used for their direct marketing purposes. To make such a request, to which Sony shall respond to the extent required by the Code, contact our Personal Information Management Office at this email: Privacy@am.sony.com
+10. Changes
+Sony may update this Privacy Policy from time to time and for any reason.
+Sony will notify you of changes to the Privacy Policy through the application.
+If you want to check the Privacy Policy at any time, please click on the following URL: https://www.sony.net/privacy/supportapp/en_ww/
+11. Contact Information
+If you have any questions or concerns about this Privacy Policy, or if you wish to exercise any legal right you may have in respect of your personal information, please contact us at https://www.sony.net/supportapp .
+Last Updated: 10 1, 2017

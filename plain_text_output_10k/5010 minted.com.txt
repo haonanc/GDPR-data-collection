@@ -1,0 +1,57 @@
+Privacy Policy
+This Privacy Policy is intended to help you understand what information we collect when you visit PrintedMint.com. The terms “Printed Mint,” “us,” “our” or “we” refer to Printed Mint LLC. The terms “you” and “your” refer to a Retailer, consumer, user or viewer of our Website(s) and/or mobile applications.
+This Privacy Policy covers all of www.printedmint.com and any mobile version of this website(s) (our “Website(s)”) and applications created by Printed Mint LLC that are available for consumers through various mobile devices (our “Mobile Applications”). The term “Secure Online Sources” (SOS) is used in this policy to refer to both our Website(s) and Mobile Applications. By using or accessing our secure online sources, you agree to this Privacy Policy.
+What information do we collect online and how is it used, and for how long?
+Personal Information:
+We may ask you to provide personal information through our secure online sources.
+For example, when you:
+• Fill out an application to become a Retailer
+• Participate in a survey or place an order through our website
+• Subscribe to receive our e-mail(s) or other communications
+• Enter contests when applicable
+• Fill out a “contact us”, or other informational forms
+Types of personal information collected or provided may include your name, your customers’ address, email, home, work and mobile telephone number(s), payment information, as well as other information you chose to provide which can identify you personally. Once we receive personal information through our (SOS) secure online sources, we may use it for such things as:
+• Processing orders and requests
+• Improving and developing our products and services, such as our Website(s) and Mobile Application(s)
+• Communicating with you regarding promotional offers, new products, and other information that we think may be interesting to you
+• Analyzing your activity with us, including but not limited to your purchase(s)
+• Personalizing our communications to you
+• Responding to your inquiries
+• Conducting surveys or contests
+Your information is retained in perpetuity or as long as allowed by law. Your information is maintained by Printed Mint as long as you are a registered customer of Printed Mint. Your information will be removed immediately upon the receipt of written notification by you and received by us in electronic form sent to support@printedmint.com
+What types of technology are used when observing or collecting information:
+Our third party service providers and Printed Mint use technology to automatically observe and collect information whenever you interact with our Website(s) or Mobile Application(s) and when you open our e-mails. The following describes some of the types of technology used:
+Navigational Information:
+We collect navigational information such as browser type, browser version and cookies; the service provider used to access our secure online sources; whether visitors arrived through a link directed to our Website(s) or visitors using a mobile version of our Website(s) or a Mobile Application, technical information about the device used, such as screen size, cookie support by the device and how images may appear.
+Payments:
+We accept payments through Authorize.net and PayPal. When processing payments, some of your data will be passed to Authorize.net of PayPal, including information required to process or support the payment, such as the purchase total and billing information.
+Cookies:
+Cookies assign a unique identification to your computer and are typically stored on your computer’s hard drive by your web browser until deleted by the user.
+How do we use information gathered through technology:
+Information gathered through technology allows us to determine such things as which parts of our Website(s) are most visited or used, what products are browsed and/or purchased, the effectiveness of our Website(s), possibly the city from which devices connect to our Website(s), and difficulties visitors may experience in accessing our Website(s). Cookies are also used to keep track of items you put into your shopping cart, and to tell us whether you have visited our Website(s) in the past.
+What information do we share with third parties:
+We do not, sell, distribute, or lease your personal information to third parties unless we have your permission or are required by law to do so or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our secure online sources or the public.
+We may share your personal information with third-party service providers such as MailChimp, Google Analytics, and or website plug-in that assist us in such things as: developing and administering our Website(s); conducting surveys or contests; sending and administering emails or text messages; performing marketing services, or other similar services. If we were ever merged with or become acquired by another company, or substantially sell all of our assets, or if we acquire another business entity or substantially all of its assets or we are involved in a corporate reorganization or other change of control, some or all of the personal information collected about you could be shared with this entity, and it may also be retained by us.
+Nothing in this policy restricts our ability to share aggregated or encrypted information that does not directly identify you.
+Email Marketing:
+You may elect to no longer receive marketing emails from us by following the unsubscribe instructions in the email you receive. Please understand, however, even if you opt out of marketing emails, you may still receive emails related to your transactions, such as order confirmation(s).
+Text Message Marketing:
+(If applicable) If you no longer want to receive text messages from us, you can follow the opt-out instructions provided at the time you receive your first “test” message.
+How can you update your personal information? If you believe that any information we have collected about you is incorrect or incomplete, we would kindly ask that you email us at info@printedmint.com or write to us as soon as possible, and let us know the correct information.
+Media:  
+If you upload images to printedmint.com, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+Website Comments:
+When visitors leave comments on printedmint.com we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+How will we update our Privacy Policy:
+We reserve the right to modify or amend this Privacy Policy at any time and for any reason. If we ever change our Privacy Policy, we will post the new policy on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Should there be a material change to our Privacy Policy, it will be applied only to the information we collect after the effective date of the change.
+How do we protect your information:
+Our secure online sources use the following types of security measures: firewall technology, limited access servers, encryption, and when you place an order online, we require the use of Web browsers that permit communication through secure-socket-layer (SSL) technology. SSL is encryption technology that provides security for information as it is being sent digitally.
+Your information is stored on a dedicated server. Our hosting company has been a top provider of hosting solutions for over 18 years. Each one of their facilities undergoes annual  SSAE 16  examinations, and all of their e-commerce web hosting plans are fully  PCI DSS  compliant. Your information is also displayed on your account pages by accessing this section using the login credentials you selected upon registration. If you need assistance at any time, please email the below support contact.
+Your Data: 
+If you have an account on printedmint.com, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+Who We Are: Printed Mint provides print on demand services, along with drop ship solutions. We are located at 2515 E. Rose Garden Lane Ste. 1. Phoenix, AZ 85050. Our website address is https://printedmint.com. Our phone number is 877.242.4810. Our email is support@printedmint.com.
+If you have questions pertaining to your data, removal of your data, data-related issues, or concerns with respect to our Privacy Policy, please call us toll-free at: 877.242.4810
+or email us at support@printedmint.com
+This document was last revised on May 22, 2018.
+Printed Mint © 2016 - 2018. All Rights Reserved.

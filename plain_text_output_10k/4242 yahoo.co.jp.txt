@@ -1,0 +1,30 @@
+Remarks:
+Original versions of (1) Sony Group Japan - Common Corporate Privacy Policy, (2) Public Disclosure etc. on Matters relating Personal Information and/or (3) Cookie Policy are/is written in Japanese under the premise that they apply are to individuals residing in Japan. This translation is provided only for the reference and convenience of non-Japanese residing in Japan. In case of discrepancies between Japanese version and this English version, the Japanese version shall prevail.
+Cookie Policy
+In order to analyse how customers use our website, and in order to provide more customised services and advertising to each individual customer, etc., Sony may use cookies and similar technology to collect certain information.
+1. Cookies and Similar Technology
+"Cookie" refers to a small text file which, when a customer accesses the website, is sent to the browser of the customer's computer or mobile device (hereinafter collectively referred to as "device") from the web server, and is stored on the device's hard drive.
+Cookies can generally be divided into two categories, 1st Party Cookie and 3rd Party Cookie. 1st Party Cookies are set by Sony. Such cookies, in almost all cases, are set for the use of the functions provided on the Sony website. On the other hand, 3rd Party Cookies are set by a third party partnering with Sony rather than Sony itself. For example, some 3rd Party Cookies are set by companies providing advertisement distribution services that are partnering with Sony, in order to track the customer's browsing activities, so that Sony's online advertisements can be posted in the optimal location.
+"Beacon (or pixel)" is a technology for transferring information from the customer's device to the server. A beacon can be embedded in email and online content such as images and videos, allowing for servers to read specific types of information from the customer's device, to recognise that the customer has seen specific content, or has opened / previewed an email, and to record information such as the date of viewing and IP address, etc.
+2. Purpose of Use of Cookies and Similar Technology
+(1) The cookies and similar technology described above are technologies established so that, when the customer browses the internet in general, or uses a specific online service, the customer's device is recognised automatically, and the service can be used continuously from the previous time, without the customer having to repeatedly input the same information.
+(2) By saving settings such as details on web browser history to cookies, etc., on the customer's device, the customer can enjoy greater convenience such as the automatic operation of the browser and access to websites.
+(3) Sony may use cookies and similar technology for the use of collected information, to analyse how the customer uses the website (access status, traffic, routing, etc.), to improve the performance of the website itself, and for improvements to the services provided to the customer by Sony through the website.
+In addition, when performing such analysis, the following tools will be mainly used, and information may be provided to the tool provider.
+Adobe Analytics
+・Information collected through the tool: Customer's website usage status (access status, traffic, routing, etc.)
+Google Analytics
+・Information collected through the tool: Customer's website usage status (access status, traffic, routing, etc.)
+Refer to Article 3 for information on how to stop the provision of information to these tools.
+(4) Sony may perform targeted advertising on the Sony website, and on the websites of advertising distribution companies partnering with Sony. The main advertising distribution service companies used by Sony are as listed in the following Article. Cookies sent by Sony are stored with the cookies sent by each advertising distribution service company on their respective company servers, and are handled in accordance with the respective privacy policy. Please refer to the following Article for information on how to stop distribution for targeted advertising.
+3. Method for Refusing Cookies and Similar Technology
+(1) Method for Refusing All Cookies
+Cookies on a customer's device will remain on the device until they are deleted by the customer or until the fixed expiration period has elapsed. Almost all browsers are set to automatically accept cookies by default; however, a customer may disable cookies by changing the browser settings. It should be noted that, if cookies are disabled, some website functions may become unavailable, and some pages may no longer display correctly, so please bear this in mind. For example, the customer may encounter inconveniences such as being unable to log in and access their Sony account, being unable to make a purchase, or being unable to register a Sony online warranty.
+Please refer to the following URLs for information on the most common browsers, and how to change cookie settings.
+(2) Method for Refusing Specific Cookies
+The method for stopping the provision of information for the tools stated in Section (2) of the preceding Article is stated on each of the following respective URLs. However, if you would like to delete all such cookie information, please be aware that you may be subject to restrictions in the use of the products and services provided by each company.
+Main Tool Provider
+Main Advertising Distribution
+(3) Method for Refusing Beacons
+If a beacon is included in online content, you can reject beacons by disabling cookies as described above.
+Although email beacons can generally be disabled by not downloading the image included in the received message, this method is dependent on the function of your email software, and it will not necessarily be the case that beacons are always disabled. In such a case, please follow the delivery suspension procedures for the email newsletter to which you are subscribed.

@@ -1,0 +1,46 @@
+Register
+Please enter the details below to create an account and save your policies.
+First Name
+Last Name
+Email Address
+Confirm Password
+Password must be a minimum of 8 characters and contain at least one uppercase letter and one number.
+create account
+×
+Welcome back
+Log in to your dashboard to create a privacy policy, access stored policies or update your details
+Don’t have an account? Register here
+Email Address
+Remember Me
+We can't find a user with that e-mail address.
+Reset Password
+Protection
+Don’t use a randomly Googled privacy policy when you can create a tailor-made policy for your site in accordance with the Australian Privacy Act.
+Australian
+Our policies comply with The Privacy Amendment (Enhancing Privacy Protection) Act 2012 and include the 13 new Australian Privacy Principles.
+One-Off Payment
+Just $AUD99 per policy, with no reoccurring charges. If you're a designer or developer, you can partner with us to access exclusive rates, plus more.
+Two Policies
+Every policy created with My Privacy Policy includes a simplified and extended version so your users can read a shortened version or the policy in its entirety.
+Easy to Use
+With our beautiful interface, you can quickly and easily select the services your website uses and add them to your policy and to be done in around 5 minutes.
+Partner Program
+If you design, create or build websites, you can keep all your client's policies in the one place, access our reduced rate and partner resources. Find out more here
+As seen in
+And trusted by
+About you...
+Provide some basic information about yourself and your business and we'll use this information to pre-populate all the relevant areas of your privacy policy.
+...select services...
+Select those that correspond with your website's features. We will automatically insert the relevant clauses, making your privacy policy unique to your website.
+...review and complete.
+Confirm or edit your details before proceeding to payment. Your policies will be saved to your dashboard – the whole process completed in just minutes.
+“My Privacy Policy didn’t just provide us with a professional privacy policy, using their service encouraged us to look closer at our existing approach to privacy. In turn, we made certain changes to how we collect and manage our visitor’s data to bolster up our commitment to protecting their privacy.”
+Sparesbox
+“At Mity Digital we've been partners with My Privacy Policy since we discovered them a couple of years ago. We needed a privacy policy solution for our web clients that was quick, easy and affordable - My Privacy Policy delivers on that 100%. For all our clients that don't have an existing policy My Privacy Policy is our first choice.”
+Mity Digital
+“We love that My Privacy Policy is easy to use and doesn't require much explanation. Using their site lets us create a customised policy, far faster than searching around for a generic one that doesn't suit (which is what our clients used to ask us to do). It's an obvious choice, and I recommend it to all our SME clients.”
+The Other Dimension
+Stay in touch
+Subscribe to our newsletters to stay in the loop with online privacy matters.
+We only send occasionally and we don't spam. You can read our privacy policy here .
+© 2018 My Privacy Policy

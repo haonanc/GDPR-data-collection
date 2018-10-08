@@ -1,0 +1,126 @@
+If you’re running a website on the internet, the odds are good that you’re collecting some form of information about your visitors. There are both legal and ethical requirements that make it important to publish a privacy policy on your website.
+A privacy policy will protect you from many legal liabilities. At the same time, sharing privacy information with your users is just the right thing to do whether or not it’s required by law.
+In the following article, you’ll learn what elements you should include in a privacy policy, what to add to those elements, and a few sample website privacy policy templates and examples to get started.
+5 Key Elements of a Website Privacy Policy
+According to the US Better Business Bureau , there are five important elements you need to include in your website privacy policy.
+Notice: Tell your readers all of the personal information you’re collecting about them throughout the site.
+Choice: Explain whether the visitor can opt-out of their information being collected and used, and how to do so.
+Access: Provide any links where readers can see the data you’ve collected and correct it if they want to.
+Redress: Give your visitor options they have available if the privacy policy isn’t adhered to.
+You don’t need to include an entire section for each of these topics in your policy, but you should try to make sure all of the information is included in some format.
+Let’s explore each of these website privacy policy elements in more detail.
+Website Privacy Policy: Introduction
+Your privacy policy should start with an introduction detailing what the policy is for.
+It should also detail what information the reader will learn from reading it. Insert the name of your service or website wherever you see “(website)” in the text.
+You may start with an introduction based on this privacy policy template:
+“Here at (website) we take personal privacy very seriously. As a general rule (website) does not collect your personal information unless you chose to provide that information to us. When you choose to provide us with your personal information, you are giving (website) your permission to use that information for the stated purposes listed in this privacy policy. If you choose not to provide us with that information, it might limit the features and services that you can use on this website.
+Generally, the information requested by (website) will be used to provide a website feature or service to you, such as commenting, support, or providing future content better tailored to your interests. A description of (website)’s intended use of that information, how that information is collected, security measures (website) takes to protect that information, and how to grant or revoke consent for collection and use of that information will be fully described the ‘Privacy Notice’ section of this privacy policy.”
+With the introduction out of the way, it’s time to put together the Privacy Notice section of your privacy policy.
+Website Privacy Policy: Notice
+To complete the notice section of your privacy policy, you’ll need to do a full audit of your website to determine what information you’re collecting from visitors . Usually, this could include any of the following sources.
+Forms (contact info)
+Ad scripts running on any pages of your site (demographics)
+Commenting scripts (IP address and location)
+Social media integration (friends and family)
+Most blogs, forums, and even larger websites use ad networks, commenting plugins, and other scrips that either directly or indirectly collect information about users.
+For example, if your site uses Disqus, it requires visitors to type in their email address. But what many users are not aware of (unless you let them know) is that it also logs the IP address of the computer they’re using to leave a comment on your site.
+It’s important that you understand the information your site is actually collecting from users. You should make sure to let them know about it in the notice section of your website privacy policy.
+It’s best to create a separate section for each form of data collection that exists on the site. Describe how that tool collects information and what information it collects.
+Tailor the text of each example below to match the information that your own site is collecting.
+Email Addresses
+This is a form of personal information that you’re collecting, so disclose this to your visitors with privacy notice text like the following example:
+“Some of the services on this website allow you to send us an email. We will use the information you provide, such as email address or phone number, only to respond to your inquiry. Keep in mind that email transmissions are not encrypted by default, so we suggest you do not send sensitive information such as Social Security numbers, credit card numbers, or bank account information via such contact forms.
+If such information is required, it will be via a web page that clearly states the page and its transmission of information is secure and encrypted. All electronic messages received from visitors are deleted when no longer needed.”
+As you can see, the statement describes exactly what information you’re collecting, and how it will be used.
+Third-Party Websites and Applications
+Any plugin or service you use to add features to your website may give you access to your visitor’s personal information.
+Some examples are commenting services (like Disqus) or social media plug-ins that integrate with a visitor’s social account.
+Even if you don’t directly receive that information, if that service lets you log into an account that lets you see or collect that information, you need to disclose that to your visitors.
+Here is an example of privacy policy text you can use for this section:
+“(website) uses commenting and social media plug-ins and third-party websites. We use those third-party services to interact with visitors and to build our community on social media. We also uses these third-party services to measure the number of visitors to our website, to interact with visitors on the site, and to make our website more useful to visitors.
+In such cases, the third-party application may request an email address, username, password, internet protocol (IP) address, and geographic location for account registration or sign-in purposes. (website) does not use those third-party websites or services to collect personal information from individuals. Any personal information collected by the third-party website will not be stored or transmitted by (website). (website) has no control over or access to specific login information or any other sensitive personal information provide to third-party websites.”
+The last section of this statement is important because third-party sites or services may have a different privacy policy than you do. It’s important to make it clear that your website has no control over, or access to, that information.
+Ultimately if that third-party service gets into legal trouble for misuse of information, like Facebook’s recent Cambridge Analytica scandal , you will be protected from any of those issues.
+This can also build trust with your readers that even if other websites aren’t good at protecting their privacy, you can still be trusted.
+Information for Tracking and Customization (Cookies)
+Almost every website online uses some form of analytics or advertising script to measure users session information.
+These scripts collect a lot of personal information about the visitor, even though they don’t specifically identify those users by name.
+If you run these scripts or display those ads, it’s very important that you disclose the information collected to your visitors. Here are some sample privacy policy statements to do that:
+“(website) uses cookies to provide a customized user experience on the site. A cookie is a small file that a website transfers to your computer to allow your browser to remember information about your last session on that website. Your computer only shares information in the cookie with the specific website that provided it, and no other website can request that information. (website) also uses third-party analytics services (like Google Analytics) to gather this information for anlysis.
+(website) collects and temporarily stores certain information about your visit to help us to better align our content and the website design with your needs. The information these cookies collect includes:
+1. The domain you access our website from
+2. Your computer’s IP address
+3. The date and time you accessed the site
+4. The operating system of your computer
+5. The browser you’re using to access our site
+6. The Universal Resource Locators (URLs) of the pages you visit on our website
+7. Your username, if you’ve logged into the site
+8. The URL of site you came from, if you clicked a link there that brought you to our website
+We may share this information internally with (website) employees or third-party contractors as needed. This information is only used to to improve the website and enhance our visitors’ experience. Raw data logs are only retained temporarily site management purposes.”
+This will likely be the largest section of your privacy policy because its usually the kind of service most websites use and it collects so much information about the user.
+It’s important (and legally required) to be transparent about that information and how you use it.
+Website Privacy Policy: Security
+Now that you’ve detailed the information you collect through your website, it’s time to add another section that should put your visitors’ minds at ease.
+This is where you detail all of the security steps you’ve taken to protect your visitors’ information
+Here’s a sample of what that section might look like. Again, replace “(website)” with the name of your own site, and tailor this template text to fit your situation:
+“(website) takes the security of your personal information very seriously. We take many precautions to ensure that the information we collect is secure and inaccessible by anyone outside of our organization. These precautions include advanced access controls to limit access to that information to only internal personnel who require access to that information. We also use numerous security technologies to protect all data stored on our servers and related systems. Our security measures are regularly upgraded and tested to ensure they are effective.
+We take the following specific steps to protect your information:
+(1) Use internal access controls so only limited personnel have access to your information.
+(2) Anyone with access to user information is trained on all relevant security and compliance policies.
+(3) Servers that store visitor information are regularly backed up to protect against loss.
+(4) All information is secured through modern security technologies like secure socket layer (SSL), encryption, firewalls, and secure passwords.
+All access safeguards described above are in place to prevent unauthorized access by outsiders to information stored on or transmitted by our systems.”
+The important thing when explaining security to your visitors is that you don’t go into too much detail. Remember, not all of your visitors are tech-savvy. They only need to know the general security measures you’re taking to protect their information.
+Website Privacy Policy: Choice, Access, and Redress
+The control that visitors have over the information you collect is usually addressed in a single section of the website privacy policy, toward the end.
+It covers what options the visitor has to access the information and to opt-out of you collecting their information. It also covers filing a complaint if they ever discover you’ve violated your own privacy policies.
+All three of these are usually covered by offering visitors an option to contact you via email. You might craft this statement as follows:
+“You can do the following at any time by contacting us via the email address or phone number given on our website:
+(1) Ask for a list of personal information we have about you, if any.
+(2) Request a change, correction, or deletion of your personal information.
+(3) Request that we avoid collecting anything in the future (opt-out).
+If you do not wish to have cookies stored on your machine, you have the option to turn cookies off in your browser. However, keep in mind that turning off cookies may impact how this website functions. Disabling browser cookies will also impact how other websites you visit store browser cookies as well.
+Whenever we collect any sensitive information (such as social security numbers or credit card information), the information is encrypted and securely transmitted. You are able to confirm this by looking for the ‘lock’ icon in the browser address bar, and also confirm that the URL link starts with ‘https.’
+If you believe at any point that we are not following this privacy policy as stated, please contact us immediately via email (myaddress@mybusiness.com), or via telephone (415-555-1212).”
+As you can see, this entire section handles how to access personal information, as well as how to opt-out, and how to seek out redress if there are any problems.
+The contact sentence at the end of this section is usually a good place to end your privacy policy.
+However, if you prefer to end on a more personal note, you could always add another paragraph welcoming feedback or comments. Also consider providing your physical mailing address.
+The Importance of a Website Privacy Policy
+Providing a website privacy policy isn’t just important because it’s legally required.
+It’s good practice to make your website visitors feel confident that you have their best interests in mind. A thorough and detailed privacy policy provides visitors with a sense of transparency. It also helps new visitors to your site feel safe enough to use the site, and hopefully return again in the future.
+Enter your Email
+Comment
+Name *
+Email *
+July 30, 2018 at 7:45 am
+¿Puedes explicarnos màs sobre esto?, ha sido Genial encontrar mas informacion sobre este tema.
+May 3, 2018 at 2:48 am
+Yet IRL, most of these so-called Privacy Policies should be renamed as Surveillance Policies with a NO accountability subsection.
+May 3, 2018 at 12:31 pm
+Can't argue with that. Although Zuckerberg did get dragged in front of Congress recently to be held accountable so there was that at least, right?
+Stunning quest there. What occurred after? Good luck!
+billige fotballdrakter
+March 29, 2017 at 8:06 am
+I loved as much as you'll receive carried out right here. The sketch
+is attractive, your authored subject matter stylish.
+nonetheless, you command get bought an shakiness over that you wish be delivering the following.
+unwell unquestionably come further formerly again since exactly the
+same nearly a lot often inside case you shield this increase.
+Maglia Chelsea Bambino
+February 25, 2017 at 5:35 pm
+Hi, thanks for such a great article. But I have a question regarding which country's privacy policy we need to comply.
+Since every country has different privacy policy, So which country's privacy policy we need to comply.  Suppose I am from  X country, My hosting is in from Y country. My targeted used population is whole world.  My domain name's TLD is .COM. I do not have any physical business, I just have a blog site.
+What is the current guideline of deciding which country's guideline to be apply to my site?
+Now, if I think completely logical, There should be one global/international privacy policy Rule,  hence automatically every website gets automatically comply to every country.
+Much thanks for any guidance.
+February 7, 2017 at 11:36 pm
+very nice info you guys have here what everybody's thoughts on our post in respect to my free farm
+2 apk
+February 27, 2015 at 7:03 pm
+I think Privacy Policy makers should be enforced to have a simple English version of all Privacy Policies as well as the legally binding official one, as the required legal language style for Privacy Policies is very difficult and tedious for most people to read.
+Ryan has a BSc degree in Electrical Engineering. He's worked 13 years in automation engineering, 5 years in IT, and now is an Apps Engineer. A former Managing Editor of MakeUseOf, he's spoken at national conferences on Data Visualization and has been featured on national TV and radio.
+Latest Giveaways!
+Latest Deals
+Affiliate Disclosure: By buying the products we recommend, you help keep the lights on at MakeUseOf. Read more .
+Scroll down for the next article
+© 2018 MakeUseOf. All Rights Reserved.

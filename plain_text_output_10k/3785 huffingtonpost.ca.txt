@@ -1,0 +1,35 @@
+Facebook Is Even Keeping Track Of You Offline
+You might be surprised at what the company's policy allows — and what's left unsaid.
+Canadian Press
+Chuck Goolsbee, site director for Facebook's Prineville data centers, shows the computer servers that store users' photos and other data, at the Facebook site in Prineville, Ore., Oct. 15, 2013. Facebook frequently defends its data collection and sharing activities by noting that it's adhering to a privacy policy it shares with users.
+NEW YORK — To get an idea of the data Facebook collects about you, just ask for it. You'll get a file with every photo and comment you've posted, all the ads you've clicked on, stuff you've liked and searched for and everyone you've friended — and unfriended — over the years.
+This trove of data is used to decide which ads to show you. It also makes using Facebook more seamless and enjoyable — say, by determining which posts to emphasize in your feed, or reminding you of friends' birthdays.
+Facebook claims to protect all this information, and it lays out its terms in a privacy policy that's relatively clear and concise. But few users bother to read it. You might be surprised at what Facebook's privacy policy allows — and what's left unsaid.
+Watch: Facebook's business model is about selling you
+Facebook's privacy practices have come under fire after a Trump-affiliated political consulting firm, Cambridge Analytica, got data inappropriately from millions of Facebook users. While past privacy debacles have centred on what marketers gather on users, the stakes are higher this time because the firm is alleged to have created psychological profiles to influence how people vote or even think about politics and society.
+Facebook defends its data collection and sharing activities by noting that it's adhering to a privacy policy it shares with users. Thanks largely to years of privacy scandals and pressure from users and regulators, Facebook also offers a complex set of controls that let users limit how their information is used — to a point.
+You can turn off ad targeting and see generic ads instead, the way you would on television or in a newspaper. In the ad settings, you'd need to uncheck all your interests, interactions with companies and websites and other personal information you don't want to use in targeting. Of course, if you click on a new interest after this, you'll have to go back and uncheck it in your ad preferences to prevent targeting. It's a tedious task.
+Earlier on HuffPost Canada:
+As Facebook explains, it puts you in target categories based on your activity. So, if you are 35, live in Seattle and have liked an outdoor adventure page, Facebook may show you an ad for a mountain bike shop in your area.
+But activity isn't limited to pages or posts you like, comments you make and your use of outside apps and websites.
+"If you start typing something and change your mind and delete it, Facebook keeps those and analyzes them too," Zeynep Tufekci, a prominent techno-sociologist, said in a 2017 TED talk.
+And, increasingly, Facebook tries to match what it knows about you with your offline data, purchased from data brokers or gathered in other ways. The more information it has, the fuller the picture of you it can offer to advertisers. It can infer things about you that you had no intention of sharing — anything from your ethnicity to personality traits, happiness and use of addictive substances, Tufekci said.
+These types of data collection aren't necessarily explicit in privacy policies or settings.
+What Facebook does say is that advertisers don't get the raw data. They just tell Facebook what kind of people they want their ads to reach, then Facebook makes the matches and shows the ads.
+Apps can also collect a lot of data about you, as revealed in the Cambridge Analytica scandal. The firm got the data from a researcher who paid 270,000 Facebook users to complete a psychological profile quiz back in 2014. But the quiz gathered information on their friends as well, bringing the total number of people affected to about 50 million.
+"If you start typing something and change your mind and delete it, Facebook keeps those and analyzes them too."Techno-sociologist Zeynep Tufekci
+Facebook says Cambridge Analytica got the data inappropriately — but only because the app said it collected data for research rather than political profiling. Gathering data on friends was permitted at the time, even if they had never installed the app or given explicit consent.
+Ian Bogost, a Georgia Tech communications professor who built a tongue-in-cheek game called "Cow Clicker" in 2010, wrote in The Atlantic recently that abusing the Facebook platform for "deliberately nefarious ends" was easy to do then. What's worse, he said, it was hard to avoid extracting private data.
+If "you played Cow Clicker, even just once, I got enough of your personal data that, for years, I could have assembled a reasonably sophisticated profile of your interests and behaviour," he wrote. "I might still be able to; all the data is still there, stored on my private server, where Cow Clicker is still running, allowing players to keep clicking where a cow once stood."
+Facebook has since restricted the amount of types of data apps can access. But other types of data collection are still permitted. For this reason, it's a good idea to check all the apps you've given permissions to over the years. You can also do this in your settings.
+SUBSCRIBE AND FOLLOW
+Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more
+Newsletter
+Please enter a valid email address
+Thank you for signing up! You should receive an email to confirm your subscription shortly.
+There was a problem processing your signup; please try again later
+Please enter a valid email address
+Thank you for signing up! You should receive an email to confirm your subscription shortly.
+There was a problem processing your signup; please try again later
+"The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved.
+Part of HuffPost News

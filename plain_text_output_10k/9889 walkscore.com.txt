@@ -1,0 +1,30 @@
+Walk Score Privacy Policy
+By using Walk Score ("WS") you permit the collection and use of your personal information as outlined below in our Privacy Policy.
+1. Information We Collect
+Information you submit: WS collects information you submit such as addresses searched, profile information including name, email address, and user profile pictures. When you submit photos and comments to WS these will be displayed publicly  along with your name and we may distribute this information to a wider audience through third party sites and services.
+Information we collect: Some information collected is not explicitly submitted by the user. For example, we log your browser information, IP address, requested URL, referring URL, and timestamp. We may collect and store information about your location or the location of photographs if you enable your mobile device or computer to send us location information.
+2. How We Use Your Information
+Information you submit such as photographs and comments including your name may be redisplayed on the Walk Score website, other websites operated by Walk Score, and third party sites. WS will occasionally send email to our users and you have the ability to unsubscribe at any time.
+If you fill out a form to contact a real estate professional or call a real estate professional via our mobile apps, we may share personally identifiable information with that real estate professional. This may include data that you input as well as other usage data we collect.
+We use Facebook Connect and Google Login to authenticate users and to prevent abuse when people edit Walk Score information. We may use information from your  profile to contact you about Walk Score related features.
+Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server and administer Walk Score. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
+3. Transfer of Information
+WS will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, WS may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy.
+We reserve the right to transfer your personal information in the event of a transfer of ownership of Walk Score, such as an acquisition by or merger with another company.
+4. Links
+Our website may contain links to third-party websites to which we have no affiliation. WS does not share your personal information with those websites and is not responsible for their privacy practices.
+5. Use of Cookies
+Like most websites, Walk Score may use cookies to refine our site and simplify our user experience.
+6. Third Party Advertisers
+We use third-party advertisers to serve ads and collect data on Walk Score. Some of these companies may use information (not including PII) about your visits to this site and other websites in order to serve advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here .
+7. Opting Out
+If you want WS to cease sending you e-mail about the Services, you can discontinue such communication by following the instructions included in our e-mail.
+8. Children
+This website is not directed to children, and WS does not knowingly solicit information from any child under the age of 13.
+9. Terms and Modifications to this Privacy Statement
+By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. WS may modify this Privacy Policy at any time. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy.
+Walk Score uses the Google Maps API which has the following privacy policy .
+10. Contacting Walk Score
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us .
+Last modified 2/25/2013
+© 2018 Walk Score

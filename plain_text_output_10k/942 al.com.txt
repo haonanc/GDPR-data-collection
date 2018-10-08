@@ -1,0 +1,48 @@
+Severity: Warning
+Filename: libraries/Msdb.php
+Severity: Warning
+Message:  mssql_init(): A link to the server could not be established
+Filename: libraries/Msdb.php
+Severity: Warning
+Message:  mssql_bind() expects parameter 1 to be resource, boolean given
+Filename: libraries/Msdb.php
+Severity: Warning
+Message:  mssql_bind() expects parameter 1 to be resource, boolean given
+Filename: libraries/Msdb.php
+Severity: Warning
+Message:  mssql_execute() expects parameter 1 to be resource, boolean given
+Filename: libraries/Msdb.php
+Severity: Warning
+Filename: libraries/Msdb.php
+A Special Note About Children
+Our services are not directed towards minors nor do we encourage minors to use our services. Minors are not eligible to use our services and should not submit any personal information to us.
+Collection of User Information
+As a member of 3al.com, we only require our members to submit information necessary to use the services offered through our web site or our partners' web sites. This information includes your name, e-mail address, address, phone number and payment information (which may include credit card or banking information). From time to time, members of 3al.com will be given the option to participate in online surveys. Participation is always at your option. The information gathered from our surveys will only be used to enhance our members' experience, and to help us identify services and needs which may be valuable to our members in the future.
+Use and Disclosure of Personal Information
+Use of your information: We use personal information from our users solely to provide and enhance our services. For example, we use personal information to verify the identities of buyers and sellers, process the transaction, verify receipt of payment and confirm shipping information. These uses include but are not limited to sharing your information with other companies (such as your credit card company or banking institution) and exchanging your information with the other party to your transaction. We may also request information about you from third parties to provide our services. We also use personal information internally to improve our services.
+Restriction on Disclosure of Your Information by Us: We will not sell, disclose or rent to third parties individually identifiable user information collected at our web site, through our servers or otherwise obtained by us, other than to provide our services and as set forth in this privacy policy. From time to time, however, we may collect and/or disclose, transfer or share aggregated demographic or usage information obtained by us.
+Relationship with Our Partner Web Sites: Our services technology is often integrated with the offerings of other partnered web sites. Our partners may obtain other personal information about you through their web sites or otherwise through your access and use of their service and product offerings that are not used in connection with our services. The use, privacy and security of such information are not within our control and shall not be our responsibility, and shall be subject to your agreements with such partner, if any. We do not guarantee and are not responsible for any use of your information by our partners that would otherwise be in violation of this privacy policy. You should consult the policies of such partners. We also generally share user information with our partners to improve our services and our partners' services.
+Disclosure of Information to Protect our Rights and Comply with Applicable Law: We cooperate fully with all law enforcement inquiries and with third parties to enforce their intellectual property and other rights. We also comply fully with all applicable laws, include all applicable laws related to providing escrow services. We may disclose, in our reasonable judgment, user information as required to fully comply with all such actions and laws in the course of conducting our business. We may also disclose your information and communications to protect our rights or prevent liability to us. In such event, your private communications and personally identifiable information may be disclosed in ways not otherwise described in this privacy policy.
+Passwords and Our Confidential Information: We require that you do not disclose or share your password or other identifying information we provide to you with anyone else. Such passwords and information are our property and your use may be revoked by us at our discretion. You are also prohibited from using any password other than ones that we assign to you.
+Use and Disclosure of Transaction Information
+The terms and conditions of any transaction facilitated by 3al.com shall be considered confidential information and, as between the parties to a transaction and 3al.com. 3al.com will not disclose the terms to outside parties without the written consent of all of the parties to any transaction.
+Our Use of Cookies
+Cookies are data that are stored by your browser on your computer. For example, if you choose the option of saving your username when you Sign In, a cookie is used to store this information. Cookies are required to track your session when you are working with a transaction.
+Security
+With the understanding that perfect security does not exist on the Internet, we employ industry standard technologies to protect our users' information, including firewalls and secure socket layers. We also have appropriate off-line security measures in place in our physical facilities to protect the privacy of your personal information. So long as we employ reasonable security measures, we are not responsible for any unauthorized lost or disclosure of your information. Moreover, we are not responsible for the disclosure of your information by our partners or by other companies not under our control.
+Changes to Your Account
+3al.com gives you the ability to change or edit your personal information contained in your profile. Additionally, 3al.com gives you the opportunity to deactivate your account if you choose. Contact us by filling out the customer support form and request the deactivation of your account. If you have active transactions open, your account will be deactivated after your transactions have been resolved. We reserve the right to retain information after you have deactivated your account or information that you have requested to be removed in order to comply with applicable law, resolve disputes and enforce our rights.
+Revisions to this Privacy Policy
+We reserve the right to amend this privacy policy from time to time without notice to you. If at any time we decide to substantially change the manner in which we collect or use personally identifiable information, we will inform our members by posting a prominent announcement on our home page. However, your personal information will always be used in accordance with the privacy policy in effect at the time the information was collected.
+3AL is committed to respecting your privacy and recognizes the need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. In order to provide payment processing, billing, customer service and fraud detection services (collectively "Services"), 3AL collects and uses your Personal Information.
+3AL strives to comply with all applicable laws around the globe that are designed to protect your privacy. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+Information Sharing
+We ensure that your Personal Information will not be disclosed to anyone other than:
+3AL's affiliated merchant banks and third parties as required to process a transaction and provide our Services to you;
+3AL's merchant(s) from which you have purchased a product or service online using our Services;
+Companies that we may merge with or be acquired by. (Should such a combination occur, we will require that the new entity follow this Privacy Policy with respect to your Personal Information. If your Personal Information could be used contrary to this Privacy Policy, you will receive prior notice.);
+Law enforcement, government officials, or other third parties when (a) we are compelled to do so by a subpoena, court order or similar legal procedure; (b) we need to do so to comply with law; and (c) we believe in good faith that the disclosure of Personal Information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our agreement(s);
+Other third parties with your consent or direction to do so.
+Your Input
+If you have any comments or opinions you'd like to share with us regarding our privacy policy, please send them to feedback@3al.com
+Information

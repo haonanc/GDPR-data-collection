@@ -1,0 +1,32 @@
+‘Wow. That’s disgustingly devious’: Facebook accused of cheap trick in new privacy policy
+THE social media giant has been accused of deliberately deceiving users with fake notifications in an audacious sleight of hand trick.
+Facebook accused of cheap trick in new privacy policy.Source:Supplied
+AS DIGITAL companies grapple with new data protection laws for consumers in Europe, Facebook has been slammed for a cheap trick it used in an apparent attempt to get users to hastily accept a privacy policy that didn’t comply with the new laws.
+Social media sites use all sorts of methods to hold your attention and keep you coming back. You haven’t been on LinkedIn in a while? All of a sudden you get an email telling you a recruiter was looking at your page. You haven’t opened Instagram for some time? You soon find yourself getting a lot more push notifications about videos your friends are posting.
+Other tricks are more subtle like when you log onto Twitter and there’s a brief pause before your notifications pop up — that’s designed to keep you in suspense the same way the final reel of a pokie machine can take an extra second to fall into place.
+These sorts of things are part and parcel of using such services. But when you’re used to manipulating users, it can be easy to overstep the mark — and Facebook appears to have done just that.
+The much touted General Data Protection Regulation (GDPR) came into effect this month prompting people’s inboxes to fill with emails from companies about updates to their privacy policy and how they use customer data, in order to comply with the new rules.
+But according to a complaint filed by the European Centre for Digital Rights on behalf of an anonymous complainant, the social media giant used deceptive pressure tactics to get people to accept its privacy policy in violation of the GDPR.
+The complaint alleges that Facebook blocked users’ accounts if they did not consent and used “tricks” to get people to agree in the form of enticing them with fake message notifications to pressure them to click through so they could see the notifications.
+“[Facebook] used additional ‘tricks’ to pressure the users: For example, the consent page included two fake red dots … that indicated that the user has new messages and notifications, which he/she cannot access without consenting — even if the user did not have such notifications or messages in reality,” the complaint reads.
+Facebook actually put *fake red dots* to try and make you think you have messages even if you don't, so you agree to their tracking more hastily. Read full complaint against Facebook: https://t.co/uI5fYairtK - with tricks like that, sorry Facebook, you deserve to be hit hard. pic.twitter.com/inThjgPoov
+The company has only just recovered from a global privacy scandal and the reaction on social media was damning.
+“This is disappointing, Facebook. You are losing users’ trust for a reason,” wrote Tristan Harris, founder of Centre for Humane Technology who has been described by The Atlantic as the “closest thing Silicon Valley has to a conscience”.
+He spent three years as a Google design ethicist developing a framework for how technology should ethically steer the thoughts and actions of billions of people.
+Others who don’t spend their days grappling with such pertinent tech issues were equally admonishing.
+“Wow. That’s disgustingly devious. But brilliant, as idea,” wrote one Twitter user.
+A Facebook spokesperson told news.com.au the background people see on the GDPR screen for desktop is nothing more than a generic, Facebook-branded visual. The company chooses to show the image rather than having a blank screen because feedback from users claimed having a static image (vs. nothing) helped provide context that the message was actually coming from Facebook and not, for example, a phishing attack.
+“ We exclude all personalisation so it’s clear this isn’t specific to their account,” the spokesperson said. “For example: no profile image, no name, no bookmarks, no numbers in the notification dots, no friends list.”
+Facebook is the second biggest digital advertiser and in that world more data equals more money, so naturally it wants as few restrictions around how it uses that data as possible.
+The company recently moved the physical location of its servers holding user data outside of the EU as a way to skirt the GDPR for non EU residents.
+Facebook’s CEO Mark Zuckerberg has had a lot of explaining to do lately. Picture: Gerard JulienSource:AFP
+WHAT DOES THE GDPR MEAN FOR YOU?
+Years in the making, the GDPR rules are prompting companies to rewrite their privacy policies and in some cases (like Microsoft announced) apply the European Union’s tougher standards in other regions where privacy laws are weak. Although they take effect as Facebook faces an enormous privacy crisis, that timing is largely coincidental.
+The regulation has little relevance for Australia, but any company with customers in the EU, if they offer goods and services in the EU, or if they monitor the behaviour of individuals in the EU will be affected.
+Ultimately not much will change for you. Companies will keep on collecting and analysing personal data from your phone, the apps you use and the sites you visit. The big difference is that now the companies will have to justify why they’re collecting and using that information. And they’re prevented from using data for a different purpose later, the Associated Press reported.
+While much more detailed and thorough, as the Australian government’s Office of the Information Commissioner points out , the GDPR and the Australian Privacy Act 1988 share many common requirements, including the broad provisions to:
+• Implement a privacy by design approach to compliance
+• Be able to demonstrate compliance with privacy principles and obligations
+• Adopt transparent information handling practices.
+trending in technology
+News Pty Limited Copyright © 2018. All times AEST (GMT +10).

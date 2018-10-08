@@ -1,0 +1,105 @@
+ 
+ 
+We are TROVIT, a fast, simple and effective online search engine which provides access to thousands of advertisements located on thousands of web pages in a single search and through a single results page, with the purpose of saving you the time it takes to carry out individualised searches of each of said web pages (hereinafter collectively and interchangeably referred to as “TROVIT“, “we“, “our” or “us“).
+We   consider   the   privacy   of   people   important   both   to   the   visitors   to   our   website https://www.trovit.es and any other domains held by TROVIT in connection with this website, application and blog (hereinafter collectively, the “Platform“) and to any other people who may provide us with information through said website and domains, whose data are processed by TROVIT as part of our provision of services (hereinafter and jointly, “you” and/or the “user” or “users“). In this regard, TROVIT undertakes to process your data as provided by applicable personal data protection regulations. In particular, TROVIT will comply with the provisions of REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46EC (hereinafter, the “General Data Protection Regulation” or “GDPR“) and any other related regulations which may be in force from time to time.
+Based on the above, TROVIT hereby provides information on its Privacy Policy in order to let the users know about the processing of their data and inform them of the main principles it applies to the protection of personal data. However, certain services provided on the Platform may contain specific terms of use which shall prevail over the present Privacy Policy and may affect the protection of personal data.
+In connection with the above, we hereby urge all users to read this Privacy Policy carefully in order to learn about the rules and practices we have put in place to protect personal data and gain insight into our relationship with third parties who may have access to said data.
+In any event, users will hold full responsibility for any information which they may provide on the Platform. Should TROVIT wish to use said information for purposes other than as explained above, we will inform you of said new purposes and request your consent if necessary.
+ 
+1. Who is the data controller?
+ 
+2. What are the data protection rights of the users?
+The users have the following rights:
+The right to request access to their personal data: you may ask TROVIT if it is processing your data and, if so, gain access to said data.
+The right to request that said data be rectified if they are inaccurate or completed if incomplete.
+The right to request the erasure of their data.
+The right to request a limited processing of their data: in this case we will only keep your data with a view to exercising or defending any possible claims.
+The right to object to the processing: TROVIT will cease to process your personal data except for legitimate reasons and/or in order to exercise or defend any claims.
+The right to the portability of the data: if you wish to have your data processed by a different data controller, TROVIT will enable the transfer of said data to the new controller.
+The right not to be subject to a decision based solely on the automated processing of their personal data.
+lf you have granted your consent to the processing of your data for a specific purpose, you may withdraw said consent at any time without this affecting the lawfulness of the processing performed prior to said withdrawal.
+In any event, all personal data linked to the user’s account, as well as any information and/or content included in his/her profile, will be cancelled as of the time when the user exercises his/her right of erasure. Furthermore, should the user exercise his/her right of erasure in connection with data which are necessary for TROVIT to provide the services on the Platform, TROVIT will be forced to terminate its relationship with the user and shall therefore unsubscribe him/her and the user will not be entitled to file any claim whatsoever in this respect.
+ 
+3. How can you file a claim before the Spanish Data Protection Agency?
+You may use the forms and models provided by the Spanish Data Protection Agency in connection with the rights referred to above.
+ 
+4. In what cases do we collect your personal data and what type of data do we collect?
+In this Privacy Policy, the term “personal data” is used in connection with any information which identifies you or may be used to identify you, such as your name, address, telephone number or email address.
+lf you decide to provide us with your personal data, TROVIT will gain access to the following:
+a) Personal data provided voluntarily by the user:
+Email address
+Geolocation, provided that the user activates this option on his/her device
+Any personal data which the user may send directly to TROVIT
+Without prejudice to the provisions in section 5 herein, said personal data will be processed if you interact with TROVIT and our representatives; if you participate or apply to participate in activities related to TROVIT, such as the provision of services or online surveys about our services and/or activities; if you interact with the Platform upon being requested to provide personal data as described in this Privacy Policy and in the Cookies Policy ; if you subscribe to our Platform or use certain functionalities without subscribing, such as participating in our interactive services.
+b) Personal data which our website collects from your computer or electronic device.
+Cookies, applicable to https://www.trovit.es and any other domains held by TROVIT connected with this website
+IP
+ 
+5. How do we use the personal data of our users?
+TROVIT hereby communicates to any users applicable that any personal data which they may provide and we may capture will be identified in the Register of Processing Activities held by TROVIT, and may be used for the following purposes:
+To register the user and generate a new TROVIT user account.
+To provide our services under the Legal Notice and General Conditions of TROVIT or those that may be established in the future with each of the users.
+To enable access to any options requiring registration (e.g., sending CVs or employment applications, accessing options within the account profile, activating custom alerts)
+To respond to consultations or information requests made by the users.
+Provided that you have ticked the relevant box, to keep you informed of our services, activities, projects, updates and new website or application features by means of notices/newsletters sent by email and/or other electronic means.
+Provided that you have ticked the relevant box, to keep you informed, by means of notices/newsletters sent by email and/or other electronic means, of the services and products of our partners in connection with the following sectors: boating, motor, clothing and footwear, publishing, banking and finances, vehicle rental, catering and accommodation, tourism and leisure trips (purchase of trip and tourist packages), cosmetics and personal hygiene, food, consumer goods, technology, companies- creation of smartphone applications addressed to consumers) and non-governmental organisations. The content of said notices will be selected at all times by TROVIT and sent to you directly by us.
+If you have ticked the relevant boxes, we may also send you push notifications in connection with our products and services.
+In the case that you have expressly accepted it in the forms authorized for this purpose, to send them to our clients, so they can send you offers related to their products or services.
+ 
+6. Why do we process your personal data?
+TROVIT may process your personal data on any of the following legal grounds: (A) for legitimate commercial purposes; (B) if it is necessary in connection with the performance of an agreement you are party to; (C) if it is necessary so that TROVIT may comply with its legal and regulatory obligations; and (D) if you have given your consent to said processing.
+LEGITIMATE COMMERCIAL | PURPOSES OF TROVIT
+PROCESSING ACTIVITIES
+– lnteraction with TROVIT staff.
+– Response to requests for technical and operational information regarding the Platform, as well as requests for information on the services offered by TROVIT.
+– ldentify you and contact you as a user.
+MANAGEMENT AND PERFORMANCE OF AN AGREEMENT
+In order to deal with your subscription on our Platform as provided by the Legal Notice or deal with any other documents subscribed by the user.
+LEGAL AND REGULATORY COMPLIANCE
+CONSENT
+Given by the user himself/herself in connection with the collection and processing of his/her personal data.
+Transparency in the absence of local regulations.
+ 
+7. Who may gain access to your personal data?
+Depending on the purpose of collection of your personal data, said information may be accessed by the following persons without distinction:
+Staff authorised by TROVIT or its representatives acting on behalf of TROVIT, subject to applicable personal data protection law.
+Regulatory authorities or other third parties as provided far by applicable law.
+Third-party service providers which may process information as personal data processors under the instructions of TROVIT, upon applying any measures necessary to ensure that we may share said information under enforceable data protection law.
+ 
+8. Where are your personal data processed?
+TROVIT is a national company based in Spain. TROVIT will not transfer personal data outside the European Economic Area (EEA). However, any said transfer would always be made by TROVIT in compliance with any personal data protection law applicable. Regardless of the place where your personal data may be collected or processed, TROVIT will ensure that service providers keep all administrative, technical and physical security measures as may be appropriate to protect your information.
+ 
+9. How do we protect your personal data?
+TROVIT has security measures in place to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, or inappropriately altered or disclosed. In addition, we limit access to your personal information to those who need to process that information for business reasons. They will only process your personal information on our instructions and they are subject to a duty of confidentiality.
+We have put in place procedures to deal with any suspected information security breach and will notify you and any applicable regulator of a suspected breach as appropriate and in accordance with our legal obligations.
+ 
+10. How long will we keep your personal data?
+TROVIT will process your personal data far as long as may be necessary to fulfil the purposes set forth in this Privacy Policy and will keep your data as provided far by applicable laws and regulations.
+The criteria we follow in this regard are determined by:
+The purpose of the personal data collected and compliance with said purpose.
+The reasons for the collection of the personal data: e.g., you may revoke your consent at any time.
+Compulsory storage times under contractual and regulatory provisions.
+ 
+11. Confidentiality
+ 
+12. Social networks
+TROVIT is present in some of the main social networks on the Internet, where it acts as data controller in connection with personal data published by TROVIT.
+TROVIT will process personal data on each social network in accordance with the rules established by the relevant social network to such end. Therefore, except as otherwise stated, TROVIT may inform its followers on each social network of its activities, events and related matters, including follower services, through the channels provided by the social network for such purpose.
+ 
+13. Special category of personal data
+ 
+14. Policy regarding the use of the Platform by children
+ 
+15. Direct marketing
+We undertake not to use your personal data for direct marketing purposes without your express prior consent, as provided under article 5 of this Privacy Policy.
+lf, at any time, you wish to stop receiving commercial or promotion I information from TROVIT or third parties, you may unsubscribe from direct marketing campaigns processing of your personal data far said purposes, free of charge, by contacting us on privacy@trovit.com or by pressing the opt-out button on the subject field of the email. You may also use the opt-out procedure provided in any promotional message received from TROVIT.
+ 
+16. Automated decision-making
+TROVIT integrates the content of the various classified ads websites in our Platform and directs quality traffic to their advertisements. Furthermore, we are capable of generating additional traffic by sending the right advert to the right user at the right time, through our native advertising products.
+We use automated decision-making procedures to respond to your choices on the Platform search engine, in order to render the services under the Legal Notice and offer you a quality and satisfactory service which is in accordance with your search.
+17. Links to other websites, applications or platforms
+ 
+18.­ Amendments to and integrity of our Policy Privacy
+We will only use your personal data as set forth in the Privacy Policy which is applicable at the time of collection of your personal data. TROVIT reserves the right to amend this Privacy Policy at any time by publishing said amendments on our Platform. Therefore, we recommend that you check the Privacy Policy every time you enter the Platform. lf we decide at any time to use personal data other than as stated at the time of collection, we will communicate said decision to you by email, provided that we have your email address. You will then be given the chance to authorise other uses or disclosures of the personal data provided by you before the amendment of our Privacy Policy.
+Should any of the clauses in this Privacy Policy be eliminated or considered null and void, this will not affect the rest of the terms and conditions , which shall remain fully valid and effective under regulations in force from time to time.
+Last updated: April 2018

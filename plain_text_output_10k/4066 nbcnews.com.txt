@@ -1,0 +1,39 @@
+You have been successfully added to our newsletter.
+NBC News BETTER brings you wellness news and tips to make the most of your mind, your body and your life.
+Starting April 20, your company can download your conversations without notifying you.
+by Herb Weisbaum /
+Apr.05.2018 / 4:42 PM ET
+Six million U.S. workers use Slack every day — and many mistakenly think that their direct messages are seen only by those they send them to.Tom Werner / Getty Images
+Get the Better newsletter.
+SUBSCRIBE
+Digital technology makes it easy for your employer to monitor everything you do — the email, instant messages or texts you send and receive — on any company-provided digital devices or work platforms.
+Even so, it’s easy to see how employees could assume — mistakenly — that by using Slack , the popular instant-messaging workplace collaboration tool, their direct messages (DMs) are limited to those in their small user group.
+The company, based in San Francisco, says more than 6 million U.S. workers use its service every day.
+Slack, which stands for “Searchable Log of All Conversations and Knowledge” was originally a way for team members to communicate , but it has “expanded to become a more social platform as well,” as noted in a recent news report in the Daily Mail . Slack has chat rooms (called channels) and users can include emojis in their messages to express reactions.
+“Slack is a work collaboration tool, plain and simple,” said attorney Bradley Shear, founder of Digital Armour , a privacy consulting service based in Bethesda, Maryland. “It's definitely not a watercooler area or any type of place where you should be saying inappropriate things – whether it's about your boss or other people, or talking about politics, religion or anything of that nature. Slack is something that should only be used specifically for productivity and work purposes.”
+Heads Up: Slack is changing its privacy policy
+Under the updated policy, which starts on April 20, compliance reports are being discontinued and the downloading options expanded.
+Since 2014, Slack customers who bought its premium “Plus” plan have been able to download and read communications transmitted via Slack through what’s called a “Compliance Export.” This cannot be done in real time, but the archive downloaded can go back to when that Slack group was created. When an export is done, employees in that Slack group are automatically notified that the boss is watching.
+Under the updated policy , which starts on April 20, compliance reports are being discontinued and the downloading options expanded. According to the Slack website:
+All slack workplace owners will be able to export and download “all public channel data: messages and links to files included.”
+Those who buy the Plus plan can request access to “a self-service export tool” to download “all data from their workspace.” This includes “content from public and private channels and direct messages.”
+Workspace owners who use the free and standard plans can use this export tool, under limited circumstances. They must first provide a valid legal process, consent of the members (employees) and a requirement or right under applicable laws.
+Automatic notices to employees will be discontinued. The employer will now decide whether users will be told their conversations are being exported.
+Slack says its policy changes are related to the pending implementation of the European Union’s General Data Protection Regulation (GDPR) which takes effect on May 25. This is an attempt “to achieve a balance across regulatory requirements, user expectations and customer needs,” the company said in a statement to NBC News BETTER.
+“To protect employees in the workplace , laws and regulations govern specifically what access is permitted by employers,” the statement said. “When extracting any data from Slack, employers must always comply with all employment laws, contracts and privacy protections for employees. Further, the employer is in charge of data that resides on the tools and network that they make available to their employees and employers take the lead on notifying employees about their policies and practices regarding technology, data and information in the workplace.”
+A company spokesman told NBC News BETTER there are situations where an employer may not want its workers to know their communications are being monitored, such as accusations of sexual harassment or corporate espionage. And some companies are required by regulation to archive all communications, he said.
+Note: You can still check to see if your boss has access to your DMs. Mashable recently outlined the procedure:
+“When logged into Slack, head on over to slack.com/account/team. Once you're on that page, scroll down to the bottom. Under "Exports," check and see what privileges are listed. If it only lists "PUBLIC DATA CAN BE EXPORTED," then the spokesperson assured us that your boss cannot pull your DMs. If it lists private data, well, then you're out of luck.”
+Is Slack Help Center Info Misleading?
+Use a corporate computer, mobile device or even Wi-fi network and you should not expect anything you do on that device, service or platform that is paid for by the company to be private.
+“Private employers generally have policies, which they have their employees acknowledge, preserving their right to review any messages employees store, create, or transmit on the company’s electronic equipment,” said Dan Eaton, an employment attorney and lecturer at San Diego State University’s Fowler College of Business. “Alerting its employees to these policies enables a company to defeat its employees’ later claim to a reasonable expectation that any such communication would remain private between the employee and the recipient.”
+But there’s this: Slack’s Help Center page on “Direct messages and group DMs” states that these are “private, ad hoc conversations between two or more members. DMs are best for quick discussions, like making lunch plans .” A group DM can include up to nine people and are useful for “short conversations that don’t need a whole channel, like planning a surprise party,” the site says.
+This is followed by a tip box that reads: “Only the members of a DM can search for its contents in Slack.”
+That box had a slightly different message before: “Only the members included in the DM can view and search for its messages and content.” Slack says it was simply updated to reflect current policies.
+Conversations via Slack are clearly subject to the employee’s corporate privacy, Slack told NBC BETTER, and the company does not believe its privacy policy is confusing or unclear. Some privacy experts we contacted disagree.
+Slack is a work collaboration tool, not a private messaging app, and people need to understand that.
+“It’s very misleading,” said Paul Stephens, director of policy and advocacy at the Privacy Rights Clearinghouse in San Diego. “An employee could conclude that the only people who could see the messages are those in the group when that’s not necessarily the case. Even more troubling is that Slack will now permit employers to access these messages without any notification to employees.”
+Privacy attorney Bradley Shear said Slack needs to change the language to more clearly explain that the messages shared with its service are not truly private.
+“I think they need to put more language into their policy and clearly explain things, because as it reads now a reasonable person could think 'private means private,' and in reality, it doesn't,” Shear told NBC News BETTER. “Slack is a work collaboration tool, not a private messaging app, and people need to understand that.”
+GET MORE CAREER ADVICE
+Get the Better newsletter.

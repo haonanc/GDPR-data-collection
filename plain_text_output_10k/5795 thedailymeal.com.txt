@@ -1,0 +1,104 @@
+Our Promise to you…
+Updated 10th May, 2018
+At ECAL, we take your privacy seriously.
+We understand the trust you place in our service to add helpful content to your Calendar, and we take those responsibilities very seriously.
+When subscribing to an ECAL service you can be confident that we will only ever access your Calendar to deliver event information that you have requested from our publishers.
+We will never read, change, update, remove or store your personal Calendar events. Additionally, our publishers must also agree to our very own, strict, Calendar Contact Standards, to ensure the information they deliver to you is exactly what you want.
+If at any stage you are unhappy with our service, or the content you’re seeing in your Calendar, please let us know! If necessary at anytime, you may unsubscribe and revoke ECAL’s access. For more information on how to do this for the various calendar applications, and for any other support related questions, please go to our Support Centre at  support.ecal.com .
+We hope you enjoy using ECAL, and welcome any feedback or suggestions.
+Very best,
+Your privacy matters
+ECAL is a free service owned and operated worldwide by E-DIARY Pty Ltd (E-Diary). We take a strong stance on user privacy and protection, and this helps to underpin how we develop our product, the service we offer, and how we gather and process your personal information.
+2. Introduction
+ECAL allows users to receive communications and information (in the form of an Event or Schedule) into their personal digital calendar (Calendar). Users will typically initiate a calendar subscription or connection via the digital network (such as website, email, social media) of third party organisations (Publishers) whose Events or Schedules the user wishes to synchronise with their Calendar. Publishers may include sports teams, sports leagues, media organisations, ticketing companies, retailers, financial institutions, community groups and others.
+E-Diary is a ‘data processor’ (as defined by the EU General Data Protection Regulation) and the Publisher client is a ‘data controller’. In most cases, E-Diary’s contract with the Publisher will specify that the Publisher owns any user information collected via the ECAL service, or that the Publisher is provided with a copy of the user information. However, in every case E-Diary will store that user information securely on E-Diary’s servers and systems, and we take the privacy and security of such user information very seriously. We may securely store user information outside your local border.
+We are committed to ensuring that we collect, use, disclose and store your information in accordance with the EU GDPR and any applicable data protection and privacy laws, and we are committed to ensuring that our Publishers do the same.
+This Privacy Policy describes the information we collect in connection with the ECAL service and how we use and process it. By providing personal information to us or using the service, you agree to the terms of this Privacy Policy.
+We may vary this Privacy Policy from time to time, the most recent version can always be accessed at www.ecal.com . Any changes will become effective when we post the revised Privacy Policy at  www.ecal.com .
+3. ECAL ‘Contact Standards’
+ADDITIONALLY, WE ALSO FOLLOW OUR OWN ECAL CONTACT AND COMMUNICATIONS POLICY (“CONTACT STANDARDS”), AND ASK OUR PUBLISHERS TO ALSO FOLLOW OUR CONTACT STANDARDS AND THIS PRIVACY POLICY. THE ECAL CONTACT STANDARDS ENDEAVOUR TO ENSURE THAT COMMUNICATIONS AND INFORMATION SENT TO YOUR CALENDAR (WHETHER BY THE PUBLISHER OR E-DIARY) MEETS OUR STRICT TEST, IN THAT IT IS ‘SPECIFIC’, ‘RELEVANT’ AND / OR OF ‘REASONABLE VALUE’ TO YOU (BASED ON YOUR KNOWN PROFILE) OR BASED ON ONE OF YOUR CHOSEN SCHEDULES OR EVENTS.
+FURTHER, E-DIARY WILL NOT ACCESS ANY OTHER INFORMATION IN YOUR PERSONAL CALENDAR, INCLUDING YOUR PRIVATE EVENTS, MEETINGS, APPOINTMENTS, ETC., OTHER THAN EVENTS AND SCHEDULES THAT YOU HAVE SUBSCRIBED TO USING THE ECAL SERVICE.
+4. Information gathering
+We may collect the following types of information:
+Information you provide us – Personal information that you provide to us during registration, and that we require to deliver the service, including but not limited to: email address, telephone number, content preferences, country or post / zip code.
+Usage information – We may receive and store certain types of information relating to your usage of the ECAL service. For example, we may collect data relating to you subscribing to a Schedule, the Calendar program you are using, click-stream data (eg: clicks on our links in the calendar), your location (post / zip code only), the Calendar and browser’s communication with our servers and information from your social networks if you use our social/‘single sign on’. We may also use audience and traffic measurement services that allow us (and Publishers) to collect anonymous traffic and behavioral information from the ECAL service by monitoring anonymous visitor activity through the use of cookies and other technologies.
+We aim to continually improve the service we offer, and the information we collect allows us to tailor our service to best suit you.
+5. Consent
+In the EU and UK, in accordance with GDPR, your consent to use the service must be a) freely given, b) specific, c) informed, and d) an unambiguous indication by way of a clear affirmative action.
+6. Breach notification
+In the EU and UK, in accordance with GDPR, and anywhere else, if we become aware of a data breach that is likely to result in a risk for the rights and freedoms of individuals, we will notify the Publisher client and contact you by email within 72 hours of first becoming aware of the breach.
+7. Right to access
+In the EU and UK, in accordance with GDPR, you may request a copy of your personal data from the Publisher client (data controller), free of charge in an electronic format.
+Such a request should be asked directly to the Publisher client.
+8. Right to be forgotten
+In the EU and UK, in accordance with GDPR, and anywhere else, you may withdraw your consent to the service at any time.
+To withdraw consent and cease using the service, you must disable the calendar connection from your computer or device.
+In any case, E-Diary automatically removes your personal record from the database if the calendar connection has been ‘inactive’ for 12 months or more.
+9. Data minimization
+In the EU and UK, in accordance with GDPR, E-Diary will only hold and process data that is essential to provide the service. This includes timestamp, email, mobile (only if you request to ‘send to mobile’), calendar type, content preferences (so we know what content to deliver you), location (to post / zip code), Terms of Use consent, marketing opt-in consent, and age consent.
+10. Age consent
+The ECAL service is not directed to children under 13, and we do not knowingly collect personal information online from such children.
+In the EU and UK, in accordance with GDPR, if you are under the age of 16 years (or under 13 years in the UK), you will be required to provide the email address of your parent / guardian, and in so doing, you must have gained prior parental consent to use the service.
+11. How we may use the information collected
+The information we collect may be used to:
+Contact you in relation to your ECAL service, a particular Schedule or a particular Event;
+Ensure that ECAL content is presented in the most effective and secure manner for you and for your device and settings;
+Send you promotional information or offers on behalf of ECAL Publishers;
+Customise the content you see in the calendar (eg: localised broadcast details);
+Customise the content you see on the widget display including ads on the success screen (we don't ever send ads into the calendar!);
+Provide technical support;
+Contact you in relation to your registration and/or account status;
+Confirm or fulfil a request you have made and provide you with related customer service;
+Facilitate social sharing functionality;
+Monitor or improve the use of the ECAL service, our website or our other products and services or develop new products;
+Monitor compliance with ECAL Terms of Use and prevent fraud;
+Make content or service recommendations;
+Share anonymous aggregate information (not personally identifiable information), such as demographics and service usage statistics, with Publishers, advertisers, sponsors or other organisations. When this type of information is shared, the receiving parties do not have access to your personally identifiable information; and
+Generally maintain and develop our relationship with you.
+We may not be able to do these things without your personal information, which would limit the ability for us to provide the ECAL service to you.
+With regard to information that does NOT personally identify you, we may use or disclose such information for any purpose.
+12. With whom we share your information
+At times, we may share your personal information with others for various purposes.
+Publishers: We will usually provide your personal information to the Publisher(s) relating to the particular Schedule(s) that you have chosen to subscribe to via the ECAL service. Separately, during the subscription process, Publishers may offer you an option to receive additional marketing and communications from them or their partners. This optional service is offered by the Publisher and is governed by their own privacy policy.
+Suppliers and agents: We may employ other businesses, certain services and individuals to perform functions on our behalf. Examples include system analysis, data analysis, marketing assistance, communications, customer service and support. They may have access to personally identifiable information needed to perform their functions.
+Third-Party Ad Serving & Sponsor Messages: We may use a third party network advertiser to serve advertisements through the ECAL service. Third-party ad serving enables us to deliver advertisements to you for products or services you might be interested in, based on your usage or preferences as you use the ECAL service. Third-party ads will only appear on the widget display before, during or after the subscription process (eg: on the ‘success’ screen). We will not serve third party ads as separate Events or Schedules into your personal digital calendar. Any sponsored messages or events, will only be allowed from aligned and trusted third party partners of E-Diary or Publishers, they will only appear in existing Publisher or E-Diary events, and must meet the ECAL contact standards.
+Audience and Traffic Measurement: We may use a traffic measurement service to analyse the traffic on our system..
+The ECAL service enables you to share your information with your friends and contacts through your social media account. Please keep in mind that any information you choose to share through these services will be governed by the relevant social media site’s own privacy policy and settings, and there is the potential for the information you share to become public.
+The ECAL Publisher(s) to which you subscribe will have access to your personal information, and they may send Event-related information into your Calendar (subject to any choices they make available to you), suiting your known profile in the ECAL system, in accordance with our ECAL contact standards.
+We may disclose your personal information to a third party in the event of any reorganisation, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+We may also use or disclose your personal information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+We may process your personal information on a server located outside the country where you live. Organisations to whom we may disclose your information may be based outside the country where you live. For example, we may process your information or disclose your information to entities based in Australia, United Kingdom and the United States of America. In so doing, we will take all reasonable efforts to ensure we meet and comply with any required data storage and security laws of such countries.
+13. Links to other websites
+You should be aware that when you use the ECAL service, there may be links in the Event entries delivered to your personal Calendar. These links when clicked may direct you to other websites and services beyond our control. For example, if you click on a ‘Tickets’ link, this may take you to the specific ticketing provider site for that Event. This includes links from advertisers, sponsors and marketing partners that may use the ECAL service as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to our system or service, you should consult that website’s privacy policy before providing any personal information. This Privacy Policy does not address, and we are not responsible for, any such website’s or service’s information or other practices.
+14. Access and updating
+If you would like to request a copy of this privacy policy or your personal information or would like to change the personal information we hold about you, please email privacy@ecal.com.
+15. Security & Storage
+The transmission of information via the internet is not completely secure. We cannot guarantee the security of your data transmitted to our website or ECAL service; any transmission is at your own risk. Once we have received your information, we will take reasonable steps to protect personal information we collect from you from misuse, loss or unauthorised access, modification or disclosure.
+Your information is stored by a third party on high-security servers located in North Virginia, United States of America, and is protected in accordance with United States laws. We carefully select our data storage partners based primarily on their level of security, reliability and experience in the storage and treatment of data, including personal information.
+In the EU and UK, in accordance with GDPR, we may encrypt your data so as to further increase the security of your data.
+16. Notice for residents of California (USA)
+Residents of California may contact E-Diary ( support@ecal.com ) once each year to receive the following information: (i) the categories of personal information disclosed to third parties for the third parties’ direct marketing purposes during the prior calendar year; and (b) the names and addresses of all such third parties.
+17. Service Termination
+Participation and use of the ECAL service is voluntary. If you no longer wish to receive Event-related information, you can delete your Schedule subscription anytime from within the settings in your personal Calendar, or by revoking access, and cancel the ECAL service. For information on how to do this for the various Calendar applications, and for any other support related questions, please go to our Support Centre at  support.ecal.com .
+18. Contact us
+If you have any questions about this privacy statement, or your dealings with us, please email support@ecal.com.
+E-DIARY Pty Ltd
+10 Queens Road
+Melbourne VIC 3004
+Start your 30 day free trial
+Signup for your ECAL account now and you can be publishing events to your own ECAL in minutes.
+No credit card required
+First Name
+Last Name
+Company Name
+By creating an account, you agree to ECAL License Agreement
+Create Account
+Request A Demo
+At ECAL, we're here to help. Please submit your request with any preferred times, and we'll get back to you!
+First Name
+Last Name
+Enter the Captcha on the right
++61 (0)3 9956 5000
+Los Angeles
+PO Box 69813, 458 N Doheny Drive, West Hollywood, CA 90048 USA
++1 917 267 7465

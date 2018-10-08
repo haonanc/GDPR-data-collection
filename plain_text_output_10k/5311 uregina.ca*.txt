@@ -1,0 +1,105 @@
+Website Naming, Hosting, Risks and Security
+Category: Operations
+Number: OPS-080-040
+Approved by: University Web Governance Committee
+Contact: Web Manager, External Relations - 306-585-4683 or Manager Web Services (IS) - 306-337-8547
+Introduction
+The University of Regina websites are a powerful resource that support the fulfillment of the University’s academic mission and strategic goals, and is essential to the recruitment and retention of students and employees . This policy outlines the principles and conventions that provide the foundation for developing and publishing University of Regina websites.
+University employees may be tasked with providing website content, creating a website, purchasing a website on a non-University server, or gathering information or payment online on behalf of the University. This policy is intended to govern the University’s web presence as it relates to reputation, risk, security, hosting practices and naming conventions. It applies to all websites representing the University, regardless of where they are hosted.
+Definitions
+Web Naming
+Maintaining a strong and consistent visual identity for the University helps increase recognition, respect and awareness and projects the University’s reputation for excellence in education. One element of recognition that supports the University’s identity is the naming convention on University websites. To support a consistent identity on the web, the following web naming principles and conventions apply:
+“www.uregina.ca” normally will be used for all official University websites and sub-sites and will follow a nested naming structure
+“subdomain.uregina.ca” will be used for enterprise web applications
+“www2.uregina.ca” normally will be used for all secondary and/or associated University websites (e.g. Social media sites, research projects centres and institutes, conferences, joint partnerships with external institutes or agencies)
+“domain-name.ca” (i.e. purchased domain name) which requires approval by IWS may be used for joint partnerships, conferences or specific marketing programs (e.g. cprcpress.ca, sasknursingdegree.ca)
+Uregina.ca/~ uofrusername will be used for personal (employee and student) academic or research websites that have no parent site home
+Web Hosting
+University web development is supported by a multi-server system comprised of a primary server and alternate servers . The majority of official University websites will be hosted on the primary server and will be developed and managed in the web content management system (WCMS) using the approved WCMS templates .
+Official University websites which are hosted on alternate servers, and do not have access to the WCMS and templates, include:
+Websites that provide a dedicated service or host an enterprise web application for the University community (e.g. UR Self-Service)
+Websites that are joint partnerships with external research institutes or agencies and require unique shared visual identity (e.g. SPHERU, IPHRC, JSGSPP)
+Websites for University research units, institutes, labs and centres that do not have a faculty or administrative parent home (e.g. Humanities Research Institute).
+Websites for affiliated units that do not have a faculty or administrative parent home  (e.g. URSU, MacKenzie Art Gallery, University Club, Sask. Police College, Society of Canadian Limnologists, Canadian Undergraduate Survey Consortium, Golden Key Society, Emmett Hall Foundation)
+Social medial websites connected to the mission of the University, such as blogs (e.g. YOURblog)
+Personal (employee and student) academic or research websites that have no parent site home
+One-time or short-term sites for conferences, events, research projects, etc. that have no parent home
+Student academic society/association websites approved by their Faculty (Dean). (Note: Student interest clubs are hosted on the URSU website.)
+Web Security
+The University follows strict security procedures in supporting the University’s web infrastructure . In addition to developing websites within the WCMS, employees may create unit-managed websites using internal unit resources or contracted third party vendors. Although these unit-managed websites may not be maintained by Information Services they may be hosted on the University’s web infrastructure. If a unit-managed website is not properly maintained for security vulnerabilities, it may result in an external electronic attack and disruption to University web services. 
+To reduce the risk to the University, all web development must follow established web security procedures. These procedures apply to any technology or website that:
+stores or transmits University information,
+is hosted externally or by the University,
+is connected to the University network, or
+is branded as a University site.
+Web Risk Assessment
+Risk management is an integral part of all University activities. Consistent with the Enterprise Risk Management policy, areas of risk must be identified and addressed by site owners , their designate, or their contracted agencies developing official University websites.
+Roles and Responsibilities
+This subcommittee of the University Information Technology Steering Committee (UITSC) has been formed as the University of Regina’s senior governance committee responsible to oversee institutional website development and implementation, with a mandate to:
+develop, approve, implement and oversee policies, standards, guidelines and associated procedures which ensure the institutional website and web activities are aligned with and focused on the strategic objectives and priorities of the University of Regina; and,
+oversee institutional web-related projects for web services, web content and web technology infrastructure which forms the delivery mechanism for institutional website initiatives.
+Review exemption decisions reported by IWS against parameters for decision making
+Receive difficult exemption requests from IWS and provide advice or make the decision
+Oversee governance, management and service delivery of University websites
+Make decisions on naming and hosting exemption requests on behalf of the University Web Governance Committee (UWGC)
+Base exemption decisions on rationale provided, policy review, consultation with site owners and relevant units, and assessment of factors including site purpose, usage, site duration and maintenance, University affiliation, and risk to the University
+Report exemption requests, rationale for exemption requests, and subsequent decisions with rationale to the University Web Governance Committee
+Submit difficult exemption requests to UWGC for their advice or a decision
+Develop, maintain and revise University web procedures from time to time
+Site Owners
+Ensure the integrity of the websites under their control, including compliance with University policies and standards
+Provide and maintain content specifics and organizational web structure
+Submit naming or hosting exemption requests to the Integrated Web Services team
+Follow the web security procedures for any unit-owned websites
+Identify and address areas of risk in accordance with the Enterprise Risk Management policy and Web Risk Assessment Guidelines.
+Consequences for Noncompliance
+If risks are not mitigated, the University’s reputation could be harmed. Websites representing the University could contain inaccurate, misleading, libelous or illegal content, and student or financial information (e.g. credit card numbers) could be at risk. If privacy laws are not complied with (particularly for websites hosted on servers in other countries) the University may be legally liable. Failure to comply with this policy may result in removal of content, disabling of the website, or disciplinary action as follows:
+In cases of externally hosted websites, requests for immediate compliance will be sent to site owner.
+Websites hosted on the University’s web infrastructure may be subject to immediate action without notice. Site owners who fail to secure and/or maintain these sites will be given 30 days to comply, after which the site will be disabled.
+Security Breach
+A breach in security caused by failure of employees to maintain security as described in the Web Security Procedures will result in immediate disabling of the offending website. The owner unit may be billed for each hour of web server downtime and for each hour of repair time needed to correct the problem at the non-warranty unsupported rate found in the Information Services Scope of Service Description .
+Processes
+Naming Guidelines and Standards
+IWS approval must be requested prior to registering a new domain name for use on any official University website. Normally the domain name extension should be “.ca” and not: com, net, org, biz.
+A domain or sub-domain name must accurately describe the site purpose, and may not cause confusion with existing units or programs or be too generic in scope (e.g. student.uregina.ca).
+Exemptions from the standard naming convention for the sole purpose of providing an alternative URL to an existing website or web page, particularly for the purpose of marketing (i.e. redirects) will be considered by IWS on an individual basis. The Communications and Marketing unit in the External Relations department may be consulted for advice.
+Short-term purpose websites (e.g. conferences) developed on the primary server as a sub-site of a primary site, such as a Faculty website, will adopt the standard naming practice of www.uregina.ca/yourfacultyname/conferencename. If this naming convention is not desirable, the website will be developed outside the WCMS and templates, and will be hosted on a secondary server.
+Names that do not relate to the mission of the University will not be accepted.
+Web Security Procedures
+General Procedure List
+Only web applications or websites supporting University business will be enabled on University web servers and must be disabled or removed when that purpose has been served (e.g. conferences, special events, and time sensitive materials).
+Open source, commercial and custom web applications or software must be installed and configured in accordance with the current security recommendations of the vendor/developer.
+Web applications and websites must be secured and maintained in accordance with the current recommendations of the vendor/developer.
+Web applications which have reached end of life and are no longer supported or are deemed by Information Services to be unresponsive to patching security vulnerabilities must be replaced with a secure alternative within 30 business days.
+In accordance with University policies regarding confidentiality and/or copyright, site owners are solely responsible for the safeguarding of all data collected or transmitted.
+Any materials deemed by Information Services to be private or sensitive in nature must be encrypted and transmitted using a secure network connection.
+Financial information may not be collected or transmitted by any web application which has not been verified to be PCI (Payment Card Industry) compliant.
+Custom Code Procedure List
+In addition to the above General Procedure List, units engaged in developing custom websites or web applications using scripting languages (PHP, Java, JavaScript, C, PERL, etc.) must adhere to the following Custom Code Procedure List:
+The unit notifies IWS of their intent to develop a custom website or web application. This allows Information Services to provide feedback to the unit before analysis and development work has started.
+Submit a proposal to IWS of their planned website development including site purpose, functionality, selected developer, infrastructure requirements, development tool, database, authentication, and authorization methods.
+Provide a risk assessment and mitigation strategies for events such as application failure, data corruption, security breaches, etc.
+Demonstrate a plan for the maintenance and ongoing support of this web application or content after implementation.
+IWS will make known any concerns with the planned approach at which time the developer must come back with an acceptable solution.
+IWS must authorize the implemented solution along with its associated implementation plan before the web application or content is released into production.
+Any future changes involving existing custom code which alter the application security, functionality or logic must be brought back to Information Services for review and authorization.
+Web Risk Assessment Guidelines
+The following references are to be used as a guideline for Web Risk Assessment.
+Security
+Access permissions should be set in a manner that only those who need access to the information have access to it.
+Written security policies and procedures need to be in place.
+The material posted must be in compliance with copyright requirements .
+Personal Information and Privacy
+Electronic Commerce
+Core principles of the Payment Card Industry Data Security Standards should be consulted and used as a guide to identify and address risk.
+Electronic commerce being conducted must be in compliance with The Consumer Protection and Business Practices Act (Saskatchewan). See Part IV.1 Internet Sales Contracts.
+System Development
+If an outside vendor is used to develop or host a website, the Application Services Providers policy should be consulted.
+Reputation
+Content on official University websites must comply with the Respectful Workplace and Learning Environment policy.
+Websites must follow Visual Identity Standards outlined in the Visual Identity Standards manual.
+Websites created in the University’s WCMS must use the approved templates. Other University websites built outside of the WCMS must follow minimum Visual Identity Standards and display the University’s logo.
+All official University websites must follow the University’s Online Style Guide .
+Requests for Exemptions
+Requests for exemption must be submitted in writing to Integrated Web Services (Information Services Web Manager or External Relations Web Manager).
+Related Information

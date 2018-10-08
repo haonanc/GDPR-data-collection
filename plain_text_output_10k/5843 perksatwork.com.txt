@@ -1,0 +1,115 @@
+Privacy Policy (Last Updated on 16 May 2018)
+This Privacy Policy applies to Next Jump Inc. and its wholly owned UK subsidiary Next Jump Limited ("Next Jump"),     and to any member of our Perks at Work website. In this Privacy Policy, Personal Data means any information that     identifies or could identify a living individual. This Policy sets forth the standards under which Next Jump will     treat Personal Data.
+Data Controller
+Next Jump will be the data controller of your Personal Data that is processed by us. Next Jump Inc. is a company     incorporated in the State of Delaware with registered office at 261 Fifth Avenue, New York, N.Y., 10016 , and its UK     representative is Next Jump Limited. Next Jump Limited is a company incorporated in England with registered office     at 99 Waterloo Road, London, SE1 8XP, UK. Next Jump Limited is registered as a data controller with the UK     Information Commissioner's Office (ICO) under registration number Z2001110. Please see the Contact Us section at the     end of this Privacy Policy for information on how to contact Next Jump.
+Your Privacy and the Perks at Work program
+Next Jump ("Next Jump", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy sets out     what data we collect, how we use that data and the choices we offer you, including how to access and update your     information.
+When you sign up for Perks at Work, we provide you with a program that aggregates the purchasing power of millions     of individuals in order to create special pricing on a wide range of goods and services ("Program"). As a registered     user of the Program, you will have access to the following features:
+ONECart: the ability to make purchases directly through the Program;
+WOWPoints: ability to earn and burn reward currency             WOWPoints (100 WOWPoints = $1 [USD], or £1 [GBP] for UK users)             at hundreds of retailers;
+In Store Rewards: ability to shop in-store using your own credit or debit card             and earn WOWPoints;
+Shopping Cards: ability to purchase pre-paid shopping cards and instant e-codes;             and
+Reward & Recognition or WOWCards: WOWPoints given to you as             part of the Programme;
+We ensure that your personal data is processed in accordance with relevant laws and industry-recognized data     protection standards. At no time will we trade, sell, or distribute your personal information to any individual,     company, vendor or organization, in ways other than as disclosed in this Privacy Policy. If you have any questions     or concerns regarding our Privacy Policy, please contact us through one of the methods described in the last section     of this Privacy Policy.
+Purposes of processing and Lawful basis
+We process your Personal Data where the processing is necessary for the performance of a contract with you, or in     order to take steps at your request prior to entering into a contract with you, and where the processing is     necessary for the purposes of the legitimate interests pursued by us, as set out in the table below.
+Where we carry out processing based on legitimate interests, we have identified those legitimate interests below.
+Activity/Purpose
+Register users
+Personal data either collected from you or received from your organization including name, email, postal                 code and employee ID
+Performance of a contract with the user
+Authenticate and manage user sessions
+Authentication data (username, password), session IDs
+Necessary for legitimate interests (grant access to platform, manage user activity, prevent fraud)
+Process and fulfil transactions
+Manage user relationships, including communications and customer service
+Personal data including name, email, WOWPoints activity, customer service tickets and transaction                 history
+Performance of a contract with the user
+Necessary to comply with a legal obligation
+Necessary for legitimate interests (facilitate user communications and inquiries)
+Administer and protect the website and associated services
+Personal data including name, email, postal code, employee id, credentials, site usage activity,                 transaction history
+Necessary for legitimate interests (for running the business, provision of administration and                         IT services, network security, to prevent fraud)
+Necessary to comply with a legal obligation
+Deliver relevant content including through email marketing and provide recommendations based on                 profiling
+Preferences, reminders, transaction history, site usage activity
+Necessary for legitimate interests (provide useful content and experiences to the user)
+Analyze usage activity to evaluate program effectiveness and optimize the user experience
+Site usage activity
+Necessary for legitimate interests (analyze the use of products/services, to keep the website updated                 and relevant, to develop the business and to inform marketing strategy)
+Operate Rewards and Recognition programs
+Name, email, transaction history, WOWPoints activity,
+Performance of a contract
+Recommend and invite friends and family to use the service
+Friends and family name and email address
+US Only feature (not applicable to European Economic Area residents)
+We may send marketing communications to your individual email address where you have consented to us doing so.
+Where we process your Personal Data based on your consent, you have the right to withdraw your consent at any time     on the Your Account section or by using the Contact Us page. Any withdrawal of     consent by you shall not affect the     lawfulness of processing based on your consent before it was withdrawn.
+Information We Share
+Information about you is an important part of our business. We do not sell your information to any third parties.     All information disclosing is based on the principle of sharing only the information necessary to fulfil the     legitimate business purpose. When shared, data may be transferred and hosted outside the country of origin. We only     share your Personal Data with third parties as set out below:
+Aggregated information showing the general use of the Program without any personally identifying             information is shared with your organization to evaluate the effectiveness and value of the Program;
+Information on whether and when you have registered and used the Program may be provided to your             organization to minimize redundant or irrelevant communications;
+Information on spending and savings on the Program may be provided to your organization to be included in             total reward statements with other benefits you receive from your organization;
+Information about your WOWPoints activity may be provided to your organisation to facilitate the operation             of long service and, rewards and recognition;
+RSVPs for private, in store events may be provided to participating vendors for admittance to the event;
+Payment card information may be shared with payment processors to facilitate card transactions and             identify transactions where you have earned or burned WOWPoints;
+Bank account information may be shared with our bank to facilitate payment into your account;
+Information may be shared with participating merchants in order to fulfil your purchase transaction,             including payment information, shipping address and other personal information that may be required to             complete such transaction;
+If your organisation has contracted a third party to run the Program (such as a flexible benefits             provider), any of the above information We share with your organisation may also be shared with the third             party;
+All of the information we collect, as described above, may be shared with the companies that perform IT             services on our behalf such as credit card processors, data management firms, data analytics firms, fraud             prevention services and call center providers for the purposes of providing you with the Program and             developing and maintaining it. These companies are authorised to use your Personal Data only as necessary to             provide these services to us;
+We reserve the right to disclose your Personal Data , to your organization or authorities, as required by             law and when it is believed that disclosure is necessary to protect our rights, our clients' interests             and/or to comply with a judicial proceeding, court order, or legal process;
+We will otherwise share your Personal Data with your consent.
+Accountability for Onward Transfer
+In the event Next Jump discloses Personal Data covered by this Policy to a non-agent third party, it will do so     consistent with any notice provided to Data Subjects and any choice they have exercised regarding such disclosure.     If Next Jump has knowledge that a third party to which it has disclosed Personal Data covered by this Policy is     processing such Personal Data in a way that is contrary to this Policy and/or the Principles, Next Jump will take     reasonable steps to prevent or stop such processing. In such case, the third-party is liable for damages unless it     is proven that Next Jump is responsible for the event giving rise to the violation.
+Profiling
+We use profiling in order to enhance your user experience and to present you with advertising that is relevant to     you and in line with your browsing history and past purchases. We do not carry out any automated decision making.
+you exercise your right to object to profiling, then we will unsubscribe you from Perks at Work and stop processing     your Personal Data in accordance with our retention policy. This is because the type of profiling that we carry out     is fundamental to the Program and we would not be able to offer the Program without it.
+How We Protect the Information
+We are committed to protecting the confidentiality of your information. We take reasonable measures to secure your     information, including industry standard administrative, physical and technical controls. These controls include     encryption, third party audits, access controls and security testing.
+International Transfers of your Personal Data
+Your Personal Data may be transferred outside of your country of origin. We will store your Personal Data on servers     located in the United States of America.
+Next Jump complies with the U.S.-EU Privacy Shield Framework Principles, including the Supplemental Principles as     set forth by the U.S. Department of Commerce (collectively, the "Principles"). Next Jump has certified that it     adheres to the Principles with respect to its services and certain Personal Data transferred from the European Union     ("EU") to Next Jump in the United States ("U.S."). To learn more about the Principles and to view Next Jump's     certifications, please     visit: https://www.privacyshield.gov/participant?id=a2zt00000008RFLAA2&status=Active.
+Your Personal Data may be shared outside of the Next Jump group as stated in the 'Information We Share' section     above. Where we work with service providers, your Personal Data may be transferred to countries outside of the     European Economic Area which do not have equivalent standards of data protection under their legislation and on     these occasions, we take other steps to protect the data as required under European data protection laws. The steps     we take may include the use of European Model Clause contracts and (where relevant to our suppliers) the US-EU     Privacy Shield
+U.S. Federal Trade Commission Jurisdiction
+Next Jump's commitments under the Principles are subject to the jurisdiction and enforcement and investigatory     authority of the United States Federal Trade Commission.
+Cookies
+We use cookies to provide you with the best experience while using the Program, to manage your browser sessions and     to power the Program's functionality. For more information, please see our Cookie Policy. Cookies allow you to use     all of the Program's functions as designed. Disabling cookies will limit functionality of the Program and     significantly degrade the user experience.
+Some third parties (e.g., advertisers, tracking utilities) use cookies and Web beacons on their site(s). We do not     have access or control over these tracking technologies. We do not share your personally identifiable data with     these advertisers.
+This Privacy Policy covers our use of cookies on the Program and the private label subdomains delivered by us, only.     This Privacy Policy notice does not cover the use of cookies by any third parties.
+Email Marketing
+We do not send unsolicited marketing emails to individuals without prior consent. We send pre-registration emails at     the request of your organization in order to invite you to join Perks at Work. You may manage the way in which you     will receive correspondence, including email reminders, newsletters and Program updates using the "My Account"     section of the Program.
+Opting Out
+All marketing emails sent by us relating to the Program contain instructions on how to unsubscribe from future     correspondence. You may opt out of marketing correspondence relating to the Program by visiting the Contact Us page     or by clicking on the unsubscribe link in the marketing email. Users may also access and edit their personal information in the "My Account" section of the website. You can change your communication preferences at any time.     You will continue to receive operational emails relating to the Program unless you choose to unsubscribe from the     Program.
+If you would like your personal information, including email address, to be completely removed from Our database,     you should use the Contact Us page. We will respond to your request within     thirty (30) business days. Completely     removing your personal information from the database will negate your ability to login and use to the Program.
+Personal Data and rights for European Economic Area Residents
+We will consider any requests made by you under this section in accordance with applicable data protection laws. The     rights that apply to European Economic Area Residents are summarized below.
+Request Access to Data (Right to information)
+You are entitled to request a copy of your Personal Data held by us, as well as a description of how the information     is used. A Subject Access Request should be made using the Contact Us page and     labelled as 'SAR' or 'Subject Access     Request'.
+To comply with the Standard Contractual Clauses (model contracts issued by the EU Commission for data transfers     outside of the European Economic Area), We may need to notify and obtain authorization from your organization prior     to responding to any data subject access request.
+Correcting Personal Data (Right to Rectification)
+You are entitled to request that any incorrect Personal Data that we hold is corrected. You can also make these     changes yourself, through the 'My Account' page.
+Deleting Person Data (Right to Erasure)
+You are entitled in certain circumstances to request that some or all of your Personal Data is deleted. If you     request that all of your Personal Data is deleted we will close your account and you will no longer be able to     access Perks at Work.
+Objecting to or limiting our use of your Personal Data
+(Right to Object to         Processing)
+You can ask us to stop using some or all of your Personal Data in certain circumstances, including where you     exercise your right to object to the processing of your personal data based on our legitimate interests.
+Transfer of Your Data (Right to Data Portability)
+You are entitled to request a copy of the Personal Data that you provided in machine readable form.
+Notification of Changes to the Privacy Policy
+This Privacy Policy may be reviewed and amended from time to time. You will be notified of changes to this Privacy     Policy by a notice posted on the Program login page. The notice will contain a link, whereby the amended privacy     policy can be examined in full. In this way, you will be made aware of policy changes prior to browsing or shopping     on the Program. We may e-mail periodic reminders of our notices and conditions, but you should check our website     frequently to see recent changes. As always, if you are not amenable to the conditions of a revised privacy policy     you may opt out of the Program by the means outlined earlier in the 'Opting Out' section above.
+Personal Data - Retention Period
+We will store your Personal Data while you remain registered as a user of Perks at Work. If you unsubscribe from     Perks at Work we will close your account and your Personal Data will be deleted from our database based on our     retention policy.     We will retain your Personal Data even after we have closed your account to the extent necessary to comply with our     legal obligations and to resolve disputes, and to fulfil your request not to receive further communications from us.
+Merchant's Privacy Policies
+Many offers on the Program will redirect you to a participating retailer's web site. An interstitial page will be     displayed that will inform you that you are being redirected. At this point you will be on the merchant web site and     the merchant's privacy policy will then apply to any information you provide. It is important to read and     familiarise yourself with the merchant's privacy policy.
+Complaints and Dispute Resolution Process
+If you have questions or concerns regarding this Privacy Policy, the Program, or Next Jump's compliance with the     Privacy Shield Principles please submit your enquiry through the Contact Us page. You can also contact us at     privacy@nextjump.com
+Next Jump will respond to any such inquiries or complaints within forty-five (45) days. In the event that Next Jump     fails to respond or its response is insufficient or does not address the concern, Next Jump has registered with JAMS     to provide independent third party dispute resolution at no cost to the complaining party. To contact JAMS and/or     learn more about the company's dispute resolution services, including instructions for submitting a complaint,     please visit: https://www.jamsadr.com/eu-us-privacy-shield .     Complaining parties may also, in absence of a resolution     by Next Jump and JAMS, seek to engage in binding arbitration through the Privacy Shield Panel.
+Next Jump will cooperate with the United States Federal Trade Commissions and any data protection authorities of the     EU Member States ("DPAs") in the investigation and resolution of complaints that cannot be resolved between Next     Jump and the complainant that are brought to a relevant DPA. If your inquiry has not been satisfactorily addressed,     you may initiate a dispute resolution process.
+If you are a citizen of the European Economic Area, you should contact the European Union Data Protection     Authorities Panel (EU DPA) on ec-dppanel-secr@ec.europa.eu. The EU DPA will then serve as a liaison to resolve your     concerns. Additionally, you have the right to lodge a complaint with the data protection supervisory authority in     the UK, the ICO. The ICO website is at https://ico.org.uk/ . However, we would     request that you contact our Data     Protection Officer before making a formal complaint.
+If you are not a citizen of the European Economic Area, you should contact the U.S. Better Business Bureau     http://www.BBB.org. The Better Business Bureau will then serve as a liaison to resolve your concerns.
+Next Jump commits to periodically reviewing and verifying the accuracy of this Privacy Policy and its compliance     with the Principles and applicable data privacy legislation), and remedying issues identified.
+In Summary
+Next Jump is committed to protecting your privacy. We do not sell, trade, give away, or rent personal information to     any third parties in ways other than disclosed in this Privacy statement. We use the information collected while you     are using the Program in order to make shopping and promotional activities possible and enhance your overall     experience of the Program.
+Contact Us
+We provide several methods for corresponding with us. Please direct your questions or comments to:
+The Data Protection Officer of Next Jump Limited is Abhay Sesha who can be contacted at privacy@nextjump.com.

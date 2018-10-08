@@ -1,0 +1,39 @@
+The European Union is committed to user privacy.
+The policy on "protection of individuals with regard to the processing of personal data by the Community institutions" is based currently on  Regulation (EC) N° 45/2001  of the European Parliament and of the Council of 18 December 2000 (and not on the "GDPR"  Regulation 2016/679  that repeals the Directive 95/46/EC). The new version of Regulation 45/2001 is currently being adopted. The legal notices on Europa will be updated in accordance with the new version.
+This general policy covers the European Union's family of institutional websites, within the eu domain. Although you can browse through most of these web sites without giving any information about yourself, in some cases, personal information is required in order to provide the  e-services  you request. Websites that require such information treat it according to the policy described in the regulation above and provide  information about the use of your data  in their specific privacy policy statements.
+In this respect
+for each specific e-service, a controller determines the purposes and means of the processing of personal data and ensures conformity of the specific e-service with the privacy policy
+within each institution, a  Data Protection Officer  ensures that the provisions of the regulation are applied and advises controllers on fulfilling their obligations (see article 24 of the regulation)
+The European Union's family of institutional websites, within the .eu domain, provides links to third-party sites. Since we do not control them, we encourage you to review their privacy policies.
+What is an e-service?
+An e-service on EUROPA is a service or resource made available on the Internet in order to improve the communication between citizens and businesses on the one hand and the European Institutions on the other hand.
+3 types of e-services are or will be offered by EUROPA
+information services that provide citizens, media, business, administrations and other decision-makers with easy and effective access to information, thus increasing transparency and understanding of the policies and activities of the EU
+interactive communication services that allow better contacts with citizens, business, civil society and public actors, thus facilitating policy consultations, and feedback mechanisms, in order to contribute to the shaping of policies, the activities and the services of the EU
+transaction services that allow access to all basic forms of transactions with the EU, e.g. procurement, financial operations, recruitment, event enrolment, acquisition or purchase of documents, etc.
+Information contained in a specific privacy statement
+A specific privacy policy statement will contain the following information about the use of your data
+what information is collected, for what purpose and through which technical means the EU collects personal information exclusively to the extent necessary to fulfil a specific purpose. The information will not be re-used for an incompatible purpose
+to whom your information is disclosed. The EU will only disclose information to third parties if that is necessary for the fulfilment of the purpose(s) identified above and to the mentioned (categories of) recipients. The EU will not divulge your personal data for direct-marketing purposes
+how you can access your information, verify its accuracy and, if necessary, correct it. As a data subject, you also have the right to object to the processing of your personal data on legitimate compelling grounds, except when it is collected in order to comply with a legal obligation, or is necessary for the performance of a contract to which you are a party, or is to be used for a purpose for which you have given your unambiguous consent
+how long your data is kept. The EU only keeps the data for the time necessary to fulfil the purpose of collection or further processing
+what security measures are taken to safeguard your information against possible misuse or unauthorised access
+whom to contact if you have queries or complaints
+Europa Analytics 
+Europa Analytics is the corporate service which measures the effectiveness and efficiency of the European Commission's websites on EUROPA.
+By default, website visitors are tracked using the first-party persistent cookies from Europa. You may choose not to be tracked by piwik (opt-out). If you change your mind, you can choose to be tracked again by piwik (opt-in).
+To check your current status and make your choice, tick the corresponding box in the text below.
+The European Commission manages on behalf of all EU institutions and bodies the inter-institutional website (europa.eu). Visit the following  legal notice  page to opt out from being tracked on these pages.
+EU institutions and bodies other than the European Commission (i.e. European Parliament) currently use their own analytics system. Visit their legal notice page for more information.
+Choosing not to be tracked by piwik does not affect your navigation experience on Europa sites.
+How do we treat emails you send us?
+Many webpages on Europa have a contact button, which activates your email software and invites you to send your comments to a specific functional mailbox.
+When you send such a message, your personal data is collected only to the extent necessary to reply. If the team responsible for the mailbox is unable to answer your question, it will forward your email to another service. You will be informed, via email, about which service your question has been forwarded to.
+If you have any questions about the processing of your email and related personal data, do not hesitate to include them in your message.
+How do we protect and safeguard your information?
+The collected personal data and all information related to the above mentioned consultation is stored on a computer of the external subcontractor as described above, acting as processor, who has to guarantee the data protection and confidentiality required by Regulation (EC) 45/2001. 
+How can you verify, modify or delete your information?
+If you want to verify which personal data is stored on your behalf by the responsible controller, have it modified, corrected or deleted, please contact the controller by using the contact information below, giving a clear description of your request. 
+I agree to potentially being contacted about my feedback.
+I am willing to take part in further surveys and testing of European Commission websites. I agree to answer a few optional questions after submiting this form.
+Your Email address

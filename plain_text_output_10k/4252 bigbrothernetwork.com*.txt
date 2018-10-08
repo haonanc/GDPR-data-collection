@@ -1,0 +1,69 @@
+News Ticker
+App Privacy Statement
+Version: February 20, 2017
+The privacy of all of our Users is very important to us. When you, as an App -user, use the Service we (the App-publisher) process your Personal Data. This Privacy Statement describes how we safeguard and process your Personal Data. We recommend you to read it carefully.
+1. What is stated in this Privacy Statement?
+Parties inform you in this Privacy Statement about:
+– The kinds of Personal Data processed;
+– The purposes for which Personal Data is processed;
+– Where the Personal Data are processed;
+– The security measures in place to protect Personal Data;
+– Limits of responsibility concerning third parties;
+– Viewing, changing and deleting your Personal Data;
+– Changes to this Privacy Statement;
+– What to do if you have any questions or remarks.
+2. The kinds of Personal Data processed
+A. Personal Data by using our Service
+In order to improve the Service, we use anonymous Data. This information will not go public through the Service.
+B. Automatically generated information
+Like most other websites and online services, we gather and process automatically generated information about how you use the App. The information gathered includes your IP-address and/or an unique device ID.
+If you specifically opt-in, the App may collect your geo-location information. In any event, you can block geo-location collection trough the settings of your mobile device.
+If you specifically opt-in to permit access and collection of information from your social network account, then your basic personal information in your social network account will be collected (such as your name and email address) as well as your social network user id (but not your password) and parameters related to the posts you shared through the App. Please refer to the social network’s privacy policy for more details on how you can set the privacy preferences of your account to control the information that may be accessed and retrieved.
+This also occurs with regard to the automatically generated information about how you use the App This kind of information helps us to better understand how the App is used, and how we can improve the Service to suit the need of you as an user. If you enable the user authorization features inside the App, the following additional information will be stored:
+• Name;
+• Phone number (optional);
+• Additional profile information returned by an external provider such as Facebook or LinkedIn.
+To provide the App-owner with information about the usage of the app we are also collecting the following (anonymous) information:
+• The moment you open the app;
+• The blocks you’ve opened inside the app and the amount of time you’ve spend in this block;
+• Actions such as music playback, opening urls etc.
+• The moment you leave the app;
+Note: if the user authorization features are enabled we are able to link the anonymous information to you once you login.
+C. Specific information
+We may ask you to engage in certain activities in the App, such as for example loyalty-card, newsletters, advertising, in which case you will be asked for certain personal information. This information will be stored in the databases of our service (included third parties) and will be shared with us.
+When you upload Data, including photos in the App, this will be shared and can be viewed by all other users of the App.
+3. The purposes for which Personal Data is processed?
+A. Purposes
+– to enable you to use the Service;
+– to keep you updated with relevant information about our Service;
+– to improve and/or customize the Service;
+– to identity you/or customize the Service;
+– to identify you and to prevent fraud;
+– to provide support;
+– to pass your Personal Data to third parties, if you requested us to do so or if we are legally obliged to do so.
+B. Transmission of Personal Data to third parties
+We do not sell, trade or rent your Personal Data to third parties without your prior consent. However, we can provide your Personal Data to third parties, when this is essential for providing the Service to you or for carrying out your instructions , such as for making payments by means of payment providers for Paid Services.
+We may provide “aggregated anonymous data” about the usage of the Service to third parties for such purposes as well, as it deems to be appropriate. “Aggregated anonymous data” is data that cannot be traced back to you and which therefore does not count as Personal Data. For instance, we may use aggregated anonymous data to better understand how Users use the Service.
+In the event that we are transferred to a third party, or that we merge with a third party, or undergoes a reorganization, your Personal Data may also be disclosed and/or transferred to that third party. This third party will have the right to continue to use Personal Data and other information that you provided to us.
+We may disclose your Personal Data where it believes, in good faith, that it is necessary to comply with a court order, ongoing judicial proceeding, criminal or civil subpoena, or other legal process or request by law enforcement authorities in the Netherlands or to exercise its legal rights or defend itself against legal claims.
+4. Where are the Personal Data processed?
+The Service is provided by using hosting services in the European Economic Area. However, the Personal Data processed may be transferred to, and stored on, servers maintained by located in a country outside the European Economic Area (EEA), such as the United States of America. Those third parties state that it shall adhere to the Safe Harbor principles and it is affiliated to the Safe Harbor program of the U.S. Department of Commerce. This means that there should be an adequate level of protection for the processing of Personal Data by Amazon . You agree to this transfer and processing outside the EEA. We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this privacy policy.
+5. What security measures are in place to protect Personal Data?
+The security of your data and that of other Users is very important to us. We have implemented technical and organizational measures to protect your Personal Data against loss or any form of unlawful processing. We implemented the following measures: protection of our servers by firewalls, SSL connections and encryption of sensitive data. This list is not exhaustive.
+6. Limits of responsibility concerning third parties
+Our Service may contain services and products offered by third parties, and/or hyperlinks to the websites or services of partners, advertisers and other third parties.
+Parties have no control or influence over the content, websites or services of these third parties. Different privacy policies may apply to the use of third party websites and services. This Privacy Statement only relates to Personal Data which have been obtained by parties through your use of the Service for its own purposes. Parties do not accept any responsibility or liability for the content, practices or operation of third party websites and services.
+7. Viewing and deleting Personal Data
+You may send a request to access or delete the personal information collected through your use of the App, by contacting us via email. You may be asked to provide additional information to verify your identity.
+8. Children’s privacy
+Personal information about children is not knowingly or intentionally collected.
+9. Security
+Measures are implemented to secure your personal information, to minimize the risks of damage, loss of information and unauthorized access or use of information. However, these measures are unable to provide absolute information security. Therefore, although efforts are made to secure your personal information, it is not guaranteed and you cannot reasonably expect that the App and its related databases will be immune from any wrongdoings, malfunctions, unauthorized interceptions or access, or other kinds of abuse and misuse.
+10. Changes to this Privacy Statement
+This Statement may be updated at any time. Parties will publish any updated version of the Privacy Statement via the Service. Parties encourage you to check this page from time to time to be aware of any changes to this Privacy Statement and to stay informed about how parties protect your Personal Data. You acknowledge and agree that it is your responsibility to review this Privacy Statement periodically and familiarize yourself with any updates.
+You agree to be bound by any of the changes made to this Statement. Your continued use of the App after the changed take effect will indicate your acceptance of the amended Statement. If you do not agree with the amended Statement, you must uninstall the App and avoid any further use of it.
+11. What to do if you have any questions or remarks?
+If you have any questions or remarks about this Privacy Statement, please contact us by sending an email.
+This Privacy and Cookie Statement was last updated: 20th of February 2017.
+ON SOCIAL MEDIA
+LATEST NEWS

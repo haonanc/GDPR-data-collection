@@ -1,0 +1,64 @@
+Privacy Policy
+Effective date: December 30, 2015 Welcome to ShoCard, Inc., (“ShoCard,” “we,” “us” or “our”). ShoCard provides a fast and secure method for you to verify your identification with any business, organization or user. Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation … Continue reading “Privacy Policy”
+Effective date: December 30, 2015
+Welcome to ShoCard, Inc., (“ShoCard,” “we,” “us” or “our”). ShoCard provides a fast and secure method for you to verify your identification with any business, organization or user.
+Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with ShoCard services (collectively, the “Service”), and your choices about the collection and use of your information.
+By using our Service you understand and agree that we are providing a platform for you to supply personally identifiable information (“PII”) to the Service for the purpose of verifying your identity with selected parties. This means that the Service will create a secure token based on blockchain technology (a “ShoCard Token”), which you can use with our partners (such as other websites) to verify your identity without transmitting any PII to such partners, unless you direct the Service to. You may use the Service, subject to the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at http://ShoCard.com/legal/terms).  Our Policy applies to all visitors, users, and others who access the Service (“Users”).
+COLLECTION OF INFORMATION
+We collect the following types of information: (Information collected by other parties is subject to the privacy policies of those parties.)
+Account Recovery Information – information you provide us directly, including without limitation, your first and last name, your token, mobile phone number, facial photograph and e-mail address when you setup a ShoCard account. This information is collected and stored by ShoCard for account recovery purposes. This information allows us to create a ShoCard Token. All the information you provide for account recovery, with the exception of your facial photograph, is stored in a one-way hash. This means ShoCard will not be able to read this Account Recovery Information, other than in its obscured form made by the hash. However, the data can be used for verification should you need to recover your account.
+Other Profile Information that you provide (e.g., ID photos, other phone numbers, physical addresses, a scan of your driver’s license or passport, or any other information you may enter or scan as part of the ShoCard App). This information is stored on your device and is not disclosed to our servers in clear text. When you choose to share this data with third parties, it passes through our servers only in hashed and digitally signed form. The original data is thus undecipherable by ShoCard.
+We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit using our App, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+When you use the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use ShoCard,to better provide features to you.
+Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device.
+When you use our Service, our servers automatically record certain log file information, and other such information. The information allows for more accurate reporting and improvement of the Service.
+When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by ShoCard.  A device identifier may deliver information to us or to a third party partner about how you use the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+We collect Metadata, which is usually technical data that is associated with a User’s use of the Service. For example, Metadata can describe how, when and by whom a piece of PII was collected and how that content is formatted.
+USE OF YOUR INFORMATION
+In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
+Automatically update the ShoCard application on your device
+Develop and test new products and features
+Diagnose or fix technology problems
+Help you efficiently access your information after you sign in
+Monitor metrics such as total number of visitors, traffic, and demographic patterns
+Provide, improve, test, and monitor the effectiveness of our Service
+Remember information so you will not have to re-enter it during your visit or the next time you visit the Service
+Send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+Validate your identity with third parties of your choosing and upon your direction
+Transfer your information that you choose to share with third parties upon your direction
+SHARING OF YOUR INFORMATION
+We will not rent, share, transfer or sell your information to third parties outside ShoCard without your consent, except as noted in this Policy.
+We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
+We will share your ShoCard Token with third parties of your choosing.
+If we sell or otherwise transfer part or the whole of ShoCard or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as Account Recovery Information and any other information collected through the Service may be among the items sold or transferred. You will continue to own your PII. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.
+We may access, preserve and share your Account Recovery Information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
+STORING OF YOUR INFORMATION
+Information collected through the Service will be encrypted while in transit and while at rest. It will be stored and processed in the United States, the United Kingdom, the European Union, and other permitted geographic regions as needed for optimal performance.
+Your ShoCard Token may be transferred across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law.
+Your PII is stored solely on your mobile device within the ShoCard App. Other than the Account Recovery Information described above, only the ShoCard Token is stored on ShoCard or blockchain servers. The ShoCard Token is an encrypted hash of your PII from which it is not possible to recover your PII itself.
+If you direct ShoCard to share your information with a third party, only you and that third party can decipher the data.
+We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps to verify your identity before granting you access to your account. However, ShoCard cannot ensure the security of any information you transmit to ShoCard or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Other than your Account Recovery Information, your Other Personal Information is only stored on your mobile device on the ShoCard app and is not shared with our servers. ShoCard cannot access this information in a discernable way, even if you direct the ShoCard app to send it to third parties through our servers (as we have described above).
+Following termination or deactivation of your account, ShoCard, or its Service Providers may retain information (including your profile information) for a commercially reasonable time for backup, archival, and/or audit purposes.
+CHILDREN
+ShoCard does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+THIRD PARTY WEB SITES
+We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services.
+CHANGES TO OUR PRIVACY POLICY
+ShoCard may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of ShoCard or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.  If you have any questions about this Privacy Policy or the Service, please contact us.
+Stay in The Loop! Sign up today to get occasional updates on our progress!
+About ShoCard
+ShoCard is a digital identity card you use through a mobile app.
+It's the one identity verification system that works the way consumers and businesses need it to for security, privacy, and always-on fraud protection.
+Sitemap
+×
+Fill out the form and we’ll get in touch.
+Please leave this field empty.
+Learn more about ShoCard for…
+Want the detailed technical version?
+For a more granular look at this workflow download our white paper.
+Download our white paper
+×
+×
+Fill out the form and we’ll get in touch.
+Please leave this field empty.
+Learn more about ShoCard for…

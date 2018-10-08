@@ -1,0 +1,104 @@
+Effective Date: October 20, 2017
+Manage.com Group, Inc. (“Manage,” “we,” “our,” or “us”) provides this privacy policy to explain how we collect, use, and share information. This privacy policy (“Policy”) covers Manage’s handling of two types of information:
+Information we receive about end users (“End Users”) of third-party mobile applications (“apps”) from our advertisers (“Advertisers”) and business partners (“Partners”); and
+Information we receive through our corporate website at www.manage.com or any other website on which this Policy is posted, as well as information we get through other corporate services and web portals we make available to Advertisers and Partners (“Manage Websites”). We describe the information received through the Manage Websites in Section 4 below, entitled “Privacy Practices for the Manage Websites.”
+We encourage consumers to learn about how information (including information we collect) can be used to market to them, and how to exercise their choices to permit or limit such marketing. We describe ways consumers can exercise that choice or opt out of marketing in Section 3 below, entitled “Consumer Control and Opt-Out Options.”
+1. INTRODUCTION AND BACKGROUND
+Manage provides mobile technology and marketing services for our Advertisers. We do this by making available the Manage Platform and other tools to Advertisers. Advertisers use the Manage Platform and other tools to deliver advertising to End Users, and we in turn provide our services to help Advertisers deliver ads that are of interest to End Users.
+2. PRIVACY PRACTICES FOR THE MANAGE PLATFORM
+a. INFORMATION COLLECTED THROUGH THE MANAGE PLATFORM
+Through the Manage Platform, we may (but do not necessarily, or always) collect a variety of information about End Users (through partnerships and tools such as third-party APIs), including:
+IP addresses, from which geographic location may be inferred, and system configuration information such as information about End Users’ operating systems;
+Precise geolocation information (generally, an End User’s latitude and longitude data);
+Mobile advertising identifiers, such as iOS IDFAs and Android Advertising IDs (collectively, “Mobile IDs”). These Mobile IDs may be associated with other information we collect through the Manage Platform, from third parties, or through any other services we offer;
+Whether and how End Users interact with ads, (e.g., time-stamp and clickstream information);
+Device type and other device information (e.g., whether an End User is using a smartphone or tablet, and related information);
+Network provider; and
+Other unique identifiers that may be associated with End Users’ devices, including identifiers provided by Advertisers or third-party service providers.
+We may combine and merge the various types of information collected from the Manage Platform, and may also enhance it (or permit our Advertisers to enhance it) with information collected from third parties. We refer to all of the above information as the “Service Information.”
+b. How We Use the Information Collected Through the Manage Platform
+We use the Service Information to provide a variety of services to our Advertisers related to advertising and marketing, including services we may describe elsewhere on the Manage Websites. This includes the use of the Service Information for purposes such as:
+Providing and improving the Manage Platform. This includes, for example, providing the customer, technical, and operational support for these features, detecting and protecting against errors, fraud, or other criminal activity, and resolving disputes and enforcing our terms and conditions and other rights we may have. This may also include analyzing, customizing, and improving the features of the Manage Platform;
+Providing information and analytics to Advertisers about the efficacy of marketing campaigns provided through the Manage Platform, or helping Advertisers create or enhance user profiles for marketing or analytics purposes;
+Creating inferences about End Users categorized into “Audience Segments” or to help Advertisers do so. For example, if the information we collect indicates that an End User likes apps (or clicks on ads) about travel, we or our Advertisers may categorize the End User of that device as someone who is interested in travel;
+Developing and use data models that try to predict End Users’ potential future behavior and interests on a per-device basis or across devices;
+Analyzing ad performance, for example, by attributing End Users’ app installations to ad campaigns; and
+Combining the Service Information to perform (including by working with Advertisers and Partners) any of the above functions, or other advertising, marketing, or analytics services. Or, we may aggregate and create data models to do this, by creating algorithms in order to predict common interests among End Users.
+c. How We Share Information We Collect Through the Manage Platform
+Generally, we share the Service Information with Advertisers and Partners in order to provide the Manage Platform. For example, we share the Service Information with:
+Advertisers and their marketing and service providers, so they may provide targeted content and advertising to End Users on apps;
+Advertisers and their marketing and service providers, to help measure the effectiveness of marketing or analyze their End Users’ likely interests or demographics; and
+Other third parties that target advertising. This may include, for example, analytics companies, data management platforms that help marketers maintain and use data, proximity solution providers, and other advertising technology providers. These companies may, for example, provide targeted content and advertising to End Users and others on third-party apps or other advertising media (such as email, direct mail, and display media).
+The processes we described above often involve mobile technologies, which may be associated with other information about End Users, such as End Users’ interests, demographics, or transactions. This is generally known as “interest-based advertising.” We encourage individuals who are interested in controlling or learning about this type of advertising to go to Section 3 below, entitled “Consumer Control and Opt-Out Options,” or go to the Digital Advertising Alliance’s (DAA’s) website at www.aboutads.info .
+We may also share Service Information with third parties:
+Pursuant to a request or authorization by an End User or Advertiser;
+If the disclosure is provided to: (a) comply in good faith with applicable laws, rules, regulations, governmental and quasi-governmental requests, court orders, or subpoenas, including for purposes of national security and law enforcement; (b) enforce our terms and conditions or other agreements; or (c) protect our, or any other person’s or entity’s, interests, rights, property, or safety, or in connection with an investigation of suspected or actual unlawful activity;
+Where the information is aggregated or de-identified; and
+As part of a business purchase, sale, merger, consolidation, investment, change in control, transfer of all or substantially all of our assets, reorganization or liquidation, bankruptcy, or in connection with steps taken in anticipation of such an event (e.g. due diligence).
+3. CONSUMER CONTROL AND OPT-OUT OPTIONS
+In most cases, consumers have control over whether or not they would like to receive relevant ads and marketing emails from our Advertisers.
+a. Opting Out of Online Interest-Based Advertising
+You can opt out of many of the platforms and service providers we work with that support online interest-based advertising by visiting the Digital Advertising Alliance’s consumer education and opt-out page at http://www.aboutads.info (or the European Interactive Digital Advertising Alliance’s opt-out page at http://www.youronlinechoices.eu/ if you are located in the European Union).
+This type of opt-out is cookie-based, which means that if you replace or upgrade your browser, or delete your cookies, you will need to opt out again. Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you.
+b. Opting Out of Advertising on Mobile Devices
+You can opt out of having your mobile advertising identifiers used for certain types of interest-based mobile advertising, including those performed by Manage, by accessing the settings on your Apple or Android mobile device, as follows:
+Apple Devices: If you have an Apple device, you can opt out of most interest-based advertising by updating to iOS 6.0 or higher and enabling “Limit Ad Tracking.”
+iOS 7 and Higher: Go to Settings → Privacy → Advertising, and toggle “Limit Ad Tracking” to ‘ON.’
+iOS 6: Go to Settings → General → About → Advertising, and toggle “Limit Ad Tracking” to ‘ON.’
+Android Devices: If you have an Android device, you can opt out of most interest-based advertising by going to Google Settings → Ads, and selecting the option to opt out of interest-based ads.
+Please note that these platforms control how these settings work, so the above instructions may change. Likewise, if your device uses other platforms not described above, please check the settings for those devices.
+c. Additional Choices
+Advertisers may also provide ways for you to opt out from, or limit their collection of, certain information from and about you. Please refer to the privacy policies for retailers and apps to learn more about their privacy practices.
+You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at marketing@manage.com . Please note, however, that we may still send you non-promotional emails relating to your relationship with us.
+4. PRIVACY PRACTICES FOR THE MANAGE WEBSITES
+a. Information We Collect Through the Manage Websites
+The Manage Websites provide information regarding Manage and our products and services. Through the Manage Websites, we collect information you voluntarily disclose to us, and we may also obtain automatically-collected information.
+i. Information You Disclose to Us
+When registering for an account, expressing an interest in obtaining additional information about Manage or our products and services, or otherwise contacting us through the Manage Websites, we collect information you voluntarily disclose to us, such as your name, mailing address, email address, telephone number, credit card number, and other billing information. You may also provide us with certain information about your business or other individuals.
+ii. Automatically-Collected Information
+When you visit the Manage Websites, we may use cookies and pixel tags that we associate with unique identifiers to keep track of visitor interactions and personalize your experience on the Manage Websites.
+We may also use third-party services, such as Google Analytics, that gather information such as your IP address, browser type, the web page from which you came to the Manage Websites, and the times of your visit. In addition, as you browse the Manage Websites, advertising cookies may be placed on your computer so that we can “remember” your interests. Our display advertising partners may then help us retarget ads to you on other sites based on your interactions with the Manage Websites. To opt out of such interest-based mobile advertising, please see Section 3 above, entitled “Consumer Control and Opt-Out Options.” Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you.
+b. How We Use Information We Collect Through the Manage Websites
+In addition to the uses described elsewhere in this Policy, we use the information we collect through the Manage Websites (alone or in combination) to provide, market, improve, and operate the Manage Websites, Manage Platform, and any other products or services we have or may develop. This includes the use of the information to:
+Fulfill your requests;
+Create aggregated or de-identified information;
+Comply with applicable laws, prevent fraud, mitigate risk, and perform similar purposes;
+Understand usage trends and preferences;
+Analyze, improve, and provide products and services;
+Customize the content and advertising you see on the Manage Websites, across the Internet, and elsewhere; and/or
+Perform other purposes at your request.
+c. How We Share Information We Collect Through the Manage Websites
+We may share the information we collect through the Manage Websites in the following situations:
+With your consent, including through this Policy;
+With our affiliates;
+With third parties that help us to operate our business and provide our services, such as entities that provide us with technical, customer, billing, administrative, event planning, marketing, or operational services;
+As part of a business purchase, sale, merger, consolidation, investment, change in control, transfer of all or substantially all of our assets, reorganization or liquidation, bankruptcy, or in connection with steps taken in anticipation of such an event (e.g. due diligence);
+When required by law or in response to lawful processes, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official, including for purposes of national security and law enforcement;
+If we believe sharing the information may prevent physical, financial or other harm, injury, or loss; or
+If we believe sharing the information is necessary to protect our, or any other person’s or entity’s, interests, rights, property, or safety, or in connection with an investigation of suspected or actual unlawful activity.
+With respect to aggregated or de-identified information, we may share such information without restriction.
+5. DATA ACCESS AND RETENTION
+Generally speaking, we retain the information collected from the Manage Websites and Manage Platform for as long as necessary to achieve our objectives as detailed in this Policy, and to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If you are a resident of the European Union, you may obtain a copy of the information we have about you by contacting us at privacy@manage.com . Please be advised that, due to the manner in which we collect information, we will only be able to provide you with such information if we can determine that the information is identifiable to you. Under extenuating circumstances, we reserve the right to charge a fee for providing you with such information, and that fee will be based on costs and fees we incur to fulfill your request.
+6. DATA SECURITY
+We have administrative, technical, and physical safeguards in place in our physical facilities and in our computer systems, databases, and communications networks that are designed to protect the information from loss, misuse, or alteration. No method of electronic transmission or storage is 100% secure. Therefore, we cannot guarantee absolute security of your information.
+To assist with data security, you understand that YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF ANY ACCOUNT CREDENTIALS THAT CAN BE USED TO ACCESS ANY ACCOUNT WITH MANAGE. ANY ACTIONS TAKEN USING YOUR ACCOUNT CREDENTIALS ARE YOUR SOLE RESPONSIBILITY.
+7. THIRD-PARTY WEBSITES AND APPS
+This Policy only applies to the Manage Websites and the Manage Platform. We are not responsible for the privacy practices or disclosures of websites, developers, or apps that access or use the Manage Websites or Manage Platform. Likewise, when you access the Manage Websites, you may be directed to other websites that are also beyond our control. We encourage you to read the applicable privacy policies and terms and conditions of such third parties and websites, and the industry tools that we have referenced in this Policy.
+8. USERS FROM OUTSIDE THE UNITED STATES
+The Manage Websites and Manage Platform are provided, supported, and hosted in the United States, and their operation is governed by United States law. If you are using the Manage Websites or Manage Platform from outside the United States, be aware that your Information may be transferred to, stored, and processed in the United States and other countries where our facilities are located. The data protection and other laws of the United States might not be as comprehensive as those in your country. By using the Manage Websites or Manage Platform, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share your information as described in this Policy.
+9. CALIFORNIA DO-NOT-TRACK STATEMENT
+We do not currently recognize or respond to browser-initiated Do-Not-Track signals, as there is currently no industry-wide consensus as to uniform Do-Not-Track standards, implementations, or solutions. Please review Section 3 above, entitled “Consumer Control and Opt-Out Options,” for information about your marketing choices.
+10. PRIVACY SHIELD
+As a business under the jurisdiction of the Federal Trade Commission, Manage has certified with the Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. Manage certifies that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Consistent with these Principles, where Manage uses service providers to process personal data of the European Union or Swiss residents, Manage shall remain liable where the agent processes such personal data of European Union or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Manage establishes that Manage is not responsible for the damages caused by the agent. To learn more about the Privacy Shield framework, and to view the list of entities who have current certifications under the Privacy Shield, please visit this page.
+If you have any questions or complaints about Manage’s privacy practices, you may contact Manage at the contact information in Section 12 below, entitled “Contacting Us,” and we will work with you to resolve your issue. If you are a resident of the European Union or Switzerland, you may also contact your appropriate European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices.
+If you are a resident of the European Union or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance from our designated Privacy Shield independent recourse mechanism, the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program: https://www.jamsadr.com/eu-us-privacy-shield
+Claims shall be arbitrated free of charge by our arbitration provider, JAMS, though each party shall be responsible for its own attorneys’ fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles.
+Under certain conditions, residents of the European Union and Switzerland who have unresolved complaints after: (1) contacting Manage to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration through the Privacy Shield arbitration process, more fully described on the Privacy Shield website.
+11. CHANGES TO THIS PRIVACY POLICY
+We may occasionally update this Policy to reflect changes to our privacy practices. The amended Policy will be displayed on the Manage Websites. Please check our Policy regularly to ensure you have read the latest version and to stay informed of our privacy practices. Your continued access to and use of the Manage Websites and Manage Platform constitute your acknowledgment of this Policy and any updates.
+12. CONTACTING US
+If you have any questions regarding this Policy, please contact us at privacy@manage.com or:
+Manage.com Group, Inc.
+Mountain View, CA 94041
+Mountain View, CA. 94041

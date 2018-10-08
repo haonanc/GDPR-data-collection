@@ -1,0 +1,30 @@
+ 
+Communication Re-Opt In
+We’ve been preparing in several ways to support our commitments to customers and end users. Per GDPR regulations and our data processing practices, if you wish to receive communications from cPanel moving forward, you must re-opt in by completing this form .
+GDPR
+cPanel has recently updated a number of its agreements to facilitate GDPR compliance.  We’ve done two things:
+We’ve revised our privacy policy to reflect GDPR .  Our revised privacy policy applies to all our customers, users of our products, resellers and distributors.
+We’ve updated our contracts to add a Data Processing Addendum (DPA).  We believe that our DPA is lightweight in nature. It does not materially change the ways you’ve licensed our products or services.  Rather it helps facilitate GDPR compliance for both parties.
+If you licensed our products through our store our updated agreement is here.
+If you are a reseller or distributor, you are required to provide our agreement to your customers.  Their revised contract is here.
+If you have a “Partner NOC” agreement with us, amendments to your Partner NOC Agreement are here.
+While the revised and updated agreements provide a definitive answer, here is a brief summary of the changes we’ve made.
+Privacy Policy
+Our Privacy Policy has been completely revised.
+Our Transparency Report governs our disclosure of information to law enforcement and similar entities.
+We set out how we collect, process, store and transmit information in two schedules:
+Schedule 1 discusses these issues as they relate to the use of our products and services.
+Schedule 2 discusses these issues as they relate to the automatic collection of data.
+We discuss whether the information is provided to third parties.
+We provide additional information for individuals located in the EU and California.
+The privacy policy details how we use cookies.
+What about Privacy Shield?
+cPanel has been diligently seeking approval of its Privacy Policy for over a month.  Unfortunately, we have not received word from the U.S. Department of Commerce approving our Privacy Policy for Privacy Shield.  We believe that the reason for this is the volume of privacy policies that have been submitted in the run-up to May 25th, and not as a result of a material deficiency.   
+Our Privacy Policy has been independently reviewed by two separate entities for Privacy Shield compliance.  However, at this time, we are prohibited by law from representing that we are Privacy Shield certified. When we are Privacy Shield certified, the agreements above will be amended to reflect this – indeed they have already been drafted to reflect that.  If you have questions about the impact of this slight delay, please email gdprquestions@cpanel.net
+Revised Agreements
+Our agreements have been updated to add a Data Processing Addendum (DPA) with the following:
+A discussion about the transfer of data.
+A statement of our security obligations.
+An obligation to assist with data protection impact assessments.
+As noted above, we do not believe that these changes contain major surprises.  We understand that customers, partners, and others may have questions about GDPR, or the process we chose to facilitate our compliance with GDPR.  If you have questions, you can open a ticket, or email: gdprquestions@cpanel.net.
+David Snead

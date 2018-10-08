@@ -1,0 +1,25 @@
+city/zip
+state
+Updated July 22, 2015
+Radio-Locator values the privacy of our users, partners and customers. We do not sell any personal information to any other companies or organizations.  In keeping with the highest Web standards, we would like to describe what information we collect about our users, and how we use that information:
+Server Logs
+The Radio-Locator webserver logs information about your use of our website in standard webserver log files. The following information is recorded every time you visit a page on the Radio-Locator website:
+Your IP address,
+The page that you just came from ("Referrer" location), and
+Information about your web browser ("User Agent").
+We occasionally use information from these files, including the IP addresses of our users, to help diagnose problems with our server, and to administrate our website.
+Ad Logs
+The Radio-Locator Ad Server may or may not log your IP address when you view or click a banner ad on the Radio-Locator website. We may use information from this database to track the effectiveness of the ads that are displayed on the website.
+Cookies
+Cookies are small pieces of information that are stored on your computer that can be used by the Radio-Locator website to enhance your use of the site.  Use of cookies is not required to use the free services of the Radio-Locator website.  We do not belong to any groups that track users across websites.
+We may use cookies to keep track of which advertisements we show you while you are visiting the Radio-Locator website.  This information is only used to help us select which ads will be displayed on our pages. This information is not given to our advertising clients.
+Third parties that have advertisements on the Radio-Locator website, such as Google, might place or read cookies on your web browser, or may use web beacons to collect information about your viewing or clicking of those advertisements.
+If you are a Preferred Customer, and log in to use the advanced features of Radio-Locator, we use cookies to keep track of your identity while you are logged in as a Preferred Customer.
+Contact and Personal Information
+We ask for personal information, such as name, address, phone numbers and an email address from our Preferred Customers, Advertisers, and other business partners and clients.  This information is considered confidential and is not shared with other companies.
+Email Addresses
+Users who submit corrections or updates to our site are given the option of submitting an email address.  This address is only used if we have a question or concern about your submission.
+We may ask you for your email address for the purposes of notifying you about news or events associated with the Radio-Locator website. If we do use this information for promotional purposes, we would get explicit permission first.  We will not add your address to a mailing list unless you specifically request it, and we will always have a clear, simple way for you to remove yourself from future mailings.
+Other Sites
+This site contains links to other  websites. Radio-Locator is not responsible for the privacy practices or the content of any other websites.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:

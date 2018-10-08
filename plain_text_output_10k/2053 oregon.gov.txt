@@ -1,0 +1,55 @@
+Thank you for visiting the Secretary of State website. This notice addresses privacy concerns about information collected on this site. Topics covered:
+Links to Othe​r Sites - A Disclaimer
+Information Collected When You Browse This Site
+Public Disclosure
+Links to Other Sit​es - A Disclaimer
+This site has links to other websites as a convenience to our customers. These include links to websites operated by other government agencies and nonprofit organizations. The Executive Office does not provide links to for-profit businesses, except as part of the payment cycle for online transactions.
+When you use one of these links, you are no longer on this site and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
+When you follow a link to one of these sites neither the Executive Office, nor any officer, or employee of the Executive Office warrants the accuracy, reliability or timeliness of any information published by these external sites, nor endorses any content, viewpoints, products, or services linked from these systems, and cannot be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of their information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from these systems does so at his or her own risk.
+Information Collected When You Browse This Site 
+If you do nothing during your visit to this website but browse or download information, we automatically collect and store the standard data collected by all Web server software. That information is as follows:
+The Internet Protocol (IP) address and domain name used (but not the email address). The IP address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet IP to respond to your browser request. 
+​​Example: 122.125.36.42
+The domain name server assigned on the Internet to your IP address, if there is one. Example: somename.com.
+The type of browser and operating system you used. 
+​Example: Windows 7; IE 10.0.7.
+The date and time you visited this site.
+The Web pages or services you accessed at this site.
+The website you visited prior to coming to this website. 
+​Note: This is included so that summary analysis can be done on how visitors get to your site. For example: From a search engine, from a link on another site, etc.
+We do not track individual user navigation choices. We do, however, summarize the information listed above to determine:
+What organizations are our most frequent users (item 2 above) to better target our content for the audience.
+What Web browsers are being used on our site so we can develop pages that will work with different browsers (item 3 above).
+How often our pages are being used (item 5 above).
+How search engines are directing people to the site (item 6 above).
+For site security purposes and to ensure that this service remains available to all users, this site may monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If security monitoring reveals evidence of possible abuse or criminal activity, system personnel may provide the results of such monitoring to appropriate officials. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits.
+Public Disclosure
+All information collected at this site becomes a public record unless an exemption in law exists.  ORS Chapter 192  contains the Oregon Public Records Law.
+In Oregon, laws exist to ensure that government is open and the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs, including the privacy of individuals.
+Both state and federal laws provide exceptions. We may request personally identifiable information from you in order to provide requested services, but such information is handled as it would be on an in-person visit to a government office.
+Personal Information and Nondisclosure
+"Personal information" is information about a natural person that is readily identifiable to that individual, such as an individual's name, address and telephone number. Such personal information may be exempt from disclosure if disclosure would constitute an unreasonable invasion of privacy under the circumstances. A domain name or Internet Protocol (IP) address is not considered personal information.
+Most information collected by state government is assumed to be open to the public unless ​specifically exempted. ORS Chapter 192 contains the Oregon Public Records Law. Under this law, individuals are permitted to request that public officials not disclose a public record that contains their home address and telephone number under certain circumstances. ORS 192.445 and  OAR 137-004-0800​  specify how to request nondisclosure.
+Email
+If you send us an electronic mail message with a question or comment that contains personal information, or fill out a form that emails us this information, we will only use the information needed to respond to your request. We may redirect your message to another government agency that is in a better position to answer your question.
+The information collected is subject to the access and confidentiality provisions of the Oregon law including ORS Chapter 192.
+Form​s
+Each electronic form that collects personal information on this site will have a specific privacy statement or a link to the privacy statement that explains the conditions (if any) under which information may be shared with other parties.
+Requesting Personal Information Inspection
+You have the right to review information collected about you by this site. Contact the agency that provides the service you requested.
+Secure Transmission
+For secured-data transmission, this site uses the industry standard encryption software, Secure Socket Layer (SSL). The URL in your browser will change to "HTTPS" instead of "HTTP" when this security feature is invoked. Your browser may also display a lock or key symbol on its task bar to indicate invoked secure transmission.
+If these indicators are not present, any information is susceptible to interception by other parties. Most Internet email communication will not be secure. If you are communicating sensitive information, you might want to consider sending it in by postal mail.
+Cookies
+A cookie file is a small text file created by a website on your computer hard drive that contains unique information the site can use to track such things as passwords, lists of pages you've visited, the date when you last looked at a specific page, or to identify your session at a particular website. A cookie is often used in commercial websites to identify the items selected for a specific shopping cart application.
+If cookies are used on the site, their use will be clearly marked. While most browsers have an option that allows you to control the use of cookies, their use might provide some features that cannot be used if cookies are turned off. Each application start page where cookies are used will have a specific statement that explains the use of the cookies, what information is being stored and whether the information is deleted or retained for future use when you complete your session.
+Public Records Statement
+Information reported to the Executive Office is subject to Oregon's public records law ORS 192, and may be made available on our website and to other parties upon request.
+System Availability Policy
+In order to provide you with the most up-to-date information possible, some of our services may be unavailable between the hours of 11:30 p.m. and 3 a.m. Pacific Time. We apologize in advance for any inconvenience and ask that you check back with us at a later time.
+Refund Policy
+Requests for refunds of donations must explain the reason for the request in writing and be signed by the donors. They will be reviewed on a case-by-case basis. Please allow four to six weeks to receive your refund.​​​​​​​​​​​​​​​
+Relative Content
+Have a Question?
+If you have questions about this policy, please contact the  Executive Office​ .​
+State of Oregon Seal

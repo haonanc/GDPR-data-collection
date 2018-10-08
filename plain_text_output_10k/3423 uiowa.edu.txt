@@ -1,0 +1,19 @@
+Last Updated: July 11th, 2005
+The University of Iowa is committed to maintaining the privacy of personal information that you provide to us when using Jobs@UIOWA.  This Privacy Policy describes how we treat personal information received about you when you visit Jobs@UIOWA.
+Links to Other Web Sites
+We may make content or services from other web sites available to you from links located on Jobs@UIOWA.  These other web sites are not subject to this Privacy Policy.  We recommend that you review the privacy policy at each such web site to determine how that site protects your privacy.
+Applications
+You own your application on our system, whether partially or fully completed, until such time that you submit an application for a specific position.  When you apply, we take a data snapshot of the application submitted for that position and it becomes a part of the recruitment file for the position.
+We will use the application information only for consideration of your candidacy for each specific position for which it is submitted.  For this purpose, we will distribute the information to persons and parties affiliated with the search, such as search members, the hiring manager, and the Office of Equal Opportunity and Diversity.  Your application is not searchable or viewable by other employers or recruiters, and we do not send or sell your application to any third party.
+As a public institution, the University of Iowa is subject to the state open records law.  However, pursuant to the provisions of Iowa Code Chapter 22, the University has determined that nominations, recommendations, and applications for University employment received from outside Iowa state government shall be maintained as confidential.
+Job applicants who presently work at the University of Iowa, at another Regents institution in this state, or elsewhere within Iowa state government are advised that their names and application materials may be public under the Iowa open records law.
+All job applicants are advised that recommendations and letters of support that are authored by University of Iowa employees, employees of other Regents institutions in this state, or by employees working elsewhere within Iowa state government may also be public under the Iowa open records law.
+If you have any questions about the application of the open records law to University applicants, please contact the Office of the General Counsel .
+You may remove your application from the system at any time. However, applications submitted for specific positions will be maintained as part of the recruitment file for the position for three years.  If you have not applied for a position in the last twelve months, we will delete your application from the system.
+Security
+The personally identifiable information we collect about you is stored in limited access file servers.  We strive to implement and maintain industry-standard physical, technical, and operational safeguard to protect the security of these servers and your personally identifiable information.
+The connection to Jobs@UIOWA is an encrypted https session, so that the information you enter into an application is protected as it crosses over the internet.  The information is stored in a secure database location.
+Policy Modifications
+When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
+Comments and Questions
+If you have any questions, comments or concerns about our Privacy Policy, please use the Contact Us form.

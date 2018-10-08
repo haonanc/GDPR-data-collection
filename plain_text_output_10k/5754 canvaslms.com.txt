@@ -1,0 +1,299 @@
+Proposal for New Security Policy
+on Jan 31, 2018
+ 
+ 
+ 
+ 
+ 
+By default, if you upload an html file to the "Files" section in Canvas, we will not allow any javascript in that file to be run
+ 
+1) JavaScript uploaded by admins to the Theme Editor.
+ 
+ 
+ 
+Last modified on Feb 13, 2018 11:24 AM
+Website Address
+5 people found this helpful
+Like•
+What is the scope of the added protection?
+Will this also block the JavaScript admins upload, or does this only apply to content created 'on the fly', so to speak, in various text fields that students and teachers have access to?
+7 people found this helpful
+Like•
+4 people found this helpful
+Like•
+12 people found this helpful
+Like•
+ 
+What about iframes with the code hosted elsewhere? (We use that quite a lot!)
+2 people found this helpful
+Like•
+3 people found this helpful
+Like•
+ 
+ 
+I wonder if there is the granularity in the system to restrict that just to teachers?
+1 person found this helpful
+Like•
+ 
+ 
+Is the basic plan to parse/alter the content as it's added/uploaded (e.g. replacing script tags with p tags or something like that) or zipping the files and only serving them back as zip files)?
+Like•
+ 
+This s a great write up and explanation, but I'm with Lee  does this only apply to on the fly or doe it also apply to the JavaScript code the us Admin upload? Because if it also locks down the JavaScript code that is uploaded then it kind of defeats the security aspect you are putting into place.
+5 people found this helpful
+Like•
+ 
+I am mixed feelings about this, the current way of getting dynamic content into Canvas is either:
+Embed using an iframe (you can do custom JS in that iFrame just fine currently but it will not allow access to the Canvas API, which makes this more secure but also more limited).  You can store the html, css and js in the files section of the course and then iframe in the html page... this works now.  
+ 
+ 
+ 
+ 
+ 
+Like•
+I would NOT want students to EVER be able to add JS to a page
+ 
+ 
+ 
+<a href=" https:// ... some other site ..." target="_blank" id="hello"></a>
+<script>
+document.getElementById('hello').click() ;
+alert('hello');
+</script>
+Like•
+ 
+Website = log out after 15 minutes of no activity
+ 
+ 
+Like•
+Like•
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Would love to discuss your concern over the iOS app further, I will await to get the link from you, alternatively, if you need to log a new feature idea for this, to help you out, I have prepared the following you could use as a new feature idea:
+Title: Provide ability for iOS App to Log Out
+Body: 
+ 
+What currently happens:
+ 
+<to be completed>
+Business case/justification:
+ 
+Like•
+Hi Stuart , I think these are the two Ideas that Jamie  is referring to with regards to logging out of the mobile app: 
+Like•
+Like•
+Like•
+ 
+So, here's my feedback/response to this proposed policy change:
+Will this enable the loading of course-wide custom JavaScript files similar to account-wide custom JavaScript?
+Will there be a separate section of the edit pages where JavaScript would be loaded?
+i.e., No inline JavaScript in the HTML code, meaning SCRIPT tags are still stripped as well as attributes like ONBLUR, ONCLICK, etc.
+Will there be permission controls to allow administrators to restrict which users are allowed to manipulate the JavaScript?
+ 
+I may have more feedback/responses depending on the answers to these questions.
+5 people found this helpful
+Like•
+2 people found this helpful
+Like•
+ 
+I still think that the use case needs to be considered:
+Are we talking about an individual power teacher who wants to cut and paste some <script> tag code into their content?
+ 
+ 
+ 
+ 
+p.s.  I REALLY don't want to lose access to the current Global.js and Global.css.  We heavily use this to improve our user's experience.  This is hugely valuable to us institutionally.
+5 people found this helpful
+Like•
+ 
+ 
+ 
+I'd have to say that my biggest concern for this is the risk of recursive looping preventing the ability to access or edit the content (i.e., to fix the loop). Sure, the server may be fine, but the user trying to get in to fix it would have a locked up browser, instead.
+3 people found this helpful
+Like•
+Like•
+3 people found this helpful
+Like•
+Like•
+Like•
+ 
+ 
+Being able to do something like this in the RCE HTML editor would be awesome:
+<script src="www.university.edu/snippets/myScript.js"></script>
+ 
+ 
+Keep up the great work, looking forward to seeing where this goes.
+7 people found this helpful
+Like•
+Like•
+3 people found this helpful
+Like•
+1 person found this helpful
+Like•
+ 
+ 
+ 
+ 
+So, I hope VERY MUCH that Instructure will whitelist javascript providers like Twitter, Flickr and Pinterest whose javascripts are not posing any kind of a security risk when running in the Files area of Canvas.
+6 people found this helpful
+Like•
+2 people found this helpful
+Like•
+Like•
+ 
+It would also be useful to have clarity on whether the following might be affected: 
+- files embedded via iframes (eg Word, PowerPoint, Sway)
+- Canvas guides embedded via iframe 
+- embedded external websites (eg our uni website) which have page transitions using javascript
+- web based assignments submitted via url
+ 
+Completely understand the need for security measures, but just need to understand what the potential impact on our content might be. Thanks! 
+3 people found this helpful
+Like•
+2 people found this helpful
+Like•
+ 
+ 
+I had assumed, perhaps incorrectly, that javascripts running on external https servers and iframed into Canvas would continue to work. All my Canvas Widget Warehouse javascripts are examples of that javascript functionality in Canvas:
+I create a javascript.
+I upload the script to my own https webspace at lauragibbs.net
+I create a plain HTML page, also at lauragibbs.net, which runs the script.
+I then use iframe to display the contents of that externally hosted HTML page in Canvas.
+For example:
+ 
+I also rely on javascripts for the blog I use as my Canvas homepage; for example:
+ 
+ 
+Hoping very much that this is NOT what is being proposed...
+4 people found this helpful
+Like•
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Update:
+I misunderstood the original blog post and I misunderstood what Brett was trying to say when he wrote: 
+Javascript and HTML files hosted in the Canvas files area can be executed currently. They can then be i-framed into a Canvas page currently. This can be done by any user.
+ 
+I actually feel much better now that we're tightening up security
+"Sorry" to all the people who found my incorrect interpretation helpful.
+11 people found this helpful
+Like•
+ 
+Your explanation here sounds good, and confirms what I had hoped, which was that this is essentially something of importance for administrators, and that those of us instructors just doing our usual Canvas things will be able to carry on with business as usual. And business as usual is VERY good in my opinion, so I am glad about that. Thanks again!!!
+3 people found this helpful
+Like•
+4 people found this helpful
+Like•
+ 
+This is definitely not how it comes across in Chris' blog.
+3 people found this helpful
+Like•
+ 
+ 
+Otherwise, it is throwing the javascript baby out with the security bathwater.
+1 person found this helpful
+Like•
+4 people found this helpful
+Like•
+ 
+ 
+ 
+ 
+For Instructure to do something that they know will break people's content would be very very VERY sad to see.
+1 person found this helpful
+Like•
+ 
+We've been through the issue of Canvas breaking things before and sometimes its necessary to move forward. There was a big uproar over the deprecation of the jQuery UI magic last year, but ultimately we found ways to do what we needed to do and Canvas will be better for it. If we're being honest with ourselves, uploading files to Canvas and then linking to them was a hack. We know that the preferred solution is to embed them within an iframe on another site and that we were offering it as a way for people who didn't have that option.
+1 person found this helpful
+Like•
+I agree that external hosting is the solution, but the way that people use Canvas Files reveals that there are many (MANY) institutions that do not provide hosting for their faculty.
+I paid for my own hosting for about 20 years before my school (finally) offered real web hosting to faculty and students (as I mentioned above: three cheers for Reclaim Hosting , very much a by-educators-for-educators hosting service).
+And no one has shown me why widgets from Twitter, Flickr, or Pinterest would constitute a security risk, which is why I think whitelisting is a viable solution. Yes, that is some trouble for Instructure... but it respects their users' content. I think users' content should be respected if at all possible. I hope this will be possible.
+Heck, I'll host people's Twitter widgets if it comes to that............ sigh.
+1 person found this helpful
+Like•
+ 
+ 
+I didn't write this earlier because I'm trying to get caught up on school stuff and juggling too many things and having an off day, but as I now understand Brett's explanation, we're not talking about a link to Twitter, which might be easier to whitelist. We're talking about code that is included in a file that is uploaded that may call Twitter. That means that to whitelist anything, Canvas would have to whitelist entire chunks of code -- probably by creating a hash of the code. But then if the code varied by a single byte, it would be a different file with a different hash. With obfuscation, minimization, and versioning, there are too many possible code chunks to validate as the Twitter code. If there is any customization in the code, like a variable that contains an account ID, then every Twitter feed is different and whitelisting based off a hash becomes impossible. If a school is going to go through the hassle of creating that, then they might as well host things for their faculty and approve them in the same way that they have to approve global JavaScript or CSS.
+ 
+ 
+ 
+ 
+I appreciate that they're letting us know about it before they do it. When security concerns are found, they're often fixed fixed and the dependent systems patched before the public becomes aware of it. At least Canvas is giving us warning and letting us comment about the change.
+5 people found this helpful
+Like•
+ 
+ 
+<a class="twitter-timeline" href=" https://twitter.com/OUDaily?ref_src=twsrc%5Etfw ">Tweets by OUDaily</a>
+<script async src=" https://platform.twitter.com/widgets.js " charset="utf-8"></script>
+ 
+<a class="twitter-timeline" data-dnt="true" href=" https://twitter.com/hashtag/FolkloreThursday " data-widget-id="822165780791984129">#FolkloreThursday Tweets</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+2 people found this helpful
+Like•
+ 
+You're not losing anything because that functionality is not there now. I may be misreading the thread (wouldn't be the first time today), but it seemed like they're trying to move feature requests off to other discussions. The Twitter hashtag has actual code inside the script element, though, so it's a little different from the first one.
+Like•
+ 
+2 people found this helpful
+Like•
+ 
+ 
+ 
+ 
+Again, I am not say that is an exact analogy to the javascript security issue here, but I don't want "students must be protected at all costs" to drive this discussion as the one and only goal. Protecting students is definitely important -- but even the definition of what it means to protect students and from what is going to vary greatly from a six-year-old in first grade and the students I am teaching who are about to go join the world of work and no doubt use the real Internet in their professional lives. To me, keeping them safe means educating my students about how to use the Internet as well-informed and proactive digital citizens. 
+2 people found this helpful
+Like•
+3 people found this helpful
+Like•
+Like•
+1 person found this helpful
+Like•
+Regarding this proposal about limiting JavaScript
+- it doesn't sound like it will effect the Theme js we use
+but can you confirm that, please?
+ 
+ 
+The Evergreen State College
+ 
+Like•
+1 person found this helpful
+Like•
+ 
+When Instructure is ready to release these changes, we would request that customers be given longer than the usual two-week cycle between a beta and production release. We have courses which use Javascript for a wide range of purposes, and two weeks might not be enough time for all users to review and update templates and other course elements. 
+5 people found this helpful
+Like•
+1 person found this helpful
+Like•
+3 people found this helpful
+Like•
+8 people found this helpful
+Like•
+2 people found this helpful
+Like•
+Like•
+ 
+I’d want to be sure that the administrator can apply this permission to both the ‘course role’ and ‘account role’ areas. 
+ 
+So my suggestion would create two options in the course and account role permissions area:   
+Allow JS in Pages (RCE)
+Allow JS in html (files)
+Applying this to roles means that if another user with a role that doesn’t have the permission activated, edits the page or html file, it will be cleaned of any JS that may have been applied with someone who did have the permission.  
+Like•
+ 
+Like•

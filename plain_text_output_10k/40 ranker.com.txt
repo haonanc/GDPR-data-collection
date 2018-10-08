@@ -1,0 +1,140 @@
+At GeoRanker, we take your privacy seriously. We won’t sell your personal data to anyone.
+We set up our infrastructure, applications and tools in a way that enables you to strengthen and leverage your important relationships when they matter the most, without having to worry about data security or privacy concerns.
+GeoRanker
+Privacy Policy
+This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, when you use the Services.
+This Privacy Policy is subject to the Terms and Conditions, available for review here.
+If you see an undefined term in this Privacy Policy, it has the same definition as in our Terms and Conditions.
+At GeoRanker.com (“GeoRanker,” “we,” “us” or “our”), putting our users (“you” or “your”) first means exceeding global privacy and data protection standards in order to keep important contacts and sensitive data and communications private, safe and secure. When this Privacy Policy mentions “GeoRanker”, “we”, “us”, or “our” it refers to the GeoRanker company that is responsible for your information under this Privacy Policy (the “Data Controller”).
+For both European and non European residents the Data Controller is GeoRanker SRL.
+GeoRanker provides Services to individuals as well as to legal entities. GeoRanker may be Data Processor or Data Controller and Data Processor simultaneously. If GeoRanker is a Data Processor it processes the personal data in accordance with the Data Processing Agreement.
+If you do not agree with this Privacy Policy, do not access or use our Services or interact with any other aspect of our business.
+1. Information We Collect
+There are two general categories of information we collect.
+1.1. “Personal Information you provide while using the services
+This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business.
+Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
+1.1.1. You may provide us with the following information:
+You may choose to provide us with additional personal information in order to enjoy a better user experience when using the Services. This additional information will be processed based on your consent.
+Additional Profile Information. You may choose to provide additional information as part of your GeoRanker Account (name of your employer, your job title, or other information).
+Other Information. If you use our Blog or another content or would like to take part in our webinars we can ask you to provide us with some information (such as your name, job title, your photo or other information). By posting any kind information on our website you accept and agree that the data you fill in during the subscription process on our website or any time later creates your public profile (hereinafter “Public Profile”). You agree that the information that you provide in your Public Profile is visible to others.
+Some of our Services require provision of contact information such as email address or phone number. This information is necessary to provide you these Services. Please note that if you use these Services on behalf of other person, you are responsible for receiving consent.
+1.2. If you use our Paid Services we need the following information:
+In order to fulfill the adequate performance of the contract with you and to comply with applicable law (such as anti-money laundering regulations), we need to collect the following information, without which you will not be able to use our Paid Services:
+Payment Information. When you use the Paid Services, in order to process payments and comply with applicable law, we need certain financial information (like your credit card information).
+Identity Verification and Other Information. In certain cases (if you request to refund fees you paid, for instance) we may ask for the following information:
+– Your billing information (name, transaction ID, last 4 digits of the credit card associated with the account billing date, etc.);
+– Email address;
+– Login name.
+Additionally, we may also ask you to provide us with identity verification information (such as images of your passport or national ID card) or other authentication information in order to verify your identity, provide the Paid Services to you, and to comply with applicable law.
+2. Automatically collected information from your use of the Services
+When you use the Services, your information is collected automatically. This includes personal information, information about the services you use and how you use them. This information is necessary for the adequate performance of the contract between you and us, and enable us to comply with legal obligations and given our legitimate interest in being able to provide and enhance the functionalities of the Services.
+Device and Connection Information. We gather information about your computer or other devices you use when accessing the Services. This device information consists of your connection type and settings when you install, access, update, or use our Services. We use your IP address and/or country preference in order to estimate your location as to provide you with a better Service experience and to meet our legal and fiscal obligations. We also collect information about your operating system, browser type, IP address, URLs of referring/exit pages, through your device.
+Cookies and Similar Technologies. We use cookies and other similar technologies. Read our Cookie Policy for more information about our use of these technologies.
+Third-Party Widgets. Some of our Services contain widgets and social media features, such as the Facebook button. Only you can decide if you would like to press this button and share your personal data. These widgets and features collect your IP address, information about the page you are visiting during your use of the Services, and may set a cookie to enable the feature to function properly. Widgets and social media features are either hosted by a third party or hosted directly on our Services and your interactions with these features are established by the privacy policy of the company providing it.
+3. How we use information we collect
+We use, store, and process information, including personal information about you in order to:
+To provide, improve, and develop the Services
+Enable you to access and use the Services.
+Operate, protect, improve, and optimize the Services and experience, such as by performing analytics and conducting research. Subject to our contract with you we process this information either manually or by computer.
+Provide customer service: to solve technical issues you may encounter, to respond to your requests for assistance, to analyze crash information, and to fix and improve the Services.
+Send you service or updates, security alerts, support messages, and account notifications.
+If you provide us with your contacts’ information, we may process this information: (i) to prevent and detect fraud, and (ii) for any purpose you authorize at the time of collection.
+We process this information given our legitimate interest in improve the Services, and where it is necessary for the adequate performance of the contract with you.
+To create and maintain a safe and trusted environment
+Detect and prevent fraud, spam, abuse, security matters, and any other harmful activity.
+Conduct risk assessments and security investigations.
+Verify or authenticate information or identifications provided by you (such as to verify your ID).
+Comply with our legal obligations.
+Resolve any disputes and reinforce our agreements with third parties.
+Enforce our Terms and Conditions and other policies.
+We process this information given our legitimate interest in protecting the Services, in order to measure the adequate performance of our contract with you, and to comply with all applicable laws.
+To provide, personalize, and improve our advertising and marketing
+Send you promotional messages and other information that may be interested to you based on your preferences (including information about GeoRanker campaigns and services) and social media advertising through social media platforms (such as Facebook or Google).
+Personalize, measure, and improve our marketing
+We will process your personal information for the purposes listed in this section given our legitimate interest in undertaking marketing activities to offer you products or services that may be of your interest. If you choose so, you can opt-out of receiving marketing communications from us at any time. You can do so by following the unsubscribe instructions included in our marketing communications or changing your notification settings within your GeoRanker Account.
+To provide and secure Paid Services
+Enable you to access and use the Paid Services.
+Detect and prevent fraud, abuse, security incidents, and any other harmful or illegal activity.
+Conduct security investigations and risk assessments.
+Comply with legal obligations (such as anti-money laundering regulations).
+Enforce payment policies.
+With your consent, send you promotional messages, and other information that may be interested to you based on your activity.
+We process this information given our legitimate interest in improving the Paid Services, and where it is necessary for the adequate performance of the contract with you and to comply with all applicable laws.
+4. Sharing and Disclosure
+We gather information globally and store that information in the EU and the United States. For the purpose of providing you the Service, we may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate. Whenever we transfer your information, we take all necessary measures to ensure its protection.
+4.1 If you give us a consent
+Where you have provided consent, we share your information, including personal information, as described at the time of consent, such as when you participate in promotional activities conducted by GeoRanker partners or third parties, for example during conferences.
+We share your billing information with any third party who provide us with processing services.
+4.2 In order to comply with the law, respond to legal requests, prevent harm and protect our rights
+GeoRanker may disclose your information, including personal information, to courts, law enforcement or governmental authorities, or authorized third parties, if and to the extent we are required or permitted to do so by law or if such disclosure is necessary: (i) comply with our legal obligations, (ii) to comply with legal process, (iii) to respond to verified requests relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability, (iv) to protect the rights, property or personal safety of GeoRanker, its employees, or members of the public.
+We may notify you about legal requests except when: (i) providing notice is prohibited by the legal process itself, by court order we receive, or by applicable law, or (ii) we believe that providing notice would be ineffective, create a risk of injury or bodily harm to an individual or group, or create or increase a risk of fraud upon GeoRanker’s property, its users and the Services. In instances where we comply with legal requests without notice for these reasons, we will attempt to notify you about the request after the fact where appropriate and where we determine in good faith that we are no longer prevented from doing so.
+4.3 Service providers
+GeoRanker uses a variety of third party service providers to help us provide services related to the Services including Paid Services. Service providers may be located inside or outside of the European Economic Area (“EEA”). In particular, our service providers are based in Europe, Asia, Ukraine and North America. We assure that these third service providers have an adequate security controls.
+For example, service providers may help us: (i) conduct background or police checks, fraud prevention, and risk assessment, (ii) allow the provision of the Services through third party platforms and software tools (e.g. through the integration with our APIs), (iii) perform product development, maintenance and debugging, or (iv) provide customer service, advertising, or payments services. These providers only have limited access to your information to perform these tasks on our behalf, and are contractually bound to protect and to use it only for the purposes for which it was disclosed and consistent with this Privacy Policy.
+In order to ensure the adequate performance of our contract with you, GeoRanker will need to share your information, including personal information
+4.4 Corporate affiliates
+In order to support, integrate, promote and improve the Services, we may share your information, including personal information, with our corporate affiliates.
+4.5 Social networking websites
+Where permissible according to applicable law we may use certain limited personal information about you, including your email address, to hash it and to share it with social network websites, such as Facebook or Google, to generate leads, drive traffic to our websites or otherwise promote our products or Services. These processing activities are based on our legitimate interest in undertaking marketing activities to offer you products or services that may be interested to you.
+We do not control or supervise any social network websites with which we may share your personal data. Any questions regarding how your social network websites service provider processes your personal data should be directed to such provider.
+You can ask GeoRanker at any time to cease processing your data for these direct marketing purposes by sending an e-mail to contact@GeoRanker.com.
+4.6 Aggregated data
+We may also share aggregated information (information about our users that we combine together so that it no longer identifies or references an individual user) and other anonymized information for regulatory compliance, industry and market analysis marketing and advertising, and other business purposes.
+We may use this information for research and development, but we will never sell your Personal Data to any third party.
+5. Other Important Information
+5.1 Analyzing your communications.
+We may review, scan, or analyze your communications on the Services for fraud prevention, research, regulatory compliance, risk assessment, investigation, product development, and customer support purposes.
+For instance, as part of our fraud prevention efforts, we scan and analyze messages to mask contact information and references to other websites. In some cases, we may also scan, analyze or review, messages to debug, develop, and expand product offerings.
+We use automated processes where reasonably possible. Occasionally we may need to manually review some communications, such as for fraud investigations and customer support, or to assess and improve the functionality of these automated tools.
+We will not review, scan, or analyze your communications to send third party marketing messages to you, and we will not sell reviews or analyses of these communications.
+These activities are carried out based on our legitimate interest in ensuring compliance with applicable laws and our Terms and Conditions, preventing fraud, promoting safety, and improving and ensuring the adequate performance of the Services.
+5.2 Google Analytics and Google Adwords
+6. Your Rights
+You may exercise any of the rights described in this section by sending an email toc contact@GeoRanker.com. Please note that we may ask you to verify your identity before taking further action on your request.
+6.1 Managing your information
+You may access and update some of your information through your GeoRanker Account settings or sending request to contact@GeoRanker.com.
+6.2 Rectification of inaccurate or incomplete information
+You have the right to ask us to correct incorrect or incomplete personal information that concerns you and which you cannot update yourself within your GeoRanker Account.
+6.3 Data access and portability
+If applicable under the legislation in your jurisdictions you may request copies of your personal information which we hold. You may also be entitled to request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible).
+6.4 Data retention and erasure
+We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations.
+If you no longer want us to use your information during the provision of the Services to you, you can request that we erase your personal information and close your GeoRanker Account. After your request, your information will be erased within 72 (seventy two) hours. Please be informed that if you request the erasure of your personal information:
+We may hold some of your personal information, necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety within 7 (seven) years according to applicable legislation.
+We may hold and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations within 7 (seven) years according to applicable legislation.
+Information you have shared with others (e.g., posts in our Blog) may continue to be publicly visible in our Blog. Additionally, some copies of your information (e.g., log records) may remain in our database, but are not associated with personal identifiers. If you directly disclose any information through our Blog, this information may be collected and used by third parties. If requested, we will correct or delete any information you have posted in our Blog if you request to do so.
+Because we maintain the Services to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time (no more than 3 months).
+6.5 Withdrawing consent and restriction of processing
+Where you have provided your consent to the processing of your personal information by GeoRanker you may withdraw your consent at any time by changing your GeoRanker Account settings or by sending us notification specifying which consent you are withdrawing.
+Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally, in some jurisdictions, applicable law may empower you to limit the ways in which we use your personal information, in particular where (i) you contest the accuracy of your personal information; (ii) we no longer need your personal information for the purposes of the processing, but you require the information for the establishment, exercise or defense of legal claims;(iii) the processing is unlawful and you oppose the erasure of your personal information; or (iv) you have objected to the processing pursuant to Section 5.6 and pending the verification whether the legitimate grounds of GeoRanker override your own.
+6.6 Objection to processing
+If applicable under the legislation in your jurisdictions you may require us not to process your personal information for certain specific purposes (including profiling) where such processing is based on legitimate interest. If you object to such processing we will no longer process your personal information for these purposes unless we can demonstrate compelling legitimate grounds for such processing or such processing is required or the establishment, exercise or defence of legal claims.
+Where your personal information is processed for direct marketing purposes, you may, at any time ask us to stop processing your data for these direct marketing purposes by sending an e-mail to contact@GeoRanker.com. You can also do so by changing settings in GeoRanker Account.
+7. We Operate Globally
+To facilitate our global operations we may transfer, store, and process your information within our family of companies or with service providers based in Europe, the Russian Federation and North America. Laws in these countries may differ from the laws applicable to your country of residence.
+For instance, information collected within the EEA may be transferred, stored, and processed outside of the EEA for the purposes described in this Privacy Policy. Where we transfer store, and process your personal information outside of the EEA we have ensured security measures to assure an adequate level of data protection.
+Prior to sharing your information with corporate affiliate or third party service providers outside the EEA we establish all the necessary means to ensure an adequate level of data protection.
+8. Security
+We are permanently implementing and updating administrative, technical, and physical security measures to protect your information against unauthorized access, loss, destruction, or alteration. Some of the safeguards we use to protect your information are as follows
+Limited access to the production database at the network level
+Limited access to the production database at the process/users level
+DDoS protection
+Data transfer encryption
+Data encryption in the database (for card data and authentication credentials)
+WAF (Web Application Firewall)
+Internal password change policies
+Antiviruses on admins workstations
+If you know or suppose that your Personal Data have been lost, stolen, misappropriated, or otherwise compromised or in case of any actual or suspected unauthorized use of your GeoRanker Account, please send an email at contact@GeoRanker.com.
+9. Our Policy Towards Children
+The Websites and our Services are not intended for or targeted at children under 18, and we do not knowingly or intentionally collect information about children under 18. If you believe that we have collected information about a child under 18, please contact us at contact@georanker.com, so that we may delete the information.
+10. Changes
+We reserve the right to change this Privacy Policy at any time in accordance with this clause. If we make changes to this Privacy Policy, we will post the updated Privacy Policy at our website and will indicate the date of updating.
+11. Contact Us
+If you have any questions or complaints about this Privacy Policy, you may contact us by email at contact@GeoRanker.com
+Join 10,000+ companies around the world that use GeoRanker SEO TOOLS to be one step ahead of their competition
+SUBSCRIBE
+Copyright 2017 © GeoRanker. All rights reserved.
+Copyright 2017 © GeoRanker. All rights reserved.
+We use cookies to analyse our traffic, personalise content and ads, and provide social media features. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services. Learn more
+Got it!

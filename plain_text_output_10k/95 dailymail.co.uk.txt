@@ -1,0 +1,193 @@
+Advertisement
+ 
+What are cookies and how do they work?
+ 
+Are cookies viruses?
+ 
+Are cookies programs?
+ 
+Can cookies see what’s on my computer?
+ 
+A cookie contains seven main pieces of information:
+Domain
+The domain (ie, the domain name) of the website that set the cookie.
+Name
+Value
+The identifying information the cookie is carrying. This is normally an encrypted string of letters and numbers, that is only meaningful the website that set the cookie.
+Expiry
+How long the cookie lasts for. If this is not set, the cookie will disappear when you close your browser (session cookies). Otherwise it will delete itself on the date set in the expiry field.
+Path
+This is not always used, but can be set so that the cookie is only sent when the user is in a particular part of the website. For example if the domain is set to acme.com, and the path is set to /accounts, the cookie will only be used when the user is in the acme.com/accounts part of the site.
+Secure
+This attribute can be used to tell the browser to only use the cookie when it is using a secure or encrypted connection.
+Http only
+ 
+Can I control the cookies I get?
+Yes. You can control what cookies you get, and which cookies you keep, and whether or not information about your browsing activity is captured. This next section tells you how to control your preferences.
+We are not suggesting you use all the different tools and techniques described below. They will not all be appropriate for everyone. It is however important to understand that there is a range of options and tools available, and it’s up to you to decide which if any of them to use.
+ 
+How can I see and manage my cookies in my browser?
+Virtually all modern browsers allow you to see what cookies you’ve got, and to delete them individually or delete all of them.
+Many browsers can also be set up to ask consent for each individual cookie before it is set. This gives you very fine control over what cookies you get, but it can slow down your browsing experience if you have to check each and every cookie.
+Most browsers also give you the right to block third party cookies. Blocking third party cookies will opt you out of some behavioural advertising. Where we arrange for our customers to be shown advertisements on our own or other websites, this uses information collected via first party cookies. Therefore, the best way to opt-out of online behavioural advertising is to follow the steps outlined on our “ Controlling online behavioural advertising and other third party cookies ” page.
+Some browsers let you block cookies from particular sites. So for example if you are happy to get cookies from a site you trust, but you don’t want to get cookies from a site you don’t particularly trust, you can set up your browser to black list the site you don’t trust and refuse any cookies it tries to give you.
+Most browsers will let you delete all cookies when you close your browser. You should be aware that any preferences including any opt outs you have set will be lost if you do this.
+Finally, you can tell your browser to block all cookies from being set. You should be aware that if you do choose this option many sites will not work as smoothly as you are used to, and some functionality that is reliant on cookies to enable services you want to use will not work at all.
+The links below take you to the help sections for each of the major browsers, that will tell you how you can manage your cookies:
+ 
+How can I control online behavioural advertising and other tracking cookies? 
+ 
+What about Flash and Silverlight cookies? 
+There are several different types of cookies. The most common kind are HTTP cookies. These are the ones that you can control with the mechanisms we described above. In addition to the HTTP cookies, there are other technologies that work in similar ways to cookies such as Flash Local Shared Objects (LSOs) and Silverlight cookies. Some of our sites use these types of cookies. You can control them manually using via the websites below:
+Privacy policy and cookies: frequently asked questions
+Bing
+Site
+Web
+DON'T MISS
+EXC: Mel B's ex-nanny tells DailyMailTV how singer 'bullied Phoenix, drunkenly neglected her daughters and paraded her sexual conquests in front of them'
+CBB winner Ryan Thomas cosies up to girlfriend Lucy Mecklenburgh as he is reunited with his Corrie co-stars for Manchester welcome home bash
+Emma Stone displays her chic style in slinky red camisole alongside co-star Justin Theroux at the premiere of their new Netflix series Maniac in London
+Justin Bieber's manager admits he thought the singer would die from having 'so much c*** in his system' during 2014 meltdown
+JLS star Oritse Williams is charged with raping a 20-year-old fan in a hotel room after a gig  The singer, 31, was arrested in 2016 
+Think you've left it too late to shape up this year? These real women slimmed down in just a WEEK (and it cost them less than £15!) Ad Feature
+Ant McPartlin's estranged wife Lisa Armstrong perfects edgy look as she continues to bounce back from split Glamorous 
+Kourtney Kardashian admits she's 'disappointed' Khloe wants 'strict' mom Kim to be True's legal guardian in new teaser Tensions flare
+Love Island's Laura Anderson shows ex Paul Knops what he's missing as she attends fashion bash ... after UNFOLLOWING him on social media
+Julia Roberts appears incredibly strained as she is unnerved by her job in new Homecoming trailer The acclaimed actress transform for new role 
+Ben Affleck swaps booze for bananas as delivery arrives at home during rehab workout break He finds them very a-peeling
+Advertisement
+PICTURE EXCLUSIVE: Katie Price's ex Kieran Hayler moves into his grandmother's home in a quiet village with Bunny and Jett as he starts afresh after split
+Katie Price's reality show My Crazy Life 'faces being AXED'... after model is 'banned from children's school gates over foul-mouthed rant'
+Rihanna's model Slick Woods goes into LABOR after showing off her bare baby bump in lingerie at the Savage x Fenty NYFW show Rushed to hospital
+Dan Osborne reveals he's back on good terms with ex Megan Tomlin... three years since he 'threatened to stab her' in expletive-ridden tapes
+Human Ken Doll Rodrigo Alves steps out in Milan days after CBB's Dan Osborne hinted why he was removed from the house 
+Kim Kardashian tells 'mom shamers' to 'relax' after painting lipstick on North, 5, to promote new beauty range and calling her the 'contour queen'
+Supplements: What they do and who should take them (the answers may surprise you!) Ad Feature
+Chrissy Teigen beams in latest snap with her family... as her husband John Legend announces he's joining The Voice Absolutely adorable
+Pregnant Josie Gibson shows off her bump as she poses naked in stunning photoshoot... as she reveals she 'doesn't weigh myself anymore'
+Love Island's Dani Dyer slips into figure-hugging midi dress as she leads the style at fashion app launch The ITV2 darling looked demure
+Advertisement
+Amanda Holden and Alesha Dixon wow the style brigade in dazzling looks as they attend pal Francesca Neill's star-studded nuptials in Ibiza Style savvy
+Michelle Heaton looks unrecognisable in throwback photo of herself aged 13 before her Liberty X career  She rose to fame after appearing on Popstars 
+Caroline Flack PIC EXCLUSIVE: Love Island host's former fiancé Andrew Brady is spotted moving his things BACK into her home
+Kylie Jenner flaunts her hourglass figure in PVC trousers and skintight Dior top while heading to LA studio The lip kit mogul displayed her style
+Carol Vorderman, 57, looks incredible in figure-hugging tangerine dress as she attends Maniac premiere Looking glam
+Caprice, 46, wows in an extreme plunging black dress as she attends glittering jewellery bash She treated herself to a rare night off 
+Tamara Ecclestone keeps things simple in LBD as she enjoys dinner date with husband Jay Rutland Spending quality time together
+Kylie Jenner reveals that sister Kendall tried to cut off ALL her hair as a child... after reflecting on her changing body in candid interview
+Kate Beckinsale, 45, claims she was asked to play Wonder Woman several years ago before Gal Gadot, 33, took on the superhero Missed out
+Peter Andre dances up a storm with Emily MacDonagh lookalike during Thriller Live debut... as his wife watches in audience For one night only
+Advertisement
+Beth Tweddle looks effortlessly chic in blue ball gown... as she makes first celebrity appearance after horrific accident on The Jump   
+Tilda Swinton looks effortlessly chic in an androgynous blazer and patterned dress as she attends London cafe launch Signature style
+Tallia Storm turns heads in orange checked mini and sexy thigh-high boots as she steps out in Dundee Check her out in Scotland
+Olivia Buckland tries on rings in Mayfair and puts on a loved-up display with fiancé Alex Bowen just days before their wedding Wedding bells
+Nicki Minaj is surrounded by huge security entourage at Marc Jacobs show following brawl with Cardi B at Harper's Bazaar party
+Tiffany Haddish stuns in one-shoulder black dress at Michael Kors NYFW dinner... after sharing flashback photo from before she was famous
+Chrissy Teigen claims eating her PLACENTA prevented postpartum depression... but scientists aren't so sure  The 32-year-old told CBS
+Sofia Richie shows off tan lines and rock-hard abs in New York after being branded a 'diva' for refusing to talk about boyfriend Scott Disick
+'Please, hurry' Desperate 911 call from Mac Miller's friend released after rapper dies of apparent overdose Newly-released 
+Wayne and Coleen Rooney's £20m Cheshire mansion has windows installed and roof and walls finished as builders continue work on 40-acre estate
+Modern Family creator admits a 'significant character' will die during season 10 of the family comedy Viewers can still expect hilarious antics
+Bodyguard: Will Keeley Hawes' character Julia Montague come back from the dead in series finale? A major hint revealed 
+Christina Aguilera says she wants to do a song with her former 'rival' Britney Spears The Pop icon appeared on Jimmy Kimmel Live
+Kourtney Kardashian, 39, rocks denim slacks with chic white blouse... after admitting she's still interested in having 'one more' child Fashion fiend
+Teen Mom OG's Catelynn Lowell reveals she is pregnant with her third child... after miscarriage and rehab The MTV reality TV star is 'super excited'
+Advertisement
+Lucy Hale and Rachel Bilson look like sisters as they pose side-by-side at fashion launch party in NYC The pair stepped out for a night of festivities 
+Irina Shayk back on mom duty as she plays with daughter Lea at park after glam night out during NYFW From the runway to the playground
+Dani Dyer and boyfriend Jack Fincham are left red-faced as her dad Danny enquires what she calls her 'lady bits' during appearance on Celebrity Juice
+CBB's Dan Osborne forced to DENY he got Rodrigo Alves 'kicked out of the house because star walking around naked made him uncomfortable'
+Game Of Thrones prequel 'set to film in Wales for three weeks as HBO prepare Penrhyn Castle for mystery shoot' It will be one to watch
+Christine McGuinness flashes her legs in preppy outfit... amid claims husband Paddy is 'concerned' about her Real Housewives of Cheshire appearance
+Downton Abbey star Matthew Goode admits film will have a 'lot of new faces'... but he will play a minor role despite marrying Lady Mary in final series
+Priyanka Chopra cuts majestic figure in purple ensemble as she runs in heels during commercial shoot She put her best fashion foot forward
+Love Island's Malin Andersson reveals she is having a baby GIRL as she reunites with 'cheating' ex at her gender reveal party  Getting on 
+Danielle Armstrong shows off her eye-popping cleavage as she joins slender Ferne McCann for al fresco workout  Working hard 
+Advertisement
+Lena Dunham sits on hospital bed as she gives fans candid look at her chronic pain management The Girls creator suffers from Endometriosis
+Serena Williams spotted for the first time since US Open final rant leaving luxury hotel after taking a break from training to spend time with her daughter
+Meghan's makeup artist reveals how she's subtly tweaked her routine since becoming a working royal - and why we WON'T see her red lipstick from now on
+Kylie Jenner says she's been 'bullied by the whole world since the age of nine' as she speaks out on family's fame in emotional video Candid 
+EastEnders PICTURE EXCLUSIVE: Shane Richie RETURNS to the popular soap as he is seen filming with on-screen wife Jessie Wallace
+Sir Bruce Forsyth's widow Lady Wilnelia Merced poses up a storm as she walks the JDW Midster catwalk during London Fashion Week 
+Taylor Swift sells Beverly Hills home for $2.65million... months after knocking $300,000 off listing price The 28-year-old sold her mansion 
+Eva Longoria goes makeup-free in LA as she smiles while pushing Santiago in a stroller... after admitting it's hard to juggle work and baby
+Jessica Chastain looks ultra-chic in a cherry print dress as she appears on Jamie & Jimmy's Friday Night Feast Chic and cheerful 
+Chilling Adventures Of Sabrina teaser sees Kiernan Shipka as teenage witch facing off evil forces The series is based on the classic comic book 
+Advertisement
+Agyness Deyn shows off her bump in a clingy vest and sporty leggings as she joins husband Joel McAndrew for low-key stroll in NYC
+Zoë Kravitz speaks out against racial stereotyping in Hollywood... as she goes bare-faced in completely unretouched Harper's Bazaar cover
+Strictly Come Dancing: Kate Silverton beams as she heads to training session after admitting her 'mum moves look like a worm trying to shed its skin'
+Olivia Culpo looks like a Hollywood pinup in colorful bikini as she enjoys a mango during tropical vacation The former Miss America wore a stripped suit
+Daisy Lowe displays her toned abs in a cropped polka dot blouse and high-waisted leggings as she steps out in London Brunette beauty
+Katie Waissel reveals she has SPLIT from boyfriend Andy Speer less than two months after the birth of their son Upsetting news 
+BBC comedy head Jon Plowman was once offered Hollywood star Dustin Hoffman as director of the Vicar of Dibley - but turned him down
+Ric Flair, 69, and Wendy Barlow, 58, wedding PICTURED: The couple are seen in a passionate first kiss during Florida nuptials  Pucker up
+CBB winner Ryan Thomas is ecstatic as he reunites with daughter Scarlett on the school run after a month apart  Reunited 
+Allison Mack thought Nxivm was 'weird and creepy' until Bronfman sisters took her on lavish retreat says her ex, who joined cult but quit after paying $30K for classes in two years
+Advertisement
+William makes a gaffe worthy of Prince Philip as he asks schoolkids if they like Chinese food - at the opening of a cultural centre that celebrates JAPAN 
+Stephanie Pratt flashes her lithe legs in sparkling mini dress as she launches her glamorous new clothing collection Leggy lady! 
+Denise Richards reveals personal reason she chose September 8 as her wedding day... and how she gave her planner only 48 hours notice
+Judy Greer admits her husband is 'finally moving in' to her Los Angeles home after seven years of marriage The actress is on the move 
+The Good Place FIRST LOOK: Season three teaser shows how Michael managed to save Eleanor, Tahani, Chidi and Jason... after THAT twist
+Keira Knightley cuts a demure figure in floral shift dress and navy blazer as she promotes racy period drama Colette on Good Morning America in NY
+Eva Longoria wears black hat and sunglasses as she arrives at LA airport with her son Santiago at night Desperate Housewives alum
+Katie Price is 'BANNED from the school gates after screaming "are you enjoying f***ing my husband" to ex Kieran Hayler's new girlfriend'
+Drew Barrymore glows on the LA set of Santa Clarita Diet... days after 'reuniting' with ex Justin Long in NYC She was spotted filming her Netflix show
+Henry Cavill leaves fans baffled as he posts bizarre video wearing Krypton T-shirt, hours after it emerged he is hanging up Superman cape for good
+Advertisement
+Vogue Williams defends going back to work one week after welcoming her first child with Spencer Matthews Vogue defended herself
+Paris Jackson shows off her abs in red crop top as she hits the town with pals for fun-filled The Eagles gig in LA The 20-year-old daughter of music icon Michael
+CBB's Dan Osborne cosies up to Gabby Allen on raucous cast night out... just hours after idyllic reunion with wife Jacqueline Jossa and his kids
+The Body Coach Joe Wicks reveals he's already bought baby daughter Indie to the gym as he reveals his love of fatherhood in This Morning chat
+Rihanna's model muse Slick Woods flaunts her baby bump in skimpy string lingerie as she steals the show at Savage x Fenty NYFW runway 
+Kate Moss retracts her iconic mantra 'Nothing tastes as good as skinny feels'... nine years after sparking controversy with 'pro-anorexia' quote
+Julianne Moore, 57, looks slender in all black as she heads to a workout session in NYC The red-haired star has previously said she stays in shape for her kids
+RHOC's Tamra Judge lists California home for $1.8m after fresh renovation... then challenges haters to speculate why For sale
+Janet Jackson, 52, steps out in a baggy jumpsuit as she says motherhood is the best thing to happen to her in 20 years Keeping it casual
+Dua Lipa cries on stage as she sees fans dragged out of her concert in China 'because they were waving rainbow flags' Security stormed stage
+Advertisement
+SEBASTIAN SHAKESPEARE: Prince Philip's godson Ashley Hicks, 55, splits from his pregnant wife - fashionista Kata de Solis, 36
+Gwendoline Christie says she's 'happy to be an outsider' after years of being bullied... as she admits Game of Thrones role was a 'personal triumph'
+Ariel Winter sports flirty sun dress while going fresh-faced for Modern Family rehearsals... ahead of the show's final series  Chic and cheerful
+Kim Kardashian's best friend La La Anthony appears to be back with husband Carmelo as they pose together at his NYFW show
+Hailey Baldwin shows off her long legs in a TINY pair of shorts as she joins a sultry Rosie Huntington-Whiteley in new bareMinerals campaign
+Gigi and Bella Hadid lead the lingerie-laden runway in sizzling ensembles as they storm Rihanna's VERY sexy Savage x Fenty NYFW showcase
+I'm a Celebrity: Kate Garraway teases stint in the jungle for show's latest season after months of speculation... amid claims she's set to pocket £150K
+Danielle Bux and Gary Lineker prove they're the friendliest of exes as they head out for lunch in LA with her baby daughter Romy Wren
+Holly Willoughby's 20-piece M&S collection is revealed - including a trendy slogan tee, chic checked separates and her 'favourite' leopard print dress
+Nadia Sawalha reveals she was BANNED from a pre-natal yoga class after telling mothers-to-be that childbirth is 'like torture' Oh dear
+Advertisement
+Madonna's letter complaining about her infamous 1994 Letterman interview set to sell for thousands as it goes up for auction Snap it up
+EXC: ABC bosses should NOT have canceled Roseanne says network star Richard Schiff who tells DailyMailTV: 'We overreact to every little thing'
+Priyanka Chopra, 36, beams in a bright fuchsia ensemble as she enjoys date night with fiancé Nick Jonas, 25, at Nobu in Malibu Cute couple 
+Freida Pinto and her Love Sonia co-stars Mrunal Thakur and Richa Chadda shine at the film's premiere in India She joined her co-stars  
+Rihanna changes into tiny black leather mini dress as she celebrates her Savage x Fenty NYFW show with glittering after party Stunning 
+Cardi B hits back at rap rival Nicki Minaj for claiming she bought her way into chart success... days after THAT shocking NYFW brawl
+Is this proof Princess Eugenie's wedding will be MORE formal than Harry and Meghan's? Invitation reveals male guests must wear morning coats for ceremony
+Former royal butler Paul Burrell claims Diana once put fake dog poo in Harry's Christmas stocking - and the young prince planned to use it for a prank on the QUEEN
+She really IS down to earth! Dutch Queen Maxima slips off her heels to go barefoot on the basketball court as she meets young players in Schiedam
+Johnny Depp displays his trademark quirky style in a striped beret and mirrored shades as he jets into Tokyo He displayed his typically quirky style
+Advertisement
+Victoria's Secret's Lais Ribeiro turns heads in a plunging blazer as she joins fellow Angels Sara Sampaio and Shanina Shaik at Vanity Fair party
+Dolly Parton gives a wake-up call to Louise Redknapp and Amber Davies in fun-packed trailer for new West End show 9 To 5: The Musical
+Emily Atack puts on a VERY racy display as she slips into lingerie for steamy foursome with Cobie Smulders in new comedy film Alright Now
+Ariana Grande's ex Mac Miller was 'dead for hours' before his body was discovered in his bedroom after an apparent overdose Tragic news 
+Iskra Lawrence dazzles in a plunging yellow tuxedo dress as she storms NYLON party during New York Fashion Week The model looked chic 
+Love Island star Georgia Harrison shows off her toned figure in chic bandeau bikini as she enjoys a swim during Ibiza beach break
+Antonio Banderas, 58, and girlfriend Nicole Kimpel, 37, hold hands as they enjoy designer shopping trip in Madrid Enjoyed a low key day off together on Wednesday
+Matthew Wright reveals he was conned out of nearly £10,000 when he fell 'hook, line and sinker' for conmen who were pretending to be his builder
+Rachel McAdams is every bit the doting mom as she is pictured with five-month-old son for first time on  family stroll in LA Adorable 
+Double trouble! Princess Charlene of Monaco shares adorable snaps of twins Gabriella and Jacques, three, on their first day of school
+Advertisement
+Lisa Maxwell reveals she saw food as the 'enemy' while battling bulimia as a 'lonely' young actress - ahead of her Celebrity MasterChef stint 
+TOWIE's Yazmin Oukhellou puts on an eye-popping display as she goes braless under a plunging top for night of partying with pal Megan McKenna
+Coronation Street: Fans SLAM 'sick' Jim McDonald as he KISSES 'long-lost daughter' Katie... an impostor in his plot to get revenge on ex-wife Liz
+Relaxed royals! Luxembourg's Grand Ducal family pose in JEANS for an official portrait - ahead of Prince Guillaume's move to London 
+Lilly Becker looks casual in sweater and leather trousers ahead of pampering session... as she moves on from 'hurtful' split with husband Boris
+Ray Winstone makes it a family affair as he is joined by wife Elaine and daughters Lois and Ellie Rae for King Of Thieves Premiere All together
+Head Start to Home Cooked
+Published by Associated Newspapers Ltd
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group

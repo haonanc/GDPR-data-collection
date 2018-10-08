@@ -1,0 +1,91 @@
+Search
+Would you like to search this site specifically, or all WVU websites?
+Search this site
+Category: Information Privacy
+Review Date: August 2021
+PURPOSE AND SCOPE
+Purpose. West Virginia University (University) respects the privacy of an individual         and seeks to limit the collection, access, use, disclosure, and storage of         personal data. The purpose of this Policy is to:
+Identify the personal data the University collects;
+Identify how the University collects personal data; and,
+Explain how the University uses and protects the personal data it collects.
+Scope. This Policy applies to all University Staff, Faculty, Students, third-parties         who are doing work on behalf of the University, and visitors to campus.
+INFORMATION PRIVACY AT THE UNIVERSITY
+The University seeks to limit the collection of personal data to that which             reasonably serves its academic, research, outreach, and administrative             functions.
+The University collects personal data through websites and social media             pages, that does not reveal specific identities, including but not limited             to: geographic location, device, internet browser, and operating system.
+The University will not collect personally identifiable data (PII), such             as name, address, Social Security number, or financial information, without             an individual’s expressed consent. The University collects PII through:
+Applications made available for use on or through computers and mobile                 devices;
+HTML-formatted email messages sent by the University;
+Patient care, health treatment, and research;
+Offline activities (e.g., campus visit, attend seminar, place a request                 over the phone); and,
+Other sources such as publicly available databases or joint marketing                 partners who share information with the University.
+The University uses PII for legitimate business and operational purposes             including, but not limited to:
+Provide services, complete transactions, fulfill requests, and send administrative information;
+Provide newsletters and/or other promotional materials;
+Analyze, aggregate, and anonymize data for reporting.
+The University will not sell, market, or otherwise distribute PII without             authorization, except when necessary to provide a service or to support             its mission. The University may disclose PII:
+To affiliates or third-party service providers with whom it has a contractual                 agreement;
+To facilitate business operations within the University;
+To protect the safety and well-being of individuals or the community;                 and,
+As permitted or required by law.
+When the distribution of PII is necessary, the distribution will be subject             to reasonable terms and conditions that, among other things:
+Limit the access to and use of the data to only authorized individuals                 for legitimate business purposes;
+Ensure the data will remain secure; and,
+Ensure the data will be returned or destroyed when its purpose for                 distribution ends.
+The University will implement safeguards to secure the integrity and confidentiality             of PII collected including, but not limited to:
+Publishing associated standards and procedures identifying the minimum                 requirements to safeguard PII.
+Educating and providing awareness to its workforce regarding safeguarding                 PII.
+Unauthorized access or disclosure of PII must be reported to Information             Technology Services within 24 hours of the event as per the Information             Security Event Response Policy.
+The University may disclose PII deemed Directory Information at its discretion.
+The University will retain PII according to the Record Retention Policy             and Schedule.
+All personal data will be destroyed in accordance with best practices                 and as required by applicable laws at the time of destruction.
+The University will ensure that data processed or stored in University             systems hosted by third-party vendors are compliant with this Policy             and relevant laws and regulations; however, the University is not responsible             for the information collection, use, disclosure, or security policies             or practices of third-party service providers.
+All University units are responsible for establishing and making available             for view appropriate privacy notices related to their collection, use,             distribution, and destruction of personal data.
+Those University units designated as a University health care component             may use and share personal health information (PHI) across locations             to facilitate treatment, research, payment, and other healthcare operation             purposes.
+Individuals have the right to:
+Expect that their PII collected by the University will remain private                 and secure;
+Access and review their PII to confirm accuracy and completeness;
+Be notified when PII has been disclosed or accessed by an unauthorized                 person;
+Request to amend or delete their PII, if appropriate;
+Opt out of receiving electronic communications; and,
+Request the University withhold disclosure of their PII.
+Individuals are advised to be discreet and cautious in their use of University             technology resources and are obliged to abide by the Acceptable Use of             Data and Technology Policy.
+Individuals who disclose other people’s personal information to the University             or our third- party service providers, represent that they have the authority             to do so and permit us to use the information in accordance with this             Policy.
+PII collected by the University must not be misused. Misuse includes, but             is not limited to the following:
+Seeking or soliciting Social Security numbers via email or phone;
+Sending or knowingly accepting credit card information by email;
+Storing credit card information on University-owned computers;
+Unnecessarily accessing PII;
+Not reporting when PII is stored inappropriately or disclosed;
+Unilaterally updating PII without the individual’s request or consent;                 and,
+Compiling copies or duplicates of PII without the individual’s approval,                 except for back up or disaster recovery purposes.
+Misuse of personal data is a violation of this Policy.
+Any Faculty or Staff who violates this Policy shall be subject to appropriate                 disciplinary action.
+Any Student who violates this Policy shall be subject to appropriate                 disciplinary action in accordance with the Student Code of Conduct.
+Any individual affiliated with the University who violates this Policy                 shall be subject to appropriate corrective action, including, but                 not limited to, cancellation of their relationship with the University.
+The University will never take retaliatory action against a Student, Patient,             Physician, Employee, or any other person for exercising their rights             established under this Policy, including submitting a complaint or reporting             a violation.
+Any attempt to retaliate against a person for reporting a privacy violation                 may itself be considered a violation of this Policy and may result                 in sanctions.
+The University reserves the right to update this Policy at any time in             the future.
+The University also reserves the right to make the revised change notice effective                 for personal data already collected or will receive in the future.
+DEFINITIONS
+Confidentiality: A set of rules that limit access or place restrictions         on certain types of information to protect personal privacy and proprietary         information.
+Directory information: The University considers the following information         it collects Directory Information: name, official address, telephone number,         place of birth, age of student, names and addresses of parents, major and         minor fields of study, class status (e.g., freshman), enrollment status (e.g.,         full-time, part-time), dates of attendance, previous educational institution(s)         attended, degree(s) and date(s) conferred including anticipated graduation         dates, awards, honors, participation in officially recognized sports and         activities, physical factors of athletes, and duties, responsibilities, and         dates of service of Graduate Assistant, Student Workers, Interns, or Student         Volunteers.
+Integrity: The overall completeness, accuracy, and consistency of         the data.
+Personal data: Data associated with an individual person
+Other personal information: Data that does not identify a specific             identity or relate to an identifiable individual unless combined with             other personal data such as physical location, IP address, browser/device             information, app usage data, demographic information, appearance, religion,             political opinions, and behavior.
+Personally identifiable information (PII): Data that specifically             identifies an individual, including, but not limited to: Social Security             number, driver’s license number, credit card numbers, bank account information,             protected health information (PHI), employee performance or salary information,             student grades, disciplinary information, or account passwords.
+Protected Health Information (PHI): Data that identifies health             status, provision of health care, or payment for health care that is             created or collected and can be linked to a specific individual.
+Third-party services: An individual or an entity that has a contract,         license, or other arrangement with the University to provide a technology         service.
+WVU systems: Computer systems which support WVU’s academic, administrative,         learning and research operations.
+University information systems: The hardware, software, and related         technology that supports the academic, administrative, learning and research         operations at the University.
+ENFORCEMENT AND INTERPRETATION:
+WVU’s Chief Information Officer, supported by the Chief Information Security         and Privacy Officer, will coordinate with appropriate University entities         on the implementation and enforcement of this Policy and other privacy policies.
+Responsibility for interpretation of this Policy rests with the Chief Information         Officer.
+AUTHORITY
+Privacy Act of 1974. 5 U.S.C. § 552a.
+The Family Educational Rights and Privacy Act (FERPA), 20 U.S.C.         § 1232g or 34 C.F.R Part 99.
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA). 45 C.F.R. § 160 and 164; 45 C.F.R. § 164.302 - § 164.318.
+General Data Protection Regulation (GDPR). Regulation (EU) 2016/679.
+Gramm–Leach–Bliley Act (GLBA), also known as the Financial Services         Modernization Act of 1999, Pub.L. 104–102 or 113 Stat. 1338. 15 U.S.C. §         6801-09; 16 C.F.R. § 313-314;
+CROSS REFERENCES
+All other University policies are also applicable to the electronic environment.         Relevant institutional policies include, but are not limited to:
+This page was last updated September 12, 2018.

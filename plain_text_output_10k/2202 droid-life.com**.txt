@@ -1,0 +1,17 @@
+Evernote , the popular note-saving platform that has gone through some major changes in recent years, like most recently limiting basic accounts and raising prices , issued a privacy policy update this week that is rightfully raising some eyebrows. In the newly minted privacy policy, Evernote admits that if you use its service, its employees have the power to view your un-encrypted content “for the purposes of developing and improving the Evernote service.” Let me say that again – Evernote employees can look at your content because you have chosen to use Evernote.
+The new privacy policy goes into effect on January 23, in case you were wondering. Once that happens, and you potentially decide that you aren’t a fan of Evernote employees viewing the items you have saved to their service, you have some options! 
+But first, let’s look at what’s changing, according to Evernote.
+OK, so Evernote’s version of machine learning involves humans doing manual work and invading privacy of customers. Got it.
+Which employees get to look at my stuff, though? Are we talking all employees or just the people Evernote has hand-selected that I don’t know but am now supposed to trust?
+Ahhh, so Evernote keeps the list small. Will it stay small or will it grow as is needed?
+What if I really don’t like this change and like my private documents remaining private? Can I opt-out of machine learning that is really partially human learning?
+Wait, wait, wait. So I can opt-out of machine learning, but I “cannot opt out of employees looking at [my] content for other reasons.” What…the…
+So really, do I have any options at all then to not allow Evernote employees access to my notes stored on their service?
+Thanks, I’ll strongly consider that option!
+***
+In all seriousness, this is real and happening on January 23. Evernote believes that some of its employees need access to your content in order to continue to make the product great. If that bothers you, you should consider your options in the near future.
+At this time, those options are encrypting every bit of text you can in Evernote ( instructions ) or potentially leaving the service altogether, since you can’t ever fully opt-out of an Evernote employee looking at your content.
+And look, do we think that Evernote has some malicious intentions here? No, not at all. But then again, these types of policies are often slippery slopes and we should all be a bit skeptical of the needs and reasoning here.
+If you are an Evernote customer, be sure to read through the two source links below.
+UPDATE: Evernote’s CEO has responded. You can view the news here .
+UPDATE 2: Evernote gave in, this evening, and has announced that it will not move forward with the proposed privacy policy. Details here .

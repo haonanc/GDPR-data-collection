@@ -1,0 +1,89 @@
+INTRODUCTION
+Seesaw’s mission is to create an environment where students can be their best.  To accomplish this goal, it’s essential that Seesaw is a safe place for students to document their learning, and that parents and teachers are in complete control over how that information is shared.
+Protecting your privacy is fundamental to our mission and business. The following summarize our promises to you.
+We never sell your data or student data.
+We never advertise in Seesaw.
+We don’t own the content you add to Seesaw.
+Student work is private to the classroom by default.
+We use the latest security industry best practices to protect you.
+We are transparent about our practices and will notify you if things change.
+We are compliant with FERPA, COPPA, and GDPR.
+You can read more about our Privacy Principles and our commitment to privacy here.  
+This Privacy Policy governs the use of data collected by our websites at seesaw.me, and the Seesaw Application (collectively “the Seesaw Service”, “the Service” or “Seesaw”).  This includes personally identifiable information that we collect when you create an account (“Account Information”), content added to class journals (“Journal Content”), Activities teachers create, and Messages sent via Seesaw.  Any data collected by Seesaw that can be linked back to an individual student is considered “Student Data”.
+ 
+SEESAW AND PARENTAL CONSENT
+We require that teachers or schools get parental consent before using Seesaw with children who are under the age when they can grant consent on their own.  This age may vary based on where you live. For example, in the US that age is younger than 13. You should check your local laws to determine the relevant age in your country.  If you are aware Seesaw is collecting information from a student without parental consent, please contact us immediately at help@seesaw.me and we will delete the data.
+There are a number of ways in which teachers or schools can obtain parental consent:
+Get consent as part of a school-wide technology consent process you may already have in place.
+Use our sample consent form - but please note that this is an example only and does not constitute legal advice.
+ 
+SEESAW AND FERPA
+ 
+SEESAW AND GDPR
+ 
+WHO DOES SEESAW COLLECT INFORMATION FROM?
+ 
+WHAT INFORMATION DOES SEESAW COLLECT?
+Account Information: When teachers, parents, family members, or school administrators create an account on Seesaw we collect your name, email address, password, and profile picture. Seesaw may also collect your phone number if you enter it in your Account Settings.
+Students cannot create an account by themselves, but must be invited to a Seesaw class by a teacher or school administrator. Where students have permission to use Seesaw, Seesaw collects personally identifiable information about them including their names, email addresses, and profile picture. This information may be entered by a teacher or the student or populated from the student’s account with a third party sign-in service, such as their Google account.
+Journal Content: Seesaw also collects content that is added to a class or student journal.  This content may be photos, drawings, files, notes, hyperlinks, and other ways of documenting student learning. We regularly add types of information that can be uploaded to a Journal, and these are all covered by this Policy.  We also collect comments on posts in your class journal which may be text, or if you allow Seesaw to access the microphone on your device, voice recordings. Journal Content that is uploaded by a student or teacher may be considered a student education record as defined by FERPA.
+Messages: Seesaw collects messages that are sent and received in Seesaw by teachers, family members, and students.
+Activities: Teachers may use Seesaw to create activities to use with their students.  Activities may include text or voice instructions for how to complete the activity, an example of a correct response or a template for students to edit.
+Activity Author Profiles: Teachers who choose to publish activities to the Seesaw Activity Library can also create a public Activity Author Profile.  This includes the name and profile picture they choose to publish on their public page, their school name, their school’s location, and other information teachers may choose to publish.
+Communications: Seesaw collects any information you send to us directly, such as email communications.
+Information from your Google Account or other Third-Party Sign-in Service: Seesaw allows teachers, parents, and students (after being invited by a teacher) to sign up for and log into our service using a Google or Clever Account. When you sign up for an account using one of these Third-Party Services, we use the name, profile picture, and email address (if available) from these services.
+ 
+HOW DOES SEESAW USE THIS INFORMATION?
+We only use this information to provide our services to you.  For example we use this information to:
+Allow you to access and use our service by verifying your identity and storing your Journal Content, Activities, and Messages.
+Provide teachers, schools, and family members with customer support.
+Notify you about activity on and updates to your account or your child’s account (if you’ve indicated in your account settings that you’d like notifications).
+Research, understand, and analyze trends of users to improve and develop new features for our products.
+Promote new Seesaw products and services to teachers, parents and schools.
+ 
+DOES SEESAW ALLOW ADVERTISING OR SHARE DATA FOR ADVERTISING?
+ 
+IN WHAT LIMITED CIRCUMSTANCES MAY SEESAW NEED TO SHARE MY INFORMATION?
+We do not sell or share any data you provide with third parties except in the limited circumstances detailed below:
+We use a small number of third-party services in order to operate and improve Seesaw – for example a data center operator that manages our servers or a notification service that helps us send you messages about your account.  These services need access to your personally identifiable information in order to work (i.e. your email address is required to send you email), but are contractually prohibited from using that information for any other purpose other than to provide the Seesaw service.  In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US and the Swiss-US Privacy Shield, Seesaw is potentially liable. A list of the third-party services that obtain personally identifiable information we currently use can be found here . When these third-party services transfer the personal information (Personal Data, as that term is defined in GDPR) of EU residents, these services are processors and are contractually bound to also comply with GDPR to protect your data privacy and security.
+Seesaw may disclose your information to a third party to comply with applicable laws or regulations, or a valid legal request - including to meet national security or law enforcement requirements.  If we are going to release your data, we will do our best to provide you with notice in advance by email, unless we are prohibited from doing so by law.
+Seesaw may disclose student Account Information and Journal Content to the child’s school district upon request, as required by FERPA.
+By default Activities teachers create are private to their account.  Optionally, teachers may choose to publish Activities they create to the public Seesaw Activity Library, in which case they will be publicly accessible along with their Activity Author Profile.  We may also share activities published to the library with teachers who we think may be interested in using them with their class.
+ 
+DO YOU WORK WITH THIRD-PARTY ANALYTICS SERVICES?
+Seesaw is constantly improving, and we use aggregate data about how Seesaw is used -- for example what buttons you click on or what pages you visit -- to inform those decisions.
+To help us analyze this data, we use a small number of third-party services (such as Google Analytics and Fabric).  In no circumstances are any data you have shared with Seesaw (such as your Account Information or Journal Content) shared with these services.  In addition, these services are contractually obligated only to use data about your usage of Seesaw to provide analytics services to us and are prohibited from sharing it or using it for other purposes. If you do not wish to participate in Google Analytics, you may download the Google Analytics opt-out browser add-on.
+ 
+HOW DO YOU USE COOKIES?
+Cookies are small text files that we transfer to your web browser that allow us to identify your web browser and store information about your account.  We use these cookies to keep you logged in to Seesaw, customize your Seesaw experience, understand how you use Seesaw, and promote Seesaw to relevant teachers and schools.
+ 
+HOW CAN USERS SHARE STUDENT AND CLASS JOURNAL INFORMATION?
+Seesaw is designed for safe sharing. Teachers control who class journals are shared with by authorizing people who can access a student’s class content. Teachers may also choose to publish specific class content to a public class web page managed by Seesaw, or to third party services including Facebook and Twitter. Teachers control whether or not students can share Seesaw content with other services. Family members who have access to class content may also choose to share that content on third party services they use. 
+ 
+HOW DOES SEESAW HANDLE ABANDONED ACCOUNTS?
+ 
+HOW TO VIEW, CORRECT, EDIT, PORT, OR UPDATE YOUR PERSONAL INFORMATION
+ 
+HOW TO DELETE YOUR SEESAW ACCOUNT
+If you would like to delete your Seesaw account or any content submitted to Seesaw, please send an email to help@seesaw.me.  If you request that your account or any content submitted to Seesaw be deleted, Seesaw may still retain information for up to 60 days to provide customer support and prevent accidental deletion.
+ 
+HOW DOES SEESAW KEEP YOUR DATA SAFE?
+Seesaw takes protecting your security and privacy seriously and we've put a number of measures in place to protect the integrity of your information, including use of highly secure, access-controlled data centers, routine 3rd party security audits, data encryption in transit and encryption of Journal Content at rest.  For more information, please read this article .
+ 
+HOW DOES SEESAW HANDLE DATA FROM INTERNATIONAL VISITORS?
+The Seesaw Service is hosted and operated in the United States and is subject to United States law. Any personal information that you provide to Seesaw will be hosted on United States servers. By using this Service, you consent to the transfer to and processing of your personal information in the United States. 
+Seesaw complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  Seesaw has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Seesaw is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Seesaw’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Seesaw remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Seesaw proves that it is not responsible for the event giving rise to the damage.
+In compliance with the Privacy Shield Principles, Seesaw commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Seesaw by email at privacy@seesaw.me .
+Seesaw has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint. This service is provided free of charge to you.
+ 
+RIGHTS OF CALIFORNIA RESIDENTS
+ 
+CHANGES TO OUR PRIVACY POLICY
+ 
+CONTACT INFORMATION
+If you have any questions about this Privacy Policy or feedback, please contact help@seesaw.me. You can reach Seesaw by mail at:
+Seesaw Learning, Inc.
+San Francisco, CA 94104

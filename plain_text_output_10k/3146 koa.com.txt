@@ -1,0 +1,35 @@
+Privacy Policy
+Privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to our website:
+Information Collected and Stored Automatically
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
+1. The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website
+2. The type of browser and operating system used to access our site
+3. The date and time you access our site
+4. The pages you visit; and
+5. If you linked to the armymwr.com website from another website, the address of that website.
+We use this information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.
+If You Send Us Personal Information
+If you choose to provide us with personal information -- as in an e-mail to our program managers or directorates, or the Webmaster, or by filling out a form with your personal information and submitting it to us through our website -- we use that information to respond to your message and to help us get you the information you have requested.
+We do not collect personal information for any purpose other than to respond to you. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. Family and MWR does not collect information for commercial marketing.
+Use of Cookies
+A cookie is information which may be placed in a file on your computer by our website to improve your internet experience. We do not set cookies without your knowledge, and we do not set cookies including personal information. Any cookie we set can only be accessed within our domain. We do not allow sharing of cookies elsewhere within the army.mil domain, or with any outside (commercial or otherwise) domain.
+The website often uses Active Server Pages (ASP) to deliver website content. ASP comes with a built-in object which appears as a cookie. This cookie maintains the connection with the user's browser. This object is called the Session object and is maintained only for the duration of a your visit to our Web site, or if the connection is idle for 10 minutes.
+This session object cookie looks like:
+FALSE 1293837077 HITO_VISITS A10A67D2A+3479E6*F20E7*1+56CD83*F3204*3
+There is no private information in this cookie which can be used to identify the web customer.
+Links to Other Sites
+Our Website has links to other federal agencies. In a few cases we link to private organizations. Before leaving our website, a message will appear informing you that you are leaving our server. Once you link to another site, you are subject to the privacy policy of the new site.
+Kids' Pages
+We at Hale Koa Hotel are especially concerned about protecting children's privacy. We hope parents and teachers are involved in children's Internet explorations. It is particularly important for parents to guide their children when children are asked to provide personal information online. Family and MWR will request no personal information from children.
+Security Intrusion and Protection
+For security purposes, and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic, to identify unauthorized attempts to upload or change information, to cause damage, or to deny service to authorized users. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+SPECIAL EVENTS
+Our one of a kind events and shows are a Hale Koa Hotel specialty. Lock in your tickets for the best seats at our in-house performances.
+   
+We're taking you over to a different website. We just needed to let you know. You’re still in good hands.
+Now’s a good time to check your eligibility requirements .
+If you want to head back, hit cancel.
+We're taking you over to a different website. We just needed to let you know. You’re still in good hands.
+Now’s a good time to check your eligibility requirements .
+If you want to head back, hit cancel.
+I have checked eligibility requirements and verified I am eligible.

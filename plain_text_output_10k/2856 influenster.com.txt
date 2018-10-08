@@ -1,0 +1,194 @@
+Overview
+Influx Inc, (“Influx”, “we”, “us”, “our”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding personal information we collect from users of our Site and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service .
+The processing of Personal Data shall always be in line with the General Data Protection Regulation (“GDPR”), the Australian Privacy Principles contained in the Australian Privacy Act 1998 (“Privacy Act”), and in accordance with country-specific data protection regulations applicable to Influx.
+We have implemented a number of technical and organizational measures to ensure the most complete protection of Personal Data processed through the Site.
+For the purpose of the GDPR:
+In respect of the Personal Data of the Website and the Services the Data Controller is Influx;
+In respect of Personal Data of end users or organisations of clients that use our Services, Influx may also process Personal Data on behalf of its clients as a data processor. When working as a data processor Influx will be acting on the instructions of its client and will work hard to ensure that the client is fully GDPR compliant. You will need to review the privacy policy of that client as in this instance they will be the data controller, and we will only process Personal Data on behalf of our clients in accordance with their instructions and not for our own purposes. Similarly, where we act as a data processor Influx has no direct control over the data collected by its clients. This means that you should contact the client with any data controller requests.
+For the purpose of the Australian Privacy Act, when we act a data processor no “disclosure” of Personal Data has been made to us.
+User Consent
+Where we rely on your consent as the lawful basis to process your data we will always ask for you to positively affirm your acceptance. By clicking “I accept the Privacy Policy” you acknowledge and agree to be bound by this Privacy Policy.
+We note that certain contact or other data forms where consent is required to be given by you include no pre-checked checkboxes so that you are able to freely affirmatively opt-in. In cases where we do not consider it practical to include a checkbox, we will indicate that by clicking a certain button you have agreed to the terms of this Privacy Policy.
+We will also provide you with notice on the Site specifically detailing what it is that you are consenting to in clear and plain language as well ensuring that each matter that requires consent is clearly distinguishable.
+For all areas of the Site where consent is given it is just as easily able to be withdrawn through the appropriate account settings on the Site.
+If you believe that consent has not been given freely or in breach of the terms of this Privacy Policy please contact us.
+Children
+Our service is not offered to persons under the age of 13. We do not knowingly collect Personal Data from such visitors without parental or guardian consent and require our clients to fully comply with applicable law in the data collected from children under the age of 13.
+If you become aware that a child has provided us with information please contact us. Any information that is in breach of this provision will be deleted.
+Types of Data We Collect
+“Personal Data” means any information that allows someone to identify you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.
+“Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+INFORMATION YOU PROVIDE TO US
+1. Account Data
+You do not need to create an account with us to use some of our services.
+By creating an account on the Site you may enter your details on the input form.
+We may collect this Personal Data from you, such as your name, e-mail and mailing addresses, phone number, and password when you create an account with us.
+The legal basis for this processing is based on:
+your consent through your voluntary submission of the form and agreeing to these terms;
+the Personal Data being necessary for the performance of a contract to which you are a party; for carrying out pre-contractual measures; and/or
+any other legitimate interests as detailed below.
+The registration of the account and voluntary provision of Personal Data is intended to enable us to offer you services that may only be available to registered users.
+2. Payment Data
+When you make a purchase, we (or our third party service provider) will collect all information necessary to complete the transaction, including your name, credit card information, debit card information, billing information and/or PayPal information.
+The Personal Data we collect will be the data that you input in any payment area on the website.
+The legal basis for this processing is based on:
+your consent through your voluntary submission of the form and agreeing to these terms;
+the Personal Data being necessary for the performance of a contract to which you are a party including the payment of goods or services; and/or
+any other legitimate interests as detailed below.
+This Personal Data is needed to enable us to process your payment for the goods or services. We retain information on your behalf, such as domain names, URLs, time zone preferences, Invoice Service invoices, transactional history, messages and any other information that you store using your Account.
+3. Additional Data
+If you provide us feedback or contact us via e-mail, or other means including by phone call or by contracting with us, we will collect your name and e-mail address, as well as any other content included in the e-mail or conversation, in order to send you a reply. We will store and process your communications and information as needed. When you participate in one of our surveys, we may collect additional profile information.
+The legal basis for this processing is based on: - either through your consent through your voluntary submission of the form and agreeing to these terms or by your voluntary submission of data to us in other means; - the Personal Data being necessary for the performance of a contract to which you are a party; - for carrying out pre-contractual measures; and/or - any other legitimate interests as detailed below.
+By submitting the form or making contact with us such Personal Data is transmitted on a voluntary basis and you consent to its collection.
+4. Subscription Data
+On the Site you may have the ability to subscribe to various newsletters or other forms. We may collect the data when you input your details for subscription purposes.
+The Personal Data is processed for the purpose of informing you regularly by means of a newsletter or other offer form. The personal information collected during the subscription will only be used for marketing materials or for reasons made known on the form.
+The legal basis for this processing is based on:
+your consent through your voluntary submission of the form and agreeing to these terms; and/or
+any other legitimate interests as detailed below.
+By submitting the form and voluntarily providing us with your data, you are providing consent to the use of such data by us. For the purpose of revocation of consent there is a corresponding unsubscribe link found in each subscription email.
+We may also collect Personal Data at other points in our Site that state that Personal Data is being collected. In some circumstances, Personal Data is provided to us by third parties such as our related entities, service providers or other organisations conducting activities on your behalf. With your expressed consent, your Personal Data may be used and disclosed to us this way. The purposes as outlined above may include the processing of such Personal Data to the extent necessary for us to comply with a law, regulation or legal request or to protect the safety of any person or to prevent fraud.
+INFORMATION WE COLLECT AS YOUR USE OUR SERVICES
+1. Log Data
+To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
+This data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you.
+The legal basis for this processing is based on:
+the Personal Data being necessary for the performance of a contract to which you are a party; for carrying out pre-contractual measures; and/or
+the legitimate interests of carrying out our business, providing personalised Services to you and any other legitimate interests as detailed below.
+2. Google Analytics
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Site owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics:
+3. Social Networking Sites
+If you:
+log on to the Service with your login credentials from a social networking site(such as Google, Facebook, Twitter, or LinkedIn) (“Social Networking Site”) or
+associate your Account with your account at a Social Networking Site, we may receive information about you from such Social Networking Site, in accordance with such Social Networking Site’s terms of use and privacy policy (“SNS Terms”). We may add this information to the information we have already collected from you via the Service. If you elect to share your information with these Social Networking Site, we will share information with them in accordance with your election. The SNS Terms will apply to the information we disclose to them.
+INFORMATION WE COLLECT AS A DATA PROCESSOR
+1. Client Data
+We may collect Personal Data about you that our clients have chosen to share with us, that is collected by their services or applications, such as your email address, name, birthdate and any other information included in a support ticket.
+Our clients may have integrated Influx applications into their systems or vice versa. This means we may collect Personal Data that our clients may send to us either manually or automatically through API that is integrated with our system.
+As a data processor Influx does not choose the information that will be sent to it by its clients and follows the instructions of its clients in connection with the processing of all of such information.
+2. Use of Your Personal Data
+In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in provide the Services in a personalised, safe and efficient manner. We collect, use, store and share your Personal Data in the following ways:
+to conduct our business;
+administer contracts including to negotiate, execute and or manage a contract with you;
+for any marketing purposes;
+identify you as a user in our system;
+research, develop and improve our Site and Services;
+customize content to match your preferences;
+prevent suspended users from re-registering;
+provide the Services;
+send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+provide you with access to protected areas of the site and to authenticate your account;
+send you administrative e-mail notifications, such as security or support and maintenance advisories;
+respond to your inquiries and requests;
+to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback;
+to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Influx;
+detect, investigate and prevent potentially unlawful acts or omissions or acts or omissions with the potential to breach our Terms and Conditions accessible on the Site (“Terms and Conditions”), this Privacy Policy or any other policy;
+enforce our Terms and Conditions, this Privacy Policy or any other policy; verify information for accuracy or completeness (including by way of verification with third parties);
+comply with our legal obligations, a request by a governmental agency or regulatory authority or legally binding court order;
+combine or aggregate your personal information with information we collect from third parties and use it for the purposes set out this Privacy Policy;
+aggregate and/or make anonymous your personal information, so that it cannot be used, whether in combination with other information or otherwise, to identify you;
+resolve disputes and to identify, test and resolve problems;
+notify you about the Site and updates to the Site from time to time;
+supply you with generalized, targeted or personalised marketing, advertising and promotional notices, offers and communications, and measure and improve our marketing, advertising and promotions based on your ad customisation preferences; or
+protect a person's rights, property or safety.
+If you access the Site from a shared device or a device of a third party (such as in an internet café), your personal information may also be available to other persons who access that device.
+CREATION OF ANONYMOUS DATA
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Influx reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion.
+Disclosure of Your Personal Data
+We may disclose your Personal Data to third parties for the purposes contained in this Privacy Policy, including without limitation to:
+1. Service Providers
+We may share your Personal Data with service providers to:
+provide you with the Services that we offer you through our Site;
+to conduct quality assurance testing;
+to facilitate creation of accounts;
+to provide technical support;
+The service providers (and if necessary data processors) include:
+independent contractors who provide email and call centre support to you or our clients or us, and who assist us with the tasks listed above under “Use of Your Personal Data”;
+information technology service providers such as web host providers and analytical providers; mailing houses;
+market research organisations to enable them to measure the effectiveness of our advertising; and specialist consultants.
+These third party service providers are required not to use your Personal Data other than to provide the services requested by Influx.
+2. Affiliates and Acquisitions
+We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. In the event we are involved in a merger, acquisition or sale of assets we may disclose Personal Data collected by us to such entities that we propose to merge with or be acquired by, and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. This includes the disclosure of information to our clients where we act as a data processor.
+3. Third parties with your consent
+We may disclose your Personal Data to third parties to whom you expressly ask to us to send the Personal Data to or to third parties you consent to us sending your personal information to. We may also, with your consent or at your direction, disclose your personal information to your authorised representatives.
+4. Other disclosures
+Regardless of any choices you make regarding your Personal Data (as described below),Influx may disclose Personal Data if it believes in good faith that such disclosure is necessary(a) in connection with any legal investigation;(b) to comply with relevant laws, regulations, enforceable governmental requests or to respond to subpoenas or warrants served on Influx;(c) to protect or defend the rights or property of Influx or users of the Services; (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use (e) to protect the safety of any person or to protect the safety or integrity of our platform including for security reasons (f) detect, prevent or otherwise address fraud, security or technical issues.
+We may share your Personal Data with such third parties subject to obligations consistent with this Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that the third parties use your Personal Data only on our behalf and pursuant to our instructions.
+We will take reasonable steps to ensure that anyone to whom we disclose your personal information respects the confidentiality of the information and abides by the APPs the GDPR or equivalent privacy laws.
+We will not share, sell, rent or disclose your personal information in ways different from what is disclosed in this Privacy Policy.
+Where we act as a data processor the client may also provide us with instructions with regards to disclosure.
+If we can't collect your data
+If you do not provide us with the personal information described above, some or all of the following may happen:
+we may not be able to provide the requested products or services to you, either to the same standard or at all;
+we may not be able to run the competitions and promotions in a way that benefits you;
+we may not be able to provide you with information about products and services that you may want; or
+we may be unable to tailor the content of our websites to your preferences and your experience of our websites may not be as enjoyable or useful.
+Cookies Policy
+We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies(which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. Cookies may enable automatic logins when you visit in the future and may enable content customization.
+We sometimes use cookies to show remarketing communications via third party networks like Google Display network and Facebook. To opt out of these communications please visit the  Network Advertising Initiative opt out page .
+Third Party Sites
+When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+Managing Your Personal Data
+Subject to the GDPR and the Australia Privacy Act you may request to access the personal information we hold about you by contacting us. All requests for access will be processed within a reasonable time.
+1. Accessing or Rectifying your Personal Data
+If required by law and if reasonably practicable, we may provide you with tools and account settings to access, correct, delete, or modify the Personal Data you provided to us. You can download and access certain information you provide to us by emailing us. In the event that you are unable to access your account to access or rectify your Personal Data, you may submit a request to us to correct, delete or modify your Personal Data and download the data for you.
+2. Deletion
+We keep data for as long as it is needed for our operations. If you deactivate and delete your account your data will no longer be visible on your account.
+If you wish to have us delete your data please contact us.
+3. Object, Restrict, or Withdraw Consent
+If you have an account on the website you will be able to view and manage your privacy settings. Alternatively, if you do not have an account, you may manually submit a request to us if you object to any Personal Data being stored, or if you wish to restrict or withdraw any consent given for the collection of your Personal Data.
+You may withdraw your consent to the processing of all your Personal Data at any time. If you wish to exercise this right you may do so by contacting us.
+You may withdraw your consent or manage your opt-ins by either viewing your account on the Site or clicking the unsubscribe link at the bottom of any marketing materials we send you.
+4. Portability
+We may provide you with the means to download the information you have shared through our services. If you require such information, please email us.
+We may retain your information for fraud prevention or similar purposes. In certain instances we may not be required or able to provide you with access to your personal information. If this occurs we will give you reasons for our decision not to provide you with such access to your personal information in accordance with the Privacy Act and the GDPR.
+There is no application fee for making a request to access your personal information. However, we may charge an administrative fee for the provision of information in certain circumstances such as if you make repeated requests for information or where the information is held by a third party provider. Where we act as a data processor, we do so on behalf of our client and in accordance with their instructions. This means that should you wish to access, review, correct, transfer, modify or delete any Personal Data we process on behalf of a client you should contact the client with your request.
+Security of Your Personal Data
+Influx is committed to protecting the security of your Personal Data. We (and our third party service providers) use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Influx uses reasonable efforts to protect your Personal Data, Influx cannot guarantee its absolute security.
+International Transfer and Disclosure of Personal Data
+Where we transfer Personal Data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws.
+We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
+We may disclose your personal information to entities located outside of America, including the following: - our related bodies corporate; - our data hosting and other IT service providers, located in various countries; and - other third parties located in various foreign countries, such as our contractors in Africa, Asia and other foreign jurisdictions.
+We may disclose your personal information to entities who may store or process your data overseas.
+Where we act as a data processor Influx complies with our client’s requests in respect of how we deal with end customer data.
+Notifiable Data Breaches
+We take data breaches very seriously. Depending on where you reside our policy is:
+1. If you reside in Australia:
+In the event that there is a data breach and we are required to comply with the notification of eligible data breaches provisions in Part IIIC of the Privacy Act 1988 (Cth) or any other subsequent sections or legislation which supersede this Part IIIC, we will take all reasonable steps to contain the suspected or known breach where possible and follow the following process set out in this clause.
+We will take immediate steps to limit any further access or distribution where possible. If we have reasonable grounds to suspect that the data breach is likely to result in serious harm to any individuals involved, then we will take all reasonable steps to ensure an assessment is completed within 30 days of the breach or sooner if possible. We will follow the guide published by the Office of the Australian Information Commissioner (if any) in making this assessment.
+If we reasonably determine that the data breach is not likely to result in serious harm to any individuals involved or any remedial action we take is successful in making serious harm no longer likely, then no notification or statement will be made.
+Where, following an assessment and undertaking remedial action (if any), we still have reasonable grounds to believe serious harm is likely, as soon as practicable, we will provide a statement to each of the individuals whose data was breached or who are at risk. The statement will contain details of the breach and recommendations of the steps each individual should take. We will also provide a copy of the statement to the Office of the Australian Information Commissioner.
+2. If you reside in the European Union of EFTA States:
+We will endeavour to meet the 72 hour deadline as imposed by the GDPR, to report any data breach to the supervisory authority where a data breach occurs that will likely be a risk to you. Further, where there is likely to be a high risk to your rights we will endeavour to contact you without undue delay.
+We will review every incident and take action to prevent future breaches.
+Automated individual decision-making, including profiling
+If you reside in the European Union or EFTA States, you shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you, or similarly significantly affects you, as long as the decision is not necessary for entering into, or the performance of, a contract between us, or is not authorized by Union or Member State law to which we are subject and which also lays down suitable measures to safeguard your rights and freedoms and legitimate interests, or is not based on your explicit consent. If you wish to exercise your rights please contact us.
+Retention of Data
+We keep personal information from active accounts as long as it is reasonably needed for our operations and to fulfill the purposes set out herein. We will also keep personal information from accounts that have been deactivated where we are legally required to and also where it is necessary to stop fraud, collect outstanding fees, troubleshoot problems, or otherwise enforce our other policies accessible on the Site.
+Contact Information
+Influx welcomes your comments or questions regarding this Privacy Policy. If you have a question regarding this Privacy Policy or you would like to make a complaint, please contact us by email by using our contact details on the Site or below.
+If you reside in Australia:
+You can confidentially contact our Privacy Officer at:
+Postal Address: 36/38 Gipps St, Collingwood VIC 3066, Australia.
+If we do not resolve your enquiry, concern or complaint to your satisfaction or you require further information in relation to any privacy matters, please contact the Office of the Australian Information Commission at:
+Telephone: 1300 363 992
+Office Address: Level 3, 175 Pitt Street, Sydney NSW 2000
+Postal Address: GPO Box 5218, Sydney NSW 2001
+If you reside in the European Union or EFTA States:
+The data controller that is responsible for your Personal Data is:
+Influx Inc.
+You can confidentially contact our Data Protection Officer:
+Michael De Wildt
+Our EU Representative is contactable at:
+Postal address: Fuldastraße 40, Berlin 12045
+If you wish to raise a concern about our use of your information you have the right to do so with your local supervisory authority.
+Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+Husarenstraße 30
+53117 Bonn
+Changes to This Privacy Policy
+This Privacy Policy is subject to occasional revision and Influx reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Continued use of our Site or Service shall indicate your acknowledgement of that it is your responsibility to review the Privacy Policy periodically and become aware of any modifications.
+Product
+ 
+ 
+By continuing to use this site you agree to the use of cookies. For more information see our privacy policy .
+OK

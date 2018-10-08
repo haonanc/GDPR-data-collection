@@ -1,0 +1,274 @@
+Last Updated: July 31, 2018
+We are committed to letting you know how Bird Rides, Inc. (“Bird” or “we”, “us”, or “our”) collects and uses your information. Bird provides services to users throughout the world. If you live in the United States, Bird Rides, Inc. (located at 406 Broadway, #369, Santa Monica, CA. 90401) is the data controller for your information. If you live in the EU or elsewhere, Bird Rides Europe B.V. (located at Weesperstraat 61, 1018 VN Amsterdam , The Netherlands ) is the data controller for your information. The policies below are applicable to data and information collected when you: use the Bird network of websites that link to this Privacy Policy (including any versions optimized for viewing on a wireless or tablet device); receive and view email newsletters published or distributed by Bird; use apps published by Bird, including the “Bird” app; activate a Bird vehicle (“Vehicle”); or use any other services, interactive features, and communications made available by Bird, however accessed and/or used, that are operated by us, made available by us, or produced and maintained by us and our related companies (“Services”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of information we may gather during your use of the Services, why we gather your information, what we use your information for, when we might disclose your information, and how you can manage your information.
+This Privacy Policy contains the following sections:
+• The Information We Collect
+• Use of Cookies and Other Online Tracking Technologies
+• Online Advertising
+• How We Share Your Information
+• How We Protect Your Information
+• Retention of Your Information
+• EU Data Subject Rights
+• Bird Contact Information
+If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [email protected]
+THE INFORMATION WE COLLECT
+We collect information about you in a variety of ways when you use our Services.
+Information You Provide to Us
+The following lists the most common ways in which you provide information directly to us:
+• Registration for an account
+• Use of your account, including the upload of content/information to the Services or the rental of a Vehicle
+• Payment information submitted when renting a Vehicle
+• Registration for an event sponsored by Bird
+• Information that you provide for your user profile
+• Submitting an application to work at Bird
+• Participation in surveys, contests, or sweepstakes
+• Signing up to receive alerts or other information via email, text or instant message from Bird
+• Requests for customer service, support requests, or other assistance
+• Service-related communications, e.g. account verification; technical notification
+• Participation in communities, commenting on blog entries, and participation in other forums
+The types of information we collect directly from you include: your name, e-mail address, telephone number, postal address, credit card, and billing and contact information. We also collect certain demographic data if you provide it to us including age, gender, and five-digit zip code inferred from your IP address.
+Automatically Collected Information
+There is also some information that we collect through automated technical means as you browse our websites, use our apps, or otherwise use the Services. For example, we collect:
+• Device information about your computer, browser, mobile device, or other device that you use to access the Services. This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, operating system, and other transactional information.
+• Analytics and usage information about your use of the Services, including GPS routes, and status of GPS chips.
+• Device information about the Bird Vehicle, including time stamps and battery status.
+• Additional “traffic data” and log files such as time of access, date of access, software crash reports, session identification number, access times, and referring and exit pages.
+• Other information regarding your use of the Services.
+Location Information
+We collect and store location information about you associated with your account that you volunteer on the Services or enable through the Services or your device. We will collect precise GPS location information regarding the location of the Bird Vehicles, the routes taken by these Vehicles, and the rental status of these Vehicles. We also collect and store your device’s source IP address which may disclose the general location of your device at the time you access the Services.
+Collection of information From or Through Social Media Sites or Using Your Social Media Logon
+When you interact with any Service Provider page or account on a social media platform, such as Facebook, Twitter, Google+, Tumblr, LinkedIn, YouTube, or Pinterest, we may collect the information that you make available to us on that page or account including your account ID or “handle.” However, we will only collect and store such information that we are permitted to collect based on your settings on and the policies of these social media platforms. If you publish your social media profile on our Services, we may collect information that you make available as part of that profile.
+Collection of Information From Other Sources
+We also may collect information about you that we may receive from other sources to, among other things, enable us to verify, update information contained in our records, and better customize the Services for you. These sources may include business partners, marketers, researchers, and analysts. We may also collect information from credit reporting agencies to, for example, determine your creditworthiness, credit score, and credit usage, in accordance with applicable laws.
+ Collection of Third Party Information Through Tell-A-Friend Feature
+We may from time to time conduct a referral service to introduce people you know to our Services, in accordance with applicable local laws. If you choose to use our referral service to tell someone about our Services, we will provide you with a template message and referral code to send to your referral. We will not collect the referral’s information unless he/she signs up to use the Services with the referral code.
+USE OF COOKIES AND OTHER ONLINE TRACKING TECHNOLOGIES
+Like most websites and mobile applications, we use “cookies,” which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We may also use cookies to monitor traffic, improve the Services and make it easier and/or relevant for your use. Like many Services, we use cookies, web beacons and similar technologies to record your preferences, track the use of our Services and your exposure to our advertisements. We may also use these technologies to monitor traffic and make the Services easier and/or more relevant for your use.
+We use both “session” cookies and “persistent” cookies. We use cookies for the other purposes set out below:
+• We use cookies to remind us who you are and to find your account information in our database when you access the Services so you do not need to log in at every visit. This helps us to provide you with service tailored to your specific needs and interests. A cookie is created when you register for the Services
+• We use cookies to determine the browser the visitor uses so the Services can be designed to work properly with the most common versions of different browsers
+• We use cookies in conjunction with sending you e-mail newsletters
+• Advertisers that place ads on the Services may use cookies
+• We use cookies in conjunction with analysis of your use of our Services and to generate analytics regarding our Services
+• We use cookies to estimate our audience size. Your browser is given a unique cookie that helps us determine whether yours is a repeat visit or a first visit
+You also have choices with respect to cookies. Many web browsers automatically accept cookies, but you can usually modify your browser's setting to decline cookies if you prefer. If you delete your cookies or if you set your browser or device to decline these technologies, some features of the Services may not work or may not work as designed. For more information about our use of cookies, please see our Cookie Notice .
+We also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), on our Services. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Services, compile reports on user’s activity, and provide other services related to activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website or app. To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google click here . We also use MixPanel to collect information about site usage. For more information and to opt out of MixPanel tracking technologies, please click here .
+ONLINE ADVERTISING
+We may partner with third party advertising companies to provide advertisements about our goods and services that may be of most interest to you. These third party advertisers may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Services. They may collect information about your online activities over time and across different websites and other online services through the use of persistent identifiers. They may use this information to provide you with interest-based advertising or other targeted content on our Services and other services.
+Third-party ad serving companies and other unaffiliated advertisers also display advertisements on our Services. As part of their services, they may place a separate cookie on your computer or utilize other data collection and tracking technologies, to collect information such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular advertisement. We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect and we are not responsible for the privacy policies or the content of those third parties. Please visit the sites of those businesses at the links above to review their privacy policies. We may add or change the list of third party ad servers from time to time and we encourage you to check this section for changes. You can learn more about online advertising at www.aboutads.info/consumers .
+Many of the third party advertisers that place tracking tools on our Services and on other services are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the Network Advertising Initiative , the Digital Advertising Alliance , http://www.youronlinechoices.com, as well as the webpages for Facebook’s ad preferences tool and privacy policy .
+Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:
+Please note that opting-out of advertising network services does not mean that you will not receive advertising while using our Services or other services, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
+Notice concerning Do Not Track. Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, Bird’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.
+USE OF YOUR INFORMATION
+We use the information we learn from you to help us personalize and continually improve your experience on the Services. We may use your information in the following ways:
+General Uses of All Information Collected
+• To provide the Services to you
+• To track Bird Vehicles
+• To permit you to update, edit, and manage your content
+• To communicate with you about your account or transactions with us (including service related announcements) and send you information about features and enhancements on the Services
+• To communicate with you about changes to our policies
+• To communicate with you about your comment to a blog post
+• To personalize content and experiences on our Services, including providing you reports, recommendations, and feedback based on your preferences
+• To create anonymous or aggregate information that does not identify you or your device that we can use for any purpose
+• To optimize or improve our products, services and operations
+• To automatically update the Services
+• To detect, investigate, and prevent activities that may violate our policies or be illegal
+• To perform statistical, demographic, and marketing analyses of our users
+Use of Your Location Information
+We use your location information, including precise GPS location, to:
+• Track the use of Bird Vehicles
+• Personalize content on our Services, including providing you reports, recommendations, and feedback based on your preferences
+• Optimize or improve our products, services, and operations
+• Perform statistical, demographic, and marketing analyses of users of the Services and their purchasing patterns
+Combination of Your Information
+We use the information from one portion of the Services on other portions of the Services, or in reports and analysis, all of which are owned and operated by Bird, and we may combine information gathered from multiple portions of the Services into a single customer record or analysis or report.
+LEGAL BASES FOR USE OF YOUR INFORMATION
+The legal bases for using your information as set out in this Privacy Policy are as follows:
+• Where use of your information is necessary to perform our obligations under a contract with you (for example, to comply with: the terms of service of our websites which you accept by browsing the websites/registering; and/or our contract to provide our Services to you)
+• Where use of your information is necessary for our legitimate interests or the legitimate interests of others (for example, to provide security for our websites, products, software, applications; operate our business and our Services; ensure safe environments for our staff and visitors; make and receive payments; comply with legal requirements and defend our legal rights; prevent fraud and to know the customer to whom we are providing Services)
+• Where use of your information is required to comply with an EU law (for example, to maintain your payment transaction history for tax reporting purposes)
+• When we have your consent as defined by applicable law
+HOW WE SHARE YOUR INFORMATION
+We share your data in the following ways:
+Business Partners, Sponsors and Third Parties
+We may share your information with our sponsors and other business partners from time to time. You may withdraw your consent to our sharing of your personal information (as defined under California law) with business partners and third parties at any time by following the opt-out process described below.
+Third-Party Service Providers
+We use a variety of third party service providers and affiliates that perform functions on our behalf, such as hosting, billing and payment processing, push notifications, storage, bandwidth, content management tools, analytics, customer service, fraud protection, etc.
+Emergency/Legal Situations
+We may also use or disclose information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Services; (b) protect and defend our rights or property, the Services or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or users of the Services or the public. This includes exchanging information with other companies and organizations for fraud protection.
+Public Forums
+ 
+ 
+ 
+ 
+As we continue to develop our business, we may buy, merge, or partner with other companies. In such transactions, (including in contemplation of such transactions) user information may be among the transferred assets. If a portion or all of our assets are sold or transferred to a third-party, customer information would likely be one of the transferred business assets. If such transfer is subject to additional mandatory restrictions under applicable laws, we will comply with such restrictions.
+HOW WE PROTECT YOUR INFORMATION
+We take technical and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access. However, no method of transmission over the Internet, and no means of electronic or physical storage, is absolutely secure. As such, you acknowledge and accept that we cannot guarantee the security of your information transmitted to, through, or on our Services or via the Internet and that any such transmission is at your own risk.
+RETENTION OF YOUR INFORMATION
+ 
+ 
+ 
+ 
+If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
+THIRD PARTY LINKS AND SERVICES
+The Services contain links to third-party websites such as social media sites, and also contain third-party plug-ins and functionalities (such as the Facebook “like” button and Twitter “follow” button). If you choose to use these sites or features, you may disclose your information not just to those third-parties, but also to their users and the public more generally depending on how their services function. We are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your information will be subject to the privacy policies of the third party websites or services, and not this Privacy Policy. We urge you to read the privacy and security policies of these third-parties.
+CHANGES TO THIS POLICY
+We reserve the right to amend this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. We will make the revised Privacy Policy accessible through the Services, so you should review the Policy periodically. You can know if the Privacy Policy has changed since the last time you reviewed it by checking the “Effective Date” included at the beginning of the document. If we make a material change to the Policy, you will be provided with appropriate notice in accordance with legal requirements. By continuing to use the Services, you are confirming that you have read and understood the latest version of this Privacy Policy.
+YOUR MARKETING CHOICES
+If you would like to express preferences with regards to the type of communications you receive from us, including opting out of marketing communications from us, you may do so at any time by updating the communication preferences specified in your account profile. Please note that we may continue to send non-promotional communications such as staffing confirmations, important notices, and other information about your use of the Services.
+EU DATA SUBJECT RIGHTS
+ 
+ 
+ 
+• provide access to and/or a copy of certain information we hold about you
+• prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling)
+• update information which is out of date or incorrect
+• delete certain information which we are holding about you
+• restrict the way that we process and disclose certain of your information
+• transfer your information to a third party provider of services
+• revoke your consent for the processing of your information
+ 
+ 
+ 
+ 
+ 
+If you have any questions about this Privacy Policy, you should contact us by email at [email protected] or by phone at 1-866-205-2442.
+Dernière mise à jour : 31 juillet 2018
+Nous nous engageons à vous faire savoir comment Bird Rides, Inc. (« Bird », « nous », « notre » ou « nos ») collecte et utilise vos données personnelles. Bird fournit des prestations à des usagers du monde entier. Si vous résidez aux États-Unis, Bird Rides, Inc. (sise au 406 Broadway, #369, Santa Monica, CA. 90401) est le responsable du traitement de vos données personnelles. Si vous résidez dans l'UE, Bird Rides Europe B.V. (sise à Weesperstraat 61, 1018 VN Amsterdam, Pays-Bas) est le responsable du traitement de vos données personnelles. Les politiques ci-dessous s'appliquent aux données personnelles et aux informations collectées lorsque vous utilisez le réseau Bird des sites Web renvoyant à la présente Politique de confidentialité (y compris toute version visualisable sur un téléphone mobile ou sur tablette), lorsque vous recevez et consultez les newsletters publiées ou distribuées par Bird, utilisez les applications éditées par Bird, y compris l'application « Bird app », activez un véhicule Bird (« Véhicule ») ou utilisez tout autre service, fonctionnalité interactive et dispositifs de communication mis à disposition par Bird, quel que soit leur mode d'accès et/ou d'utilisation, et que nous et nos sociétés affiliées exploitons, produisons et actualisons (« les Services »). Nous avons instauré la présente politique de confidentialité (« Politique de confidentialité ») pour vous informer des types de données personnelles que nous sommes susceptibles de collecter lors de votre utilisation des Services, des raisons pour lesquelles nous recueillons des données personnelles vous concernant, de l’usage que nous en faisons, des circonstances dans lesquelles nous pourrions divulguer ces données personnelles et de la façon dont vous pouvez les gérer.
+La présente Politique de confidentialité se compose des parties suivantes :
+Les données personnelles  que nous collectons
+Comment nous utilisons vos données personnelles
+Utilisation de cookies et d'autres technologies de suivi en ligne
+Publicité en ligne
+Fondements juridiques de l'utilisation des données personnelles vous concernant
+Comment nous partageons des données personnelles vous concernant
+Comment nous protégeons les données personnelles vous concernant
+Conservation des données personnelles vous concernant
+Utilisateurs internationaux
+Protection de la vie privée des enfants
+Vos droits à la vie privée en Californie
+Contacter Bird
+Si vous avez des questions concernant la présente Politique de confidentialité ou si vos préoccupations ne sont pas traitées ici, vous pouvez nous contacter par email à [email protected]
+LES DONNÉES PERSONNELLES QUE NOUS COLLECTONS
+Nous collectons des données personnelles vous concernant de diverses façons lorsque vous utilisez nos Services.
+Les informations que vous nous fournissez
+Voici la liste des moyens les plus courants par lesquels vous nous fournissez directement des données personnelles :
+Inscription pour l'ouverture d'un compte 
+Utilisation de votre compte, notamment le téléchargement de contenu ou d'informations sur les Services ou pour la location d'un Véhicule
+Informations afférentes au paiement effectué lors de la prise en location d'un Véhicule
+Inscription à un événement parrainé par Bird
+Informations que vous fournissez pour établir votre profil d'utilisateur
+Dépôt d'une candidature à un emploi chez Bird
+Participation à des sondages, des concours ou des loteries promotionnelles
+Inscription pour recevoir des alertes ou autres informations par e-mail, SMS ou message instantané de la part de Bird
+Sollicitation adressée au service clients, demande d’assistance technique ou d'un autre type d’aide.
+Communications relatives aux Services, p. ex. vérification d'un compte ; avis technique
+Participation aux communautés d'usagers, commentaires et contributions à des blogs, et participation à d'autres forums
+Les données personnelles que nous collectons directement auprès de vous incluent : votre nom, votre adresse électronique, votre numéro de téléphone, votre adresse postale, les coordonnées de votre carte de crédit, celles de votre facturation et celles qui nous permettent de vous contacter. Nous collectons également certaines données socio-démographiques si vous nous les fournissez, dont votre âge, votre sexe et le code postal à cinq chiffres obtenu à partir de votre adresse IP.
+Collecte automatique de données
+Il existe aussi certaines données que nous recueillons par des moyens techniques automatisés lorsque vous naviguez sur nos sites Web, utilisez nos applications ou nos Services. Par exemple, nous collectons :
+Des informations sur votre ordinateur, votre navigateur, votre appareil mobile ou tout autre appareil que vous utilisez pour accéder aux Services. Ces informations peuvent comprendre l'adresse IP, des données de géolocalisation, des identifiants uniques d'appareils, le type de navigateur, la langue du navigateur, le système d'exploitation et d'autres informations relatives aux transactions.
+Analyse et informations sur votre utilisation des Services, dont vos itinéraires GPS et l'état des puces GPS.
+Des données techniques sur le Véhicule Bird, dont les horodatages et le niveau de charge de la batterie.  
+Des « données de trafic » supplémentaires et des fichiers-journaux horodatant les accès, des rapports de défaillance de logiciel, les numéros d'identification de session, les durées des accès et les pages de référence et de sortie.
+D'autres informations concernant votre utilisation des Services.
+Données de géolocalisation
+Nous collectons et conservons des données de localisation vous concernant qui correspondent à votre compte et que vous fournissez de votre plein gré à propos des Services ou que vous activez par l'intermédiaire des Services ou de votre appareil. Nous collectons des données précises de localisation GPS qui fournissent l'emplacement des Véhicules Bird, les itinéraires empruntés par ces Véhicules et le statut de leur location. Nous collectons et conservons également l'adresse IP source de votre appareil qui peut révéler son emplacement approximatif au moment où vous accédez aux Services.
+Collecte de données sur/ ou par l'intermédiaire des sites de réseaux sociaux, ou par le biais de votre connexion à ces derniers
+Lorsque vous interagissez avec une page ou un compte d'un fournisseur de services sur la plateforme d'un réseau social comme Facebook, Twitter, Google+, Tumblr, LinkedIn, YouTube ou Pinterest, nous pouvons collecter les informations que vous mettez à notre disposition sur cette page ou sur votre compte, y compris votre identifiant ou votre « pseudo ». Toutefois, nous ne collectons et ne conservons que les seules données que nous sommes autorisés à collecter en fonction de vos paramètres et des politiques de ces plateformes de réseaux sociaux. Si vous publiez votre profil de réseau social sur nos Services, nous pouvons collecter des données que vous mettez à disposition dans ce profil.
+Collecte d'informations provenant d'autres sources
+Nous pouvons également collecter des données vous concernant que nous sommes susceptibles de recevoir d'autres sources afin, entre autres, de nous permettre de vérifier, de mettre à jour les données contenues dans nos dossiers et de mieux personnaliser les Services que nous vous offrons. Ces sources peuvent être des partenaires commerciaux, des distributeurs, des chercheurs et des analystes. Nous pouvons également collecter des informations auprès d'agences d'évaluation de crédit afin, par exemple, de déterminer votre solvabilité, votre pointage de crédit et votre recours au crédit, dans le respect des lois applicables.
+Collecte d'informations provenant de tiers par le biais de la fonction Dites-le à un ami
+Nous pouvons, de temps à autre, faire appel à nos services de recommandation aux tiers pour présenter nos Services à des personnes que vous connaissez, dans le respect des lois locales applicables. Si vous décidez d'utiliser notre service de recommandation pour parler à quelqu'un de nos Services, nous vous fournirons un modèle de message et un code de recommandation à envoyer à votre destinataire. Nous ne recueillerons pas de données sur la personne destinataire de vos recommandations tant que celle-ci n’aura pas souscrit à nos Services en utilisant le code de recommandation.
+UTILISATION DE COOKIES ET D'AUTRES TECHNOLOGIES DE SUIVI EN LIGNE
+Comme la plupart des sites Web et des applications mobiles, nous utilisons des « cookies », soit de petits fichiers texte stockés sur votre ordinateur ou votre équipement, lorsque vous consultez certaines pages en ligne qui sauvegardent vos préférences et vos actions de navigation. Nous utilisons des cookies, des pixels invisibles et des technologies de ce type pour enregistrer vos préférences, suivre votre utilisation de nos Services et votre degré d'exposition à nos publicités. Nous pouvons également utiliser ces cookies et technologies pour observer le trafic et rendre les Services plus conviviaux ou plus utiles à vos usages.
+Nous utilisons à la fois des cookies « de session » et des cookies « persistants ». Nous utilisons les cookies aux autres fins exposées ci-dessous :
+Nous utilisons des cookies pour nous rappeler qui vous êtes et retrouver les informations de votre compte dans notre base de données lorsque vous accédez aux Services, afin que vous ne soyez pas obligé de vous authentifier à chaque connexion. Cela nous aide à vous fournir un service adapté à vos besoins et intérêts spécifiques. Un cookie est créé lorsque vous vous inscrivez aux Services.
+Nous utilisons des cookies pour identifier le navigateur utilisé afin de concevoir des Services qui fonctionnent correctement avec les versions les plus courantes des différents navigateurs.
+Nous utilisons des cookies pour vous envoyer des newsletters par email.
+Les annonceurs qui placent des publicités sur les plateformes des Services peuvent utiliser des cookies.
+Nous utilisons des cookies dans  le cadre de l'analyse de votre utilisation de nos Services et pour produire des statistiques concernant nos Services.
+Nous utilisons des cookies pour estimer la taille de notre audience. Votre navigateur reçoit un cookie unique qui nous aide à déterminer si vous consultez nos Services pour la première fois ou si vous renouvelez votre expérience.
+Vous avez également le choix en ce qui concerne les cookies. De nombreux navigateurs Web acceptent automatiquement les cookies, mais vous pouvez généralement modifier les paramètres de votre navigateur pour refuser les cookies si vous le souhaitez. Si vous supprimez vos cookies ou si vous configurez votre navigateur ou votre appareil de sorte à refuser ces technologies, certaines fonctionnalités des Services peuvent s'interrompre ou ne pas fonctionner comme prévu. Pour plus d'informations sur notre emploi des cookies, veuillez consulter notre Politique sur les cookies.
+Nous utilisons également Google Analytics, un service d'analyse Web fourni par Google, Inc. (« Google »), sur nos Services. Google Analytics utilise des cookies ou d'autres technologies de suivi qui nous permettent d'analyser la manière dont les utilisateurs interagissent avec les Services et l'utilisation qu'ils en font, de préparer des rapports sur l'activité des utilisateurs et de fournir d'autres prestations concernant l'activité et l'usage. Les technologies employées par Google peuvent collecter des données telles que votre adresse IP, l'heure et le caractère habituel ou non de votre consultation et les coordonnées de tout site Web ou application vous ayant aiguillé vers nous. Pour en savoir plus sur les services partenaires de Google et pour apprendre comment refuser le suivi des analyses par Google, cliquez ici. Nous utilisons également MixPanel pour collecter des informations sur l'utilisation du site. Pour en savoir plus et pour choisir de ne pas utiliser les technologies de suivi MixPanel, veuillez cliquer ici .
+PUBLICITÉ EN LIGNE
+Nous pouvons nous associer à des agences de communication tierces pour diffuser des annonces sur nos produits et services au plus près de vos centres d’intérêts. Ces annonceurs tiers peuvent utiliser des cookies seuls ou en combinaison avec des pixels invisibles ou d'autres technologies de suivi pour collecter des données vous concernant lorsque vous utilisez les Services. Ils peuvent collecter des données relatives à vos activités en ligne au fil du temps et sur différents sites Web et autres services en ligne grâce à l'utilisation d'identificateurs persistants. Ils sont susceptibles d'exploiter ces données pour diffuser à votre intention, sur les plateformes de nos Services et d'autres services, des annonces axées sur vos centres d'intérêt ou d'autres contenus ciblés.
+D'autres tierces parties, dont des agences de diffusion d'annonces et des annonceurs indépendants, affichent également des publicités sur les plateformes de nos Services. Dans le cadre de leurs services, ces tiers peuvent placer un cookie distinct sur votre ordinateur ou utiliser d'autres technologies de collecte de données et de suivi pour collecter certaines informations, comme votre adresse IP, votre type de navigateur, le serveur auquel votre ordinateur est connecté, votre indicatif régional et le code postal de votre serveur, et votre réponse éventuelle à une publicité donnée. Nous n'avons aucun contrôle sur les technologies de suivi utilisées par ces tiers, sur la manière dont elles peuvent être exploitées, ni sur les informations qu'elles collectent et nous ne sommes pas responsables des politiques de confidentialité ou des contenus appartenant à ces tiers. Veuillez consulter les sites de ces sociétés pour consulter leurs politiques de confidentialité. Nous pouvons de temps à autre rallonger ou modifier la liste des serveurs publicitaires de tiers et nous vous invitons à consulter cette section pour prendre connaissance des éventuelles modifications. Vous pouvez en apprendre davantage sur la publicité en ligne à l'adresse www.aboutads.info/consumers .
+De nombreux annonceurs tiers qui placent des outils de suivi sur les plateformes de nos Services et sur d'autres services sont membres de programmes qui vous offrent des choix supplémentaires en matière de collecte et d'exploitation de vos données. Vous pouvez en apprendre davantage sur les options disponibles pour limiter la collecte et l’exploitation par ces tiers de données vous concernant en consultant la Network Advertising Initiative , la Digital Advertising Alliance , http://www.youronlinechoices.com, ainsi que les pages Web Facebook’s ad preferences tool et privacy policy .
+De même, vous pouvez vous renseigner sur la manière de paramétrer votre appareil afin de refuser d'être tracké par certains réseaux d'annonceurs via les applications mobiles. Pour en savoir plus sur la façon de configurer ces paramètres sur les appareils Apple, Android ou Windows, voir :
+Veuillez noter que la renonciation aux services de réseau publicitaire ne signifie pas que vous ne recevrez pas de publicité pendant que vous utilisez nos Services ou d'autres services, ni qu'elle vous empêchera de recevoir des publicités axées sur vos centres d’intérêt en provenance de tiers qui ne participent pas à ces programmes. Elle vous exclura toutefois de la publicité axée sur vos centres d'intérêt diffusée par les réseaux participants, comme le prévoient leurs politiques et dispositifs permettant l'expression de vos choix.
+Information concernant l'option Do Not Track. Votre navigateur ou votre appareil peut être doté de la fonctionnalité « Ne pas tracer » (Do not Track). Étant donné qu’aucun protocole de conformité Do not Track n'a encore été finalisé, les méthodes de collecte et de divulgation de données de Bird, ainsi que les choix que nous offrons à nos clients, continueront de fonctionner comme énoncé dans la présente politique de confidentialité, qu'un signal Do not Track soit reçu ou non.
+UTILISATION DES DONNÉES PERSONNELLES VOUS CONCERNANT
+Nous utilisons les données que nous recevons de vous pour nous aider à personnaliser et à améliorer continuellement votre expérience des Services. Nous sommes susceptibles d'exploiter vos données de la manière suivante :
+Utilisations générales de toutes les données collectées
+Vous fournir les Services. 
+Suivre les Véhicules Bird.
+Télécharger vos contenus selon votre demande.
+Vous permettre de mettre à jour, de modifier et de gérer vos contenus. 
+Communiquer avec vous au sujet de votre compte ou de vos transactions avec nous (y compris par les annonces relatives à nos services) et vous envoyer des informations sur les fonctionnalités et les améliorations des Services.
+Communiquer avec vous au sujet des changements apportés à nos politiques.
+Communiquer avec vous au sujet de votre commentaire sur un billet de blog.
+Personnaliser le contenu et l'expérience sur nos Services, notamment en vous communiquant des rapports, recommandations et commentaires sur la base de vos préférences.
+Créer des informations anonymes ou agrégées qui ne permettent pas de vous identifier ou d'identifier votre appareil et que nous pouvons utiliser à n'importe quelle fin.
+Optimiser ou améliorer nos produits, services et opérations.
+Mettre à jour automatiquement les Services.
+Détecter et, après enquête, prévenir les activités susceptibles de contrevenir à nos politiques ou d'être illégales.
+Effectuer des analyses statistiques, démographiques et de marketing sur nos utilisateurs. 
+Exploitation de vos données de géolocalisation
+Nous utilisons vos données de géolocalisation, y compris votre position GPS précise, pour :
+Surveiller l'utilisation des Véhicules Bird.
+Personnaliser le contenu de nos Services, notamment en vous communiquant des rapports, des recommandations et des commentaires sur la base de vos préférences.
+Optimiser ou améliorer nos produits, services et opérations.
+Effectuer des analyses statistiques, démographiques et marketing des utilisateurs de nos Services et de leurs habitudes d'achat.
+Combinaison des données vous concernant
+Nous utilisons les données collectées pour les besoins d'une partie des Services, en lien avec d'autres parties des Services, ou en relation avec des rapports et analyses, qui sont tous détenus et exploités par Bird, et nous pouvons combiner les données collectées dans plusieurs parties des Services en un seul dossier, analyse ou rapport relatif au même client.
+FONDEMENTS JURIDIQUES DE L'UTILISATION DES DONNÉES PERSONNELLES VOUS CONCERNANT
+Les fondements juridiques de l'utilisation des données personnelles vous concernant, tels que définis dans la présente Politique de confidentialité, sont les suivants :
+Lorsque l'utilisation de données vous concernant est nécessaire pour remplir nos obligations aux termes d'un contrat avec vous (par exemple, pour respecter les conditions de service de nos sites Web que vous acceptez en naviguant sur ceux-ci ou en vous y inscrivant, ou pour respecter les termes de notre contrat de prestations passé avec vous).
+Lorsque l'utilisation de données vous concernant est nécessaire à la poursuite de nos intérêts légitimes ou de ceux de tiers (par exemple, pour assurer la sécurité de nos sites Web, produits, logiciels, et applications ; pour la conduite de nos activités et assurer nos Services ; pour garantir un environnement sûr pour notre personnel et nos visiteurs ; pour effectuer et recevoir des paiements ; pour respecter les exigences de la législation et défendre nos droits ; pour prévenir la fraude et pour connaître le client à qui nous fournissons les Services).
+Lorsque l'utilisation de données vous concernant est requise afin de nous conformer à une réglementation européenne (par exemple, pour conserver l'historique de vos transactions de paiement à des fins de déclaration fiscale).
+Lorsque nous disposons de votre consentement au sens du droit applicable.
+COMMENT NOUS PARTAGEONS LES DONNÉES PERSONNELLES VOUS CONCERNANT
+Nous partageons vos données personnelles de la manière suivante :
+Partenaires commerciaux, sponsors et tiers
+Nous sommes susceptibles de partager de temps à autre des données personnelles vous concernant avec nos sponsors et autres partenaires commerciaux. Dans les conditions de la règlementation applicable, vous pouvez à tout moment retirer votre consentement ou le cas échéant vous opposer au partage des données vous concernant avec des partenaires commerciaux et des tiers, en suivant la procédure d'opposition décrite ci-dessous.
+Tiers prestataires de services
+Nous recourons à un éventail de tiers prestataires et de sociétés affiliées qui exécutent des prestations en notre nom : hébergement, facturation et traitement des paiements, notifications push, stockage, bande passante, outils de gestion de contenu, analyses, service client, protection contre la fraude, etc.
+Situations de crise ou injonctions judiciaires
+Nous pouvons également utiliser ou divulguer des données personnelles si la loi l'exige ou si nous estimons de bonne foi que pareille démarche est nécessaire pour a) nous plier aux exigences du droit applicable ou aux procédures judiciaires qui nous visent ou qui visent nos Services ; b) protéger et défendre nos droits ou nos biens, les Services ou nos utilisateurs, et c) agir en cas de crise pour assurer notre sécurité personnelle, celle de nos affiliés, agents ou utilisateurs des Services, ou celle du public. Cela comprend l'échange d'informations avec d'autres entreprises et organisations aux fins de protection contre la fraude.
+Forums publics
+ 
+ 
+ 
+ 
+Au fur et à mesure que nous développons nos activités, nous pouvons acheter d'autres sociétés, nous fusionner ou nous associer à celles-ci. Dans de telles transactions (comme en prévision de leur accomplissement), les données concernant les utilisateurs peuvent figurer parmi les actifs cédés. Si une partie ou la totalité de nos actifs est vendue ou cédée à un tiers, les données clients sont appelées à constituer l'un des actifs cédés. Si la cession d'entreprise est soumise à des restrictions obligatoires supplémentaires aux termes du droit applicable, nous nous conformerons à ces restrictions.
+COMMENT NOUS PROTÉGEONS LES DONNÉES PERSONNELLES VOUS CONCERNANT
+Nous prenons des mesures de sécurité techniques et organisationnelles destinées à protéger les données personnelles vous concernant contre leur destruction accidentelle ou illicite, leur perte ou altération fortuites, leur divulgation ou leur accès non autorisés. Cependant, aucune méthode de transmission sur Internet et aucun moyen de stockage électronique ou physique n'est absolument sûr. À ce titre, vous reconnaissez et acceptez que nous ne pouvons garantir la sécurité de vos données qui sont transmises à nos Services, par leur biais ou sur leurs plateformes, ou via Internet et que toute transmission de ce type se fait à vos risques.
+CONSERVATION DES DONNÉES VOUS CONCERNANT
+Nous conservons les données personnelles vous concernant uniquement pour la durée nécessaire aux finalités pour lesquelles celles-ci ont été collectées. La durée pendant laquelle nous conservons des données personnelles dépend des fins pour lesquelles nous les avons collectées et les utilisons, et de l’impératif de nous conformer aux dispositions du droit applicable.
+UTILISATEURS INTERNATIONAUX
+ 
+ 
+ 
+S'il y a lieu, vous pouvez déposer une plainte auprès de l'autorité de contrôle de la protection des données de votre pays de résidence. Vous pouvez également vous adresser aux tribunaux locaux si vous estimez que vos droits n'ont pas été respectés.
+LES LIENS ET SERVICES DE TIERS
+Les Services contiennent des liens vers certains sites Web édités par des tiers comme les sites de réseaux sociaux, ainsi que des plug-ins et des fonctionnalités appartenant à des tiers (tels que le bouton « like » de Facebook et le bouton « follow » de Twitter). Si vous choisissez d'utiliser ces sites ou leurs fonctionnalités, vous risquez de divulguer des données vous concernant non seulement à ces tiers, mais aussi à leurs utilisateurs et au public en général, selon les modalités de fonctionnement de leurs services. Nous ne sommes pas responsables du contenu de ces sites Web ou services ni de leurs méthodes. La collecte, l'utilisation et la divulgation des données vous concernant seront soumises aux politiques de confidentialité des sites Web ou services de tiers, et non à la présente Politique de confidentialité. Nous vous conseillons vivement de lire les politiques de confidentialité et de sécurité de ces tiers.
+MODIFICATIONS DE CETTE POLITIQUE DE CONFIDENTIALITÉ
+Nous nous réservons le droit de modifier la présente Politique de confidentialité à tout moment afin de refléter les modifications apportées à la loi, à nos méthodes de collecte et d'utilisation des données, aux fonctionnalités de nos Services ou aux avancées technologiques. Nous rendrons les versions révisées de notre Politique de confidentialité accessibles par le biais des Services, vous devriez donc la consulter régulièrement. Vous pouvez savoir si la Politique de confidentialité a été modifiée depuis votre dernière consultation en vérifiant la « Date de prise d'effet » figurant au début du document. Si nous apportons des modifications substantielles à notre Politique, nous vous en informerons conformément aux exigences légales. En continuant à utiliser les Services, vous confirmez que vous avez lu et compris la dernière version de la présente Politique de confidentialité.
+VOS CHOIX MARKETING
+Si vous souhaitez exprimer vos préférences sur le type de communications que vous recevez de notre part, y compris votre refus de toutes communications marketing de notre part, vous pouvez le faire à tout moment en mettant à jour les préférences de communication spécifiées dans votre profil d'utilisateur. Veuillez noter que nous pouvons continuer à vous envoyer des communications non promotionnelles telles que des confirmations de changement de personnel, des avis importants et d'autres informations sur votre utilisation des Services.
+DROITS DES UTILISATEURS SITUÉ DANS L'UE
+ 
+ 
+ 
+vous fournir un accès à certaines données vous concernant dont nous sommes détenteurs, ou à vous en remettre des copies.
+empêcher le traitement des données vous concernant à des fins de marketing direct (y compris toutes modalités de marketing direct reposant sur le profilage).
+mettre à jour des données obsolètes ou incorrectes.
+supprimer certaines informations que nous détenons à votre sujet.
+limiter la façon dont nous traitons et divulguons certaines données vous concernant.
+céder des données vous concernant à un tiers prestataire de services.
+retirer votre consentement au traitement des données vous concernant.
+ 
+ 
+ 
+ 

@@ -1,0 +1,128 @@
+The current Privacy Policy depicts your privacy rights in terms of gathering, use, storing, sharing, and protecting your personal data. You agree to this Privacy Policy by registering, accessing, or using Maxpay’s products, services, solutions, features, and technologies. Capitalized terms shall have the meaning ascribed to them in the Terms of Use . If you do not agree, you should stop accessing this Site or Maxpay Services immediately and refrain from further access and use of them.
+ROLES AND RESPONSIBILITIES
+You should be aware that by providing you with Maxpay Services we can act as a data processor and you act as a data controller in the meaning given by General Data Protection Regulation (GDPR). We process your data only to provide you and your Clients with Maxpay Services and only on documented instructions from you.
+You, as data controller, shall comply with all applicable data protection laws, rules and regulations. You should check if your privacy policy duly discloses your data practices, including using third-party service providers for detection and prevention of fraud.
+You warrant that when you act as data controller you obtain prior consent from your Clients to collect, use and process their personal data by Maxpay, including consent to transfer personal data to the third countries. If you disclose personal data without your Client’s proper consent, you are responsible for that unauthorized disclosure.
+As a data controller, to the extent that you process Client’s personal data, you may be required under privacy laws to honor requests for data access, portability, correction, deletion, and objections to processing. In case data subject directly contact us with a request to exercise his individual rights under GDPR or with another claim on data protection, we will direct such data subject to you as data controller. Nevertheless, we will assist you by providing all necessary information or by other means envisaged by applicable law.
+In some cases, when you use Maxpay Hosted payment page (HPP) allowing you to accept card payments through Maxpay payment page, we and you jointly determine to process cardholder data for the purposes of our cooperation. In such case, we are joint data controllers and bear several liability for data protection infringements. Your and ours obligations and responsibilities will be allocated in the data protection agreement with you.
+When we collect personal data of merchant’s officers, we act as data controller, therefore we are subject to controller’s rights and obligations under applicable data protection laws.
+WHAT DATA WE COLLECT
+When you visit Maxpay or use its services, we gather information provided by your computer, mobile phone, or other viewports. This info includes data about pages you visit, your IP-address, device information, type of operating system, your location, web and mobile network data, and some other minor details. Note that we also gather information about your activities with the site or service and keep track of your issued transactions.
+Furthermore, in case you access your Maxpay account or use any of the Maxpay’s services, the following type of data might be gathered:
+Contact information including your name, address, phone number, e-mail, etc. (used to maintain permanent communication with you, to send you legal and information notices);
+Financial information including your full bank account number and/or credit card number (used for payments to you, if any);
+Exhaustive personal information including your date of birth or national ID number, etc. (used for bank and AML compliance purposes).
+Pay attention to the fact we may also acquire information related to you provided by third parties like credit agencies and services for person verification.
+We do not collect any extra data but only that information that is necessary for the purpose of providing Maxpay Services to you.
+Maxpay website and services collects your personal data and activities with the system in order to safeguard you from scam, fraud, and misuse of any private data you might share. If your working station or mobile device has any malware, the system can notice that and take applicable measures.
+Additional information about you might be gathered in some other way, as through your contacting our Customer Support hotline, taking part in surveys, etc.
+HOW WE USE YOUR DATA
+Under this Privacy Policy, the term “personal data” is used to depict information that can be linked to a specific person and thus be used to identify that very person. Information that has been made anonymous is not considered to be personal data.
+You should be aware that the processing of your personal data is necessary for the performance of a contract with Maxpay to which you are the party and this ground shall be considered as a lawful basis for processing of your personal data by Maxpay within the meaning given by General Data Protection Regulation (GDPR). The main goal of gathering your personal data is to deliver effective, scalable, smooth, and personalized Maxpay experience. Hence, personal data we collect might be used to:
+Ensure maximum Maxpay user experience;
+Process transactions and issue relevant notifications in the most comprehensive manner;
+Settle disputes, levy charges, and resolve occurring problems;
+Prevent clients from becoming a subject to illegal activities and potential fraud;
+Improve quality of services, solutions, and incentives Maxpay offers on a daily basis;
+Provide target-oriented services based on your experience with the company;
+Being able to contact you in case of emergency via one of the means available;
+Make sure information you provide is accurate, in case discrepancies occur.
+Your personal data is not used for any additional purposes not mentioned in this Privacy Policy or the contract with Maxpay.
+HOW WE PROTECT YOUR DATA
+We warrant and represent that Maxpay has implemented the technical and organisational security measures and technological development to ensure an appropriate level of security of personal data. Your data is protected by the means of physical, technical, and administrative resources to lower the risks of loss, misusage, unauthorized entry, disclosure, or alteration by a third party. To keep your data safe we apply firewall and data encryption protection and physical authorization control system, just to name a few. As Maxpay is PCI DSS 1 V3.2 certified, we maintain all required technology, methods and business processes to protect cardholder data, and also use such technology and methods as regards the security of your personal data.
+We monitor our systems 24x7 and our staff is always ready to respond to your notifications and queries within a short time.
+Maxpay warrants and represents that:
+Your data will not be disclosed to advertisers or any unauthorized third parties;
+We do not use data to communicate your Clients;
+We will not claim ownership of the Data;
+We will not disclose your identifying information to other Maxpay’s users or other unauthorized third parties;
+We respect your privacy and your personal data will be protected as well as your Clients’ personal data;
+We keep your data and any information provided by you in confidence in accordance with the terms and conditions set in a separate agreement with Maxpay;
+We will use your data only as described in this Privacy Policy and will maintain appropriate administrative, technical and organizational measures to protect personal data;
+We will notify you promptly of any suspected or actual breach of the security of your data;
+We do not use your data in any manner other than you instruct in writing;
+We will assist you in ensuring compliance with your duties under GDPR;
+We impose on our sub-contractors the same data protection obligations as set out in the contract with you
+We will notify you of any personal data breaches (including any unauthorized or accidental access) without undue delay after becoming aware of a personal data breach.
+We immediately inform you if, in our opinion, you infringe GDPR protection provisions. You shall ensure the security of data you transfer to Maxpay. You assume full liability for failures to meet the GDPR in cases when it envisaged by this Privacy Policy or GDPR.
+HOW WE SHARE YOUR DATA WITH OTHER MAXPAY USERS
+To ensure the payment process runs smoothly, some of your personal information may be shared with a company or entity you cooperate with. Your registration date, number of payments you have issued/received via Maxpay, info whether you have an authorized control over a bank account – all that information might be showed to Maxpay users you work with at the moment. In addition, this information can be displayed to third parties in case you let them access your Maxpay account.
+You shall maintain the confidentiality of your password from Maxpay account. You are recommended to sign out of the Maxpay account when you have finished work with it. In any case responsibility for any loss of passwords and misuse of Maxpay account by third parties lay with you.
+Maxpay warrants that it will not disclose your personal data to any third party (excluding Maxpay’s contractors who may use such information only for the limited purpose of providing services to you and who are obligated to keep the information confidential).
+If you transfer to us any personal data of your users, clients or contractors you shall be obliged to obtain prior consent for the collection, retention, use and processing of data by you and for transferring it to Maxpay.
+HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL DATA
+Note you can review, update, and edit your personal information at any time. Simply log in to your account and change profile settings at once. You can also close your account using the Maxpay site. You have the right to temporary mark your profile as restricted by using relevant option in your Maxpay account. That means it should no longer be visible to the back office staff. You have the right to delete your personal data by contacting us. However, personal information of your account may be used further in order to track any unpaid fees, unresolved disputes, prevent from scam, or be used for any other activity if such required by law. We keep your data during the term of the contract with Maxpay and delete it if it is no longer needed or if the law doesn't require otherwise.
+If your personal data was transferred to third-parties data processors they will be notified of any editing or deletion of your personal data.
+MAXPAY COOKIE POLICY
+When you visit Maxpay’s Site or Maxpay Platform, a small Cookie file might be placed on your computer or mobile device. We will analyze data from the Cookies and use it to improve quality of our services, track your activities with Maxpay, keep your account safe. By clicking on or navigating the Site, you are agreeing to this Cookie Policy.
+What the cookie is?
+A cookie is a small text file stored in a computer’s web browser memory.
+There are three main types of cookies:
+Session cookies – they help you do not re-enter information and stay logged in each time you change web–pages. Session cookies are deleted automatically after you leave the Site or when you close your browser.
+Persistent cookies – they help us to recognize you each time you return to the Maxpay Site and remember your preferences for viewing the site. Such cookies are stored on your computer until deleted by you or automatically after its expiration.
+Third-party cookies - are the persistent cookies placed not by Maxpay which help to gather browsing activity across numerous websites and during several sessions. Such cookies are stored on your computer until deleted by you or automatically after its expiration.
+You can find out more from https://www.aboutcookies.org/
+How we use Cookies?
+We use cookies for the following purposes:
+Authentication. When you login in Maxpay Site or Maxpay Platform we use cookies to remember you so you don’t have login each time you left the main page and navigate throughout the Maxpay Site.
+Fraud Prevention. With help of cookies we can obtain information about security of your computer and web browser used to access to Maxpay Site or Maxpay Platform and to detect harmful or illegal use of Maxpay Services.
+Settings. We can use cookies to remember your settings of the Maxpay Services so you don’t have to change it each time you log into Maxpay Site or Maxpay Platform. For example, you can choose to remember payment details and associate it with your computer to make recurring payments or use language or font you prefer.
+Improving Maxpay Services. We use cookies to understand how we can make Maxpay Site and Services better. Cookies help us to know how people reach Maxpay Site, detect and gather reporting on bugs, improve functionality and speed of Maxpay Site and Maxpay Platform.
+Marketing. From time to time we can use cookies to show you more relevant ads, e.g. to not show the same ads multiple times or recognize actions across multiple devices or browsers, etc. We reserve the right to use Google Analytics to understand how Maxpay Site or Maxpay Platform is used by its users. You can opt out of Google Analytics Advertising Features as described below.
+What other technologies can we use?
+There are other technologies used by us to track your activity on the Site or Maxpay Platform.
+Web beacons (web pixels) are small graphics helping to understand browsing activity, track conversion and optimize ads. These graphics file is downloading when you visit the Site or Platform.
+Local Storage Objects (flash cookies) are files that can be stored on your browser and can be used to detect preferences, to record the history of usage, or remember settings of the Site or Platform. You can block or control flash cookies at any time by modify the settings of your browser.
+Google Analytics. Google Analytics is third-party technology which allows to collect and analyze information about how you use the Maxpay Services and web-sites and create relevant reports. For Google Analytics Advertising Features, you can opt-out through Google Ads Settings . Google also provides a Google Analytics opt-out plug-in for the web.
+How can you change Cookies settings
+You can to delete and disable cookies using setting of your browser. You can find out more about how to manage cookies from the following links:
+For Explorer browser: https://support.microsoft.com/en-us/products/windows?os=windows-10
+For Safari browser: https://support.apple.com/kb/PH21411
+For Firefox browser: https://support.mozilla.org/products/firefox/cookies
+For Opera browser: http://www.opera.com/help/tutorials/security/cookies/
+Also you can use third-party tools, like browser plug-ins or applications allowing you to monitor, block or limit third-party cookies, web pixels and some javascript-based technologies.
+HOW LONG WE RETAIN YOUR DATA
+We may use your Data for as long as reasonably necessary for the limited purpose of Maxpay Services, as determined by Maxpay in its reasonable discretion or for the purpose to comply of with technical and legal requirements related to the security, integrity and operation of Maxpay Services. After the termination of the agreement between Maxpay and you, you may request deletion of your Data. We are able to delete your Data or information within ninety days. Please be aware that applicable law may prevent us from returning or destroying all or part of the personal data or require storage of the personal data for some period. In which case we will protect the confidentiality of the personal data and will not actively process the personal data anymore.
+YOUR RIGHTS AS DATA SUBJECT
+When we act as data controller, you have the following rights for personal data that we have about you.
+You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you). Nevertheless we may be obliged to store your data longer for purpose of compliance with Card Shames rules, taxation and accounting purposes as envisaged by applicable law. Considering that fraudsters may use such opportunity we have to properly authenticate you before we fulfill your request.
+You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate. You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).You can obtain a copy of your personal data we retain about you.
+You may contact us using the contact information below to make the request or ask us about your rights.
+LEGAL BASIS FOR PROCESSING
+Our legal basis for collecting and using personal data depends on the type of personal information collected and the specific context in which we collect it.
+Contract
+We can process your personal data to fulfill our contractual obligations. We rely on contract as a legal basis to process personal data submitted by merchant in case it is an individual or if it transfers personal data of its officers. Processing of data of your personal data is necessary to provide you with Maxpay Services. We cannot provide merchant with payment gateway services without carrying out of KYC procedure or business risk assessment.
+You acknowledge and agree that your personal data may be transferred to the countries situated outside EU when it is necessary for the conclusion or performance of a contract concluded in your interest between us and another legal person.
+Legitimate interest
+We may process your personal data on the basis of our legitimate interests provided that such processing shall not outweigh your rights and freedoms. We rely on this legal basis when we carry out procedures which are the part of our Services or which are transparent, expectable and are the stable business practice. For example, to:
+safeguard the prevention, investigation and detection of payment fraud;
+comply with applicable laws, industry standards or requests of regulatory bodies;
+provide you with high-quality customer service;
+manage corporate transactions, such as mergers or acquisitions;
+provide you technical and administrative notifications;
+lawfully disclose personal data to a third party, provided we take all technical and legal measures to protect personal data;
+send you marketing information about our own products and services similar to that you are already receiving from Maxpay. You can refuse or opt-out of the marketing emails at any time by contacting us or by clicking the relevant button in the e-mail;
+comply with KYC standards and anti-money laundering rules;
+process payment transaction by your request.
+Please note that in most cases, if you do not provide the requested information, Maxpay will not be able to provide the requested service to you, e.g. our support cannot reach you in case of emergency without collecting your e-mail address or phone number.
+If we process your information based on our legitimate interests as explained above, or in the public interest, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.
+Consent
+We can request from you a consent for processing when we required to do so by law or when we do not have another legal basis for processing of your data. Where we rely on your consent to process your personal data, you have the right to withdraw or decline consent at any time.
+We do not rely on consent in common cases, because the right to withdraw a consent can be used for fraudulent activity. This would jeopardize the financial stability of Maxpay, reliability and integrity of Maxpay Services, thereby harming all legitimate parties in the payment process.
+In some cases, we may also have a legal obligation to collect personal information from you, or may otherwise need the personal information to protect your vital interests or those of another person.
+CROSS-BORDER TRANSFERS
+For the purpose to provide you and your Clients with Maxpay Services we can engage the third-party service providers outside the EU. In such case personal data may be transferred outside the EU, including to the United States. Data protection law of third countries may be different from EU data protection laws and not guaranty adequate level of security. However, we will take measures to ensure that any such transfers comply with applicable data protection laws and that personal data remains protected.
+We use European Commission-approved Standard Contractual Clauses as a legal mechanism for data transfers from the EU. These clauses are contractual commitments between companies transferring personal data, binding them to protect the privacy and security of the data. Maxpay does not participate in Privacy Shield at this time. Nevertheless, we rely on the EU-US Privacy Shield to transfer personal information to some of our third party service providers in the United States, where they are certified to receive such information under the Privacy Shield Program .
+When you act as data controller you shall inform your Clients about risks of cross-border transfers and obtain their consent for that.
+HOW MAY THIS PRIVACY POLICY BE CHANGED
+We can make amendments to this Privacy Policy at any time by the means of publishing a revised edition on the Site. You will be notified of any substantial changes. The revised version will be in effect immediately and be noted by updated date to the end of this Privacy Policy. You are entitled to terminate the agreement with Maxpay if you do not agree on any changes. By continuing using Maxpay Services, you accept the changes.
+DATA BREACHES
+We ensure you that we have all necessary technologies and methods to prevent, detect and investigate a personal data breach. In case of any data breach we will endeavor our best efforts to send a notification of becoming aware of the breach as soon as possible. If your Personal Data was transferred to third-parties data processors they will be notified of data breach as well.
+Pease feel free to contact our Data Protection Officer to:
+request access to information that Maxpay has about you
+correct any information that Maxpay has about you
+delete information that Maxpay has about you
+ask any other questions or concerns.
+Our contacts:
+Maxpay website uses cookies to deliver the best service to you.
+I accept cookies

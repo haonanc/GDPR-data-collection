@@ -1,0 +1,19 @@
+Shares
+Microsoft has bolted on a new section to its overall privacy policy , which specifically deals with 'enterprise products' and contains some interesting nuggets – including the circumstances when the company might nudge your colleagues to use its products.
+The freshly penned paragraphs define enterprise products as those primarily aimed at organisations or developers, and they include cloud services – from Azure to Office 365 – alongside on-premise software such as Windows Server and Visual Studio.
+The new section contains much of what you'd expect concerning Microsoft's collection of data from users – tech support will collect data to help resolve problems, Redmond will collect payment data when you buy things, and when communicating with customers the company will use collected data to personalise those messages.
+But as the Register spotted, there is dicier territory here, as for example one part talks about the data provided by admins when signing up or purchasing online services – if you provide any contact information on your colleagues or friends when doing so, Redmond says it may use that for the "limited purpose of sending them an invitation to use the Online Services".
+And when Microsoft contacts those colleagues, it says it could include information about you like "your name and profile photo".
+Third-party comms
+Redmond also notes that it could use data provided by admins to contact them regarding security or technical issues, but also, the company reserves the right to get in touch "regarding third-party inquiries we receive regarding use of the Online Services, as described in your agreement."
+Microsoft adds: "You will not be able to unsubscribe from these non-promotional communications."
+Still, you would hope Microsoft wouldn't bug paying customers in any meaningful way, particularly those who have taken the plunge and are subscribing to the cloud services which the company so desperately wants everyone to use.
+The enterprise changes are among many Microsoft has made, and the company noted it has also clarified its intention to adopt the incoming EU-US 'privacy shield' rules when it comes to transferring data out of Europe.
+Redmond has, of course, recently been mired in controversy in terms of privacy, with French authorities accusing Windows 10 of collecting "excessive data" on its users.
+Join 13,000 TechRadar Pro subscribers!
+This buyers guide focuses on the red hot market of ruggedised mobile computing, covering laptops, 2-in-1 devices, smartphones as well as storage and software.
+Most Popular
+Most Shared
+1
+2
+4

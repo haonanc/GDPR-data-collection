@@ -1,0 +1,33 @@
+1.0 Purpose
+The purpose of this University Policy is to define the university's web privacy policy.
+2.0 Introduction
+Wayne State University's websites collect some information from those who visit them, as do all websites.  This Privacy Policy specifies the information that the university's websites are permitted to collect from site visitors, what uses of the collected information are permitted, and how it shall be protected. 
+3.0 Scope
+Wayne State University owns, controls, operates and/or maintains a wide variety of websites under the wayne.edu domain (collectively, "WSU Web").  This Privacy Policy applies to all websites within that domain.  Specific websites within the WSU Web are allowed to have their own privacy policies, which may cover topics that are not addressed in this policy.  Such websites may not, however, adopt provisions that are inconsistent with this policy.  Anyone who requests a WSU Web domain name must agree to adhere to this policy.
+4.0 Information Collected
+The university's websites are permitted to ask site visitors to submit personally identifiable information, such as their email address, name, telephone number or street address.
+The university may use such personal information for research, public service, or educational programs, and for administrative purposes.  If a user submits personally identifiable information, an authorized university representative may follow-up with a request for additional information, such as data related to admission to Wayne State or employment here.
+ 
+The University normally does not voluntarily disclose personally identifiable information to persons outside of the University.  Furthermore, certain student information is protected from disclosure by the Family Educational Rights and Privacy Act (FERPA) .  Other information is protected by the university's Confidential Information Policy .
+The university may disclose personally identifiable information collected from WSU Websites to third parties only as provided in this section.  Such information may be shared with third parties when required by law, such as Michigan's Freedom of Information Act, the university's Freedom of Information Act policy, or in response to legal processes such as subpoenas and court orders.  In addition, personally identifiable information may be disclosed to third parties where  (1) permitted by University policies or applicable law, (2) authorized by a University contract, (3) the user consents to the disclosure, or (4) disclosure is otherwise authorized for good cause by the Chief Privacy Officer. In the absence or unavailability of the Chief Privacy Officer, such authorization may be made only by the Vice President and General Counsel or the Associate Vice President for Information Technology.   In no event, however, may a user's personally identifiable information be sold to third parties.
+ Credit card information is collected in accordance with the global Payment Card Industry Data Security Standard , which means that it is encrypted, collected and stored in special, segregated servers that are appropriately protected. 
+6.0 Cookies
+The university is permitted to store some information on the computer of a user visiting a WSU website.  This is in the form of a file called a 'cookie'.  A cookie helps the university to recognize the user's visit, should he/she have visited earlier, but is not linked to the user's identity.  A user can set his/her browser not to accept cookies and can delete them after visiting a university website. 
+7.0 Tracking Behavior
+Wayne State is permitted to use Google Analytics and other technologies to track how users navigate our sites.  This data may not include personally identifiable information, although it may track a user's computer IP address. This information may be shared with Google or the providers of other tracking technologies but will not be used in Google's products or such other providers' products. 
+8.0 Server Logs
+The university's servers are permitted to routinely log information about site visits, including the date, time and length of a user's visit, which university sites the user visited and what files the user has downloaded.  This information is used to ensure the smooth running of the university's sites and to alert the university of potential problems, such as performance issues and network attacks. 
+9.0 External Links
+The university does not vouch for the privacy policies of sites that might be linked to on WSU pages and it encourages users to make themselves aware of other sites' privacy policies.
+10.0 Security Practice
+Wayne State University endeavors to protect users' personally identifiable information and other data that is supplied from unauthorized access and damage. The University will use its best efforts to ensure appropriate security measures are in place and enforced.
+11.0 User Consent
+By using a website within the WSU Web, users consent to this Privacy Policy in addition to other specific policies applicable to a particular site within the WSU Web.
+12.0 Changes to this Policy
+It is occasionally necessary to change this Privacy Policy, usually in response to changes in technology.  The University will post such changes on the WSU Policy website.
+13.0 Contact Information
+If a user has any questions regarding this Privacy Policy or about his/her information on the WSU Web, the user may contact privacy@wayne.edu
+14.0 Duration
+This University Policy is revocable by the President at any time and without notice.
+15.0 Effective Date
+313-577-2424

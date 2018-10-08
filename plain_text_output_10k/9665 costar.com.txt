@@ -1,0 +1,61 @@
+Information we collect
+Except as detailed herein, we do not collect personal information that identifies you or another person (“Personal User Information“), such as your last name, physical address, fax, ID card number or SSN information. We generally collect information in the following ways to provide better services to all of our users:
+Information you give us. We may collect information such as email contacts and troubleshoot content that may be provided during user feedback. We will use this information to improve our Website and our business in the future.
+Information we get from your use of our services and Website. We may collect information about our services and Website through your use and the manner in which you use our services and Website. This information may include, for instance, information about your device from which you visit our Website, the version of browser and operating system installed on your device, details about your usage patterns and limited details about your Internet usage stored temporarily to provide our services and Website.
+Device information. We may collect device-specific information, including your operating system, operating system version, browser and browser version.
+Log information. When you use our services and Website, we may automatically collect and store certain information on our servers related to your use of our services and Website to help us improve the quality of our products and service. This may include the manner in which you use our services and Website, including how frequently you visit our Website and the features of the Website that you use.
+Use of Personal User Information
+iStar uses the Personal User Information it collects in ways that serve your security and privacy needs, including the following:
+Conduct research and analysis (for example, market and consumer research, security research and analysis, and trend analysis);
+Analyze users’ behavior when using our services and Website to customize users’ preferences;
+Provide customer support and respond to requests for information, questions and comments;
+Communicate about, and administer participation in, special events, initiatives and other promotions;
+Customize, measure, and improve our Website;
+Analyze and develop new products and services;
+Prevent, detect, identify, investigate, and protect against potential or actual claims, liabilities, prohibited behavior, and criminal activity;
+Comply with and enforce applicable legal requirements, agreements and policies;
+Perform other activities consistent with this policy.
+Third parties (such as AdRoll, LinkedIn and the Yahoo! Network) may place cookies on a user’s browsers for targeted advertising purposes.
+User data collected may include: IP addresses, cookie identifiers, website activity, device IDs, call state, network access, storage information and battery information, referrer headers data identifying your web browser and version, and web beacons and tags.
+To opt out of receiving targeted advertising, visit www.aboutads.info or www.networkadvertising.org/choices .
+Information security
+We work hard to protect iStar, our Website and our visitors from unauthorized access to, or unauthorized alteration, disclosure or destruction of, any Personal User Information that we hold. In particular:
+We may review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems whenever we find it appropriate to do so.
+Although we take great efforts to protect your personal information, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot guarantee and you cannot reasonably expect that our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+Information we share
+We do not share Personal User Information with companies, organizations and individuals outside of iStar unless one of the following circumstances applies:
+With your consent. We will only share your personal information with companies, organizations or individuals outside of iStar when we have your specific consent to do so, except when we share your Personal User Information to affiliate businesses or to third-party servicers which provide administrative or other services to us in connection with the services and Website we offer you.
+For external processing. In order to provide the most efficient and up-to-date services, we provide your personal information to our affiliate businesses and to third-party servicers which provide administrative or other services to us in connection with the services we offer you. We will only disclose your Personal User Information in accordance with our Privacy Policy and any other appropriate confidentiality and security measures as regulated by law. We will ensure that any third party servicers that may come in contact with your Personal User Information will have confidentiality and/or privacy policies equal to or greater than our own.
+For legal reasons. To the extent required or permitted by the applicable law, we will share personal information with companies, organizations or individuals that are not affiliated with iStar if we have a good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:
+Meet any applicable law, regulation, legal process or enforceable governmental request, including a subpoena, warrant or other process issued by a court of competent jurisdiction;
+Enforce applicable Terms of Service and/or End User License, including investigation of potential violations;
+Detect, prevent, or otherwise address fraud, security or technical issues.
+As may be required for purposes of national security; or
+Prevent physical, financial or other harm, injury or loss or in connection with an investigation of suspected or actual illegal activity or exposure to legal liability, where iStar believes disclosure is necessary or appropriate.
+If iStar is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and will post information regarding any such merger, acquisition or asset sale notice to this Website before personal information is transferred or becomes subject to a different Privacy Policy.
+Consent
+We will ask for your consent before using your personal information for any purpose other than those that are set out in this Privacy Policy to the extent permitted by law. We will cease to use any of your Personal User Information for any purpose if you request us to do so.
+Transparency and choice in collection process
+We understand that our users have different privacy concerns. Our goal is to be clear about what personal information we collect, so that you can make meaningful choices which would affect how your personal information would be used by us. If you choose not to participate in our use of your Personal User Information, you may close or choose not to trigger certain functions of our Website or services. However, we would like to explicitly point out that if you do so, you will not be able to fully use all of our services or Website.
+Accessing and updating your personal information
+If at any time you would like to access or correct your information that we have on file, please send your request to via email. When providing you with or updating your personal information, we may ask you to verify your identity before we can act on your request.
+Where we can assist in providing or correcting your information, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services and Website in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services and Website or request deletion of our information, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+Data Retention
+We will retain certain of your information for as long as your account is active or as needed to provide you services or improve services for other users. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If at any time you would like to remove your information from our server, please send your request to via email. When providing you with or updating your personal information, we may ask you to verify your identity before we can act on your request.
+Application of Privacy Policy
+Our Privacy Policy applies to all of the services and Websites offered by iStar and its affiliates.
+Enforcement
+We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our visitors directly.
+Modifications
+Our Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page. We will not make any material, retroactive changes to this Privacy Policy, including for changes involving the use of your Personal User Information, without your affirmative consent.
+Children’s Privacy
+iStar complies with the Children’s Online Privacy Protection Act of the United States of America where it applies to our information protection activities. iStar does not knowingly collect personal information from children under the age of 13.
+Data transfer
+We may transfer the Personal User Information we obtain to countries other than the country in which the information originally was collected. Those countries may not have as comprehensive data protection laws as the United States. When we transfer the Personal User Information to other countries, we will protect that Personal User Information as described in this Privacy Policy.
+Agreement with the Privacy Policy
+You expressly consent to iStar’s processing of information as described in this Privacy Policy when you:
+provide information to us through our websites; or
+browse our Website or solicit services from iStar.
+In addition, through these uses and interactions with our Website, other websites or our services, you specifically consent to our collection of Personal User Information by automated means, and to our subsequent processing of the Personal User Information in accordance with this Privacy Policy and to the storage and transfer of the Personal User Information to locations wherever iStar and its service providers have facilities.
+This Privacy Policy is effective as of June 15, 2015.

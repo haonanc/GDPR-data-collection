@@ -1,0 +1,20 @@
+Though Yahoo was already scanning its users' emails to maximize ad opportunities, doubling-down on the policy could raise eyebrows in a post-Cambridge Analytica world.
+by
+Justin Sullivan/Getty Images
+Oath, the media division of Verizon that runs both AOL and Yahoo , is finally unifying the privacy policy of its two giant legacy Internet brands. That means an updated set of privacy terms and policies for hundreds of millions of users. And in an online world where privacy expectations have been radically reshaped in light of  Facebook's Cambridge Analytica mess , it's more important than ever to read the fine print on those splash screens.
+When we logged in to a Yahoo Mail account Friday, we were greeted with the privacy policy you see below ( Jason Kint  had pointed to the policy earlier on Twitter). In it, Oath notes that it has the right to read your emails, instant messages, posts, photos and even look at your message attachments. And it might share that data with parent company Verizon, too.
+Screenshot by Joshua Goldman/CNET
+To be clear, Yahoo's previous privacy policy  had already stated that Yahoo "analyzes and stores all communications content, including email content," so the company has previously disclosed that it's been able to scan the contents of your emails, at least. ( AOL's legacy privacy policy  doesn't say anything like that.)
+When you dig further into Oath's policy  about what it might do with your words, photos, and attachments , the company clarifies that it's utilizing automated systems that help the company with security, research and providing targeted ads -- and that those automated systems should strip out personally identifying information before letting any humans look at your data. But there are no explicit guarantees on that. 
+There's also this paragraph:
+Screenshot by Sean Hollister/CNET
+In other words, emails related to your banking and financial transactions appear to be equally in the crosshairs of Oath's ad targeting engine. 
+There appears to be another big change for Yahoo users, too: Oath's previous mutual arbitration clause and class-action waiver has been updated and extended across the company's services to include Yahoo as well. What it means is if you don't like what the company does with your data,  you'll have a hard time suing . 
+Screenshot by Joshua Goldman/CNET
+In response to several specific questions related to the new privacy policy, an Oath spokesperson replied only with this statement: "The launch of a unified Oath privacy policy and terms of service is a key stepping stone toward creating what's next for our consumers while empowering them with transparency and controls over how and when their data is used." 
+None of this is necessarily unexpected behavior for a big tech company in 2018, and our collective expectation of privacy may be smaller than ever today. But in in a post-Cambridge Analytica world, think twice before hitting that "OK" button.
+You can read the entire Oath privacy policy right here . 
+Close
+Discuss: Yahoo and AOL just gave themselves the right to read your emails (again)
+Sign in to comment
+Top Brands

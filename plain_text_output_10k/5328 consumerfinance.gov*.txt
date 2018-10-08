@@ -1,0 +1,50 @@
+Have an issue with a financial product? Submit a complaint
+Privacy policy
+The Consumer Financial Protection Bureau (“CFPB”) can be most effective in its mission when/if trust exists between consumers and the agency that works to protect them.
+Before we collect personally identifiable information (“PII”)*, we tell you what we are collecting, why we are collecting it, and how we are going to use it. We only collect the minimum amount of PII necessary to achieve the task, whether it is to advocate for you personally or to work on consumer issues broadly. We work to ensure that the PII we have about you is accurate, relevant, timely, and complete. We hold ourselves accountable for handling your PII appropriately and we train all of our employees to make sure they know how to ensure that your PII remains protected.
+Our commitment to privacy
+At the CFPB, we have nine privacy principles that guide when and how we collect, use, share, and protect your PII.
+Purpose of collection
+The CFPB will state the purpose and legal authority for collecting PII.
+Openness and transparency
+The CFPB will tell you about the PII we collect from you, as well as how we will protect it, use it, and share it. We will provide an easy way for you to learn about what is happening to your PII.
+Data minimization
+The CFPB will limit the collection of PII to what is needed to accomplish the stated purpose for its collection. The CFPB will keep PII only as long as needed to fulfill its stated purpose.
+Limits on uses and sharing of information
+The CFPB will provide notice about how we plan to use and share the PII that we collect from you. We will only use or share your PII in a manner compatible with the notice, as stated in the Privacy Act, or as explicitly mandated or authorized by law.
+Data quality and integrity
+The CFPB will make reasonable efforts to ensure that all PII it maintains is accurate, relevant, timely, and complete.
+Security
+The CFPB will protect PII from loss, unauthorized access or use, destruction, modification, or unintended or inappropriate disclosure.
+Individual participation
+The CFPB will, in most cases, give you the ability to access your PII and allow you to correct or amend it if it is inaccurate.
+Awareness and training
+The CFPB will train all Bureau employees about how to secure your information properly to ensure that it remains protected.
+Accountability and auditing
+The CFPB will ensure accountability in the handling of your PII through strict policies and procedures communicated to all Bureau employees. Independent auditors hold the Bureau accountable for complying with these policies and procedures. We also conduct our own internal audits to ensure that we are meeting our responsibilities, and take swift and immediate action if we uncover any violations of law or our policies or procedures.
+What is a Chief Privacy Officer?
+The CFPB’s Chief Privacy Officer (“CPO”) is the Bureau’s Senior Agency Official for Privacy, and is responsible for overseeing, coordinating, and facilitating the Bureau’s compliance efforts in accordance with applicable privacy requirements in statute, regulation, and policy. The CPO evaluates the privacy implications of legislative, regulatory, and other policy proposals and ensures that the technology used by the CFPB upholds privacy protections. The CPO manages privacy risks associated with all CFPB’s activities that involve the creation, collection, use, processing, storage, maintenance, dissemination, disclosure, and disposal of PII. The CPO is responsible for ensuring that all employees are familiar with information privacy laws, regulations, policies, and procedures and understand the serious consequences and ramifications of inappropriate access, use, or disclosure of PII. The CPO ensures completion of System of Records Notices (“SORN”), Privacy Impact Assessments (“PIA”), and provisions of appropriate privacy notice. The CPO is also responsible for ensuring that the CFPB takes steps to eliminate unnecessary collection, maintenance, and use of Social Security numbers, and explore alternatives to the use of Social Security numbers as a personal identifier. The CPO and the privacy program are an important part of a comprehensive approach to effective acquisition and management of CFPB information resources.
+Training CFPB employees
+The CFPB trains all employees to maintain strict confidentiality, protection, and respect for PII they encounter in the course of their duties.
+The CPO provides specific training for all operational units that handle PII.
+Limiting access to Bureau information
+The CFPB only allows access to PII to authorized individuals with a legitimate need for access.
+CFPB employees will:
+Only access PII as authorized and as needed to carry out official duties.
+Disclose PII only as authorized by law.
+Ensure that they protect and dispose of PII in accordance with applicable laws, regulations, and CFPB policies and procedures.
+Only use PII for the purposes it was collected, unless other purposes are explicitly mandated or authorized by law.
+Establish and maintain appropriate administrative, technical, and physical safeguards to protect PII.
+CFPB system owners and managers will:
+Meet all responsibilities for employees related to PII as outlined above.
+Follow applicable laws, regulations, and CFPB policies and procedures in the development, implementation, and operation of information systems under their control.
+Conduct a risk assessment to identify privacy risks and determine the appropriate security controls to protect against risk.
+Ensure that only PII that is necessary and relevant for legally mandated or authorized purposes is collected.
+Third parties
+Third parties, such as banks or other government agencies that have access to information collected by the CFPB, shall comply with requirements of memoranda of understanding (“MOUs”) drafted to address, among other matters, privacy issues.
+*The Office of Management and Budget has defined “Personally Identifiable Information” as “information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a specific individual.” Office of Management and Budget, M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information, Jan. 3, 2017.
+Related links
+Privacy
+We hold ourselves accountable for appropriately handling any personally identifiable information we collect. We train all our employees so they know how to ensure that your information is protected. Let us know if you have questions about our privacy program or how we handle information.
+Chief Privacy Officer and Senior Agency Official for Privacy
+Claire Stapleton

@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<!--[if lte IE 9 ]>    <html class="ie lte9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="notie"> <!--<![endif]-->
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=3433;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1527197507.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1527197507.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1527197507.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAUEWF5SGwEEUlNQAQUO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":1,"licenseKey":"554d8cc9e6","agent":"","transactionName":"YlZRMEYHCkAHUUVfCVscdRFaBRBaCVweUglaQVcFRw5KUAlcQkMLUEEdEl0DE0BcQkNfEFRQSjtEBwNW","applicationID":"24622649,24622586","errorBeacon":"bam.nr-data.net","applicationTime":23}</script>
+  <meta name="google-site-verification" content="_z_ddBbT_aEpMuPyM09GSH2zyyhmnvQxpFXgyiL9wH0"/>
+  <meta name="msvalidate.01" content="868F59E78DF8D49B4589547A95A807E6"/>
+
+  <title>DoorDash Food Delivery | Privacy Policy</title>
+
+  <!-- Schema.org Organization Start -->
+  <script type="application/ld+json">
+  {
+    "@context" : "https://web.archive.org/web/20180520190708/http://schema.org/",
+    "@type" : "Organization",
+    "name" : "DoorDash",
+    "logo" : "https://web.archive.org/web/20180520190708/https://cdn.doordash.com/static/img/doordash-logo-red@2x.png?dd-nonce",
+    "url" : "https://web.archive.org/web/20180520190708/https://www.doordash.com/",
+    "sameAs" : [
+      "https://web.archive.org/web/20180520190708/https://www.facebook.com/DoorDash/",
+      "https://web.archive.org/web/20180520190708/https://twitter.com/doordash",
+      "https://web.archive.org/web/20180520190708/https://www.linkedin.com/company/3205573",
+      "https://web.archive.org/web/20180520190708/https://www.pinterest.com/doordash/",
+      "https://web.archive.org/web/20180520190708/https://plus.google.com/117262777138326407290",
+      "https://web.archive.org/web/20180520190708/https://www.instagram.com/doordash/"
+    ]
+  }
+  </script>
+  <!-- Schema.org Organization End -->
+
+  
+  <script>
+    var STATIC_URL = "//web.archive.org/web/20180520190708/https://cdn.doordash.com/static/";
+    var DEBUG = false;
+    var PRODUCTION = true;
+    var SIFT_SCIENCE_KEY = '82f7804f45';
+    var API_BASE_URL = 'https://web.archive.org/web/20180520190708/https://api.doordash.com/';
+    window.view = window.view || {}
+    window.view.STATIC_URL = STATIC_URL
+    window.view.DEBUG = DEBUG
+    window.view.PRODUCTION = PRODUCTION
+    window.view.SIFT_SCIENCE_KEY = SIFT_SCIENCE_KEY
+    window.view.API_BASE_URL = API_BASE_URL
+  </script>
+  
+
+  
+  <!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.1/jquery.min.js">
+  </script>
+  <script src="//cdn.doordash.com/static/js/lte-ie-8.js"></script>
+  <![endif]-->
+  <!--[if gte IE 9]><!-->
+  <script src="//web.archive.org/web/20180520190708js_/https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js">
+  </script>
+  <!--<![endif]-->
+  <script src="//web.archive.org/web/20180520190708js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  
+
+  
+  
+  <script>
+    window.segmentKey = "L3UWqZFYa0jF2PtgpEsKod2WtZet4Zvr";
+  </script>
+  <script src="//web.archive.org/web/20180520190708js_/https://cdn.doordash.com/static/js/analytics/tracking.js"></script>
+  
+  
+
+  
+  <link rel="stylesheet" href="//web.archive.org/web/20180520190708cs_/https://common.doordash.com/doordash-common.min.css">
+  <link rel="stylesheet" href="//web.archive.org/web/20180520190708cs_/https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link href="//web.archive.org/web/20180520190708cs_/https://cdn.doordash.com/static/css/base.css" rel="stylesheet" media="screen">
+  <script src="//web.archive.org/web/20180520190708js_/https://cdn.doordash.com/static/js/utils.js?bust=v1"></script>
+  <script src="//web.archive.org/web/20180520190708js_/https://cdn.doordash.com/static/js/csrf.js?bust=v1"></script>
+  
+
+  
+  <link rel="icon" type="image/png" href="//web.archive.org/web/20180520190708im_/https://cdn.doordash.com/static/img/favicon@2x.ico?dd-nonce"/>
+  <link rel="image_src" href="//web.archive.org/web/20180520190708im_/https://cdn.doordash.com/static/img/doordash-square-red.jpg?dd-nonce=1"/>
+  
+
+  
+<link href="//web.archive.org/web/20180520190708cs_/https://cdn.doordash.com/static/css/subpage/subpage.css" rel="stylesheet" media="screen">
+
+
+<script>
+  window.segmentKey = "L3UWqZFYa0jF2PtgpEsKod2WtZet4Zvr";
+</script>
+<script src="//web.archive.org/web/20180520190708js_/https://cdn.doordash.com/static/js/analytics/tracking.js"></script>
+
+
+
+
+</head>
+
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1527197507.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1527197507.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.doordash.com/privacy/
+', '20180520190708')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180520190708/https://www.doordash.com/privacy/', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180520190708/https://www.doordash.com/privacy/&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.doordash.com/privacy/
+" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180520190708" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170713213314/https://www.doordash.com/privacy/" title="13 Jul 2017"><strong>Jul</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 19:07:08 May 20, 2018">MAY</td>
+		  <td class="f" nowrap="nowrap">Jun</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20170713213314/https://www.doordash.com/privacy/" title="21:33:14 Jul 13, 2017"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 19:07:08 May 20, 2018">20</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160629205005/https://www.doordash.com/privacy/" title="29 Jun 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 19:07:08 May 20, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180520190708*/https://www.doordash.com/privacy/
+" title="See a list of every capture for this URL">15 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">22 Sep 2013 - 20 May 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br /><br />
+Liveweb proxy is a component of Internet Archive’s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br /><br />
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.doordash.com/privacy/\n","2018-05-20",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+  
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <h1 class="doordash-logo">
+        <a href="/web/20180520190708/https://www.doordash.com/">doordash</a>
+      </h1>
+    </div>
+
+    <div class="collapse navbar-collapse navbar-right">
+      <ul class="nav navbar-nav">
+      
+        <li><a href="/web/20180520190708/https://www.doordash.com/consumer/login/">Login</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+
+<div id="privacy" class="content">
+  <div class="content-section content-section-alternate">
+    <div class="container text-center">
+      <h2 class="content-section-header">Privacy Policy</h2>
+    </div>
+  </div>
+
+  <div class="content-section content-section-alternate">
+    <div class="container">
+      <p>This Privacy Statement was last updated on September 2, 2016.</p>
+      <p>DoorDash may collect personal information to help you place and receive delivery orders and to improve the DoorDash service. This Privacy Statement explains how Doordash, Inc. (“DoorDash,” “we,” “us,” or “our”) handles your personal information when you visit or use <a href="/web/20180520190708/https://www.doordash.com/">www.doordash.com</a> (the “Site”), the DoorDash mobile application, and any other website or mobile application that links to this Privacy Statement (collectively, the “Services”).</p>
+
+      <p>Please review this Privacy Statement carefully. By using our Services you consent to the use and sharing of your personal information as described in this Privacy Statement. If you do not agree with these practices, please do not use the Services, or otherwise provide us with your personal information.</p>
+
+      <p>Your access to and use of our Services are subject to our <a href="/web/20180520190708/https://www.doordash.com/terms/">Terms and Conditions</a>, which define some of the terms used throughout this Privacy Statement. Dashers should refer to the <a href="/web/20180520190708/https://www.doordash.com/dasherprivacypolicy/">Dasher Privacy Statement</a> for information on how DoorDash collects and uses Dashers’ personal information.</p>
+
+      <h4 class="terms-subheader">Collection of Information</h4>
+
+      <p>When you use our Services we may collect or receive information about you.</p>
+
+      <h5>Information You Provide Directly</h5>
+
+      <p>You may provide information to us when you use our Services, including when you register with DoorDash, search within or place orders through our Services, contact us with inquiries, respond to surveys, or otherwise access our Services. This information may include your name, email address, phone number, delivery address, and payment information, including credit card information and billing address used to complete the purchase transaction, and other information that may identify you. When you place an order through our Services we collect information related to that order, including the products or services purchased, and the date and time of the purchase and delivery. You may also choose to provide ratings for your Dasher and for the Food Service Provider you ordered from.</p>
+
+      <h5>Information We Collect Automatically</h5>
+
+      <p>We also may receive and store certain information about you and your device(s) automatically when you access or use our Site and Services. This information may include:
+        <ul>
+          <li>Information related to the device you use to access our Services;</li>
+          <li>The type of web browser and operating system you use to access our Services;</li>
+          <li>Your IP address;</li>
+          <li>The domain name of your Internet service provider;</li>
+          <li>The specific DoorDash pages you visit, content you view, features you use and the date and time of your visits; and</li>
+          <li>Your search terms, the website you visited before you came to our Services, and other clickstream data.</li>
+        </ul>
+      </p>
+
+      <h4 class="terms-subheader">Use of Cookies</h4>
+
+      <p>We use cookies, web beacons, pixels, and similar technologies (“Cookies”) to collect information and personalize your experience with our Services. Cookies are small web files that a site or its provider transfers to your device’s hard drive through your web browser that enables the site’s or provider’s system to recognize your browser and remember certain information. We use Cookies to improve your convenience, for example, to recognize you when you return to DoorDash and to remember information you have already provided, such as items already in your order cart. We also use Cookies to collect information about your activities over time and across third party websites or other online services in order to deliver content and advertising tailored to your interests. You may disable the use of Cookies by modifying your browser settings. If you choose to disable cookies you may not be able to fully experience the interactive features of our Services. For more information on Cookies and how to disable Cookies visit <a href="https://web.archive.org/web/20180520190708/https://www.ftc.gov/ftc/cookies.shtm">www.ftc.gov/ftc/cookies.shtm</a> or <a href="https://web.archive.org/web/20180520190708/https://www.usa.gov/optout_instructions.shtml">www.usa.gov/optout_instructions.shtml</a>.</p>
+
+      <h4 class="terms-subheader">Use of Information</h4>
+
+      <p>We may use the information we collect or receive about you to:
+        <ul>
+          <li>Connect your orders to a Dasher and complete your deliveries;</li>
+          <li>Complete your purchase transactions;</li>
+          <li>Contact you in connection with your orders and deliveries;</li>
+          <li>Contact you with promotional offerings or other communications that may be of interest to you;</li>
+          <li>Respond to your questions and assist with problems with our Services;</li>
+          <li>Personalize the content and features you see when you visit our Services;</li>
+          <li>Serve advertisements tailored to your interests;</li>
+          <li>Improve the content and functionality of our Services;</li>
+          <li>Help the Food Service Providers on our platform improve their offerings;</li>
+          <li>Better understand our users’ demographics, interests and behaviors;</li>
+          <li>Enhance other information we have about you to help us better understand you and determine your interests;</li>
+          <li>Provide recommendations to you;</li>
+          <li>Manage our everyday business needs, such as auditing, administration of our Services, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and Terms of Service, or to comply with the law;</li>
+          <li>Calculate the total number of visitors to our Services and to each page or feature of our Services.</li>
+        </ul>
+      </p>
+
+      <p>We may use your information for any other purpose disclosed to you at the time we collect or receive the information, or otherwise with your consent.</p>
+
+      <p>Any communication or material you transmit to us via e-mail or otherwise, including any data, questions, comments, suggestions or the like, but not including your personal information and any requests, comments or concerns regarding your personal information, will be treated as non-confidential and non-proprietary.</p>
+
+      <h4 class="terms-subheader">Location Information</h4>
+
+      <p>When you use the Services, we may collect precise location data about the progress of your order from the DoorDash app used by the Dasher. If you permit the Services to access location services through the permission system used by your mobile operating system (“Platform”) or browser, we may also collect the precise location of your device when the DoorDash app is running in the foreground or background of your device while we are processing your order. We may also derive your approximate location from your IP address. We use your location information to provide more accurate deliveries of your orders. You can choose whether to enable the location tracking feature through the settings on your device or Platform or when prompted by the DoorDash mobile app. If you choose to disable the location feature, the Dasher will not receive precise location information from your device, which may compromise the accuracy of deliveries in some situations, for instance, if you are located in a large area, such as a park.</p>
+
+      <h4 class="terms-subheader">Sharing with Third Parties</h4>
+
+      <p>To help us run our business, we may share your information, including your contact information, ratings, other information you provide directly, and information collected automatically, with entities that provide services to us, including third parties that provide payment processing, advertising services, web analytics, data processing, IT services, customer support and other services. To help provide you with a high quality delivery we also may share your information, including your personal information, with the independent contractor Dashers, who complete your requested deliveries. Similarly, we may share your name, phone number, order information, customer feedback and other information related to your orders with DoorDash Food Service Providers. We may also disclose aggregate, anonymous information to these third party service providers.</p>
+
+      <h5>When Required By Law</h5>
+
+      <p>We recognize that information related to your orders could contain private information. However, we may be required to disclose your information to third parties including law enforcement agencies when required to protect and defend our legal rights, protect the safety and security of users of our Services, prevent fraud, comply with the law, respond to legal process, or a request for cooperation by a government entity. We have developed a process that strikes a balance between protecting customer privacy and responding to valid law enforcement requests that can be found at <a href="/web/20180520190708/https://www.doordash.com/lert/">https://www.doordash.com/lert/</a>.</p>
+
+      <h5>Corporate Transactions</h5>
+
+      <p>In the event of sale, transfer, merger, reorganization, dissolution, or similar event we may transfer your information to one or more third parties as part of that transaction.</p>
+
+      <h4 class="terms-subheader">Accessing and Correcting Your Personal Information</h4>
+
+      <p>Keeping your personal information current helps ensure that we provide you with the most relevant offers. You can access and update your personal information via your Account profile. While we are ready to assist you in managing your subscriptions, deactivating your account, and removing your active profile and data, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases through our Services for financial reporting and compliance reasons. In addition, because of the way we maintain certain services, after you delete certain information, we may temporarily retain backup copies of such information before it is permanently deleted.</p>
+
+      <h5>Data Retention</h5>
+
+      <p>We will retain your personal information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. We will also retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+
+      <p>DoorDash may retain aggregate or anonymized data indefinitely.</p>
+
+      <h4 class="terms-subheader">Third Party Sites</h4>
+
+      <p>Some of the functionality on our Services may be provided by third parties that are not affiliated with DoorDash. These entities may collect or receive certain information about your use of our Services and your activities over time and across different websites, including through the use of cookies, web beacons, and similar technologies. For example, we use services like Google Analytics to help us see traffic patterns on DoorDash.com. DoorDash is not responsible for the privacy practices of these entities. In addition, our Services may contain links to other websites not operated or controlled by DoorDash. Such websites are not under our control and we are not responsible for their privacy policies or practices. If you provide any personal information through any such third party website we recommend that you familiarize yourself with the privacy policies and practices of that third party.</p>
+
+      <h4 class="terms-subheader">Social Networking</h4>
+
+      <p>You may choose to enable or log in to our Services via various online services, including social networking services like Facebook. Our Services also may enable you to access social networking services such as Facebook, Twitter, or Instagram (collectively, “Social Network”) directly or indirectly through our Services.</p>
+
+      <p>When you link a Social Network account to DoorDash or log into our Services using your Social Network account, we may collect relevant information necessary to enable our Services to access that Social Network and your data contained within that Social Network. We also may share your information with the operator of that Social Network to facilitate or enhance delivery of that Social Network or other services to you. A Social Network may provide us with access to certain information that you have provided to them, and we will use, store, and disclose such information in accordance with this Privacy Statement. Additionally, a Social Network may collect personal information and information about your use of our Site or Services automatically. The manner in which a Social Network collects, uses, stores, and discloses your information is governed by the policies of such third parties and DoorDash shall have no liability or responsibility for the privacy practices or other actions of any Social Network that may be enabled within our Services.</p>
+
+      <p>You may also have the option of posting your activities on our Services and other content to a Social Network when you access content through our Services. For example, you may post to Facebook that you placed an order with DoorDash. Keep in mind that your activity on a Social Network is governed by that Social Network and not by DoorDash, and may be visible or accessible to the public.</p>
+
+      <h4 class="terms-subheader">Your Choices</h4>
+
+      <p>If you are a registered DoorDash user you may access or modify your personal information by logging into our Site using your username and password and visiting the “Account” page. You may also contact us at <a href="https://web.archive.org/web/20180520190708/mailto:privacy@doordash.com">privacy@doordash.com</a> to access, modify, or request deletion of your personal information or delete your account. You may disable our ability to use cookies by using the cookie controls in your web browser (see “Use of Cookies” section above).</p>
+
+      <p>If we send you marketing emails about services that may interest you, each email will contain instructions permitting you to “opt-out” of receiving future marketing or other communications.</p>
+
+      <h5>Your California Privacy Rights</h5>
+
+      <p>Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by DoorDash pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or mailing address provided below. Please allow 30 days for a response.</p>
+
+      <h5>California Do Not Track Disclosure</h5>
+
+      <p>DoorDash does not have a mechanism in place for responding to browser “do not track” signals or other similar mechanisms used to limit collection of information for use in Online Behavioral Advertising.</p>
+
+      <h4 class="terms-subheader">Children’s Information</h4>
+
+      <p>Our Services are not intended for children under 13 years of age and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at <a href="https://web.archive.org/web/20180520190708/mailto:privacy@doordash.com">privacy@doordash.com</a>. A parent or guardian of a child under age 13 may review and request deletion of the child’s personal information.</p>
+
+      <h4 class="terms-subheader">Referral Program</h4>
+
+      <p>DoorDash allows users to invite friends to sign up for our Services by submitting a friend’s name and email address to DoorDash. Sometimes we offer a promotional value for every friend that signs up and places an order through your referral link. By choosing to invite a friend you represent that you have received the friend’s consent to provide his or her name and email address to us. DoorDash will use that information to send an email inviting him or her to visit the site and will store that information to track the success of the referral program.</p>
+
+      <h4 class="terms-subheader">International Users</h4>
+
+      <p>DoorDash is based in the United States and, regardless of where you use our Services, the information collected as part of that use will be transferred to and maintained on servers located in the United States. Any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services, you consent to this collection, transfer, storage, and processing of information to and in the United States.</p>
+
+      <h4 class="terms-subheader">Security</h4>
+
+      <p>DoorDash has implemented commercially reasonable administrative, technical, and physical security controls that are designed to safeguard personal information. However, no online activity is ever fully secure or error-free. Therefore, DoorDash does not guarantee that your personal information is absolutely secure. Please keep this in mind when disclosing any personal information or other information to DoorDash.</p>
+
+      <p>You are responsible for safeguarding your username and password.</p>
+
+      <h4 class="terms-subheader">Changes to This Privacy Statement</h4>
+
+      <p>Our Services may change from time to time. As a result, we reserve the right to update or modify this Privacy Statement at any time and from time to time without prior notice. If we make any material changes to the way we use or disclose your personal information, we will notify you by email, at the email address you have provided to us. If you object to any changes you must cease using our Services. Please review this Privacy Statement periodically by visiting this webpage. This Privacy Statement was last updated on the date indicated at the top of this page. Your continued use of our Services after any changes or revisions to this Privacy Statement indicates your agreement to the terms of the revised Privacy Statement.</p>
+
+      <h4 class="terms-subheader">Contact Us</h4>
+
+      <p>
+        If you have any questions or concerns relating to this Privacy Statement or our privacy practices please contact us at:<br/>
+        <a href="https://web.archive.org/web/20180520190708/mailto:privacy@doordash.com">privacy@doordash.com</a>
+        <address>
+          <strong>DoorDash, Inc</strong><br/>
+          Attention: Privacy<br/>
+          901 Market St, 6th Floor<br/>
+          San Francisco, CA 94103<br/>
+        </address>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+  <footer>
+  <div class="container">
+    <div class="footer-nav footer-link-grey footer">
+      <a href="/web/20180520190708/https://www.doordash.com/about/">About</a> •
+      <a href="https://web.archive.org/web/20180520190708/http://blog.doordash.com/">Blog</a> • 
+      <a href="/web/20180520190708/https://www.doordash.com/careers/">Careers</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/terms/">Terms</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/privacy/">Privacy</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/accessibility/">Accessibility</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/food-delivery/">Delivery Locations</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/support/">Help &amp; Support</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/merchant/apply/">Become a Merchant</a> •
+      <a href="/web/20180520190708/https://www.doordash.com/driver/apply/">Become a Dasher</a>
+    </div>
+
+    <div class="footer-social">
+      <a href="https://web.archive.org/web/20180520190708/http://twitter.com/doordash" target="_blank">
+        <span class="fa-stack social-icon">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      <a href="https://web.archive.org/web/20180520190708/http://facebook.com/doordash" target="_blank">
+        <span class="fa-stack social-icon">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      <a href="https://web.archive.org/web/20180520190708/http://instagram.com/doordash" target="_blank">
+        <span class="fa-stack social-icon">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </div>
+
+    <div class="footer-copyright">© 2017 DoorDash</div>
+  </div>
+</footer>
+
+  
+</body>
+</html><!--
+     FILE ARCHIVED ON 19:07:08 May 20, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:40:44 Jun 08, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1846.359 (3)
+  esindex: 0.01
+  captures_list: 2507.271
+  CDXLines.iter: 12.316 (3)
+  PetaboxLoader3.datanode: 1627.366 (4)
+  exclusion.robots.fetch: 554.795 (4)
+  exclusion.robots: 556.473
+  exclusion.robots.policy: 1.038
+  RedisCDXSource: 87.134
+  PetaboxLoader3.resolve: 1013.638 (3)
+  load_resource: 895.684
+-->

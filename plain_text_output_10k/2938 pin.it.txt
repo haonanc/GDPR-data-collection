@@ -1,0 +1,101 @@
+Learn the program basics in 60 seconds! Find the benefits that are most relevant to you.
+Download the PINS free mobile app to get exclusive offers and free rewards when daily shopping for your favorite brands! Add more value and joy to your shopping experience!
+Collect PINS for every euro you spend… everywhere! Apply online and start reaching your desired reward faster.
+PINS recognizes and rewards those customers who have flown an exceptional amount.
+Join the new Green Tails loyalty club, collect 12 stamps and enjoy a flight with airBaltic for free.
+Reach your dream reward faster with best offers from PINS partners. Exclusively for PINS members.
+Get to know the vast range of 700 beloved local, global and online PINS partners.
+Now you can collect and spend PINS on every stay!
+Find your dream reward and check regularly for new additions. If you don't have enough PINS, remember - you can pay partly with money.
+Looking for best prices for our rewards? Come here often to see if your favourite reward comes at a special price.
+Have more than 4200 PINS? You can already afford a free flight! Check for destinations here.
+Buy a Lux Express e-voucher with your PINS and exchange it for a Lux Express ticket
+Keep close track of your PINS balance and transactions here.
+Collect PINS faster with people you care about. Invite them to your Friends & Family account and pursue the dream reward together!
+Forgot to swipe your card at a PINS partner? Send us a receipt to collect PINS that are rightfully yours!
+Keep your profile information and communication settings up to date and set up one-click login with Facebook here.
+Privacy Policy
+1 Introduction
+SIA “Loyalty Services” takes care of the privacy of the data subjects and the protection of their personal data, observes the data subjects’ right to the lawfulness of the processing of personal data in accordance with the requirements of applicable EU and local laws in the field of privacy and data processing.
+The designations with the capital letters used herein correspond with the definitions of these designations provided in the PINS Program Terms & Conditions , unless defined otherwise herein.
+2 Data controller
+The company responsible for collection, use and disclosure of your personal data under this Privacy Policy is SIA “Loyalty Services” (PINS (Reg. No. 40103273540, Mūkusalas iela 42, Riga, LV-1004, Latvia).
+If you have questions about this Privacy Policy, or if you would like to request  exercising any individual rights, please contact Jānis Zeps via e-mail janis@pins.co, or write to the postal address of PINS.
+3 Purposes of processing your personal data and legal basis for processing
+When using the PINS website or the PINS mobile application (PINS App), we may ask you to submit and we may process your personal data listed under Section 6 of this Privacy Policy, or offer to subscribe to newsletters or request feedback.
+The legal basis for use of such personal data by PINS is to interact and engage with you when we:
+are preparing to enter into a contract with you;
+have a contractual relationship with you;
+pursue a legitimate interest to operate our business;
+comply with our legal obligations;
+for statistical purposes;
+provide you with marketing and promotional communications, when we have your consent or when it falls within our legitimate interest.  
+Submission of certain personal data is necessary for the purpose of identifying you, registering you in the PINS Program and creating your Member Account so that you could receive all services provided by SIA “Loyalty Services”. It is not possible to become a member of PINS Program without providing personal data that allows your identification and the creation of your PINS Account. You are informed, which personal data is mandatory, when PINS requests such personal data from you.
+The personal data you submit to the PINS website or the PINS App will be treated with utmost care and respect. PINS will use it to fulfill our obligations during the handling and administration of accrual and redemption of PINS. If you have not opted-out from receiving commercial notifications, the personal data may be used also  for providing you with the best commercial offers.
+We may process your personal data as required for the purposes of marketing, correctly identifying you, properly supplying services or goods to you, responding to your inquiries or contacting you, for proper operation of PINS Program, system testing, maintenance and development, customer relations and surveying.
+4 Disclosure of personal data to third parties
+For the above purposes, and subject to the PINS products or services that you have chosen within the PINS Program, we may disclose and transfer your personal data within the EU to our employees, PINS group companies or PINS Partners that provide the goods or services within the PINS Program or data processing companies working on PINS behalf.
+In particular, we may disclose your personal data to:
+PINS employees responsible for customer service and processing of customer requests, as well as those employees who perform accounting, IT platform maintenance and data analytics functions, and emloyees, who ensure collaboration with Partners;
+PINS Partners, if this is necessary to identify possible fraud transactions;
+credit institutions or other companies that may produce and deliver the PINS Cards;
+PINS award suppliers for the purpose of processing orders;
+PINS IT system suppliers, marketing and communications platform providers and airline reservation systems;
+the State Police and other public authorities upon the receipt of their formal notification, when the disclosure of such data is required under the law.
+The Google Analytics tool provided by Google Inc. (a US company) has access to statistical data collected by that tool on PINS website or PINS App. Google Inc. has subscribed to the EU-US Privacy Shield principles according to the EU – US Privacy Shield list, which confirms that the data processing complies with mandatory EU privacy standards. Contractual obligations to ensure privacy are also applied to this provider, which you may read here:  www.google.com/analytics .
+The NICE Smartmetrix tool provided by NICE Systems Inc. (a US company) has access to statistical data collected by that tool on PINS website or PINS App. NICE Systems Inc. has subscribed to the EU-US Privacy Shield principles EU – US Privacy Shield list, which confirms that the data processing complies with mandatory EU privacy standards.
+5 Profiling and website browsing statistics
+We may compile data on the usage, traffic volumes, transactions and other related statistics of PINS website and PINS App and we may process and analyse such data. We may also acquire such data on aggregate levels from reputable third parties or disclose such data to them. However, such data is not assigned to any particular person, nor shall it be de-compiled or reduced to personal data or other information regarding any particular person.
+PINS collects this data by using an automated tool called Google Analytics. This allows PINS to record and analyse how visitors use the website. You can learn more about how Google Analytics works and the information it allows us to collect and analyse here - support.google.com .
+You may at any time disable collection of your data by Google Analytics, as described here - tools.google.com .
+6 Direct marketing communications
+In order to present offers and services that we believe are of particular interest to you, PINS may use your personal data, such as geographic location data, date of birth, language, gender and your contact information, for marketing and communication purposes. You can opt out from receiving these marketing communications at any time.
+PINS will provide you information about activities, offers and news regarding the use of PINS Program, including offers of PINS Partners, if you have not opted-out to receive such communication.
+7 The categories of data 
+PINS may collect and process the following information :
+7.1. Basic information about the member
+ • Name
+ • Geographic location data (on the basis of your device settings)
+7.2. PINS membership information
+ • PINS membership start date
+ • User ID and password
+ • PINS card type
+ • Information about the financial institution of the PINS payment card or other type of PINS card.
+ • Membership level 
+ • PINS members online identification
+ • Other PINS members information (e.g. membership of the airline, the data belonging to a member of the staff of the partner)
+7.3. PINS card usage information
+ • The amount of PINS (cumulative data)
+ • Information about badges entitling the holder to purchase events, such as the place of purchase and date of receipt of the final sum (category or product level), receipt number, method of payment, purchases made for the PINS
+ • Information on the use of PINS, such as PINS Partner, redeemed product, etc.
+7.4. Marketing and communications data
+ • Prohibitions or permissions to send marketing notifications;
+ • Member newsletters and ordered correspondence statements;
+ • Marketing applied by the data, such as data measurement for mail with details of the opening.
+8 Access to information
+You have a right to request a confirmation from us to whether or not your data is being processed, where and for what purpose. We will provide a copy of the personal data, free of charge, in an electronic format.
+We will provide all personal data concerning you, which you have provided to PINS, in a structured, commonly used and machine-readable format and you can transmit those data to another loyalty company without hindrance from PINS to which the personal data have been provided.
+9 Information correction and deletion
+If you believe that the information we have about you is incorrect, do not hesitate to contact us, so we can update it and keep it accurate. Any data that is no longer needed for purposes mentioned in Article 3“Purposes of processing your personal data and legal basis for processing” will be deleted.
+If you wish to terminate your membership, you can request it according to the PINS Program Terms & Conditions, and we will close your Account and delete all your personal data, cease further dissemination of the data, and request third parties to stop processing of your personal data. We may choose to store your personal data also after the termination of your membership  for a limited amount of time in the light of our legal position (such as to protect our legitimate interest and legal rights to the enforcement of the PINS Program Terms & Conditions, applicable statutes of limitations, litigation or regulatory investigations).
+10 Other rights
+In addition to the aforementioned rights You also have the rights to
+withdraw consent at any time, where applicable;
+lodge a complaint with a supervisory authorityof the EU country of your habitual residence or the place of the alleged infringement. Contact information for these authorities can be accessed at  ec.europa.eu/newsroom .
+You may exercise your rights in line with the requirements of applicable EU and local laws.
+11 Cookies
+Cookies are small text files sent from a web server (such as that of www.pinsforme.com) to your browser whenever you visit a website. They are either saved or rejected, depending on your browser settings.
+Saved cookies allow servers to identify your computer. This means that during return visits and when using password-protected areas of the website, you can avoid the hassle of repeatedly entering the same data.
+In short, cookies make it easier to browse websites which require manual data input.
+The legal basis for the use of cookies is PINS’ legitimate interest in ensuring the technical functionality of its website.  We use cookies to help shape our website and streamline the user experience. By using cookies, we hope to be able to improve our Internet services according to your and our other customers’ preferences. We respect your privacy and are committed to protect your Personal Data. We have taken such measures as we have reasonably seen appropriate in each case to ensure the confidentiality, integrity and accuracy of your Personal Data. When we use cookies to remember your choices or for statistical purposes we will obtain your prior consent. This consent may be revoked at any time. Cookies are placed and used by Google Analytics tool.
+Please be advised that enabling cookies is recommended for the best user experience and full site functionality. Nonetheless, cookies can be disabled via your browser settings, if you wish, or  by visiting here:
+12 Security
+We offer very high security against loss, misuse and unauthorized access to your personal data and payment details. PINS App keeps all your personal information in the device secure password management system (keychain for iOS, user preferences for Android). Processing and data transfer between PINS App and our server is secured using Transport Layer Security (TLS) protocol. Processing and data transfer between your web browser and our server is secured using 128 b Secure Sockets Layer (SSL).
+13 Links to third party websites
+Please be aware that this Privacy Policy applies only to the PINS website and the PINS App. Since our website and the App may contain links to other websites, we advise you to consult the Privacy Policies of these websites prior to submitting any personal data to them. We cannot be held responsible for any data shared when visiting other websites.
+14 Use by children
+Where our services are provided to a child and consent is relied on as the basis for the lawful processing of his or her data, consent must be given or authorised by a person with parental responsibility for the child. This requirement applies to children under the age of 16 (unless the national law provides for a lower age limit).
+Your e-mail
+Password
+For security reasons you have been logged out after an extended session. You can browse the PINS website and still see your name and PINS balance on top of the page, but to access your account details or spend PINS, please log in again.
+Allow browser to save your login details.

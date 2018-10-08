@@ -1,0 +1,38 @@
+Showing results for 
+Search instead for 
+Did you mean: 
+It's not the same without you
+Join the community to find out what other Atlassian users are discussing, debating and creating.
+For draw.io on Confluence Cloud, 
+Does the same policy apply?
+ 
+ 
+1 answer
+1 accepted
+It is very close, but does need a separate document now I look at it.
+Diagrams are stored as attachments on the Confluence Cloud instance, we don't persist anything. The diagram data goes direct between the client and Confluence on save/load, it doesn't pass through our servers.
+We have an FAQ entry on this.
+Edit 2018.05.07 : draw.io for Confluence Cloud changed to being pay for in August 2017. The free version is no longer supported. We had over 250k users and more than 50% of support comprised questions from draw.io for Confluence Cloud. We had to set a nominal price to offset the losses.
+Thanks for the quick response and the clarification, David. That answers my questions.
+Interesting point about migration to the Server version. Would you mind sharing some additional context around that?
+You must be a registered user to add a comment. If you've already registered, sign in. Otherwise, register and sign in.
+What information were you looking for, specifically?
+You must be a registered user to add a comment. If you've already registered, sign in. Otherwise, register and sign in.
+I would have thought that the cloud versions scale better (isn't that one of the promises of cloud?). That's still likely true, so I am guessing that there are other reasons why companies choose to migrate to Server once they hit a certain usage size (which probably varies from company to company). I was looking for a bit more context around that statement, just out of curiosity.
+You must be a registered user to add a comment. If you've already registered, sign in. Otherwise, register and sign in.
+(Purely my personal opinions and observations) I think there's 4 main issues I've seen.
+Privacy and data control. When companies get to a certain size they tend to have IT teams large enough to run server and the board tend to sleep better thinking the data is all safe behind their firewall (which is unlikely). In Germany, for example, a number of laws relating to data transit meaning there's a very heavy lean towards Server.
+Lack of plugin support. This is improving, but there's a notable lack of theming support, though I know Atlassian are looking at addressing that.
+Control of upgrades. With Cloud you get the latest whether you like it or not. It can be easier to bunch together some new features and control when you need to train users on the changes.
+The lack of addressing https://jira.atlassian.com/browse/CLOUD-6999 . https is pretty much the standard now. For an internal Confluence the lack of a custom domain might not be such an issue. But even us, with our 10 users Confluence at  https://support.draw.io , switched from Cloud to Server because an atlassian.net URL doesn't look professional enough. The workaround is to get an expert to host it for you, but using Server (e.g. https://swift.seibert-media.net/ )
+I think Cloud will get there on most points and these aren't a burning issues for many users now. But, for now, we see 1 going Server->Cloud for every 10 going the other way. That's just from the perspective of a plugin vendor, Atlassian will have more accurate figures.
+All said, you have to suspect most things will go cloud in 10, 20, 30 years, just a question of when.
+You must be a registered user to add a comment. If you've already registered, sign in. Otherwise, register and sign in.
+Thank you for the insight. I've heard complaints about #2 from other groups where I work and I hope the Atlassian addresses that soon. Tied to #1, license consolidation (cost savings) across cloud instances by different groups within a company may be another reason to go to the server version, tied to #1.
+You must be a registered user to add a comment. If you've already registered, sign in. Otherwise, register and sign in.
+276 views
+Connect with like-minded Atlassian users at free events near you!
+Find my local user group
+Use my location
+Unfortunately there are no AUG chapters near you at the moment.
+Groups near you

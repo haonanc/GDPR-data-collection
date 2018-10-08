@@ -1,0 +1,73 @@
+Sorry, no results found
+Oops! Can we suggest to: check your spelling, try more general words, or try different words that mean the same thing
+Our Principles
+TomTom is all about where you are and getting to where you want to be. We help you achieve more. Sometimes we'll need to know some things about you in order to help you. While we collect and use your data, we fully understand that you value your privacy.
+We believe privacy is about freedom and being able to decide for yourself who uses your data and how. This is why we have established our Privacy Principles:
+1. We will always keep you fully informed about your data
+We make sure you understand which data from or about you we use, why we use it, how long we use it and who can use it.
+2. We enable you to remain in control of your data
+We consider the data from or about you to be yours. We only use it for the purposes for which you have given it to us, or for which we collected it from you. You can opt out or opt in at any time using our software and websites.
+3. We protect your data
+Your data is yours. We keep it that way by protecting it as best as we reasonably can to prevent it from falling into the wrong hands.
+Our ten promises to you
+1. We will tell you which data from or about you we use, why we use it, how long we use it, who else can use it, and where it is kept.
+2. We will only use your data for the purposes we have stated to you.
+3. We keep as little of your data as possible, and only for as long as we need it. When we no longer need data, we destroy it or we irreversibly anonymize it so it is no longer linked to you.
+4. If we ask your permission to use your data for specific purposes, you will also be allowed to withdraw your permission.
+5. If we can't reach you to ask your permission to collect and use your data and you don’t want us to use your data, just let us know and we will stop.
+6. We will allow you to access and correct your data if it is linked to your MyTomTom account.
+7. We will keep protecting your data against unauthorized access and accidental loss as best as we reasonably can.
+8. If we engage others to use your information on our behalf, we will ensure they act in accordance with our policies.
+9. We will not share your data with others without asking you for permission first, unless there is a legal obligation that prohibits us from asking.
+10. We are here to answer any questions you have about how we use your data.
+TomTom's policy on privacy and processing of personal data
+We operate according to the privacy laws applicable in your country. Because we are based in Europe, European privacy laws also apply. These laws are considered to be the most extensive in the world. They offer a high level of protection to you by only allowing us to use your data when the strict conditions of these laws are met. Our company policy on privacy and processing of personal data reflects these laws and we apply this policy globally.
+Definitions
+Personal Data: any information relating to an identified or identifiable natural person ('Data subject', user); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural, or social identity;
+Processing of Personal Data ‘processing': any operation or set of operations which is performed upon Personal Data, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure, or destruction.
+1. TomTom will process Personal Data fairly and lawfully.
+2. TomTom will collect Personal Data for specified, explicit, and legitimate purposes, and will not further process Personal Data in a way incompatible with those purposes.
+3. TomTom will ensure Personal Data is adequate, relevant, and not excessive in relation to the purposes for which it is collected and/or further processed.
+4. TomTom will ensure Personal Data is accurate and, where necessary, kept up to date.
+5. TomTom will keep Personal Data in a form that permits identification of its users for no longer than is necessary for the purposes for which the Personal Data was collected or for which they are further processed.
+6. TomTom will process Personal Data only if:
+    a) the user has unambiguously given his consent; or
+    b) processing is necessary for the performance of a contract to which the user is party or in order to take steps at the request of the user prior to entering into a contract; or
+    c) processing is necessary for compliance with a legal obligation to which TomTom is subject; or
+    d) processing is necessary for the purposes of the legitimate interests pursued TomTom, except where such interests are overridden by the interests for fundamental rights and freedoms of the user and in particular his right to privacy.
+7. TomTom will avoid processing Personal Data that reveals racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or Personal Data concerning health or sex life.
+8. TomTom will avoid processing Personal Data related to persons under the age of 13 years.
+9. To ensure fair processing of Personal Data, TomTom will inform its users of
+    a) The purposes of the processing;
+    b) The categories of the Personal Data concerned;
+    c) The categories of the recipients of the Personal Data;
+    d) How to access and rectify their Personal Data.
+10. TomTom implements appropriate technical and organizational measures to protect Personal Data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access, in particular where the processing involves the transmission of Personal Data over a network, and against all other unlawful forms of processing. TomTom does this in accordance with the latest technology and the cost of their implementation, ensuring a level of security appropriate to the risks represented by the processing and the nature of the Personal Data to be protected.
+11. In case processing is carried out on TomTom’s behalf, TomTom will choose a processor that provides sufficient guarantees regarding the technical security measures and organizational measures governing the processing to be carried out, and will ensure compliance with those measure. In these cases, TomTom will ensure the processing is governed by a contract binding the processor to the controller and specifically stipulating that:
+    a) The processor shall act only on instructions from TomTom;
+    b) The provisions of 10) are applied to the processor.
+12. In principle, TomTom will process Personal Data in the European Economic Area (EEA). In those cases where Personal Data is transferred or processed outside the EEA by TomTom or on TomTom’s behalf, TomTom will ensure adequate safeguards for the protection of the privacy and fundamental rights and freedoms of individuals and with regard to the exercise of the corresponding rights by applying appropriate contractual clauses or other acceptable legally binding instruments.
+13. If TomTom remotely stores information, or gains access to (any) data already stored, in a device of a user, TomTom will ensure the user involved has been provided with clear and comprehensive information about the purposes of the processing and given his or her consent. This shall not prevent TomTom from any technical storage or access for the sole purpose of carrying out the transmission of a communication over an electronic communications network, or as strictly necessary in order for TomTom to provide a service explicitly requested by the user.
+Data we collect
+We collect data from you or about you when you use our sites, products, and services. The specific data we collect depends on what you use and how you use it. In general, there are 3 categories of data we collect and use:
+Data you provide
+This is the data you enter yourself when using our sites, products, and services. This data can include, for example, your name, email address, the search terms you enter, your address and favorite locations, your phone number, any map errors reports and speed camera reports you enter, your size, weight, gender, age etc. etc.
+Data collected via sensors
+A lot of our products come equipped with one or more sensors or use the sensors of the devices they run on. Examples of sensors are GPS receivers, Wi-Fi or Bluetooth receivers, a camera, a microphone, G-force sensors, heart rate sensors, and touch sensitive screens. These sensors will automatically collect data when activated. Depending on the purpose for which it was captured, this data along with data that identifies you or your device can be sent to TomTom and others for subsequent use.
+Metadata
+This refers to any data that is collected or automatically generated while you use TomTom sites, products, or services. In many cases metadata is collected or generated as a part of using a computing device or transmitting data over computer networks, such as the internet. This data includes user interface and other device usage events, IP-addresses, unique device identifiers, Wi-Fi and Bluetooth MAC addresses, cookies, and records of computer activity.
+Data we receive from others
+We receive data from third parties that they have collected, under their responsibility and in accordance with their privacy policy, and shared with us. We use that data within the limits of what these third parties allow us to do with it while also adhering to our own privacy principles and policy. We receive real-time feeds of location, speed, sensors, and other vehicle and device information from, for example, mobile phone users, business fleets, and vehicles that are equipped with our online maps or traffic and travel services. We use this data only after we have made sure it cannot be linked back to you.
+We also receive data from others about you when you have interacted with them, for example when you have visited their websites or used their mobile apps. This data can include IP addresses, unique device identifiers, advertising identifiers, Wi-Fi and Bluetooth MAC addresses, cookies and other records of computer activity, as well as indications of your behavior, interests, and demographic.
+MyTomTom account
+TomTom uses your MyTomTom account to grant you access to downloadable content, services you are subscribed to or have activated, software upgrades and sections of our website which need registration. We also use your MyTomTom account when you want to purchase additional items and to tailor our offerings to you. The way in which TomTom uses your MyTomTom account also depends on the software and device or system you use.
+To create your MyTomTom account, at a minimum you need to supply your name, email address, and choose a password. TomTom advises you to keep your MyTomTom account details confidential and use a password you do not use elsewhere.
+We will use your email address occasionally to send information related to the products and services registered to your MyTomTom account. We will only do this if there are updates you need to be aware of to ensure you can use your product in a safe, reliable way, without interruption or if there is a legal requirement to contact you.
+Using your MyTomTom account, you can also subscribe to the TomTom News email, which provides the latest news, product information and special offers from TomTom and others we select. You can opt out of receiving the TomTom News email at any time by clicking on the appropriate link in the emails you receive.
+If you want to delete your MyTomTom account, please visit tomtom.com/support .
+We will not share your MyTomTom account details with anyone else, unless they work under our responsibility, according to our instructions or when explicitly and lawfully ordered to do so following due legal process.
+Service management and improvements
+TomTom keeps information that tells us how and when you use our services. This includes information about the device you are using and the information we receive while you use the service, such as locations, routes, destinations and search queries. TomTom uses the information for technical diagnostics, to detect fraud and abuse, to create usage reports, and to improve its services. The information is kept only for these purposes and for a limited period of time, after which it is destroyed. TomTom is unable to identify you based on this information, and will not try to. TomTom applies security methods based on industry standards to protect the information against unauthorized access. TomTom will not give anyone else access to the information or use it for any other purpose, unless explicitly and lawfully ordered to do so following due legal process.
+United States | US English
+At TomTom, we're all about helping you get around. That's why we use cookies to improve our sites, to offer you information based on your interests and to post with social media. click here
+To improve your TomTom site experience at any time click here

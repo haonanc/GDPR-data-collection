@@ -1,0 +1,69 @@
+Nicole Johnston ·
+Aug 7, 2018
+We maintain strict editorial integrity when we evaluate products and services; however, Top Ten Reviews may earn money when you click on links.
+We tested privacy software by installing each program on a test computer and performing common tasks, such as browsing the web, sending and reading email messages, chatting through instant messenger programs and using applications like Microsoft Word. We then scrubbed our computers and looked for any evidence of our activities. Our tests showed there are several good privacy programs that are effective at scrubbing both Windows and internet browser histories, but we found CyberScrub Privacy Suite  to be the best option. It’s the most effective, secure and easy-to-use program available. 
+Best Overall
+CyberScrub Privacy Suite
+CyberScrub Privacy Suite is effective at cleaning Windows and internet browsers, plus it finds weaknesses that pose privacy risks. It uses methods that exceed standards set by the United States Department of Defense.
+Privacy Eraser Pro
+Privacy Eraser Pro includes the best tools to scrub your history on your computer as well as portable drives. It is also the cheapest program we reviewed, and it’s easy to install and use.
+east-tec
+east-tec privacy software scrubs every part of your internet browser to erase data such as browser history, temporary files, cookies and downloads. It’s also effective at cleaning Windows and shredding data so it is unrecoverable.
+N/A
+100%
+AOL, Camfrog, Google, ICQ, Miranda ICQ, NetMeeting, Pidgin, Yahoo, Skype
+N/A
+75%
+N/A
+90%
+In our in-house tests, CyberScrub Privacy Suite earned perfect scores for cleaning both internet browsers and Windows. It scrubbed data so well, there weren’t any data tracks left to find, even when we used recovery software.
+CyberScrub is easy to set up, cleans large chunks of files, wipes custom file batches and schedules automatic scrubbing.      This privacy software cleans temp files, browser and computer histories, and clipboard histories. It’s one of the few programs that wipes the free space on your hard drive as well as  SWAP files to help your computer run faster. Wiped data is completely destroyed so there is no way for it to be recovered.      In addition to scrubbing browsers and Windows, CyberScrub Privacy cleans email and instant messenger programs to get rid of old messages and images. It is also one of the only programs that clears out your favorite list and Dropbox storage, and it’s compatible with Safari browsers. The program’s only downside is that is doesn’t scrub USB drives when you connect them to your computer. It’s also a bit more expensive than most other privacy software.
+Pros
+Alerts you to potential privacy risks
+Cons
+Doesn’t wipe instant messages sent through Skype or Google
+Privacy Eraser Pro has all the important tools we looked for as we tested privacy software, including those that scrub USB drives.
+In addition, it earned 100-percent efficiency scores for cleaning both Windows and internet browsers. Plus, it costs significantly less than all the other programs we reviewed.        This history scrubbing program wipes data stored in temporary files, cookies, downloads and autocomplete forms. You can set the software to automatically wipe your files during specific times of the day or as your computer boots up or shuts down. In addition, you can create a whitelist of the files or browser cookies you don’t want cleaned, and Privacy Eraser Pro won’t touch them. It cleans email but can’t clear chat messages from instant message programs.        Privacy Eraser Pro is compatible with all Windows operating systems, including Vista, as well as the most popular internet browsers, including Safari. This privacy software’s biggest drawback is it doesn’t clean bookmarks you’ve saved in your browsers.
+Pros
+Easy to use
+Cons
+Can’t permanently wipe email messages from your hard drive
+Doesn’t clean instant message
+east-tec is a good choice if you need to keep your internet browsers clear. In our tests, it consistently cleaned browser histories, cookies, cache files and autocomplete data without leaving any trace behind—we couldn’t even recover the information using recovery software.
+It also wipes email and chat messages in popular instant messenger programs such as Yahoo and Skype.        This privacy software is compatible with every popular internet browser including Opera and Safari. It is also compatible with Dropbox, so it can clean the files you store in the cloud. The only part of the browser east-tec doesn’t touch is your bookmarks, but if you delete them yourself, the program clears out the recycle bin and internet history that shows when you visited the sites.        east-tec is also very good at cleaning Windows files. We found that it did a great job of cleaning temp files, SWAP files, run history and clipboard data. It also checks the free space on your hard drive to ensure the programs you’ve uninstalled haven’t left residue behind, and it scrubs files saved on USB drives that are connected to your computer.
+Pros
+You choose which cookies to keep and which to wipe
+Wipes email messages and history
+Clears autocomplete data
+Doesn’t scrub instant messages sent through Windows Live
+Tracks Eraser Pro privacy software is compatible with Mac computers and laptops.
+It works with over 100 plugins, including email applications, chat messengers and media players, to scrub your personal information and history so it can’t be seen or accessed, even when deleted. It has an outdated interface which makes it more difficult to figure out how to permanently erase data from your computer, and it isn’t compatible with Windows 10, but it is compatible with older Windows versions. Once your computer is scrubbed even recovery software can’t pick up any traces of what used to be there. Track Eraser Pro lets you choose to manually wipe your computer or set a time to automatically scrub your system when you shut down, close an application or start up your computer. This feature makes sure you’re on top of cleaning your private information, just in case you forget. As it cleans data files, this privacy software clears disk space so your computer runs faster and has more memory for programs and files that are more important to store.
+Pros
+Cons
+Smart Privacy Cleaner has three levels of scrubbing, including the highest level with 35 scrub passes – the most for any privacy software.
+Smart Privacy also includes a document vault that encrypts and locks sensitive files so they can’t be hacked, and a password manager keeps your login credential secure so they can’t be swiped as you sign in to your online accounts. It also has a file shredder that can be set to automatically shred documents and files the moment they’re deleted so they can’t be restored. This software wipes history data from chat programs, email and recently used files and documents; however, it does lack several internet scrubbing tools, so some of your online history may remain visible. This include temporary internet files, bookmarks, address bar data, index.dat files and downloads.
+Pros
+Cons
+Why Trust Us?
+We have been testing and reviewing computer safety programs, including privacy software, for over 15 years. We subscribe to news outlets, blogs and newsletters about computer privacy and safety to stay on top of new threats and changes in the industry. We also attend trade shows, such as the annual RSA Conference, and connect with other experts in the industry to ensure we know everything we can about keeping you and your family safe on your computer. Most of our testers and reviewers are parents themselves and use these types of programs in their own homes to keep their families safe.
+How We Tested
+To test privacy software, we browsed the internet and used files and programs on our test computer after installing the programs – our test machines had Windows operating systems installed on them. As we tested, we opened files, visited websites, sent email, and used popular applications like Microsoft Word, Outlook email service and instant chat programs. We performed the same tasks with the same programs and internet browsers each time we tested a new privacy software.
+As we tested each program, we used all its available tools and scrubbed both our internet browser and Windows operating system. After each cleaning, we searched for any data tracks left behind, first manually using the computer’s search tools, then with a recovery program to bring back as much data as possible.
+We used this data to learn which privacy programs are effective at cleaning Windows and internet browsers as well as what information, if any, is left behind. Some programs leave snippets of information behind, but most of these remnants weren’t enough to get a clear picture of the sites we visited or what we did on our computers.
+How much does privacy software cost?
+Most privacy software requires a monthly or yearly subscription. The exact cost depends on how many devices you’ll need to scrub and the number of features you need. A yearly subscription can cost between $20 and $60, and some companies give a discount if you need more than one user license.
+How to Choose Privacy Software
+When you are ready to purchase privacy software, choose one that is easy to use and effective at scrubbing your local computer files and browser history. Additional features, such as those that scan and clean instant messaging programs, emails and cloud storage applications, are also good to have if you want to help your computer run at its best.
+Ease of Use
+The more complicated a program is, the more likely you are to make a mistake and compromise your computer privacy. Complex programs may also be frustrating to use, so you might not run them as often as you should. We found that software with automatic features make it easy to protect your information on a regular basis. The best applications allow you to schedule times to scan and shred your personal information each day or let you choose to do so every time you exit a program. While all the products we reviewed have cleanup schedules, some have more extensive and customizable schedules than others.
+We found that software with clearly labeled icons for Windows cleaning and internet browsers were the easiest to use. Using these top-rated programs, you simply mark the files you want scanned and shredded under each category. Most applications allow you to customize which parts of your computer or browser to scan, rather than wiping it in its entirety. This feature saves you time, and you can keep information you use on a regular basis. For example, you can save cookies to websites you use daily so you don’t have to manually enter information every time you visit.
+Privacy Effectiveness
+History eraser software should keep your information private when you connect to the internet. After you disconnect, the best applications erase all evidence of your activities automatically so other people can’t reconstruct where you went or what you did while online. They also eliminate tracks of data, including usage history, recently opened files, temporary files, clipboard items and SWAP files, which show what you did through your operating system.
+With the exception of a few programs, the privacy software we tested did a good job of securing our online privacy. We found minor traces of our internet activity when we used Privacy Eraser Pro and ParetoLogic Privacy Controls. When we tested Winsweeper and Winsettings Pro, we found traces of activity left behind in the address bar and internet browser history that could reveal to others what we had been doing online.
+We learned that while each program wipes and shreds files, only the best privacy software completely erase Windows and internet browser data so it is unrecoverable. These programs include CyberScrub Privacy Suite and east-tech.
+Feature Set
+If you want to protect everything you do on the computer, you want privacy software that cleans all the files on your computer, including instant messages and emails. The top-rated privacy programs also clear files on cloud-based storage services, such as Dropbox, as well as your saved passwords and access histories for them. Temporary internet files that save on your computer should also be cleaned to protect your privacy and to free up valuable computer space so your system runs quickly and efficiently.
+Paying for Your Privacy
+Privacy software is frequently offered as a subscription-based service (SaaS). However, each program’s features and the techniques it uses are comparable between the software and SaaS versions. Typically, a paid subscription ensures you have the most up-to-date plugins for your computer’s applications. We reviewed software and subscription services that range in price from $20 to $60, with the price of services taken annually.
+If you want to further strengthen your computer or internet security, look at our reviews of several other types of software, including computer protection software, encryption software and internet security suites software.
+id:84

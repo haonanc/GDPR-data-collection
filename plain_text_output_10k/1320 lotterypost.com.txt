@@ -1,0 +1,34 @@
+You last visited September 13, 2018, 6:39 pm
+All times shown are
+Lottery Post Link Policy
+Lottery Post Link Policy
+Linking to the Lottery Post Web site is permitted under limited conditions.  In order to link to the Lottery Post Web site you must adhere to the following conditions:
+You may not portray any person or subject associated with Lottery Post in a false, negative, or misleading light.
+You must refrain from creating frames, or using other visual altering tools, around the Lottery Post pages.
+You may not imply that Lottery Post or its owner or its members is/are endorsing your product or services.
+The link to the Lottery Post Web site must be a text link.  (See link code below.)  Use of the Lottery Post logo is prohibited without express written consent by the Lottery Post owner.
+The link must be directly to Lottery Post, and cannot be via a redirect page on your Web site or through a service such as tinyurl.com.
+The Lottery Post URL must appear in the link's "href" attribute.
+The link must not use an "onclick" or other method to perform any other action when the user clicks the text link.
+The link must not be encoded in such a way that prevents search engines from crawling it.
+To link to Lottery Post Web site, use the following HTML code:
+<a href="https://www.lotterypost.com/">Lottery Post</a>
+Once you have created a link to the Lottery Post Web site, test the link to confirm it works and then notify Lottery Post using the Contact Us form.
+The conditions shown here allow you to link to Lottery Post, while maintaining the integrity of our Web site.  We appreciate your cooperation in keeping the in-coming links to Lottery Post high-quality and consistent.
+First Time?
+If you haven't already, check out the About Us page that explains the main features of our site.
+Also, please take a few moments and review the rules for posting at Lottery Post.
+Any time you see a
+gray-underlined link
+, you can click the link to see a popup menu of options.
+Need Help?
+We try to include instructions on each page. Check for help content on the page that's giving you trouble.
+The next place to seek help is our dedicated Help forum that contains detailed assistance for frequently requested topics.
+If something isn't working properly, our automated Browser Test page can quickly identify common problems.
+Finally, the Contact Us page has an incredible wealth of self-help material that answers 95% of the questions we are asked.
+About Lottery Post
+RSS Feeds
+Search Lottery Post
+Search the news, forums, blogs, and even your private messages at our Search page.
+This page was generated in 0.0075 seconds.
+Copyright © 1999-2018 Speednet Group .  All rights reserved.

@@ -1,0 +1,73 @@
+ 
+1. Background
+Tufin Software Technologies Ltd., together with its affiliated companies ("Tufin", "we", "our" or "us"), collects and uses certain Personal Data, and is committed to only use and share it in compliance with applicable data protection and privacy laws, and in accordance with this Privacy Policy.
+This Privacy Policy applies to "Personal Data", which means any data or information which relates to a living individual who can be identified from such data or any other data in Tufin's actual or expected possession. This Policy concerns Personal Data collected, received or used via Tufin's websites referring to this Policy (collectively – "Websites"), via Tufin's products and services (collectively, "Solutions"), and other data sources as described below.
+ 
+ 
+2. Types of Personal Data
+Tufin collects four main types of data regarding the customers, visitors, users and end-users of Tufin's Websites and Solutions, as well as Tufin's potential customers, and any end-users of our customers' systems utilizing Tufin's Solutions (to extent that you are any of such individuals, "you"):
+Data received from you: such Personal Data includes any data or information you may provide which is identifiable to you (either in itself or due to the manner in which it was provided or the Data with which it was provided or generated), such as your name, company and position, contact details (such as business e-mails, phones and addresses), account login details (such as usernames and hashed passwords), as well as any free-form text you may choose to provide us. We may also receive from you additional information concerning your company or employer, such as their billing details, their business needs and preferences. To the extent that such information concerns a non-human entity, we do not regard it as "Personal Data" and this Privacy Policy shall not apply to it.
+Data collected or generated about you: such Personal Data includes data and information concerning your usage of Tufin's Websites and Solutions, or usage of Tufin's customers' systems (where such Data is collected using Tufin's Solutions). Such Data could include IP addresses, device, system and software details, cookies and similar tracking data, click-stream and usage logs, and similar data and information concerning log-in attempts, usage and use preferences regarding any of Tufin's Websites or Solutions.
+Data provided by third parties: such Personal Data may include your name, company, position, contact details and professional experience, preferences and interests, as may be made available to us by our business partners, customers or service providers, such as the organizers of events that both you and Tufin participated in, your employers or colleagues, LinkedIn and similar data services and sources.
+Non-personal (anonymous) Data: such Non-personal Data does not and may not relate or refer to any specific individual, and we therefore do not regard it as "Personal Data" and this Privacy Policy shall not apply to it.
+ 
+3. Uses of Personal Data
+We collect and use Personal Data for the following purposes and uses, in accordance with Tufin's legitimate interests and/or as necessary for the performance of our contracts and agreements, or negotiation thereof:
+To facilitate, operate, and provide our Websites and Solutions;
+To verify the identity and access privileges of our customers and their end users;
+To further develop, customize and improve our Websites and Solutions, and to provide you with any such enhanced Websites and Solutions, as we put together and analyze all data available to us to maximize their relevance, effectiveness and quality;
+To improve your user experience, e.g. by remembering data so that you will not have to re-enter it during your current or next visit to the Websites or Solutions;
+To provide our customers and their users with customer assistance and technical support, and to diagnose or fix technical problems reported by our users or engineers;
+To monitor and improve the effectiveness of our Websites and Solutions, and of our marketing efforts;
+To be able to contact you with general and personalized service-related notices, surveys, informational materials and promotional messages;
+To monitor aggregate metrics and create aggregated statistical data and other aggregated and/or inferred Non-personal Data, including anonymized and/or pseudonymized Personal Data, which we, our customers, users or business partners may use and disclose at our discretion;
+To manage and assess risk, enhance our and our customers' data security and fraud prevention capabilities, and help protect against error, fraud or any illegal or prohibited activity;
+ 
+ 
+ 
+4. Locations of Personal Data
+Personal Data collected in accordance with this Privacy Policy may be maintained, processed and stored by Tufin and our authorized affiliates and service providers (including our secured cloud storage providers) in the United States of America and in Israel, and might be accessed from other jurisdictions as necessary for the proper delivery or performance of our Websites and Solutions or as may be required by law.
+Tufin is mainly based in the United States and Israel, with headquarters in Boston and Ramat Gan, respectively, and additional offices in North America, Europe and Asia-Pacific.
+Israel is considered by the European Commission to be offering an adequate level of protection for the Personal Data of EU Member State residents.
+Tufin's U.S. subsidiary is self-certified and adheres to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. To learn more, please visit our Privacy Shield Notice .
+ 
+ 
+5. With whom may we share Personal Data
+Tufin may share your Personal Data with third parties (or otherwise allow them access to it) only in the following manners and instances:
+Sharing Personal Data with your organization or other users in your organization: We may share a user's or end-user's Personal Data with their affiliated organization, or the organization to which systems (powered by Tufin's Solutions) they attempted to access.
+In certain cases, other users from your organization may control your account and will be entitled to monitor, process and analyze your data and associated content, including (i) view any content you submit and your activities on the Solutions; (ii) view statistics regarding your account; (iii) change your account password or other access credentials or privileges; (iv) suspend or terminate your account access; and (v) access or retain data stored as part of your account. Please note that we are not responsible or liable for any disclosure, use or monitoring by your organization.
+Third Party Services: Tufin has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, data analytics services, data and cyber security services, banks, payment processors and correspondents, fraud detection and prevention services, e-mail distribution and monitoring services, session recording, remote access services, and our business, legal and financial advisors (collectively, "Third Party Services"). Such Third Party Services may receive or otherwise have access to your Personal Data, depending on each of their particular roles and purposes in facilitating and enhancing our Websites, Solutions and business, and may only use it for such purposes. Such disclosure or access is normally subject to the recipient's undertaking of confidentiality obligations, and the prevention of any independent right to use this information by the recipients, except as required to help us provide our Websites and Solutions.
+Governmental/Law Enforcement Agencies and Legal Requests or Duties: We may disclose or otherwise allow access to your Personal Data pursuant to a legal request, such as a subpoena, search warrant or court order, or in compliance with applicable laws, with or without notice to you, if we have a good faith belief that we are legally required to do so, or that disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding actual or suspected illegal activity, fraud, or other wrongdoing.
+Protecting Rights and Safety: We may share your Personal Data with others, with or without notice to you, if we believe in good faith that this will help protect the rights, property or personal safety of Tufin, any of our customers or users, our customers' end-users, or any members of the general public.
+Tufin Subsidiaries and Affiliated Companies: We may share Personal Data internally within our family of companies, for the purposes described in this Privacy Policy. In addition, should Tufin or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Data may be shared with the parties involved in such event. If we believe that such change in control might materially affect your Personal Data then stored with us, we will notify you of this event and the choices you may have via e-mail and/or prominent notice on our Website or Services.
+ 
+6. Use of Cookies and Other Tracking Technologies
+Tufin and some of its Service Providers utilize "cookies", anonymous identifiers and othertracking technologies, which help us to provide and improve our Websites and Solutions, and in order to provide a better experience to our visitors and users. For example, these technologies enable us to keep track of our visitors' and users' preferences and authenticated sessions, to better secure our Websites and Solutions, and detect abnormal behaviors, to identify technical issues, and to monitor and improve the overall performance of our Websites and Solutions.
+In order for some of these technologies to work properly, a small data file ("cookie") must be downloaded and stored on your device.  Some cookies and other technologies serve to recall Personal Data, such as an IP address, and are used for purposes of session and user authentication, security, keeping the user's preferences, connection stability, monitoring performance and generally providing and improving our Websites and Solutions.
+To learn more regarding our use of cookies, and to see a list of the cookies we use, please visit our Cookies Policy .  
+ 
+7. Communications from Tufin
+Service Communications: Tufin may contact you with important information regarding our Websites and Solutions. For example, we may notify you (through any of the means available to us) of changes or updates to our Services, payment issues, service maintenance, etc. You will not be able to opt-out of receiving such service communications.
+Promotional Communications: We may also notify you about new services, events, and special opportunities or other information we think you will find valuable. We will provide such notices through any of the contacts means available to us (e.g. phone, mobile or e-mail), through the Websites or Solutions, or through our marketing campaigns on any other sites or platforms.
+ 
+8. How Tufin safeguards Personal Data
+ 
+ 
+9. The rights and choices available to you regarding your Personal Data
+If you wish to exercise your right to access and/or request us to make corrections to your Personal Data that you have stored with us (either yours or your organization's end-users), or to delete it, please send us an e-mail to privacy@tufin.com , and we will respond within a reasonable timeframe and in accordance with applicable laws.
+If you are a user or an end-user of a Tufin customer organization, we recommend that you contact such organization's administrator directly if you wish to access, correct, amend or delete inaccurate information processed by Tufin on behalf of such customer.
+ 
+ 
+10. How long may Tufin keep Personal Data?
+ 
+11. General
+We may amend this Privacy Policy at any time by posting a revised version on our Websites and/or Solutions, as applicable. The revised version will be effective as of the published effective date. If the revised version includes a substantial change, we will provide you with prior notice via any of the communication means described in Section 7 above, or by posting notice of the change on the Websites and/or Solutions, as applicable. After this notice period, all amendments to this Privacy Policy shall be deemed accepted and effective on both you and us. Except if and as stated otherwise, our most current Privacy Policy shall apply to all Personal Data described in such policy.
+While our Websites may contain links to other websites or services, we are not responsible for such websites’ or services’ privacy practices, and encourage you to be aware when you leave our Websites and read the privacy statements of each and every website and service you visit. This Privacy Policy does not apply to such linked third-party websites and services.
+Our Websites and Solutions are not intended for use by children under the age of 18. We do not knowingly collect Personal Data from minors under the age of 18 and do not wish to do so. In the event that it comes to our knowledge that a minor is using the Websites and Solutions, we will prohibit and block such user from accessing the Websites and Solutions and will make all efforts to promptly delete any Personal Data stored with us with regard to such user.
+ 
+ 
+12. Ways in which you may contact Tufin or Tufin's Data Protection Officer
+If you have any questions about this Privacy Policy or Tufin's privacy practices, please contact us at privacy@tufin.com .
+Tufin has designated Tufin Software Germany GmbH as its representative in the European Union, pursuant to Article 27 of the GDPR, and Mr. Aner Rabinovitz of PrivacyTe.am as its Data Protection Officer, for monitoring and advising on Tufin's ongoing Privacy compliance and serving as a point of contact on Privacy matters for data subjects and supervisory authorities. Mr. Rabinovitz may be reached at dpo@tufin.com .
+ 
+ 

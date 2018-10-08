@@ -1,0 +1,27 @@
+Friday 18 September 2015
+AVG said its new privacy policy was more intended to be more "transparent". A spokesperson for the company confirmed users would have the choice to opt-out should it start selling anonymised search and browser history data to advertisers
+AVG
+Security firm AVG can sell search and browser history data to advertisers in order to "make money" from its free antivirus software, a change to its privacy policy has confirmed.
+The updated policy explained that AVG was allowed to collect "non-personal data", which could then be sold to third parties. The new privacy policy comes into effect on 15 October, but AVG explained that the ability to collect search history data had also been included in previous privacy policies, albeit with different wording.
+Advertisement
+AVG's potential ability to collect and sell browser and search history data placed the company "squarely into the category of spyware", according to Alexander Hanff security expert and chief executive of Think Privacy . "Antivirus software runs on our devices with elevated privileges so it can detect and block malware, adware, spyware and other threats," he told WIRED. "It is utterly unethical to [the] highest degree and a complete and total abuse of the trust we give our security software." Hanff urged people using AVG's free antivirus to "immediately uninstall the product and find an alternative".
+Previous versions of AVG's privacy policy stated it could collect data on "the words you search", but didn't make it clear that browser history data could also be collected and sold to third parties. In a statement AVG said it had updated its privacy policy to be more transparent about how it could collect and use customer data.
+Read next
+By Daphne Leprince-Ringuet
+While AVG has not utilised data models to date, we may, in the future, provided that it is anonymous, non-personal data
+AVG spokesperson
+An AVG spokesperson told WIRED that in order to continue offering free security software the company may in the future "employ a variety of means, including subscription, ads and data models." "Those users who do not want us to use non-personal data in this way will be able to turn it off, without any decrease in the functionality our apps will provide," the spokesperson added. "While AVG has not utilised data models to date, we may, in the future, provided that it is anonymous, non-personal data, and we are confident that our users have sufficient information and control to make an informed choice."
+According to Nigel Hawthorn, European spokesperson for cloud security firm Skyhigh Networks , AVG had stayed "just on the non-creepy side of creepy". "If something is free you've got to assume that you're the product," he said. "The difficulty with this is whether anyone notices, reads it, checks it and understands the implications".
+It is utterly unethical to the highest degree and a complete and total abuse of the trust we give our security software
+Alexander Hanff, chief executive, Think Privacy
+Advertisement
+AVG is the third most popular antivirus product in the world according to market analysis from software firm Opswat . The company has a 8.6 percent share of the global market, behind Microsoft on 19.4 percent and Avast on 21.4 percent. In its privacy policy , Avast, which also provides free security software, explains that it is able to collect certain non-personal information and sell it to advertisers. The company does not specify that this includes browser and search history data.
+Orla Lynskey, a data protection and IT law expert from London School of Economics , welcomed the change in language but said users would be justifiably concerned by the implications. "Its privacy policy is written in clear and simple language," she told WIRED, adding that users might expect an antivirus provider to be "more respectful" of their privacy and data security . "It appears that AVG is adopting a generous interpretation of the data protection rules in order to justify its data use policy," Lynskey argued. "Although some of the data they classify as 'non-personal' might not identify individuals directly, they may be indirectly identifiable based on that data."
+An AVG spokesperson explained that any non-personal data it collected and potentially sold to advertisers would be cleaned and anonymised, making it impossible to link it back to individual users. "Many companies do this type of collection every day and do not tell their users," the spokesperson said.
+By Matt Burgess and Victoria Woollaston
+DuckDuckGo
+By WIRED
+02 Apr 2018
+By Matt Burgess
+28 Oct 2016
+By Matt Burgess

@@ -1,0 +1,83 @@
+Effective Date: 25/05/2018 
+1. General Information
+Zonemedia Management Limited, a company registered in England and Wales with company number 03290575 and its registered office at 111 Salusbury Road, London, NW6 6RG operates this Website (the “Services”) on behalf of AMC Networks International Channel Limited, a company registered in England and Wales with company number 09576192 and its registered office at 111 Salusbury Road, London, NW6 6RG (referred to here as “we,” “us” or “our”). In order to maximise your use of the Services and for us to focus marketing initiatives and further understand how people are using the Services, we collect, retain, use, and share information about you. This Privacy Policy is designed to inform you (referred to here as “you,” “your” or “yourself”) about how and why we collect, manage, retain, use, and share information related to you and your use of the Services.
+2. Type of Information We Collect
+(a) Information Provided Directly by You
+To access or use certain parts or features of the Services, you will be required to provide certain personal information.
+This can consist of a combination of information such as your name, e mail address, postal address, telephone or mobile number, social media information, payment information, or date of birth. If you choose to not provide certain information, you may not be able to access or use certain parts or features of the Services.  For example, if you do not provide your email address, you will not be able to register for email updates or newsletters; if you do not provide your name or other identifying information, we may not be able to respond to your inquiries or post your content; if you do not provide us with payment information, we will not be able to process your orders; and if you do not provide us with your username and password, you will not be able to access your online account.
+(b) Information on How You Use Our Services
+When you access our Services we will collect certain information automatically.
+ 
+We collect this information using cookies, which are small pieces of electronic information stored by your internet browser software on to your computer’s hard drive. We also use other tools to track usage of the Services, including web beacons, which are small pieces of data embedded in images on the Services.  We use the information collected via these tools to understand which Content, User Content, marketing and advertisements, you have seen or accessed and to help us identify unique users to our Services. We use and access cookies to enable us to provide you with personalised Content, User Content and advertising so that we can customise areas of the Services based on your activities and inferred interests.
+You may be able to have your browser warn you when a cookie is sent, and you may be able to turn off all cookies.  You do this through your web browser settings.  Each browser is different, so look at your browser Help menu to learn the correct way to modify your cookie settings.  If you turn cookies off, you won’t have access to many features that may improve your browsing, like the features mentioned above, and some of our services may not function properly.
+Other technical methods including web beacons may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf.  We may also use these technical methods in HTML e-mails that we send to determine whether recipients have opened those e-mails and/or clicked on links in those e-mails. Please see our Cookies Policy for more information.
+(c) Location information:
+We collect different types of information about your location, including general information, such as the city, state and/or postal code associated with your IP Address, and, if you agree, more specific location information that is provided through the GPS functionality on mobile devices used to access the Services.
+We may use such location information to customize the Services, including advertising that is presented to you. For example, if you provide a postal code that indicates that you live in a particular city, the Services may be customized with information, features, or advertisements specific to that city.  In order to do this, your location information may be passed along to our affiliates, agents, vendors or advertisers, as described below.
+ 
+3. Additional Information Collection Practices
+Some parts of the Services contain embedded content or links to content controlled by third parties.  Those third parties may collect information about you when you access their content.
+Should you choose to access such third-party content, you should review their privacy policies to ensure you understand and are comfortable with their practices concerning your information.  We do not accept, and do disclaim, any responsibility for the privacy policies and information collection, use, and sharing practices of any third party website (whether or not such site is linked on or to the Sites).  These links are provided to you for convenience purposes only, and you access them at your own risk.
+We obtain information about you and your use of the Services from third parties like web hosting providers, analytics providers, social media platforms, data suppliers, and advertising services.
+ 
+ 
+ 
+ 
+ 
+We use your personal information to:
+ provide you with services so that we can meet our contractual obligations to you.  If the services are not governed by a contract, we use your information to meet our business interests in providing quality services to you;
+ respond to your requests for information, on the basis that it is in our business interests to respond to your requests, and you have requested that we do this;
+ improve the Services and learn about how visitors use the Services . This is necessary for us to improve the services we offer through the Services, and benefits you as it helps us make the Services more usable and appealing;
+communicate with you about our products and services, including behavioral advertising, and providing you with information about features on the Services and possible changes to our Privacy Policy or terms of use. If required by applicable law, we will only send messages on the basis that you have consented, or otherwise it will be to meet our business interests in providing information to you about new products and features. You can opt out of receiving marketing communications at any time;
+communicate with you about third-party products and services that may be of interest to you, including via behavioral advertising.  If required by applicable law, we will only send messages on the basis that you have consented, or otherwise it will be to meet our business interests in expanding our business opportunities and providing information to you about interesting products and services. You can opt out of receiving marketing communications at any time;
+make inferences about your interests, as necessary to meet our business interest in expanding our business opportunities and learning how to make our services more relevant to you and other uses;
+comply with legal obligations; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The third-party services we use include, but may not be limited to: Google Analytics , Brightcove , NPAW and Adobe , which may provide you with choices about how they collect and use information.  We share personal information with analytics providers on the basis that it is necessary to meet our legitimate interests in efficiently managing our business and for developing future business.
+From time to time, we share your information with our affiliates and subsidiaries, or with our other entities in connection with the purposes described in Section 4 above.
+We may disclose information when we believe in good faith that such disclosures:
+are required by law, including, for example, to comply with a court order or subpoena, or in response to a law enforcement agency’s request;
+will help to protect our rights or enforce our Terms of Use;
+will support our detection, prevention, or response to fraud or intellectual property infringement;
+will help protect your safety or security, including the safety and security of property that belongs to you; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We have implemented commercially reasonable technical, administrative, and physical security measures to protect the information that we collect or receive.  From time to time, we review and consider updates for our security procedures.  Please be aware that, despite our ongoing efforts, no security measures are perfect or impenetrable.
+8. If You Are Under 18
+ 
+ 
+If you no longer wish to receive marketing materials from us, you can let us know by contacting us at
+DataPrivacy-uk@amcnetworks.com or by clicking the ‘unsubscribe’ link or using other unsubscribe features that we provide in our marketing communications.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In some cases, your personal information may be transferred to, stored, and processed in a country that is not regarded as ensuring an adequate level of protection for personal information under United Kingdom and/or European Union or other applicable laws.  However, we have put in place appropriate safeguards (such as standard contractual clauses approved by the relevant authorities) in accordance with applicable legal requirements to ensure that your data is adequately protected.  For more information on the appropriate safeguards in place or to obtain a copy, please contact us at
+12. Changes to Our Privacy Policy 
+ 
+13.  How to Contact Us
+ 
+C/O AMCNI – UK Data Protection Officer
+111 Salusbury Road, London, NW6 6RG, United Kingdom
+ 
+Calle Saturno 1 – Pozuelo de Alarcon, 28224  Madrid, Spain

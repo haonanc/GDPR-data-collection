@@ -1,0 +1,51 @@
+I. Introduction 
+Edward Jones respects your privacy as an applicant and recognizes the importance of protecting your personal information. This notice explains the categories of personal information we collect about you, why we collect that information, and to whom that information may be disclosed. This notice also explains how we collect information based on your interactions with our websites, mobile sites and digital ads. Please read this Online Privacy Statement in conjunction with the Edward Jones Privacy Notice . 
+II. Online Information Collection on Edward Jones' Websites 
+a. Personal Information
+What Personal Information Do We Collect?
+Edward Jones collects information about you, including your name, Social Security number, gender, marital status, date and place of birth, nationality, citizenship, and contact information at home and at work. We may also collect information about your experience, education, and qualifications for employment at Edward Jones, including information provided by previous employers and other references or gathered in the course of conducting a background check.
+Edward Jones may check your references, collect personal information about you from a third party or outside source, and/or verify personal information you provide to us. For example, to protect our clients, Edward Jones performs various background screens before making any hiring decisions. By providing the names of your references and their contact information, and by submitting your application, you are consenting to the use and disclosure of your personal information in this manner.
+We may conduct drug or alcohol testing only with your knowledge and consent.
+Why Do We Collect Your Personal Information?
+Edward Jones limits the collection and processing of personal information to that which is fair, lawful, relevant to, and not excessive for, the purposes of:
+(1) Operating and planning for the operations of our business;
+(2) Making recruitment and/or employment decisions;
+(3) Fulfilling our obligations as an employer;
+(4) Establishing, asserting, or defending our legal rights;
+(5) Preventing or detecting unlawful activities;
+(6) Complying with law, regulation, or valid legal process; and
+(7) Achieving other important employment related purposes (e.g., equal opportunities monitoring).
+Who Has Access to Your Personal Information?
+In appropriate circumstances, we may disclose your personal information to accomplish the goals described above. Edward Jones personnel are authorized to access your personal information only as necessary to perform their respective functions. Edward Jones discloses relevant personal information to contractors and service providers who perform various services such as payroll processing. These parties are contractually obligated to protect your personal information.
+We process your personal information from the references you supply, third parties, and/or other sources only for the purpose of making employment related decisions.
+Protecting Your Personal Information
+Edward Jones has implemented an information security program that includes physical, technical, and organizational safeguards. This program is designed to help protect your personal information from unauthorized access, unlawful processing, and accidental loss, destruction, or alteration. Please understand, however, that even the best security programs cannot provide a guarantee against these risks.
+b. IP Addresses
+Edward Jones web servers collect your Internet Protocol (IP) address for our system administration and internal reporting purposes. We use this information to improve our website, develop marketing, monitor website performance, and better meet user needs. When you view pages on our website, our servers log your IP address. Using IP addresses, we can determine the domain names of Internet service providers (ISPs) used to access our website. Domain name information does not include personal information about individual visitors.
+c. Cookies
+Edward Jones' website functions are based, in part, on your browser's ability to accept cookie files. Cookies are pieces of information that a website transfers to your hard drive that allow you to more easily navigate a website and customize website features that are updated each time you visit a website. For example, if you were to submit a message through the recruiting website, the site would use cookies to remember your personal information and pre-fill forms for future message submission. This only applies to personal information that you have previously submitted through a message.
+Cookies also help us to track repeat visits to our website. Most browsers are initially set up to accept cookies. You may set your preferences to refuse cookies; however, this may limit your access to some areas of our website.
+If you have enabled your Internet browser to refuse cookies or have selected a "do not track" preference, we will not collect personal information about you.  In addition, when you visit our website, third parties will not collect personal information about you or your online activities over time or across websites.
+We may also use cookies in our online advertising to monitor websites to determine which of our advertisements are most likely to appeal to you, to display advertisements to you and then monitor your response. Please see section V. Advertising below for more information.
+d. Browsers
+We may collect certain information from your browser, such as your media access control (MAC) address, device type, screen resolution, operating system version and Internet browser type and version. We use this information to ensure that our websites function properly and also for security reasons.
+e. Pixel Tags, Web Beacons, Clear GIFs or Other Technologies
+These technologies may be used with some of our web pages and HTML-formatted email messages to measure the effectiveness of our communications and success of our marketing campaigns. We may also use these technologies to compile statistics about usage and response rates and to help us resolve visitor questions about using our website.
+f. Text Messaging
+We may collect information about your use of a text message code to measure the effectiveness of our communications and success of our marketing campaigns. We may also compile statistics about usage and response rates. Message and data rates may apply and you may opt out at any time. 
+III. Links 
+For your convenience, our website may contain links to other websites. This does not imply any affiliation with, or an endorsement, authorization, sponsorship or promotion of a non-Edward Jones website or its owner. Edward Jones accepts no responsibility for the content, products or services provided on linked websites. If you choose to access such non-Edward Jones websites, you do so at your own risk, and you should be aware that those websites are governed by their own terms and conditions and privacy policies. 
+IV. Email 
+To improve our service and meet regulatory requirements, Edward Jones may monitor, review or act upon emails you send to us. The financial advisor application and the form to request an financial advisor information kit are secured using encryption while in transit. Other messages or forms sent on our recruiting website are not encrypted.
+V. Advertising 
+Information collected by our advertising service providers through cookies and other technologies may include browsing behavior, referring sites and your response to advertisements. These cookies do not collect personal information. Data collected in this manner is only used to improve our advertising.
+Edward Jones participates in the AdChoices online behavioral advertising program. If you receive a behaviorally targeted advertisement, you may click on the displayed icon to receive more information and choose to opt out. Your opt-out choices may be affected by your use of a specific device, your browser settings or your log-on credentials. If you opt out, you may still receive online advertising from Edward Jones, which is not based on your preferences or online behavior. 
+VI. Social Media Websites 
+Edward Jones participates in social media websites such as Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users. Any content you post, opinions you express or personal information that you provide to social media providers is subject to the terms of use and privacy policies of those websites. 
+VII. Changes to this Statement 
+Edward Jones reserves the right to change this privacy statement at anytime. Changes are effective upon posting to this site.
+EJUS: 04/14
+View Current Openings
+Copyright © 2018 Edward Jones.
+Edward Jones does not discriminate on the basis of race, color, gender, religion, national origin, age, disability, sexual orientation, pregnancy, veterans status, genetic information or any other basis prohibited by applicable law. If you have a disability under the Americans with Disabilities Act or a similar law and you wish to discuss potential accommodations related to applying for employment at our firm, please contact us at 1-866-788-4979. Qualified applicants with arrest and/or conviction records will be considered for employment in a manner consistent with Federal, state and local laws, including but not limited to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring.
+null

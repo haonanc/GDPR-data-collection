@@ -1,0 +1,290 @@
+Introduction
+Ve Global UK Limited (“Ve” or “we”) is a technology company headquartered in the UK that provides advertising and marketing solutions (“Services”) to a variety of clients who have online operations (“Clients”).
+We contract directly with most of our Clients to provide our Services. We also make available our Services to certain affiliate partner networks who are able to on-provide our Services to their respective clients - in this Privacy Policy, the term “Clients” also includes these clients of our affiliate partners.
+We take privacy seriously and are committed to ensuring a safe online experience. This privacy policy (“Privacy Policy”) explains how we use and protect personal information that we receive or collect, as set out further in this Privacy Policy.
+We collect personal information about:
+End users who visit Client websites: when you visit or interact with our Clients’ websites, mobile applications and services (including those of our affiliate networks) (“Client Sites”), we collect and process personal information about you. We use this information to understand more about you and to advertise or promote our Clients’ products and services to you. Please see Opting-out below if you wish to opt-out. You may have been redirected here because you have visited a Client Site; and
+Clients and other visitors to our own website: we collect and process personal information about Client personnel who use our Services and others who visit https://www.ve.com (“Our Site”).
+This Privacy Policy is set out in three parts:
+Part I – Information for end users who visit Client Sites: this section is relevant to you if you visit any of our Client Sites – this is likely to be the case where you have been redirected here from another website. Our policy describes what personal information we collect and how we use it in relation to your interaction with Client Sites.
+Part II – Information for Clients and other visitors to our Site: this section is relevant to Clients who use our Services and other persons who interact with Our Site. It describes what personal information we collect about you and how we use it.
+Part III – Miscellaneous: this section contains further information about our use of personal information, including the rights you have.
+This Privacy Policy:
+explains the nature of the personal information about you that is processed by Ve and how you can request that we delete, update and/or transfer it and/or provide you with access to it;
+is designed to help you to make informed choices when using Client Sites and/or Our Site. Please take a moment to read it and also to read our Website Terms and Conditions of Use ; and
+applies only to the use of your personal information when obtained by Ve. It doesn’t apply to personal information collected during your communications with Clients and/or third parties unless that personal information is shared with Ve in any of the circumstances described in this Privacy Policy.
+Show more information
+How do I opt-out?
+If you have visited one or more Client Sites and wish to opt-out of Ve processing your personal information, including where you wish to opt-out of Ve displaying personalised ads to you when you visit third party websites and platforms, please see How to opt-out of our use of your personal information.
+Who are we?
+Ve Global UK Limited is a company registered in England and Wales under company number 10706696 and has its registered office at White Collar Factory, Old Street Yard, London, England, EC1Y 8AF.
+Where Ve receives your personal information as a result of your interaction with Client Sites, Ve is, either alone or jointly with Clients, a controller (as the terms is defined in the EU General Data Protection Regulation) and is responsible for the collection and processing of such personal information in accordance with applicable privacy laws.
+Where Ve collects personal information of Client personnel and others who interact with Our Site, Ve is a controller and is responsible for the collection and processing of that personal information in accordance with applicable privacy laws.
+Show more information
+How to contact us
+If you have any questions or wish to exercise your rights set out in this Privacy Policy, please contact our Data Protection Officer at: Ve Data Protection Officer, White Collar Factory | Old Street Yard | London | England | EC1Y 8AF | Email: privacy@ve.com .
+Part I - Information for end users who visit Client Sites
+What personal information do we collect and how do we collect it?
+We collect the following categories of personal information from you:
+email addresses and/or telephone numbers, if voluntarily entered into a Client Site by you (e.g. to buy a product or service, become a registered user, or sign up for marketing communications) (“Contact Details”);
+data relating to your browsing activity through the use of cookies, web beacons and pixel tags and similar technologies deployed on Client Sites or via emails sent by Ve on behalf of Clients (“Behavioural Data”), including:
+IP (internet protocol) address; referring site URL (website address) where your session started, and details about your device, including type (e.g. mobile or tablet), brand, model, operating system name and version, browser name, version, language and protocol, and other unique numbers assigned to a device (e.g. IDFA on iPhone, Google adID on Android);
+details about the pages of Client Sites visited and activities on Client Sites (e.g. products viewed or purchased, including details of purchases made and the time and duration of visits to pages of the Client’s Site), page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
+using your IP address, your approximate geolocation (e.g. postcode); and
+events relating to ads served on you, such as the number of ads displayed to you and whether you clicked on an ad; and
+mailing address, age and/or date of birth, gender, marital status, number of children, nationality and/or country or city of residency, telephone number and first name, in each case if input into a Client Site by you (“Profile Data”).
+For more information about the technology that we use to collect Behavioural Data, please see our Cookie Policy .
+We also receive Behavioural Data from, and may share it with, third party partners (through “cookie synching” or similar matching technologies). We do not share Contact Details or Profile Data relating to you with third parties outside of the Ve group for commercial purposes.
+We may receive personal information about you (including Behavioural Data and Profile Data) from other companies within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available here .
+We do not collect sensitive information from you (such as data relating to health or religious beliefs). Although it may be possible for us to infer certain information, such as your religious beliefs, from certain Behavioural Data that we may collect, we do not create or use segments that rely on the use of sensitive personal information for the purposes of online behavioural advertising.
+How do we use the information we collect?
+The primary purpose for which we collect personal information from you is a) to help our Clients to market, and facilitate the sale of, their products and services more effectively and/or efficiently and b) to provide a more personalised online experience for you. We achieve this by using information that we have collected (including Behavioural Data ) to create inferences about your personal preferences, interests and behaviour.
+Ve combines information that it collects from you across all Client Sites and uses that personal information for the benefit of each of its Clients. By way of example:
+if Ve collects personal information when you visit Client Site A, that personal information may be used to display an ad to you, on a third party website, for products available on Client Site B.
+if Ve collects personal information when you visit Client Site A, and you subsequently visit Client Site B and provide Client B with permission to send you marketing, Ve may use the information collected on Client Site A to personalise the content of Client B’s marketing communications that are then sent to you.
+The purposes for which we use your personal information are described further below:
+Deliver relevant and interest-based advertising.
+We use inferences about your personal preferences, interests and behaviour to serve relevant and personalised advertisements for our Clients’ products and services to you when you visit third party websites and platforms. This means that you receive advertisements for products and services that are more likely to be of interest.
+You can learn more about interest-based advertising here:
+Who do we share personal information with for this purpose?
+We share Behavioural Data with platforms (such as our own demand side (advertising) platform (DSP) called Volvelle), companies within the Ve Group and with advertisers and third party partners in advertising networks who use the data to select and serve relevant adverts to you. We do not disclose Contact Details or Profile Data to our advertisers or advertising networks outside of the Ve group.
+We also share personal information about you (including Behavioural Data and Profile Data) within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available here .
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+It is in our legitimate interest to use your personal information for the purpose described above as this helps our Clients to a) personalise your online experiences and/or b) promote, and facilitate the sale of, relevant products to you.
+Show more information
+Help our Clients analyse the effectiveness of their ad campaigns and to improve the Services we provide to Clients.
+We use the information we collect to operate, manage, maintain and improve our Services and to help our Clients analyse the effectiveness of their ad campaigns.
+Clients are able to access reports through Ve’s reporting platform that help them to analyse the effectiveness of their ad campaigns.
+Who do we share your personal information with for this purpose?
+Ve provides Clients with personal information where the personal information relates to sales that are attributed to advertisements served by Ve. This may include the sharing of email addresses and order IDs with Clients for accounting purposes.
+We also provide Clients with aggregated information about you and others (for example, we may inform Clients that 500 men aged under 30 have clicked on their ad on any given day).
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+It is in our legitimate interest to use your personal information for the purpose described above as this helps our Clients to a) personalise your online experiences and/or b) promote, and facilitate the sale of, relevant products to you.
+Where your personal information is not in an anonymous form, it is in our legitimate interest to use your personal information in such a way to enhance the quality of the Services that we provide to Clients.
+Show more information
+Email and SMS marketing and other communications sent by Clients using Ve Services.
+Where you provide your Contact Details on Client Sites and, in doing so, provide Clients with permission to send marketing communications to you, Ve may use the personal information about you that it has collected (from any Client Site) to create personalised marketing communications which are then sent by Ve on behalf of Clients who hold a valid permission to market to you. These marketing communications may be sent by email, text message and in-app push notifications, or similar methods, and will always be sent from Ve on behalf of Clients.
+Who do we share your personal information with for this purpose?
+We do not share your personal information with third parties outside of the Ve group for this purpose.
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+It is in our legitimate interest to use your personal information for the purpose described above as this helps our Clients to a) personalise your online experiences and/or b) promote, and facilitate the sale of, relevant products to you.
+Marketing communications will be sent by Ve on behalf of Clients to you by email or text message where you have consented to receive such communications from the relevant Client or where our Client has a lawful right to send the communication.
+Show more information
+Providing you with a customised experience when you visit Client Sites.
+Ve uses the personal information that it collects to provide you with a personalised and unique browsing experience when you visit a Client Site. For example, Clients may, using our Services, wish to display personalised offers, messages, content and/or product recommendations on Client Sites, based on the personal information about you that we have collected (from any Client Site).
+Who do we share your personal information with for this purpose?
+We do not share your personal information with third parties outside of the Ve group for this purpose.
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+It is in our legitimate interest to use your personal information for the purpose described above as this helps our Clients to a) personalise your online experiences and/or b) promote, and facilitate the sale of, relevant products to you.
+Show more information
+Providing Clients with market insight and analysis.
+We collate and aggregate personal information that we collect about you and others and analyse this to provide our Clients with market research reports and other information about industry trends (“Reports”). However, the Reports contain only aggregated and anonymised information and do not contain any personal information relating to you or any other specific or identifiable person.
+Who do we share your personal information with for this purpose?
+We do not share your personal information with third parties outside of the Ve group for this purpose.
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+In relation to the creation of the Reports, it is in our legitimate interest to use your personal information for the purpose described above as this helps our Clients to a) personalise your online experiences and/or b) promote, and facilitate the sale of, relevant products to you.
+In relation to the provision of the Reports to our Clients, your personal information is presented in an aggregated and anonymised form. We do not require a legal basis to use it for this purpose, as the information will no longer constitute personal information that is regulated under data protection laws.
+Show more information
+Business administration and legal compliance.
+We use your personal information for the following business administration and legal compliance purposes:
+to comply with our legal obligations;
+to enforce our legal rights;
+protect rights of third parties; and
+in connection with a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets.
+Who do we share your personal information with for these purposes?
+We may share your personal information with professional advisers and/or governmental or regulatory authorities.
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+Where we use your personal information in connection with a business transaction, enforce our legal rights or to protect the rights of third parties, it is in our legitimate interest to do so.
+For all other purposes described in this section, it is our right to use your personal information to comply with any legal obligations to which we are subject.
+Show more information
+If we wish to use your personal information for any new purpose that is not listed above, we will, prior to using such personal information, evaluate whether it is in our legitimate interest to use the personal information for that purpose. If we determine that it is in Ve’s legitimate interest to do so, we will update this Privacy Policy to explain the new purpose. Please check back frequently to see any updates or changes to this Privacy Policy.
+Part II – Information for Clients and other visitors to our own Site
+What personal information do we collect from Clients (and other people who visit Our Site) and how do we collect it?
+We may collect the following categories of personal information from you:
+name, address, e-mail address, telephone numbers, payment and credit card information, passwords, and any other personal information voluntarily submitted by you when you subscribe, register, complete forms or purchase products on Our Site, or correspond with us (via Our Site or otherwise) (“Voluntary Data”); and
+data relating to your browsing activity through the use of cookies, web beacons and pixel tags and similar technologies (“Tags”) deployed on Our Site or emails sent by us to you, (“Behavioural Data”), including:
+IP (internet protocol) address; referring site URL (website address) where your session started, and details about your device, including type (e.g. mobile or tablet), brand, model, operating system name and version, browser name, version, language and protocol, and other unique numbers assigned to a device (e.g. IDFA on iPhone, Google adID on Android);
+details about the pages of Client Sites visited and activities on Client Sites (e.g. products viewed or purchased, including details of purchases made and the time and duration of visits to pages of the Client’s Site), page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
+using your IP address, your approximate geolocation (e.g. postcode); and
+For more information about the technology that we use to collect Behavioural Data, please see our Cookie Policy .
+How do we use the information we collect from Clients (and other people who visit Our Site)?
+The primary purpose for which we collect the personal information from you is to: (i) verify your identity; (ii) help us improve our Services and develop and market new products and services; (iii) carry out requests made by you on Our Sites; (iv) investigate or deal with enquiries or disputes; (v) comply with applicable laws or the requirements of a court or regulator; (vi) enforce our agreements with Clients and vendors; (vii) protect the rights, property or safety of us or third parties, including our Clients and those who visit Our Site; (viii) provide support for the provision of our Services; and (ix) use as otherwise permitted by law.
+In particular, we may use your personal information for the following purposes:
+If you are a Client: fulfilment of Services to you.
+We collect and maintain Voluntary Data submitted to us on behalf of Clients during your use of Our Site and/or during the provision of our Services. The purposes for which we use Voluntary Data submitted to us on behalf of Clients are as follows:
+Purchases of Services: We use Voluntary Data (and in particular payment and credit card details) so that we can supply Services that Clients have ordered via Our Site and to process any refunds. Any contractual terms relevant to the supply of the particular Services will also apply.
+Account registration and log in: If you register for a VePlatform account, we may use Voluntary Data to process your registration. Once you are registered, we will process your email address and password to identify you when you log into the VePlatform via Our Site. We will use Voluntary Data so that we can administer your VePlatform account.
+Who do we share your personal information with for this purpose?
+We will share your personal information with the following categories of third parties:
+Credit card companies and other payment providers who assist us with the verification of card payments and the processing of refunds; and
+Web hosting, optimisation and management companies who assist us with the hosting, operation, optimisation and maintenance of Our Site, the administration of Ve Platform accounts and the provision of access to secure areas and functionality on Our Site.
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+Show more information
+Insight and analysis.
+We analyse Voluntary Data and Behavioural Data in order to better understand our Clients and other users of Our Site.
+Where you have given consent (where lawfully required), we use Tags to collect Behavioural Data.
+The Tags that we use allow us to track receipt of an email to you, count users who have visited a web page or opened an email and collect other types of aggregated information. Once users click on an email that contains a Tag, some Voluntary Data may subsequently be cross-referenced to the source email and/or the relevant Tag.
+In some of our email messages, we use a “click-through URL” linked to certain websites administered by us or on our behalf. We may track click-through data to assist in determining interest in particular topics and measure the effectiveness of these communications.
+Please see our Cookie Policy for further information.
+This information is used to create insights about your browsing habits on Our Site. By using this information, we are able to measure the effectiveness of our content and how Clients and other people use Our Site and/or our Services. This allows us to learn what pages of Our Site are most attractive to those who visit Our Site, which parts of Our Site are the most interesting and what kind of features and functionalities visitors to Our Site like to see.
+We also use this information to help us with the selection of future product and service lines and website design and to remember your preferences.
+We may also use this information for marketing purposes (see the “ Email Marketing ” section below for further details).
+Who do we share your personal information with for these purposes?
+We share your personal information with third party service providers to assist us with insight analytics. These providers are described in our Cookie Policy .
+Please see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+Where your personal information is anonymised, we do not require a legal basis to use it as the information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of anonymised personal information may be subject to other laws where your consent is required. Please see our Cookie Policy for further details.
+Where your personal information is not in an anonymous form, it is in our legitimate interest to use your personal information in such a way to enhance the quality of the Services that we provide to Clients.
+Show more information
+Postal marketing.
+We use information that we observe about you from your interactions with our Sites, our email communications to you and/or with our products and services (see the Insight and Analysis section above for more details of the information collected and how it is collected) and/or your address details, to send you marketing communications by post.
+Who do we share your personal information with for these purposes?
+We share your personal information with a variety of third party postal providers who assist us in delivering our postal marketing campaigns to you, including the post office.
+What is our legal basis?
+Where your personal information is completely anonymised, we do not require a legal basis to use it as the personal information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of such anonymised information may be subject to other laws where your consent is required. Please see our Cookie Policy for further details.
+Where your personal information is not in an anonymous form, such as your postal address, it is in our legitimate interest to use your personal information for postal marketing.
+Show more information
+Email marketing to current or prospective Clients.
+We use Voluntary Data (including names and email addresses) to send marketing communications by email, where you have consented to receive such marketing communications or where we have another lawful basis to do so.
+Our email marketing may include personalised and non-personalised email marketing. Personalised marketing is marketing that has been specifically tailored to you. For example, our personalised email marketing may feature Services that we think are most likely to appeal to you and/or a Client. Non-personalised marketing is marketing about our Services generally and is not tailored to you or a Client.
+Where we are sending you personalised email marketing, we will also use information that we observe about you from your interactions with Our Site, with our email communications to you and/or with our Services in order to decide what sort of personalised marketing communications to send to you. Please see the “ Insight and Analysis ” section above for more details about the personal information collected and how it is used.
+Who do we share your personal information with for these purposes?
+We share your personal information with third party email marketing providers who assist us in delivering our email marketing campaigns to you.
+Please also see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+Where your personal information is anonymised, we do not require a legal basis to use it as the personal information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of anonymised personal information may be subject to other laws where your consent is required. Please see our Cookie Policy for further details.
+Where your personal information is not in an anonymous form, it is in our legitimate interest to use your personal information for marketing purposes.
+We will only send you marketing communications by email where you have consented to receive such communications, or where we have another lawful right to do so.
+Show more information
+Business administration and legal compliance.
+We use your personal information for the following business administration and legal compliance purposes:
+to comply with our legal obligations;
+to enforce our legal rights;
+protect rights of third parties; and
+in connection with a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets.
+Who do we share your personal information with for these purposes?
+We may share your personal information with professional advisers, such as lawyers and accountants and/or governmental or regulatory authorities.
+Please also see Storage and sharing of personal information and transfers overseas in Part III of this Privacy Policy for further information about where your personal information is stored.
+What is our legal basis?
+Where we use your personal information in connection with a business transition, enforce our legal rights or to protect the rights of third parties it is in our legitimate interest to do so.
+For all other purposes described in this section, it is our right to use your personal information to comply with any legal obligations imposed upon us such as a court order.
+Show more information
+Part III – Miscellaneous
+Our use of cookies and similar technologies
+Ve makes use of certain cookies, pixels, beacons, log files and other technologies used on Client Sites and Our Site.
+Please see our Cookie Policy to find out more about the cookies we use on Client Sites and Our Site.
+Our Cookie Policy explains how you can manage and delete cookies which relate to Our Site.
+How to opt-out of our use of your personal information
+This section explains how you can opt-out of our use of your personal information collected in relation to your interactions with Client Sites, including how you can opt-out of us displaying personalised ads to you when you visit third party websites and platforms.
+We explain below various mechanisms which you can use to opt-out of our use of your personal information in respect of Services that we provide in relation to Client Sites.
+Note that some of these mechanisms are subject to various limitations and conditions. In particular some of the mechanisms require that we place a cookie on your browser in order to identify you as a person who has opted-out of our use of your personal information. If you clear cookies or reset your device settings, we will not be able to identify you as a person who has opted-out of our use of your personal information.
+Where you opt-out using the below mechanisms, we will restrict our use of your personal information according to the opt-out that you have chosen, but we may retain your personal data as described in this Privacy Policy (for further information please see How long do we keep your personal information for? ):
+Using the toggle buttons in this Privacy Policy.
+Use the toggle buttons below to opt-out of our use of your personal information for the purposes described in Part I of this Privacy Policy.
+Note that if you choose to opt-out of our use of your personal information for the purposes of email and SMS marketing and other communications sent by Clients using Ve Services, you may still receive marketing communications from our Clients (subject to the choices that you make with each of those Clients), but these communications will not then be personalised or sent by Ve. You may also need to contact Clients if you wish to opt-out of other communications made by them or on their behalf.
+Where possible, we will try automatically to link identifiers used in relation to other devices and browsers that you use. However, this may not be possible and you may need manually to opt-out of our use of your personal information on a ‘device-by-device’ basis.
+Show more information
+Do NOT use personal information about me collected by Ve for the purposes of:
+Deleting cookies on your device or browser.
+We rely on cookies and other online identifiers to collect and use your personal information. You can delete cookies from your devices and browsers to prevent us from collecting data about you and identifying you.
+If you opt-out of our use of your personal information using this method, we would still use personal data that we hold and collect about you from other devices and/or browsers, unless you also delete the cookies from all of the other devices and/or browsers that you use. Accordingly, you may wish to opt-out of the relevant use by using the other toggle buttons above.
+Show more information
+Using Safari’s ‘Limit Ad Tracking’ function.
+If you are using Safari browser version 11.2 or above, you can prevent us from using your personal data for the purposes of displaying relevant and interest-based advertising to you by toggling the “Limit Ad Tracking” setting on your device or computer.
+On an iPhone, this is typically located under Settings>Privacy>Advertising.
+On a computer, this is typically under Safari>Preferences>Privacy.
+Show more information
+Using the IAB Europe’s opt-out.
+You can opt out of our use of your personal information for the purposes of displaying relevant and interest-based advertising to you by visiting http://www.youronlinechoices.com/uk/your-ad-choices . Find VE in the list of online behavioural advertising companies and select ‘off’.
+Show more information
+Native apps – Apple/iOS and Android.
+If you have an Apple device, you can opt out of targeted advertising services by updating to iOS 6.0 or higher and setting Limit Ad Tracking to ‘ON’. You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’. Our systems are designed to respect your choice and not use information to provide targeted advertising when this setting is ON. Again, you should consult Apple’s support web pages and instructions for the most current applicable settings.
+If you have an Android device, you can opt out of targeted advertising services by navigating to your device’s main settings menu and selecting "Google." From there, choose the "Ads" option and select "Opt out of Ads Personalization" to disable targeted advertising services.
+Show more information
+Within the Ve Group.
+We may share your personal information with any member of our group, which means Ve Global UK Limited’s subsidiaries, and its ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. A list of our group companies is available here .
+The use of your personal information is governed by an intra-group agreement which, in relation to transfers of personal information from the EEA to a non-EEA jurisdiction, incorporates EU approved model clauses.
+Show more information
+With Microsoft Azure.
+VE stores data in Microsoft Azure data centres in Europe, the US, Singapore and Russia. The transfer of personal data to Microsoft Azure data centres that are located outside the EEA is governed by a contract incorporating EU Model Clauses.
+Show more information
+With other third party suppliers and partners.
+Where we have explained that personal information is shared with a third party supplier, some of those third party suppliers may be located outside of the jurisdiction where the personal information was collected, or they may transfer personal information to jurisdictions which are outside of the jurisdiction where the personal information was collected.
+In some cases, the data protection laws of these other jurisdictions may not be as comprehensive as those of the jurisdiction in which the personal information was collected.
+Where this is the case, Ve will take appropriate steps to ensure that your personal information is treated securely and in accordance with this Privacy Policy and all applicable laws. This may include ensuring that there is a lawful basis for transferring personal information outside the EEA.
+Show more information
+How to access your information and your other rights
+In addition to your right to opt-out of our use of your personal information in respect of Services which we provide in relation to Client Sites (please see How to opt-out of our use of your personal information ), you have the following rights in relation to the personal information we hold about you:
+Your right of access.
+If you ask us, we’ll confirm whether we’re processing your personal information and, if so, provide you with a copy of that personal information (along with certain other details). If you require additional copies, we may need to charge a reasonable fee.
+Show more information
+Your right to rectification.
+If the personal information we hold about you is inaccurate or incomplete, you’re entitled to have it rectified. If we’ve shared your personal information with others, we’ll let them know about the rectification where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly.
+Show more information
+Your right to erasure.
+You can ask us to delete or remove your personal information in some circumstances such as where we no longer need it or if you withdraw your consent (where applicable). If we’ve shared your personal information with others, we’ll let them know about the erasure where possible. If you ask us, where it is possible and lawful for us to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly.
+Show more information
+Your right to restrict processing.
+You can ask us to ‘block’ or suppress the processing of your personal information in certain circumstances such as where you contest the accuracy of that personal information or you object to us processing it. It won’t stop us from storing your personal information though. We’ll tell you before we lift any restriction. If we’ve shared your personal information with others, we’ll let them know about the restriction where it is possible for us to do so. If you ask us, where it is possible and lawful for us to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly.
+Show more information
+Your right to data portability.
+With effect from 25 May 2018, you have the right, in certain circumstances, to obtain personal information you’ve provided us with (in a structured, commonly used and machine readable format) and to reuse it elsewhere or to ask us to transfer this to a third party of your choice.
+Show more information
+Your right to object.
+You can ask us to stop processing your personal information, and we will do so, if we are:
+relying on our own or someone else’s legitimate interests to process your personal information, except if we can demonstrate compelling legal grounds for the processing; or
+processing your personal information for direct marketing.
+Show more information
+Your rights in relation to automated decision-making and profiling.
+You have the right not to be subject to a decision when it’s based on automatic processing, including profiling, if it produces a legal effect or similarly significantly affects you, unless such profiling is necessary for entering into, or the performance of, a contract between you and us.
+Show more information
+Your right to withdraw consent.
+If we rely on your consent (or explicit consent) as our legal basis for processing your personal information, you have the right to withdraw that consent at any time.
+Show more information
+Your right to lodge a complaint with the supervisory authority.
+If you have a concern about any aspect of our privacy practices, including the way we’ve handled your personal information, you can report it to the UK Information Commissioner’s Office (ICO). You can find details about how to do this on the ICO website at https://ico.org.uk/concerns/ or by calling their helpline on 0303 123 1113.
+Show more information
+How do we obtain your consent?
+Where our use of your personal information requires your consent, you can provide such consent:
+at the time we collect your personal information following the instructions provided; or
+by informing us by e-mail, post or phone using the contact details set out in this Privacy Policy.
+Third Party Links and Services
+Our Site contains links to third party websites and services. When you use a link to go from Our Site to another website or you request a service from a third party, this Privacy Policy no longer applies (except where the third party website is a Client Site, in which case Part I of this Privacy Policy applies).
+Your browsing and interaction on any other websites, or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies.
+We do not monitor, control, or endorse the privacy practices of any third parties.
+We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices.
+Show more information
+How long do we keep your personal information for?
+In relation to personal information that we obtain in relation to your use of Client Sites, as described in Part I of this Privacy Policy.
+We retain your Contact Details, Behavioural Data relating to you and Profile Data (for further information see Part I of this Privacy Policy - What personal information do we collect and how do we collect it? ) for a period of three years from the date of expiry of the cookie that is associated with the collection of your personal information.
+Please see our Cookie Policy , which explains when cookies that we use on Client Sites are set to expire.
+Show more information
+In relation to personal information that we obtain from Clients and other visitors to Our Site, as described in Part II of this Privacy Policy.
+Generally, we do not keep your personal information for longer than is necessary for the purposes for which it was collected.
+Unless we have a legal obligation to retain your personal information for a longer period:
+we retain personal information collected in respect of visits to Our Site (for further information see Part II of this Privacy Policy - What personal information do we collect and how do we collect it? ) for a period of three years from the date of expiry of the cookie that is associated with the collection of your personal information. Please see our Cookie Policy , which explains when cookies which we use on Client Sites are set to expire.
+we retain personal information relevant to our contractual relationship with a Client for the provision of our Services for six years from the date of supply of our Services and in compliance with our obligations under the EU General Data Protection Regulation (or similar legislation around the world). We may then destroy such files without further notice or liability.
+If any personal information is only useful for a short period (e.g. for a specific marketing campaign), we may delete it at the end of that period.
+If you have opted out of receiving marketing communications from us, we will need to retain certain personal information indefinitely so we do not send you marketing communications again.
+Show more information
+Confidentiality and security of your personal information
+We are committed to keeping secure the personal information that you provide to us and we will take reasonable precautions to protect your personal information from loss, misuse or alteration.
+We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from:
+unauthorised access;
+unlawful destruction or accidental loss.
+All of our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above), who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of the personal information of all persons who use our Services.
+Show more information
+Industry memberships and affiliations
+Ve is a member of the European Digital Advertising Alliance (“EDAA”) and is in compliance the EDAA’s Self- Regulatory Principles .
+Changes to this Privacy Policy
+We may make changes to this Privacy Policy from time to time.
+To ensure that you are always aware of how we use your personal information we will update this Privacy Policy from time to time to reflect any changes to our use of your personal information. We may also make changes as required to comply with changes in applicable law or regulatory requirements. We will notify you by e-mail of any significant changes. However, we encourage you to review this Privacy Policy periodically to be informed of how we use your personal information.
+Show more information
+To receive marketing communications about our products, including exclusive insights & stats by email, enter your details to sign up.
+©2018 Ve Global UK Limited - all rights reserved.

@@ -1,0 +1,33 @@
+This is a privacy policy for https://www.ArkNet.ar.gov/
+The Arkansas Department of Workforce Services wants you to feel confident in the knowledge that your privacy is respected.   The privacy of information collected about you and your employment status by this agency is governed by federal and state laws and regulations.
+Arkansas Act 1713 of 2003 requires state and local governments to incorporate machine readable privacy policies into their websites. Internet browsing software has allowed individuals to set their ‘privacy preferences’ for some time now. These privacy preferences are automatically compared against the machine-readable privacy policies of the visited Web sites. Although the Arkansas Department of Workforce Services has always respected your privacy, in conformance to Act, 1713, this agency now incorporates a machine-readable privacy policy into their websites.
+The ArkNet Web site is hosted by Information Network of Arkansas (INA), which supplies us with statistical reports. The following link is to the INA stats-only policy: http://www.arkansas.gov/w3c/webstatsonlypolicy.html
+Contact Information:
+Arkansas Department of Workforce Services
+P.O. Box 2981
+Email: adws.help.desk@arkansas.gov
+Phone: 501-682-3166
+Dispute Resolution:
+A representative of the Arkansas Department of Workforce Services will handle disputes. All errors will be promptly addressed and corrected by such representative.
+Data Collection:
+When visiting Web sites, certain information about you and your computer can sometimes be collected. This section explains what information the Arkansas Department of Workforce Service collects, and how it is used.
+We collect the following information on this site:
+Social Security Number
+Date of Birth
+Wage Information, such as wages paid and date of last employment
+We collect the following information for the following reasons
+Web Site and System Administration
+Completion and Support of Current Activity
+Individual Decision
+Historical Preservation as required by Federal and State Laws and Regulations
+The information collected is similar to the information a person might provide when visiting a local office of the Arkansas Department of Workforce  Services either in person or by telephone. The information collected is subject to the same controls and uses as that collected by any local office  of the Arkansas Department of Workforce Services. The information is collected is used for one or more of the following reasons:
+Determining the level of services and/or benefits available to the requestor.
+Investigating and arbitrating a dispute regarding such services and/or benefits.
+Investigating for prosecution fraudulent activity relating to the procurement of such services and/or benefits.
+Information we receive from claimants and employers is governmentally privileged, pursuant to Arkansas Code Annotation § 11-10-314. It is not subject to disclosure under the Freedom of Information Act. Disclosure of collected information can only be disclosed as allowed by the referenced statute. No marketing databases are created nor is any commercial use made of any information collected by this agency.
+Cookies
+Cookies are a technology, which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept cookie. To process any online data collection activity on this Web site, you must accept the non- persistent cookies.
+Security
+There have been steps taken to safeguard the integrity of ArkNet web site data and prevent unauthorized access to information displayed on the ArkNet web site. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provides via the ArkNet Web site.
+Disclaimer
+This is a Department of Workforce Services (DWS) system. As such, it is restricted to being used only in the context of the official business of this agency. It is subject to being monitored at any time. Anyone using this system expressly consents to such monitoring and to any evidence of unauthorized access, use, or modification being used for criminal prosecution.

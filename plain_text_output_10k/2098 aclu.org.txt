@@ -1,0 +1,23 @@
+By Allie Bohm, Advocacy & Policy Strategist, ACLU
+January 25, 2012 | 2:41 PM
+Tags
+Google is following you.  
+Yesterday evening, Google announced a new privacy policy effective March 1. The new policy is consistent across the vast majority of Google products, and it’s in English; you don’t have to speak legalese to understand it. But, the new privacy policy makes clear that Google will, for the first time, combine the personal data you share with any one of its products or sites across almost all of its products and sites (everything but Google Chrome , Google Books , and Google Wallet ) in order to obtain a more comprehensive picture of you. And there’s no opting out.  
+This comes on the heels of Google’s new Search, plus Your World , a feature combining search results from the public web with private information and photos you have shared (or that have been shared with you) through Google+ or Picasa. See? I told you Google is following you. 
+So, what does Google’s new policy mean for you? Anytime you’re signed into your Google account, whether on a computer, tablet, or Android phone, Google collects information about you – that’s not new. But, come March, what you do on one Google-owned site will affect what content you might see on another Google-owned site. The head of Google’s privacy for product and engineering explained on Google’s blog that integrating an individual’s profiles across Google’s sites will help Google “figure[e] out what you really mean when you type in Apple, Jaguar or Pink,” provide more relevant ads, “provide reminders that you’re going to be late for a meeting based on your location, your calendar and an understanding of what the traffic is like that day” (thanks, Mom), and “ensure that our spelling suggestions, even for your friends’ names, are accurate.”  
+And while it’s easy to see some of the benefits of the new policy, it’s important to keep in mind the other implications of the changes. For example, have you ever Googled something you didn’t want to tell your parents/spouse/friends/doctor about? Have you ever had a personal conversation over e-mail that you didn’t want broadcast to the world? With this new integration, your e-mail content won’t influence only what ads you see in Gmail, and your search terms won’t influence just what ads you see when you’re searching. As of March 1, your e-mail content and search terms could influence ads you see on any Google site. So, imagine watching a YouTube video with friends or family and suddenly having an ad based on what you assumed was a private e-mail conversation or a personal Google search appear. Yikes! And short of signing out of your Google account, there is no opting out.
+What’s more, this data aggregation is not just about what ads you see, but as ACLU of Massachusetts describes , it creates an even larger treasure chest of personal information ripe for government picking. 
+And what about anonymity?  Google is planning to “replace past names associated with your Google Account so that you are represented consistently across all our services.” But, what if you deliberately keep different names on your various accounts? What if, for instance, you want your e-mail address associated with your legal name, but would prefer for your YouTube account not to tie directly to you? Unfortunately, Google’s new integration policy will make it very difficult, if not impossible, to do so. 
+In the News:
+Anonymous
+January 25, 2012
+Anonymous
+Or just don't log in or use google...I don't. SUPRISE, I still live.....!
+January 25, 2012
+Anonymous
+I will no longer use ANY products that is related to Google due to their arrogant new so called privacy policy!!!!!!!!!
+January 27, 2012
+And this is supposed to make my life better how?
+January 29, 2012
+September 11, 2018
+August 14, 2018

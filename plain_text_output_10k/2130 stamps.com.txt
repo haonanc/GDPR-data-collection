@@ -1,0 +1,64 @@
+Privacy policy
+Your privacy is important to us, so the goal of this policy is to be transparent and clear about information that our service collects, uses, and shares.
+It explains your rights with regards to that information and fully according to GDPR. It also explains how to access and update your information, and how you can object to its use.
+ 
+What data we collect and how we use it
+Our service collects the following data about you when you use our services:
+your exact text search requests for Search by Text function
+your uploaded photo for Search by Photo function
+exact time and date of every text or photo search
+your IP-address during the search
+your registered email, password and payment history (for registered users only)
+We use this information to verify if the service recognizes your stamps correctly or if the stamps are not in the databases and should be added there, to correctly identify you, communicate with you, and provide you with customer support. We also use this contact information for accounting and administrative purposes, for transactional emails including service and billing notifications.
+Customers that purchase a paid subscription provide our payment processor with billing details such as credit or debit card information, banking information, and billing addresses. When you purchase a subscription, we receive only partial information your email and transaction details, and FindYourStampsValue.com doesn’t store cardholder information on our servers.
+ 
+We do not store any information about your device
+ 
+Support information
+When you reach out to FindYourStampsValue.com, you will contact us through either through the third-party email service or payment processor. The information you provide to our team, including any images your attach, is saved as part of your support history.
+ 
+FindYourStampsValue.com and our third-party advertising and analytics partners use cookies and similar technologies for tracking across different devices, websites and online services.
+ 
+Social media links 
+ 
+Legal compliance and fraud prevention
+ 
+We do not sell your data
+ 
+Third party service providers
+ 
+Data security
+FindYourStampsValue.com takes data security seriously and implements the industry’s best practices and policies. We take all reasonable measures to protect your information, and to prevent any kind of unauthorized access, misuse, loss, or disclosure.
+ 
+Data Retention
+ 
+International Data Transfers
+ 
+Your data rights and choices
+The following is a summary of choices you can make to exercise your data rights:
+You have the right to request cancelling any promotional communication using the link at the bottom of the message. You can also contact our customer support to have be removed from our promotional contact list. Please note that, even if you cancel promotional communications, you will continue to receive non-promotional, transactional messages regarding your account.
+You have the right to access and edit your profile and billing information at any time. To update your information, log in to your FindYourStampsValue.com account and or payment processor account. If you require assistance, please contact us.
+Right to be forgotten
+You have the right to be forgotten which means that, at any time, you can request that FindYourStampsValue.com permanently delete all data records and logs, emails or text and photo search requests, payment all the other information. In these cases we will need to retain partial information to fulfil our responsibilities before the payment processor.
+Access under 16 years of age
+Our services are not directed at children. Furthermore, we do not knowingly collect personal information from individuals under 16 years of age, unless consent is given or authorised by the holder of parental responsibility over the child. If we become aware that someone under 16 has provided us with personal details, we will take steps to delete such information. If you become aware that a child has unlawfully or unwittingly provided us with personal data, please contact us through the contact form.
+Request to stop using your information
+Even if you have previously consented to our Terms of Service and Privacy Policy, you have the right, at any time, to change your mind and object to the collection, use, and processing of your personal information. Additionally, you are under no contractual obligation to continue to provide any information to FindYourStampsValue.com. However, we require certain information in order to provide you with our services. Therefore, if you disagree with the terms of this Privacy Policy or our Terms of Service, you should stop using FindYourStampsValue.com, and contact us so that we may delete your information.
+Contacting FindYourStampsValue.com
+ 
+How to search
+Proceed to search
+Crop your image
+Reset your password
+text search by photo or scan
+To find the value of your stamp please enter a brief description such as the scene or the words represented on your stamp, denomination and color (use only simple colors) of your stamp.
+To make more close match please add more details of your stamp in request.
+If you prefer to get more results with less accuracy please use less words to describe the stamp – sometimes it could be better way to find what you need.
+Let's say you have a stamp like this:
+To optimise the results of your search and to make it more precise, we recommend narrowing its criteria. For instance, instead of flag 34c searching for flag 34c USA united we stand 2001 will help you to find the desirable stamp quicker.
+Low focused request:
+Shoot the stamp strictly vertical
+Do not use flash and avoid bright light spots
+Do not shoot multiple different stamps at once (unless it`s a special stamp block – see Stamp Wiki for details)
+Try to cut your stamp as smooth as possible before uploading it
+We use cookies to personalize our content and to improve your user experience. You consent to our cookies if you continue using our website. For more information please see our Cookie Policy

@@ -1,0 +1,60 @@
+Safe:  Do-It-Yourself Pest Control Inc. / Propest Products provides a safe and secure shopping environment for our customers. Transactions are performed electronically without sales draft making your purchase safer.
+Secure:  We use the latest in encryption technology, SSL (Secure Sockets Layer) . TLS encrypts your credit card number by transforming the data into an unreadable format. Only an authorized processor can convert this information to complete the transaction. Being on a Secure Site means you are connected under SSL security. You are on a Secure Site if you see a padlock or key somewhere along the bottom of your browser's window. If the lock is closed or if the key is unbroken, you are dealing with a Secure Site. It is Do-It-Yourself Pest Control's policy to allow our visitors to provide personal information in the highest level of security available. All personal information collected is used to facilitate your ordering process. 
+As a Do-It-Yourself Pest Control visitor you have the right to:
+1.  Know how information we collect is used;
+    
+When registering on the Do-It-Yourself Pest Control site, users can store a shipping address, billing address, and purchase history. Do-It-Yourself Pest Control operates secure data networks protected by industry-standard firewall and password protection systems.  Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission.
+To correct any inaccurate information, users should direct the corrected information to info@doyourownpestcontrol.com
+Your financial information is not stored on our server.
+Payments and transaction activity always take place on a secure server , using the latest in encryption technology.
+We do not share your physical address, phone number, or email address with any third parties.
+ 
+Information You Provide to Us:
+We collect information you provide to us directly when you use our services.
+Transactional information:
+When you purchase products services from Do-It-Yourself Pest Control we collect your name, address, email address, phone number, and information about the product you purchase.
+Log and usage data:
+ 
+Analytics Partners:
+We use analytics ( Google Analytics ) to analyze traffic for our website. We may use analytics partners to measure the number of unique visitors to our site, in the aggregate.
+Controlling Analytics Data Collection:
+You can manage the use and collection of certain information by Google Analytics.
+Contact Info:
+ 
+List of cookies we collect
+The table below lists the cookies we collect and what information they store.
+COOKIE name
+COOKIE Description
+CATEGORY_INFO
+Stores the category info on the page, that allows to display pages more quickly.
+COMPARE
+The items that you have in the Compare Products list.
+CURRENCY
+An encrypted version of your customer id with the store.
+CUSTOMER_AUTH
+An indicator if you are currently logged into the store.
+CUSTOMER_INFO
+An encrypted version of the customer group you belong to.
+CUSTOMER_SEGMENT_IDS
+EXTERNAL_NO_CACHE
+A flag, which indicates whether caching is disabled or not.
+FRONTEND
+GUEST-VIEW
+LAST_CATEGORY
+LAST_PRODUCT
+NEWMESSAGE
+NO_CACHE
+PERSISTENT_SHOPPING_CART
+A link to information about your cart and viewing history if you have asked the site.
+POLL
+The ID of any polls you have recently voted in.
+POLLN
+RECENTLYCOMPARED
+STF
+STORE
+USER_ALLOWED_SAVE_COOKIE
+VIEWED_PRODUCT_IDS
+WISHLIST
+WISHLIST_CNT
+Newsletter
+Subscribe

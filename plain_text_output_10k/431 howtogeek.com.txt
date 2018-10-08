@@ -1,0 +1,24 @@
+The Best Tech Newsletter Anywhere
+Join 250,000 subscribers and get a daily digest of news, geek trivia, and our feature articles.
+September 26th, 2016
+Group Policy is a Windows feature that contains a variety of advanced settings, particularly for network administrators. However, local Group Policy can also be used to adjust settings on a single computer.
+Group Policy isn’t designed for home users, so it’s only available on Professional, Ultimate, and Enterprise versions of Windows.
+Centralized Group Policy
+If you’re using a Windows computer in an Active Directory environment, Group Policy settings can be defined on the domain controller. Network administrators have one place where they can configure a variety of Windows settings for every computer on the network. These settings can also be enforced, so users can’t change them. For example, using group policy, a network administrator can block access to certain sections of the Windows control panel, or set a specific website as the home page for every computer on the network.
+This can be useful for locking down computers, restricting access to specific folders, control panel applets, and applications. It can also be used to change a variety of Windows settings, including ones that can’t be changed from the control panel or require registry tweaks to change.
+Many Group Policy settings actually change registry values in the background – in fact, you can see which registry value a group policy setting changes . However, Group Policy provides a more user-friendly interface and the ability to enforce these settings.
+Local Group Policy
+Group Policy isn’t only useful for networks of computers in businesses or schools, however. If you’re using a Professional version of Windows, you can use the local Group Policy Editor to change Group Policy settings on your computer.
+Using Group Policy, you can tweak some Windows settings that aren’t normally available from the graphical interface. For example, if you want to set a custom login screen in Windows 7 , you can either use the Registry Editor or the Group Policy Editor – it’s easier to change this setting in the Group Policy Editor. You can also tweak other areas of Windows 7 with the Group Policy Editor — for example, you can hide the notification area (also known as the system tray) entirely .
+The local Group Policy Editor can also be used to lock down a computer, just as you’d lock down a computer on an enterprise network. This can be useful if you have children using your computer. For example, you can allow users to run only specific programs , restrict access to specific drives , or enforce user account password requirements , including setting a minimum length for passwords on the computer.
+Using Local Group Policy
+To access the local Group Policy Editor on your Windows computer (assuming you’re using a Professional edition of Windows or better, not a Home version), open the Start menu, type gpedit.msc, and press Enter.
+If you don’t see the gpedit.msc application, you’re using a Home edition of Windows.
+You probably shouldn’t dig through the Group Policy Editor and look for settings to change, but if you see an article on the web recommending you change a Group Policy setting to achieve a specific goal, this is where you can do it.
+Group Policy settings are broken up into two sections – the Computer Configuration section controls computer-specific settings, while the User Configuration section controls user-specific settings.
+For example, Internet Explorer settings are located under Administrative Templates\Windows Components\Internet Explorer
+You can change a setting by double-clicking it, selecting a new option, and clicking OK.
+This is just scratching the surface of what you can do with Group Policy – we’ve also covered enabling auditing from the Group Policy editor to see who logged into your computer and when .
+You should now have a better understanding of Group Policy, what you can do with it, and how it differs from the registry editor, which isn’t designed for easy editing of settings by hand.
+FOLLOW US
+The Best Tech Newsletter Anywhere

@@ -1,0 +1,66 @@
+Privacy Policy
+This policy applies to your use of the DIRECTV NOW app, provided by DIRECTV ("we"), which can be accessed through an app on a mobile device, Smart TV, through a web browser or on any device connected to the internet (“app”). The AT&T Privacy Policy does not apply to this app unless we combine your data collected through this app with other data we collect from your use of other AT&T products and services. By agreeing when you download, register, or access this app online or on each device on which your account is used, you opt-in and agree to the following collection and uses of data, and to the End User License Agreement. You are responsible for making sure all users of this app on your account agree to this Policy. It is important that you share this Policy with all account users and communicate the account holder’s choices to them.
+By creating an account, you agree to receive promotional emails regarding DIRECTV NOW. To unsubscribe from emails relating to DIRECTV NOW, click here . Your decision regarding whether you want to receive DIRECTV NOW promotional emails is separate from your decision regarding promotional emails for other AT&T products and services. You can find your choices and controls over promotional emails for other AT&T products and services here .
+When and what information is collected?
+We collect information about you from:
+Your use of the app on your phone, tablet, computer, smart television or any other device. This includes things like
+what videos, stations, or programs you watch
+where you’re located
+Your account. This includes things like:
+information you provide us through the registration process
+log-in credentials
+email address
+billing address
+demographic information  (e.g., through registration)
+subscription plans for AT&T and/or DIRECTV accounts linked to the app
+The devices on which you use the app. This includes things like:
+device type and operating system
+connection type
+location
+unique identifiers associated with the devices
+Your use of the app on a computer. When you use this service through the website associated with this app we may collect things like:
+information about your computer, like its operating system and IP address
+information from cookies and other similar technologies including flash cookies, web beacons, widgets, server logs, or third party plug-ins
+Third parties, including things like:
+demographic and other data from publicly available sources.
+Do Not Track - We don’t respond to do not track signals. For more information on Do Not Track, please visit www.allaboutdnt.com .
+How might we use your information?
+We may use the information we collect through your use of this app to provide and improve the service; to tailor your experience including things like providing you with local stations; to make recommendations; to help fulfill advertising and marketing offers in and outside the app, provide or improve service, conduct analytics, and to help us and third parties serve you with advertisements or marketing materials outside the app. For more information on how your information is used for marketing purposes, see the section below titled Do we share your information and, if so, with whom?.
+In addition, we use location information ("Your Location Information"), for example, to provide access to local programming. Without Your Location Information, we may not be able to provide access to certain services and features, including live local channels or other content with geographic restrictions. If you disable location tracking on your device, you acknowledge and agree this app may use your public IP address to determine your general location for purposes of delivering the channel guide.
+Do we share your information and, if so, with whom?
+By registering to use the DIRECTV NOW app, you grant us consent and agree to let us share your information, including information collected from your device as described in this policy. To see choices and controls about the use and sharing of your information, see the section titled “What choices and controls do I have over the use of my data?” below.
+We may share information collected through the app, as described in this policy, with other companies within the AT&T family of companies and vendors to help fulfill marketing offers, provide or improve service, conduct analytics, or serve you with advertisements or marketing materials in and outside the app.
+We also may share with third parties your general interests (e.g., sports lover) and other information collected about you as described in this Policy. When we do so, we use identifiers such as device or operating system identifiers. This could include but is not limited to your Apple or Android advertising ID (which are commonly used by many other apps for their own advertising purposes).
+We share this information to help fulfill marketing offers, provide or improve service, conduct analytics, and to help us and third parties serve you with advertisements or marketing materials outside the app.
+When we say “third parties,” we mean advertisers, content providers (companies that create or distribute video programming or content), social media networks, analytics firms (companies that measure and analyze consumer behavior in the app, including what users watch) and ad networks (companies that deliver and track ads for multiple advertisers across numerous websites).
+To see choices and controls about the use and sharing of your information, see the section below titled What choices and controls do I have over the use of my data?
+Your information may be used in aggregate and anonymous reports that won’t identify you personally, such as a report on how many people watched a certain television show or reports we may sell to other companies for their own marketing, advertising, or other similar uses.
+We may also share information to:
+Respond to 911 requests and other emergencies or exigencies;
+Comply with court orders and other legal process;
+Assist with identity verification, and preventing fraud and identity theft;
+Enforce our agreements and property rights; and
+Obtain payment for products and services including the transfer or sale of delinquent accounts to third parties for collection
+How will DIRECTV NOW customer data be treated if you also have products and services from AT&T?
+We may combine your information from the app with other data collected from your use of other AT&T products and services. If we do so, this combined data will be governed by the AT&T Privacy Policy and the Choices and Controls. Those choices and controls do not apply, however, to data derived only from the app.
+What safeguards do you have in place to protect my information?
+We work hard to protect your information. And we've established electronic and administrative safeguards designed to help make the information we collect secure.
+In the event of a security breach, laws and regulations guide us in how to give you notification when certain types of sensitive information are involved. We will provide you with notice in accordance with these laws and regulations.
+We will keep your personally identifiable information as long as you are a DIRECTV NOW user, or until it is no longer needed for business, tax or legal purposes.
+Do you collect information about my children's use?
+We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
+What choices and controls do I have over the use of my data?
+You have some choices and controls over how your data is collected and used when you use this app.
+You can revoke consent for AT&T to collect and share your app information at any time, by un-installing the app from your device(s).
+You can choose not to receive some types of advertising through this app.
+Opt-out of Online Behavioral Advertising provided by AT&T and other advertisers on your computer by clicking the " Advertising Choices " link at the bottom of our web pages.
+When you see online ads for AT&T products and services that display this icon
+, click and you will get information on how to opt-out.
+To limit collection of data on web sites that may be used for advertising, go here for information on how to manage cookies and other similar technologies on your computer.
+Your information may still, however, be used in aggregate reports.
+For rights, choices and controls you may have regarding use of your information from other AT&T products and services please see www.att.com/privacy
+What happens if there is a change in corporate ownership or to this policy?
+Information about our customers and users, including personally identifiable information, may be shared and transferred as part of any merger, acquisition, sale of company assets or transition of service to another provider. This also applies in the unlikely event of an insolvency, bankruptcy or receivership in which customer and user records would be transferred to another entity as a result of such a proceeding.
+We may update this Privacy Policy as necessary to reflect changes we make and to satisfy legal requirements. We will post a prominent notice of material changes on our website and the most recent version of the Privacy Policy will be made available through the app. We will provide you with other appropriate notice of important changes at least 30 days before the effective date.
+Your California Privacy Rights
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed personal information to any third parties for their direct marketing purposes. As stated in this policy, by using our app you agree to the sharing of your information with other companies to use for their own marketing purposes. If you don’t want us to share with third parties your information collected through our app, you must un-install the app from your device(s).

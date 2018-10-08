@@ -1,0 +1,31 @@
+Last Updated May 24, 2018
+This privacy policy describes the information practices of the suite of Brave browsers made available by Brave Software, Inc, a US corporation. In this policy “we”, “us”, etc. refers to Brave Software Inc, while “Brave” refers to the browser. This privacy policy only describes the Brave browsers, not our website or other products.
+The privacy policy for the brave.com website including the community forum is at: https://brave.com/website-privacy
+The policy for the BAT Publishers service is at: https://basicattentiontoken.org/publisher-privacy
+We want to make sure your private information stays private. We know that the best way to ensure your information stays safe is to ensure that we never receive it in the first place. We don’t want to know who you are, what sites you visit, or other sensitive information, and we don’t seek out information about you from other sources. We are not in the business of selling or sharing personal information.
+We work hard to ensure that we only ever receive the minimum amount of information needed to support the features you’re using. We meticulously protect all the information that we receive.
+Technical Infrastructure
+Various components in Brave make connections to our online infrastructure. We create temporary server logs whenever we receive these connections. These logs include your IP address and a brief summary of the action performed — such as checking for an update. We keep these logs for up to a year and use them to ensure the smooth operation of our online infrastructure.
+As well as our own, Brave uses technical infrastructure operated on our behalf by Amazon, Heroku (a Salesforce company), and Fastly. Fastly’s infrastructure is designed to be as close to you as possible — probably in the same country as you, though this is not guaranteed. The rest of this infrastructure is located in the United States, which is where information is processed and stored.
+Brave Browser
+You have no obligation to use Brave. When using Brave, you can choose which features to use. At any time you are free to stop using Brave or to stop using specific Brave features. Brave ships with optional features like Sync and Payments. When you turn on these features, we receive and store additional information, as described below.
+Defaults: Security & Updates
+Brave automatically checks with us for updates. This ensures that you always have access to the latest security fixes. We count the number and type of these requests when we receive them to produce aggregate statistics. No particular person’s information can be identified in the statistics we produce.
+Brave also automatically checks to see whether we are currently offering tokens to Brave users. This request includes the identifier of your unique payments wallet. You can disable this in Preferences or Settings .
+Sync
+Brave Sync can be enabled to store and synchronize encrypted settings, bookmarks, history, and related data. An encrypted copy of this information is sent to Brave, but we do not have the keys to decrypt the data.
+Payments
+When you use Payments, Brave connects to our payments server. These interactions always include an unique identifier for your wallet. We sometimes collect IP addresses of these connections beyond our ordinary server logging. We use these records to help identify and prevent fraud, and to maintain and improve the performance of Brave Payments. Our fraud-prevention work is sometimes supported by automated decision-making and supplementary information we obtain from other sources about the reputation of IP addresses and ranges.
+Even with Brave Payments enabled, we never collect your browsing history or similar information, and we can’t derive this information from your contributions to content creators and sites. Instead, we aggregate contributions among all Brave users, and we cannot trace contributions to individual users, or link any of your contributions together.
+Crash Reports
+When Brave crashes, it creates a report that can be sent to us to help us fix whatever caused the problem. This report contains technical information about your computer system which is typically distinctive. You can choose whether to send us these reports. Even if you have chosen to send reports in the past, you can turn off future reports in Preferences or Settings.
+Testing
+From time to time, we may make pre-release or experimental builds available that have different privacy characteristics than those of released Brave products. These experimental builds will come with a description of any changes from this policy.
+Privacy Policy Changes
+When we add features to Brave, we work hard to ensure that their privacy implications are clear before you turn them on. Whenever we make a material change to the information collected through Brave or how we use it we’ll update this policy. When this policy changes, we’ll announce it to let you know. We hope you’ll find any changes agreeable, but if you’re not comfortable with changes to the info we collect or how we use it, we understand your choice to stop using Brave.
+Contact
+ 
+The new Brave browser blocks the ads and trackers that slow you down, chew up your bandwidth, and invade your privacy. Brave even lets you contribute to your favorite creators automatically.
+Additional Links
+San Francisco, CA 94107
+© 2018 Brave Software Inc. 

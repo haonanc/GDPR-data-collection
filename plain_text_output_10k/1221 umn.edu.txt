@@ -1,0 +1,88 @@
+ADMINISTRATIVE POLICY
+Responsible University Officer(s):
+Policy Owner(s):
+Policy contact(s):
+POLICY STATEMENT
+The University respects the privacy of website visitors to the extent permitted by law. University websites must include a privacy statement that notifies visitors of the information that the site collects. This applies to any website operated on the University network or by a University unit or using University resources, whether or not it is accessed through a umn.edu address.
+University websites include those that:
+collect online information from visitors, or
+track user actions, or
+represent a University unit.
+Units and individuals responsible for websites must either select the standard privacy statement included within this policy, or develop a customized privacy statement. Units who create customized privacy statements must include the following disclosures. (see Appendix: Language for Customized Privacy Statements). :
+Informs visitors about information collected, its intended use, and options for using the site without providing such information.
+Specifies that laws governing the collection of online information are followed.
+Notifies visitors of their options concerning accessing information collected.
+Appropriate security measures are followed for any personally identifiable information collected.
+Units must ensure that each page of the website must display a link to a privacy statement, or display the statement itself.
+Special Situations
+The Institutional Review Board (IRB) is responsible for reviewing sites conducting web-based research. The IRB develops its own guidelines for the use of websites in research and applies those guidelines to research projects requiring IRB review.
+REASON FOR POLICY
+This policy requires University websites to inform visitors about how their website collects, uses and protects information voluntarily provided by the visitor and information collected by the website. This policy complies with the Minnesota Government Data Practices Act - Minn. Stat. 13.01 et seq., which governs the notification of public and private information collected by public organizations.
+PROCEDURES
+APPENDICES
+FREQUENTLY ASKED QUESTIONS
+For commercial reasons, our unit operates a website with a .com address. Is this site subject to this policy?
+Yes. These sites typically require a custom privacy statement.
+Does this policy apply to websites that are limited to only internal University use?
+It applies to any website that meets any of the  criteria described in the policy statement.
+CONTACTS
+Subject
+Contact
+Phone
+Email
+Cookies
+Data that a website transfers to an individual's browser where they are stored and later returned to the site upon request. They allow sites to identify visitors within and across visits, to track usage patterns, and to more easily compile data on transactional information for individuals visiting websites.
+Identification
+Any means of identifying an individual, manual or automated. A process that enables recognition of an entity by an automated information system is usually accomplished through the use of unique machine-readable user names.
+Online Information Collected From Visitors
+Any data typed into a web page by a visitor and collected and stored by the website. For example the web page may have prompts for this information such as "enter your name" or input boxes. This definition does not include routine email links to send comments for site improvement to the website operator/administrator.
+Personally Identifiable
+Data or information that include (1) the name of the person or other family members; (2) the person's address; (3) a personal identifier such as a Social Security number, student ID number, email address, telephone number, or other user number; (4) a list of personal characteristics, or (5) other information that would make the person's identity easily traceable.
+Routine Website Statistics
+Non-personal information about the Internet connection to the website (e.g., date and time of visit, internet address of the referring site, domain name and IP address, browser and operating system used to access the website, search terms used, pages visited on the site) This information is stored in server security logs by almost all websites.
+Security Measures
+Processes, software, and hardware used by system and network administrators to assure confidentiality, integrity, and availability of information technology resources and data. Security measures may include review of files for potential or actual security or policy violations and the investigation of security-related issues.
+Tracking Visitor Actions
+Websites that use cookies or other technical means to store information about the visitors or visitor's actions.
+Unit
+Any organizational entity within the University. Includes, but is not limited to campuses, colleges, departments, centers, institutes, offices, and programs.
+University Community
+University faculty, staff, and students, and alumni are generally defined as members of the University community. The General Counsel may designate additional groups as members of the University Community.
+University Websites
+All sites on University networks, or using University resources, or residing within the University's umn.edu domain. This includes unit websites hosted on domains outside of umn.edu.
+Visitor
+Any authorized user of a website. This may include members of the University community as well as the general public.
+RESPONSIBILITIES
+Chief Information Security Officer
+Maintain the versions of the online privacy statements within this policy.
+Collegiate/Unit Administrators
+Select or develop an information collection and online privacy statement that fits the unit's website.
+General Counsel
+Provide advice to Units on legal requirements for maintaining, securing, and releasing information collected from web visitors.
+Individual Website Operator/Administrator
+Post or link to an online privacy statement.
+Bring to the attention of the Collegiate/Unit Administrators any websites that should display the privacy statement.
+University Relations
+Website Visitor
+Be informed of your rights and responsibilities related to any personally identifiable information you provide.
+RELATED INFORMATION
+Related Policies
+HISTORY
+Amended:
+November 2017 - Comprehensive Review, Minor Revisions: 1. Add joint ownership of policy with University Relations. 2. Further clarification on the types of U websites that are in scope for this policy, recognize the role and responsibility of University Relations has with University website standards and Brand Policy, and improve the readability of the procedure. 3. Minor updates to the privacy statement and language for a customized privacy. 4. Updated names, terminology, and definitions to be current, concise, and clear.
+Amended:
+January 2014 - Enhanced the Online Privacy Statement, and provided instructions for developing a customized privacy statement. Improved the FAQ and made changes to the links.
+Amended:
+December 2003 - Updated Statement and Reason for Policy, Definitions, FAQ, and online privacy statement because of new provisions in Minn. Stat. 13.15. Title changed from Collecting Information From Visitors To U Web Sites (Online Privacy) to Including a Privacy Statement on U Web Pages.
+Amended:
+August 2001 - Deleted the word "Proposed" from Policy Title. Clarified Policy Statement.
+Amended:
+February 2001 - Updated Policy Statement, Contacts, Who Should Know, Definitions, Procedure, FAQ and appendices in response to feedback from the University Community.
+Effective:
+E-mail
+The content of this field is kept private and will not be shown publicly.
+Homepage
+Comment
+140 McNamara Alumni Center, Minneapolis, MN 55455 - P: 612-624-8081 , policy@umn.edu
+Have a good faith belief there has been a violation of University policy? Please report concerns to your supervisor, the appropriate University administrator to investigate the matter, or submit a report to UReport.
+For Students, Faculty, and Staff

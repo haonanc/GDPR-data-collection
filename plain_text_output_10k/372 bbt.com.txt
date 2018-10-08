@@ -1,0 +1,156 @@
+Get cash back, miles and more
+Earn rewards for the things you buy every day with a BB&T credit card.
+Log in to another account
+Your protection is our priority
+We're committed to keeping your accounts and personal information safe and secure.
+Learn what we do to protect you and how you can help protect yourself.
+If you suspect you're a victim of fraud...
+Immediately contact your local BB&T branch or call 800-BANK-BBT (800-226-5228) . Report suspicious email that uses the BB&T brand by forwarding the email to InternetFraud@BBandT.com .
+BB&T is committed to protecting your accounts and personal information from fraudulent activity. If your account or personal information is compromised, we offer free fraud restoration services to help minimize the impact and re-establish your identity.
+What accounts are covered for fraud?
+Personal deposit accounts (checking, savings and money market accounts)
+Personal credit cards
+Payroll card accounts
+Business credit cards
+Business or commercial checking accounts
+Health savings accounts
+How does BB&T respond to fraudulent activity?
+Once you notify us of fraudulent activity, we'll take these steps to limit damages:
+Notify the credit bureaus to request a fraud alert be placed on your credit file
+Determine if you've been victimized at any other financial institutions or creditors
+Alert the Federal Trade Commission (FTC) of confirmed fraud
+If you choose NOT to contact us to report fraudulent activity, you'll need to:
+Contact one of the three major credit reporting agencies immediately to request that a fraud alert be placed in your file, and that no new credit be granted without your approval. You need to call only one of these agencies, as they've agreed to notify each other whenever an individual requests a fraud alert.
+Notify any other grantors of credit about the fraud and file a police report. If you have documentation of the scam (letters, phone numbers, etc.), keep the originals and make copies to provide to others.
+Consider reporting the fraud to the FTC at 877-438-4338 ( TDD: 202-326-2502 ).
+Keep detailed records of all events related to the fraud, including steps you've taken in response. Take note of all names, telephone numbers and dates and times you're in contact with anyone providing assistance.
+In any case of fraud, you should always file a police report and keep any related documentation.
+What does BB&T do to protect my security?
+We use several proven tools to keep your information safe:
+User IDs and passwords – User ID s and passwords are required to access our online services. These tools confirm your identity and prevent unauthorized access to your accounts.
+Data encryption – We use strong encryption tools to protect your information. These measures prevent unauthorized individuals from intercepting and viewing your information while it travels between your computer and our network.
+Email encryption – We use an email encryption service that allows us to securely send messages and enables you to reply securely.
+Firewalls and activity logs – We use firewalls to establish a barrier between our network and any outside networks, which allows us to monitor and control incoming and outgoing network traffic. In addition, we regularly review activity logs to identify potential threats.
+Timeout and lock-out features – A timeout feature automatically terminates each user session after a period of inactivity. After three unsuccessful logon attempts, online account access is locked.
+Limited requests via email – We don't use email to request private information such as your user ID , password, account number or Social Security number. In addition, we never ask our clients to email us confidential information.
+To get the most out of the security notifications and other account features we offer, keep your mobile number and email address current on your account.
+What does the financial industry do to protect my security?
+In addition to what BB&T does to protect your information, the FDIC and other regulators help us identify cyber threats and effective countermeasures. They regularly confirm we are compliant with regulations and provide us with risk assessment tools.
+In the event of card fraud, federal laws and industry practices limit losses depending on the type of card.
+Credit cards – Under federal law, your liability for unauthorized use of your credit card is capped at $50. However, if your card number—but not the card—is stolen, you aren't liable for any unauthorized use. Additionally, credit card losses are typically absorbed by the card issuer's zero-liability policies.
+Debit cards – If you contact us within 2 business days of loss or theft of your card, your maximum liability under federal law is $50. If you notify us after 2 days, you could be liable for more than $50. That's why it's important to check your account activity regularly. If your card number—but not the card—is stolen, you won't be liable for the transaction if you report it within 60 days of your account statement showing the fraudulent transaction.
+Business debit cards – Businesses are protected separately under the Uniform Commercial Code ( UCC ), which sets many rules for cardholders to avoid losses from card fraud.
+Prepaid cards – Prepaid cards typically have money deposited to them and aren't linked to a checking or savings account. Cards that employers use to pay their associates are covered under the same laws governing debit cards. Reloadable cards aren't protected under federal law, but may have similar protections included by the issuer. Prepaid gift cards aren't subject to federal liability regulation. Therefore, if lost or stolen, you'll probably lose the entire value of the card.
+Additional information
+Learn more about our privacy and security practices.
+Email encryption – If you send and receive email that contains personal identification information—like account numbers—be sure you make email encryption a priority.
+Information sharing – At BB&T, we work to ensure your information is protected, including when we share it within BB&T and with our partners.
+Mobile security – As smartphones and tablets have increasingly become tools to help manage daily life, they've also become desired targets for cybercriminals.
+Online security measures – BB&T uses advanced Internet security technology to protect our clients' personal information when it's transmitted online.
+Small business online security – BB&T places the highest priority on protecting your confidential information and systems.
+User IDs and passwords
+Keep your user IDs and passwords secure – It's vital to keep your user IDs and passwords confidential. Don't write them down, never post them near your computer, only share them when necessary with those whom you trust, and never give them out over the phone.
+Create strong passwords – Create passwords that are difficult for anyone to guess. Try to construct passwords that contain any or all of these characters:
+At least one upper case and one lower case letter
+At least one digit
+At least one special character
+Here are some examples of what not to include in your password:
+Your name
+User ID
+Words commonly found in the dictionary
+Never email confidential information – Unsecured or unencrypted email can be intercepted and viewed by others.
+Install virus protection – Install antivirus/anti-malware software to prevent viruses from gaining control of your computer and capturing your personal information.
+Card security
+The inconvenience of having your credit, debit or prepaid card card lost or stolen may pale in comparison to fraudulent activity conducted with the card. If you plan to use a card to conduct financial transactions, be sure to make security a priority.
+ATM security – If you use ATM s to withdraw cash or check account balances, be sure take some simple precautions to avoid ATM fraud.
+Card security – While credit, debit and prepaid cards can free you from carrying cash, it's important to know how to protect them and your account information.
+Understanding and protecting your credit
+By using secure habits for financial activities and monitoring your credit report regularly, you can reduce your risk for fraudulent activity that could damage your credit.
+Credit reports – One step to ensure that no one has stolen your financial identity or established fraudulent credit in your name is to review your credit report.
+Protecting your identity
+Minimize your risk for identity theft by knowing the warning signs and learning ways to protect yourself, both online and offline.
+Document shredding and retention – Protect your personal and confidential information by disposing of sensitive documents in the right way at the right time.
+Identity theft – Minimize your risk of identity theft by knowing the warning signs and learning ways to protect yourself, both online and offline.
+Information sharing – At BB&T, we work to ensure your information is protected, including when we share it within BB&T and with our partners.
+Online security
+Ensuring your online accounts and information are secure is a shared responsibility between you and BB&T. Learn more about how we protect your information, and how you can spot scams, protect your devices, and stay safe online.
+  Email encryption – If you send and receive email that contains personal identification information—like account numbers—be sure you make email encryption a priority.
+Fraudulent emails – Stay on guard for fake emails and websites that have been designed to steal your financial information.
+  Internet activity and electronic data protection – With more financial activity occurring online than ever before, it's essential to know how to reduce the risks to your data.
+Internet scam protection – A healthy amount of skepticism and common sense can help protect you from investment and money-making scams.
+Malware – Save time and money and reduce stress by preventing software from being installed on your computer without your knowledge.
+Mobile security – As smartphones and tablets have increasingly become tools to help manage daily life, they've also become desired targets for cybercriminals.
+Online information practices – BB&T is committed to full transparency in communicating the ways in which we and our partners use online information, how we protect your privacy, and what your choices are.
+Online security measures – BB&T uses advanced Internet security technology to protect our clients' personal information when it's transmitted online.
+Phishing – Protect yourself from scams that could trick you into providing confidential information, and learn what to do if you do get "phished."
+Protect your business accounts – Learn about how BB&T places the highest priority on protecting your business accounts.
+Protect your computer – Your electronic devices require increasingly higher levels of security. Education, discretion and vigilance are fundamental.
+Small business online security – BB&T places the highest priority on protecting your confidential information and systems.
+Social engineering – Social engineering attacks can be difficult to detect. Learn how to identify this deception and avoid becoming a victim.
+Documents and materials security
+Follow these recommended practices to protect the personal and confidential information contained in sensitive documents.
+Document shredding and retention – Protect your personal and confidential information by disposing of sensitive documents in the right way at the right time.
+Everyday security – It's important to know how to apply everyday security measures—things like ATM security, protecting your mail and having an organized financial system.
+Protecting your mail – The mail you receive and send includes information that thieves and other scam artists find valuable.
+Safe deposit boxes – When renting a safe deposit box, consider what size you'll need, who else will have access, and appropriate items to keep in the box.
+Get help
+If you suspect your accounts or personal information have been compromised, immediately contact your local BB&T branch or call 800-BANK-BBT (800-226-5228) .
+Information sharing and security practices
+We strive to ensure your personal information is protected, including when we share it within BB&T and with our partners. We want you to know how and why we share your information, and what steps we take to protect it.
+How we protect your privacy
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. Our Consumer Privacy Notice reaffirms our commitment to safeguarding your information. It tells you the kind of information we collect, who we share it with and how we protect it responsibly.
+We often share information within the BB&T corporate family in an effort to better serve you. Having your information on file enables us and our partners to quickly and easily reference it for many purposes.
+View all FAQ about general topics related to fraud claims
+How long will the claim process take?
+The claim process varies depending on the type of claim filed.
+How can I find the status of my claim?
+Once a resolution has been reached, a letter will be mailed to your address on file with the details surrounding the resolution.
+What if I don’t agree with the resolution?
+A case resolution is decided after research and investigation has been completed. In the event that you don't agree with the resolution, please contact our Claims Department at 866-802-4955 to request a second review.
+Will a claim agent be contacting me?
+A claim agent will only contact you in the event additional information is required when reviewing the claim.
+Can I file on pending transactions?
+At this time, we're unable to open a claim on pending transactions. Claims can only be filed on posted transactions.
+What fees are eligible for reimbursement?
+When filing a claim, any fees associated with the unauthorized transaction(s) will automatically be considered when the claim is processed. Keep in mind, an "Expedite Card Delivery Fee" for a replacement card is not a fee that's considered as part of the unauthorized transaction.
+Why did I continue to get charges after my card was blocked?
+Any transactions that obtained an authorization prior to the block will still process and post to the account even after the card shows in a blocked status. Once the card is blocked, no additional transactions will be authorized.
+Why does my card need to be blocked?
+If your card number has been compromised, BB&T must block the card to avoid additional fraudulent charges on the account.
+Who can inquire on a filed claim?
+BB&T will only share information on a claim with authorized signers on the account associated with the claim. We're unable to share any claim details with anyone not listed as a signer on the account.
+Who can file a claim?
+Any signer on the account can file a claim.
+What transactions can I include on a claim?
+When filing a claim, include all posted transactions that weren't authorized by any signer on the account. This includes fees associated with these transactions.
+How can I contact BB&T to file a claim?
+There are multiple ways to file a claim:
+By phone
+Who conducted the fraudulent transactions on my account?
+There are multiple ways account and card information can be compromised, which can make it difficult to determine who's responsible for the fraudulent activity on any account.
+How can I prevent fraud from occurring?
+A best practice to reduce the likelihood of fraud is to never share your account information (account number, card number, PIN , username, passwords, etc.) with anyone who isn't authorized to use the account. When entering your PIN , cover the keypad to avoid others from seeing your entry. Also, always keep your checks in your possession or properly locked and secured.
+Should I close my account?
+If your account has been compromised or if you suspect that your account has been compromised, you should visit a local branch to have your accounts closed and set up a new account.
+Documentation questions
+View all FAQ about documentation
+When and why should I file a police report? Is a police report required?
+You should file a police report if you're the victim of a financial crime. If a police report is required for the type of claim you're filing, a case agent will reach out to you. In that case, you'll need to provide an actual report, not just the report number.
+Can I submit documents electronically?
+At this time, documents cannot be submitted electronically. Documents can be submitted in the pre-stamped envelope provided, dropped off at a local branch or faxed into 704-954-3918 .
+How can I get a copy of my documents?
+If you need a copy of any case documents, you can request them at your local branch, or call our Claims Department at 866-802-4955 .
+Do my documents need to be notarized?
+Affidavits received for a check claim require notarization. Most of the other claim documents don't require notarization.
+How long do I have to submit documents? Is there a deadline?
+Documents should be returned to BB&T as soon as possible to avoid delaying the claim process. Failure to return documents prevents BB&T from conducting a full investigation and may affect the resolution of the claim.
+Does a BB&T representative have to sign the "Error Resolution" claim documents?
+No, although there's a line item for a BB&T representative signature, one isn't required.
+Who needs to sign claim documents?
+Documents need to be signed by the person who filed the claim. In the case of a check claim, they need to be signed by the person whose name was forged.
+There was an error - check the logs for details
+Disclosures
+1BB&T Zero Liability coverage provides protection to our cardholders against unauthorized transactions using BB&T Debit Cards or debit card numbers as long as BB&T is notified promptly. Please refer to the BB&T Bank Services Agreement: Section L: Electronic Fund Transfer Agreement and Disclosures ( PDF ) for complete details.
+Fees from your mobile or data carrier may apply. A monthly service fee applies if you choose to access your online banking financial data through QuickBooks® or Quicken® Direct Connect.
+Branch Banking and Trust Company, Member FDIC .
+, Branch Banking and Trust Company. Member FDIC. All Rights Reserved.

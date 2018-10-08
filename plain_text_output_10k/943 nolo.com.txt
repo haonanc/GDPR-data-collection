@@ -1,0 +1,44 @@
+A privacy policy provides you with certain legal protections by openly disclosing how your company will handle and protect user information.
+What Information Does Your Company Collect?
+Your privacy policy must describe the user information that your company collects. Here are some common categories:
+Personal information
+Your policy should disclose that your site will collect and maintain personal information provided by its users, including their names, addresses, mobile telephone numbers, email addresses, and so forth. It should also clarify that the amount of information they provide is completely voluntary; however, providing less information might limit a user’s ability to access all of the site’s features.
+Usage and analytics data
+Let the user know whether your company collects usage information in order to assess how users access and utilize the site. This data is valuable to the company for various internal purposes, including troubleshooting and improving the site’s functionality. If applicable, feel free to disclose that the information you collect might include the user’s Internet service provider, type of web browser or operating system, IP address, viewed pages, time and duration of site visits, crash logs, and other information relating to site usage.
+Cookies
+If applicable, your privacy policy should disclose that your website uses cookies in order to enhance your site’s functionality. Here is a standard provision relating to user options regarding cookies:
+“Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. Please note, however, that certain features of the site might not function if you delete or disable cookies. THE SITE’S COOKIES DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO COLLECT ANY INFORMATION STORED ON THE HARD DRIVE.”
+Text message data
+Some websites permit users to either transmit text messages to the company (for support purposes, for example) or between users (on dating sites, for example). If this is applicable to your site, then you should notify the user that the company reserves its right to retain this information indefinitely.
+How Does Your Company Utilize User Information?
+Your website’s privacy policy should also tell users how your company might utilize their data. Here are some possibilities.
+Shipping information
+If your company sells products online, it must collect user information in order to ship the product or otherwise make it available to the user.
+Customer service and follow-up
+Whether your company provides a product or service, it needs user information for customer support services, including dealing with guarantees, returns, repairs, replacements, rescheduling, cancellations, billing and payment issues, or other matters. Your company might also collect user information for routine follow-ups in order to assess customer satisfaction.
+General announcements
+Your website might use personal information for periodic general announcements to users. These can include notifications, updates regarding the company or the site, marketing communications, and so forth.
+Third party service providers
+Your company might need to use personal user data in connection with website maintenance, upgrades, new releases, or analytics data review or compilation. Your privacy policy should make it clear that your company will be required to share user data with any third-party service providers that it might engage to assist in these efforts. Similarly, your company might have to share user information in connection with third-party marketing or advertising services. However, your company should be responsible for ensuring that these service providers employ adequate security measures with respect to user data.
+Does Your Company Share User Data?
+In addition to the administrative and marketing purposes discussed above, your privacy policy should further describe any other instances in which it might share user information. Feel free to start with the following general statement:
+“As a general policy, we use personal information and message data for internal purposes only. We do not sell or rent information about you. We will not disclose personal information or message data to third parties without your consent, except as explained in this Privacy Policy.”
+Note that if your company is subject to any industry-specific regulations regarding the sharing of user information (for example, the protection of patient information under HIPAA guidelines ), then you should further reassure the user that your company will adhere to such regulations.
+Sharing with affiliates or acquirers
+Your company must be permitted to share user data with its affiliated entities, including parent companies and subsidiaries. Furthermore, if the company participates in a merger, stock purchase, asset purchase, or other acquisition, it will be required to share user information with the purchaser or surviving entity.
+Compliance with laws
+Your company might be required to disclose user information in order to comply with any court orders or applicable laws. The following is a standard provision that addresses this issue:
+“The Company cooperates with government and law enforcement officials to enforce and comply with the law. We may therefore disclose personal information, usage data, message data, and any other information about you, if we deem that it is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process (such as a subpoena or court order), or enforceable governmental request; (b) enforce the Terms of Use, including investigation of potential violations thereof; (c) detect, prevent, or otherwise address fraud, security or technical issues; or (d) protect against harm to the rights, property or safety of the Company, its users or the public, as required or permitted by law.”
+Security
+Your privacy policy should assure users that the company will use necessary measures to protect the security of their data. However, the policy should also emphasize that it’s impossible for the company to completely guarantee that user data will be immune from malicious attack or compromise; as such, the users should understand that their transmission of personal data is always at their own risk.
+Storage and Maintenance of User Data in the United States
+Assuming that your company will collect and store all user data domestically, your privacy policy should notify users that their information will be subject to the laws of the United States of America, regardless of the country from which their data originates.
+Updating User Information
+The user should be permitted to correct, update, or change their personal information, or adjust or cease the frequency with which they receive company communications. The user should also have the ability to disable their account, in accordance with the Terms of Use. The privacy policy should provide a methodology for the user to effectuate the foregoing.
+Changes to the Privacy Policy
+Notify the user that your company might make changes to its privacy policy from time-to-time and that it should periodically revisit the policy for any updates. Your company should also make an effort to notify its users of any policy changes, or require that users acknowledge updates by checking a box or pressing a button . In any case, users who continue to interact with the site following a revision of the company’s privacy policy will automatically be subject to the new terms.
+Caution the User Regarding Their Own Data Safekeeping
+Finally, your privacy policy should remind the users to carefully protect the personal information that they submit on the site — including their passwords, usernames, location, images, and videos — so that third parties can’t manipulate their accounts or assume their identities. If your site permits users to communicate with each other or see each other’s usernames or other information, then remind the user not to disclose any sensitive information in the public domain.
+Provide your contact information
+Zip Code
+Provide your contact information

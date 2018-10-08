@@ -1,0 +1,178 @@
+Join Consumer Reports
+Welcome to Consumer Reports.
+We’re so glad to have you as a member. You now have access to benefits that can help you choose right, be safe and stay informed.
+To:
+From :
+Check this box if you wish to have a copy mailed to you.
+Privacy note: We won't use your friend's e-mail for anything other than sending this message. See our privacy policy .
+    A A
+Consumer Reports magazine: June 2013
+How secure is your smart phone?
+Use a strong pass code; the longer it is, the tougher it is to crack.
+Illustration:                                 Alex Williamson
+Like many of the more than 100 million Americans who use a smart phone for everything from paying for lattes at Starbucks to presenting digital boarding passes at airports to tracking investments, Scott Segal loved using apps on his iPhone.
+But then his phone was suddenly unable to connect to its 3G network, and it took two new phones and ultimately the removal of some apps to reconnect. Segal, a Palm Springs, Calif., native and former defense-projects coordinator for a government contractor, became far more wary about apps. “I no longer downloaded them thinking they were risk-free,” he says. “They might gain access to things I might not want to give up.”
+Chances are you’re among the roughly half of American adults who use an ­iPhone, Android-based phone, or other type of smart phone. And you probably entrust it with sensitive information: your circle of friends, your whereabouts from day to day, or passwords to your accounts.
+But when you take your phone into your confidence, so to speak, you’re also taking in a host of parties that make all of those wonderful mobile services possible, including app developers, your wireless carrier and phone manufacturer, mobile advertisers, and the maker of your phone’s operating system.
+All of that convenience can be risky. “You need to be aware that when you use [a smart phone] you’re making sacrifices,” Segal says. “I just assume we no longer have the luxury of privacy.”
+Just how private and secure is your smart phone? If it’s lost or stolen, how easily could someone read the sensitive information it holds? How well do app developers and wireless providers protect that data? And what can you do to protect yourself? (Our infographic has details from our survey and will get you thinking about smart ways to keep your personal data private.)
+To find out, we spoke with privacy experts, wireless carriers, phone makers, government agencies, and white-hat hackers­—the good guys who test the security of phones and apps. We also reviewed government reports. And we asked 1,656 smart-phone users about their experiences as part of a nationally representative survey of 3,036 adult online users, who also told us about their use of home computers. We then projected those data to estimate national totals.
+We found that a smart phone can be quite secure if you take a few basic precautions. And so far most users haven’t suffered serious losses because of their phone. But we also uncovered causes for concern, including these:
+Many users don’t secure their phones
+Almost 40 percent in our survey didn’t take even minimal security measures, such as using a screen lock, backing up data, or installing an app to locate a missing phone or remotely erase data from it.
+Malicious software is a real threat
+Last year, 5.6 million smart-phone users experienced undesired behavior on their phones such as the sending of unauthorized text messages or the accessing of accounts without their permission, our survey projects. According to experts, those are symptoms indicating the presence of malicious software.
+The rate of such symptoms on smart phones, 5 percent, was far lower than the 31 percent rate of viruses and other malware infecting home computers that our survey also found. But it’s still troubling because it shows how common such incidents have become in just the six years since the iPhone popularized touch-screen smart phones.
+Just as worrisome is the toll those incidents took on what we project were 1.2 million smart-phone users—charges for calls or texts they never made, harassment by someone following their activities, identity theft, or the loss of all of their photos.
+In light of those findings, we recommend that users who use a lot of apps consider installing a security app. We’ll test such products in the near future.
+7.1 million consumers had a smart phone that was irreparably damaged, lost, or stolen and not recovered last year, we project.
+Users’ whereabouts can be exposed
+All smart phones have a feature called location tracking that can be used by apps to deliver services tailored to the phone’s current location. But such information can also be used in ways that can expose you to harm.
+For example, 1 percent of smart-phone users told us that they or a person in their household had been harassed or harmed after someone used such location tracking to pinpoint their phone. Seven percent said they had wanted to turn that feature off but didn’t know how.
+New phones usually have the feature turned off. But once you use an app that requires your location, such as mapping, tracking stays on until you turn it off.
+Apps are often too intrusive
+Before many apps can be installed or used, they ask for permission to perform various actions, such as reading your contact list. But not all of the permissions that apps request are essential to the app. In 2011, researchers from the University of California, Berkeley, studied hundreds of Android apps and found that often because of developer confusion, roughly one in three asked for more privileges than needed.
+Intrusive apps are still common, and that intrusiveness bothers users. Roughly 48 million users had stopped installing an app in the previous year because it requested too many privileges, our survey suggests. More than 8 million had done so more than five times.
+It’s hard to control your privacy
+Small screens and lengthy privacy notices (when notices even exist) can make it tough to find out what personal information app developers and advertisers collect, how they use and secure it, and how you can control access to it.
+Millions of children need protection
+At least 5 million preteens use their own smart phones, we project. In doing so, they may unwittingly disclose personal information or risk their safety (see “Young Phone Users Need Protection”).
+Home computers are at risk, too
+Software infections and scams still ravage home computers. Our survey suggests that 3.4 million users had to replace a computer last year because of infections.
+This infographic illustrates some of the findings of our survey: How well do you protect the information on your mobile phone? Please share it on your social networks (or use the embed code below).
+Share our graphic
+You may use the infographic on your website. We ask that you attribute the work to us with a link back to our website by using the following embed code.
+Mobility has its risks
+Take appropriate security measures before you sell or recycle your phone.
+Illustration:                                 Alex Williamson
+It’s not surprising that threats that have plagued computers for years have begun affecting smart phones. After all, the smart phone is fast replacing the venerable home computer for many daily activities, such as e-mailing, shopping, and social networking. In taking the place of a computer, though, a smart phone exposes its owner to many risks that a home computer rarely does.
+A smart phone can contain a lot of information you’d rather keep private, such as text messages, contact lists, phone numbers, and appointments. You may consider your smart-phone photos irreplaceable. Yet almost 70 percent of smart-phone users hadn’t backed up their data, including photos and contacts.
+Smart phones routinely accept texts and photos sent from other phones or the Internet. Texts can contain addresses of malicious websites. Others may add unexpected charges to your phone bill.
+Reports estimate that there are more than a million apps. Many are from brands you’ve never heard of. Most are free or inexpensive, so you might be tempted to install them without much thought, potentially granting them access to a lot of personal information on your phone.
+Securing a phone with a strong password is inconvenient. Its small screen makes it cumbersome to type the combination of at least six letters, numbers, and symbols that stronger security requires. Some phones offer password alternatives, such as face or gesture recognition, but only 8 percent of the smart-phone owners surveyed used them.
+A variety of parties, including Apple or Google, may be able to collect enough information, such as your phone’s location and unique ID, to track your activities. In this report, we focused on Apple’s iPhone and Google’s Android platforms, because a small fraction of users use another, such as BlackBerry or Windows. Information on those plat­forms’ privacy and security practices are at us.blackberry.com and windowsphone.com .
+Find tips and advice for staying safe and private online in our Guide to Internet Security .
+How to protect yourself
+Make sure apps that handle sensitive data use secure transmission.
+Illustration:                                 Alex Williamson
+Securing your personal data doesn’t need to take long if you’re careful.
+Use a strong pass code
+A four-digit one, which almost one in four users told us that they used, is better than nothing. But on Android phones and iPhones earlier than ­iPhone 5, a thief using the right software can crack such a code in 20 minutes, according to Charlie Miller, security engineer for Twitter and author of books on hacking and mobile security. A longer code that includes letters and symbols is far stronger.
+Install apps cautiously
+Malicious apps may not lurk around every corner, but they’re out there and can be tricky to spot. For example, our survey suggests that 1.6 million users had been fooled into installing what seemed to be a well-known brand-name app but was actually a malicious imposter. iPhone users have one source for apps, Apple’s store, where there have been few reports of malicious apps.
+If you use an Android-based phone, you can get apps from numerous sources. Stick with the two most reputable, Google Play and Amazon’s Appstore. Three percent of Android users told us they had installed apps from another source last year.
+If you’re an Android user, you can minimize exposing your privacy by refusing to install an app if it asks to use phone features you don’t want it to use. A flashlight app, for example, shouldn’t ask to access your location, like the Brightest Flashlight Free app did.
+Almost half of the Android users we surveyed had stopped installing an app after it asked for privileges to which they objected. iPhone apps don’t ask for such privileges until after they’re installed, at which time you should exercise caution.
+Be alert to insecure Wi-Fi
+Thirteen million users engaged in financial transactions at hot spots in hotels, retail stores, and airports last year, our survey suggests.
+Before using any app to do business at a hot spot, check its privacy policy to see whether it secures wireless transmission of such data. Otherwise, you may disclose an account number or password to a nearby criminal.
+But privacy policies aren’t always clear about security practices. Privacy experts say consumers need something easier to understand.
+“Most consumers don’t realize when they’re transmitting info over an open Wi-Fi network that it can be intercepted,” says David Jacobs, consumer protection counsel at the Electronic Privacy Information Center, an advocacy group in Washington, D.C. “Better notice would inform them of that fact—something other than the general discussion that filters down to them from license agreements and privacy policies.”
+Built-in e-mail apps don’t usually secure such messages, Miller says, so using them at hot spots also has risks. You can guard the data your phone transmits with a free virtual private network (VPN) or one such as Astrill , which costs $70 per year. We’ll test such services in the near future.
+Don’t fall for text spam
+It appears to be on the rise. The Federal Trade Commission recently charged 29 scammers with collectively sending more than 180 million texts containing links to websites enticing users to enter personal information.
+Links in text spam can lead to websites that download malicious software or to the sort of bogus sites that e-mail scammers have used for years. Your safest bet is to not click on unfamiliar links within a text. You can also go to your wireless carrier’s website and ask to have texts sent over the Internet blocked. Or install an app that can block them.
+Turn off location tracking
+Disable it except when you need it, such as for driving directions or finding a nearby store. Roughly one in three we surveyed had turned it off at times during the previous year. If your phone’s operating system lets you selectively turn it off for individual apps, use that feature for greater control.
+Clean out your old phone
+Before you sell or recycle your phone, remove any memory card, restore its factory settings, and make sure all sensitive data are deleted.
+Find tips and advice for staying safe and private online in our Guide to Internet Security .
+Security is not only your job
+Turn off location tracking except when you really need it.
+Illustration:                                 Alex Williamson
+Smart-phone security is a chain no stronger than its weakest link. Many companies that make mobile services possible could take more steps toward smart-phone security, experts say.
+Platform makers
+Whose platform is more secure, Apple’s (iPhone) or Google’s (Android)? “The iPhone is more secure, but in a lot of ways Android is also secure,” Miller says.
+The Apple App Store’s security relies on the fact that Apple reviews all apps for risks to the user before it approves them for its App Store. Once there, they can’t be changed without Apple’s approval.
+Still, he says, the Apple environment isn’t perfect. Last year, after determining that there was a vulnerability in the ­iPhone’s operating system, he says he was able to sneak potentially malicious software into the App Store. At the same time, he adds, “I haven’t seen a lot of malware” in the Apple App Store. Apple declined to comment on Miller’s actions.
+Google has its own system for keeping malicious apps out of its Google Play store. It uses its own service, called Bouncer, to spot problems. But that doesn’t mean an app developer can’t slip changes, even potentially harmful ones, past the Bouncer, as Trustwave security researcher Nicholas Percoco demonstrated at the Black Hat USA 2012 security conference. Google wouldn’t comment on Percoco’s finding. Amazon told us that it too screens apps for safety before permitting them into its app store.
+One difference between the platforms that could put users of Android-based phones at risk is that Android phones can use apps from a variety of sources that may not be as secure as Google Play. A new version of Android (4.2) tries to minimize that risk by letting you have Google screen any new app, regardless of its source, just before you download it.
+Android differs from the iPhone platform in yet another way. Before you install Android apps, they ask your permission if they are to perform actions that might affect your privacy. iPhone apps don’t require such prior permission. But the latest version of the iPhone’s operating system, iOS 6, has privacy settings that let you monitor and control which apps can perform various actions.
+What they need to do
+Right now, consumers often have to pore over lengthy privacy notices to find out whether and how an app protects their personal data. In its February report on mobile privacy, the FTC recommended that platform makers urge app developers to make their privacy policies easier to access and understand.
+Phone manufacturers
+A maker of Android and Windows phones has fallen down on the job. HTC, a major phone manufacturer, recently settled charges by the FTC that it had left more than 18 million of its phones and tablets potentially vulnerable to malicious apps that could have tracked the user’s location, sent text messages, or recorded conversations.
+Recently, international security company MWR InfoSecurity announced that it had found that 16 percent of the software installed by phone manufacturers on a variety of Android phones could expose users to serious security risks, such as access to the phone’s data.
+Phone makers and carriers deliver operating-­system updates, which often include remedies for known security flaws. But Android phone users can wait a long time for such updates after Google releases them, according to Kenneth R. van Wyk, principal consultant at KRvW Associates, a security consulting company in Alexandria, Va. That can leave users exposed to threats.
+Owners of older Android phones may not even receive updates because their phones are incompatible with them. For example, our survey suggests that 3.4 million people own Android phones that are three or more years old. Not receiving updates would leave owners exposed to security flaws that have been fixed on newer phones.
+That’s less of a problem with ­iPhones. Apple updates its phones for more than a couple of years, according to Miller, the Twitter security engineer.
+What they need to do
+The FTC should fully develop security recommendations for phone makers. But every manufacturer could put in place the kind of program the agency recently required of HTC. That includes building security into phone design and testing, addressing risks in phones and their data transmission, regular testing or monitoring of safeguards, and reviewing and responding to weaknesses reported by outside researchers.
+App developers
+Experts told us that developers vary in how thoroughly they build security into their apps. Van Wyk, the consultant, says he has found apps on both platforms storing sensitive data inside a phone without adequately protecting it. And some Android apps use stronger protections than others, says Prashant Verma, senior security consultant at Paladion, an international security company based in India.
+If not all app developers are securing data as well as they might, it’s not for lack of good security tools. Apple, for example, offers a data-protection feature that a developer can use to beef up the security of sensitive data. And Google gives developers the ability to encrypt data files to protect them if a device is lost or stolen. But developers have discretion over whether to use such tools.
+And there’s often no obvious way for a consumer to tell if an app developer went the extra mile to secure a user’s personal information or if it cut corners. That’s because app privacy policies often provide minimal information about how personal data are secured.
+What they need to do
+Developers could also take a cue from the HTC settlement with the FTC by putting a strong security program in place. All current versions of Consumer Reports’ mobile apps securely store and transmit any personal information that they may use, such as account name and password.
+Find tips and advice for staying safe and private online in our Guide to Internet Security .
+Toward greater privacy
+Smart-phone users need clear policies and controls, privacy advocates say. But those can be hard to fit on a phone’s screen. Even among computer users, 45 percent of people we surveyed hadn’t read any website privacy policy in the previous year.
+The FTC’s February report also suggested that platforms offer visual tools that consumers could use to control privacy preferences and that app developers get consumers’ consent just before collecting sensitive data.
+Meanwhile, officials and industry and consumer groups, including Consumers Union, are meeting to negotiate privacy guidelines for mobile apps.
+Location tracking is another major concern. Seventy-six percent of those we surveyed said they strongly agreed that companies that collect data about consumers’ locations should be legally required to get their permission first.
+“Getting permission from a user can be as easy as a one-time pop-up from a company that asks if they can collect and share your info and a short list of who they’re going to share it with,” says Sen. Al Franken, D-Minn., who plans to re-introduce the Location Privacy Protection Act, which incorporates such permission.
+In February 2012, Amazon, Apple, Google, Hewlett-Packard, Microsoft, and Research in Motion (maker of BlackBerry) agreed, at the behest of California Attorney General Kamala Harris, to ensure that apps in their app stores that collect personal data conspicuously post a privacy policy.
+Four months later, the Future of Privacy Forum, a think tank based in Washington, D.C., studied popular apps from Amazon’s Kindle Appstore, Apple’s App Store, and Google Play. It found that 61 percent of the apps studied had a privacy policy.
+Harris recently recommended that developers offer clear policies and collect only personal data that the app needs to function. She also recommended that advertisers get users’ consent to deliver ads from outside an app.
+That may not sway users like Scott Segal. “Consumers should not just assume we all continue to enjoy the privacy we enjoyed before the rise of digital technology,” he says, “and especially app-laden smart phones.”
+Find tips and advice for staying safe and private online in our Guide to Internet Security .
+Which type of smart-phone user are you?
+The minimalist
+You use your phone mainly to make calls, send texts, or exchange e-mail. A pass code just gets in the way, so you don’t use one.
+How to protect yourself:
+Install few or no apps. Fifteen percent of smart-phone owners told us they didn’t install any in the previous year. In fact, the median number installed was just eight.
+If you plan to download apps, choose them from a reputable brand and make sure their user reviews include no credible complaints about security or privacy concerns.
+If an app uses sensitive personal information, make sure the app can’t be used without entering a password.
+Don’t use your phone to store sensitive data such as PINs or passwords for your accounts, or your Social Security number.
+The mobile enthusiast
+You’re willing to try unfamiliar apps to get more out of your phone.
+How to protect yourself:
+Set up a screen lock. Unless you have an iPhone 5, use a pass code that includes more than four letters, numbers, and symbols. Or use a finger slide pattern or facial recognition if your phone offers them.
+If you use a lot of apps, consider adding a security app. For an Android phone, look for
+an app that can remotely locate, lock, or erase everything on the phone. For an iPhone, use Apple’s free Find My iPhone.
+Back up important data. Last year, more than 7 million users’ smart phones were irreparably damaged, lost, or stolen and not recovered, and 4.4 million lost their phone’s photos for various reasons, our survey suggests.
+The daredevil
+You want your smart phone to do anything it can. So you’ll modify an iPhone’s operating system (called jailbreaking) to install apps not from the Apple App store. (About 2.5 million iPhone users installed those last year, we project.) Or you modify an Android phone’s operating system (called rooting) for better performance, for new features, or to remove needless pre-installed software. Jailbreaking and rooting are legal for phones but not for tablets. But it makes your phone more vulnerable to hackers. And Apple warns that jailbreaking an iPhone will void your warranty.
+How to protect yourself:
+Don’t store private data on the phone.
+Be prepared to lose whatever you do store on it, including your photos and videos.
+Find tips and advice for staying safe and private online in our Guide to Internet Security .
+Young phone users need protection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy and safety concerns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Find tips and advice for staying safe and private online in our Guide to Internet Security .
+Would you download this app?
+The fake apps in our interactive quiz resemble many freebies you’ll find in the Google Play store. Take a look at each app, read through its permissions, and decide if its demands for your data are reasonable or out of bounds. And remember that whenever you download an app, you should check the user reviews and make sure plenty of other users have already tried it out.
+About our survey
+The figures we cite on the experiences of Internet users, including those with smart phones, are drawn from our annual State of the Net survey conducted in January by the Consumer Reports National Research Center. The findings are nationally representative of U.S. adult Internet users. Participants were 3,036 adults with a home Internet connection who were part of an online panel convened by GfK, a leading research company. From those respondents, we made national projections. The margin of error for the full sample was plus or minus 1.8 percent, 2.4 percent for the subset of 1,656 smart-phone users, both at a 95 percent confidence level.
+Related stories
+Already signed-up?
+Electronics News
+Build & Buy Car Buying Service
+Save thousands off MSRP with upfront dealer pricing information and a transparent car buying experience.
+while you shop

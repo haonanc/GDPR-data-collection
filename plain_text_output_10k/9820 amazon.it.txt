@@ -1,0 +1,50 @@
+Amazon recently launched the Login with Amazon service.
+“Login with Amazon” allows developers to make it possible for Amazon customers to use their Amazon accounts to log in and register on a developer’s website much easier.
+Contents
+“Login with Amazon” allows developers to get information from Amazon user profiles, such as name, email address, and zip code:
+Login with Amazon makes it possible for users to log in to registered third party websites or apps (‘clients’), using their Amazon user name and password. Clients may ask the user to share some personal information from their Amazon profile, including name, email address, and zip code.
+Amazon released an introductory video, titled “Meet Login with Amazon”:
+Amazon is requiring all developers who are signing up for this service to have a Privacy Policy already available and published on their own websites.
+Amazon will not host the Privacy Policy for you, just like Facebook won’t host the Privacy Policy for your Facebook app .
+Besides Amazon requiring you to have this agreement, the Privacy Policy agreement is required by law (for example, by CalOPPA in the US ) if you collect any kind of personal data from users: email address, pictures, name, shipping address etc.
+The Privacy Policy must inform users of how you (the website owner, the mobile app developer, etc.) will use the personal information that Amazon is providing to you through the “Login with Amazon” functionality:
+A Privacy Policy is a legal statement that specifies what the owner of a business (website, mobile app, Facebook app, etc.) will and will not do with the personal data collected from users.
+The Privacy Notice URL field in the Register Your Application section, inside the account dashboard, mentions this:
+The Privacy URL is the location of your company or application’s privacy policy. It is also displayed on the consent screen. This link is displayed to users when they first log in to your application (for example, http://www.example.com/privacy.html).
+The “Privacy Notice URL” field is mandatory to be filled. It applies regardless of how you register your application:
+Application for the iOS apps category
+Why is a Privacy Policy required?
+A Privacy Policy agreement is required by law if you collect personal information from users, regardless of what kind of data you collect as long as it is considered personal data. Using “Login with Amazon” falls under this requirement because Amazon is sending you personal information of Amazon users.
+As a result, you must disclose what you’re going to do with the user’s personal data received from Amazon. You disclose this through a Privacy Policy agreement.
+Our Privacy Policy Generator can generate this agreement for you.
+The URL of this legal agreement should be added in the Privacy Notice URL field in the “Login with Amazon” dashboard, but you should also place it on your website pages or embedded in your mobile app.
+Amazon provides Zappos.com as an example of using “Login with Amazon”:
+The Privacy Policy of Zappos, which can be found at www.zappos.com/privacy-policy , is added in the “Privacy Notice URL”.
+The same URL is available across Zappos website pages:
+What to include
+Your Privacy Policy should at least include these pieces of information:
+How you collect personal information from your users. This should also mention the “Login with Amazon” or similar third-party plug-ins like Facebook, Twitter or Google.
+How you store and use that information, i.e. to improve your website
+Other important clauses such as Cookies, Log Data, Communications, and Business Transactions
+Keep in mind that a Privacy Policy is required by law. Even if you don’t collect any sort of personal data, it’s recommended to have this agreement to state that you don’t collect data.
+A “Log Data” clause would mention that the website might get personal information, such as the IP address or other types of data that your web server might store in the error or access log files
+The “Log Data” disclosure usually looks like this:
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+A Cookies clause should first inform users about what cookies are and then how you (the website owner) will be using them.
+This applies even if your website is using only authentication cookies to enable a “Remember Me” function:
+Cookies are files with small amounts of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+A Do Not Track clause will also be required by the CalOPPA law to have in the agreement.
+There’s no need to have a separate Privacy Policy presented to users when you register for “Login with Amazon”.
+Amazon requires you to include the link to your current Privacy Policy, not to provide a separate agreement just for using their service.
+If you already have the agreement, update it to include a section where you inform users that their personal information can also be collected via third party tools that are making it easier to register for an account on your website.
+The Privacy Policy of oDesk mentions that personal information might be collected when users register via third party social networking services, such as Facebook:
+This clause from oDesk’s Privacy Policy reads:
+You may register to join the Service directly via the Site or by logging into your account with certain third party social networking services (including, but not limited to, Facebook) via our Site. If you choose to register via an SNS, we will use the Personal Information you have provided to the SNS (such as your real name, email address, gender, and other information you make publicly available via the SNS) to create your account; the information we extract may depend on the privacy settings you have with the SNS. Other than what we may share with the SNS as described below, the Personal Information an SNS has about you is obtained by the SNS independent of our Service, and oDesk is not responsible for its accuracy, legality, or non-infringement.
+Summary
+The new “Login with Amazon” service from Amazon will make it easier for developers to allow users of Amazon to speed up registration or login on developers’ websites or mobile apps.
+Your Privacy Policy should be available on your website, in the footer section of your web pages. If you’re not sure where to place the agreement, follow these best practices on where to place a Privacy Policy on your website.
+The same URL found on your website should be added in the Privacy Notice URL field. You don’t need to provide two separate agreements, one for Login with Amazon and one for your website.
+May 10, 2018
+This article is not a substitute for professional legal advice. This article does not create an attorney-client relationship, nor is it a solicitation to offer legal advice.
+Start here
+Disclaimer: Legal information is not legal advice, read the disclaimer .

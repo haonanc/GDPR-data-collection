@@ -1,0 +1,28 @@
+Entertainment
+Here's Why You're Getting a Flood of Privacy Policy Update Emails This Week
+By Dustin Nelson Updated On 05/25/2018 at 11:06AM EST
+It's not just you. Inboxes everywhere are experiencing a flash flood of emails with the arrival of privacy policy updates and requests to opt-in to various forms of data collection.
+This is happening because companies have until May 25 to be compliant with a new law called the General Data Protection Regulation (GDPR), which is only in effect in the European Union. However, the internet doesn't have easily recognizable borders. (You can tell it's bothering people around the world because of all of the GDPR memes .) So, it's having an impact in the United States as well. If a company collects the personal data of EU citizens, even if the company is not based in the EU, it must adhere to the new stipulations. Additionally, some companies like Microsoft are explicitly granting the protections the GDPR offers to users around the globe.
+Recommended Video
+Entertainment
+The International Trailer for 'The Last Jedi' May Have Revealed Something Huge
+What is the GDPR?
+It's complicated. Companies were given two years to become compliant after the EU adopted the regulation in 2016. Of course, as highlighted by The Verge , there are going to be a lot of companies unprepared for Friday's deadline. 
+To grossly simplify it, the GDPR is about the management of digital privacy. The law has been called one of the world's strongest protections for digital privacy rights. It's also been called "staggeringly complex."  Without wading into the muck, there are two tenets of the law that are the primary cause of those emails you're getting. They were neatly summarized in a report by The  New York Times : "The first is that companies need your consent to collect your data... The second is that you should be required to share only data that is necessary to make their services work."
+The second point could be a little confusing, but the Times quotes Electronic Frontier Foundation director Danny O'Brien to make it easier to understand. "A birthday cake company needs your name to put on the birthday cake," he said. "If it isn’t essential information, you can deny them consent to use that data and you still have to get the service."
+Companies are sending out these emails to share the policy changes with users and, in most cases, to request users accept the terms and opt-in to the company's data collection policies. Companies that aren't compliant with the regulations could be fined up to 4% of their global revenue. (Though, it remains to be seen how strictly fines and regulations will be enforced.)
+There are other pieces to this, though they aren't necessarily the reason you're getting way too many emails. For instance, the GDPR expands what is considered "personal data" in the EU and requires that companies can explain to users exactly what is being done with data that is collected. Users also have "the right of access," which means companies must provide access to your personal data if you request it. While these are all a part of the GDPR, these are benefits that won't necessarily extend to Americans. Nonetheless, there are plenty of benefits that will extend to people in the US.
+Part of the reason it's a good thing for US consumers to get peripheral benefits from these regulations is there seemed to be a security breach every week in 2017. Uber lost data on 57 million users and covered it up, Yahoo's data breach affected a billion accounts and wasn't announced for years, and more than 140 million people had their data hacked in the Equifax breach . People also had their data compromised in hacks of  LinkedIn ,  Whole Foods , Chipotle , Pizza Hut ,  Sonic , Panera , and many more. In many cases, customers weren't notified for an extended period of time. Under the GDPR, companies need to notify regulators of a data breach within 72 hours. The law also allows people to access the private data a company has gathered about them and offers consumers the "right to be forgotten."
+Why you should be paying attention
+The bit about you only needing to share data required to make the service work is important. It's worth slogging through that deluge of emails even though the impulse to delete them is strong. It's abundantly clear many companies want as much of your data as possible. They're going to make it easy for you to consent to give away your data and very difficult for you to tell them you want to withhold data that isn't absolutely required.
+In fact, some companies will take you deleting the email as consent. In Etsy's email about the GDPR update it writes, "By continuing to use our services on or after May 23, 2018, you acknowledge our updated Privacy Policy and agree to the rest of the updated House Rules."
+Terms and Conditions, wherever they appear, aren't read often enough, especially when you're flooded with many requests all at once. It's worth paying attention to find out when you can withhold your data. There isn't a protection this strong in the US, but that doesn't mean you can't reap the rewards of new EU regulations. 
+Even if the barrage of emails is annoying, at least you know you're being unsubscribed from a bunch of newsletters you didn't even remember you were subscribed to in the first place. 
+Sign up here for our daily Thrillist email and subscribe here for our YouTube channel to get your fix of the best in food/drink/fun.
+Dustin Nelson is a News Writer with Thrillist. He holds a Guinness World Record but has never met the fingernail lady. Follow him @dlukenelson .
+Discover the very best food, drink and
+fun in your city. Eat up!
+I confirm I am at least 21 years old
+Follow Thrillist
+Want More?
+Like Us

@@ -1,0 +1,40 @@
+UBC is committed to protecting your privacy.
+“Personal information” means recorded information about an identifiable individual, except for the names and business contact information of an employee of UBC or other place of business. Examples of personal information are: names of private individuals; student numbers; identifiable photographs or videos; identifiable voice recordings.
+All personal information in the Service is collected under the authority of Section 26(c) of the Freedom of Information and Protection of Privacy Act, R.S.B.C. 1996, c.165.  Personal information will be used for the purposes described in these Terms of Use and Privacy Policy. Personal information may be accessible from outside Canada.
+2      Information we collect
+We collect information in four ways:
+Personal information contained in UBC Blogs.
+ Personal information you give to UBC. This is personal information you provide to UBC. This includes information you provide when you:
+Participate in an online forum or poll;
+Fill in a feedback or contact form;
+Share information on any page;
+Request further information about a specific topic; and
+Send emails within the Service.
+Personal information that is automatically collected from you. When you use the Service, we may automatically collect and store certain personal information in server logs. This may include:
+ your internet protocol address;
+device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL; and
+cookies or other anonymous identifiers that may uniquely identify your browser and collect:
+your IP address (a series of numbers that are automatically assigned to your computer when you go online);
+the type of web browser and operating system you use;
+the date and time you visited the Service;
+which pages you visited;
+how long you spent on each page;
+the page you entered the site on; and
+the last page you looked at before you left.
+As soon as you leave the Service, the cookie stops gathering information.
+Personal information that is automatically transferred from other UBC systems. Personal information is transferred from the Student Information System to the Service, including (as applicable) your name, student number, employee identification number, email address and enrolment information.
+3.     Information may be shared within UBC
+Any personal information collected by UBC through the Service may be accessed, used and shared on a “need-to-know” basis by UBC faculty and staff (including contractors) for the purposes set out in the Terms of Use for the Service.
+4.     Information may be shared outside of UBC
+UBC does not permit any personal information collected by UBC through the Service to be accessed, used or shared by companies, institutions, organizations and individuals outside of UBC unless one of the following circumstances applies:
+With the Service’s administrators. The Service contains customized versions of proprietary software products owned by third parties and licensed to UBC. Personal information may be shared with such third party licensors but only when necessary for the operation, maintenance, upgrading, customization, or testing of such software.
+For legal reasons. We will share personal information if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+meet any applicable law, regulation, legal process or enforceable governmental request;
+detect, prevent, or otherwise address fraud, security or technical issues;
+protect against harm to the rights, property or safety of UBC, and the Service’s users.
+For research. We may share aggregated, non-personally identifiable information publicly and with the academic community. For example, we may share information to show trends about the general use of the Service.
+Otherwise, only with your consent. Other than as set out above, UBC will share personal information with companies, institutions, organizations or individuals outside of UBC only when UBC has your express consent to do so.
+5.     How can I access and correct information I submit to the Service?
+You can review any personal information collected about you by submitting a Freedom of Information request ( http://universitycounsel.ubc.ca/access-and-privacy/access-to-information/ ).  You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error to the Access and Privacy Manager at access.and.privacy@ubc.ca or 604-822-2451.
+Unit Name
+1234 Street

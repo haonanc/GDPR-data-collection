@@ -1,0 +1,63 @@
+Image : vShare Helper Download and Installation
+What is vShare Helper ?
+vShare Helper is a tool that helps you to Download vShare Pro on your iOS device by connecting to your PC running Windows OS. It will also help you to backup your files and put music files directly into your Music app. vShare Professional is smoother than the old vShare and once installed, you will be able to install all sorts of apps, games, ringtones, media, etc., whether on your device or via your PC using vShare Helper.
+Important : If you are a Mac user with a system running Mac OSX , follow our tutorial for vShare Mac .
+Steps to Install vShare Helper :
+First, make sure you are on the latest version of iTunes otherwise vShare Professional will not work properly 
+Open the browser on your PC and download vShare Helper from official link http://vshare.store or use this ( alternate link ). Mac users follow the vShare Mac tutorial first and then proceed further.
+After downloading the vShare Helper app run the application. This is a completely safe procedure and will install vShare Helper onto your computer 
+The vShare Helper wizard will now pop up on your screen – choose where you want to install it to 
+Select IPA File Auto Associate and then click on Install 
+When the installation is complete, click Go
+You will now be asked to connect your iPhone or iPad to your computer, do so
+A screen will appear, in the bottom right corner you will see the vShare icon and beneath it, it should say When complete, it will say Idle and Used Space
+Tap on the blue icon for vShare, this will install vShare Professional onto the iOS device connected to the computer 
+Click on the App tab to search for apps and games that you want to install on your device. There is a full store of both genuine paid and free apps and jailbreak app to choose from
+Note that the tab for Music requires you to have iTunes installed – any music downloaded from here will be put straight into your Music app
+Steps to Install Apps using vShare :
+Click on the App tab
+Select the app you want to install and click on the icon  
+When the download is complete, look on the left hand side menu and tap on App. A list of downloads will show, tap on the green arrow beside the app you want to install
+When the installation indicator reaches 100%, the app has been installed on your iOS device and you can use it
+Other Installation Options :
+If you want to use the jailbreak version of vShare , jailbreak your device first to Download Cydia [ext link] and then follow the download instructions to add AppVV repo in Cydia for vShare Download. 
+You can also get vShare on your iOS device directly using Mojo Installer. Download Mojo Installer [ext link] first , and tap on vShare download under sources. More instructions coming soon . 
+vShare Not Working Fix :
+Are you downloading vShare to download your apps and tweaks? You must download Anti Revoke [ext link] if you don’t want all your apps to crash within 7 days. Anti Revoke is a blocking tool topping the app certificates from being revoked.
+Let us know what you think of vShare Helper. To get tips and tutorials like this on a regular basis, follow us on Facebook  .
+Summary
+Reviewer
+i think i can help with your minecraft thing  game
+and you guys should download the 64 bit from somwhere else by searching on google
+and i can also help jailbreak your devices
+Bana na says:
+help me and i will recomend it to my friends
+julian fazil says:
+and which link how do you download vShareHelper?
+Onli WINDOWS!! >:O
+Dear Vshare Team,
+I really liked how you could just download Vshare onto your own phone instantly.I really want that back like the good old days.It was not only quick but it was also easier for users.
+Please consider this for the users of Vshare.
+Thank you,
+I’m running vshare Windows version 1.1.3.0
+Please advise.
+Can you bring back the old vshare were you just get it on your phone
+PS I’m running iOS 7
+I have iPhone 6 Plus iOS 9.3.2
+I wants to download on my phone directly anyone plz help and send me file on my email
+Will be much appreciated
+It works perfectly on iphone 7 iOS 10.1.1 using Windows 10×64!
+vShare is new for me and i can’t find any good free navigation system as
+Navigon,Tomtom or Sygic UK but thanks anyway,you’ve done a great job!
+I have an iphone 7 plus ios 10.1.1
+When i try to download vshare helper on my pc(windows 10) it comes up with an upgrade window saying to fix the bug. When i press upgrade, the window closes and nothing happens.
+I cant seem to get into the helper to download vshare onto my phone,
+if you could email me a solution that would be great !
+I replugged usb many times but still the same.
+please help
+When I download vshare helper,  it shows “vShareHelper setup.exe is not commonly downloaded and may be harmful”
+I had downloaded it before and it worked perfectly fine. I deleted it for some reason and when I try to download it again it shows the message mentioned above. Please help me!!!!
+But I have problem the app not connected to internet
+Comment
+Name *
+Email *

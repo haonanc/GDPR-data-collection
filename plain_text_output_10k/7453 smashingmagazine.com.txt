@@ -1,0 +1,276 @@
+Datenschutzerklärung
+Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
+Data Controller Contact Information
+privacy@smashingmagazine.com
+Effective Date: May 1st, 2018
+Notice Version: 1.01, Updated May 2nd, 2018
+Your Rights
+When using our website and submitting personal data to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your personal data, you may have some or all of the following rights:
+The right to be informed
+You have the right to be informed about the personal data we collect from you, and how we process it.
+The right of access
+You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data.
+The right to rectification
+You have the right to have your personal data corrected if it is inaccurate or incomplete.
+The right to erasure (right to be forgotten)
+You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it.
+The right to restrict processing
+You have a right to ‘block’ or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further.
+The right to data portability
+You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice .
+The right to object
+You have the right to object to us processing your personal data for the following reasons:
+Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling);
+Direct marketing (including profiling); and
+Processing for purposes of scientific/historical research and statistics.
+Rights in relation to automated decision-making and profiling.
+Automated individual decision-making and profiling
+You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
+Filing a complaint with authorities
+You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy.
+For details about your rights under the law, visit https://goo.gl/F41vAV
+Definitions
+‘Non-personal data’ (NPD) is information that is in no way personally identifiable.
+‘Personal data’ (PD) means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Personal Data is in many ways the same as Personally Identifiable Information (PII). However, Personal Data is broader in scope and covers more data.
+A “visitor” is someone who merely browses our website. A “member” is someone who has registered with us to use or buy our services and products. The term “user” is a collective identifier that refers to either a visitor or a member.
+Information We Collect
+Generally, you control the amount and type of information that you provide to us when using our website.
+Our Legal Basis for Collecting and Processing Personal Data
+Our legal basis for collecting and processing your Personal Data when you buy our products or services is based on and the necessity for the performance of a contract or to take steps to enter into a contract. Our legal basis for collecting and processing your Personal Data when you sign up for our newsletter, conference, workshop, services, and product information through our website opt-in forms is based on consent.
+What Happens If You Don’t Give Us Your Personal Data
+If you do not provide us with enough Personal Data, we may not be able to provide you with all our products and services. However, you can access and use some parts of our website without giving us your Personal Data.
+We Collect Your Personal Data in the Following Ways
+Automatic Information
+We automatically receive information from your web browser or mobile device. This information may include the name of the website from which you entered our website, if any, as well as the name of the website you’ll visit when you leave our website, your Internet service provider’s name, your web browser type, the type of mobile device, your computer operating system, and data about your browsing activity when using our website. We use all this information to analyze trends among our users to help improve our website.
+When Entering and Using Our Website
+When you enter and use our website and agree to accept cookies, some of these cookies may contain your Personal Data.
+At User and Member Registration or When Buying Products or Services
+When you register as a user, member, or when buying our products or services, we may collect some or all of the following information: your first and last name, email address, physical address, company name, credit card or other payment information, phone number, user name, password, and other information listed.
+Our Use of Cookies
+Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well.
+By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.
+Strictly Necessary Cookies
+These cookies are necessary for proper functioning of the website, such as displaying content, logging in, validating your session, responding to your request for services, and other functions. Most web browsers can be set to disable the use of cookies. However, if you disable these cookies, you may not be able to access features on our website correctly or at all.
+Performance Cookies
+These cookies collect information about the use of the website, such as pages visited, traffic sources, users’ interests, content management, and other website measurements.
+Functional Cookies
+These cookies enable the website to remember a user’s choices – such as their language, user name, and other personal choices – while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website.
+Media Cookies
+These cookies can be used to improve a website’s performance and provide special features and content such as the author images. They can be placed by third parties who provide services to us or by our company.
+Advertising or Targeting Cookies
+These cookies are usually placed and used by advertising companies to develop a profile of your browsing interests and serve advertisements on other websites that are related to your interests. You will see less advertising if you disable these cookies.
+Session Cookies
+These cookies allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes, such as remembering what a user has put in their shopping cart as they browse a website. Session cookies also permit users to be recognized as they navigate a website so that any item or page changes they make are remembered from page to page. Session cookies expire after a browser session; thus, they are not stored long term.
+Persistent Cookies
+These cookies are stored on a user’s device in between browser sessions, which allows the user’s preferences or actions across a site (or, in some cases, across different sites) to be remembered. Persistent cookies may be used for a variety of purposes, including remembering users’ choices and preferences when using a website or to target advertising to them.
+We may also use cookies for:
+Identifying the areas of our website that you have visited
+Personalizing content that you see on our website
+Our website analytics
+Targeted advertising and serving ads relevant to your interests
+Allowing you to post comments
+Allowing you to share content with social networks
+Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all.
+Web Beacons
+We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our customers, members, and visitors.
+Google Analytics Privacy Notice
+Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with Personal Data. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website. For more information on how Google collects and processes your data, visit https://www.google.com/policies/privacy/partners/
+You can prevent Google Analytics from using your information by opting out at this link: https://tools.google.com/dlpage/gaoptout
+Hotjar Disclosure
+We use Hotjar.com in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience like how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on this link . You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our website and Hotjar’s use of tracking cookies on other websites by following this opt-out link .
+Gravatar Disclosure
+We use a service from www.en.gravatar.com that allows you to have an image that represents you when you are online. It is a picture that appears next to your name when you interact with different websites that are Gravatar-enabled. To make this happen, a tracking mechanism is used that may follow you from website to website.
+How Your Information Is Used
+We use the information we receive from you to:
+Provide our products and services you have requested or purchased from us
+Personalize and customize our content
+Make improvements to our website
+Contact you with updates to our website
+Resolve problems and disputes
+Contact you with marketing and advertising that we believe may be of interest to you
+Communications and Emails
+When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: privacy@smashingmagazine.com
+Sharing Information With Affiliates and Other Third Parties
+We do not sell or rent your Personal Data to third parties for marketing purposes.  However, for data aggregation purposes we may use your NPD, which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your Personal Data. We provide your Personal Data to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors (e.g. Paypal or Stripe), web analytics companies, advertising networks, call centers, data management services, conference service providers (e.g. Tito), help desk providers, accountants, law firms, auditors, shopping cart and email service providers (Mailchimp or Mandrill), and shipping companies (such as Deutsche Post, USPS, DHL etc.).
+Legally Required Releases of Information
+We may be legally required to disclose your Personal Data if such disclosure is
+required by subpoena, law, or other legal process;
+necessary to assist law enforcement officials or government enforcement agencies;
+necessary to investigate violations of or otherwise enforce our Legal Terms;
+necessary to protect us from legal action or claims from third parties, including you and/or other users or members;
+necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.
+Disclosures to Successors
+If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your Personal Data to the new business. The new business would retain the right to use your Personal Data according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business.
+We also retain the right to transfer your Personal Data if our company files for bankruptcy and some or all of our assets are sold to another individual or business.
+Community Discussion Boards
+Our website may offer the ability for users to communicate with each other through online community discussion boards or other mechanisms. We do not filter or monitor what is posted on such discussion boards. If you choose to post on these discussion boards, you should use care when exposing any Personal Data, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your Personal Data through such postings. Also, Personal Data you post on our website for publication may be available worldwide by means of the Internet. We cannot prevent the use or misuse of such information by others.
+Retaining and Destroying Your Personal Data
+We retain information that we collect from you (including your Personal Data) only for as long as we need it for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.
+Updating Your Personal Data
+You can update your Personal Data using services found on our website. If no such services exist, you can contact us using the contact information found at the top of this notice and we will help you. However, we may keep your Personal Data as needed to enforce our agreements and to comply with any legal obligations.
+Revoking Your Consent for Using Your Personal Data
+You have the right to revoke your consent for us to use your Personal Data at any time. Such an optout will not affect disclosures otherwise permitted by law including but not limited to:
+disclosures to affiliates and business partners,
+disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services,
+disclosures to third parties as necessary to fulfill your requests,
+disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law,
+previously completed disclosures to third parties,
+disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your Personal Data, send us an email with your request to: privacy@smashingmagazine.com
+Protecting the Privacy Rights of Third Parties
+If any postings you make on our website contain information about third parties, you must make sure you have permission to include that information in your posting. While we are not legally liable for the actions of our users, we will remove any postings about which we are notified, if such postings violate the privacy rights of others.
+Do Not Track Settings
+Some web browsers have settings that enable you to request that our website not track your movement within our website. Our website does not obey such settings when transmitted to and detected by our website. You can turn off tracking features and other security settings in your browser by referring to your browser’s user manual.
+Links to Other Websites
+Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy notice. These websites will likely have their own privacy notices. We have no responsibility for these websites and we provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy notices of these websites to see how they treat your Personal Data.
+Protecting Children’s Privacy
+Even though our website is not designed for use by anyone under the age of 16, we realize that a child under the age of 16 may attempt to access our website. We do not knowingly collect Personal Data from children under the age of 16. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. You acknowledge that we do not verify the age of our users nor do we have any liability to do so.
+Our Email Policy
+You can always opt out of receiving further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business, or if our company files for bankruptcy.
+Our Security Policy
+We have built our website using industry-standard security measures and authentication tools to protect the security of your Personal Data. We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your Personal Data. When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your Personal Data or secure data transmission over the Internet because of its nature.
+We strongly urge you to protect any password you may have for our website and to not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing or using a computer in a public place.
+Use of Your Credit Card
+You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
+Transferring Personal Data From the European Union
+Personal Data (PD) that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, more specifically Germany. The European Union has not found the United States and some other countries to have an adequate level of protection of Personal Data under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your Personal Data may be transferred outside the European Union to the United States and other countries. We will use your Personal Data to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your Personal Data, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your Personal Data described within this section.
+Changes to Our Privacy notice
+We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your Personal Data in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ Personal Data in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change.
+Questions About Our Privacy notice
+If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice.
+Copyright © Orion Systems. This document or any portion of it may not be copied or duplicated without a license from http://www.DisclaimerTemplate.com
+Cookie Declaration
+privacy@smashingmagazine.com
+Datum des Inkrafttretens: 1. Mai 2018
+Version: 1.01, aktualisiert am 2. Mai 2018
+Ihre Rechte
+Wenn Sie unsere Website nutzen und uns personenbezogene Daten übermitteln, haben Sie bestimmte Rechte gemäß der Datenschutz-Grundverordnung (DSGVO) und anderen Gesetzen. Abhängig von der Rechtsgrundlage für die Verarbeitung Ihrer persönlichen Daten können Sie einige oder alle der folgenden Rechte haben:
+Das Recht, informiert zu werden
+Sie haben das Recht, über die persönlichen Daten, die wir von Ihnen erfassen, und darüber, wie wir sie verarbeiten, informiert zu werden.
+Das Recht auf Zugang
+Sie haben das Recht auf Bestätigung, dass Ihre persönlichen Daten verarbeitet werden und auf Ihre persönlichen Daten zugreifen können.
+Das Recht auf Nachbesserung
+Sie haben das Recht, Ihre persönlichen Daten korrigieren zu lassen, wenn sie ungenau oder unvollständig sind.
+Das Recht zu löschen (Recht auf Vergessen)
+Sie haben das Recht, die Löschung oder Löschung Ihrer personenbezogenen Daten zu verlangen, wenn kein zwingender Grund für die weitere Bearbeitung vorliegt.
+Das Recht, die Verarbeitung zu beschränken
+Sie haben das Recht, die Verarbeitung Ihrer personenbezogenen Daten zu blockieren oder einzuschränken. Wenn Ihre persönlichen Daten eingeschränkt sind, dürfen wir Ihre Daten speichern, aber nicht weiter verarbeiten.
+Das Recht auf Datenübertragbarkeit
+Sie haben das Recht, Ihre uns zur Verfügung gestellten personenbezogenen Daten anzufordern und zu nutzen und für Ihre eigenen Zwecke zu verwenden. Wir stellen Ihnen Ihre Daten innerhalb von 30 Tagen nach Ihrer Anfrage zur Verfügung. Um Ihre persönlichen Daten anzufordern, kontaktieren Sie uns bitte unter Verwendung der Informationen oben auf dieser Datenschutzerklärung.
+Das Recht zu widersprechen
+Sie haben das Recht, der Verarbeitung Ihrer personenbezogenen Daten aus folgenden Gründen zu widersprechen:
+Die Verarbeitung beruhte auf berechtigten Interessen oder der Erfüllung einer Aufgabe im öffentlichen Interesse / Ausübung öffentlicher Gewalt (einschließlich Profiling);
+Direktmarketing (einschließlich Profiling); und
+Automatisierte individuelle Entscheidungsfindung und Profilerstellung
+Sie haben das Recht, keine Entscheidung zu treffen, die ausschließlich auf der automatisierten Verarbeitung, einschließlich der Profilerstellung, beruht, die für Sie rechtliche Auswirkungen oder ähnliche Auswirkungen auf Sie hat.
+Einreichung einer Beschwerde bei den Behörden
+Sie haben das Recht, eine Beschwerde bei den Aufsichtsbehörden einzureichen, wenn Ihre Daten nicht in Übereinstimmung mit der Datenschutz-Grundverordnung verarbeitet wurden. Wenn die Aufsichtsbehörden Ihre Beschwerde nicht ordnungsgemäß behandeln, haben Sie möglicherweise das Recht auf einen Rechtsbehelf.
+Einzelheiten zu Ihren gesetzlichen Rechten finden Sie unter https://goo.gl/F41vAV
+Definitionen
+“Nicht personenbezogene Daten” (NPD) sind Informationen, die in keiner Weise persönlich identifizierbar sind.
+“Persönliche Daten” (PD) sind alle Informationen, die sich auf eine bestimmte oder bestimmbare natürliche Person beziehen (“betroffene Person”); eine identifizierbare natürliche Person ist eine Person, die direkt oder indirekt durch Bezugnahme auf einen Identifikator wie einen Namen, eine Identifikationsnummer, Standortdaten, einen Online-Identifikator oder einen oder mehrere Faktoren identifiziert werden kann, die für den physischen, physiologischen, genetischen, geistige, wirtschaftliche, kulturelle oder soziale Identität dieser natürlichen Person. Persönliche Daten sind in vielerlei Hinsicht identisch mit personenbezogenen Daten (PII). Persönliche Daten sind jedoch breiter angelegt und umfassen mehr Daten.
+Ein “Besucher” ist jemand, der nur unsere Website durchsucht. Ein “Mitglied” (Member) ist jemand, der sich bei uns registriert hat, um unsere Dienstleistungen und Produkte zu nutzen oder zu kaufen. Der Begriff “Benutzer” ist eine kollektive Kennung, die sich auf einen Besucher oder ein Mitglied bezieht.
+Informationen, die wir sammeln
+In der Regel kontrollieren Sie die Menge und Art der Informationen, die Sie uns bei der Nutzung unserer Website zur Verfügung stellen.
+Unsere rechtliche Grundlage für die Erfassung und Verarbeitung personenbezogener Daten
+Unsere gesetzliche Grundlage für die Erhebung und Verarbeitung Ihrer personenbezogenen Daten beim Kauf unserer Produkte oder Dienstleistungen liegt in der Notwendigkeit und in der Notwendigkeit, einen Vertrag abzuschließen oder Vertragsabschlüsse zu treffen. Unsere gesetzliche Grundlage für die Erfassung und Verarbeitung Ihrer personenbezogenen Daten bei der Anmeldung zu unseren Newsletter, Konferenzen, Workshops, Dienstleistungen und Produktinformationen über unsere Website-Anmeldeformulare basiert auf der Einwilligung.
+Was passiert, wenn Sie uns Ihre persönlichen Daten nicht geben?
+Wenn Sie uns nicht genügend persönliche Daten zur Verfügung stellen, können wir Ihnen möglicherweise nicht alle unsere Produkte und Dienstleistungen anbieten. Sie können jedoch auf einige Teile unserer Website zugreifen und diese nutzen, ohne uns Ihre persönlichen Daten mitzuteilen.
+Wir sammeln Ihre persönlichen Daten auf folgende Weise
+Automatische Information
+Wir erhalten automatisch Informationen von Ihrem Webbrowser oder Mobilgerät. Diese Informationen können den Namen der Website enthalten, von der aus Sie unsere Website aufgerufen haben, sowie den Namen der Website, die Sie beim Verlassen unserer Website besuchen, den Namen Ihres Internetdienstanbieters, Ihren Webbrowsertyp und den Typ des Mobilgeräts, Ihres Computerbetriebssystems und Daten über Ihre Browseraktivitäten bei der Nutzung unserer Website. Wir nutzen all diese Informationen, um Trends bei unseren Nutzern zu analysieren, um unsere Website zu verbessern.
+Bei Besuch und Verwenden unserer Website
+Wenn Sie unsere Website besuchen und nutzen und zustimmen, Cookies zu akzeptieren, können einige dieser Cookies Ihre persönlichen Daten enthalten.
+Bei der Registrierung als Nutzer, als Mitglieder oder beim Kauf von Produkten oder Dienstleistungen
+Wenn Sie sich als Nutzer, Mitglied oder beim Kauf unserer Produkte oder Dienstleistungen registrieren, erfassen wir möglicherweise einige oder alle der folgenden Informationen: Vor- und Nachname, E-Mail-Adresse, Anschrift, Firmenname, Kreditkarte oder andere Zahlungsinformationen. Telefonnummer, Benutzername, Passwort und andere Informationen aufgelistet.
+Unsere Verwendung von Cookies
+Unsere Website verwendet Cookies. Ein Cookie ist eine Textdatei, die beim Zugriff auf bestimmte Websites auf Ihren Computer oder Ihr Mobilgerät heruntergeladen wird. Cookies können Text enthalten, der von dem Webserver gelesen werden kann, der den Cookie an Sie übermittelt hat. Der im Cookie enthaltene Text besteht in der Regel aus einer Folge von Buchstaben und Zahlen, die Ihren Computer oder Ihr mobiles Gerät eindeutig identifizieren. Es kann auch andere Informationen enthalten.
+Wenn Sie der Verwendung von Cookies zustimmen, geben Sie uns und Dritten, mit denen wir zusammenarbeiten, die Erlaubnis, einige oder alle der unten beschriebenen Cookies auf Ihrem Computer zu platzieren, zu speichern und darauf zuzugreifen.
+Notwendige Cookies
+Diese Cookies sind für das einwandfreie Funktionieren der Website erforderlich, z. B. für die Anzeige von Inhalten, die Anmeldung, die Validierung Ihrer Sitzung, die Beantwortung Ihrer Anfrage nach Diensten und andere Funktionen. Die meisten Webbrowser können so eingestellt werden, dass die Verwendung von Cookies deaktiviert wird. Wenn Sie diese Cookies jedoch deaktivieren, können Sie möglicherweise nicht richtig oder überhaupt nicht auf Funktionen auf unserer Website zugreifen.
+Leistungscookies
+Funktionelle Cookies
+Diese Cookies ermöglichen es der Website, sich bei der Nutzung der Website an die Wahlmöglichkeiten eines Nutzers zu erinnern - etwa an seine Sprache, seinen Benutzernamen und andere persönliche Entscheidungen. Sie können auch verwendet werden, um Dienste bereitzustellen, z. B. um einem Benutzer das Erstellen eines Blogposts, das Anhören von Audio oder das Anschauen von Videos auf der Website zu ermöglichen.
+Media-Cookies
+Diese Cookies können verwendet werden, um die Leistung einer Website zu verbessern und spezielle Funktionen und Inhalte wie bspw. die Bilder des Autors bereitzustellen. Sie können von Dritten platziert werden, die Dienstleistungen für uns oder unsere Firma erbringen.
+Werbung oder Targeting-Cookies
+Diese Cookies werden in der Regel von Werbeunternehmen platziert und verwendet, um ein Profil Ihrer Browsing-Interessen zu erstellen und Anzeigen auf anderen Websites zu schalten, die mit Ihren Interessen zusammenhängen. Sie sehen weniger Werbung, wenn Sie diese Cookies deaktivieren.
+Sitzungscookies
+Diese Cookies ermöglichen Websites, die Aktionen eines Benutzers während einer Browsersitzung zu verknüpfen. Sie können für eine Vielzahl von Zwecken verwendet werden, z. B. um sich daran zu erinnern, was ein Benutzer in seinen Warenkorb gelegt hat, während er eine Website durchsucht. Sitzungscookies ermöglichen es auch, dass Benutzer beim Navigieren durch eine Website erkannt werden, so dass Änderungen an Elementen oder Seiten, die sie vornehmen, von Seite zu Seite gespeichert werden. Sitzungscookies laufen nach einer Browsersitzung ab; Sie sind daher nicht langfristig gespeichert.
+Persistente Cookies
+Diese Cookies werden zwischen Browsersitzungen auf dem Gerät eines Benutzers gespeichert, wodurch Benutzereinstellungen oder Aktionen auf einer Website (oder in einigen Fällen auf verschiedenen Websites) gespeichert werden können. Dauerhafte Cookies können für eine Vielzahl von Zwecken verwendet werden, einschließlich der Erinnerung an die Auswahlmöglichkeiten und Präferenzen der Benutzer bei der Verwendung einer Website oder um Werbung darauf auszurichten.
+Wir können auch Cookies verwenden für:
+Identifizieren der Bereiche unserer Website, die Sie besucht haben
+Personalisieren von Inhalten, die Sie auf unserer Website sehen
+Unsere Website-Analyse
+Erinnern Sie sich an Ihre Einstellungen, Einstellungen und Anmeldedaten
+Gezielte Werbung und Anzeigen, die für Ihre Interessen relevant sind
+Sie können Kommentare posten
+Die meisten Webbrowser können so eingestellt werden, dass die Verwendung von Cookies deaktiviert wird. Wenn Sie Cookies deaktivieren, können Sie möglicherweise nicht mehr alle Funktionen auf unserer Website nutzen.
+Web Beacons
+Wir können auch eine Technologie namens Web Beacons verwenden, um allgemeine Informationen über Ihre Nutzung unserer Website und Ihre Verwendung von Sonderaktionen oder Newslettern zu sammeln. Die Informationen, die wir per Web Beacons sammeln, erlauben es uns, die Anzahl der Personen, die unsere E-Mails öffnen, statistisch zu überwachen. Web Beacons helfen uns auch, das Verhalten unserer Kunden, Mitglieder und Besucher zu verstehen.
+Google Analytics’ Privatsphäre und Datenschutz
+Unsere Website benutzt Google Analytics, um Informationen über die Benutzung unserer Website zu sammeln. Google Analytics sammelt Informationen von Nutzern wie Alter, Geschlecht, Interessen, demografische Merkmale, wie oft sie unsere Website besuchen, welche Seiten sie besuchen und welche anderen Websites sie verwendet haben, bevor sie auf unsere Website gelangen. Wir nutzen die Informationen, die wir von Google Analytics erhalten, um den Traffic zu analysieren, unsere Produkte und Dienstleistungen für Nutzer neu zu vermarkten, unser Marketing und unsere Werbung zu verbessern und unsere Website zu verbessern. Wir haben Google Analytics-Werbefunktionen wie Seiten- und Werbebannerimpressionen, Klicks auf bestimmte Banner oder Kauf-buttons, sowie Demografien und Interessensberichte für Google Analytics aktiviert. Google Analytics erfasst nur die IP-Adresse, die Ihnen am Tag Ihres Besuchs auf unserer Website zugewiesen wurde, nicht Ihr Name oder andere identifizierende Informationen. Wir kombinieren die über Google Analytics gesammelten Informationen nicht mit personenbezogenen Daten. Obwohl Google Analytics ein permanentes Cookie in Ihren Webbrowser einfügt, um Sie beim nächsten Besuch unserer Website als eindeutigen Nutzer zu identifizieren, kann nur Google diese Information eindeutig zuordnen. Google verwendet außerdem spezifische Identifikatoren, um Informationen über die Nutzung unserer Website zu sammeln. Weitere Informationen zur Erfassung und Verarbeitung Ihrer Daten durch Google finden Sie unter https://www.google.com/policies/privacy/partners/
+Sie können Google Analytics daran hindern, Ihre Daten zu verwenden, indem Sie den folgenden Link deaktivieren: https://tools.google.com/dlpage/gaoptout
+Hotjar Offenlegung
+Wir verwenden Hotjar.com , um die Bedürfnisse unserer Nutzer besser zu verstehen und diesen Service und unsere Erfahrung zu optimieren. Hotjar ist ein Dienstleister, der uns hilft, die Erfahrungen unserer Nutzer besser zu verstehen, wie viel Zeit sie auf welchen Seiten verbringen, welche Links sie anklicken, was Benutzer tun und nicht mögen usw.) und das ermöglicht uns, unseren Service mithilfe dieses Dienstes zu verbessern.. Hotjar verwendet Cookies und andere Technologien, um Daten über das Verhalten unserer Nutzer und deren Geräte (insbesondere IP-Adresse des Geräts (nur in anonymisierter Form erfasst und gespeichert), Bildschirmgröße des Geräts, Gerätetyp (eindeutige Gerätekennungen), Browserinformationen, geografischer Standort zu erfassen (nur Land), bevorzugte Sprache für die Anzeige unserer Website. Hotjar speichert diese Informationen in einem pseudonymisierten Benutzerprofil. Weder Hotjar noch wir verwenden diese Informationen, um einzelne Benutzer zu identifizieren oder mit weiteren Daten eines einzelnen Benutzers abzugleichen. Weitere Einzelheiten finden Sie in der Hotjar-Datenschutzrichtlinie, indem Sie auf diesen Link klicken. Sie können die Erstellung eines Nutzerprofils, die Speicherung von Daten über Ihre Nutzung unserer Website durch Hotjar und die Verwendung von Tracking-Cookies durch Hotjar auf anderen Websites deaktivieren, indem Sie diesem Opt-Out-Link folgen.
+Gravatar Offenlegung
+Wir verwenden einen Service von www.en.gravatar.com , mit dem Sie ein Bild erhalten, das Sie darstellt, wenn Sie online sind. Es ist ein Bild, das neben Ihrem Namen erscheint, wenn Sie mit verschiedenen Websites interagieren, die mit Gravatar aktiviert sind. Um dies zu erreichen, wird ein Tracking-Mechanismus verwendet, der Ihnen von Website zu Website folgen kann.
+Wie Wir Ihre Informationen verwenden
+Wir verwenden die Informationen, die wir von Ihnen erhalten, um:
+Stellen Sie unsere Produkte und Dienstleistungen zur Verfügung, die Sie bei uns angefordert oder gekauft haben
+Personalisieren und personalisieren Sie unsere Inhalte
+Machen Sie Verbesserungen auf unserer Website
+Kontaktieren Sie mit Aktualisierungen unserer Website
+Lösen Sie Probleme und Streitigkeiten
+Kontaktieren Sie uns mit Marketing und Werbung, von denen wir glauben, dass sie für Sie von Interesse sein könnten
+Kommunikation und E-Mails
+Wenn wir mit Ihnen über unsere Website kommunizieren, verwenden wir die E-Mail-Adresse, die Sie bei der Registrierung als Mitglied oder Nutzer angegeben haben. Wir können Ihnen auch E-Mails mit Werbeinformationen über unsere Website oder Angebote von uns oder unseren Partnern senden, sofern Sie sich nicht dafür entschieden haben, solche Informationen zu erhalten. Sie können Ihre Kontakteinstellungen jederzeit über Ihr Konto ändern oder uns eine E-Mail mit Ihrer Anfrage senden an: privacy@smashingmagazine.com
+Weitergabe von Informationen an Partner und andere Dritte
+Wir verkaufen oder vermieten keine Ihrer persönlichen Daten an Dritte zu Marketingzwecken. Für Datenaggregationszwecke können wir jedoch Ihre NPD verwenden, die nach unserem Ermessen an andere Parteien verkauft werden kann. Eine solche Datensammlung würde keine Ihrer persönlichen Daten enthalten. Wir stellen Ihre personenbezogenen Daten an Drittanbieter zur Verfügung, die wir für die Bereitstellung von Dienstleistungen an uns beauftragen. Zu diesen Drittdienstleistern gehören unter anderem Zahlungsdienstleister (z.B. Paypal or Stripe), Webanalyse-Unternehmen, Werbenetzwerke, Call-Center, Datenmanagement-Dienste, Konferenzdienstleister, Helpdesk-Anbieter, Buchhalter, Anwaltskanzleien, Wirtschaftsprüfer, Shopping- und E-Mail Dienstleister (z.B. Mailchimp or Mandrill) und Logistikdienstleister (z.B. Deutsche Post oder DHL).
+Gesetzlich geforderte Veröffentlichung von Informationen
+Wir sind möglicherweise gesetzlich dazu verpflichtet, Ihre personenbezogenen Daten offenzulegen, wenn eine solche Offenlegung vorliegt
+durch Vorladung, Gesetz oder andere rechtliche Verfahren erforderlich;
+Notwendig, um Strafverfolgungsbeamten oder staatlichen Strafverfolgungsbehörden zu helfen;
+notwendig, um Verstöße gegen unsere Nutzungsbedingungen zu untersuchen oder diese anderweitig durchzusetzen;
+notwendig, um uns vor rechtlichen Schritten oder Ansprüchen Dritter, einschließlich Ihnen und / oder anderer Nutzer oder Mitglieder, zu schützen;
+notwendig, um die gesetzlichen Rechte, persönliche / reale Sachen oder die persönliche Sicherheit unseres Unternehmens, der Benutzer, Angestellten und Partner zu schützen.
+Angaben zu Nachfolgern
+Wenn unser Unternehmen verkauft oder ganz oder teilweise mit einem anderen Unternehmen verschmolzen wird, das für die Bereitstellung der Website verantwortlich sein würde, behalten wir uns das Recht vor, Ihre persönlichen Daten an das neue Unternehmen zu übertragen. Das neue Unternehmen behält sich das Recht vor, Ihre personenbezogenen Daten gemäß den Bestimmungen dieser Datenschutzerklärung sowie allen Änderungen an dieser Datenschutzerklärung zu verwenden, die durch das neue Unternehmen eingeführt wurden.
+Wir behalten uns auch das Recht vor, Ihre persönlichen Daten zu übermitteln, wenn unser Unternehmen Insolvenz anmeldet und einige oder alle unserer Vermögenswerte an eine andere Person oder ein anderes Unternehmen verkauft werden.
+Community Diskussionsforen
+Unsere Website bietet Benutzern möglicherweise die Möglichkeit, über Online-Diskussionsforen (z.b. Slack) oder andere Mechanismen miteinander zu kommunizieren. Wir filtern oder überwachen nicht, was in solchen Diskussionsforen gepostet wird. Wenn Sie sich dazu entschließen, in diesen Diskussionsforen zu posten, sollten Sie bei der Offenlegung personenbezogener Daten vorsichtig sein, da solche Informationen nicht durch unsere Datenschutzerklärung geschützt sind und wir nicht dafür haftbar sind, wenn Sie Ihre personenbezogenen Daten durch solche Veröffentlichungen offen legen. Außerdem können persönliche Daten, die Sie auf unserer Website veröffentlichen, weltweit über das Internet verfügbar sein. Wir können die Verwendung oder den Missbrauch solcher Informationen durch Dritte nicht verhindern.
+Speichern und Löschen Ihrer persönlichen Daten
+Wir speichern die von Ihnen gesammelten Daten (einschließlich Ihrer persönlichen Daten) nur so lange, wie wir sie für rechtliche, geschäftliche oder steuerliche Zwecke benötigen. Ihre Informationen können in elektronischer Form, in Papierform oder in einer Kombination von beidem gespeichert werden. Wenn Ihre Informationen nicht mehr benötigt werden, werden wir sie löschen.
+Aktualisierung Ihrer persönlichen Daten
+Sie können Ihre persönlichen Daten entweder über das Kontaktformular auf unserer Website oder über den oben genannten Kontaktdaten aktualisieren. Wir behalten uns jedoch vor, Ihre personenbezogenen Daten nach Bedarf zu speichern, um unsere Vereinbarungen durchzusetzen und gesetzliche Verpflichtungen einzuhalten.
+Widerrufen Sie Ihre Zustimmung zur Verwendung Ihrer persönlichen Daten
+Sie haben das Recht, Ihre Einwilligung zur Nutzung Ihrer personenbezogenen Daten jederzeit zu widerrufen. Solch ein “Optout” hat keine Auswirkungen auf gesetzlich vorgeschriebene Offenlegungen, einschließlich, aber nicht beschränkt auf:
+Offenlegung gegenüber verbundenen Unternehmen und Geschäftspartnern,
+Offenlegung gegenüber Drittanbietern, die bestimmte Dienstleistungen für unser Geschäft erbringen, wie Kreditkartenverarbeitung, Computersystemdienste, Versand, Datenmanagementdienste,
+Offenlegungen gegenüber Dritten, die zur Erfüllung Ihrer Anfragen erforderlich sind,
+Offenlegung gegenüber staatlichen Stellen oder Strafverfolgungsbehörden oder auf andere Weise nach dem anwendbaren Recht,
+zuvor erfolgte Offenlegung gegenüber Dritten,
+Offenlegung gegenüber Dritten im Zusammenhang mit späteren Wettbewerben oder Werbeaktionen, die Sie auswählen können, oder Angeboten von Drittanbietern, die Sie akzeptieren möchten. Wenn Sie Ihre Zustimmung zur Verwendung Ihrer persönlichen Daten widerrufen möchten, senden Sie uns eine E-Mail mit Ihrer Anfrage an: privacy@smashingmagazine.com
+Schutz der Privatsphäre von Dritten
+Wenn Sie auf unserer Website Beiträge veröffentlichen, die Informationen über Dritte enthalten, müssen Sie sicherstellen, dass Sie berechtigt sind, diese Informationen in Ihren Beitrag aufzunehmen. Obwohl wir rechtlich nicht für die Handlungen unserer Nutzer haftbar sind, werden wir alle Postings, über die wir benachrichtigt werden, entfernen, wenn solche Beiträge die Datenschutzrechte anderer verletzen.
+“Do not Track” Einstellungen
+Einige Webbrowser verfügen über Einstellungen, mit denen Sie anfordern können, dass unsere Website Ihre Bewegungen auf unserer Website nicht verfolgt. In diesem Fall kann unsere Website nur noch eingeschränkt nutzbar sein, sie dürfen sie aber weiterhin benutzen. Sie können Tracking-Funktionen und andere Sicherheitseinstellungen in Ihrem Browser deaktivieren, indem Sie auf das Benutzerhandbuch Ihres Browsers verweisen.
+Links zu anderen Websites
+Unsere Website kann Links zu anderen Websites enthalten. Diese Websites unterliegen nicht unserer Kontrolle und unterliegen nicht unseren Datenschutzhinweisen. Diese Websites haben wahrscheinlich eigene Datenschutzhinweise. Wir sind nicht verantwortlich für diese Websites und bieten Links zu diesen Websites ausschließlich zu Ihrer Bequemlichkeit an. Sie erkennen an, dass Ihre Nutzung und der Zugriff auf diese Websites ausschließlich Ihrem Risiko unterliegen. Es liegt in Ihrer Verantwortung, die Datenschutzhinweise dieser Websites zu überprüfen, um zu sehen, wie sie mit Ihren persönlichen Daten umgehen.
+Schutz der Privatsphäre von Kindern
+Obwohl unsere Website nicht für Personen unter 16 Jahren ausgelegt ist, kann es passieren, dass ein Kind von unter 16 Jahren versucht auf unsere Website zuzugreifen. Wir sammeln nicht wissentlich personenbezogene Daten von Kindern unter 16 Jahren. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und glauben, dass Ihr Kind unsere Website nutzt, kontaktieren Sie uns bitte. Bevor wir Informationen entfernen, bitten wir Sie möglicherweise um einen Identitätsnachweis, um die böswillige Entfernung von Kontoinformationen zu verhindern. Wenn wir feststellen, dass ein Kind auf unsere Website zugreift, werden wir seine Informationen innerhalb eines angemessenen Zeitraums löschen. Sie erkennen an, dass wir das Alter unserer Nutzer nicht überprüfen, noch dass wir dazu verpflichtet sind.
+Unsere E-Mail-Richtlinie
+Sie können jederzeit den Erhalt weiterer E-Mail-Korrespondenz von uns oder unseren Partnern ablehnen. Wir werden Ihre E-Mail-Adresse ohne Ihre Erlaubnis nicht an Dritte verkaufen, vermieten oder tauschen, außer im Falle des Verkaufs oder der Übertragung unseres Geschäfts, oder wenn unser Unternehmen Konkurs anmeldet.
+Unsere Sicherheitsrichtlinie
+Wir haben unsere Website mit Industriestandard-Sicherheitsmaßnahmen und Authentifizierungs-Tools aufgebaut, um die Sicherheit Ihrer persönlichen Daten zu gewährleisten. Wir und die Dritten, die Dienstleistungen für uns erbringen, haben auch technische und physische Sicherheitsvorkehrungen getroffen, um Ihre persönlichen Daten zu schützen. Wenn wir Ihre Kreditkarteninformationen über unsere Website erfassen, verschlüsseln wir diese, bevor sie über das Internet übertragen werden. Dabei verwenden wir branchenübliche Technologien zur Durchführung sicherer Online-Transaktionen. Leider können wir nicht garantieren, dass Ihre persönlichen Daten verloren gehen oder missbraucht werden oder dass die Datenübertragung aufgrund ihrer Beschaffenheit über das Internet sicher ist.
+Wir empfehlen Ihnen dringend, Ihr Passwort für unsere Website zu schützen und es niemandem weiterzugeben. Sie sollten sich immer von unserer Website abmelden, wenn Sie sie nicht mehr verwenden, insbesondere wenn Sie einen Computer an einem öffentlichen Ort teilen oder benutzen.
+Verwendung Ihrer Kreditkarte
+Übertragung personenbezogener Daten ausserhalb der Europäischen Union
+Persönliche Daten (PD), die wir von Ihnen erheben, können zwischen allen Ländern, in denen wir tätig sind, insbesondere Deutschland, gespeichert, verarbeitet und übertragen werden. Die Europäische Union hat nicht festgestellt, dass die Vereinigten Staaten und einige andere Länder ein angemessenes Schutzniveau für personenbezogene Daten gemäß Artikel 45 der DSGVO haben. Unser Unternehmen stützt sich auf Ausnahmen für bestimmte Situationen im Sinne von Artikel 49 DSGVO. Für Kunden und Nutzer der Europäischen Union können Ihre personenbezogenen Daten mit Ihrer Zustimmung außerhalb der Europäischen Union in die Vereinigten Staaten und andere Länder übertragen werden. Wir verwenden Ihre personenbezogenen Daten, um die Waren, Dienstleistungen und / oder Informationen, die Sie von uns verlangen, um einen Vertrag mit Ihnen zu erfüllen oder um ein legitimes Interesse unseres Unternehmens in einer Weise zu befriedigen, die Ihre Freiheiten und Rechte nicht überwiegt. Überall dort, wo wir Ihre personenbezogenen Daten übertragen, verarbeiten oder speichern, werden wir angemessene Maßnahmen ergreifen, um sie zu schützen. Wir verwenden die Informationen, die wir von Ihnen erhalten, in Übereinstimmung mit unserer Datenschutzerklärung. Durch die Nutzung unserer Website, unserer Dienste oder Produkte stimmen Sie den in diesem Abschnitt beschriebenen Übermittlungen Ihrer persönlichen Daten zu.
+Änderungen an unserer Datenschutzerklärung
+Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern. Wenn sich unser Unternehmen dazu entschließt diese Datenschutzerklärung zu ändern, werden wir diese Änderungen auf unserer Website veröffentlichen, sodass unsere Nutzer und Kunden stets wissen welche Informationen wir erfassen, verwenden und offenlegen. Sollten wir uns zu irgendeinem Zeitpunkt entschließen, Ihre personenbezogenen Daten in einer anderen als der zum Zeitpunkt der Erfassung angegebenen Methode offenzulegen oder zu verwenden, werden wir Sie per E-Mail (an die in Ihrem Konto angegebene E-Mail-Adresse) vorab benachrichtigen. Andernfalls werden wir die personenbezogenen Daten unserer Nutzer und Kunden in Übereinstimmung mit der Datenschutzerklärung, die zum Zeitpunkt der Erfassung der Daten gültig war, verwenden und offen legen. In allen Fällen bedeutet Ihre fortgesetzte Nutzung unserer Website, unserer Dienste und Produkte nach einer Änderung dieser Datenschutzerklärung, dass Sie diese Änderung akzeptieren.
+Fragen zu unserer Datenschutzerklärung
+Wenn Sie Fragen zu unserer Datenschutzerklärung haben, kontaktieren Sie uns bitte unter den oben angegebenen Kontaktdaten .
+Browse All Smashing Magazine Topics
+Founded by Vitaly Friedman and Sven Lennartz. 2006–2018.
+Smashing is proudly running on Netlify .

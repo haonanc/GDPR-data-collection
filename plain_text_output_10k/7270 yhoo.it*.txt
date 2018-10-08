@@ -1,0 +1,31 @@
+27,96627.9k
+Verizon's media division Oath, which now owns both AOL and Yahoo, has merged the privacy policies of the two widely used online services and email providers around. And you know what this means - the updated terms will bring changes on how the company can utilize customer data and what it's allowed to do with it.
+If you can recall, Verizon bought Yahoo in 2016 (amidst news of its massive data breach) and AOL in 2015. Under the Oath umbrella, expect that the two services will be sharing data with its mother company Verizon, as well.
+In the shadow of the recent Cambridge Analytica and Facebook data fiasco, it's as critical as ever to read and scrutinize the fine print of any service before you agree to its privacy policy.
+Read on and we'll break down what Oath, AOL and Yahoo's new privacy policies can actually mean for you. You probably won't like what you're about to hear.
+The right to read everything
+If you recently checked your Yahoo email, you've most likely received this email announcing the updates to Yahoo and AOL's privacy policies. It explains briefly the merger of Yahoo and AOL to form Oath and how it's unifying the terms of service of sites and services under the Oath umbrella.
+But more importantly, the updated privacy policy reveals that Oath will have the permission to "analyze content and information when you use its services (including emails, instant messages, posts, photos, attachment and other communications.)"
+Before you click "I Accept," there are a few things you need to know about.
+In a nutshell, this means that all the sites and services owned by Oath will now have the right to read and scan your emails, private messages, SMS, videos and photos and use the data for marketing and targeted advertising purposes.
+Keep in mind that Yahoo's privacy policy already states that it already analyzes and stores all communication data, including emails, AOL's old privacy policy hasn't disclosed anything of that sort, so this is something new.
+Although Oath's data analysis FAQ says that its automatic scanning process can "automatically remove any information that could reasonably identify the recipient" before its human employees can manually review the data to improve its services, there's no clear-cut indication on how this process is performed.
+All your photo and video data belong to us
+The new privacy policy also explicitly states that Oath collects your photos and videos identifying "EXIF" data.
+Translation? Well, aside from snooping on your photos and videos, Oath has the right to collect their location, date and time data, camera settings used and even scan them for image and facial recognition.
+You can turn off your camera's EXIF and metadata features, of course, but this won't stop Oath from scanning and analyzing your photo and video content.
+Your banking emails are fair game
+But perhaps the most disturbing part of the new privacy policy is this - "Oath may analyze user content around certain interactions with financial institutions." This means they can scan email content and communications from your bank and credit card company, for example, and use the data for their purposes.
+Oath says that this enables the company to build features that interact with such institutions but lo and behold, it also allows them to send targeted ads via the data mined from these emails. Who knows what else will they do with your banking data?
+Want to sue Oath for privacy violations? Well, good luck with that
+Another interesting section is a mutual arbitration clause that waives your right to a class action lawsuit. This is a big change for Yahoo customers in particular since these waivers were not part of its old privacy policy.
+So if you have issues with how the company is using your data and you have concerns about your privacy, this clause indicates that it will be difficult to sue them. You agreed with its new privacy terms in the first place, right?
+Should you stop using Yahoo and AOL email?
+Based on these changes, you'll have to be careful about what you send through these services if you care about your privacy. With the amount of data they're storing and scanning, you may be just one data breach away from a complete disaster. (Yahoo customers should know.)
+While there's a way to opt out of Oath's targeted ads via its privacy controls , this affords no protection against the company's data collection practices at all. Note that Oath also owns other services, like social media site Tumblr, and the new privacy policies also apply to them.
+In related news, new clever website simplifies privacy policies
+Do you know anyone who even reads privacy policies? Amidst all the privacy concerns swirling, maybe everyone should. This clever new website can help. With the help of machine learning and AI, it can simplify any privacy policy into a form that anyone can understand - a graph. Click here to read more about it.
+FEED YOUR BRAIN
+Join the 3.6 million subscribers already getting the latest and greatest in the tech world right in their inbox.
+SUBSCRIBE
+Advertisement

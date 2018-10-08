@@ -1,0 +1,26 @@
+Privacy Policy
+Since your communication is a very personal matter, the safety of your data is very important to me. I strive to collect a minimal amount of data, with the sole purpose of improving the App.
+Definitions
+Messenger for Desktop is owned by The Cofounders Ltd, Seychelles (referred to as "I" or "Me"). As a customer of this Service you're a "User" or "You" according to this agreement. The App or any Services offered by me will be referred to as "Messenger for Desktop", "App" or "Service".
+This Privacy Policy is included in the Terms and Conditions .
+Your Data & Messages
+Messenger for Desktop is very close to a web browser and does not need direct access to Facebook's APIs. Messenger for Desktop is just a wrapper for the official web app messenger.com , which means that Messenger for Desktop does not handle your data directly. Messenger for Desktop can store data in two ways: on your computer and remotely on my server(s).
+Messenger for Desktop is open-source, so most parts of the App are public: the source code, the build process, the packaging scripts. You may obtain a copy of the source code and create your own clone of Messenger for Desktop, with the ability to have complete control over you data (within the limits of what messenger.com allows). The source code is MIT licensed.
+Data stored on your computer
+This data includes your App preferences, cookies, browser cache and other data that Chromium , Electron or messenger.com might need to store on your computer. This is exactly as it is when using a regular web browser like Safari, Chrome or FireFox.
+Messenger for Desktop does not directly handle, access, store, or otherwise use your Facebook credentials, messages or any other data connected to your Facebook account. This happens indirectly, i.e. by the messenger.com instance that runs inside Messenger for Desktop.
+Data stored remotely on my server(s)
+I do not store your account's details, login credentials, messages or any other data remotely on my server(s). This data is stored and handled solely by Facebook through messenger.com.
+However, I do collect a minimal amount of data with the purpose of improving Messenger for Desktop. See sections 2.3. Statistics and 2.4. Crash Reports. Also I may use third-party advertising companies to serve ads when you visit my website.
+Statistics
+I do not track the way you interact with Facebook or your Facebook contacts.
+For the purpose of understanding my Users, I anonymously collect data which includes but is not limited to: IP address, Operating System type and version, screen resolution, locale, language, App version. I do not collect any personally identifiable data such as your name or your contacts' names. The data I collect is aggregated.
+Crash Reports
+When Messenger for Desktop crashes, an error happens or something goes wrong internally, Messenger for Desktop reports these crashes to my server(s). These crash reports include data such as (but not only): information about the crash, your Operating System type, App version.
+Opting Out
+If you do not wish that I remotely collect data (i.e. statistics and crash reports), you are free to disable this feature from the App menu.
+Changes
+You can object to any changes by deleting the App within 21 days. Otherwise you agree to those changes.
+Questions
+If you have any questions or comments, feel free to write an email to [email protected] .
+The last update to this Privacy Policy was posted on May 8, 2018.

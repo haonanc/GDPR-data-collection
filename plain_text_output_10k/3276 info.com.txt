@@ -1,0 +1,69 @@
+Introduction
+We understand that you are aware of and care about your personal privacy interests, and we take that seriously. This Privacy Notice is meant to help you understand what data we collect, why we collect it, what we do with it, and also sets forth your privacy rights. We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Notice as we undertake new personal data practices or adopt new privacy policies.
+How we collect and use (process) your personal information
+Summary:
+ 
+Registration
+When you register and create an account on our website, we collect information about you, including your name, date of birth, gender, email address and telephone number. If you choose to register using your existing social network profile, we collect information from your profile, including (but not limited to) nickname, avatar (photo), gender, date of birth, profile ID or URL. Users may edit their profile at any time to change, add, or remove certain personal information, except date of birth and gender.
+Your correspondence with Litnet
+If you correspond with us by email, the postal service, or other form of communication, we may retain such correspondence and the information contained in it and use it to respond to your inquiry, or to keep a record of your complaint, accommodation request, and the like. If you wish to have Litnet “erase” your personal information or otherwise refrain from communicating with you, please contact us at support@lit-era.com.
+Purposes for processing your data
+As explained above, Litnet processes your data in order to enhance your experience on our website and to provide you with the services you have requested from us. By creating an account, you get access to additional features, such as ability to save books to your personal library, receive notifications about new content, purchase or publish books, follow your favourite authors, access mature content, and more.
+Payment card information
+You may choose to access paid content on Litnet.com using a payment card or a Paypal account. Typically, from Litnet.com users are redirected to the website of one of the payment processing services to which Litnet subscribes, where they enter their payment information. Litnet itself does not process or store the payment information. We strongly encourage you not to submit this information by email.
+Use of the Litnet.com Website
+Summary:
+As is true of most other websites, Litnet.com collects certain information automatically and stores it in server logs. The information may include internet protocol (IP) addresses and your browser type. We may use this and other information to help diagnose problems with our server and to administer our website. Litnet.com also uses cookies and web beacons in order to collect usage statistics, which are further analyzed and used to monitor your interactions with our web pages and advertisements to help us analyze trends, track visitor movements, and gather broad demographic information that assists us in identifying visitor preferences.
+Expand:
+Cookies and web beacons
+Cookies are pieces of data that a website transfers to a user's hard drive for record-keeping purposes. Web beacons are transparent pixel images that are used in collecting information about website usage, e-mail response and tracking.
+This site uses cookies and Web beacons to provide enhanced functionality on the site (e.g., to help you stay signed into your account when you close and reopen your browser, or to save your bookmarks) and aggregate traffic data (e.g., what pages are the most popular). These cookies may be delivered in a first-party or third-party context. Our site also captures limited information (user-agent, HTTP referrer, last URL requested by the user, client-side and server-side clickstream) about visits to our Site; we may use this information to analyze general traffic patterns and to perform routine system maintenance. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies and web beacons, please consult the privacy features in your browser.
+ 
+We also use Facebook Business Tools, including Facebook Connect, Facebook Custom Audience and Facebook Pixel, provided by Facebook, Inc. (“Facebook”). These are technologies that help us integrate with Facebook, understand and measure our products and services, and better reach and serve people who use or might be interested in our products and services. Similar to Google, Facebook uses cookies to collect information when you visit or use our website. If you registered on our website using your Facebook profile, Facebook may be able to link information about your visits and actions on our website with your Facebook profile information. To read more about Facebook’s data collection and cookie-setting practices, please read its Data Policy and Cookie Policy . You can also use your Facebook ad preferences to learn why you’re seeing a particular ad and control how Facebook uses information it collects to show you ads. To show you better ads, Facebook uses data that advertisers and other partners provide it about your activity off Facebook company Products, including websites and apps. You can control whether Facebook uses this data to show you ads in your Facebook ad settings .
+Our Android application Litnet uses statistics collection service Fabric. You can read the Data Processing and Security Terms here . Also application Litnet uses statistics collection service Crashlytics. You can read their Privacy Policy here .
+If you are located in the European Union, the transfer of your information from the EEA to US is permitted under the Article 45 of the General Data Protection Regulation (GDPR), as Google and Facebook adhere to the EU-US Privacy Shield self-regulatory framework. You can find the details of the framework here .
+You can opt out of seeing online interest-based ads from Facebook, Google and other participating companies through the European Interactive Digital Advertising Alliance in Europe, the Digital Advertising Alliance in the US, the Digital Advertising Alliance of Canada in Canada, or through your mobile device settings. Please note ad blockers and tools that restrict cookie use may interfere with these controls.
+ 
+When and how we share information with others
+The personal information Litnet collects from you is stored in one or more databases hosted by third parties on servers located in Germany. These third parties do not use or have access to your personal information for any purpose other than storage and retrieval.
+We do not reveal your personal data to third-parties for their independent use unless: (1) you request or authorize it; (2) the information is provided to comply with the law (for example, to comply with a search warrant, subpoena or court order), enforce an agreement we have with you, or to protect our rights, property or safety, or the rights, property or safety of our employees or others; (3) the information is provided to our agents, vendors or service providers who perform functions on our behalf; (4) to address emergencies or acts of God; and (5) to address disputes, claims, or to persons demonstrating legal authority to act on your behalf.
+Data subject rights
+Summary:
+The European Union’s General Data Protection Regulation and other countries’ privacy laws provide certain rights for data subjects.
+This Privacy Notice is intended to provide you with information about what personal data Litnet collects about you and how it is used. If you have any questions, please contact us at support@lit-era.com.
+Expand:
+If you wish to confirm that Litnet is processing your personal data, or to have access to the personal data Litnet may have about you, please contact us at support@lit-era.com.
+You may also request information about: the purpose of the processing; the categories of personal data concerned; who else outside Litnet might have received the data from Litnet; what the source of the information was (if you didn’t provide it directly to Litnet); and how long it will be stored. You have a right to correct (rectify) the record of your personal data maintained by Litnet if it is inaccurate. You may request that Litnet erase that data or cease processing it, subject to certain exceptions. In many countries, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how Litnet processes your personal data. When technically feasible, Litnet will—at your request—provide your personal data to you or transmit it directly to another controller, subject to certain exceptions.
+Reasonable access to your personal data will be provided at no cost upon request made to Litnet at support@lit-era.com . If access cannot be provided within a reasonable time frame, Litnet will provide you with a date when the information will be provided. If for some reason access is denied, Litnet will provide an explanation as to why access has been denied.
+Lawful basis for processing
+ 
+We process your information for the purposes described in this notice, based on the following legal grounds:
+When we’re pursuing legitimate interests
+ 
+We process your information for our legitimate interests and those of third parties while applying appropriate safeguards that protect your privacy. This means that we process your information for things such as:
+Providing, maintaining and improving our services to meet the needs of our users
+Developing new products and features that are useful for our users
+Understanding how people use our services to ensure and improve the performance of our services
+Customising our services to provide you with a better user experience
+Detecting, preventing or otherwise addressing fraud, abuse, security or technical issues with our services
+Protect against harm to the rights, property or safety of Litnet, our users or the public as required or permitted by law
+Fulfilling obligations to our partners like developers and rights holders
+Enforcing legal claims, including investigation of potential violations of applicable Terms of Service
+2. When we’re providing a service
+ 
+We process your data to provide a service you’ve asked for under a contract. For example, we collect a copy of your government-issued identification document, and process your payment system or banking information when you wish to publish paid content, or attempt to withdraw funds from your virtual balance on our website.
+3. When we’re complying with legal obligations
+ 
+We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to legal process or an enforceable governmental request.
+Security of your information
+To help protect the privacy of data and personally identifiable information you transmit through use of our website, we maintain physical, technical and administrative safeguards. We update and test our security technology on an ongoing basis. We restrict access to your personal data to those employees who need to know that information to provide benefits or services to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees' privacy responsibilities.
+Data storage and retention
+Your personal data is stored by Litnet on dedicated server(s) located in Germany. Litnet retains data for the duration of the customer’s relationship with Litnet, plus additional six months. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact us at support@lit-era.com.
+Changes and updates to the Privacy Notice
+By using Litnet.com, you agree to the terms and conditions contained in this Privacy Notice and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions, you should not use this site or any Litnet services.
+ 
+Florinis 7, GREG TOWER, 2nd floor
+1065, Nicosia, Cyprus
+Email: support@lit-era.com
+На сайте Litnet используются файлы cookie. Cookie обеспечивают правильную работу сайта и предоставляют вам больше возможностей при его использовании. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie.
+18+Внимание! Сайт может содержать материалы, не предназначенные для просмотра лицами, не достигшими 18 лет!

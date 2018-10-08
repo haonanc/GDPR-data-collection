@@ -1,0 +1,40 @@
+»
+WhatsApp updates privacy policy for India: Here's what it means for you
+WhatsApp updates privacy policy for India: Here's what it means for you
+Almost one million people are "testing" WhatsApp's payments service in India, which is the largest base for the Facebook-owned company that has over 1.5 billion users globally.
+PTI | Jun 23, 2018, 04:15PM IST
+WhatsApp, which is testing its payments services in India, today said it is updating its terms of service and privacy policy to "reflect the addition of payment interoperability features" ahead of the full-fledged launch of the service.
+Almost one million people are "testing" WhatsApp's payments service in India, which is the largest base for the Facebook-owned company that has over 1.5 billion users globally. WhatsApp has over 200 million users in India.
+"We'll be updating our WhatsApp payments Terms of Service and Privacy Policy to provide simpler language on how the payments feature operates. It also reflects the addition of payment interoperability features we've added since the beta started," a WhatsApp spokesperson told .
+The spokesperson added that the company has worked closely with National Payments Corporation of India (NPCI), bank partners, and the Indian government on these details of how its service works. WhatsApp had received permission from NPCI to tie up with banks to facilitate financial transactions via Unified Payments Interface ( UPI ).
+"We still do not have a launch date but this terms and policy update bring us one step closer to full launch," the spokesperson said but declined to comment on the launch date of the service.
+WhatsApp payment service, which rivals the likes of Paytm , has been in beta testing over the last few months. Industry watchers expect the full-fledged launch in the next few weeks.
+As part of the updated terms, WhatsApp said it may collect additional information when payments service is used.
+"We've added new features like interoperability that request additional information (related to) WhatsApp payments user and user of any BHIM UPI-enabled app," the spokesperson said.
+The terms state that WhatsApp collects information "when you send, receive, or request a payment, including the date and time and reference transaction number". Also, when someone makes a payment to a WhatsApp contact, the company collects the sender and receiver's names and BHIM UPI IDs.
+The company added that it uses "all the information we have to operate, provide, improve, understand, customise, support, and market our services".
+"This includes using the information to provide payments and customer support, to protect you and others using our services from fraud, abuse, or other misconduct, and to review your account activity to determine whether you continue to meet our Terms and Payments Terms," it added. It also outlined that the company works with "the other Facebook companies to provide payments, including to send payment instructions to PSPs (payment service providers)".
+Paytm founder Vijay Shekhar Sharma had earlier this year alleged that WhatsApp's UPI payment platform has security risks for consumers and is not in compliance with the guidelines.
+The Reserve Bank of India has mandated all payment system operators to ensure that data related to payments is stored only in India giving firms six months to comply with it.
+According to sources, the ministry of electronics and IT has asked NPCI to check if WhatsApp's payments service conforms with the RBI rules and data security of customers. They added that NPCI has been asked to check that all compliances are in place before the US-based messaging app is allowed to scale up its services.
+WhatsApp had stated that sensitive user data such as the last 6 digits of a debit card and UPI PIN are not stored at all.
+While it admitted to using the infrastructure of Facebook for the service, it asserted that the parent firm does not use payment information for commercial purpose. "Facebook processes UPI transaction data as a service provider for WhatsApp, and does not use WhatsApp payments transaction data for commercial purposes," the spokesperson had clarified.
+Concerns have been growing around security of consumer data on various online social media platforms, especially after the data breach incident at Facebook where data of about 87 million users globally (rpt) globally were harvested illegally by data analytics and political consultancy firm Cambridge Analytica.
+See Also
+Delivered to your mailbox
+Characters Remaining: 3000
+Continue without login
+Share on Facebook
+Share on Twitter
+Refrain from posting comments that are obscene, defamatory or inflammatory, and do not indulge in personal attacks, name calling or inciting hatred against any community. Help us delete comments that do not follow these guidelines by marking them offensive. Let's work together to keep the conversation civil.
+HIDE
+Be the first one to review.
+We have sent you a verification email. To verify, just follow the link in the message
+Top News
+Patanjali's Whatsapp-rival Kimbho will take two more months, at least
+Here's how listening to music on headphones puts kids' hearing at risk
+Bitcoin falls to four-month low in persistent bearish trend
+Xiaomi seeks to raise up to $6.1 billion in Hong Kong IPO
+Soon, you may not be able to port your mobile number
+3D printing makes slow but steady inroads into industry
+Startup dishes out food cooked by robotic kitchen

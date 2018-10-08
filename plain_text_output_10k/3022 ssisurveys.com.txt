@@ -1,0 +1,155 @@
+Si eres residente de los Estados Unidos de América y estás visitando este sitio para averiguar más acerca del píxel Convertro, ten en cuenta que el píxel rastrea tus actividades de navegación en línea para determinar si interactúas o ves ciertos sitios webs y anuncios.  Si ya no deseas que un tercero, es decir, Convertro, rastree estas actividades, borra todas las cookies de tu máquina/computadora/dispositivo.  Gracias.
+Política de privacidad para residentes de cada país excepto los países de la UE y México de SSI [Centro De Opinion, Que Crees, Opiniolandia]
+Fecha de vigencia original: 15 de agosto de 2013
+Esta versión: A partir de 1 de abril de 2017
+El presente describe la política de privacidad para las comunidades paneles en línea Survey Sampling International, LLC, los sitios de Internet de panel Survey Sampling International, LLC y/o las aplicaciones móviles Survey Sampling International, LLC (colectivamente "Aplicaciones/Servicios") ofrecidos por Survey Sampling International, LLC, y su matriz, subsidiarias y compañías afiliadas (en lo sucesivo "SSI"). 
+Esta Política de Privacidad establece la forma en que SSI recopila, usa y divulga datos personales o información de identificación personal (“PII”) y de otros tipos en relación con los Servicios de SSI, tal como se definen aquí, y otras actividades de SSI y terceros, según se define en el presente ("Actividades no relacionadas con investigación").  Los Servicios de SSI le brindan la oportunidad de unirse a un panel, participar en encuestas administradas por SSI o por terceros (ya sea como miembro de un panel o sin ser miembro de un panel), utilizar los sitios web asociados con los paneles, y recibir y canjear recompensas e incentivos, incluyendo, sin limitación, participación en sorteos, que se ofrecen en relación con la afiliación a un panel o el llenado de encuestas (en forma colectiva, “Servicios”). Las actividades no relacionadas a la investigación incluyen, mas no están limitadas, a servicios de mercadotecnia de SSI y/o terceros que comercializan sus servicios a usted y/o compartir datos individuales y/o acumulados con terceros para desarrollar conocimientos de mercadotecnia y/o públicos/modelos de imitación.  Las actividades no relacionadas a la investigación se describen con más detalle en esta Política de Privacidad. 
+Su uso de las aplicaciones/Servicios de SSI es completamente voluntario y, por lo tanto, el procesamiento de su información de identificación personal por parte de SSI en relación con las aplicaciones/servicios y con esta Política de Privacidad es con su consentimiento.
+Las encuestas administradas por terceros y los datos recopilados en relación con ellas no están sujetas a esta Política de Privacidad. El registro en, el uso de y el acceso a los Servicios de SSI está sujeto a los Términos y Condiciones de SSI .   En la mayoría de los casos, SSI no es el patrocinador de la encuesta y el instrumento de la encuesta, así como los resultados o datos de la misma, son y serán propiedad del patrocinador de la encuesta.  
+ 
+Cuales datos personales y otra información recaba la aplicación/servicios y como se utilizan?
+SSI recaba información de identificación personal ("PII") de los participantes de la investigación durante, y después, del registro en un panel, incluyendo, sin limitación, durante la participación en una encuesta y en conexión con el recibo y canje de compensaciones e incentivos y/o durante el registro de la aplicación/servicios y proceso de descarga. Se le pedirá que proporcione cierta PII e información demográfica, incluyendo, sin limitación, su nombre, domicilio(s), numero(s) telefónico(s) (incluyendo teléfono de casa, de celular y/o de su empleo), dirección(es) de correo electrónico, fecha de nacimiento y ocupación/educación, el número de identificación único del panelista/encuestado que le asignamos cuando se inscribió solicitando una cuenta (individualmente un "UID" y colectivamente "UIDs") e información de raza y género. Además de la recopilación de la información de identificación personal mencionada arriba, se le podrá pedir que proporcione o divulgue Datos Delicados en forma voluntaria durante y después del proceso de registro. “Datos Delicados” se refiere a información de identificación personal que divulgue o revele afecciones de salud o médicas, orientación o vida sexual, opiniones o puntos de vista políticos, origen racial o étnico, creencias religiosas o filosóficas y afiliación sindical. Los Datos Delicados se utilizan para identificar oportunidades de encuestas para usted y como se indica en la presente Política de Privacidad. 
+SSI recopila información de identificación personal y demográfica de miembros que no pertenecen a paneles antes de una encuesta y durante su participación en ella.
+ 
+Información adicional que usted proporciona.
+ 
+Información recopilada por medios automatizados:
+ 
+Datos de geolocalización. La aplicación/servicios pudiera solicitar su permiso para obtener información de geolocalización sobre su dispositivo móvil, y dicha información de geolocalización pudiera ser provista por la aplicación/servicios en cualquier momento, ya sea que la aplicación/servicios este abierta, o no. Si usted autoriza compartir datos de su geolocalización, además de los usos descritos en la sección "Uso de la información de SSI" abajo, SSI también utiliza la información de su localización para ofrecerle a usted la opción de participar en encuestas basadas en su localización e investigación de mercado y/o compartir dichos datos de geolocalización con clientes terceros para demostrar ciertos patrones de localización y/o tráfico de los participantes de la aplicación/servicios. Además, SSI pudiera compartir sus datos de geolocalización con terceros para identificar domicilios comerciales cercanos a su ubicación, tal como tiendas o restaurantes. Para conocer más sobre proveedores, visite www.placed.com para obtener una descripción de los servicios que ofrecen y como se utilizan los datos de geolocalización, incluyendo el uso de dichos datos para publicidad en base a su ubicación.
+Los datos de geolocalización también pudiera utilizarlos redes publicitarias para proporcionarle publicidad basada en su ubicación. El uso de los datos por parte de las redes publicitarias, y como no participar, se describe con más detalle a continuación.
+ 
+ 
+ 
+Cookies y tecnología similar. Las cookies son pequeños archivos que almacenan ciertos datos en un dispositivo o computadora. Las cookies de sesión vencen cuando usted cierra el navegador. Las cookies persistentes permanecen en su dispositivo hasta que sean eliminadas o hasta que llegue su fecha de vencimiento. Usted pudiera configurar su navegador para que le notifique cuando reciba una cookie.
+Es posible que se coloquen, escriban, establezcan y/o se lean cookies de primeros y terceros y otras tecnologías similares o relacionadas e identificadores de dispositivo (por ejemplo, IDFA, AAID, etc.) para varios propósitos que incluyen, sin limitación, brindar una mejor experiencia de encuesta, control de calidad, validación, para permitir o facilitar la participación en encuestas, seguimiento de encuestas completadas u otras acciones completadas, para prevención y/o detección de fraude,  investigaciones de eficacia de anuncios en línea, seguimiento de sitio web y medición de audiencia, para desarrollar las ideas de la audiencia y/o modelos similares en relación con campañas de marketing, y para el fin de tener anuncios dirigidos y otro contenido para individuos,  sujeto a su consentimiento, en los casos en donde se requiera según la ley aplicable. Sin embargo, para ciertas cookies y/o tecnología similar o relacionada, si usted decide no aceptar nuestras cookies, usted no podrá utilizar la aplicación/servicios.
+Nuestras cookies se describen con más detalle aquí:
+Esencial
+SSI-ASPXAUTH
+PHPSESSID
+Publicidad
+Las instrucciones para excluirse se encuentran en la liga a continuación. 
+Comscore
+Eficacia de anuncios en línea, seguimiento de visitas de sitios web, desarrollo de cohortes parecidas e ideas de la audiencia
+Eficacia de anuncios en línea, seguimiento de visitas de sitios web, desarrollo de cohortes parecidas e ideas de la audiencia
+Publicis
+Eficacia de anuncios en línea, seguimiento de visitas de sitios web, desarrollo de cohortes parecidas e ideas de la audiencia
+http://match.rundsp.com/optout
+Quantcast
+Desarrollo de grupos en línea "similares" y conocimientos del publico
+Desarrollo de cohortes parecidas en línea e ideas de la audiencia
+[INSERT]
+YouTube
+ 
+ 
+Marcas de agua. En general, las marcas de agua consisten en colocar una tecnología o archivo en su dispositivo para identificar que se ha utilizado previamente para registrarse en la aplicación/servicios de SSI o acceder a ellos. Las marcas de agua se utilizan para fines de control de calidad, validación y detección y prevención de fraudes. SSI pudiera realizar las actividades de marcas de agua en forma directa o a través de un proveedor externo con su consentimiento cuando así lo requiera la ley correspondiente.
+ 
+Información recopilada de terceros
+ 
+ 
+Uso de la información por parte de SSI:
+Además de los propósitos descritos aquí, SSI utiliza los datos personales recabados por medio de la aplicación/servicios como se indica a continuación: (i) para comunicarse con usted acerca de su membresía en un panel propiedad de SSI; (ii) para comunicarse con usted acerca de su participación en encuestas; (iii) para personalizar oportunidades de encuestas para usted y organizar publicidad que se le mostrara a usted fuera de la aplicación/servicios para propósitos de facilitar el llenado de encuestas de recuperación de publicidad; (iv) para enviarle notificaciones de oportunidades de encuestas; (v) para cumplir con todas las obligaciones legales, como serían, sin limitación, obligaciones fiscales; (vi) para aplicar y administrar los programas de recompensas e incentivos de SSI y responder a sus solicitudes de recompensas e incentivos; (vii) para permitir su participación en sorteos y promociones de SSI y comunicarse con usted con respecto a dichas participaciones; (viii) para actualizar los registros de SSI; (ix) para cumplir con todas las obligaciones o requisitos de supresión de datos; (x) para fines de detección o prevención de fraudes; (xi) para ligar su dispositivo y/o perfil a información adicional disponible sobre usted y/o su dispositivo disponible desde las plataformas de administración de datos ("DMP"); (xii) para comercializar productos/servicios de SSI a usted; (xiii) para permitir que terceros comercialicen sus productos/servicios a usted; (xiv) para permitir que SSI o terceros desarrollen conocimientos de mercadotecnia y/o modelos de público/similares; (xv) para validar información de perfil que usted nos proporcionó; y/o (xvi) según se permita de cumplimiento con esta Política, o según usted lo autorice.  SSI pudiera utilizar la información recabada en el contexto de la aplicación/servicios en conexión con otros paneles de encuestas que SSI administra y/o en conexión con actividades no relacionadas con investigación.  Con respecto al enlace de los datos de la aplicación/servicios a datos de DMP de terceros, SSI utiliza dichos datos y/o permite a los clientes de SSI y/o DMP a utilizar dichos datos para proporcionarle a usted oportunidades de encuestas, para medir la efectividad de la publicidad (según se describe con más detalle a continuación), para segmentar los públicos; para diseñar campañas de publicidad utilizando grupos de similares basado en datos de encuestas y terceros; y/o comercializar dichos productos/servicios de terceros a usted. 
+Redireccionamiento.  SSI podrá, en algunas ocasiones, contratar a uno o más terceros para que exhiban publicidad en sitios de Internet de SSI o para que administren la publicidad de SSI en otros sitios web (por ejemplo, en sitios de redes sociales). Los socios externos de SSI pudieran utilizar tecnologías como cookies o elemento de datos de identificación. Incluyendo, mas no limitado a, su IDFA o identificación de publicidad para recabar información sobre sus actividades en sitios de Internet de SSI o en otros sitios de Internet, con el fin de: (i) Presentarle publicidad sobre SSI y sus servicios o (ii) ayudar a SSI en el desarrollo de campañas publicitarias y de mercadotecnia diseñadas para enfocarse en personas que tengan un perfil social y demográfico similar al suyo. Si SSI está llevando a cabo un programa de redireccionamiento y usted no desea participar en él, podrá excluirse de manera voluntaria a través del proceso correspondiente de exclusión voluntaria de cookies presentada en esta Política de Privacidad en el aviso de cookies de SSI presentado en forma aparte, al modificar su IDFA o identificación de publicidad y/o al cancelar la suscripción dentro de la publicidad misma.
+Ideas del público/modelos similares.  SSI y/o terceros pudieran utilizar la PII recabada de usted y/o pudieran ligar dicha PII recabada de usted a cookies de terceros para desarrollar conocimientos de públicos y/o modelos de similares en relación con las campanas de mercadotecnia. 
+Eficacia de publicidad en línea.  En relación con el programa de eficacia de anuncios en línea de SSI, usted puede participar en encuestas sobre anuncios, promociones, contenido, campañas y/o sitios web que SSI está probando para sus clientes. Para facilitar la realización de estas encuestas, los clientes de SSI podrán escribir, establecer o leer cookies, objetos compartidos o almacenados localmente, cookies de Flash y otras tecnologías relacionadas (cada una de ellas una “Tecnología de Terceros”, denominadas colectivamente las “Tecnologías de Terceros”). Las Tecnologías de Terceros podrán escribirse, establecerse o leerse en diversos lugares, como serían, sin limitación, servidores o sistemas de SSI. Si usted participa, su número de identificación único será almacenada en o asociada a la Tecnología de Terceros para permitir que puedan volver a ponerse en contacto con usted acerca del anuncio o la promoción en línea, y el cliente de SSI utilizará la Tecnología de Terceros para determinar si usted ha visto, hecho clic o interactuado de otra manera con el anuncio o la promoción en línea. Si usted ha interactuado con el anuncio o la promoción en línea, el cliente de SSI le enviará a SSI su número de identificación único y la encuesta específica y SSI le dará a usted la oportunidad de contestar la encuesta.
+ 
+ 
+Uso de la información de los socios publicitarios.
+Usted podrá utilizar la aplicación/servicios para participar en encuestas, incluyendo, sin limitación, encuestas respecto a ciertos anuncios específicos y promoción que SSI este probando para sus clientes comerciales. Usted pudiera observar estos anuncios o promociones en varios lugares, incluyendo, sin limitación, aplicaciones móviles que no sean de SSI (por ejemplo, en aplicaciones de juegos), después de la cual SSI pudiera otorgarle acceso a la misma, o contactarlo para llenar una encuesta sobre el anuncio o promoción a la cual está usted expuesto. Para facilitar el llenado de las encuestas sobre anuncios o promociones, SSI se ha asociado con compañías de anuncios para proporcionar, medir o facilitar publicidad, incluyendo, sin limitación, en varias aplicaciones móviles. La aplicación/servicios proporciona estas redes publicitarias con el UID, el identificador unido de su dispositivo, y varios, o todos, los tipos de información descritos en la sección "información recabada por medios automáticos" anterior (incluyendo su geolocalización continua, si su dispositivo permite la captación de su geolocalización). Luego, cuando usted utilice una aplicación móvil que se haya asociado con una de las compañías de anuncios, la compañía de anuncios podrá utilizar el identificador único de su dispositivo u otra información recabada automáticamente para reconocer su dispositivo. La compañía de anuncios pudiera entonces mostrarle a usted algún anuncio o promoción que SSI este probando para uno de nuestros clientes comerciales. La compañía de anuncios pudiera entonces informar a SSI que el dispositivo relacionado con su UID ha recibido un anuncio o promoción, el cual permite a SSI proporcionarle acceso, o contactarlo para llenar una encuesta respecto al anuncio o promoción. Con su consentimiento, las compañías de anuncios utilizan la información que recaban sobre su dispositivo y sus interacciones con la aplicación/servicios y otras aplicaciones móviles para proporcionarle otra publicidad dentro de la aplicación que haya sido personalizada a sus intereses y para otros fines. Para conocer más sobre estas compañías de anuncios, así como excluirse, visite la siguiente:
+¿Qué comunicaciones recibiré a través de la aplicación/servicios de SSI o referente a los servicios?
+SSI pudiera contactarlo para que participe en encuestas a través de notificaciones enviadas o mensajes de texto o SMS, si usted conviene expresamente a recibir dichas notificaciones para recibir dichas comunicaciones.
+Además, SSI y/o sus agentes o proveedores a nombre de SSI, le enviaran comunicaciones por correo electrónico respecto a invitaciones de encuestas, participación de encuestas, información de recompensas o incentivos, consultas y reembolso, boletines informativos, notificaciones que se requiera proporcionar según se indica en el presente o por ley, participación en sorteos o promociones, y en respuesta a consultas por parte suya.
+ 
+¿Comparte SSI con terceros información de identificación personal y otra información recabada a través de la aplicación/servicios de SSI?
+De cumplimiento con la ley correspondiente, SSI pudiera divulgar a terceros información de identificación personal y otra información recabada a través de los Servicios de SSI de la siguiente manera:
+(i) Bajo su consentimiento;
+(ii) En respuesta a una citación judicial u orden de un tribunal o de una entidad de gobierno;
+(iii) Para establecer, ejercer o defender reclamaciones legales de una persona o de SSI, incluso para proteger la seguridad de una persona o los derechos y/o bienes de SSI;
+(iv) Entre varios paneles de SSI, si usted se registra para más de uno;
+(v) A una empresa matriz, subsidiaria o afiliada de SSI: (1) en caso de una reorganización o reestructuración, o (2) para ser usada y procesada de conformidad con esta Política de Privacidad o en la forma autorizada por usted;
+(vi) A agentes autorizados y/o subcontratistas de SSI y/o de clientes de SSI, que presten servicios, como serían, sin limitación, servicios de anexo de datos, servicios de validación de datos, servicios de detección y prevención de fraudes, servicios de cotejamiento de bases de datos, servicios de codificación, servicios de segmentación de datos y servicios relacionados con recompensas, incentivos y sorteos;
+(vii) A un cliente para usos limitados de investigación de mercados, como serían, sin limitación, modelado, anexo de datos, segmentación de bases de datos, y canje, cumplimiento y/o participación de recompensas, incentivos o sorteos;
+(vii) En relación con un cambio de propiedad o control, como serían, sin limitación, la fusión o adquisición de la totalidad o de una parte de los activos de negocios de SSI, siempre y cuando la parte que recibe o adquiere la información de identificación personal convenga en usar, proteger y mantener la seguridad, integridad y confidencialidad de la información de identificación personal de conformidad con esta Política de Privacidad;
+(ix) a un cliente o al consumidor de dicho cliente en caso de que SSI o un tercero considere que usted haya, o pudiera haber, infringido los derechos de propiedad intelectual de un tercero;
+(x) a un cliente o al consumidor de dicho cliente en caso de que SSI o un tercero considera que usted haya infringido los Términos del Servicio;
+(xi) a terceros, los cuales pudieran incluir tanto clientes de investigación de SSI y terceros que participen en actividades no relacionadas con investigación, para permitir a dicho tercero a desarrollar campañas de mercado, conocimientos sobre el público, modelos de similares y/o comercializar dichos productos/servicios del tercero a usted; y
+(xi) Como se permita de conformidad con esta Política.
+Considere que SSI podrá permitir que un cliente recabe información de identificación personal directamente de los encuestados. La divulgación es voluntaria y, antes de recopilar la información, el cliente deberá firmar un acuerdo escrito con SSI, en el cual, entre otras cosas, se limite el uso de la información de identificación personal. 
+SSI pudiera autorizar cierta PII a terceros (por ejemplo, agentes de datos, acumuladores de datos, etc.) para sus propios fines que no fueran de investigación, incluyendo, sin limitación, la licencia de datos a nivel individual y/o acumulado (por ejemplo, actividades de compra de productos y/o servicios, actividad de redes sociales, datos de visitas de sitios de Internet, historial de búsquedas en Internet, etc.) para el desarrollo de conocimientos de público y/o modelos similares, para el propósito de venta de dichos datos a clientes/consumidores terceros para el fin de realizar análisis y proporcionar inteligencia del mercado y/o para permitir que dichos terceros comercialicen sus productos/servicios a usted.
+Además, los UID y la información recabada por medios automatizados se proveen a terceros, como serían, sin limitación, clientes, agentes y/o proveedores, para propósitos, tales como, sin limitación, identificación de encuestados para encuestas o comunicaciones de segundo contacto, detección o prevención de fraudes, cotejamiento de bases de datos, validación de datos, anexo de datos, codificación, segmentación de datos, servicios relacionados con recompensas, incentivos o promociones.
+ 
+¿Cómo puedo excluirme voluntariamente de cierta recopilación o uso de datos?
+Hay varias opciones de exclusión voluntaria para los usuarios de la aplicación/servicios de SSI.
+Usted puede detener que la aplicación/servicios recopile datos personales y otra información desinstalando la aplicación/servicios y/o dando por terminada su participación en el panel. Usted pudiera utilizar los procesos de desinstalación disponibles como parte de su dispositivo móvil, o a través de la aplicación de mercado o red y/o usted pudiera cancelar su cuenta de panelista en el sitio de paneles.  Tome en cuenta que, si usted elimina la aplicación/servicios, pero mantiene un perfil con uno de los sitios de Internet de SSI, aun pudiéramos recabar datos personales, y otros, de usted a través de nuestros sitios. El desinstalar la aplicación/servicios no eliminara toda la información recabada por SSI antes de desinstalar la aplicación/servicios. Para eliminar toda la información recopilada por SSI, comuníquese con SSI de la manera descrita más bajo.
+ 
+Usted pudiera, en cualquier momento, excluirse de permitir que la aplicación/servicios acceda su ubicación por medio de:
+Tocar o seleccionar el icono de configuraciones del dispositivo;
+Una vez en el icono de configuraciones, toque o seleccione Servicios de Ubicación; y
+Una vez en Servicios de Ubicación, desactive los servicios de ubicación con el deslizador individual de la aplicación/servicios.
+ 
+Usted pudiera, en cualquier momento, excluirse de permitir que la aplicación/servicios acceda su ubicación por medio de:
+Toque el botón SOBRE en la parte superior derecha de la barra de navegación
+Una vez en el dialogo SOBRE, desactive los Servicios de Ubicación con el deslizador marcado con: "Acceder a mi ubicación"
+Para excluir las notificaciones automáticas en iOS
+Usted puede excluir las notificaciones automáticas para la aplicación/servicios al:
+Tocar o seleccionar el icono de configuraciones del dispositivo;
+Una vez en el icono de configuraciones, toque o seleccione Notificaciones;
+Si esta activada la opción de notificaciones automáticas, habrá una lista de iconos, toque el icono de la aplicación/servicios, y
+En esta pantalla, usted podrá modificar la configuración de notificaciones automáticas de la aplicación/servicios.
+Para excluir las notificaciones automáticas en Android
+ 
+Acceder la configuración del dispositivo.
+En el área de Configuraciones, localice la configuración de la aplicación.
+Una vez en Aplicaciones, ubique la aplicación relevante (QuickThoughts o iPoll) y selecciónela.
+ 
+ 
+Excluirse de compartir datos de perfil de plataformas de redes sociales
+ 
+Exclúyase de utilizar el identificador publicitario que le fue asignado a su teléfono inteligente/dispositivo
+ 
+Exclusión de red de publicidad
+Las redes de publicidad que recaban información a través de la aplicación/servicios para facilitar encuestas y proporcionar publicidad en base a los intereses ofrecen ciertos mecanismos de exclusión. Para excluirse, siga las instrucciones cada una de las redes de publicidad en las ligas a continuación. Si usted se excluye, no podrá participar en las encuestas sobre anuncios y promociones.
+Red de publicidad
+Información de exclusión
+Admob by Google
+ 
+¿Puedo detener a SSI para que no rastree mis actividades en línea?
+No seguimiento (“DNT”) es una preferencia en su navegador que puede activar para notificar a los sitios web que visita que no quiere que los sitios web recopilen cierta información sobre usted. SSI no responde a las señales de no seguimiento. Si usted objeta a la práctica de SSI con respecto a las señales de no seguimiento, podrá excluirse voluntariamente de la participación o el uso de los Servicios de SSI en la forma descrita más adelante.
+ 
+¿Durante cuánto tiempo conserva usted mis datos personales y otra información?
+ 
+Como puedo acceder los datos personales y otra información que la aplicación/servicios han recabado sobre mí?
+ 
+La aplicación/servicios recaban datos de menores de dieciocho (18) años de edad?
+ 
+¿Qué seguridad está disponible para la información de identificación personal y otra información recopilada a través de la aplicación/servicios?
+ 
+¿Con quién puedo comunicarme si tengo preguntas sobre esta Política?
+Si usted desea:
+- comunicar una solicitud de exclusión a SSI;
+- solicitar acceso a, o la corrección, bloqueo o eliminación de, sus datos personales;
+- hacer una queja sobre nuestra practica de privacidad;
+- excluir su PII de ciertos usos;
+o si tiene preguntas sobre las prácticas de privacidad de SSI y/o esta Política, envíenos un correo electrónico a la dirección privacy@surveysampling.com .
+ 
+¿Hay empresas dentro del grupo SSI que pudieran recopilar, almacenar y procesar información de identificación personal?
+Sí, consulte la lista de empresas a continuación:
+Survey Sampling Europe BV - Weena 161, 3013 CK Róterdam, Holanda.
+Survey Sampling Bulgaria EOOD - Triaditza área, #82, Patriarh Evtimii street, 1463, Sofía, Bulgaria.
+SSI Denmark ApS – Frederiksholms Kanal 4B, DK-1220, Copenhague K Copenhague.
+Survey Sampling France SASU - 22 rue de Dunkerque, 75010 París, Francia.
+Survey Sampling Germany GmbH - Kaiserstrasse 13, 60311 Frankfurt am Main, Alemania.
+Survey Sampling RO S.R.L.  - 12 Popa Sapca Street, Timisoara 300057, Rumania.
+Survey Sampling Spain S.L. - C/ Carranza, 25, 2ª planta, 28004, Madrid, España.
+SSI Sweden AB - Drakens Gränd 8, 111 30 Estocolmo, Suecia.
+Survey Sampling UK Ltd. – India House, 2nd Floor 45 Curlew Street Londres SEI 2nd Reino Unido.
+Survey Sampling Hong Kong Ltd. – 6/F, Hollywood Centre, 233 Hollywood Road, Sheung Wan, Hong Kong.
+SSI Beijing Co. Ltd. – CBD International Mansion, Room 901A, No. 16 Yongandongli, Chaoyang District, Beijing 100022, China.
+Survey Sampling Australia Pty. Ltd. – Level 11, 131 York Street, Sydney NSW 2000, Australia.
+Survey Sampling Singapore PTE Ltd. - #58 Republic Plaza, 9 Raffles Place, Singapur 048619.
+Survey Sampling International Services Company S. de R.L. de C.V. – Córdoba 42, Piso 9, Col. Roma Norte/Del. Cuauhtémoc, México, D.F. 06700.
+Survey Sampling Korea Ltd. – Level 4, 27-8, Gukjegeumyung-ro 8-gil Yeongdeungpo-gu, Seúl Corea del Sur 150-998.
+Survey Sampling Japan GK – 3F KK Building, I-8-5, Shinkawa, Chuo-Ku, 104-0033, Tokio, Japón.
+SSI Do Brasil Pesquisa de Mercado Ltda. – Rua das Olimpiadas, 205 – 40 ander 04551-000, Sao Paulo, Brasil.
+SSI Philippines Inc. – PIPC Bldg 7, MEPZ II, Basak, Lapu-Lapu, Cebu 6015, Filipinas.
+MRops Programming India Private Ltd. – 8th Floor, Block 1, My Home Hub, Madhapur, Hyderabad, TG 500081.
+Mountain West Research Center L.C.

@@ -1,0 +1,44 @@
+The portal „euroreg.uw.edu.pl” hereinafter referred to as the Portal is aware of how important confidentiality and rules for collecting and processing personal data are. This document aims at defining and presenting these rules.
+Portal Administration
+All activities related to functioning of the Portal are carried out by the Centre for European Regional and Local Studies (EUROREG), University of Warsaw, Krakowskie Przedmieście str. 30, 00-927 Warsaw through its organisational cells.
+Collecting data
+I. All data coming from the Portal's users is collected in two ways:
+information entered voluntarily by  a user – by filling and sending forms: of registration, restoration of lost accounts, orders, comments, contact;
+information obtained during use of the Portal – among others it may be:
+information in the servers' logs – our servers record automatically such data as webpage demand sent by a user, date and hour of the demand and sending the response, the equipment's data (e.g. model of the equipment), type of browser, language of browser, type of operational system,
+IP address – each computer connected to Internet has a unique number assigned so called IP address; based on it one may identify a country from which a given user connects with a network,
+cookies  i.e. text files sent to a user's computer when he/she visits a webpage.
+II. The administrator of the data is Centre for European Regional and Local Studies (EUROREG), University of Warsaw.
+Personal data
+The Portal commits itself to observe the secret related to obtained personal data. This means that the obtained data, under no circumstances, is revealed to anyone. In majority of cases, data we ask for is name and e-mail address. In the event of order forms it may be required to give full personal data. Failure to give the data will stop the action to which the data related.
+Newsletter
+We send information on promotions and novelties in our offer to the subscribers of our newsletter. No other information shall be sent. If a user does not wish to receive more information from our newsletter, he/she may at any moment, cancel the subscription by entering one's e-mail address and ticking "delete". To enter one's name and e-mail address in the newsletter database it is necessary to enter the data in a correct window on the webpage and reply to the letter received via e-mail.
+Cookies
+I. An internet browser may store cookie files on a computer disk. Cookie files contain information necessary for correct functioning of the Portal.
+II. Contents of cookie files do not allow to identify a user.
+III. Personal data of the Portal's users is not processed or stored with use of cookie files.
+IV. Cookie mechanism is not used for obtaining any information about users.
+V. The Portal stores cookie files on users' computers for:
+correct adjustment of the Portal to the users' needs;
+remembering a user's preferences and personal settings;
+creating statistics of the Portal's audience;
+adjusting advertisement fields to individual interests of the recipients  via the service Google AdSense.
+VI. A user has a possibility of configuring his/her internet browser in such a manner as to switch off completely or partially storage of cookie files on the computer's hard disk. The effect of such change may be a loss of a possibility of using some of the Portal's functionalities.
+Using data
+I. Data collected under the Portal serve to ensure defined services to our users and for administrative and statistical purposes, and also for the Portal's protection.
+II. The data shall not be sold or revealed to any institutions or organisations or parties who are not the Portal's employees or permanent partners. However the following companies may have access to the data:
+Google Inc. by using, for statistical purposes, the functionality Google Analytics;
+Google Inc. by using Google„+1”button;
+Google Inc. by using the functionality of presenting advertisements Google AdSense;
+Google Inc. by using a tool excluding undesired operation of automatic programmes Google reCaptcha.
+Facebook by presence of social utilities and buttons for sharing contents such as „Like it”, „Recommend”;
+AddThis by using a button for sharing contents in social networks AddThis.
+III. Based on the information obtained under the Portal, the Portal may prepare a collective statistical listing which may be revealed to third parties. Such listings do not, however, contain data making it possible to identify single users.
+IV. The Portal ensures to its users completion of the rights provided for in the regulations of the Article 32 of the Act on Personal Data Protection of 29 August 1997 (Journal of Laws of 2002, No. 101, item 926, with amendments), and in particular the right to access to one's own personal data, the right to cancel at any moment consent to process personal data concerning a given user, the right to demand an up-date of the data and the right to raise an objection to processing the data in the cases provided for in the regulations of this Act.
+Safety
+I. The Portal makes every effort to protect the system against unauthorised access of third parties. For this purpose the Portal uses, among others, firewall, equipment protecting the servers, coding devices and physical protection means.
+II. The Portal contains links to other webpages. Having entered other sites, we recommend that you should read privacy policy binding on the sites.
+Final provisions
+ 
+ 
+Created by:

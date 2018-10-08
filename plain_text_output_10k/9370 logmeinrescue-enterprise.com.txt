@@ -1,0 +1,101 @@
+ 
+This privacy policy (“Privacy Policy”) governs how we, Atera Networks Ltd. (“Atera” “we”, “our” or “us”) use, collect and store information pertaining to you (“User”, “you”) in the following use cases:
+When you make use of our website, www.atera.com (“Website”);
+When you commence direct communications with us;
+When you exchange business cards with us, or provide other Personal data when attending a marketing event or trade show; and
+When we acquire your Personal Data from third-party sources (such as lead-generation companies).
+We greatly respect your privacy, which is why we make every effort to provide a platform that would live up to the highest of user privacy standards. Please read this Privacy Policy carefully, so you can fully understand our practices in relation to Personal Data. “Personal Data” means any information that can be used, alone or together with other data, to uniquely identify any living human being.
+Table of contents:
+ 
+WHAT INFORMATION WE COLLECT, WHY WE COLLECT IT, AND HOW IT IS USED
+Individual
+Legal basis
+Period of Storage
+Customer
+Company name, IP Address, country, Address, city, state, zip code, time zone, company logo, first name (per seat), last name (per seat), phone (per seat), email (per seat), user name, password
+When you register an account via our Website to use our Software, we need this information to open and manage your account.
+If you are an existing customer with an account on our Website, we may send you, from time to time, news and updates regarding our products and services. You may choose to unsubscribe and stop receiving such communications via the appropriate link in the email.
+Necessary to perform a contract or take steps to enter into a contract with you
+Salesforce
+Mixpanel
+AWS (EU)
+For as long as is reasonably necessary for us to adequately provide you with the services included in the Website
+You will not be able to use the software.
+Website user
+First name, last name, email, company name
+When you commence direct communication with us, for example through the “Contact Us” option or via the chat on the Website.
+Legitimate interest
+Data will be deleted per request
+For as long as is reasonably necessary for us to adequately provide you with the services included in the Website
+We will not be able to respond to your enquiry.
+Potential customers
+Information provided by the third party provider, such as First name, last name, email, company name
+When we acquire your Personal Data from third-party sources (such as lead-generation companies).
+Consent
+Salesforce
+7 years
+We will not be able to get in touch with you.
+Website users
+Company knowledge base, company scripts repository, time-driven events, recorded actions, SMTP settings, history logs.
+We use Personal Data collected through log files to analyze trends, administer the Website, track users’ movement around the Website, and gather demographic information, all for the purpose on improving our Website.
+The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages and clicked pages.
+Consent
+Microsoft Azure (EU)
+for as long as is reasonably necessary for us to adequately provide you with the services included in the Website
+We will not be able to improve our Website, or provide you with content and offers which may be of interest to you.
+Website users
+Cookies
+When you use our Website, we will collect receive information collected from cookies implemented by third parties, in order to improve our Website and target you relevant with marketing campaigns On social media or by email.
+Consent
+During the period in which you use our Website.
+for as long as is reasonably necessary for us to adequately provide you with the services included in the Website
+You will not be able to use our Website
+Website users
+Analytics tools
+We use the information we receive from Analytics Tools to maintain and improve the Website and our other products and services.
+Please see more information about our use of analytics tools here
+Consent
+During the period in which you use our Website.
+for as long as is reasonably necessary for us to adequately provide you with the services included in the Website
+You will not be able to use our Website
+ 
+1. ANALYTIC TOOLS
+We use analytical tools, including without limitation, “Google Analytics,” “MixPanel,” “HotJar”, “FullStory” and others, to collect information about use of the Website (“Analytics Tools”). Analytics Tools collect information such as how often users visit the Website, what pages they visit when they do so, and what other websites they used prior to coming to the Website. We use the information we receive from Analytics Tools to maintain and improve the Website and our other products and services. Google’s ability to use and share information collected by Google Analytics about your access and use of the Website is restricted by the Google Analytics Terms of Website, available at http://www.google.com/analytics/terms/us.html , and the Google Privacy Policy, available at http://www.google.com/policies/privacy/ . You may learn more about how Google collects and processes data specifically in connection with Google Analytics at http://www.google.com/policies/privacy/partners/ . You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at https://tools.google.com/dlpage/gaoptout/ . Mixpanel’s use of information is set forth in the “Privacy Policy” section of its Terms of Use available at https://mixpanel.com/terms/ . You may opt-out of Mixpanel’s automatic retention of data at https://mixpanel.com/optout/ . If you get a new computer, install a new browser, erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may also clear the Mixpanel opt-out cookie. HotJar’s use of information is governed by its privacy policy, available at https://www.hotjar.com/privacy . HotJar provides opt-out instructions for certain, or all, of its data collection at https://www.hotjar.com/opt-out . FullStory’s use of information collected through its analytics tools is set forth in the FullStory privacy policy available at https://www.fullstory.com/legal/privacy . You may also opt-out of FullStory by following the instructions in FullStory’s privacy policy. To opt out, please visit the FullStory Opt-Out Page, available at: https://www.fullstory.com/optout .
+2. HOW WE PROTECT AND STORE YOUR INFORMATION
+Security. We have implemented appropriate technical, organizational and security measures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the information concerned. However, please note that we cannot guarantee that the information will not be exposed as a result of unauthorized penetration to our servers. Nevertheless, we make commercially reasonable efforts to make the collection and security of such information consistent with this Privacy Policy and all applicable laws and regulations. As the security of information depends in part on the security of the computer, device or network you use to communicate with us and the security you use to protect your user IDs and passwords, please make sure to take appropriate measures to protect this information.
+ 
+3. HOW WE SHARE YOUR PERSONAL INFORMATION
+In addition to the recipients described in Section 1, we may share your information as follows:
+Regulatory Requirements. To the extent necessary, with regulators, to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies or if required to do so by court order.
+ 
+4. ADDITIONAL INFORMATION REGARDING TRANSFERS OF PERSONAL INFORMATION
+We ensure transfers within the Atera group will be covered by an agreement entered into by members of the Atera  group (an intra-group agreement) which contractually obliges each member to ensure that Personal Data receives an adequate and consistent level of protection wherever it is transferred to;
+Where we transfer your Personal Data outside of the Atera Group, for example to third parties who help provide our products and services, we will obtain contractual commitments from them to protect your Personal Data. Some of these assurances are well recognized certification schemes like the EU – US Privacy Shield for the protection of Personal Data transferred from within the EU to the United States; or
+Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any Personal Data is disclosed; and
+ 
+5. YOUR RIGHTS
+The following rights (which may be subject to certain exemptions or derogations), shall apply to individuals who are protected by the GDPR:
+You have a right to access information held about you. Your right of access is normally be exercised free of charge, however we reserve the right to charge an appropriate administrative fee where permitted by applicable law;
+You have the right to request that we amend any Personal Data we hold that it is inaccurate or misleading.
+You have the right to request the erasure of the Personal Data that relates to you. Please note that there may be circumstances in which we are required to retain your data, for example for the establishment, exercise or defense of legal claims;
+The right to object to or to request restriction of the processing. However, there may be circumstances in which we are legally entitled to refuse your request;
+The right to data portability. This means that you may have the right to receive your Personal Data in a structured, commonly used and machine-readable format, and that you have the right to transmit that data to another controller;
+You have the right to object to profiling;
+You have a right to lodge a complaint with your local data protection supervisory authority (i.e., your place of habitual residence, place or work or place of alleged infringement) at any time. We ask that you please attempt to resolve any issues with us before you contact your local supervisory authority
+The right to withdraw your consent. Please note that t there may be circumstances in which we are entitled to continue processing your data, in particular if the processing is required to meet our legal and regulatory obligations.
+ 
+You can exercise your rights by contacting us at privacy@atera.com . Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly or inform you if we require further information in order to fulfil your request.  When processing your request, we may ask you for additional information to confirm your identity and for security purposes, before disclosing the Personal Data requested to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
+ 
+6. USE BY CHILDREN
+ 
+7. CONTACT US
+ 
+8. LINKS TO AND INTERACTION WITH THIRD PARTY PRODUCTS.
+ 
+9. CALIFORNIA PRIVACY RIGHTS
+ 
+10. OUR CALIFORNIA DO NOT TRACK NOTICE
+ 
+11. DELETION OF CONTENT FROM CALIFORNIA RESIDENTS
+If you are a California resident under the age of 18 and a registered user, California Business and Professions Code Section 22581 permits you to remove content or Personal Data you have publicly posted.  If you wish to remove such content or Personal Data and you specify which content or Personal Data you wish to be removed, we will do so in accordance with applicable law.  Please be aware that after removal you will not be able to restore removed content. In addition, such removal does not ensure complete or comprehensive removal of the content or Personal Data you have posted and that there may be circumstances in which the law does not require us to enable removal of content.
+Copyright © 2018 Atera Networks Ltd.

@@ -1,0 +1,93 @@
+On our websites we use cookies to ensure certain technical functions and to carry out analyses and statistics of the usage of our websites in order to continuously improve the user experience. For more information on cookies, including possibilities to prevent, object to and delete cookies, please refer to our Data Protection Information   and Cookie Information . By continuing to browse on our websites, you agree to this use of cookies.
+Accept
+Deny
+Data Protection Information
+Corporate Websites (“about.puma.com”)
+This Data Protection Information provides information on the processing of your personal data whenever you visit websites of PUMA SE (hereinafter “PUMA”, “we” or “us”) under the domain “about.puma.com” in accordance with the EU General Data Protection Regulation (hereinafter “GDPR”).
+1. Scope, data controller, data protection officer and definitions
+1.1 Scope of this Data Protection Information
+This Data Protection Information applies to the use of the websites of PUMA SE under the do-main “about.puma.com”. Data processing on websites of other companies within the PUMA Group are not covered by this Data Protection Information.
+1.2 The Controller for the processing of your personal data
+Unless otherwise specified in this Data Protection Information, the Controller for the processing of your personal data is:
+PUMA SE
+Data Protection Officer
+91074 Herzogenaurach
+Email: privacy@puma.com
+1.4 Definitions
+This Data Protection Information is based on the following terms under data protection law, which we have defined to facilitate understanding.
+GDPR means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+Recipient means a natural person or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular enquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by the public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing;     Examples of possible recipients: IT services providers or adverting partners; for more information please refer to Section 4)
+PUMA Group means all enterprises that are affiliated with PUMA SE pursuant to Section 15 Aktiengesetz [German Stock Corporation Act].
+Personal data means any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.     Examples of personal data: Name, contact details, IP addresses.
+Controller means the natural person or legal person, public authority, agency, or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.     For the data processing activities described in this Data Protection Information, the Controller is PUMA SE (Section 1.2.).
+Processing means any operation or set of operations which is on personal data or on sets of personal data, whether or not by automated means such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+2. Purposes and legal bases of our processing of your personal data
+2.1 Processing of your data when you visit our websites
+If you visit our websites in order to find out about our brand without actively transferring information to us (purely for informational purposes), we process your personal data for the following purposes and by virtue of the following legal bases:
+2.1.1 IT Security
+We process your personal data that are technically necessary to allow us to provide our websites to you and to guarantee stability and security when you visit our websites. This includes the following personal data:
+IP address
+operating system and platform
+the complete Uniform Resource Locator (URL)
+This data processing is necessary for the purpose of our legitimate interest to guarantee IT security (Legal basis: Art. 6 (1) sentence 1, lit. f GDPR).
+2.1.2 Google Analytics
+We use Google Analytics on our websites, a web analysis service of Google Inc. (“Google”). Google Analytics uses cookies (for more information on cookies please refer to Section 2.1.3 and our Cookie Information) that allow an analysis to be made on the usage of our websites. The information generated by the cookie on the use of our websites is, as a rule, transferred to a server of Google in the USA, where it is stored. However, as we use Google Analytics with the extension “anonymizeIP()”, Google will reduce the IP address of the website visitor within Member States of the European Union or in other states party to the Agreement on the European Economic Area beforehand, which excludes any direct association to you. Only in exceptional cases, is the full IP address transferred to a server of Google in the USA and shortened there. On behalf of PUMA, Google will use this information in order to evaluate the use of the websites, to prepare reports on the website activities and to provide further services to PUMA connected with the use of the websites and of the Internet. The IP address transferred from the user’s browser with regard to Google Analytics is not merged with other data by Google. Further information on terms of use and data protection can be found under:
+Google Analytics Opt-out:
+You can prevent the processing of your usage data (including your IP address) by Google Analytics generally, by downloading and installing the browser add-on available at the following link:
+Deny
+In this case a persistent opt-out cookie is set, that prevents your data from being recorded in the future when you visit our websites. Please note that if you delete this cookie (e.g. by deleting all cookies on your browser) you will have to reset this opt-out cookie if you still want to prevent Google Analytics on our websites.
+2.1.3 Use of cookies
+On our website we use cookies. Cookies are small text files that are stored in the browsers of your end devices whenever you visit our websites. Through cookies, your actions and settings on our websites can be tracked, stored and recognized for the duration of the browser session or even after this. In addition to this, cookies and their respective cookie IDs allow your browser to be recognised. For more information about the use of cookies on our websites (including types and purposes of our cookies and information on cookie settings) please refer to our about.puma.com/en/privacy.
+2.2 Careers / Job application
+If you want to apply to a job advertisement in the “Careers” section you will forwarded to our job application platform. For further information on the processing of job applicants’ personal data please refer to the respective Data Protection Statement published under this link:
+http://about.puma.com/damfiles/default/meta/data-protection-statement.pdf-02186e70166917258a85ccb979b79b01.pdf
+3. Retention and erasure of your personal data
+The personal data we process for security purposes according to Sec. 2.1.1 will be deleted after 7 business days. (Personal) data collected in connection with Google Analytics according to Sec. 2.1.2 will be deleted after 14 months).
+4. Transfer of personal data and the categories of recipients
+Your personal data may be transferred / disclosed to the following categories of recipients:
+IT Service providers who prepare the platforms, databases and tools for our products and services (e.g. our website, the sale of goods, the dispatch of newsletters and informative emails), issue analyses on user habits on our websites, carry out marketing campaigns, and process your personal data during the purchasing process on our behalf.
+In connection with the use of Google Analytics, including tags and cookies, your personal data may be transferred to the USA. In the case of the USA, the EU Commission has not decided that there is a suitable level of data protection within the meaning of the GDPR; such an adequacy decision (Art. 45 GDPR) has not been taken. Google LLC is, however, subject to the EU-U.S. Privacy Shield. This means that adequate protection of your personal data is guaranteed. You can retrieve the full text of the US Privacy Shield Framework at the following link:
+In the case of legal disputes, we transfer your data to the competent court and, if you have engaged a lawyer, to the latter, in order to conduct the legal dispute. This transfer of personal data is necessary for compliance with a legal obligation (Legal basis: Art. 6 (1) sentence 1, lit. c GDPR) and/or for the purpose of our legitimate interest in the establishment and exercise of legal claims (Legal basis: Art. 6 (1) sentence 1, lit. f GDPR).
+In addition to this, we only transfer your personal data if we are legally obliged to forward such data (e.g. to the police authorities within the scope of criminal investigations or to the data protection supervisory authorities). This transfer of personal data is necessary for compliance with a legal obligation (Legal basis: Art. 6 (1) sentence 1, lit. c GDPR).
+5. Right to object to data processing based on legitimate interests
+If we process your personal data according to Section 2 of this Data Protection Information on the basis of our legitimate interests (Legal basis: Art. 6 (1) sentence 1, lit. f GDPR), you can – without prejudice to, if applicable, specific unsubscribe / opt-out possibilities provided in Section 2 – object to the respective data processings at any time on grounds relating to your particular situation by sending your request to privacy@puma.com. We will then no longer process your data for this / these purpose(s) unless our legitimate interests in processing overweights or the processing serves to establish, exercise or defend legal claims.
+If you object to the processing of your data, we will process any collected personal data in this context in order to respond to your request. This data processing is necessary for compliance with a legal obligation (Legal basis: Art. 6 (1) sentence 1, lit. c GDPR).
+6. Your other data protection rights
+In accordance with the GDPR, you may demand at any time that we:
+provide you with information on your personal data that we process (Art. 15 GDPR),
+rectify any of your personal data (Art. 16 GDPR),
+erase (Art. 17 GDPR), restrict (Art. 18 GDPR) and/or export (Art. 20 GDPR) any of your personal data stored on our systems.
+Please send your request by email to privacy@puma.com .
+If you exercise these rights against us, we will process your personal data in order to respond to your request. This data processing is necessary for compliance with a legal obligation (Legal basis: Art. 6 (1) sentence 1, lit. c GDPR).
+Irrespective of your above mentioned rights, you can lodge a complaint with a data protection supervisory authority, if you are of the opinion that the processing of your personal data by PUMA violates the GDPR (Art. 77 GDPR).
+7. Changes to this Data Protection Information
+The provisions of this Data Protection Information shall apply in the version in force at the time our websites are visited.
+We reserve the right to supplement and modify the content of this Data Protection Information. The updated Data Protection Information applies from the time, in which it was published on our websites.
+We will inform you promptly of these additions and modifications on our websites and, if we already have your contact information on file, will inform you via email or by post. You have the opportunity to inspect, print out and store the modified Data Protection Information at any time.
+Cookie Information
+1. Scope
+In concretization of Sec. 2.1.4 of the Data Protection Information Corporate Website, this Cookie Information specifies the use of cookies on the websites of PUMA SE (hereinafter "PUMA", "we" or "us") under the domain “about.puma.com” in accordance with the EU General Data Protection Regulation (hereinafter “GDPR”).
+2. General information about cookies
+Cookies are small text files that are stored in the browsers of your devices when you visit our websites. They can be used to store and track your actions and settings on our websites for the duration of your browser session and, if necessary, beyond. Furthermore, cookies enable the recognition of your browser.
+3. Types of cookies used
+3.1 First party cookies   
+We use first-party cookies, i.e. cookies which are set by the servers of our websites and which can only be accessed by our servers.
+3.2 Third party cookies
+In addition, cookies from third party providers (third party cookies) are also integrated on our websites. They are set by servers of third party websites or domains and therefore can be read by those third parties.
+4. Storage periods of our cookies
+4.1 Session Cookies
+Some of the cookies used are session cookies, i.e. cookies that are only stored for the duration of your visit to our website.
+4.2 Persistent Cookies
+In addition, we also use persistent cookies, which remain stored on your browser after the duration of a session and are automatically deleted after a specified expiry time.
+5. Purposes of our cookie usage
+5.1 Necessary cookies
+We use cookies, which are necessary for the operation of our websites.
+5.2 Functional cookies
+In addition, we use cookies to provide you with certain (convenience) functions through automatic (re-) recognition of your browser. This includes, for example, the automatic detection of whether you have already accepted our cookie notice “banner”.
+5.3 Analytical cookies
+Furthermore, we use cookies to collect information about your website visits to create anonymous statistics from them in order to continually improve the design of our website.
+6. Cookie settings
+In your browser settings you can restrict or completely prevent the storage of (certain types of) cookies and delete cookies that have already been stored there. For more detailed information, please refer to the instructions or help function of your browser.
+In principle, our websites can still be visited and used even after cookies have been restricted in the browser settings. Please note, however, that such restrictions can lead to limited functionalities of our website.
+Annual Report
+2017 was an exciting year for us as a sports brand and for our business. Take a look.

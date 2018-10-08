@@ -1,0 +1,66 @@
+Privacy policy
+This privacy policy (together with our terms and conditions and any other documents referred to within) governs the collection, storage and use of personal information collected by us, Qmee Ltd, in providing our service, including our website at www.qmee.com, our qmee browser application software (which is available for download via the website) and our qmee mobile application. It provides you with details about the personal information we collect from you, how we use your personal information, our lawful bases for processing your data and your rights to control personal information we hold about you.
+Please read this privacy policy carefully – by accessing or browsing this website, you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use our service, including this website and any software available for download on the website.
+This privacy policy was last updated on 8th May 2018 and takes effect on 20th May 2018. Please check back regularly to keep informed of updates to this privacy policy. If we make a material change to this Privacy Policy we will provide a notice to you to provide you with the opportunity to review the changes before they take effect. If you object to any changes you may close your account.
+You acknowledge that your continued use of our service after we publish or send a notice about our changes to this Privacy Policy means that the collection, use and sharing of your personal data is subject to the updated Privacy Policy.
+Who we are
+Qmee Ltd is a company registered in England and Wales (registration number 07455925), whose registered office address is 8th Floor South, Reading Bridge House, George Street, Reading, RG1 8LS, England. Qmee Ltd is regulated by the UK Information Commissioner’s Office (ICO) with registration number ZA169563.
+We respect your right to privacy and will only process personal information you provide to us in accordance with the General Data Protection Regulation (GDPR) and other applicable privacy laws.
+If you have any questions about how we collect, store and use personal information, or if you have any other privacy-related questions, please e-mail us at support@qmee.com . You may also contact the Qmee Data Protection Office at dpo@qmee.com .
+The personal information we collect about you
+On Sign Up
+To create an account, you need to provide data including your email address, country of residence, and a password. We will also ask you to allow us to send you information about our services, competitions and other marketing activities; you may refuse or withdraw your consent to this at any time by updating your profile or by contacting us at support@qmee.com . You may also choose to give us other information such as your first name and last name when you create your account.
+Qmee Browser Application
+When you use our Qmee browser application we will collect the following information from you: your search terms, details of sponsored links that you click when using our service and details of your behaviour on the sites linked to by our service, namely the pages you browse and for how long you browse those pages. The browser application does not collect any information when you are browsing in privacy mode unless you have explicitly enabled it in the browser settings.
+Cash Out
+When you cash out your rewards we will collect the following information: your PayPal ID, your PayPal address, your PayPal email, your cash out amount and date, your gift card cash out amount and date, your charity cash out amount and date.
+Surveys
+To receive surveys, we will collect the following basic demographic data from you such as: your year and month of birth, your gender, your postcode, your marital status, education, employment and income range. We will from time to time ask you additional demographic questions to better match you to surveys which you may choose whether to answer.
+Qmee Mobile Application
+The Qmee mobile application stores information about your phone including your device ID. The mobile application also stores information about the offers you like or click on.
+Service Use
+We log usage data when you visit or otherwise use our services, including our website, browser app and mobile app, such as when you view or click on content or ads or install or update our mobile apps or browser app. We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use.
+Cookies
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and allows us to improve our site. We use "analytical" cookies to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. If you register with us or complete our online forms, we will use cookies to remember your details during your current visit, and any future visits provided the cookie was not deleted in the interim. If you click on sponsored results when using our service, you may be redirected to the partner/advertiser's site via affiliate cookies. You can disable and/or delete all types of cookies by using your browser settings. Cookies are generally easy to disable and/or delete but how you do so varies from browser to browser. The "help" function within your browser should tell you how to do it. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to make use of all or part of our website or service. For further information about cookies please visit www.allaboutcookies.org.
+Your Device and Location
+We also store information about your IP address, proxy server, operating system, web browser and add-ons, device identifier and features, and/or ISP or your mobile carrier. If you use our services from a mobile device, that device will send us data about your location based on your phone settings. We will ask you to explicitly opt-in before we use GPS or other tools to identify your precise location.
+How we use your data
+Lawful Basis for Controlling and Processing your data
+Qmee will only collect and process your data where we have a lawful basis for doing so. Lawful bases include consent (where you have given us your consent) and “legitimate interests” where the processing of your data is not overridden by your interests or fundamental rights and freedoms.
+Sign Up Data
+We process this data to have a record of our users. Our lawful basis for processing your data is “legitimate interest”. We do not share this information with anyone else. We will retain this data for as long as your account is open.
+Search Data
+We will process this data to understand your interests, to deliver rewarded results to you that will be of interest and keep a history of your rewards. Qmee uses an automated system to profile your interests from the searches that you have made. This may cause different or no rewarded results to be shown. The lawful basis for processing your data is  “legitimate interest”. We will not share your personal search data with anyone else. We will retain this data for a period of one year. Qmee may anonymise and use your search data for statistical analysis and insight. We may also share anonymised data with partners .
+Cash Out
+We will process this data to retain a record of your transactions with us. This data is retained permanently as part of our transaction records for tax, audit and regulatory purposes.
+Survey Profile Data
+We use this information to match you to eligible surveys. Our lawful basis for processing this data is “legitimate interest”. We share this information with our survey partners so that they can also match you to surveys. Some of our survey partners are located outside of the EEA so will require an international transfer of your data, for details see the section on International Transfers. We will retain this data while your account is open or until you remove it. Please note that without basic profile data we will be unable to match you to any surveys. We may ask you for additional demographic data to improve our ability to match you to surveys; these questions are optional.
+Some additional demographic data may be special category data which is more sensitive. We will ask you to explicitly consent before we store any such data. We will use this data in the same way as normal demographic data. You may withdraw your consent at any time and we will delete any special category data that we hold. You may control these settings on your profile page.
+Qmee Mobile Application
+We process this data to ensure that we are talking with the correct user. Our lawful basis for processing your data is as a legitimate interest. We do not share this data. We will store this information while your account is open.
+Service Data, Security and Investigations
+Qmee may use all the information we store about you to assess whether you are abusing our service contrary to our terms and conditions and to protect other users of our services. We may also use this data to detect security breaches. Our lawful basis for processing your data in this way is “legitimate interest”. We will retain this information indefinitely.
+Third party sites
+This website contains links to other websites operated by third parties. Please note that this privacy policy applies only to the personal information that we collect and we cannot be responsible for personal information that third parties may collect, store and use through their websites. Once you click on a link to a third party's website, including sponsored links provided in the Qmee window, that third party's collection, storage and use of your personal information is out of our control. You should always read the privacy policy of each website you visit carefully.
+Data Storage
+Qmee uses cloud based services for processing and storing your personal data. Qmee currently uses cloud based services based in the USA, such as Amazon AWS and Heroku,  requiring an international transfer. These cloud based services have a Data Processing Addendum to their terms of service to ensure compliance with EU privacy standards.
+Your Rights
+Data Retention
+We store your personal data while your account is open or as needed to provide you with services. Other retention periods are as described above. This includes data inferred from your use of our services. In some cases we choose to keep data indefinitely in a depersonalised or aggregated form.
+Rights to Access, Control and Delete Your Personal Data
+Qmee allows you to view your personal data on your profile. You can also use your profile to manage the personal data we hold on you and any consents that you have given us.
+You have the following rights:
+Delete Data: you can ask us to delete some, or all, of your personal data.
+Change or correct data: you can edit some of your data through your profile. You can ask us correct data if it is inaccurate by contacting us at support@qmee.com .
+Object to, Limit or Restrict, Use of Data: You can ask us to stop using some, or all, of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held). Some Qmee services may not be available to you if you do not want us to store your data.
+Right to Access and/or Take Your Data: You can ask us for a copy of your personal data which can be provided to you in machine readable form.
+Data that we hold because of a transaction with you such as a reward, a cash out or PayPal account details cannot be deleted as these form part of our transaction history.
+If you think that Qmee has not responded to your requests in a reasonable manner, you may complain to the Information Commissioners Office (ICO) who are our regulator.
+How we share information
+Survey Partners
+Please note that when you take part in a survey, the survey partner who operates it may ask you for information (including but not limited to your year of birth, postcode or ZIP code, gender and survey responses). You acknowledge that, by submitting the survey, any such information will be shared with the survey partner .
+Change of Control
+If a third party acquires all (or substantially all) of our business and/or assets, we may disclose your personal information to that third party in connection with the acquisition. They will acquire all of our obligations to you as regards your privacy rights.
+Legal Disclosure
+We may also disclose your personal information where we are required to do so by applicable law, by a governmental body or by a law enforcement agency.
+Security

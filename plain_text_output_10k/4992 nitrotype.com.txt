@@ -1,0 +1,32 @@
+Teaching.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Nitro Type.
+First and foremost, we do not share any information submitted to our website without prior permission.
+We use your IP address to help diagnose problems with our server and to administer our website.
+Our site's registration form requires users to give no personal information whatsoever, however you may optionally provide us with your email and demographic information (like zip code, age, or occupation). We use customer contact information from the registration form to send the user information about our company and if the user chooses, promotional material from some of our partners. The customer's contact information is also used to contact the customer when necessary. Users may opt-out of receiving future mailings through the "My Profile" area while logged into their Nitro Type account by unchecking the "Allow Contact" box and saving changes.
+Information Rights
+This website recognizes and complies with the with GDPR and those rights, except as limited by applicable law. The rights under GDPR include:
+- Access: This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
+- Correction: This is your right to request correction of your personal information.
+- Erasure: This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession (also known as the “Right to be forgotten”). However, if applicable law requires us to comply with your request to delete your information, fulfillment of your request may prevent you from using Basecamp services and may result in closing your account.
+- Complain: You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
+- Restrict Processing: This is your right to request restriction of how and why your personal information is used or processed.
+- Object: This is your right, in certain situations, to object to how or why your personal information is processed.
+- Portability: This is your right to receive the personal information we have about you and the right to transmit it to another party.
+- Automated Decision-Making: This is your right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable European law, or is based on your explicit consent.
+Processing Data
+For Users of this website located in the European Economic Area (EEA), all collection and processing of Personal Data is performed in accordance with privacy rights and regulations following the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, known as the General Data Protection Regulation (GDPR).
+Data Controller
+The website processes Personal Data both as a Processor and as a Controller, as defined in the Directive and the GDPR. The website, which you as a User entered an agreement with when using the website, will be the Controller for User data. As the website adheres to the GDPR, it processes all data provided by its Users from the European Economic Area (EEA) only.
+Security
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords are never stored as cleartext at any point, but rather are hashed thousands of times using unique randomized salts and the best available, reasonable encryption.
+Children’s Privacy Guidelines
+No personal information is required to register on Nitro Type, but users may voluntarily provide: (a) birth year; (b) gender; (c) country; and (d) email address. If you are under the age of 13, please do not provide your contact information or any other personally identifiable information to Nitro Type. If you are the parent or legal guardian of someone under the age of 13 who may have provided us with information without your knowledge or consent, please contact us to have this information removed.
+Nitro Type exists to to provide a safe, positive experience for users. In compliance with COPPA (the Children's Online Privacy Protection Act), we have adopted the following policies to keep kids safe:
+- We do not require online contact information to register, and children under the age of 13 should not provide this information.
+- We do not distribute any personally identifiable information about users to third parties.
+- We do not allow users to publicly post or distribute personally identifiable contact information.
+- We do not use the prospect of a special game, prize or other activity, to entice children to divulge more information than is needed to participate in the activity.
+- We will NOT knowingly keep any personal information that is inadvertently included in a child's email submission, help inquiry, or other one-time request, if we know that the child is under the age of 13. Any such information will be purged promptly after the issue has been resolved.
+Choice/Opt-Out
+Users can opt out of our communications by choosing the appropriate option in the "My Profile" portion of the Nitro Type software.
+Contacting the Web Site
+If you have any questions about this privacy statement, please feel free to contact us.

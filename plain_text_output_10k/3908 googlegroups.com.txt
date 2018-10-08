@@ -1,0 +1,20 @@
+Legend: Insertion | Deletion
+February 9, 2006 July 2006
+The Google Privacy Policy describes how we treat personal information when you use Google's products and services, including information provided when you use Google Groups. In addition, the following describes our privacy practices that are specific to Google Groups.
+Personal information
+You need a Google Account to create a group or post comments in the Google Groups service. Google asks for some personal information when you create a Google Account, including your email address and a password, which is used to protect your account from unauthorized access. A Google Account allows you to access many of our services that require registration. You may search for and read comments in public groups without registering for an account.
+The contents of the postings, custom pages and files, including any text, images, photos, videos, and audio, that you submit to Google Groups are stored and maintained on Google servers in order to publish the postings these items and provide the service. Your postings will be displayed with submitted content will be associated with your profile, if you have completed one, or a "masked" version of your email address, if you have not. We mask your email in an effort to protect users from email harvesting software and bots. Please note that Google cannot mask any content, including email addresses, that are actually on your custom pages.
+If you have a Google Account and are a Groups member, you can create a public profile that includes certain personal information, including your name, geographical location, email address and other user information and content. When users view your profile, they will see your profile information as well as links to posts, custom pages, and files that would normally be accessible to them. If you do not create a profile, only a "masked" version of your Google Account email address will show with your posts submitted content.
+Google collects and maintains information about your account activity, including the groups that you join or manage, lists of other members or invitees in the groups, messages or topics you track, custom pages you create or edit, ratings you make, and your preferred settings when using Google Groups.
+Uses
+Information and content you post in a Google Group - including the header information, nickname and email address associated with the posting - will be displayed to users who are able to access the group. Similarly, all information that you enter in your user profile can be viewed by other users. The owners of a Google Group decide who is in the group and whether a discussion is public or restricted. As such, groups may include people you do not know. Use care when posting personal information in a group, particularly sensitive information such as social security numbers, financial information or home addresses or phone numbers.
+Your choices
+You may update, change, or delete disable your user profile at any time by going to your profile page.
+You may request removal of that your own postings be disabled, unsubscribe from a group or terminate your Google Account. Please see the Groups Help Center for specific information.
+You also can change your Google Groups settings by signing into the Groups homepage at any time.
+More information
+Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce's web site .
+Further information about Google Groups is available here.
+For more information about our privacy practices, go to the full privacy policy . If you have additional questions, please contact us any time. Or write to us at: For questions concerning the product or your account, please check out the Google Help page.
+Privacy Matters
+Mountain View CA 94043 (USA)

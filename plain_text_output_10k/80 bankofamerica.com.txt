@@ -1,0 +1,74 @@
+Search for:
+With Hurricane Florence expected to make landfall in the Carolinas late this week, Bank of America Merchant Services has these tips to help you protect your business from the storm. If you have questions, or need assistance call us anytime at 800.950.6581 or email us at Genuine.Concern@bankofamericamerchant.com
+Bank of America Merchant Services U.S. Online Privacy Policy
+This U.S. Online Privacy Policy (“Policy”) describes the types of information we may collect from and about you through the Bank of America Merchant Services U.S. online interface—i.e., Bank of America Merchant Services websites, web pages, website chat or email functions, online product and service applications, social media pages, and/or mobile browsers or mobile applications (collectively, the “Website”). This Policy also describes how we use the information we collect, with whom we share it, and how we protect it. The terms “Bank of America Merchant Services,” “we,” “us,” or “our” refer to Banc of America Merchant Services, LLC.
+Please read this Policy carefully. This Policy only applies to information collected online. Your access to and/or use of the Website means you agree with our practices and procedures in this Policy. If you do not agree, then do not to use the Website.  Please see the Changes to This Online Privacy Policy section below for more information.
+Information We Collect
+We may collect Personal Information and Non-Personal Information as described below when you access or use the Website.
+“Personal Information” means information that can personally identify an individual, such as name, address, email address, phone number, social security number, date of birth, financial account numbers, passport information and similar information.
+“Non-Personal Information” means information other than Personal Information that does not reveal an individual’s specific identity or does not directly relate to an individual. Non-Personal Information includes, for instance, browser information, IP addresses (which may allow us to determine location information such as city, state, and country, and your internet service provider), information collected through cookies, web beacons, pixels, and other technologies, your unique device identifier, unique device token to facilitate push notifications through mobile apps, your device’s advertising identifier, your device’s operating system, identifiers associated with equipment or systems used in connection with your device (e.g., an identifier of a Wi-Fi router or Internet access point), mobile manufacturer or carrier, mobile or data network systems or operators, location or GPS/geolocation information, demographic information, aggregated and de-identified data, and other information provided by you.
+Information You Provide to Us
+We collect Personal Information and Non-Personal Information through the Website, including information you provide voluntarily, such as:
+via forms, surveys, applications, social media pages, or other online fields;
+when you pre-fill an application by signing in with your Bank of America Online Banking login; and/or
+in your correspondence with us when you contact us through the Website, for instance by using the Website chat or email request functions.
+Information We Collect Automatically
+We and our third party service providers may use automatic data collection technologies to collect Non-Personal Information from you as you use the Website, as well as information about your online activities over time and across third party websites, devices or other online or mobile services.
+For information about the choices you may have about data collected using automatic data collection technologies, please see the section on Your Information Collection Choices below.
+The Website currently uses the following automatic data collection technologies:
+Cookies.  A cookie assigns a unique identification to your computer and is typically stored on your computer’s hard drive.  Cookies allow us to collect information about the details of your visits to the Website, which may include information such as browser type, IP address, mobile device type, time spent on the Website, pages and resources visited, language preferences, and your relationship with us. Cookies also provide us with anonymous, aggregate information about your visit to the Website. We collect Non-Personal Information through our own cookies, cookies from Bank of America, N.A., as well as cookies provided by certain advertising and web analytics third party service providers, such as:
+Bing
+Google AdWords
+Google Analytics
+Pixels, Web Beacons, and Other Online Technology. Some portions of the Website may contain small electronic files known as web beacons, pixels, or clear GIFs that provide us with anonymous, aggregate information. This information may include, among other things, the time and length of your visit, parts of the Website viewed, your IP address, and your unique device identifier.
+How We Use Your Information
+We may use the information we collect from and about you for a variety of purposes, including to:
+respond to your inquiries and process your request for services, products, or information;
+develop, improve, or approve new products or services;
+personalize, analyze and enhance your online experience, for instance, by tailoring content or advertisements to you, facilitating Website navigation, recognizing your device to allow your use of the Website and our other online products and services, or saving applications you start on the Website;
+follow up with you about an application you have started on the Website but not completed;
+perform internal business processes, such as analyzing data, conducting market research, enhancing the Website, identifying usage trends, determining the effectiveness of our communications and promotional campaigns, and conducting audits;
+comply with applicable laws, regulations, or card organization rules;
+combat fraud; and/or
+send you information about Bank of America Merchant Services, and other services we or our affiliates offer that we believe you may find
+For more information about how we use information for advertising purposes, please see the section on Advertising below.
+How We Share Your Information
+We may share Non-Personal Information without restriction, including aggregate information about visitors to the Website and information that does not identify any individual.
+We may share Personal Information that we collect as described in this Policy:
+with our affiliates, including without limitation Bank of America, N.A., First Data Corporation, and First Data Merchant Services LLC ;
+with our service providers who assist us with the Website or otherwise perform support services for us, and who are under confidentiality requirements;
+to fulfill the purposes for which you provide it;
+with your consent;
+to another business entity in the event of a merger, restructuring, acquisition, any other sale or transfer of our assets or liabilities, or any change in ownership control;
+as required by law or based on our good faith belief that it is necessary to conform or comply with the law or to protect the users of the Website, the Website, or the general public; and/or
+for any other purpose disclosed by us when you provide the information.
+Advertising
+We advertise on the Website and on third party websites and mobile apps with the help of third party advertising companies. These companies may use cookies and other automatic data collection technologies to collect anonymous information about your visits to the Website, and about how you interact with our advertisements and content both on and off the Website. We and our third party providers may use this information to serve tailored advertisements to you on the Website or on sites, mobile apps, and devices not affiliated with us. Information about your activities on the Website, such as pages visited and search key words entered, can help us determine which of our advertisements or offers may be of interest to you.
+Your Information Choices
+Email
+You may opt-out of our marketing emails by following the instructions listed in the email that you received, or at https://merchant.bankofamerica.com/opt-out .
+Cookie Opt-Outs
+You can refuse to accept cookies by setting your browser to refuse all or some browser cookies, or to alert you when cookies are being set. You will need to manage your cookie settings for each device and browser you use. However, if you do not accept cookies, you may experience some inconvenience in your use of the Website and some online products and services.  For example, some parts of the Website maybe inaccessible or not function properly. You also may not receive tailored advertising or other offers from us that may be relevant to your interests and needs.  For more information about cookies and how to manage or delete them, please visit http://www.allaboutcookies.org/ .
+Do Not Track
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created. For information about opt out programs that third party advertising companies participate in, and the effect of opting out, click the following: NAI Opt Out and DAA Opt Out . By clicking either of these websites, you will then leave our Website for other online sites where you may specify your preferences under those opt-out programs. You can also click the preference icon that may appear on some of our advertising served through these technologies.
+Google Analytics, Google Interest-based ads and Microsoft Interest-based ads
+To opt-out from your data being used by Google Analytics, please click here . To opt-out from Google interest-based ads, please click here .  Finally, to opt-out of Microsoft interest-based ads, please click here .
+Additional Information
+Security
+Our policies limit access to information collected online to our employees, affiliates, agents, and service providers who need the information to fulfill their business responsibilities. Our employees receive annual training about our security policies and procedures.We use appropriate physical, technical and administrative measures to help protect Personal Information collected online from unauthorized access or disclosure. These measures may include transmission through Secure Socket Layer technology, encryption, physical access security, and other appropriate technologies. We review and enhance our security measures as necessary. While we use these security measures on our Website, you should be aware that 100% security is not always possible.
+Links to Third Party Websites
+We may create links to third party websites, including to our affiliate company websites.  We may also create links in the form of widgets (e.g., social share buttons) that enable users to easily share information on another platform, such as a social media platform. The third parties that own these widgets may have access to information about your browsing on the Website where these widgets are placed.We do not evaluate and are not responsible for the privacy practices or content of third party websites, including the websites of our affiliates. We encourage you to review the privacy policies of each link to ensure that you are comfortable with their privacy practices.
+Privacy of Children
+The Website is not directed at persons under the age of 18, and Bank of America Merchant Services does not knowingly collect or maintain information provided online by persons under the age of 18.
+Changes to This Online Privacy Policy
+We may make changes to this Policy from time to time. Should we make a material change to our information collection and use practices, we will let you know by updating this Policy and revising the “Last Updated” date.  Such changes will be applied only to information collected on a going forward basis. Your continued use of the Website following the posting of any changes to this Policy indicates your acceptance of the new terms.
+Last Updated: May 22, 2018
+Questions
+If you have any questions about this Policy, please contact our privacy office at BAMSPRIVACYOFFICE@bankofamericamerchant.com .
+Get Started
+Call us
+Connect with us
+© 2018 Banc of America Merchant Services, LLC. All rights reserved. All trademarks, service marks and trade names referenced in this material are the property of and licensed by their respective owners.
+Merchant Services are provided by Bank of America, N.A. and its representative Banc of America Merchant Services, LLC. Banc of America Merchant Services, LLC is not a bank, does not offer bank deposits and its services are not guaranteed or insured by the FDIC or any other governmental agency.
+Connect with us on Social Media Network
+Before you go, we want you to know we're only responsible for the content we post. Social Media Network is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.

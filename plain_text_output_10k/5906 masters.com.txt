@@ -1,0 +1,83 @@
+PRIVACY POLICY
+VR-MASTERS is a full AR & VR agency which obtains different set of augmented reality and virtual reality products and services including mobile applications such as AR Readers.
+This privacy policy governs your use of the software application VRM AR READER for mobile devices that was created by VR-MASTERS. The Application is basically an AR Reader.
+When your smartphone is on and functioning, VR-MASTERS’s VRM AR READER app uses the camera on your mobile device when it is enabled. The purpose is to notice and then to recognize the related images through the camera to run the VRM AR READER app which is built on augmented reality technology.
+Through your mobile device’s camera, you will share some information with us which are generally the images which are noticed by your camera when you use VRM AR READER app. We collect such information as you use VRM AR READER app including but not limited:
+• Digital images of the objects and people your mobile device camera views when you use VRM AR READER app.  
+• Personal data including name, email address and other contact information
+We use such above information to monitor and run VRM AR READER app. We do not and will not share the information, mainly the images through your mobile device’s camera, with our clients or any other third parties.   The only exception to this is where there are legal reasons for us to disclose.
+You can stop all collection of information by VRM AR READER easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
+We do not use VRM AR READER to knowingly solicit data from or market to children under the age of 13. 
+When you download or use the VRM AR READER app on your mobile device, information may be accessed from or stored to your mobile device. This is used in a similar way to a web browser cookie, such as by enabling the apps to ‘remember’ you or provide you with the content you have requested. Your web browser on your device or your mobile device’s operating system may also provide VR-MASTERS with information about your mobile device, such as a device identifier or IP address. Device identifiers may be collected automatically, such as the device ID, IP address and apps ID (a unique identifier relating to the particular copy of the Apps you are running). In the future we may use mobile device identifiers for advertising use which perform a similar role to cookies, like the IDFA used by Apple devices and the Advertising ID used by Android devices.
+This Privacy Policy may be updated from time to time so please check from time to time.
+If you have any questions regarding privacy while using VRM AR READER app , or have questions about our practices, please contact us via email at  [email protected]
+PRIVACY POLICY
+VR-MASTERS is a full AR & VR agency which obtains different set of augmented reality and virtual reality products and services including mobile applications such as AR Readers.
+This privacy policy governs your use of the software application VRM CORPORATE for mobile devices that was created by VR-MASTERS. The Application is basically an AR Reader.
+When your smartphone is on and functioning, VR-MASTERS’s VRM CORPORATE app uses the camera on your mobile device when it is enabled. The purpose is to notice and then to recognize the related images through the camera to run the VRM CORPORATE app which is built on augmented reality technology.
+Through your mobile device’s camera, you will share some information with us which are generally the images which are noticed by your camera when you use VRM CORPORATE app. We collect such information as you use VRM CORPORATE app including but not limited:
+• Digital images of the objects and people your mobile device camera views when you use VRM CORPORATE app.  
+• Personal data including name, email address and other contact information
+We use such above information to monitor and run VRM CORPORATE app. We do not and will not share the information, mainly the images through your mobile device’s camera, with our clients or any other third parties.   The only exception to this is where there are legal reasons for us to disclose.
+You can stop all collection of information by VRM CORPORATE easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
+We do not use VRM CORPORATE to knowingly solicit data from or market to children under the age of 13. 
+When you download or use the VRM CORPORATE app on your mobile device, information may be accessed from or stored to your mobile device. This is used in a similar way to a web browser cookie, such as by enabling the apps to ‘remember’ you or provide you with the content you have requested. Your web browser on your device or your mobile device’s operating system may also provide VR-MASTERS with information about your mobile device, such as a device identifier or IP address. Device identifiers may be collected automatically, such as the device ID, IP address and apps ID (a unique identifier relating to the particular copy of the Apps you are running). In the future we may use mobile device identifiers for advertising use which perform a similar role to cookies, like the IDFA used by Apple devices and the Advertising ID used by Android devices.
+This Privacy Policy may be updated from time to time so please check from time to time.
+If you have any questions regarding privacy while using VRM CORPORATE app , or have questions about our practices, please contact us via email at  [email protected]
+1.1 Our website uses cookies.
+1.2 By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+2. Credit
+3. About cookies
+3.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+3.2 Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+3.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+3.4 Cookies can be used by web servers to identify and track users as they navigate different pages on a website and identify users returning to a website.
+4. Our cookies
+4.1 We may use both session and persistent cookies on our website.
+5. Analytics cookies
+5.1 We use Google Analytics to analyse the use of our website.
+5.2 Our analytics service provider generates statistical and other information about website use by means of cookies.
+5.3 The analytics cookies used by our website have the following names: _ga, _gat, __utma, __utmt, __utmb, __utmc, __utmz and __utmv.
+5.4 The information generated relating to our website is used to create reports about the use of our website.
+5.5 Our analytics service provider’s privacy policy is available at: http://www.google.com/policies/privacy/.
+6. Third party cookies
+6.1 Our website also uses third party cookies.
+6.2 We may publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DoubleClick cookie. You can view, delete or add interest categories associated with your browser by visiting: http://www.google.com/settings/ads/. You can also opt out of the AdSense partner network cookie using those settings or using the NAI’s (Network Advertising Initiative’s) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/choices/. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-in available at: https://www.google.com/settings/ads/plugin.
+7. Blocking cookies
+7.1 Most browsers allow you to refuse to accept cookies; for example:
+(a) in Internet Explorer (version 11) you can block cookies using the cookie handling override settings available by clicking “Tools”, “Internet Options”, “Privacy” and then “Advanced”;
+(b) in Firefox (version 47) you can block all cookies by clicking “Tools”, “Options”, “Privacy”, selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and
+(c) in Chrome (version 52), you can block all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Content settings”, and then selecting “Block sites from setting any data” under the “Cookies” heading.
+7.2 Blocking all cookies will have a negative impact upon the usability of many websites.
+7.3 If you block cookies, you will not be able to use all the features on our website.
+8. Deleting cookies
+8.1 You can delete cookies already stored on your computer; for example:
+(a) in Internet Explorer (version 11), you must manually delete cookie files (you can find instructions for doing so at http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11);
+(b) in Firefox (version 47), you can delete cookies by clicking “Tools”, “Options” and “Privacy”, then selecting “Use custom settings for history” from the drop-down menu, clicking “Show Cookies”, and then clicking “Remove All Cookies”; and
+(c) in Chrome (version 52), you can delete all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Cookies and other site and plug-in data” before clicking “Clear browsing data”.
+8.2 Deleting cookies will have a negative impact on the usability of many websites.
+9. Cookie preferences
+10. Our details
+10.2 We are registered in US and Turkey.
+10.3 You can contact us:
+September 3, 2018
+VR-Masters is proud to announce another 360 tour in partnership with another industry giant of Turkey. 360 VR Tour of … Read More »
+September 2, 2018
+The great revolution in technology will profoundly affect our way of education, among the generations and living in the world. … Read More »
+Magg4 interviewed VR-Masters on Updates about AR/VR technologies, with the main question being: We are going through a period when … Read More »
+June 9, 2018
+VR-Masters became the first company providing both VR and AR content for Turkcell, Turkey’s largest mobile phone operator, which became the first Turkish … Read More »
+June 5, 2018
+VR-Masters is proud to be Microsoft’s Hololens developer partner in Turkey to showcase Hololens solutions during the Microsoft Technology Summit … Read More »
+Media Coverage
+Vr-Masters participated in Turkish Ministey of Education’s Education Technologies Summit … Read More »
+January 17, 2018
+TechXistanbul Summit took place on Jan 16th 2018 as a … Read More »
+December 27, 2017
+VR-Masters CEO Ali Hantal was on ‘Çıkış Yolu’ Bloomberg TV … Read More »
+December 26, 2017
+Istanbul Economy Summit at Çırağan Palace took place yesterday and … Read More »
+Contact Us
+Type and Press “enter” to Search
+This site uses cookies to improve user experience. By continuing to browse the site, you are agreeing to our use of cookies. Find out more.
+Okay, thanks.

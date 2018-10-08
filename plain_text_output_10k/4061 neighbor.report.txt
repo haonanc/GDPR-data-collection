@@ -1,0 +1,114 @@
+Privacy Policy
+i-Neighbour's mission is to build smart communities with the use of recent technologies starting at the home ground and abroad. Central to this mission is the company's commitment to be transparent with you about the personal data that we collect and how it is used and shared.
+This Privacy Policy describes how TimeTec Cloud Sdn. Bhd. ("TimeTec"), which operates i-Neighbour and related sites, collect, store and handle personal information of individuals in accordance with the Personal Data Protection Act 2010 (“PDPA”) and the laws of Malaysia. Our processing and use of personal data is also designed to comply with the EU General Data Protection Regulation (GDPR).
+Please read this Privacy Policy to understand how we use the personal information we may collect from you.
+By using our Services, you consent to our use of your data under this Privacy Policy, including our Cookies Policy .
+Introduction
+i-Neighbour is a cloud-based residential & visitor management system, catering to various users in a neighbourhood, such as property developer, joint management body/committee, security personnel, residents and visitors.
+Besides that, we have other i-Neighbour related sites and apps ("Other TimeTec applications"), involved in the provision of security, IoT, advert and related services for residential and commercial use: timetecsecurity.com, epicamera.com, i-environ.com, i-merchants.com and iadhub.com.
+This Privacy Policy applies to i-neighbour.com, i-Neighbour-branded apps, and the abovementioned i-Neighbour-related sites, apps, communications and services (“Services”), including visitors to the websites.
+Consent
+If you use our Services, you consent to the collection, use and sharing of your personal data under this Privacy Policy (which includes our Cookies Policy and other documents referenced in this Privacy Policy) and agree to the Terms of Service. We provide you choices that allow you to opt-out or control how we use and share your data.
+If you use our Services after an update to this Privacy Policy, you consent to the changed document.
+Change
+We may modify this Privacy Policy, and if we make material changes to it, we will provide notice through our Services, or by other means (e.g. notice posted on our Facebook page along with the updated Privacy Policy), to provide you the opportunity to review the changes before they become effective. If you object to any changes, you may close your account. Your continued use of our Services after we publish or send a notice about our changes to this Privacy Policy means that you are consenting to the updated Privacy Policy.
+In this Privacy Policy you will understand:
+•
+•
+•
+•
+•
+•
+About Personal Information
+Personal information refers to any information which relates directly or indirectly to you. This includes any information that can be used to distinguish, identify or contact you. For the purposes of this Privacy Policy, personal information encompasses sensitive personal information which relates to information relating to your health, political opinions, religious beliefs, etc. For the avoidance of doubt, please note that this Privacy Policy is applicable only if you are a natural person / an individual.
+Who Collects and Processes Data Collected (EU GDPR Information)
+TimeTec processes Personal Data both as a Controller and as a Processor, as defined in the EU's GDPR.
+TimeTec will be the Controller for "Subscriber" data, meaning Personal Data of the individual that registers for our services (i-Neighbour and Other TimeTec applications) and enters into the Service Agreement. For i-Neighbour, this covers both the registration for Neighbourhood account and for Visitor membership account. In addition, TimeTec also controls Personal Data that we collect from our website and outside of our website through other channels. For instance, this includes when you contact us by telephone, email and chat services, respond to our marketing materials, submit physical forms and etc.
+For "User" data that is stored or processed in each Subscriber's account (i-Neighbour and Other TimeTec applications), the respective Subscriber will be the Controller in accordance with GDPR, and TimeTec will be the Processor.
+Through TimeTec’s services, each Subscriber have control over the Personal Data that is stored within their account. After Subscribers initiate the services, they may create additional Administrators and Users ("User" data). Take i-Neighbour as example, the users will comprise of Security personnel and Residents. In turn, those users will also add Visitor information (also "User" data) into the system. Ultimately, the account's Admins hold the rights to add to, modify or delete the User data. Because this data is user generated, it is the Subscriber’s responsibility to ensure that collection and processing of data is done in accordance with applicable law.
+Information We Collect
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Details of the emails and other electronic communications you receive from us, including whether that communication has been opened and if you have clicked on any links within that communication. We use this to help ensure our communications are useful for you.
+Ways We Collect Your Personal Information
+•
+•
+•
+•
+•
+•
+•
+•
+Other than personal information obtained from you directly , we may also obtain your personal information from third parties we deal with or are connected with you (credit reference agencies or financial institutions), and from such other sources where you have given your consent for the disclosure of information relating to you, and/or where otherwise lawfully permitted
+How We Use Your Data
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+For any other purposes that is required or permitted by any law, regulations, guidelines and/or relevant regulatory authorities
+Data Disclosure
+•
+•
+•
+•
+•
+•
+Strategic partners that work with TimeTec to provide better products and services, or that help TimeTec market to customers. For example, when you inquire about i-Neighbour and other TimeTec solutions, TimeTec may send your email with your personal or non-personal information to Authorized Resellers for sales follow-ups. Personal information will only be shared by TimeTec to provide TimeTec solution and services to you; it will not be shared with third parties for their marketing purposes.
+Please note that TimeTec uses data processors that may collect, store and process your data on behalf of us. The selected processors offer sufficient guarantees with regard to technical and organizational security measures for the processing of your personal data. They are used for the following purposes:
+• Hosting of our applications or services
+• Customer relationship management system
+• Provide web visit and usage analytics
+Data Security
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We use appropriate administrative, technical and physical safeguards to protect Personal Data against accidental or unlawful destruction, accidental loss, unauthorized alteration/disclosure/access and any other misuse or unlawful processing. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, to be only accessed by those authorized with special access rights to our systems.
+However, no method of transmission over the Internet, or method of electronic storage, is fully secure. We cannot guarantee the security of any information you send to us or store on the Service, and you do so at your own risk. Data could be accessed, disclosed, altered, or destroyed by a breach of any of our safeguards. If you believe your Personal Data has been compromised, please contact us with the details provided in “How to Contact Us” section below.
+If we become aware of a personal data breach, we will inform you and/or the relevant authorities of the occurrence of the breach in accordance with applicable law.
+Data Retention
+We will retain your personal information for as long as is necessary and relevant for our business purposes, as described in this Privacy Policy. We will retain and use this personal information to comply with our legal obligations, maintain accurate financial and other records, resolve disputes, and enforce our agreements. Personal data we process on behalf of our client is retained for as long as needed to provide the Services.
+International Transfer of Information Collected
+Our company is based in Malaysia and we use IT and other service providers which are located in various countries. Our applications or services or parts of them may be hosted in facilities provided by Amazon Web Services in Singapore. Meanwhile, our websites may be hosted in Malaysia and when you send an email to us, this will also be stored on our email servers in Malaysia. Therefore, your information collected by TimeTec may be transferred to, processed and stored outside of your home country, in Singapore, Malaysia, the United States, Europe, or any other country in which TimeTec or its affiliates or service providers maintain facilities.
+When submitting your personal data, you are agreeing to such processing, transfer or storage as outlined above. We will ensure at all times to take all reasonable steps necessary to maintain the security of your personal data in accordance with this Privacy Policy. We shall also take reasonable steps to ensure that any such third party entities are contractually bound not to use your personal information for any reason other than to provide i-Neighbour and other TimeTec App, Website & Services that are contracted by us to provide and to adequately safeguard your personal information.
+EU Data Transfer
+For personal data that is subject to European data protection laws, this means that any information which is submitted by you through the website or the application or service may be transferred to Singapore, Malaysia, the United States and/or to other territories outside of the EEA. We may also transfer your information to service providers outside the EEA for the purpose of providing our applications, advertising and services to you.
+We take steps to ensure that where your information is transferred outside of the EEA to our service providers, appropriate measures and controls are in place to protect that information. Such transfers are made in accordance with the requirements of Regulations (EU) 2016/679 (the General Data Protection Regulations or “GDPR”) and may be based on certification of compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S Privacy Shield Framework or the use of the European Commission’s Standard Model Clauses for transfers of personal data outside the EEA.
+By using our website, products or services or by interacting with us in the ways described in this Privacy Policy, you consent to the transfer of your information outside the EEA in the circumstances set out in this Privacy Policy. If you do not want your information to be transferred outside the EEA you should not use our website, applications or services.
+Transfer Outside Malaysia
+It may be necessary for us to transfer your personal information outside Malaysia if any of our service providers or strategic partners who are involved in providing part of a i-Neighbour and other TimeTec App, Website & Services are located in countries outside Malaysia. You consent to us transferring your personal information outside Malaysia in these instances. We shall take reasonable steps to ensure that any such overseas entities are contractually bound not to use your personal information for any reason other than to provide i-Neighbour App, Website & Services that are contracted by us to provide and to adequately safeguard your personal information.
+Your Rights & Obligations
+Right to Access, Correction, Deletion, Data Portability
+We can assist you to access, correct or delete your personal information held by us. Where you wish to have access to your personal information in our possession, wish to amend or to delete your information, you may make a request to us by contacting TimeTec Team with the contact details provided below. You should quote your name, address and phone/account number and provide brief details of the information you want a copy of in any such request. We will use reasonable efforts to comply with your request to access, correct or delete your personal information within 30 days of receiving your request. If you request for a copy of your data, we will provide it in electronic format. Please note that we may have to withhold access to your personal information in certain situations, for example when we are unable to confirm your identity or where information requested for is of a confidential commercial nature or in the event we receive repeated requests for the same information. Nevertheless, we will notify you of the reasons for not being able to accede to your request.
+Restriction of Processing, Object to Processing & Withdraw Consent
+At any time, you may request to place restrictions on processing or object to the processing of your Personal Data, on legitimate grounds, except if it's otherwise permitted by applicable law. You may at the time of collection and at any later time, oppose the processing of your personal data for the purposes of marketing. Where the processing of your information is based on your consent, you have a right to withdraw that consent subject to legal or contractual restrictions.
+If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact us with the contact details provided below. You also have a right to lodge a complaint with data protection authorities.
+This provision does not apply to Personal Data categorised as "User" Data, which is controlled by the Subscriber. In this case, the management of the "User" Data is subject to the Subscriber’s own Privacy Policy, and any request for access, correction or deletion should be made directly to the Subscriber responsible for the uploading and storage of such data into the Service.
+Your Obligations
+You are responsible for providing accurate and complete information to us about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes incorrect or out of date by contacting the TimeTec Team via the contact details provided below. This obligation is a condition to the provision of i-Neighbour and other TimeTec App, Website & Services to you and/or any other person authorised or permitted by you or your organisation/company to use the Products and/or Services. In the event you may need to provide us with personal information relating to third parties (for example about your spouse or children or where you are the designated person in charge (from an organisation or company) for dealing with us, if you are acquiring and are responsible for a service and/or product that they will use), you confirm that you have (i) obtained their consent or otherwise entitled to provide their personal information to us and for us to use accordingly, and (ii) informed them to read this Privacy Policy at our website.
+Links to Third Party Websites
+Please be informed that this Privacy Policy applies solely to i-Neighbour and other TimeTec Websites and does not apply to any third party websites you may access from our websites. To determine how they deal with your Personal Information, you should ensure that you read their respective privacy policies.
+Protection of Minors
+As a general rule, children and persons under the age of 18 years should not disclose personal data to us without the consent of their parents or guardians. We do not solicit personal data from children and we do not knowingly collect personal data from children, use said data in any way or disclose said data to third parties without authorization.
+How to Contact Us
+If you have requests and questions or concerns about i-Neighbour Privacy Policy, please contact us at:
+TimeTec Cloud Sdn. Bhd.
+Bandar Kinrara
+47180 Puchong
+Selangor, Malaysia

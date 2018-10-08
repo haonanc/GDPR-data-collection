@@ -1,0 +1,150 @@
+Pixsy, Inc., 340 S Lemon Ave, Walnut CA 91789, USA (herein referred to as “Pixsy”, “we” or “us”) respects your privacy and is committed to protecting it through our compliance with this privacy policy (“Policy”).
+This Policy informs the users (“Users” , “Customer” , “you”) of our websites www.pixsy.com and, web-based application my.pixsy.com (collectively, our “Website“) about how we collect and process personal data, if you use our Website, for which purposes your personal data are used, who it is shared with, and what control and information rights you may have. Pixsy is the data controller for purposes of Art 4 Nr. 7 of the EU General Data Protection Regulation (“GDPR”).
+This Policy is intended to inform you about the following:
+The personal data we collect and process:
+When you visit our website for informational reasons without setting up an account;
+if you register for one our services (e.g. create an online account at my.pixsy.com), including when users connect a photo import source or other online media sources (e.g. Flickr, 500px, Google Drive, Dropbox, Facebook, Eyeem). or subscribe to our newsletter;
+in order to provide you with interesting information for our services and products, and for statistical analysis that helps us to improve our website or improve your website experience with third-party content. T
+To whom your personal data may be disclosed, including third parties that might be located outside your country of residence and where potentially, different data protection standards may apply;
+On the safeguards used to secure your personal data and the retention of your personal data only as long as necessary.
+On the rights you may be entitled to exercise with regards to the processing of your personal data).
+Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website.
+Definitions
+For the purposes of this Policy,
+Personal data means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier;
+ 
+Children Under the Age of 18
+Our Website is not intended for children under 18 years of age. No one under age 18 may provide any information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at support@pixsy.com.
+Use of our Website
+When you visit our website with or without registering for any of our provided services and without providing us with personal data in any other form, we may automatically collect additional information about you which will contain personal data only in limited cases and which is automatically recognized by our server, such as:
+Your IP address;
+Date and time of your requests
+We use such information only to assist us in providing an effective service (e.g. to adapt our website to the needs of your end-user device or to allow you to log in to our website), and to collect broad demographic information for anonymized use.
+Purpose and legal basis: The personal data automatically collected is necessary for us to provide the website, Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest to guarantee the website’s stability and security, Article 6 sec. 1 sent. 1 lit. f GDPR.
+Personal data that is collected automatically is retained for 12 months and properly erased afterwards.
+Chat function
+When you visit our website, you have the option to interact with our customer support staff via chat, and an automated chat bot. Through this interaction, you may be identified or asked to provide contact information.
+Purpose and legal basis: Personal data is processed to provide you support information and to service your request. The legal basis therefor is Article 6 sec. 1 sent. 1 lit. b GDPR, and (if you are not a registered user) Article 6 sec. 1 sent. 1 lit. f GDPR.
+Registration for our services
+Our Website offers the possibility for you to use the Pixsy software, technology and services as described in more detail in our Terms of Use https://www.pixsy.com/terms-of-use/ . In order to use the aforementioned services, you have to register an account. With regard to the registration of an account and its subsequent use, we process
+personal data provided by registration, such as
+Name, address, email, phone, website
+Date of birth
+Photo information
+Signatures & settlement agreements
+Documents and files
+Information in connection with an account sign-in facility (e.g. log-in and password details)
+Communications sent by you (e.g. via post, e-mail or website communication forms)
+The information which is necessary for the performance of the service is labelled accordingly. All further information is provided voluntarily.
+Purpose and legal basis: We will process the personal data you provide in order to:
+identify you at sign-in,
+provide you with the services and information offered through the Website or which you request;
+administer your account
+communicate with you
+The legal basis therefore is Article 6 sec. 1 sent. 1 lit. b GDPR.
+We use the personal data and contact data you provide by registration to inform you directly about our additional products and services. The use of your personal data for directly advertising related products and services is a legitimate interest for us as a provider of this website, Article 6 sec. 1 sent. 1 lit. f GDPR.
+You can object to the use of your personal data for direct marketing at any time. We will then refrain from any processing to the extent it is related to such purposes. You can inform us about your objection at support@pixsy.com
+Your personal data is, in the absence of exceptions within the specific services mentioned below, retained for as long as your user account is used. After deletion of your account, your personal data will be erased after 1 month. Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data.
+Image Import
+In order to use our services, you can either manually import your images to the Website Pixsy (where we store a copy) or connect a platform integration using an oAuth token or API provided by the image platform provider. These platforms currently are:
+Flickr
+Instagram
+EyeEm
+Tumblr
+Photoshelter
+PhotoDeck
+SmugMug
+500px
+Amazon S3
+If you import your images, associated information may also be stored including (but not limited to):
+Image title, filenames, date of file creation
+Date and location of creation
+Meta data, EXIF data, tags and categories
+ 
+Partners
+As part of our services, we partner with local law firms to process copyright infringement cases on behalf of our Users. When submitting an infringement case to Pixsy, you (at such time) authorize Pixsy to engage a law firm on your behalf (as set out in the Agent Authorization Agreement). In such instances, your personal data may be shared with partner law firms to process your case. You will be notified of each instance by email and via your case dashboard.
+Purpose and legal basis: We process these personal data in order to provide our services to you. The legal basis therefor is Article 6 sec. 1 sent. 1 lit. b GDPR.
+Image Users
+As part of our services, we enforce the intellectual property rights of our customers. If you are an image user (and seek to purchase an image license), copyright infringer or potential infringer (or if we have reasonable grounds to assume that you are an infringer) of the intellectual property rights of our customers, we may collect and process personal data in this regard, including:
+Personal data provided by our customers, such as
+Name, address, email, phone, website
+Image use/infringement information
+Business information
+Director and employee names
+This data is collected from publicly available sources or via our customers.
+Purpose and legal basis: We will process these data in order to enforce the intellectual property rights of our customers or prepare and/or support enforcement. The legal basis therefor is Article 6 sec. 1 sent. 1 lit. f GDPR.
+Transaction Notices
+As part of providing you our services, we may notify you of important information via email, phone or post. Such instances may include:
+Agreement and policy updates
+Infringement case updates
+Payment updates
+Some of these notices are required by law and cannot be unsubscribed from, while you have an active website account or a business relationship. Email notification preference can be adjusted via your account settings.
+The legal basis therefor is Article 6 sec. 1 sent. 1 lit. b GDPR and, if required by law, Article 6 sec. 1 sent. 1 lit. c GDPR.
+Newsletter
+With your email address, you can subscribe to our newsletter that provides you with the latest news about our products and services if you consent to receive such newsletters.
+The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our newsletter.
+You can unsubscribe from this service by opting out via the link provided in each newsletter or by notifying us at support@pixsy.com
+Automated decision making
+We do not use your personal data for automated decision making which produces legal effects concerning you or similarly significantly affects you.
+Cookies
+We use “cookies” on this Website and as part of the services. A cookie is a piece of data stored on a website visitor’s hard drive and through which we receive certain information. Cookies cannot execute programs. They aim to enhance the user experience on our Website, make our services more user-friendly and efficient, and provide support for the internal operations of the Website.
+For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our Website.
+You can set your browser in accordance with your preferences, e.g. to refuse all or some cookies. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the service may not function properly or may be considerably slower.
+The following sets out the cookies we use as part of the services, the purpose and the retention periods.
+Google Analytics – 12 Months
+This website makes use of Google Analytics, a web analytics service provided by Google, Inc. (“Google”), which uses cookies to analyze how users use the site. The information generated by the cookie about your use of the site will generally be transmitted to and stored by Google on servers in the United States. At the request of the website owner, Google will use this information for the purpose of measuring your activity on this website, compiling statistical reports on overall website activity for the website owner and providing other services relating to the activity and internet usage. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, please note that if you do this you may not be able to use the full functionality of the website. In addition, you can prevent the collection of the data generated by the cookie by Google, as well as the processing of this data by Google, by downloading and installing the browser plug-in available from the following link: https://tools.google.com/dlpage/gaoptout. The website owner has activated the IP anonymization; in consequence, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA.
+We use Google Analytics to analyze the use of our website and to improve it. With the statistics created we can improve our services and make it more interesting for you. In case personal data is being transferred to the USA, Google has submitted to the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework.
+Our legal basis for the use of Google Analytics is Art. 6 para. 1 lit. f GDPR.
+Further information can be found under https://www.google.com/analytics/terms/ (Google Analytics Terms of Service).
+Intercom – 12 Months
+Links to third party websites
+This website may contain links to third-party websites. We are not responsible for the content and the data collection on respective third-party websites; please check the privacy policy of respective websites for information of respective websites’ data processing activities.
+Transfer of personal data
+Other than as previously mentioned, we transfer your data to the following recipients and for the following purposes:
+Providing the technology and services your request from us
+Storing and processing your images
+Storing and processing your case information
+Storing and processing your payment information
+We transfer your personal data to service providers who process your data on our behalf to assist us in providing the services we offer through the website. Categories of recipients are:
+Storage & database providers
+Accounting and tax providers
+Email providers
+Such a transfer will be based on data processing agreements in accordance with Art 28 GDPR. Therefore, our contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests.
+In addition, your personal data will be disclosed to following third parties:
+Partner law firms
+for the purposes set out above. The legal basis for this transfer of your personal data is Article 6 sec. 1 sent. 1 lit. b and f GDPR.
+Some of the recipients mentioned above reside outside the EEA. For further information about cross-border transfer in general and transfers outside of the EU/EEA, see below.
+We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data.
+We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order).
+Cross-border data transfers
+Within the scope of our information sharing activities set out above, your personal data may be transferred to other countries (including countries outside the EU/EEA) which may have different data protection standards than your country of residence. Please note that data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. However, we will endeavor to take reasonable measures to keep up an adequate level of data protection when sharing your personal data with such countries.
+ 
+Data Security
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL (Secure Sockets Layer) technology.
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+Data retention
+We strive to keep our processing activities with respect to your personal data as limited as possible. In the absence of specific retention periods set out in this policy, your personal data will be retained only for as long as we need it to fulfil the purpose for which we have collected it and, if applicable, as long as required by statutory retention requirements.
+Your rights
+Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:
+Right of access. This is your right to see what data is held about you by us and to receive certain additional information and copies of your personal data.
+The right to rectification. The right to have your data corrected or amended if what is held is incorrect in some way.
+The right to erasure. Under certain circumstances, including where your personal data is no longer required for the purposes it was collected for, or your consent has been withdrawn, you can ask for your personal data to be deleted. This is also called “the right to be forgotten”.
+The right to restrict processing. This gives you the right to ask for a restriction to the processing of personal data, such as in the case where the accuracy of the data is disputed.
+The right to withdraw consent. If processing is based on your consent, you have the right to refuse to provide your consent and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time.
+The right to object. You have the right to object on grounds relating to your particular situation, that your personal data is processed. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal data or present you our compelling legitimate grounds for continuing to do so.
+ 
+Changes to Our Privacy Policy
+We reserve the right to change this Policy from time to time. In such case, we will update our Website respectively and post any changes we make to this Policy on the Website home page, together with a notice that the privacy policy has been updated. The date the Policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this Policy to check for any changes.
+Contact Information
+If you have any questions or comment about this Policy or any requests concerning your personal data, you can contact us at:
+Post: Pixsy, Inc., 340 S Lemon Ave, Walnut CA 91789, USA
+Email: support@pixsy.com
+ 
+About Us
+We fight for the rights of artists.
+Take control of where and how your images are used with a free Pixsy account. Pixsy’s reverse image search technology uncovers all uses of your images online.
+Simply submit cases of copyright infringement to Pixsy for resolution and compensation.
+Contact us
+California, 91789, USA
++1 (323) 284-9404

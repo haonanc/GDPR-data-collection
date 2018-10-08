@@ -1,0 +1,49 @@
+Clicking this will make more experts see the question and we will remind you when it gets answered.
+×
+An expert who has achieved level 3 by getting 1000 points
+All-Star:
+MVP:
+Vice President:
+Master
+This is a hoax.
+×
+Hi there,
+Save hours of searching online or wasting money on unnecessary repairs by talking to a 6YA Expert who can help you resolve this issue over the phone in a minute or two.
+Best thing about this new service is that you are never placed on hold and get to talk to real repairmen in the US.
+Posted on Jan 02, 2017
+×
+Posted on Jan 05, 2015
+×
+- Answer the question.
+- If you need clarification, ask it in the comment box above.
+- Better answers use proper spelling and grammar.
+- Provide details, support with references or personal experience.
+Tell us some more! Your answer needs to include more details to help people. You can't post answers that contain an email address. Please enter a valid email address. The email address entered is already associated to an account. Login to post Please use English characters only.
+Tip: The max point reward for answering a question is 15.
+Edit
+Close
+×
+It is a hoax and not true. Basically, Facebook has to ask you to agree to things even if they never want to do anything. This is an old hoax from a couple of years ago and someone has changed the date!
+Also once you post something to Facebook you have posted it in the PUBLIC DOMAIN and therefore 'fair use policy' comes into play. Anyone can take what you post and use it as long as it is not for financial gain.
+http://www.snopes.com/computer/facebook/privacy.asp
+You can configure your privacy settings in Internet Explorer 6 by clicking Internet Options on the Tools menu, and then clicking the Privacy tab.
+NOTE: An administrator can customize your privacy settings and remove the Privacy tab from the interface in the Internet Options dialog box. If the Privacy tab is not available, contact your administrator, or see the "Information for Advanced Users and IT Professionals" section.
+These settings replace the cookies settings on the Security tab in Internet Explorer 4 and 5 (and the Advanced tab in Internet Explorer 3). The Privacy settings slider has six settings: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies.
+The following Privacy settings are available with the slider:
+Block All Cookies: Cookies from all Web sites will be blocked, and existing cookies on your computer cannot be read by the Web sites that created them. Per-site privacy actions do not override these settings.
+High: Blocks cookies that do not have a compact privacy policy or that have a compact privacy policy which specifies that personally identifiable information is used without your explicit consent. Cookies that were already on your computer before you installed Internet Explorer 6 are leashed (restricted so that they can only be read in the first-party context). Per-site privacy actions override these settings.
+Medium High: Blocks third-party cookies that do not have a compact privacy policy or that use personally identifiable information without your explicit consent. Blocks first-party cookies that have a compact privacy policy which specifies that personally identifiable information is used without your implicit consent. First-party cookies that do not have a compact privacy policy and cookies that were already on your computer before you installed Internet Explorer 6 are leashed (restricted so that they can only be read in the first-party context). Per-site privacy actions override these settings.
+Medium (default level): Blocks third-party cookies that do not have a compact privacy policy or that have a compact privacy policy which specifies that personally identifiable information is used without your implicit consent. First-party cookies that have a compact privacy policy which specifies that personally identifiable information is used without your implicit consent are downgraded (deleted when you close Internet Explorer). First-party cookies that do not have a compact privacy policy are leashed (restricted so that they can only be read in the first-party context). Cookies that were already on your computer before you installed Internet Explorer 6 are also leashed. Per-site privacy actions override these settings.
+Low: First-party cookies that do not have a compact privacy policy are leashed (restricted so that they can only be read in the first-party context). Cookies that were already on your computer before you installed Internet Explorer 6 are also leashed. Third-party cookies that do not have a compact privacy policy or that have a compact privacy policy which specifies that personally identifiable information is used without your implicit consent are downgraded (deleted when you close Internet Explorer). Per-site privacy actions override these settings.
+Accept All Cookies: All cookies will be saved on your computer, and existing cookies on your computer can be read by the Web sites that created them. Per-site privacy actions do not override these settings.
+NOTE: Changing your privacy preferences does not affect the cookie acceptance policy for cookies that have already been set unless you move the slider to Accept All Cookies or Block All Cookies.
+Internet Explorer displays a Privacy dialog box the first time that a cookie is restricted based on your privacy preferences. This dialog box appears only one time, unless you clear the Don't show this message again check box. The Privacy dialog box explains that a new status icon (the Privacy Report icon) is added to the status bar when you visit a Web site that does not meet your privacy preferences. You can double-click this icon to view a privacy report that explains how the Web site either has privacy practices that conflict with your preferences or has no published privacy policy. You can also view a privacy report for any site by clicking Privacy Report on the View menu.
+NOTE: The Privacy slider works only in the Internet zone. All cookies are automatically accepted from Web sites in both the Local Intranet and Trusted zones, and all cookies are automatically blocked from Web sites in the Restricted zone.
+So you would like to change the privacy policy of your phone.
+Not finding what you are looking for?
+Ask a Question
+250 Answers
+Are you  a Facebook Computer and Internet Expert? Answer questions, earn points and help others
+x
+Loading...
+Oops :

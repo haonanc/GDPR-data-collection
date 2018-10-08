@@ -1,0 +1,45 @@
+The pixiv.Inc (henceforth, "we") respects the privacy of users of pixpedia (henceforth, "the service"), and manages users' personal information with great care.
+1. Personal Information
+Personal information is an information pertaining to an individual, such as their name, address, date of birth, age, sex, address, phone number, family members, electronic mail address, ID, IP address, workplace, title, workplace address, workplace phone number, credit card number, bank account number, information on sites visited, personal problems, or private conversations. Any one of these, or any combination of two or more of these, which can identify a particular person is personal information.
+2. Purpose of Use
+We will use the users' personal information acquired through their use of the service for the following purposes:
+（１）To offer them the service
+（２）To request charges from those users who are using the paid service
+（３）Using the users' age, sex, interests, etc. to improve the service, providing new services or information judgement on advertisement publish, and distribution.
+（４）To prevent any service usage method that violates the Terms of Service
+（５）To gather aggregate data on users' usage patterns (however, this data will be constructed in such a way where no personal information of particular users are verifiable at any manner)
+3. Usage Restrictions
+We will only use users' personal information acquired through their use of the service as needed for the above mentioned objectives, except in the following cases:
+（１）When the law demands it
+（２）When there is a need to protect a person's life, safety or property from immediate danger or when it is difficult to gain the person's consent
+（３）When there is an exceptional need to use it to ensure public health or the healthy upbringing of a child, or when it is difficult to gain the person's consent
+（４）When a national or local government or someone acting in their place requires our cooperation in order to carry out legal duties, and attempting to gain the person's consent may risk obstructing those duties
+4. Methods of Acquiring Personal Information
+（１）We acquire users' personal information solely through their use of this service
+（２）All other acquisition of personal information is done fairly and appropriately, never unlawfully or against the user's will.
+5. Notification of Acquisition of Personal Information
+When we obtain personal information about a user through means other than their usage of the service, we will inform them in advance or publicly announce before using it. Any changes in the usage purpose will also be announced through the service.
+6. Management of Personal Information
+We will manage users' personal information safely and appropriately.
+7. Management Entrust
+There will be times where we entrust the handling of personal information we've acquired to others. Those others will be required to sign the necessary contract and will be monitored to ensure they are managing the information appropriately.
+8. Offering Personal Information to Third Parties
+As a general rule, we will not offer personal information on our users to third parties without the users' (owner's) consent. However, there may be exceptions to the following cases:
+（１）When we outsource part of our service, we will provide the information necessary for them to run it appropriately.
+（２）When we want to present any statistical analysis of our users' behavior, we will only disclose constructed collected data with modification to prevent any identification on individual's information
+（３）When we want to request any payment from users using the paid service, we will give personal information on users using the paid service to the payment company we use, a credit card company, or a bank
+（４）When we request a delivery service to deliver something to a user
+（５）When the law requires that we disclose or offer the information
+9. Disclosure of Personal Information
+We will answer the request to disclose any personal information made from the owner of the account. However, we may choose not to disclose part or all of it in the following cases:
+（１）The user or a third party's life, health, property or other rights would be threatened
+（２）Disclosing the information would prevent us from operating efficiently
+（３）When it would violate the law
+10. Changes to Personal Information
+When a user requests a change in or addition to their personal information, we will handle it appropriately after confirming the user's identity and the precise nature of the request.
+11. Exemptions
+For the following cases, we will assume no responsibility regarding any personal information acquired by third parties:
+（１）When the user reveals their personal information to a third party through the service or any other means
+（２）When a user is identified based on information they entered into the service
+12. Changes to the Privacy Policy
+We may change a part or all of the privacy policy without announcements beforehand. Changes made will be announced on the site.

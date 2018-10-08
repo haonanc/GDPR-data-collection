@@ -1,0 +1,67 @@
+Select a new default local region:
+British Columbia
+Political parties in Canada do not have to adhere to any privacy laws or regulations, despite gathering and possessing sensitive personal information about millions of voters.
+Politician's email provokes debate, concern and surprise
+Daniel Schwartz · CBC News ·
+Posted: Sep 26, 2012 5:29 AM ET | Last Updated: September 26, 2012
+MPs Rick Dykstra, Charmaine Borg and Joyce Murray discuss whether the private information of Canadians can be used for partisan purposes 9:50
+In 2011, about 10,000 people signed a petition addressed to Jason Kenney and his ministry, Citizenship and Immigration, demanding that Alvaro Orozco, a young Nicaraguan who was facing deportation, be allowed to stay in Canada.
+Orozco, a gay artist, did avoid deportation, but  that petition  is back in the news after Kenney sent out an email extolling what the government of Canada has been doing on "gay and lesbian refugee protection."
+It startled many in the gay community that a federal minister had their contact information at his disposal. It also pulled back the covers on the use of personal data and, in particular, the lack of Canadian laws governing what personal information Canadian political parties are allowed to keep and exploit, essentially as they see fit.
+As a little-reported study for Canada's privacy commissioner noted recently, "Canadian federal privacy protection law does not cover federal political parties."
+In fact, even Ann Cavoukian, the Information and Privacy Commissioner for Ontario, was astounded today when she realized the parties are not covered.
+Ontario Privacy Commissioner Ann Cavoukian is concerned that political parties can use information they gather from voters for purposes other than for what it was intended, without the voter's consent. (Canadian Press)
+In this case, it seems that Kenney's parliamentary office had saved the names and email addresses of the petition signatories and included them on the mailing list for the message that Kenney sent out on Friday.
+When people sign a petition on Change.org, the web site used to try to help Alvaro Orozco, they provide their name, email address and full address and, if they wish, a personal comment.
+They can also choose whether or not their signature will be displayed publicly, and they can  read the site's privacy policy .
+If someone read down far enough, they would learn that when they sign a petition, their "personal information may be delivered to the intended recipient of such campaign and/or the creator of such campaign."
+As well, when someone opts for public display of their signature, which is the default on the site, they "are also consenting to the disclosure of your name, city, state and a link to your change.org user profile."
+Not our jurisdiction
+Anne-Marie Hayden, the spokeswoman for the Office of the Privacy Commissioner of Canada, told the CBC's Louise Elliott that while the office finds this story troubling, it does not come under its jurisdiction.
+"Our office does not have jurisdiction over political parties under either the Privacy Act or the Personal Information Protection and Electronic Documents Act," Hayden wrote in an email.
+The Canada Elections Act specifies how the voters' lists that they provide to parties and MPs may be used — for communicating with voters, soliciting contributions, recruiting members — but that's it.
+While most countries with a mature democratic system have at least some regulation through privacy laws that cover political parties, Canada and the U.S. stand out as exceptions.
+The only provincial legislation that covers political parties is B.C.'s Personal Information Protection Act.
+'Voter-ID' big business in the U.S.
+For party activists who want to mine data to help get their candidates elected, the U.S. is really the place to be, with more personal data on voters available.
+Their sources include voter registration, lists for rent, iPhone apps for political canvassing and Google's Political Campaign Toolkit for targeted online advertising campaigns.
+Jennifer Stoddart, the federal Privacy Commissioner, oversees the application of Canada's privacy laws but has no jurisdiction over the privacy practices of political parties. (Canadian Press)
+They have also had much more experience with robocalling, robotexting and social media campaigns.
+"The last decade has indeed seen dramatic developments in the scale and sophistication of technologies for reaching potential voters and donors in the U.S., gleaning more refined information about them, and building list management and profiling databases,"  write Colin Bennett and Robin Bayley  in the analysis commissioned by federal Privacy Commissioner Jennifer Stoddart.
+Bennett is a political scientist at University of Victoria and the author of six books on privacy. Bayley is a privacy and policy adviser with Linden Consulting in Victoria.
+In Canada, they write, "there has been scant attention paid to the extent to which parties collect, use and disclose personal information, and the associated risks."
+They note that "the privacy policies of Canada's federal political parties, if they exist, are not always easy to locate" and have vague commitments and incomplete remedies.
+"In terms of personal-information handling information and processes, none discloses or hints at the presence of a privacy management framework."
+How parties build their databases
+Tom Flanagan , now a political scientist at the University of Calgary, also has extensive experience in the backrooms of the Reform Party and the Conservative Party, including as a national campaign manager.
+University of Calgary's Tom Flanagan says a good database of information on voters is 'an invaluable asset to any political party.' (CBC)
+He was instrumental in moving his party towards using a permanent constituency information management system (CIMS), now the envy of the other parties, and he wrote about building and using the CIMS in his 2007 book, Harper's Team. He also managed the Wild Rose Party's campaign in the 2012 Alberta election.
+In an interview with CBC News, Flanagan explained that a political party in Canada starts with the names, addresses and identifier numbers from the voters' list and an online telephone directory, which telemarketers they hire already have.
+Then, through door-knocking and phoning they add information to their database that voters may provide, such as email addresses and who they support. In the database, party officials rank voters on the intensity of their support.
+That information is then merged with the fundraising data and political activism data — will they take a campaign sign, volunteer, etc. And through each brief encounter on the phone or at the door, a canvasser tries to gather information on where the voter stands on one policy issue, which is also added to the database.
+"If you keep doing this over a period of years, you build up a lot of information," Flanagan says.
+Unlike in the U.S., he notes there are no good third-party sources of information on voters available to parties, so "the personal information comes only from asking people to answer questions."
+Flanagan, however, believes there should be a firewall between a party's database and the correspondence of MPs and ministers, and he says there was one when he was Stephen Harper's chief of staff back in 2002.
+Petitions were in what he called a grey area. Petitions submitted to the House of Commons are public and so the Conservative Party's position was that they "have the right to look at the names and later contact them if they seem to be supportive of some issue that we could approach them on."
+Flanagan recognizes that with a CIMS database being used at both the national and local level, accessed by thousands of campaign workers, that it is impossible to prevent them from keeping parts of the information and it would be impossible to patrol.
+"The data can be transferred, but the data are relatively innocuous, much less personal than people give all the time to retailers or to government agencies" and much less likely to be shared.
+For Flanagan, a good database is an invaluable asset to any political party and "an asset to democracy" because it "promotes parties contacting voters as individuals instead of contacting them through a 30-second ad."
+When interviewed, he was uncertain whether there is a privacy framework under which parties operate, but he says he "would hate to see governments start to regulate it to the point where it becomes difficult to use the technology."
+No laws for parties
+Ontario's privacy commissioner,  Ann Cavoukian , told CBC News that although she has "no problem stretching my jurisdiction," when the legislation allows, she cannot do anything in this case because she has "no jurisdiction whatsoever over political parties in Ontario."
+When governments and businesses gather information they are allowed to use it for the stated purpose and that purpose alone, unless they obtain prior consent for another use.
+In the case of voters, they provide their electoral information in order to participate in an election. As Cavoukian sees it, political party use of that information would be a secondary use.
+As well, when parties ask voters questions about their views during phone interviews or when canvassing, Cavoukian says that she can "practically guarantee" that the voters think it's for a one-time purpose. "They're not providing that information for use in any way contemplated by the party, at any time, in any capacity."
+She wants political parties to "be transparent about how they are going to use the information."
+Then they should ask, "is that OK with you? You raise it, you notify them and you allow them to say no.
+"By just assuming you can use it for whatever purpose you want, any trust that was there is completely eroded," Cavoukian feels.
+Data leaks
+Unintentional data leaks and data breaches have been a constant problem for governments and businesses in recent years and political parties have not been immune.
+For example, in Winnipeg last year a Conservative candidate accidentally sent contact information on about 6,000 of her constituents to an environmental activist.
+Cavoukian hopes that at least political parties will encrypt the data, since more leaks will happen.
+They have "some obligation, a duty of care, given that they can collect it and use it in any manner that they wish," she says.
+Like Flanagan, she views this information gathering as an issue of democracy. For her, though, "it's not just about protecting individual rights," privacy is a prerequisite for "the freedoms that we largely take for granted."
+She says that in those cases when a democratic society morphs into a totalitarian state, "the first thread to unravel is privacy."
+Toronto, ON
+It is a priority for CBC to create a website that is accessible to all Canadians including people with visual, hearing, motor and cognitive challenges.
+Closed Captioning and Described Video is available for many CBC-TV shows offered on CBC Watch .

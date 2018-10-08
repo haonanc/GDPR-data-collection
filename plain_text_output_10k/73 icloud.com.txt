@@ -1,0 +1,33 @@
+your username
+your password
+This website is linked to this policy and is operated by Remove-icloud.Com
+This policy explains the different types of cookies and the monitoring that may be applied during your visit to the site. By using or accessing the site, you are consenting to the use of cookies and tracking technologies for statistical purposes as described below. If you have more questions or concerns related to the policy, contact us at remove-icloud.com@gmail.com
+WHAT IS A COOKIE?
+“Cookies” are small pieces of data (often text files) that the websites you visit place on your computer or device. As a standard feature of major browser applications, cookies are widely used to make websites work or operate more efficiently, as well as to provide website owners with information about users’ browsing experiences. When users return to the same website again, your browser sends cookies previously stored on the web, allowing you to recognize the user and retrieve important information for that personalized or convenient website (for example, to retrieve stored user preferences).
+Although cookies serve many valuable functions, some users may prefer not to allow or limit their use on the websites they visit. Most browsers give you the ability to manage cookies to your liking to change the configuration of your browser. For example, some pranksters will allow you to establish rules for managing cookies site by site, which allows you to refuse cookies from websites that you do not trust. You can find more information about cookies and details on how to manage or disable the following links, where you can find more information about the different
+browsers:
+• Safari http://support.apple.com/
+Note: If you choose to disable cookies on the site, your experience may be diminished and some features and functionalities of the site do not work as expected.
+WHAT COOKIES DOES THE SITE USE?
+Like many popular websites today, the site uses different types of cookies to work properly. Depending on the nature of your interactions with us, you can find additional information about the options that may be available to you in relation to the use of the site from cookies and similar technologies in How do I manage Cookies? so.
+essential cookie.
+“Essential cookies” are essential to support the planned functionality of the site. Let our visitors do things like move around the site, use their basic services and access their main functions. Without these essential cookies, the site will not work as well as we would like, and we can not provide you with the site or certain content, services and related features that you have requested.
+Processing cookies and cookies in security are two examples of essential cookies that can be used on the site. The process cakes make the job of supporting the site or the services that our visitors expect, such as navigating between the pages of the site or accessing secured parties. Security cookies provide the necessary checks and controls to protect the site and its visitors. Among other things, they help us authenticate users, avoid the fraudulent use of access credentials and maintain the confidentiality of user data.
+Preference cookies
+We use them to help remember certain information about your options, preferences and browsing behavior to improve your experience on the site.
+The preferences of the cookies allow us to better personalize your visits to the site, even to remember your preferred region, language and display settings.
+Many of the features of the site should work without preference Cookies; However, your experience may be less functional and you may re-enter your preferences each time you visit.
+Preferred cookies on the site can store information such as your language and geographical region that will help us show you the options and display the contents when you return to the site. For example, to remember your region and language, the site can provide local articles and do it in your local language. We can also use Cookies of preference to capture the preferred audio: and visual settings (for example, text size, font, resolution, etc.), refer to websites, the sequence of pages within the site you visit and other similar details about its browsing behavior and the options on how the site behaves or looks. This helps, among other things, to control and improve the site.
+COOKIES OF ANALYSIS: Are those that, well treated by us or by third parties, allow us to quantify the
+number of users and thus perform the measurement and statistical analysis of the use made by
+users of the service offered. To do this, we analyze your browsing on our website in order to
+improve the offer of products or services that we offer.
+Google Analytics
+Obtain navigation information, measure the audience, analyze the audience and show publicity
+customized according to browsing habits
+ADVERTISING COOKIES: Are those that, well treated by us or by third parties, allow the management of the
+as effectively as possible, of the advertising spaces that could be included on our website and / or
+store information about user behavior obtained through observation
+continued Thanks to them, we can know the browsing habits on the internet and show you
+advertising related to your browsing profile.
+Google Ads

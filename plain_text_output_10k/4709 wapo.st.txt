@@ -1,0 +1,42 @@
+Meet a new Privacy Policy of Wikipedia, reddit, WaPo
+Meet a new Privacy Policy of Wikipedia, reddit, WaPo
+These days major publications and corporations are announcing changes to their legal agreements and inform users through different means, like email or changes to the website.
+Wikipedia, reddit and Washington Post (WaPo) have also recently announce updated to their legal agreements, such as as their Privacy Policy and their Terms of Service.
+Wikipedia
+Wikipedia updated its Privacy Policy on 6 June, 2014. The team behind Wikipedia posted a simple notice on the website:
+Our Privacy Policy is changing on 6 June 2014. To learn more, click here.
+Because a top notification was limited, the text for the notice is kept short:
+reddit
+reddit updated its Privacy Policy on May 15, 2014.
+reddit’s announcement was placed high on its front page – the famous “the front page of the Internet” – but also in the footer section across all webpages with an (updated) tag right after each link to reddit’s legal agreements:
+The frontpage announcement looked like this:
+More information on the upcoming changes is added within a post that was linked to from the announcement on the frontpage:
+WaPo
+The Washington Post (WaPo) also announced the changes to their Privacy Policy and their Terms of Service that were effective after the date of July 1, 2014.
+Like Wikipedia, WaPo informed users about these changes by placing a top bar for users to see whenever they visited the website.
+The Washington Post’s notice has slightly more words without providing a summary of the upcoming changes:
+The Washington Post’s Privacy Policy and Terms of Service have been updated. On July 1, 2014, we published updated versions of our Privacy Policy and Terms of Services. The changes are intended to make these documents easier to read and more transparent, including by providing additional detail in our Privacy Policy regarding how we collect and use information.
+But the notice bar can be closed by clicking the “x” (close) icon:
+Clicking on any links inside the notice text lead the user to WaPo’s Privacy Policy page:
+Takeaways
+When you plan to update your legal agreements, make sure to inform users before the changes are coming and in effect.
+Your users should know how any changes you make will affect them and their accounts with you.
+It’s particularly important to know if a change in your business may impact the personal information of users. If so, an update to your Privacy Policy and a campaign to inform users about the changes is important.
+Give users notice and give them a chance to opt-out or close their accounts, if they do not agree with the new terms.
+If a notice bar is part of your campaign, here are the main takeaways from what Wikipedia, Reddit and WaPo did:
+Make sure that you clearly mention what agreements will be updated.
+Depending on where you intend to place the notice, keep the announcement short but to the point.
+Link to a landing page where you can provide more information about the changes.
+Design the notice bar with a close button. Regular users who already know about the changes shouldn’t be bothered by the notification each time they visit your website.
+Give a summary of the changes, whenever possible.
+If possible, highlight the changes on the legal page: what was removed, what was added, what has changed.
+If you’re going to inform users about the changes to your Privacy Policy or to your Terms of Service, use clear headlines:
+Our Privacy Policy will be updated. Learn more.
+We’re updating our Terms of Service. Learn how the changes may affect your account.
+We’re updating our Privacy Policy and Terms of Service on (date). Learn more about the changes.
+Our Terms and Conditions will be updated. Learn more.
+And so on.
+Oct 23, 2016
+This article is not a substitute for professional legal advice. This article does not create an attorney-client relationship, nor is it a solicitation to offer legal advice.
+Start here
+Disclaimer: Legal information is not legal advice, read the disclaimer .

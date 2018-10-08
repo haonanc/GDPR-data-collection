@@ -1,0 +1,133 @@
+Ziperto Group (referred to as “Ziperto” or “we” or “us” or “our”) is committed to protecting and respecting your privacy and handling your personal data in an open and transparent manner. The personal data that we collect and process may vary depending on the service we provide to you.
+This privacy policy (Europe):
+provides an overview of how Ziperto collects and processes your personal data, and informs you about your rights under the EU General Data Protection Regulation (“GDPR”) and any national law supplementing or implementing the GDPR,
+contains important information about, among others, the collection and use of personal data; the legal grounds for the processing of that data; disclosures of that personal data to third parties and the use of cookies on the Website.
+This privacy policy (USA):
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+For the purposes of this privacy policy:
+when we refer to “personal data” we mean data which identifies or may identify you and which may include, for example, your name, address, identification number, telephone number, date of birth, occupation and family status,
+when we refer to “processing” we mean the handling of your personal data by us, including collecting, protecting and storing your personal data, and
+when we refer to our “Website” or our “Platform” we mean www.ziperto.com.
+Definitions
+Personal Data – any information relating to an identified or identifiable natural person.
+Processing – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.
+Data subject – a natural person whose Personal Data is being Processed.
+Child – a natural person under 16 years of age.
+We/us (either capitalized or not) – ziperto.com
+ 
+ 
+Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+Processing is limited with a time period. We will not store your personal data for longer than needed.
+We will do our best to ensure the accuracy of data.
+We will do our best to ensure the integrity and confidentiality of data.
+Data Subject’s rights
+ 
+Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
+Data we gather
+The information you have provided us with
+ 
+The information automatically collected about you
+ 
+The information from our partners
+ 
+ 
+Technical information
+ 
+Technical information, including the Internet Protocol (IP) address used to connect your device to the Internet;
+Your login information, browser type and version, time zone setting, browser plug-in types and versions;
+Operating system and platform;
+Information about your visit, including the Uniform Resource Locators (URL) clickstream to, through, and from our site.
+Comments
+ 
+ 
+Media
+ 
+Contact forms
+ 
+Embedded content from other websites
+ 
+ 
+We use Google AdSense and Gaming Advertising on our website.
+ 
+Remarketing
+Demographics and Interests Reporting
+DoubleClick Platform Integration
+ 
+ 
+Third parties
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Third-party links
+ 
+We use your Personal Data in order to:
+ 
+provide our service to you (for example this could be registering your account, providing you with products and services that you have requested)
+enhance your customer experience;
+fulfill an obligation under law or contract;
+provide you with information that you have requested or which we think may be relevant to a subject in which you have demonstrated an interest;
+ensure the security and safe operation of our websites and underlying business infrastructure;
+personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested, and
+manage any communication between you and us.
+ 
+ 
+to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+for other purposes we have asked your consent for;
+ 
+ 
+the link between purposes, context, and nature of Personal Data is suitable for further Processing;
+the further Processing would not harm your interests and
+there would be appropriate safeguard for Processing.
+ 
+Who else can access your Personal Data
+ 
+ 
+Google Analytics
+Googld AdSense
+Amazon Associates
+ 
+How we secure your data
+ 
+ 
+ 
+ 
+Children
+ 
+Cookies and other technologies we use
+ 
+ 
+ 
+Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+Analytics cookies – these cookies are used to track the use and performance of our website and services
+Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+ 
+ 
+ 
+ 
+ 
+ 
+Users can visit our site anonymously.
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+You will be notified of any Privacy Policy changes:
+On our Privacy Policy Page
+ 
+Changes to this Privacy Policy
+We reserve the right to make changes to this Privacy Policy.
+Contacting Us
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+Last modification was made June 08, 2018.
+Notes
+Categories
+Categories

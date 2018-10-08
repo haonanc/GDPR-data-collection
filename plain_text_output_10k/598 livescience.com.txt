@@ -1,0 +1,40 @@
+By Tim Sharp, Reference Editor |
+June 12, 2013 05:34pm ET
+MORE
+The right to privacy includes the right to be left alone.
+The right to privacy refers to the concept that one's personal information is protected from public scrutiny. U.S. Justice Louis Brandeis called it "the right to be left alone." While not explicitly stated in the U.S. Constitution, some amendments provide some protections.
+The right to privacy most often is protected by statutory law. For example, the Health Information Portability and Accountability Act (HIPAA) protects a person's health information, and the Federal Trade Commission (FTC) enforces the right to privacy in various privacy policies and privacy statements.
+The right to privacy often must be balanced against the state's compelling interests, including the promotion of public safety and improving the quality of life. Seat-belt laws and motorcycle helmet requirements are examples of such laws. And while many Americans are quite aware that the government collects personal information, most say that government surveillance is acceptable.
+Constitutional rights
+The right to privacy often means the right to personal autonomy, or the right to choose whether or not to engage in certain acts or have certain experiences. Several amendments to the U.S. Constitution have been used in varying degrees of success in determining a right to personal autonomy:
+The First Amendment protects the privacy of beliefs
+The Third Amendment protects the privacy of the home against the use of it for housing soldiers
+The Fourth Amendment protects privacy against unreasonable searches
+The Fifth Amendment protects against self-incrimination, which in turn protects the privacy of personal information
+The Ninth Amendment says that the "enumeration in the Constitution of certain rights shall not be construed to deny or disparage other rights retained by the people." This has been interpreted as justification for broadly reading the Bill of Rights to protect privacy in ways not specifically provided in the first eight amendments.
+The right to privacy is most often cited in the Due Process Clause of the 14th Amendment, which states:
+No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+However, the protections have been narrowly defined and usually only pertain to family, marriage, motherhood, procreation and child rearing.
+For example, the Supreme Court first recognized that the various Bill of Rights guarantees creates a "zone of privacy" in Griswold v. Connecticut, a 1965 ruling that upheld marital privacy and struck down bans on contraception.
+The court ruled in 1969 that the right to privacy protected a person's right to possess and view pornography in his own home. Justice Thurgood Marshall wrote in Stanley v. Georgia that, " If the First Amendment means anything, it means that a State has no business telling a man, sitting alone in his own house, what books he may read or what films he may watch."
+The controversial case Roe v. Wade in 1972 firmly established the right to privacy as fundamental, and required that any governmental infringement of that right to be justified by a compelling state interest. In Roe, the court ruled that the state's compelling interest in preventing abortion and protecting the life of the mother outweighs a mother's personal autonomy only after viability. Before viability, the mother's right to privacy limits state interference due to the lack of a compelling state interest.
+In 2003, the court, in Lawrence v. Texas, overturned an earlier ruling and found that Texas had violated the rights of two gay men when it enforced a law prohibiting sodomy. [ Countdown: 10 Milestones in Gay Rights History ]
+Justice Anthony Kennedy wrote, "The petitioners are entitled to respect for their private lives. The State cannot demean their existence or control their destiny by making their private sexual conduct a crime. Their right to liberty under the Due Process Clause gives them the full right to engage in their conduct without intervention of the government."
+Access to personal information
+A person has the right to determine what sort of information about them is collected and how that information is used. In the marketplace, the FTC enforces this right through laws intended to prevent deceptive practices and unfair competition.
+The Privacy Act of 1974 prevents unauthorized disclosure of personal information held by the federal government. A person has the right to review their own personal information, ask for corrections and be informed of any disclosures. 
+The Financial Monetization Act of 1999 requires financial institutions to provide customers with a privacy policy that explains what kind of information is being collected and how it is being used. Financial institutions are also required to have safeguards that protect the information they collect from customers.
+The Fair Credit Reporting Act protects personal financial information collected by credit reporting agencies. The act puts limits on who can access such information and requires agencies to have simple processes by which consumers can get their information, review it and make corrections.
+Online privacy
+Internet users can protect their privacy by taking actions that prevent the collection of information. Most people who use the Internet are familiar with tracking cookies. These small stores of data keep a log of your online activities and reports back to the tracker host. The information is usually for marketing purposes. To many Internet users, this is an invasion of privacy. But there are several ways to avoid tracking cookies .
+Browsers and social media platforms, such as Facebook and Twitter, allow users to choose levels of privacy settings, from share everything to only share with friends to share only the minimum, such as your name, gender and profile picture. Protecting personally identifiable information is important for preventing identity theft.
+The Children's Online Privacy Protection Act (COPPA) enforces a parent's right to control what information websites collect about their children. Websites that target children younger than 13 or knowingly collect information from children must post privacy policies, get parental consent before collecting information from children, allow parents to decide how such information is used and provide an opt-out option for future collection of a child's information.
+Right of publicity
+Just as a person has the right to keep personal information private, he or she also has the right to control the use of his or her identity for commercial promotion. Unauthorized use of one's name or likeness is recognized as an invasion of privacy.
+There are four types of invasion of privacy: intrusion, appropriation of name or likeness, unreasonable publicity and false light. If a company uses a person's photo in an ad claiming that the person endorses a certain product, the person could file a lawsuit claiming misappropriation.
+Movable boundaries
+The Supreme Court approaches the right to privacy and personal autonomy on a case-by-case basis. As public opinion changes regarding relationships and activities, and the boundaries of personal privacy change, largely due to social media and an atmosphere of "sharing," the definition of the right to privacy is ever-changing.
+Related:
+Tim Sharp, Reference Editor
+Tim Sharp is the Reference Editor for Live Science. He manages articles that explain scientific concepts, describe natural phenomena and define technical terms. Previously, he was a Technology Editor at nytimes.com and the Online Editor at the Des Moines Register. He was also a copy editor at several newspapers. Before joining Purch, Tim was a developmental editor at the Hazelden Foundation. He has a journalism degree from the University of Kansas. Follow Tim on Google+ and @TimothyASharp
+Tim Sharp, Reference Editor on

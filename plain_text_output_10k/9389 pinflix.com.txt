@@ -1,0 +1,83 @@
+Effective Date: 1st of July, 2018
+Last Modified Date: August 28, 2018
+SR LIMNATIS HOLDINGS LTD (2368 Nicosia Agios Dometios, Tsortsil street 6., Cyprus, hereinafter referred to as ‘Company or ‘Data Controller’) the operator of the website, www.pinflix.com (hereinafter referred to as ‘Website’) published the following Privacy Policy and the Company as Data Controller is bound by thereto.
+The purpose of this Policy
+As the User navigates through and interact with the Website, the Company may use automatic data collection technologies to collection certain information about the User’s equipment, browsing actions and patterns to improve the Website and to deliver a better and more personalized service. The Company hereby informs the Users about types of data the Company may collect from the User or what the User provide when he/she visits the Website, the Company’s practices for collecting, using, keeping, protecting, and disclosing the information and the rights and enforcement of these rights of the Users.
+The Company respects the individual rights of the Users, and the Company shall process the personal data on the basis of this Policy. The Company declares that the decisions on the purposes and means of processing are taken in Hungary in which case the legal regulations of Hungary are applicable, the Act CXII of 2011 on the Right of Informational Self-Determination and on Freedom of Information (hereinafter referred to as: ‘Act’), the Regulation (EU) 2016/679 of the European Parliament and the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as: ‘GDPR’), furthermore with the recommendation of the National Authority for Data Protection and Freedom of Information (hereinafter referred to as: ‘Authority’).
+The processed personal data and the purpose of the data processing
+The Company may collect several types of information about the Users of the Website, including information
+user name, password, e-mail,
+information the Users voluntarily supply to the Company by submitting information through the “Contact Us” form,
+information about the User’s computer or mobile device, the internet connection,
+information collected through cookies.
+The purpose of the data processing is to provide personalised services, to monitor and analyse trends, usage, and activities in connection with the Website and for marketing or advertising purposes, and to personalize the Website content, features or advertisements.
+In all stages of data processing operation, the purpose of data processing is satisfied. The personal data is processed to the extent and for the duration necessary to achieve its purpose.
+Legal basis of data processing
+The personal data is processed under the Section 5 Subsection (1) a) of the Act and under the Article 6 Point (1) a) of GDPR, when the data subject has given his/her consent.
+By completing the registration, the User accepts the Privacy Policy of the Company, and gives his/her explicit and voluntary consent to the processing. The User shall be reliable for the accuracy of the personal data.
+By accepting the use of cookies, the User accepts the Policy of the Company, and gives his/her consent to the processing.
+The User will only access the Website if (1) he/she is at least 18-years old and (2) has reached the age of majority where he/she lives. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services. The Company does not knowingly collect any information about children, minors, or anyone under the age of majority.
+The duration of data processing
+The personal data shall be erased from the register of the Company, if the legal basis of data processing is not established. The User shall have the right to obtain the erasure of his/her personal data from the register of the Company at any time.
+The Users shall have the right to request the erasure of personal data concerning him or her by sending a postal mail to the registered address of the Company. The Company shall erase the personal data within 25 days of receipt of the request.
+The Data Controller and Data Processors
+The Data Controller: SR LIMNATIS HOLDINGS LTD
+Registered address: 2368 Nicosia Agios Dometios, Tsortsil street 6., Cyprus
+Main establishment: 1011 Budapest, Szilágyi Dezső tér 1. 2. em., Hungary
+Data Processor shall mean an operator that is engaged under contract in the processing of personal data on behalf of the Company:
+The web server of the Website is operated by:
+Magyar Telekom Nyrt. (Company reg. no.: 01-10-041928, registered seat: 1013 Budapest, Krisztina krt. 55.)
+Recommendation system:
+Gravity Research and Development Zrt. (Company reg. no.: 08-10-001848; registered seat: Bálint Mihály str. 64., H - 9025 Győr, Hungary; postal address: 1113 Budapest, Villányi út. 40/b, Hungary; tax no: HU23841901)
+Advertisement network:
+EXOCLICK, S.L. (NIF/VAT B-64355506, address: C/ Marina, 16-18, 08005, Barcelona, Spain) Traffic Stars Limited, Arch. Makariou III Avenue, 132, SAGRO BUILDING, 3021, Limassol, Cyprus Duodecad IT Services Luxembourg S.à r.l , 44 Avenue John F. Kennedy, 1855 Luxembourg
+The Company may disclose the User’s personal information to comply with any court order, law, or legal process, including responding to any government or regulatory request.
+Data security requirement
+The Company shall carry out data processing operations and select the technical devices to ensure full respect for the right to privacy of the User, and to protect the personal data from unauthorized access, to protect the accuracy of the data, and to protect the personal data from alteration, except the process of the Data Controller.
+The Company shall take all necessary measures to ensure the computer system security, in particular, to protect the personal data from unauthorized access.
+The Company shall process the personal data exclusively for the operation of the Website and for statistical purposes.
+Information the Company Collects through Automatic Data Collection Technologies
+As you navigate through and interact with the Website, the Company may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns.
+The technologies the Company uses for this automatic data collection may include:
+Cookies.
+A cookie is a small file placed on the hard drive of your computer. Your browser stores cookies in a manner associated with each website you visit. The Company uses cookies to enable its servers to recognize your browser and tells the Company how and when you visit the Website and use the services. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, the Company’s system will issue cookies when you direct your browser to the Website. If you want to learn more about cookies, please visit www.allaboutcookies.org .
+The types of cookies:
+Session cookie:
+Also called a transient cookie, which is collected during the usage of the website and is erased automatically when the User closes the web browser. The session cookie is essential for the using and operating the Website. Session cookies do not collect information about the User by which the User could be identified.
+Web Beacons. Pages of the Website (and the Company’s emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please visit www.allaboutcookies.org/web-beacons/ .
+The Company does not collect personal information automatically, but it may tie this information to personal information about you that the Company collects from other sources or you provide to the Company.
+Third-party Use of Cookies and Other Tracking Technologies
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+The Company does not control third-party tracking technologies or how third parties’ use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+Social Networks and Third-Party Plug-ins
+The Website may include plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on the Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third-party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.
+Links to Other Websites
+The Website contains links to other websites. Please be aware that the Company is not responsible for the content or privacy practices of those other websites. The Company encourages its customers to be aware when they leave the Website and to read the privacy statements of any other website that collects personally identifiable information.
+Blocking the Cookies
+The User could control and block the cookies or web beacons on his/her browser. This depends on the type of browser but generally the User can block the cookies by clicking on the main ‘Menu’ button, then ‘Options’, under ‘Settings’ and then ‘Privacy’, where the User can set the type of tracking function which is blocked or allowed on his/her computer.
+Rights of the Users; Enforcement
+User may request the Company to provide information concerning the data processing at any time in writing by mail to the registered address of the Data Controller. The data controller shall provide information concerning the data relating to the User, including those processed by a data processor on its behalf, the sources from where they were obtained, the purpose, legal grounds and duration of processing, the name and address of the data processor and on its activities relating to data processing. Data Controller must comply with requests for information without any delay, and provide the information requested in an intelligible form, in writing at the data subject’s request, within not more than 25 days of receipt of the request. If the Data Controller refuses to comply with the data subject’s request for information the factual or legal reasons on which the decision for refusing the request is based shall be communicated. The data controller shall also inform the User of the possibilities for seeking judicial remedy or lodging a complaint with the Authority.
+User shall request the Company to rectify, erase or block the personal data. If the Data Controller refuses to comply with the data subject’s request for rectification, blocking or erasure, the factual or legal reasons on which the decision for refusing the request for rectification, blocking or erasure is based shall be communicated in writing within 25 days of receipt of the request. Where rectification, blocking or erasure is refused, the data controller shall inform the data subject of the possibilities for seeking judicial remedy or lodging a complaint with the Authority.
+User is entitled to seek judicial remedies in case of violation of his/her rights. The competent court is the regional court. The lawsuit could be brought – according to the choice of the User – before the court in the residence or the place of stay of the User.
+User shall lodge a complaint with the Authority in case of violation of his/her rights.
+The competent supervisory authority:
+HUNGARY-1125 Budapest, Szilágyi Erzsébet fasor 22/C.
+Postal address: 1530 Budapest, Pf. 5.
+Phone number: +36 -1-391-1400
+Miscellaneous
+The Company reserves the right to modify the Privacy Policy. This can take place if the Company modifies the scope of services or if it is required by law. The modification of the Privacy Policy shall not change the purpose of the data processing. The updated version of the Privacy Policy shall be available on the Website.
+The User is liable for any damage caused by the him or her during the use of the Website, or if the User provided third party data on the registration form. In such cases, the Company is entitled to enforce the damages from the User and the Company shall provide all necessary assistance to the competent authority in order to identify the violator.
+The Privacy Policy shall come into force on the date: 1st of July, 2018.
+End
+Keep me logged in
+I agree to Pinflix saving and processing my username, IP address and email address for personalisation and communication purposes and to the Terms & Conditions
+Log me in
+Email
+Username
+Password
+Hide
+I agree to Pinflix saving and processing my username, IP address and email address for personalisation and communication purposes and to the Terms & Conditions
+Sign up
+Email
+Send Password
+You have to log into your account to do that.

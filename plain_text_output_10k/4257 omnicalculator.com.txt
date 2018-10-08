@@ -1,0 +1,18 @@
+TLDR;
+We don't do anything out of the ordinary. You may stop reading here, most likely you won't find anything interesting down there, but if you read all the way to the bottom, you'll get a prize!
+Providing a valuable service and solving your problems is our primary goal, doing nasty crap would go against this rule.  Sometimes it's not clear whether something is cool or not (for example, we support the website with ads, and ad networks do track you), so just in case what we do might be interpreted as uncool, we'll list everything that might be suspicious below.
+Privacy Policy
+The website itself does not collect personal data at the moment. We will once we'll have user accounts.
+Our advertising partners and their partners and their partners do all that's in their power to track you to provide more relevant ads. Personally, I kinda prefer seeing ads for things I'm interested in, but I do understand why other people feel uneasy about ad networks knowing so much about them.
+We are using Google Analytics to collect data to understand our visitors better - which calculators you use, how you use them, what features you like, etc.  To us, it's all anonymous data. To Google... well, they serve ads for a living, don't they?
+We use Facebook Pixel to be able to message you again on Facebook. The fact that you've been to our site gets matched with demographics data that Facebook has. For example, if you're a blogger, we may show you an ad, because "Me, me, me!  Write about me!  I'm so pretty and not needy at all!". And you will write about us because you and I both know that calculators are the sexiest thing since the invention of a nightcap. Or fuzzy sleepers.  Mhmm... soft... ehm... where was I?
+We are not storing anything you input into calculators, but it may make sense to do it in the future. In such case, it will be anonymized - we will not know who calculated what, but we'll know stuff like "40% of Americans enter something between 200,000 and 300,000 in the mortgage calculator ".  For now, we don't have any plans to do it, though.
+In December 2017 we started a newsletter with cool lifehacks we found while making research for new calculators. To sign up, you need to double opt-in (provide an email address and then click on a link in an e-mail you receive) as per regulations in most countries.  MailChimp manages the newsletter for us, so email addresses of our subscribers are stored on their servers.
+Cookies
+We use cookies and localStorage (pretty much the same thing from your perspective) for standard purposes - mainly remembering stuff you did so that we can adjust our service to your needs in the future.  For example, if you save VAT tax rate to 23%, we'll have it pre-entered into the calculator next time you visit.
+We use services of third parties (advertisers, Facebook, etc.) that do use cookies.
+The European Union requires that we notify you that we use cookies. Consider yourself notified. We decided to be the only site in the universe which doesn't feel the need to do it in a pop-up covering half the page.  The funny thing is nobody requires it, but pretty much every website goes the extra mile... mob mentality, I guess.
+Terms of Service
+The general rule applies - be nice, we'll do our best as well.
+Yeah, that's all!
+Good job, you made it to the bottom.  Now you get to watch these cute animals. I promise, in six minutes you'll barf a rainbow.

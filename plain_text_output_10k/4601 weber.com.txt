@@ -1,0 +1,69 @@
+Updated: 6/26/2017
+Weber-Stephen Products LLC and its global subsidiaries and affiliates value customers and respect their privacy. This Privacy Policy describes Weber-Stephen Products LLC’s (“Weber”) collection, processing and/or use of customer information for purposes of improving your experience in the www.weber.com website and related Weber websites (collectively, the “Site”) and for marketing purposes you may elect. We may share the information you provide to us online with our global subsidiaries and affiliates ("Weber Group") but will not use your information other than as described in this Privacy Policy.
+Please note that this Privacy Policy may be updated from time to time due to technical updates and appropriate implementation of new technologies and/or due to changes of the law.
+Use of the App by Children
+We note that our websites and applications, including the Site are intended for a general audience and are not directed to children.
+Collection and use of your data
+The specific scope and mode of collection and use of your data depends on whether you are visiting our Internet presence only for browsing the Site (e.g. for viewing the products we offer) or whether you are actually using specific services (e.g. if you order products).
+Use for browsing the Site
+If you use the Site for browsing only, generally you are not required to enter any personal data (though certain aspects of the site may utilize such information if available). In this case (and apart from these other aspects of the site as described in this Privacy Policy), we only collect and use those of your data which your Internet browser transmits to us automatically, such as:
+Date and time of the visit of any of our websites
+Type of your browser
+The website last visited by you
+The data volume transmitted and the access status (file transmitted, file not found etc.) and
+Your IP address.
+If you visit the Site for browsing only, we collect and use this data in non-personal form only. This is done to generally enable the use of the websites you visit as well as for statistical purposes and for improving our web presence and the services we provide there.
+Use of specific services / Shopping at the Site
+We only collect personal data if you voluntarily disclose such data to us on the occasion of a purchase order process, when interacting with our customer service/online consumer care team, or when opening a customer account. We use the collected data to perform the respective service for you. 
+Your data for the relevant service may be disclosed to reputable service providers working with Weber on transaction-related services (eg: shipping companies and payment services providers), including but not limited to Weber’s fraud detection provider, Forter. Services provided by Forter are subject to Forter’s privacy policy at  http://www.forter.com/forter-privacy-policy/ . 
+Other than these purposes, your data will only be disclosed to other third parties if we are required to do so by law or as otherwise described in this Privacy Policy.
+Opening of My Account/Weber-ID
+You can establish a Weber-ID on the Site for free. With a Weber-ID you have access to exclusive content on the Site (recipes, tips and tricks, etc.), you can register your grill(s) and other products, maintain all relevant information for them (warranty, instructions), save products you are interested in, expedite the shipping process, check order status, and otherwise have a central access for all data and services that Weber-Stephen offers you. 
+In addition the Weber-ID is used to provide registered users with a personalized and individualized experience on our website. Accordingly, we collect and analyze data on the user’s behavior. For that, the following data is collected, analyzed and used:
+Email address
+Customer service/online consumer care claim information
+If you want your Weber-ID to be deleted, please contact us under  privacy.americas@weberstephen.com .
+Email List
+In addition to performing services for you as part of the Site, we are eager to provide an Internet presence that is geared to your interests, and also from time to time provide you with such news and information about Weber or the products we offer by mail or email (through our email list) that might be of interest to you (through analyzation of your data), if you opt in to participate within the Site or through other channels. 
+The newsletter may be sent by MailChimp, a U.S.-based marketing communications platform. If MailChimp is utilized, the email addresses of recipients of the Weber newsletter will be stored on servers of MailChimp in the United States. MailChimp uses this data to send and analyze the newsletter on behalf of Weber. MailChimp may, furthermore, use this data to optimize and improve their services or for other purposes described in its privacy policy at  https://mailchimp.com/legal/privacy/ . 
+Weber may contact you from time to time through certain reputable third party firms for market research purposes. Participation in any such activities by you is strictly voluntary. 
+To opt out: You can revoke your consent to receive these communications at any time by clicking on the appropriate link contained in any such email communication. Your opt-out does not apply to emails that relate to Site information (including policy updates), Legal Notice, Weber-ID, purchases, customer service/online consumer care matters, or that are automatically generated (confirmation emails, order receipts, etc.).
+Use of cookies
+We use cookies to enhance the Site. Cookies are small text files which our web server sends to your browser while you are visiting the Site; your browser stores the cookies on your computer for subsequent retrieval.
+Session Cookies
+We may use “session cookies” (also called temporary cookies), i.e. cookies which are only stored for the time while you are using any of our websites, for certain aspects of browsing the Site. The purpose of these cookies is to identify your computer while you are visiting our Site, even while changing from one of our websites to another, and to determine the end of your visit. 
+The cookies are deleted as soon as you have closed your browser session.
+Tracking and Targeting Cookies
+On the Site we also use tracking and targeting cookies that monitor the user’s behavior. For that purpose we only use so-called First-Party cookies, i.e. these cookies will not be made available by your browser to other domains than the Site. 
+These cookies are used for the following services:
+Page view/Page impression – this analyzes how often the website is visited
+Clickstream or Clickpath analysis – the movement of the user on the website is tracked (e.g. on which way did the user come to a certain product)
+Ad Impressions and Click Through – this analyzes how often an advertisement banner is shown and clicked
+Mouse movement and Heatmaps – this analyzes the mouse movement of the user and tracks where a particular high occurrence took place
+You can set your browser to allow these cookies or not to. If you choose, you may completely deactivate the storage of cookies or only allow their storage for specific websites, or configure your browser so as to cause the browser to automatically send you a message as soon as a cookie is to be placed, asking for your permission regarding that cookie. Please note: if you want to use the full scope of features of the Site, the use of certain cookies will be required.
+Acquia Lift
+The Site utilizes Acquia Lift services, as provided by Acquia Inc., a U.S. organization. Acquia Lift is a personalization service, to identify the interests, preferences and behavior of web visitors. If certain identifiable information (e.g. an email address) is provided or captured at time of page load, Acquia Lift will note characteristics of your browsing behavior to tailor your website experience based on your interests, either implicit or explicit. However, neither Weber nor Acquia will use this information to contact you unless you have provided consent. Acquia Lift uses cookies to recognize visitors and provide its services. Any data collected for this service is stored on servers in the European Union.
+Use of Google Analytics
+The Site uses Google Analytics, a web analytics service of Google Inc. (“Google”). Google Analytics also uses cookies as part of its services. The information generated by the cookie about your use of the Site is normally transmitted to and stored on a Google server in the USA. 
+You can also prevent the collection and recording of the data pertaining to your use of the Site that is generated by the cookie (including your IP address) by Google as well as the processing of this data by Google, by downloading and installing the browser plug-in which is available under the following link: https://tools.google.com/dlpag...  
+For more detailed information on the terms and conditions of use and data protection, please visit:  https://support.google.com/ana...
+Google AdWords
+The Site uses Google AdWords, an analytics service of Google, and, in the context of Google Adwords, it uses Conversion Tracking. Google AdWords uses cookies for Conversion Tracking on the hard drive of your computer (“conversion cookie“) as soon as you click on an advertisement placed by Google. If you visit certain pages of the Site, Google and Weber are able to recognize that you have clicked on the advertisement and were referred to the Site. 
+The information obtained by means of the conversion cookies are intended for the preparation of statistics for AdWords customers using conversion cookies. By these statistics we can find out about the total number of users who have clicked on the advertisement placed by Google and have visited a page to which a conversion tracking tag was added. 
+For more detailed information on the terms and conditions of use and data protection in connection with Google AdWords, please go to: https://www.google.com/policie... .
+Optimizely
+Weber may use Optimizely services in its operation of the Site. Optimizely is a web analytics service of Optimizely, Inc. Through Optimizely, we can find out about how the Site is used. This service uses cookies which transmit the information obtained by them to a server in the USA. You can prevent this storage by setting your browser appropriately. Please note: if you disable this feature you may not be able to use all features of our website in their entirety. You can deactivate the tracking at any time via the following link: https://www.optimizely.com/opt_out/.
+Social Media Plug-ins
+When you visit the Site, no data is automatically transmitted to social networks (e.g.: Facebook, Twitter). Please note, however, that Weber may provide customer list information you may have provided Weber, to Facebook and other social media networks in order to utilize services such as Facebook’s Custom Audience and pixel services. 
+Otherwise, only after you have actively clicked the applicable link yourself, your Internet browser will establish a connection to the servers of the relevant social network; therefore, by clicking the appropriate button (e.g. “Like”), you give your consent to your Internet browser establishing a connection to the servers of the relevant social network and transmitting data relating to the use of the website to the relevant social network provider. 
+Once you have directly engaged with the relevant social media website, your use and browsing will be governed by the data protection statements/privacy policies of the relevant providers.
+Data security
+Weber takes technical and organizational security measures (such as the use of SSL encryption for certain components of the Site) to protect accruing or collected personal data against accidental or intentional manipulation, loss, destruction or attacks by unauthorized persons. Our security measures are continuously being improved as new technologies become available and following our regular review of our current data security, access and protection practices.
+California Users
+California Do Not Track Notice
+Weber does not track users through collection of personally identifiable information over time and across third party sites, and any collection of personally identifiable information collected through your use of the Site (including by third party service providers) is described in this Privacy Policy. As such, the Site does not respond to Do Not Track signals.
+Third Party Marketers
+Weber does not share your personally identifiable information with third parties for the purposes of marketing directly to you, and will provide you with the ability to opt out in the event we do so.
+Questions and Legal Notice
+If you have any questions or comments regarding this Privacy Policy, please send an email to  privacy.americas@weberstephen.com . Your use of the Site may be governed by other Weber policies, including the Legal Notice, which includes additional terms addressing your use of the Site. Please review the Legal Notice at  https://help.weber.com/legal/ .
+CUSTOMER SERVICE

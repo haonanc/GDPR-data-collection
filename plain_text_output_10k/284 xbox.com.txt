@@ -1,0 +1,197 @@
+Try Microsoft Edge A fast and secure browser that's designed for Windows 10
+Xbox One and Kinect offer easy and approachable ways to control your games and entertainment with your voice and gestures. By recognizing you, Xbox One can tailor personal experiences and customize content just for you.
+At Microsoft, we prioritize your privacy and know that protecting your personal data is very important. That is why we created Kinect and Xbox One from the ground up with built-in privacy controls and safeguards that put you in charge of your entertainment experiences and allow you to customize how your personal information or data is, or is not shared.
+When we launched the first Kinect for Xbox 360 we also made privacy a top priority for the first-of-its-kind technology and we provided you with information on how the technology works, how your data is used and how you can control it. With Kinect and Xbox One we want to again provide a guide to answer your privacy questions and share how you can customize your entertainment experiences.
+Overview/General
+Q:
+What privacy updates did you make for the new Kinect and Xbox One?
+A:
+We built the new Kinect from the ground up with entirely new technology to increase its performance and capabilities. With Kinect and Xbox One you get a new world of games, music, live TV, movies and apps, all personalized to your interests and accessible with the sound of your voice. Our approach to privacy on Xbox One is very similar to Xbox 360. This means you will determine how responsive and personalized your Xbox One is to you and your family.
+Q:
+A:
+You can choose to update or customize your privacy and online safety settings at any time by going to privacy and online safety settings on your Xbox One console or on Xbox.com.
+Q:
+A:
+You can choose to turn Kinect off within your Settings. You’ll need to turn Kinect back on manually in the system settings to use it again. You can also unplug your Kinect and your Xbox One will still function.
+Q:
+A:
+We designed different areas of the Kinect front panel to illuminate to help indicate the sensor’s functionality.
+When Xbox One is on and Kinect is ready to respond to voice and gesture commands, the Xbox symbol on the right of the sensor will illuminate.
+If Kinect can capture video or an image, like when you’re engaged in a Skype call or using Upload Studio, a second white light on the left side of Kinect, near the camera lens, will illuminate.
+Data Collection
+Q:
+What data does Kinect and Xbox One collect and how is that information used by Microsoft?
+A:
+Your privacy and your ability to control what you and your family share with others when using the Xbox Live service are of paramount importance to Microsoft. Please read the Xbox privacy statement to learn more about the types of data we collect, why and how we collect them, and what controls we provide so that you can protect you and your family’s privacy.
+Kinect and Xbox One can collect several types of data including:
+Operational Data. This information allows us to deliver basic services and helps us continuously improve Kinect and Xbox One performance. As you play, we collect information on how your Kinect device and platform software are functioning, usage patterns within the Xbox Dashboard applications, and other data that does not directly or personally identify you. This information also helps to keep your Xbox One operating optimally, including checking for updates, and maintains the ability for you to connect to Xbox Live.
+Session Data. Kinect and Xbox One collect and use data to enable you to control and play games. We call this session data; it allows you to control games, either with Kinect or the controller, and is temporarily stored on your console’s memory only while you are playing a session of one or more games. This data, consisting of numeric values, can be used to enable gameplay or improve the gaming experience and can leave the console but is deleted at the end of the session.
+Profile data. This data includes the information you choose to add to your Xbox Live profile, like what games you’re playing or your game clips. You determine who can see this information and can customize how much to share with your friends or followers.
+Data used for Kinect enabled sign-in. You can allow Kinect to identify your face and enable automatic sign-in to your Xbox Live profile. This data, which consists of a long series of numbers, is stored on your console and is not returned to Microsoft.
+Voice data. Voice data may be collected to enable search and to control the console. Voice data used for search is passed to the search engine on Xbox servers that provide you with results. Some voice commands, such as “Xbox On,” are processed on the console. Microsoft does not access or store peer-to-peer audio or video chat data including Skype calls.
+Photos and videos. As part of the gameplay experience, some games and apps that use Kinect may photograph or take video of you while you are engaging in game play. You can view your photos and videos and decide whether to keep, transfer or discard them.
+Game Clips. Game DVR is an Xbox One feature designed to let you share your fun gameplay experiences on Xbox Live. Game clips are brief recordings of the on-screen gameplay, which you can create by saying “Xbox record that” or games can create when they know something cool is about to happen. No audio chat is recorded in these game clips.
+Q:
+What data does Kinect collect when my Xbox One is in “Instant-on” mode?
+A:
+When you have “Instant-on” enabled and your console is powered off, the sensor will only be listening for you to say “Xbox On.” The “Xbox On” command is processed on your Xbox One and does not leave the console.
+Q:
+What data does Kinect collect when my Xbox One is turned on, but I’m not engaged in a Kinect experience?
+A:
+Kinect does not collect information about you or your environment if you are not engaged in a Kinect experience, such as playing a Kinect game, using a Kinect-enabled application or navigating using voice or gesture.
+Q:
+How do third party partners use data collected while playing Kinect games or using apps on Xbox One?
+A:
+Third party partners use data to deliver Kinect experiences (games or applications) to understand how customers use their Kinect experiences, and to improve performance or even to help plan new experiences. They are not permitted to use the information for marketing purposes, such as selling you games or services, or for personalizing advertising. Also, third party partners are not allowed to collect player personal information without review and approval by Microsoft.
+Q:
+Does Microsoft share any of the data Kinect collects about me with third parties or advertisers?
+A:
+Microsoft does not share any data collected by the Kinect sensor with third party partners, nor is it used for marketing or advertising purposes.
+Identity
+Q:
+A:
+You can allow Kinect to identify your face and enable automatic sign-in to your Xbox Live profile. To do this Kinect measures distances between key points on your face to create a numeric value that represents only you. This value is stored only on your console as a set of numbers, which can’t be transformed into a picture of a person. No one could look at the numbers and know they represent you or a family member.
+Q:
+What data does the Kinect sensor collect about my body, and why? Can that information be used to personally identify me?
+A:
+Kinect maps distances between your body’s joints to create a stick figure – a “skeleton” – that helps Kinect enable gameplay on your console or between you and another online player. The stick figure representation cannot be used to identify you and the associated numeric values are only temporarily stored in memory on your console during the gameplay session, then are destroyed when you end the session.
+Q:
+What are expressions and what kind of data does the feature collect?
+A:
+Some game titles may take advantage of a new Xbox capability that allows you to use your facial expressions to control or influence a game. This data does not identify you, stays on the console and is destroyed once your session ends.
+Q:
+I’ve heard that Kinect can estimate my heart rate on Xbox One. How does this work and what does Xbox do with the data?
+A:
+Estimating heart rate is a new Kinect feature that provides a more personalized experience. To do this, Kinect can detect gradual changes in your face and can estimate heart rate based on those changes. If you play Xbox Fitness on Xbox One, Xbox can use the Kinect sensor to estimate your exercise info, including estimates such as your heart rate during an activity or how many calories were burned in a workout. To improve the accuracy of your exercise info, you can enter attributes such as your height, weight, age and gender. On Xbox One, your exercise info is stored online and privately by default. You can delete exercise info through the apps or games you used to create it.
+Photographs, Videos and Game Clips
+Q:
+Who can see photos or videos captured by Kinect during game play?
+A:
+The Kinect sensor can take photos or videos of you when you are playing games and, in some cases, make those photographs and videos available for you to download, copy or share. You can control who can see these on Xbox Live using the privacy settings.
+Q:
+Who can see game clips or Game DVR footage captured by Kinect?
+A:
+Game clips are brief recordings of the on-screen gameplay, which you can create by saying “Xbox record that” or games can create when they know something cool is about to happen. Users can go to Settings to control whether the Game DVR service is set to Allow or Block for game clip creation and upload.  In Settings, users can also control whether their game clips are shared with Friends, Everyone or set to Block. You can also choose to delete your clips.
+Kinect  for Xbox 360 Privacy and Online Safety FAQ
+With Kinect™ for Xbox 360®, you are the controller. Easy to use and instantly fun, Kinect gets your whole body in the game. Imagine controlling movies and music with the wave of a hand or the sound of your voice. With Kinect, technology evaporates, letting the natural magic in all of us shine. And the best part is Kinect works with every Xbox 360.
+With new technology and innovations like Kinect there will be questions about how that technology works, and exactly what that technology does. Families and parents, in particular, have questions about what safeguards are provided to help them manage their family’s entertainment experiences and protect their privacy and online safety. As leaders in the video game industry, Microsoft is proud to have led the effort to create and build in safety and privacy measures and today virtually all of Microsoft's consumer products feature family safety features, including Kinect.
+This guide will help answer those questions and show you how with Xbox 360 Family settings, both for the console and Xbox LIVE you are in control of what you and your children play, watch, browse, and share.
+We also know that privacy is important to everyone, not just parents, and your privacy and ability to control what you share with others when using the Xbox LIVE service are of paramount importance to Microsoft. We take a holistic approach to privacy that starts with embedding privacy controls and safeguards in our products and services to help protect and manage information with greater confidence and safety. In addition to family specific questions, we have provided a detailed set of questions and answers on what data is collected by the Kinect sensor and how it’s used.
+Family Safety
+Data Collection
+Kinect Tuner
+Photographs
+Video, Text, and Voice Chat
+Voice Commands
+Q:
+What Family Settings do you provide to help me protect my child’s privacy and online safety?
+A:
+Family safety is a very high priority for us and there are several ways parents can help safeguard their child’s use of Xbox 360, Xbox LIVE, and Kinect. Xbox 360 and Xbox LIVE already provide parents with strong controls to manage their family’s gaming experiences, and we extend those controls to Kinect.
+Family Settings consists of two types of settings:
+The first is Console Safety, where you can manage settings for all users of the console. Within the console, located at My Xbox >Family Settings, you can:
+Decide what your kids can play, online and off. This includes content ratings for games, movies, and television shows.
+Set a pass code to restrict who can change your Family Settings.
+Set limits on console play time using the family timer.
+The second is Online Safety, which is set for each individual Xbox LIVE profile. Parents for example can set controls for each child’s Xbox LIVE profile that are appropriate for their age and maturity level, including:
+Decide what activities your kids can participate in online including multiplayer gaming, video chat, and voice or text messaging.
+Decide who your kids can communicate with online.
+Choose who can see your child’s profile or friends list, and what information they can see about others.
+The Xbox LIVE sign-in is how each member of your family signs in to use Xbox LIVE. Online Safety Settings only apply when you or your child is using Xbox LIVE. If a child is a minor, parental permission is required for the child to obtain an Xbox LIVE account, and the Online Safety Settings that you established during account creation are applied every time your child signs in to the service.
+For more information on choosing and setting the right parental controls for your family visit https://www.xbox.com/en-US/Live/Family .
+Data Collection
+Q:
+What data does the Kinect sensor collect and how is that information used by Microsoft?
+A:
+Your privacy, and your ability to control what you and your family share with others when using the Xbox LIVE service are of paramount importance to Microsoft. Please read the Xbox privacy statement to learn more about the types of data we collect, why and how we collect them, and what controls we provide so that you can protect your family’s privacy.
+The Kinect sensor can collect four types of data.
+Kinect Performance Data. This information helps us continuously improve Kinect performance. It does not personally identify you, and collection of this data cannot be disabled. As you play, we collect information on how your Kinect device and platform software are functioning, usage patterns within the Xbox Dashboard applications, and other data that does not directly or personally identify you. We may analyze this performance data to ensure users are receiving the optimal game experience, and to help improve Kinect games and the Xbox 360 platform. We may also share some of this aggregated data with companies that provide Kinect-enabled games which will help them improve their product.
+Data that Enables Gameplay. Kinect collects and uses body recognition data to enable you to control and play games. It does not personally identify you, and collection of this data cannot be disabled. We call this session data; it allows you to control Kinect games and is stored on your console’s memory only while you are playing a session of one or more games. One example is body recognition data which allows you to control Kinect games but does not personally identify you and when you turn off your console, it is deleted. This anonymous data, also known as Kinect performance data, may be returned to Microsoft for analysis but does not personally identify you.
+Data Used for Sign-In. As an optional feature, Kinect can collect and use identity data to enable you to sign in to your gamer profile. This is mostly facial recognition data that identifies individual players. You can decide whether to use this feature, called Kinect ID, and control whether this data is collected. This data is stored permanently on your console to enable sign in to your gamer profile, and is not returned to Microsoft. This information is stored as a long series of numbers, and it does not personally identify you.
+Speech Data, Photos and Videos. Kinect can record speech data, photos and videos but you can control whether such data is collected using Xbox 360 Family Settings. Examples include:
+Speech commands. Speech commands allow you to verbally control a Kinect experience. We only collect and store speech commands if you give us permission to do so.
+Photographs that are taken of you during game play. They are initially stored on your console, or another location provided by a game publisher, and you decide whether to share them with others.
+Q:
+A:
+You can turn the Kinect sensor OFF by going to System Settings > Kinect Settings and choosing to turn the sensor OFF. The Kinect sensor hardware does not have a physical OFF switch. Alternatively you can always unplug the Kinect sensor from the console when it’s not in use. When using the Kinect Settings to turn the sensor OFF, all processors on the device that are used to stream audio, video, or depth data to the console are in fact turned OFF.
+Q:
+How do I tell if the Kinect sensor is active?
+A:
+The green light on the Kinect sensor will be on when it’s active, off when deactivated.
+Q:
+What data does Kinect collect when it is turned on, but not being actively used as part of a Kinect experience?
+A:
+Kinect does not collect information about you or your environment if you are not engaged in a Kinect experience (playing a Kinect game, using a Kinect-enabled application, or navigating the Xbox dashboard).
+Q:
+What data does Microsoft collect when I am playing third-party games that use the Kinect sensor?
+A:
+The data that we obtain when you use third-party Kinect experiences (games or applications) is used to deliver and even improve that experience. Largely, it is aggregated, anonymous data generated while customers are engaged in the experience, for example, the length of time that a particular game was played. Game publishers may also receive your gamertag so it can be displayed to you and your gaming partners as part of game play and on leaderboards.
+Q:
+How do third party partners use data collected while playing Kinect games?
+A:
+Third party partners use aggregated data to deliver Kinect experiences (games or applications), to understand how customers use their Kinect experiences, and to improve performance or even to help plan new experiences. They are not permitted to use the information for marketing purposes such as selling you games or services, or for personalizing advertising. Also, third party partners are not allowed to collect player personal information without review and approval by Microsoft.
+Q:
+Where does Microsoft store data about me, and for how long?
+A:
+Data collected through use of Kinect is stored on Microsoft’s Windows Azure platform for up to three months, after which it will be deleted. During that three-month period, the data will be held for analysis purposes. If chosen for analysis, the data will be rendered into an anonymous state before use.
+A:
+Kinect ID provides you with the option of signing in to your gamer profile using facial recognition technology. To do so, the Kinect camera collects information about your facial features in different poses and light conditions and stores that information on your console’s hard drive. It does not store exact details about your face like the color of your eyes, hair, or skin. If you choose to use Kinect ID to sign in to your gamer profile, Kinect looks at your face and if it recognizes you, you will be signed in to your profile. It also allows you to join a game in progress, and be signed in automatically. Kinect ID data is stored as a very long set of numbers, which can’t be transformed into a picture of a person. No one could look at the numbers and know they represent you or a family member.
+Q:
+What data does the Kinect sensor collect about my body, and, why? Can that information be used to personally identify me?
+A:
+The Kinect sensor scans your body – we call it skeletal tracking – in order to facilitate game play. Skeletal tracking data is a representation of body joints–picture a stick figure - and cannot be used to personally identify you. This information, that we call session data, is held in temporary memory on the console and is only used to create the “stick figure” needed to track your movements. When you turn off your Xbox, the skeletal tracking information is deleted from temporary memory.
+Q:
+What is Kinect Tuner and what does it tell Microsoft about me or my game play?
+A:
+The Tuner is a system application that is launched from Kinect Guide/Kinect Hub/Regular Guide/In-Game Menu to diagnose and fix problems with Kinect. You can launch it any time from the Kinect Guide, which means you don’t need to leave a Kinect experience in order to troubleshoot issues.
+If your Kinect experience is paused due to a system issue, you will be prompted to use the Tuner, which is optional. It will attempt to provide resolution of the issue, and will store information on the console about the current and previous Tuner troubleshooting attempts. Some of that information will be sent to Microsoft to be used to improve the Tuner and your future experience with it. This information includes the title of the game or application you were using, the angle of the Kinect camera, volume levels, player distance from Kinect, the Kinect serial number, and the Xbox console ID. For more information on Kinect troubleshooting visit support.xbox.com .
+Some Kinect-enabled games take photos or videos during game play. Who can see those photos or videos, and who controls access to them?
+A:
+The Kinect sensor can take photos or videos of you when you are playing games, and in some cases, make those photographs and videos available for download, copying, or sharing onto social media sites through KinectShare.com.
+In order to share photos with other sites using KinectShare.com you must log onto KinectShare.com and choose to share those photos with other social networking sites.
+Additionally there is a specific setting that controls whether those photographs and videos can be shared with others outside of Xbox LIVE. It is called Kinect Sharing, and is a privacy setting found within the console. Kinect Sharing has two settings: “Blocked” and “Allowed.” For children under 13, the default setting is “Blocked,” while everyone else is set to “Allowed.” The setting can be changed by those with permission to do so.
+Q:
+How do I restrict my child from sending Kinect photos and videos?
+A:
+In the Online Safety settings for your child’s Xbox LIVE profile, set the “Kinect Sharing” setting to “Blocked.” Then, when your child is signed in and playing a game online, photographs and videos taken during gameplay cannot be shared outside Xbox LIVE.
+Q:
+How will I know whether the camera is taking photos or videos, and how do I give permission for the photos or videos to be stored?
+A:
+Let you know if photos or videos are being taken,
+Tell you where they are being stored and how to access them
+Allow you to preview the images
+Additionally, if the images or videos will be transferred outside of the console, they must tell you where they will be transferred and give you the ability to confirm or cancel transmission of the photos or videos prior to transmission. To prevent images from being shared outside of your console, set the “Kinect Sharing” setting to “Blocked.”
+Q:
+A:
+If you set your child’s Kinect Sharing control to “Blocked” and the child is signed in and playing a game, the game will recognize your child’s Kinect Sharing control is set to “Blocked” and will not allow photographs to be shared outside the Xbox LIVE system.
+If more than one person is signed in to the console for online play, and any player’s Kinect Sharing is set to “Blocked,” that setting will apply to everyone in that session. If, however, everyone playing a game on a specific console has their Kinect Share control set to “Allowed,” or if they are not logged in playing online, then photos and videos can be taken and shared, in context of the game. Some games might show you an instant replay video and let you upload it, but it’s not saved on the console after gameplay. Some games might take photos and put them into a photo gallery in-game, where you can select which to upload.
+Q:
+A:
+If a player’s Kinect Sharing is set to “Allowed,” the player can send photographs or videos to KinectShare.com. The player that uploaded the photos or videos must sign in to KinectShare.com with his or her Windows Live ID, and can then decide to print the photographs, download them, or send them to social media sites like Facebook. A person’s KinectShare.com account is password protected with their Windows Live ID password and not accessible by any other users. Any photos or videos sent to KinectShare.com are automatically deleted after 14 days, though you can delete them earlier if you choose.
+Q:
+I understand the Kinect camera will allow users to have video chats via Video Kinect. How can I control the use of this feature?
+A:
+Video chat is one of the powerful features of Kinect. One or several people in one room can contact and chat with a person or group anywhere that Kinect-enabled applications using video chat are available. We are aware that such a service has powerful benefits but requires controls, so we made certain you control if video of you or your family is being broadcast and who can see that video. You will also be shown, through thumbnail video on your screen, what video of you is being broadcast during a video chat session
+Q:
+A:
+Within your Xbox LIVE profile, you can use the “Video Communications” Family Setting to establish who you communicate with using video. You can do the same from your child’s Xbox LIVE profile. Options include:
+Everyone
+Blocked
+You can also use the “Accept Friends Request” setting in your child’s Family Settings to require your approval before anyone is added to your child’s friend’s list. By using the “Video Communications” setting and the “Accept Friends Request” setting you can effectively limit your child’s video communications to only those people you approve.
+Q:
+What are the voice and text chat controls you are providing?
+A:
+Voice and text chat are protected in the same manner as video communication with the same level of control. The “Voice and Text” Family Setting can be set to: Everyone, Friends Only, and Blocked. Microsoft sets the default for this, and other sharing controls, to “Blocked” for child accounts, and “Friends Only” for teenagers.
+Q:
+When using Kinect voice commands, what data is collected by Microsoft and how is it used?
+A:
+When you speak certain commands, Kinect recognizes those commands in order to respond appropriately. Capturing voice samples is critical to helping us improve our speech recognition capabilities, which includes helping make Kinect better at responding to voice commands. If you give permission, samples of those speech commands can be sent to Microsoft to help improve speech recognition. You can turn on or turn off voice command collection at any time. If you turn off voice collection in the “privacy” section of your Family Settings, the stored voice recordings that have not been sent to Xbox will be deleted without being sent.
+Q:
+A:
+No. Kinect recognizes certain words you speak as a voice command to Kinect and uses those words to respond appropriately, but your speech isn’t sent back to Microsoft. The only time we store or send your spoken words is when you have granted us permission to collect and store key words for research purposes such as improving speech recognition. You can see the voice data collection setting in the “privacy” section of your Family Settings.
+Q:
+What type of words are you capturing, and when are you capturing them?
+A:
+We are only interested in your voice commands to Xbox, which we capture along with any ambient background noise. If you give Microsoft permission, we record commands whether you are online or offline. If offline, your Xbox console will store the information until you connect to Xbox LIVE.
+Q:
+A:
+There are two voice control settings for Kinect. One turns the Kinect microphone on or off. This stops or allows use of the sensor microphone for chat, while still allowing voice commands. The other turns speech recognition on or off, allowing you to disable speech recognition for voice commands while still allowing chat. Regardless of the Microsoft settings, gestures still work.

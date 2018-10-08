@@ -1,0 +1,27 @@
+Community Policy
+As a joint venture of Free Download Manager development team and users of this software, FDM community has both informational and social goals. We encourage you to join our community to create together a unique and reliable system of protection from malicious downloads.
+The fact that you downloaded Free Download Manager and installed it on you computer evidences your agreement to follow these rules.
+Common statements and recommendations
+Users reviews base is post moderated, i.e. your messages are added immediately and may be edited or deleted later by our moderators if break community rules below.
+The official community language is English. Respecting your local languages and national identity, we ask you to white your comments in English.
+Community review base is provided by FDM support group, who checks all reviews and may edit and/or delete any review that doesn’t obey these rules.
+All reviews express the opinions of their authors, over which Free Download Manager Team has no desire to assume control or responsibility.
+If you’ve made a mistake and sent a review regarding wrong file, for example, or doubled your review, or sent a blank one please contact us here . Our maintainers will fix whatever it is.
+ALL suggestions on FDM features or community should be sent to our team using this form .
+Prohibitions and restrictions
+It is prohibited to use offensive words and more than 70% capital letters as your nickname.
+It is prohibited to create reviews with:
+“Shouting”, i.e. more than 70% capital letters in the subject or message field.
+Anything added to attract attention, such as: “= = MY REVIEW = = “.
+content that is unlawful, harmful, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive to another's privacy, or may promote conflicts of any kind, including racial, religious, political or cultural.
+Discussing unlicensed software (“warez”) or searching and posting links to it.
+Advertising of any kind, including messages with “visit my website”, “use my program”, etc.
+Buying or selling of anything. Go to those specified sites for this.
+Impolite or obscene words and insults in any form.
+Unproved statements—“This is better”, “This is worse”. Please note that your review should be useful for other community members.
+Useless or senseless information.
+Pictures or images of any kind. Use links to these images instead.
+Discussion of maintainers’ activity.
+Please occasionally reread the Rules. Ignorance of the Rules is no excuse.
+For non-observance of points 1 or 2, reviews are deleted.
+Copyright © 2004-2012, FreeDownloadManager.ORG. All rights reserved

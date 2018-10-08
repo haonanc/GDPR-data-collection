@@ -1,0 +1,31 @@
+Alaska Satellite Facility Privacy Policy
+The privacy policy of the Alaska Satellite Facility (ASF) regarding the nature, purpose, use, and sharing of any information collected via this Web site aligns with the privacy policy of NASA .
+The information you provide on this site will be used only for its intended purpose. ASF will protect your information consistent with the principles of the Privacy Act, the e-Government act of 2002, the Federal Records Act, and as applicable, the Freedom of Information Act. 
+Submitting information is strictly voluntary. By doing so, you are giving ASF your permission to use the information for the intended purpose. If you do not want to give ASF permission to use your information, simply do not provide it. However, not providing certain information may result in ASF’s inability to provide you with the information or services you desire.
+The information this site collects includes, or may include, automatically collected information, information collected for tracking and customization (cookies), and personal information.
+Please contact ASF with any questions or concerns regarding this privacy policy.
+Automatically Collected Information
+This website uses Google Analytics. Please refer to the following policies on Google's website for more information:
+ASF collects and temporarily stores certain technical information about your visit for use in site management and security purposes. This information includes:
+The Internet domain from which you access the ASF Web site (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from an educational domain);
+The IP address (a unique number for each computer connected to the Internet) from which you access the ASF Web site;
+The type of browser (e.g., Chrome, Firefox, Internet Explorer) used to access the ASF site;
+The operating system (Windows, Mac) used to access the ASF site;
+The date and time you access the ASF site;
+The URLs of the pages you visit;
+Your username, if it was used to log in to the website; and
+If you visited this website from another website, the URL of the forwarding site.
+This information is only used to help us make the ASF site more useful for you. With this data, ASF learns about the number of visitors to the site and the types of technology visitors use.
+Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. Raw data logs are retained temporarily as required for security and site management purposes only.
+Information Collected for Tracking and Customization (Cookies)
+A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies: session and persistent. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time.
+The ASF website may use session cookies for technical purposes, such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site. The site may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits. If the ASF site uses persistent cookies, it will identify itself as doing so. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of the site.
+Personal Information
+If you choose to provide personal information, through such methods as completing a form or sending ASF an email, ASF will use that information to respond to your message and to help get you the information or services you have requested.
+Keep in mind that email isn't necessarily secure. You should never send sensitive or personal information like your Social Security number in an email. Use postal mail or secure websites instead.
+The ASF site may ask visitors who request specific information, such as scientists who wish to download certain types of data, to register or submit a proposal. Other information  ASF may collect through the website could take the form of questionnaires, feedback forms, or other means of determining users' interests, with the goal of providing better service to our visitors.
+ About Us
+The Alaska Satellite Facility downlinks, processes, archives, and distributes remote-sensing data to scientific users around the world. ASF's mission is to make remote-sensing data accessible.
+ Contact Info
+UA is an AA/EO employer and educational institution and prohibits illegal discrimination against any individual: www.alaska.edu/nondiscrimination .
+Copyright ©

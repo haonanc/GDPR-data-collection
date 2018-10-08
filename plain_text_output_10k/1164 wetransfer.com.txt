@@ -1,0 +1,129 @@
+Since day 1, WeTransfer has cared a great deal about privacy and respecting our users. We have always had a lean data policy: no sign up, no install, no retargeting. Protecting the data of our users is of the highest importance to us, and we go to great lengths to make sure we keep it safe.
+We take your trust and right to privacy seriously and work continuously to keep your digital footprint small and in your control. Nevertheless, to enable you in your flow and to improve and secure our service, we need to process some personal data. By using any of WeTransfer’s services and/or registering an account you agree to have read and understood our Privacy and Cookie Statement as below.
+To make sure this Statement is easy to read, each question has a drop down with a short explanation, followed by a more formal statement.
+Clear cookies
+We use cookies to store relevant data to optimise your experience on WeTransfer. You can remove all data within our cookies here.  Please contact our support team for permanent anonymity requests.
+Clear Cookies
+Why does WeTransfer process personal data?
+WeTransfer processes some personal data to make our service work for you. Personal data is data that describes you, and is linkable to you as a person. An example of personal data is your email address. We process your personal data so we can send your transfers, and evaluate how you use our service. We will only process personal data for legal reasons if we are obliged to do so by legal authorities. We don’t sell or share your personal data with anyone. Our advertisers have the option to track some personal data through cookies in their wallpaper campaigns.
+If you're a Plus user, we will process data in the same fashion as for the free service, and to make sure all your Plus features are optimised. We will also process data so you can pay or renew your Plus account.
+WeTransfer
+WeTransfer may process your personal data for the following purposes:
+Operating the service and/or the website.
+Providing (technical) support when you reach out to us;
+Following up on legal requests for abuse reports, NTD Reports and fraud investigations;
+In so far as necessary: defending WeTransfer in legal proceedings in relation to or as a result of your use of WeTransfer, following a court order, abiding by any law, regulation or governmental request, cooperating with law enforcement, cooperating in fraud investigations from third parties, safeguarding national security, defense, public security or public health, and to uphold our Terms;
+Evaluating the use of our Website and Service as well as for statistical purposes. We only use the data in a pseudonymized form when we use your data for this purpose. This means that we cannot trace the data directly back to you. For example, instead of using your email address we use a random string of symbols. More information on pseudonymised data can be found in the section: What personal data is processed?;
+When you indicated so: enabling you to engage in actions, promotions or events we offer. After seeking your consent, we will engage with you to keep you posted about news, features, actions or promotions we think you may like. You’ll always have the option to stop receiving these messages from us.
+Legal base for processing
+Each processing activity has a valid legal base, which is described below.
+1. and 2. The first two processing activities are necessary for the performance of the contract, which in this case are the services we offer through WeTransfer, on web and through our mobile and desktop apps, and the accompanying Terms of Service.
+3. and 4. These processing activities are to comply with our legal obligation. In case of a violation or when we need to uphold our Terms, for example, we need to be able to search or share (some of) your personal data.
+5. Analysis of user behaviour is based on legitimate interest. This means we need this activity to protect and grow our business. Without being able to look at user behaviour we would most likely not learn enough about our users to offer you a valuable and relevant service.
+6. We will only reach out to you once you have consented to that engagement. The legal base for sending you any email that isn’t a service-related one is consent.
+WeTransfer Plus
+To use the WeTransfer Plus service, WeTransfer may process your personal data for the following purposes:
+Operating the service and/or website;
+Providing (technical) support when you reach out to us;
+Following up on abuse reports, NTD Reports and fraud investigations;
+In so far as necessary: defending itself in legal proceedings in relation to or as a result of your use of WeTransfer, following a court order, abiding by any law, regulation or governmental request, cooperating with law enforcement, cooperating in fraud investigations of third parties, safeguarding national security, defense, public security or public health, and to uphold our Terms;
+Evaluating the use of our Website and Service as well as for statistical purposes. We only use the data in a pseudonymized manner when we use your data for this purpose. This means that we cannot trace the data back to you directly;
+Creating and upholding your personal account, facilitating payment of your subscription fee and informing you about new features and updates;
+Facilitating your address book;
+When you indicated so: enabling you to engage in actions, promotions or events we offer.
+Legal base for processing
+Each processing activity has a valid legal base, which is described below.
+1. and 2. The first two processing activities are necessary for the performance of the contract, which in this case are the service we offer through WeTransfer, on web and through our mobile and desktop apps, and the accompanying Terms of Service.
+3. and 4. These processing activities are to comply with our legal obligation. In case of a violation or when we need to uphold our Terms, for example, we need to be able to search or share (some of) your personal data.
+5. Analysis of user behaviour is based on legitimate interest. This means we need this activity to protect and grow our business. Without being able to look at user behaviour we would most likely not learn enough about our users to offer you a valuable and relevant service.
+6. and 7. The legal base for creating and maintaining your personal account, facilitating your address book, and enabling a payment option is that this is necessary for the performance of the contract.
+8. We will only reach out to you once you have consented to that engagement. The legal base for sending you any email that isn’t a service-related one is consent.
+WeTransfer does not sell or otherwise distribute your personal data to third parties and will not use your personal data for any other purposes than stated above without your prior consent. We give our advertisers the possibility to add third party cookies in their wallpaper campaigns. For more information on this topic, please see the topic: Why and how are cookies used?.
+When WeTransfer uses your data for evaluation of the use of our Website and Service as well as for statistical purposes, we use pseudonymized data.
+What personal data is processed when I use WeTransfer?
+We store some personal data to make your use WeTransfer and WeTransfer Plus possible. For the free service, no sign-up is necessary, we use cookies to save your preferences and to make your use of WeTransfer as smooth as possible. We keep your personal data encrypted in our database for a maximum of 12 months. After 12 months, it is either deleted or pseudonymised.
+For WeTransfer Plus we process some personal data to register your account for you. We’ll only use your data to process your payment, create your account and make your use of our Plus service possible. Our payment processor stores your payment data. For tax purposes, we need to store your subscription details for 7 years. Once we do not need the data for this purpose anymore, we delete it. Your transfer data is kept as long as your Plus account is active, and pseudonymised 12 months after your Plus account expires.
+To improve our service for you, we analyse user behaviour. For this purpose, we use data in a pseudonymised way. We anonymise the data we use for analysis when it is no longer relevant, which is after 3 years.
+If you opt in, we may reach out with promotions/actions.
+WeTransfer
+When using the WeTransfer service, WeTransfer processes the following (personal) data:
+Your IP-address;
+Your personal message for the recipients;
+IP-addresses of the recipients;
+Country and language settings;
+Browser type and version;
+Operating System.
+When using the regular WeTransfer service, you do not have to sign up for an account, nor is there any other kind of login procedure. When you register for a WeTransfer Plus account you have to provide some personal data. We register you in accordance with our Terms of Service.
+WeTransfer processes (personal) data through the use of cookies. For more detail on the use of cookies, please see the section: How and why are cookies used?.
+When using our website your uploaded file or files (the upload) are stored on our servers for a period of 7 days by default, afterwards the upload is automatically deleted. The sender is responsible for the legitimacy of the upload and needs to stick to our Terms of Service , WeTransfer only processes it to make the content available for the sender and recipient, as they are intended by the sender.
+If you are sending personal data via WeTransfer, you may ask for a Data Processing Agreement by sending an email to legal@wetransfer.com .
+To offer you our service, to fix bugs, and to reach out to you, we keep the personal data that accompanies a transfer for a maximum of 12 months. This data is only accessible to very few people within WeTransfer, those that need it to perform their job, for example to provide you with support and to troubleshoot. When data is older than 12 months, we scrub it from the database, or pseudonymise it for analysis.
+When we analyse user behaviour to grow our business, we use a pseudonymised version of user data (pseudo data). This means we do not analyse your email address or IP address, but create a random pseudonym for both and use that pseudonym instead. That way we don’t have to handle directly identifiable personal data, which is more privacy-friendly. By looking at pseudo data, we learn how to make our service even better for our users, because it allows us to look at current and past behaviour and link the two.
+When doing this, we keep the amount of personal data we process to a minimum. This means that we use generalised data on the time of use, and on the size of the files that were uploaded. We do not process a timestamp, message, filenames or the exact file size. That means we could never look up that one transfer you sent to your friend with those great holiday pictures. Instead, we would see user #8750QZ uploaded 5 images on a Thursday.
+Our intent is to find relevant connections between past and current behaviour, with the sole purpose of making our platform an even better one for our users. We do not use data that is older than 12 months for anything but analysis. This means we do not use it for advertising, marketing, or profiling.
+We process pseudo data for as long as we need it to make sure the results of our analysis is relevant. In our case, this means we keep pseudo data in the analytical database for a maximum of three years. Afterwards, we anonymise or delete it.
+While we process pseudo data, we make sure we take all possible security measures, both technically and organisationally, to keep personal data safe. If you’d like to know more about how we keep you and your data safe, please see the topic: How safe is it to use WeTransfer?.
+When you indicate that you want to engage in certain actions, promotions or events, we may reach out to you for the opportunity to participate.
+WeTransfer Plus
+When using the WeTransfer Plus service, WeTransfer processes the following (personal) data:
+Your IP-address;
+Your email address, full name, password and your credit card or bank account data;
+E-mail addresses of your recipients;
+Your personal message for the recipients;
+IP-addresses of the recipients;
+Country and language settings;
+Browser type and version;
+The addresses added to your address book;
+Your preferred payment method. Our payment intermediary will ask you to provide  payment data –WeTransfer processes only the payment data and/or details needed to create an invoice for you.
+When you indicate that you want to engage in certain actions, promotions or events, we may reach out to you for the opportunity to participate.
+WeTransfer stores personal data as long as strictly necessary for the above mentioned purposes. As long as you have a Plus account, it is necessary to store your data. Your transfer data will be pseudonymised or anonymised after a maximum of 12 months after your Plus account expires.
+Files uploaded while being logged into your WeTransfer Plus account will be stored by default for 30 days, unless you adjust the expiry date manually. After this period, a file is automatically deleted from our servers. Files transferred through a WeTransfer Profile are stored and available to download for a period of 28 days. After this period, files are automatically deleted from our servers.
+We need to store your subscription details after your Plus account expires as proof of payment for tax purposes. After 7 years, we do not need the data for this purpose anymore, and we delete it from our systems.
+Why and how are cookies used?
+We’ll chuck a few cookies at you, with the intention of making WeTransfer even better. We work hard to make our wallpapers safe, beautiful and unobtrusive. Cookies help us measure the effectiveness of wallpapers, and can be sent by us or our partners. Being a global service, these partners can vary per country. When our advertising partners add cookies to their wallpapers, these cookies can process personal data to measure the effectiveness of the campaign. Feel free to block cookies, but this may affect how well our service works.
+WeTransfer places several cookies on your computer for the purpose of facilitating your use of the service and to find out how the service may be improved. Cookies are small text files that are stored on your computer by your browser when you visit a website. Examples are: your language preferences, logging into a Plus account, remembering email addresses of yourself and recipients, and acceptance of the Terms and Privacy & Cookie Statement.
+Our website can place these cookies for the following purposes:
+Functional cookies are used to provide functionalities when using our service, such as the possibility to set preferences or to remember your previous recipients.
+Analytical cookies are used to optimise our service. For example to optimise the usability of our website by AB-testing a new feature, to make the website more user-friendly and to analyse how you use our service. We also use analytical cookies to stop bots and malicious behaviour like spam. When we use analytical cookies, this could include third party cookies, as found in the cookie list. These third party analytical cookies process personal data, which is detailed in the cookie list too.
+Advertisement cookies are used for commercial, editorial and promotional purposes. With these cookies your internet- and surf behaviour can be followed over various domains and websites. Advertisement cookies are often placed by third parties. WeTransfer does not have access to or control over ((personal) data collected via) these cookies or other features that advertisers and third parties may use. Our Privacy & Cookie Statement is therefore not applicable to these cookies, and we refer you to their Privacy Statements to read how they handle (personal) data.
+We have an extensive cookie list available here , which we will update at least four times a year. Due to the changing nature of our service, this may result in the cookie list not being completely up to date at times.
+If you would want to remove certain cookies, or block them from being stored in your browser, it is possible to arrange this through your browser settings for cookies. You can find these settings under the Privacy tab in the Preferences section of most browsers. Here you can specify your cookie preferences or remove cookies. Please note that if you remove or refuse WeTransfer cookies, the service might not function in optimal form.
+Can I use WeTransfer for private or sensitive files?
+We treat your stuff with respect. We don’t let anyone search for anything on the website. We don’t monitor content that’s being sent by our users.
+Any file transfer between you and recipients is treated confidentially. WeTransfer does not provide any search function, catalogue or listing to find transfers that would be available, except if you are holding a Plus account as to ensure that you can find your own files. WeTransfer will not look into your transfer or files, unless this is necessary and in line with this Privacy & Cookie Statement and the Terms of Service, for instance to provide you with (technical) support on your request.
+WeTransfer does not proactively monitor the content of a transfer, and cannot edit or see what you send via the platform. However, when WeTransfer receives a notice that content which is manifestly unlawful, WeTransfer is legally obliged to investigate and when needed delete this content, following a specific, manual procedure. Please see our Notice & Takedown procedure for more information on the topic.
+Please be careful to distribute download links - whoever it is passed on to or has access to a download link can download the files contained in that transfer.
+What other parties or partners does WeTransfer use?
+WeTransfer has several partners to operate the service. We may need to share some of your personal information with them to provide the service to you. These parties can be categorised as:
+File server
+Payment processor
+Email processor
+Analytics tools
+Ad server
+Our advertising partners
+Unless we tell you differently, our third parties do not have any right to use the personal information we share with them beyond what is necessary to assist us in making WeTransfer possible. Tasks of these third party companies and individuals include database and storage management, payment processing, analytics and general improvements of the service.
+When we cooperate with third parties and they process your personal data on our behalf, we make sure your personal data will be handled with the same integrity and security as we do. If you need an extensive overview of our trusted partners, please reach out to legal@wetransfer.com .
+How safe is it to use WeTransfer?
+We made sure everything you send via our service is safe. The servers we use are located both in the EU and the US. All transfers uploaded from the EU (as determined from the client IP address) will be stored on servers in the EU. Transfers uploaded from outside the EU may be stored on servers in the EU or US.
+WeTransfer takes appropriate technical and organisational measures to protect your personal data against loss or other forms of unlawful processing.
+We make sure that personal data is only accessible by only those who need access to do their job, and that they are properly trained and authorised. That means we keep logs of who has access to personal data, we limit the amount of people that have access, and we make sure that personal data can only be read, copied, modified or removed by properly authorised staff. We monitor internal activity to ensure the safety and accuracy of personal data.
+WeTransfer staff is required to conduct themselves in a manner consistent with the company’s guidelines regarding confidentiality, ethics, and appropriate usage of data. Staff is required to execute a confidentiality agreement and are provided with proper training in online privacy and security.
+All data of WeTransfer users residing in the EU (as determined from the client IP address), stays in the EU. If you use our service from a location in the EU, we make sure to keep all your personal data and the upload you’ve done on our servers in the EU. If you use our service from somewhere outside the EU, your upload could be stored in the US or in the EU. All metadata attached to transfers (like IP addresses and email addresses) is stored only in a database located in the EU.
+During an upload, while it's stored on our servers, and during a download, transfers are encrypted and send over a secured connection (https) only. The servers we use to store your transfers for you are GDPR compliant.
+Can minors use WeTransfer?
+Even though we’ve seen videos of 4 year olds and cats using our service, if you’re under the age of 14 run downstairs and ask your mum and dad first.
+You are only allowed to use our website and/or service when aged 14 and over, after parental approval or approval of your legal representative.
+What are my rights as a user?
+If you need more info on your personal data, let us know please. We may ask for proof of identity. If you change your mind and no longer want us to process your personal data, let us know please.
+You can send your request to access, correction or deletion of your personal data to WeTransfer. You can do this by sending an email to legal@wetransfer.com . Please state clear in the subject that your request concerns a privacy matter, and more specific whether it is a request to access, correction or deletion. Bear in mind that under circumstances WeTransfer requests for additional information to determine your identity.
+Right to object
+You have a right to object to our use of your personal data. If you inform us that you do not longer wish us to process your personal data or to be approached, WeTransfer will move your information to a separate file. Your data will no longer be used for the above mentioned purposes. You can request this via legal@wetransfer.com. Please state clearly that your request concerns a privacy matter and more specifically that you exercise your right to object.
+If you think we have infringed your privacy rights, you can lodge a complaint with the relevant supervisory authority. You can lodge your complaint in particular in the country where you live, your place of work or place where you believe we infringed your right(s).
+Withdrawal of consent
+When you provided your consent to us to process your personal data, you can withdraw your consent any time, without affecting the lawfulness of processing activities based on consent before its withdrawal. If you withdraw your consent, we will no longer process your personal data.
+Revisions to the Privacy & Cookie Statement
+Sometimes we’ll change our statement. Check back here every now and again and have a look. If you no longer like what you read, stop using our service.
+Note that WeTransfer may revise this Privacy & Cookie Statement from time to time. Each revised version shall be dated and posted on the website. WeTransfer recommends that you review the website from time to time and take note of any changes. If you do not agree with the Privacy & Cookie Statement, you should not or no longer access or use the website and/or service. By continuing to use the website and/or service you accept any changes made to the Privacy & Cookie Statement.
+Questions?
+If you have any questions, email us in English. If you have questions about the way WeTransfer processes your personal data or the personal information WeTransfer stores about you, please contact WeTransfer by sending an email with your question to legal@wetransfer.com . We speak English.
+Uh-oh...

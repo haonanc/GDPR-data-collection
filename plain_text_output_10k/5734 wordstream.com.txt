@@ -1,0 +1,115 @@
+Advisor for Agencies
+Testimonials
+Free Tools
+Help me with my Google AdWords campaigns
+Help me manage ads across AdWords, Bing, and Facebook
+Manage my online advertising for me
+Help me build and scale my agency
+Last Updated: August 9, 2018
+ 
+DEFINITIONS
+‘Non-personal data’ (NPD) is information that is in no way personally identifiable.
+‘Personal data’ (PD) means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Personal Data is in many ways the same as Personally Identifiable Information (PII). However, Personal Data is broader in scope and covers more data.
+A “visitor” is someone who merely browses our website. A “user” is someone who has registered with us to use or buy our services and products.
+Information We Collect
+Generally, you control the amount and type of information that you provide to us when using our website.
+OUR LEGAL BASIS FOR PROCESSING PERSONAL DATA (EEA Individuals Only)
+If you are a visitor from the European Economic Area (EEA), our legal basis for processing your personal data will depend on the personal data concerned and the specific context in which we collect it.
+However, we will normally collect personal data from you only where we have your consent to do so, where we need the personal data to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms.  In some cases, we may also have a legal obligation to process personal data about you to protect your vital interests or those of another person.
+If we collect and use your personal data in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our website and communicate with you as necessary to provide our products and services to you and for our legitimate commercial interest. These legitimate interests include, for example, responding to your queries, improving our platform, undertaking marketing, or detecting or preventing illegal activities.  We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us using the contact details provided above.
+We Collect Your Personal Data in the Following Ways
+AUTOMATIC INFORMATION
+ 
+WHEN ENTERING AND USING OUR WEBSITE
+ 
+Identifying the areas of our website that you have visited.
+Personalizing content that you see on our website.
+Our website analytics.
+Targeted advertising and serving ads relevant to your interests.
+Affiliate marketing.
+Allowing you to share content with social networks.
+ 
+DO NOT TRACK SETTINGS
+ 
+AT USER REGISTRATION OR WHEN USING PRODUCTS OR SERVICES
+ 
+WEB BEACONS
+ 
+LOCATION INFORMATION
+ 
+NEW TECHNOLOGIES
+ 
+GOOGLE ANALYTICS PRIVACY POLICY
+Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with Personal Data. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website. For more information on how Google collects and processes your data, visit https://www.google.com/policies/privacy/partners/
+ 
+We use your information for our legitimate interests including:
+Provide our products and services you have requested or purchased from us.
+Respond to your questions and provide you support.
+Personalize and customize our content.
+Make improvements to our website.
+Contact you with updates to our product.
+Resolve problems and disputes.
+ 
+COMMUNICATIONS AND EMAILS
+ 
+SHARING INFORMATION WITH AFFILIATES AND OTHER THIRD PARTIES
+We do not sell or rent your Personal Data to third parties for marketing purposes.  We do, however, engage third party companies and individuals to perform services on our behalf.  The types of services and providers may include:
+Order Management, Billing, and Payment processors (Adobe Sign, Zuora, Vantiv).
+Analytics services (Google Analytics, Geckoboards, Hotjar, SpyFu, Profitwell, Tableau or MaxMind).
+Advertising networks (Google, Facebook, Bing, or Amazon).
+Data management services (Marketo, Salesforce, or Mintigo).
+Communication services (GoToMeeting, TimeTrade, Snapengage).
+Product management services (FullStory, AWS, AppCues, PaperTrail, or Mixpanel).
+Customer success services (Gainsight or GetFeedback).
+Auditors (MFA - Moody, Famiglietti & Andronico)
+ 
+QUALITY CONTROL
+ 
+LEGALLY REQUIRED RELEASES OF INFORMATION
+We may be legally required to disclose your Personal Data if such disclosure is
+required by subpoena, law, or other legal process.
+necessary to assist law enforcement officials or government enforcement agencies.
+necessary to investigate violations of or otherwise enforce our Legal Terms.
+necessary to protect us from legal action or claims from third parties, including you and/or other users or members.
+ 
+DISCLOSURES TO SUCCESSORS
+If our business is sold or merges in whole or in part with another business that would become responsible for providing WordStream to you, we retain the right to transfer your Personal Data to the new business. The new business would retain the right to use your Personal Data according to the terms of this privacy policy as well as to any changes to this privacy policy as instituted by the new business.
+ 
+Retaining Your Personal Data
+ 
+REVIEWING, CORRECTING, AND REMOVING YOUR PERSONAL DATA
+Upon request WordStream will provide you with information about whether we hold any of your Personal Data. If you provide us with your Personal Data, you have the following rights with respect to that information:
+To review the user information that you have supplied to us
+To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us
+To request that your user information not be used to contact you
+To request that your user information be removed from any solicitation list that we use
+To request that your user information be deleted from our records
+To opt out of being solicited by WordStream or third parties
+ 
+LINKS TO OTHER WEBSITES
+ 
+PROTECTING CHILDREN’S PRIVACY
+ 
+OUR EMAIL POLICY
+ 
+OUR SECURITY POLICY
+We have built our website and products using industry-standard security measures and authentication tools to protect the security of your Personal Data.  We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your Personal Data. We also periodically monitor our system for possible vulnerabilities and attacks, consistent with industry standards.  When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your Personal Data or secure data transmission over the Internet because of its nature.
+ 
+USE OF YOUR CREDIT CARD
+ 
+DATA TRANSFERS AND PRIVACY SHIELD
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different from the laws of your country (and, in some cases, may not be as protective).
+We have taken appropriate safeguards to require that your personal information will remain protected in accordance with this privacy notice.
+WordStream has applied to participate in the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union (EU) and Switzerland to the United States, respectively. WordStream has certified to the Department of Commerce that it adheres to the Privacy Shield Principles, and commits to comply with the Privacy Shield Principles as they apply to the personal data of EU and Swiss residents. If there is any conflict between the terms in this privacy notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/ .
+WordStream is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. WordStream complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+WordStream commits to resolve complaints about our collection or use of your personal data in accordance with the Privacy Shield Principles. Individuals in the EU or Switzerland may submit queries related to the processing of personal data under the Privacy Shield framework by contacting us directly at privacy@wordstream.com,  or by mail to WordStream, Inc., 101 Huntington Ave., 7th Floor, Boston, MA 02199 USA, Attn: Privacyl.
+WordStream has further committed to cooperate with the European data protection authorities (the “DPAs”) and/or the Swiss Federal Data Protection and Information Commissioner (the “Commissioner”), as applicable. If we have not been able to successfully resolve your query or complaint and you are based in the EEA or Switzerland, you may raise your query or complaint directly to the DPA or Commissioner. The services of the DPAs and Commissioner are provided at no cost to you. You can find details of the relevant DPA at http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm. WordStream will comply with any advice given by the DPAs and/or Commissioner, and take necessary actions to remediate any non-compliance with the Privacy Shield Principles.
+ 
+CHANGES TO OUR PRIVACY POLICY
+ 
+QUESTIONS ABOUT OUR PRIVACY POLICY
+If you have any questions about our privacy policy, please contact us using the information at the top of this privacy policy.
+About WordStream
+Our software and services help businesses and agencies take the guesswork out of pay-per-click advertising so you get more from your marketing budget.
+Find out if you're making mistakes in AdWords.

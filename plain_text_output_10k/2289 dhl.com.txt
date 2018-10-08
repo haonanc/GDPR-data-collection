@@ -1,0 +1,206 @@
+Privacy Notice
+DHL International GmbH. (hereinafter called 'DHL') is pleased that you have visited our website and are interested in our company, products and services. It is important to us to protect your personal data during handling throughout the entire business process. 
+Please be aware that the national legal requirements for data protection and the handling of personal data may vary from country to country. Therefore, if you visit the relevant DHL country websites you will learn more about country specific information on data protection.
+In the following, we explain what information DHL collects when you visit our website and how this information is processed and for what specific purposes. 
+What is Personal Data?
+Personal data means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. This includes information such as your real name, address, telephone number and date of birth. Information which cannot be linked to your real identity - such as favorite websites or number of users of a site - is not considered personal data.
+Who is responsible?
+This Privacy Notice applies for the data processing carried out by:
+DHL
+If you have queries with regard to the processing of your personal data, please contact the Data Protection Officer. The Data Protection team is also available to help with information requests, take suggestions or handle complaints.
+Data Protection Officer for DHL
+Gabriela Krader, LL.M
+Deutsche Post AG
+Corporate Center - 524
+53250 Bonn
+What are the purposes of and the legal basis for the processing of personal data?
+Visiting our website
+DHL is committed to preserving the privacy of users of our websites. When you visit our web pages, our web servers always temporarily save for connection and set up and security purposes the connection data of the computer connecting to our site, a list of the web pages that you visit within our site, the date and duration of your visit, the IP address of your device, the identification data of the type of browser and operation system used as well as the website through which you linked to our site. Additional personal information such as your name, address, telephone number or e-mail address is not collected unless you provide this data voluntarily, e.g. while completing an online contact form, as part of a registration, survey, competition, fulfillment of contract or an information request.
+The legal basis for the processing of the aforementioned data categories is Art. 6 (1) (a) of the European General Data Protection Regulation (GDPR). Due to the said purposes, in particular to guarantee security and a smooth connection setup, we have a legitimate interest to process this data.
+DHL will store your data as long as necessary for the correct performance of our contract with you, including any post-contractual legal obligations, after which the data will be deleted. Furthermore we are using cookies, tracking-tools and targeting measures. You will find more details hereto below under section "Online presence” and “website optimization”.
+As far as you have enabled geo localization functions in your browser, respectively in your operating system we will use this data to offer you location-based services (e.g. location of the nearest branch, packing station etc.). We will not use this data for any other purpose. If you like to delete this data you can do so by disabling this function in your browser.
+Performance of a contract
+For contractual reasons, we also need personal data to provide our services and comply with the obligations arising from contractual agreements concluded with you. This data is used e.g. for performing a (shipment) contract, managing customer data, handling payments and, as the case may be, assessing creditworthiness. Certain shipment data will also be provided to the authorities of the country of transit or destination for customs and tax clearance or for security screening, as required by the laws of such country. The information provided would usually include: shipper name and address, receiver name and address, description of the goods, number of pieces, weight and value of shipment.
+The legal basis is usually Art. 6 (1) b) GDPR since the processing is for the performance of a contract to which you are a party.
+Further information on data protection in specific services and products is available at TAB Privacy Notice Products & Services.
+Processing for advertising purposes
+If you are an existing customer, your data (e.g. name, address) may be processed to contact you in order to provide you with the latest information about our offers, news, products and services. Apart from an existing consent, we will process your e-mail address exclusively in order to provide you with information regarding our products and services.
+Legal basis for the aforementioned processing is Art. 6 (1) f) GDPR. The processing of customer data for own direct marketing purposes is regarded as carried out for a legitimate interest.
+You have right to object at any time to the said processing. To exercise your right, simply get in touch with us by using the contact details mentioned in “Who is responsible?” 
+If you register for one of our newsletters, we are entitled to use your e-mail address for this purpose. You may unsubscribe from the newsletter at any time by clicking the relevant link at the bottom of the newsletter.
+In case you file an objection or unsubscribe from our newsletter services the respective data will be blocked, respectively deleted and no longer be processed for such purposes.
+Online presence and website optimization
+We use tracking software to determine how many users visit our website and how often. We do not use this software to collect individual personal data or individual IP addresses. The data are used solely in anonymous and summarized form for statistical purposes and for developing the website.
+Use of Cookies
+"Cookies" are small files that enable us to store information related to your device and you, the user, specifically, while you visit one of our websites. Cookies help us to determine how frequently our internet pages are accessed as well as the number of users. And they help us configure our offers so that they are as convenient and efficient as possible for you.
+On the basis of Art. 6 (1) f) GDPR, we are using "session cookies" in order to optimize our website and to guarantee and convenient and undisturbed user experience. These cookies are stored exclusively for the duration of your visit to our internet pages. They are automatically deleted when you close your browser.
+In addition, we use "persistent cookies" for retaining information about visitors who repeatedly access one of our internet pages. The purpose of using cookies is to be able to offer you optimal user guidance as well as to "recognize" you and thus be able to present (as much as possible) diversified internet pages and new contents during repeated use. 
+Generally, we do not create an individual profile of your online activities. The content of a persistent cookie is limited to an identification number. Name, email address, IP address, etc., are not saved on the majority of our sites. However, there are some exceptions which you can find in our cookie table below.
+Table of cookies and categories
+We have provided details of all cookies used on these websites in the table below.
+All cookies in this table have been categorized according to 4 numbered groups – the relevant category numbers are listed in column 1. Please note that cookies can belong to more than one category.
+The categories are as follows:
+[1] Strictly Necessary: These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for cannot be provided. As already stated above, this is based on Art. 6 (1) f) GDPR.
+[2] Performance: These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+[3] Functionality: These cookies allow the website to remember choices you make and provide enhanced, more personal features. For example, these cookies can be used to remember and store the last tracking number that you entered when using a tracking application. Information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+ 
+campaignName
+This cookie is created when you arrive at a DHL web page from a DHL promotional banner or from a link contained in a campaign / promotional email. 
+The cookie stores a campaign ID, which uniquely identifies the campaign source. 
+If you contact DHL using one of our online contact or registration forms within 24 hours of arriving at one of our websites, the campaign ID is attached with the email sent to DHL Sales or Customer Service.
+This information is solely used to assess how successful our campaigns are and monitor if customers have contacted us as a result of a campaign. 
+The cookie stores no personal customer data at all, only the campaign’s ID.
+The cookie expires after 24 hours only.
+ 
+searchParams
+This cookie is used to store search phrases and words that you have typed into our Search boxes. 
+The Search boxes can be found at the top right of each of our web pages. 
+In this way, we remember your search terms and pre-populate the search box with previous suggestions when you reuse the search boxes.
+ 
+shipRefDetails
+This cookie is used to store all previously tracked shipper reference values that you enter when using our DHL Express Shipper’s Reference tracking application.
+This cookie has been created to improve website functionality and make using DHL websites easier for our customers.
+This cookie permanently stores all shipper references until such a time that you actively decide to clear your browser cache and cookies.
+Waybill Cookie [3]
+AWB
+This cookie is used to store the last tracking number value that you entered when using one of our main online tracking applications.
+This cookie has been created to improve website functionality and make using DHL websites easier for our customers.
+This cookie only stores the previous tracking number value until such a time that you enter a new number in the same tracking application.
+Take a look at one of our main online  tracking applications
+Waybill Brand Cookie [3]
+BRAND
+This cookie is used to store the last shipment type that you selected from the dropdown options that are offered in our main online tracking applications.
+This cookie has been created to improve website functionality and make using DHL websites easier for our customers.
+This cookie only stores the previous shipment type dropdown option selected until such a time that you return and select another option in the same tracking application.
+Take a look at one of our main online  tracking applications
+Fast Track Cookie [3]
+No fixed name
+This cookie is used to store both the last tracking number value entered and the shipment type selected from the dropdown when using our smaller Fast Track online tracking applications.
+This cookie has been created to improve website functionality and make using DHL websites easier for our customers.
+This cookie only stores the previous tracking number value and previous shipment type dropdown option selected until such a time that you return and select new options in the same Fast Track tracking application.
+You can find one of our  DHL Express Fast Track tracking applications here
+Tab System Cookie [3]
+No fixed name
+This cookie is used to store the last tab that you selected on a page using a multi-view tab system.
+ 
+nugg.ad Cookies [4]
+d, dp, ci
+This website uses nugg.ad AG technology to monitor data on controlling advertising. In order to do this, nugg.ad saves the frequency of use of various website topics in the form of cookies. Nugg.ad identifies relevant target groups for advertising, according to socio-demographic criteria and product interests. It only makes use of statistical patterns, which are created by the behavior of users towards online advertising and editorial content published on websites. To ensure that you are not constantly bombarded with the same advertisements or even feel that they are too intrusive, we count how frequently you are shown an advert in various campaigns. Once you reach a certain level of exposure, you will not be shown any more adverts from that campaign. Both the d-cookie and the dp-cookie are used to analyze target groups and contain the number of page hits in particular subject areas. The ci-cookie is used to store information about how often you have been shown a particular advert. The cookies only contain general information about your internet use.
+These cookies are stored in the browser of your device (e.g. PC, laptop, smart phone etc.) for a maximum period of 26 weeks. Nugg.ad's technology may also save basic information on your use of other websites in order to estimate what advertising might interest you the most. It is not possible for us to trace any information in the cookies back to individual users. In particular we cannot identify a person by name, address or any other data that is directly identifying.
+If you would like to see advertising on websites that are of interest to you, then you can opt in to receive a further theme-based analysis of your usage behavior. If you give your agreement, then this opt-in cookie will also be stored in the browser of your device. It will be stored for 1 year. If previously collected nugg.ad cookies are present in the browser of your device, by setting the opt-in cookie the following will happen: with your permission the nugg.ad cookie lifespan is lengthened to 1 year (calculated from the moment the cookie is set). Information stored in nugg.ad cookies prior to opt-in is retained and will be deleted upon expiration of the cookie (maximum 1 year). You have the right to prevent the recording of information by the nugg.ad system at any time by exercising your right to opt out. If you have already given your consent, you can also cancel it at any time, effective thereafter. An opt-out will also be stored in a cookie in your browser's device with a lifespan of 10 years, it will be named "nuggstopp", and will be set by "nuggad.net".
+Webtrends Analytics [2]
+WT_FPC
+This cookie is used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+The cookie is only used for identification and does not hold visitor personal data, only an identifier. It is used confidentially only by DHL internally to improve its websites and the user experience.
+More Info about Privacy at Webtrends
+Webtrends Analytics [2]
+ACOOKIE
+This cookie is used to collect information about how visitors use our sites and is specifically used to monitor visitors across DHL domains.
+For example, if a visitor arrives at our corporate site (domain is  www.dhl.com
+). 
+We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+The cookie is only used for identification and does not hold visitor personal data, only an identifier. It is used confidentially only by DHL internally to improve its websites and the user experience.
+More Info about Privacy at Webtrends 
+Google Analytics [2]
+_utma
+_utmb
+_utmz
+A small number of countries may use Google Analytics cookies on a small scale for specific local purposes. These cookies use your IP address as recognition; however do not identify you as an individual. In other words, information is collected in a pseudonymous form. The cookies collect information about how visitors use our local sites and use the information to compile reports and to help us improve local sites.
+More Info about Privacy at  Google
+ 
+ ELOQUA
+The content of this persistent tracking cookie is limited to an identification number and is generally used in exactly the same way as all of our other persistent cookies. However, if you contact DHL using certain online contact forms in the Logistics content area, your email address is added to the cookie to create an individual profile of your online activities. These same contact forms also provide you with an option to sign up for email marketing updates. By giving your permission, this also allows us to provide you with personalized content, offers or promotions that may interest you. Should you choose not to sign up for email marketing updates, you will not be contacted in the future and your email address will only be used confidentially by DHL internally to understand your individual online activities. This means that we can still continue to deliver new and improved website content to suit your specific needs.
+More Info about Privacy at  Eloqua
+Alternatively, to opt out of being tracked by Eloqua across all websites (or to reverse your setting if you have previously opted out), you can do so:
+You are currently opted-in for web monitoring by Eloqua on DHL websites.  Click here to opt-out
+of Eloqua web monitoring.
+LiveBall Tracking Cookies [2]
+These cookies collect information using anonymous identification numbers.
+LiveBall uses IP address to provide non-intrusive geographical location data, however it is not saved in or linked with the cookie. This helps us to track web browsing behavior in order to understand and improve the user experience and the services that we offer. However, it cannot be mapped back to your personal data. 
+These cookies are set when you contact DHL using certain online forms on our websites – for example, when you open a DHL Express account with us. 
+The cookies are used confidentially only by DHL internally and expire after 365 days.
+More Info about  Privacy
+ 
+tracked_session
+This cookie is created when you arrive at specific web pages from a link contained in a campaign or promotional email. We use the information to compile reports and to help us improve the site and provide you with better, targeted content.
+The cookie collects information in an anonymous form unless you contact DHL using certain online contact forms in the Logistics content area. At this point, we link the information stored in the cookie to your email address to create an individual profile of your online activities. These same contact forms also provide you with an option to sign up for email marketing updates. By giving your permission, this also allows us to provide you with personalized content, offers or promotions that may interest you.
+Information gathered includes page views, length of time on a page and the browser you used to view the content. This information helps DHL to measure the performance of email campaigns.
+If the cookie remains anonymous, it expires after 30 days. If linked to an email address, it expires 2 years (730 days) after contacts last identified themselves. It is used confidentially only by DHL internally to improve the user experience.
+ 
+More Info about Privacy at  dotMailer
+To opt out of being tracked by dotMailer, you will need to manage and delete the cookies using your browser settings. To find out more, please visit:
+U2, ActivityInfo, TargetingInfo, Eyeblaster, A3, B4, and C4.
+MediaMind cookies are created when you arrive at specific DHL campaign web pages from a DHL promotional banner, from a link contained in a campaign / promotional email, or when you have used a campaign link provided as part of an offline media advertisement. MediaMind cookies track when and where you were exposed to DHL ads online, how you engaged with those ads, and when you visited the DHL site after being exposed to those ads.
+ 
+More Info about Privacy at  MediaMind
+To opt out of being tracked by MediaMind across all websites, you can do so by clicking on the MediaMind Opt-Out link below: 
+ 
+ LSO
+Flash Cookies allow you to view Flash Player content and are independent of DHL.
+Flash Player default settings do not seek user's permission to store cookies on local hard disk.
+If you wish, you can disable flash cookies (also referred to as ‘local shared objects’).
+You Tube Cookies [2]
+use_hitbox
+VISITOR_INFO1_LIVE
+We embed videos using YouTube’s privacy-enhanced mode. Some of these videos are from our official YouTube channel. 
+This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
+To find out more, please visit  YouTube’s embedding videos information page
+Oktopost Cookie [2]
+okto
+Oktopost cookie allows DHL to track end-users’ activities, which originate from their social interactions. The content of Oktopost cookie is limited only to identifying the links in social posts that an end-user has clicked on. In addition, if an end-user fills a tracked form on DHL website (e.g. registration form), the end-user’s basic contact details, which may include personally identifiable information, will be added to the Oktopost cookie in order to create a profile of the end-user’s social interactions. This information is used by DHL for internal analytics and to provide end-users with personalized content, offers or promotions. 
+Please note that end-users may remove this cookie by following the instructions of their web browser.
+Learn more about  Oktopost
+Sharing Tools: Third Party Cookies
+DHL now uses embedded ‘share’ buttons on its websites. These make it easy for visitors to bookmark and share content through their favorite social networks. When you click on one of these buttons, a cookie may be set by the service you have chosen to share content through. DHL does not control the use of these cookies and you should therefore check the relevant third party’s website for more information. The ‘share buttons’ are provided by AddThis. 
+For more information about their data collection practices, please take a look at the AddThis Privacy Policy 
+Third Party Cookies in embedded content
+Please note that on some pages of our websites you may notice that cookies have been set that are not related to DHL. When you visit a page with content embedded from, for example, YouTube or Vimeo, these service providers may set their own cookies on your web browser. DHL does not control the use of these cookies and cannot access them due to the way that cookies work, as cookies can only be accessed by the party who originally set them. You should check the third party websites for more information about these cookies.
+Web Beacons
+In order to keep DHL’s online content relevant, easy to use and up-to-date, we use web analytics services such as Webtrends (See Webtrends entry in DHL Table of Cookies above for more information.) to help us understand how people use our websites. These services use data collection technologies such as web beacons. Web beacons are small electronic images that deliver cookies, count visits, and understand usage and website effectiveness. In turn, this lets us know what content is of interest to our visitors and helps us provide tailored information on our websites. These web beacons are anonymous and do not contain or collect any information that identifies you. The information is anonymous and only used for statistical purposes. These web analytics data and cookies cannot be used to identify you as a natural person as they never contain personal information such as your name or email address.
+How to Manage Cookies / Right to object and to opt-out
+Using our products and services without cookies is also possible. In your browser, you can deactivate the saving of cookies, limit them to particular websites, or set the browser to notify you when a cookie is sent. You can also delete cookies from your PC hard drive at any time (file: "cookies"). Please note that in this case you will have to expect a limited page presentation and limited user guidance.
+Most web browsers allow some control of most cookies through the browser settings. 
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit: 
+ 
+For further EU-specific advice on cookies and the various opt out options available to you, you can also visit the following website:
+You can choose to opt out of some or all of the advertising cookies set on your PC by visiting the  Network Advertising Initiative (NAI) website 
+Please remember that if you delete your cookies, or use a different browser or computer you will need to set your opt-out status again.
+I do not want nugg.ad to analyze my surfing behavior by topic on Internet sites. This objection will be stored in a cookie on my browser, and has a lifespan of 10 years ("opt out")
+I would like to see advertising that is relevant to me, and agree to nugg.ad's analysis by topic of my surfing behavior. This permission is limited to the period of one year ("opt in").
+Social Media Plugins
+On our website and in accordance with Art. 6 (1) f) GDPR we are using social-media-plug-ins (like facebook, google+, twitter etc.) in order to promote our brand, products and services and to get in touch with our customers. Therefore these advertising purposes are regarded as carried out for a legitimate interest. It is the responsibility of the respective social-media provider to be in line with all applicable laws and regulations.
+Customer account
+The following mandatory information is required when users create a customer account on our website or online solutions. It is not possible to create a personal account without this information being supplied: Name, Address information, phone number, email address.
+Further information on data protection in specific services and products is available at TAB Privacy Notice Products & Services.
+Jobs & Career at Deutsche Post and DHL
+Career opportunities within Deutsche Post DHL Group are as diverse as our teams all over the world. With approximately 540,000 employees in over 220 countries, we connect people, improving their lives. If you would like to apply for one of our open jobs you will find more information, also on data protection, on our website.
+Will my data be passed on to third parties?
+DHL does not share, sell, transfer or otherwise disseminate your personal data to third parties and will not do so in future, unless required by law, unless required for the purpose of the contract or unless you have given explicit consent to do so. For instance, it may be necessary to pass on your address and order data to our contractors when you order products. Further information on data protection in specific services and products is available at TAB Privacy Notice Products & Services.
+External service providers that process data on our behalf are contractually obliged to maintain strict confidentiality as per Art. 28 GDPR. DHL retains responsibility for safeguarding your information in such circumstances. The service providers follow the instructions of DHL, and this is guaranteed by technical and organizational measures, as well as by means of checks and controls.
+What is the DP DHL Data Privacy policy?
+The DPDHL Data Privacy Policy regulates the Group-wide standards for data processing with a special focus on so-called third country transfers, meaning transfers of personal data to countries outside the EU, which do not have an adequate level of data protection. If you are interested in learning more about the DPDHL Data Privacy Policy, please use the following link:
+What are my data subject's rights?
+Overview
+Apart from the right to obtain you have the following rights:
+You can request information as to what personal data is stored
+You can request that we correct, delete or block your personal data provided these actions are permitted by law and in compliance with existing contractual conditions.
+You can request to receive personal data you have provided in a structured, commonly used and machine-readable format.
+You may lodge a complaint with the supervisory authority. The competent data protection authority is:
+            Data Protection Officer for DHL
+            Gabriela Krader, LL.M
+            Deutsche Post AG
+            Corporate Center - 524
+Right to object
+The right to object applies for all processing of personal data which is based on Art. 6 (1) f) GDPR.
+To exercise your right, simply get in touch with us by using the contact details mentioned above in TAB “Who is responsible?”.
+How about data security?
+DHL takes all of the necessary technical and organizational security measures to protect your personal data from being lost or misused. For instance, your data is saved in a secure operating environment which is not accessible to the public. In certain cases, your personal data is encrypted by Secure Socket Layer technology (SSL) during transmission. This means that an approved encryption procedure is used for communication between your computer and the DHL servers if your browser supports SSL. Should you wish to contact DHL by e-mail, we would like to point out that the confidentiality of the information sent cannot be guaranteed. The contents of e-mail messages can be read by third parties. We therefore recommend you send us confidential information only by post.
+Where do I find service specific information regarding the processing of personal data?
+Further information on data protection in specific services and products is available at TAB Privacy Notice Products & Services.
+Changes to Privacy Notice
+We keep our Privacy Notice under regular review.
+DHL reserves the right to change its Privacy Notice at any time with or without prior notice. Please check back frequently to be informed of any changes. By using DHL’s websites you agree to this Privacy Notice.
+This statement was last updated on May 18th 2018.
+2018 © DHL. All rights reserved.
+We use cookies on our website to improve your experience. View our Cookie Policy .
+Accept

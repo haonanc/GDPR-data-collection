@@ -1,0 +1,87 @@
+You are using an unsupported browser, old browsers can put your security at risk. Please upgrade to a supported browser.
+OK ESA uses cookies to track visits to our website only, no personal information is collected.
+By continuing to use the site you are agreeing to our use of cookies.
+Introduction
+The European Space Agency (herein the "Agency" or "ESA") is an intergovernmental organisation established by its Convention opened for signature in Paris on 30 May 1975 having its headquarters located at 24 rue du Général Bertrand, CS 30798, 75345 Paris Cedex 07, France.
+Protection of Personal Data is of great importance for ESA, which strives to ensure a high level of protection as required by the ESA Framework on Personal Data Protection (herein the "ESA PDP Framework") which applies in this field. ESA implements appropriate measures to preserve the rights of data subjects, to ensure the processing of personal data for specified and legitimate purposes, in a not excessive manner, as necessary for the purposes for which the personal data were collected or for which they are further processed, in conditions protecting confidentiality, integrity and safety of personal data and generally to implement the principles set forth in the PDP Framework.
+You may have access to the ESA PDP Framework at the following URL:
+ESA PDP Framework is composed of the following elements:
+the Principles of Personal Data Protection, as adopted by ESA Council Resolution (ESA/C/CCLXVIII/Res.2 (Final)) adopted on 13 June 2017
+the Rules of Procedure for the Data Protection Supervisory Authority, as adopted by ESA Council Resolution (ESA/C/CCLXVIII/Res.2 (Final)) adopted on 13 June 2017
+the Policy on Personal Data Protection adopted by Director General of ESA on 5 February 2018 and effective on 1 March 2018
+This form is intended to inform you, as data subject, about:
+the identity of the data controller and contact details of ESA Data Protection Officer ("DPO")
+the type of personal data which is collected and processed
+the modalities of collection of personal data
+the purpose of the collection and processing
+the recipients (if any) to whom the personal data of the data subject shall be disclosed
+the time-limits for storing the personal data
+ 
+This privacy statement sets out the privacy policy of www.cosmos.esa.int and all other services within the subdomains of cosmos.esa.int.
+www.cosmos.esa.int provides a web portal, or gateway, to the science related services offered by the Science Directorate (D/SCI) of the European Space Agency (ESA). The Portal is owned by the Science Directorate of ESA. The main activities of D/SCI take place at two ESA locations within the Agency; ESTEC (Noordwijk, Netherlands) and ESAC (Madrid, Spain).
+ 
+1. Who is the Data Controller?
+ 
+2. What are the contact details of ESA Data Protection Officer?
+According to ESA PDP Framework, your first point of contact concerning personal data matters is the ESA Data Protection Officer (“DPO”), who may be contacted at DPO@esa.int
+ 
+3. What kind of personal data about you are collected and further processed?
+The personal data which may be collected and further processed for the purposes mentioned below are in particular
+Name
+Phone number
+E-mail address
+Work address
+Information in connection with your use of the website, such as information in server logs, including information on how the website was used by you, your search queries
+Cookies
+Other information that you provide and which may directly or indirectly identify you.
+Information that you provide by filling in forms on the Portal and/or related services
+Up-to-date data about yourself, if you register your personal details for the Notification Service
+Details of your visits to our Portal (including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access)
+We may ask you for information when you report a problem with our Portal. If you contact us, we may keep a record of that correspondence
+We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+ 
+4. How are your personal data collected or further processed?
+Your personal data may be collected by various means, including via:
+enquiry
+ 
+5. Why are your personal data collected and further processed?
+Your personal data are collected and further processed:
+To ensure that content within our Portal is presented in the most effective manner for you and for your computer (or mobile device)
+To provide you with information, data products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes
+To carry out our obligations arising from any contracts entered into between affiliated institutes or contracted companies and us
+To allow you to participate in any interactive features of our Portal, when you choose to do so
+To notify you about changes or additional services in our Portal, we may use your data to provide you with information about services of the Science Directorate which may be of interest to you and either we or any Cosmos staff member may contact you about these by post, telephone or email.
+ 
+6. To whom might we disclose your personal data to?
+The Agency will not disclose your personal data to any third party recipients for the fulfilment of all or part of the purposes of the collection and processing of personal data, which are mentioned above.
+ 
+7. How long do we retain your personal data for?
+The Agency may keep your personal data for as long as necessary for the fulfilment of the above mentioned purposes.
+We should not retain your personal information for longer than required. In many cases users become a member of other projects or require access to data from other missions, therefore we cannot set a fixed number of years for how long we keep your data. We will keep your personal information:
+For as long as required by law
+Until we no longer have a valid reason for keeping it
+Until you request us to stop using it.
+ 
+8. How can you erase, rectify, complete or amend your personal data?
+The Agency is keen to collect and process accurate personal data and to keep it to date. You may request the erasure, rectification, completion or amendment of your personal data if, and to the extent that it is inaccurate or incomplete, having regard to the purposes for which they are collected and processed, or if they are processed in violation with the principles referred in ESA PDP Framework.
+If you choose to make a request for the erasure of personal data, you understand and agree that you no longer have access to your profile, project documentation and data and tools that allow you to work together with other project members.
+The above mentioned request should be submitted to the ESA DPO, as first point of contact, by sending an email to:
+Copy to:  cosmos-support@cosmos.esa.int which is the point of contact for the Cosmos web portal.
+You may also be allowed access to your personal data and have the possibility to erase, rectify, complete or amend it, according to the following modalities:
+1. by accessing the web portal at www.cosmos.esa.int
+2. by clicking on “Sign In”
+3. by entering your account Username and password
+4. by clicking on your name in the web portal and then My Account
+ 
+9. What could you do in case of a data protection incident?
+In case of a data protection incident, you should contact ESA DPO, as first point of contact, by sending an email to DPO@esa.int
+ 
+10. Your consent
+For those cases where your consent was not already obtained by ESA (including by other modalities) and is required under the ESA Framework on Personal Data Protection, you agree with the collection and further processing of your personal data:
+You will be able to withdraw your consent depending on the modality used to collect your personal data, in particular:
+by unsubscribing to mailing lists. Note that most of our project-related mailing lists are automatically populated, based on your activities within the web portal. Therefore to unsubscribe you need to contact your project administrator.
+by sending an email to ESA DPO at DPO@esa.int
+ 
+Related Privacy Publications
+ 
+Please consider the environment before printing

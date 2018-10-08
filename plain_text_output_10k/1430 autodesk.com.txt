@@ -1,0 +1,72 @@
+Cookie Policy
+Cookie Policy
+We use cookies and similar technologies (such as pixel tags). Here is more information about cookies, as well as your choices.
+What “cookies” are
+A cookie is a small amount of data that is sent to a browser from a web server and gets saved on the hard drive of the computer that you are using (in the browser folders). Cookies collect standard information from your browser such as
+browser type
+browser language
+the website address you came from when you visited our website.
+They may also collect information about
+your Internet Protocol (IP) address
+your clickstream behavior – this might include
+the pages you view
+the links you click
+the date and time of your visit or request
+Cookies may uniquely identify your browser or your account, but they do not necessarily identify you personally. Cookies can also be used to help store personal information, for example where you ask us to “remember” you or keep you logged in.
+There are session cookies and persistent cookies.
+Session cookies only last during your session on a website – when you close your browser to end a session, the cookies end as well.
+Persistent cookies last longer, and are used to remember things over time, such as your language preference or that you are a unique user who is returning to a website.
+To learn more about cookies and other automatic data collection tools, please visit
+Types of cookies
+We use what you can think of as three different types of cookies:
+Strictly necessary
+When you request a service or action through our websites or applications, these cookies are strictly necessary to:
+enable services (for example by letting you stay logged in)
+provide information that you requested
+allow you to use essential features
+Here are some examples – cookies that:
+make an online shopping cart work
+support customer support chat functions
+improve security or prevent fraud
+If you disable these types of cookies, we may not be able to fulfill your request.
+Functional and performance
+You make choices that make your experience with our websites and applications better for you and allow us to understand how our end users move around, use and interact with our websites and applications.
+Functional and performance cookies help us remember your choices, and can improve your overall experience and enhance our services by giving us non-personal, statistical information about the effectiveness of our operations and promotional campaigns.
+Here are some examples of when we would use this type of cookie:
+to remember your language or country preference
+in marketing emails, so we can see whether you open them or click on links in them
+on websites or in online services to understand how many new and returning users are using them
+If you disable or opt-out of these cookies or other technologies, it may prevent you from using certain parts of our websites and applications, and it may reduce the support or information that we can provide you.
+Marketing
+We use these types of cookies to collect information about your browsing or shopping history in order to tailor relevant marketing according to how you use our websites and applications.
+We may share this information with third parties to help create and deliver advertising personalized to you and your interests.
+If you disable or opt-out of these cookies, it may prevent you from using certain parts of our websites and applications, and it may prevent us from offering you some of our services.
+Why cookies are useful
+Cookies help us remember information that makes your experience faster and more useful to you … even if we don’t know exactly who you are.
+Here are a few examples of how cookies can make your experience better. The application or website you use:
+remembers your language choice
+keeps stuff in your shopping cart
+shows you content that will be more likely to be useful and interesting to you
+makes the “remember me” option work
+helps you log in
+Cookies are useful for us, too. They can let us know things like:
+how many unique visitors visit our websites
+whether someone is a new or repeat visitor
+which area or content on a particular website was most viewed or downloaded
+Who sets cookies
+We and our service providers (acting on our behalf) set cookies.
+Third parties may also set cookies that we do not control. For example, when you make purchases, our ecommerce vendors may use cookies. You can review our ecommerce vendor’s privacy policy and terms of sale at checkout to understand their practices and your choices.
+In addition, we may work with one or more advertising networks (each an Ad Partner) who use cookies to facilitate interest-based advertising on third party websites. This interest-based advertising may include the remarketing of our products and services that you have viewed on our websites through ads on third party websites.
+As a reminder, this privacy statement (including this cookie policy) does not apply to third party practices.
+Your choices about cookies
+Modify your browser settings
+You can modify your browser settings to control whether your computer or other device accepts or declines cookies. If you choose to decline cookies, as noted above, you may not be able to use certain interactive features of our websites or applications.
+Delete cookies from your browser
+You can delete cookies from your browser; however, that means that any settings or preferences managed by those cookies will also be deleted and you may need to recreate them. Depending on your mobile device, you may not be able to control tracking technologies through settings.
+Opt-out of specific cookies
+When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails that may use web beacons.
+You can also opt-out of certain functional and performance cookies that we use on our websites and applications. You will have to opt-out for each browser that you use.
+You can view a non-exclusive list of opt-out options at:
+Google (including Google Analytics):
+You can also opt-out of receiving marketing advertisements from third party advertisers and ad networks who are members of the Network Advertising Initiative or who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on their websites.
+We have included links here for your reference, but please check the organizations’ respective sites for the latest information

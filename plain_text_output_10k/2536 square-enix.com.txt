@@ -1,0 +1,75 @@
+PRIVACY POLICY
+Square Enix Co., Ltd. (the "Company") will administer the personal information that you supply (“Personal Information”) in accordance with this Policy.
+If you are our customer residing in European Economic Area (“EEA”), Privacy Policy for EEA Resident applies.
+Compliance with Legislation
+The Company will comply with the Act on the Protection of Personal Information and this Policy with respect to the acquisition, use, and handling of Personal Information. Note that if the provisions of the individual policies with respect to the supplying of Personal Information on individual websites, or with respect to notifications given individually at the time of supplying said information differ from those in this Policy, the relevant differing provisions shall take precedence.
+Acquisition of Personal Information
+The Company will acquire Personal Information via appropriate means, and utilize it only for the purposes set forth below; provided, however, that there may be cases in which the Company will separately announce or send notice of purposes of use other than those set forth below:
+（1）Personal information of customers
+to provide customers with services ("Services");
+to provide support and notifications for Services and purchased products; and
+to provide notification of information related to products and Services which the Company and Group companies sell and provide.
+（2）Personal information of job applicants
+communications to job applicants
+reference materials regarding whether the applicant meets the job requirements
+statistical materials for future recruiting activities
+basic employment-related administrative materials after a hiring decision has been made
+Retention Period
+The Company will set a retention period for Personal Information to the extent necessary for its purpose of use, and will delete or discard all Personal Information via appropriate methods after expiry of the period or achievement of the purpose of use.
+Safety Control Measures
+The Company will take all necessary and appropriate safety control measures when handling Personal Information in order to prevent the divulgence, loss, or damage thereof, while also striving to improve these measures.
+Supervision of Employees and Trustees
+The Company will appoint an administrator within each department to handle Personal Information and to ensure the proper management of Personal Information.
+Personal Information will be handled solely by properly trained officers and employees of the Company who are authorized to access such Personal Information.
+There may be cases within the scope necessary for the usage purpose in which the Company entrusts the handling of Personal Information to a third party. In such cases, the Company will obligate the trustee by way of a contract, etc. to handle the Personal Information properly, and will exercise necessary and appropriate supervision over the trustee.
+Disclosure to Third Parties
+The Company will not, except in the following cases, disclose or provide Personal Information to a third party without obtaining the prior consent of the individual in question:
+（1）Cases in which it is necessary for the Company to fulfill legal obligations imposed on business entities, etc.;
+（2）Cases in which the Company has judged that it is appropriate for a Group company to handle the content of an inquiry;
+（3）Cases in which disclosure is required by a court, prosecutor’s office, police, bar association, consumer affairs bureau or other institution, entity, or individual similar thereto;
+（4）Cases in which there is due course, such as for the protection of the life, property, honor, or credit of the individual supplying the Personal Information or other third party;
+（5）Cases in which the Personal Information is used in a way that does not lead to the identification of the person; and
+（6）Any other case in which disclosure or provision is admitted by legislation or regulations.
+Handling of Cookies and similar technologies
+The Company may employ Cookies, Web Beacons, and/or other similar technologies on its websites as set forth below. In no case is new personal information included in the information collected; however, there may be cases in which the aforementioned may be used in association with previously provided Personal Information.
+（1）Cookies
+Cookies are a technology used to store information such as website use history on the customer’s computer. Cookies stored upon customer’s visit of Company’s websites are used in order to collect information with the goal of facilitating more convenient use of Company’s websites or services, and/or distributing targeted advertisement through third party venders.
+Customer can choose “not accepting Cookies” or “deleting all stored Cookie information” by using Customer’s browser settings. However, this may affect certain function of Company’s websites and services as well as third parties’ websites and services.
+（2）Web Beacons
+Web Beacons are able to collect and analyze website and HTML email browsing information by using JavaScript, small image files, etc. embedded in websites or HTML emails. Major purposes of using Web Beacons by the Company are statistically tracking the usage of Company’s websites and services in order to improve Company’s service quality.
+Delivering internet advertisements through third party vendors
+The Company is using third party vendors to deliver Company’s advertisements to customers. Such third party vendors may recognize and use Cookies stored upon customer’s visit of Company’s websites for the purpose of delivering Company’s advertisements, however, in no case such third party vendors shall collect customer’s Personal Information through their use of Cookies.
+For your information, some of third party vendors may have certain privacy setting available to the public that can block displaying advertising distributed by itself by using Cookies.
+Inquiries concerning Personal Information
+In principle, only the individual in question may request the disclosure, correction, addition, deletion, termination of use, and erasure of their Personal Information. The Company will, to a reasonable extent, respond as swiftly as possible only in cases in which it has received a request based on the “Procedures for Requesting the Disclosure, etc. of Personal Information” set forth separately below.
+With respect to inquiries or consultation regarding this Policy or the Company's handling of Personal Information (how to request the disclosure of Personal Information, etc.), please send an email to privacypolicy@square-enix.com
+Continued Undertaking
+The Company will strive continuously to improve its handling of Personal Information through the establishment and review of internal regulations and implementation of training programs.
+Procedures for Requesting the Disclosure, etc. of Personal Information
+How to make a request
+When requesting the disclosure, correction, addition, deletion, termination of use, or erasure (“Disclosure, etc.”) of provided personal information, you should send the following documents by postal mail.
+（1）In cases when the individual in question makes the request
+Formal identification showing the individual’s full name and address
+(a) Copy of a driver’s license
+or
+(b) A copy of each of any two of the following: Health Insurance Card, Resident’s Card, Passport, Certificate of Alien Registration, Pension Booklet, Public Utility Receipt, Notary form, etc.
+（2）In cases when a representative of the individual in question makes the request
+（i）Formal identification showing the individual’s full name and address
+(a)Copy of a driver’s license
+or
+A copy of each of any two of the following: Health Insurance Card, Resident’s Card, Passport, Certificate of Alien Registration, Pension Booklet, Public Utility Receipt, Notary form, etc.
+（ii）Formal identification showing the representative’s full name and address
+(a)Copy of a driver’s license
+or
+(b)A copy of each of any two of the following: Health Insurance Card, Resident’s Card, Passport, Certificate of Alien Registration, Pension Booklet, Public Utility Receipt, Notary form, etc.
+（iii）A letter of proxy from the individual (in cases when the request is made by the legal representative of a minor or adult ward, a copy of a document that makes clear the connection with the individual, i.e. family register; abridged family register; or certificate of residence, may be submitted in place of a letter of proxy)
+Mailing address
+Personal Information Inquiries
+Charge for requests
+The Company will charge a separately specified fee for requests for notification of the disclosure and purpose of use of Personal Information.
+Other
+Personal Information acquired due to a request for Disclosure, etc. will only be handled within the scope necessary for responding to said request for Disclosure, etc. Note that the Company will not return any documents that it has received. We will appropriately administer and dispose of all documents after we have handled the request for Disclosure, etc.
+NOTE:
+This English translation is provided for reference purposes only.
+If there is any discrepancy between the original Japanese“Privacy Policy”and this English translation, the original Japanese“Privacy Policy”shall prevail.
+Last Updated: May 25, 2018

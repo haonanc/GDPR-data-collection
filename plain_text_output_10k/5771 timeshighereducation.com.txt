@@ -1,0 +1,131 @@
+Email *
+A valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail.
+Password
+Username *
+Higher education updates from the THE editorial team
+World University Rankings news
+Student newsletters
+Send me special offers and marketing info from THE and selected partners
+Join us
+What are cookies?
+Cookies are harmless text files that allow a website server to recognise you when you revisit the website. There are two main types of cookies:
+Transient (or session) cookies.
+These are set and exist for the duration of your visit to a specific website and are removed when you finish.
+They recognise you as you move, and navigate between, the different website pages so that you do not need to re-enter who you are and often can help to maintain your security.
+Persistent (or permanent) cookies.
+These remain on your computer until they expire or are deleted.
+Many persistent cookies have automatic deletion dates to help ensure your computer doesn't get overloaded with cookies.
+Persistent cookies will often retain previously entered information to ease and simplify subsequent data input.
+For example: your login user ID or email address.
+Like most websites, this website uses both types of cookies to simplify and ease a user's journey and experience. Cookies can also be 1st (first) or 3rd (third) party cookies:
+1st Party:
+These are owned and created by us for the website you're viewing.
+3rd Party:
+These are owned and created by an independent company. Usually this is a company partnering to provide services to us as owners of the website.
+We use both our own (first-party) and partner companies' (third-party) cookies to facilitate and support a simpler and more secure website experience for our users.
+What we use cookies for
+We use cookies to:
+Store your login details for our secure sites
+Temporarily store input information in any of our calculators, tools, illustrations and demonstrations
+Store details of your marketing, product and business preferences to improve our targeting to you and enhance your journey through our sites and partner sites
+ 
+We don't and will never:
+use cookies to track your Internet usage after leaving one of our sites
+store personal information in them that others could read and understand
+sell or distribute cookie information without your prior consent.
+Cookies we use on our sites
+The following two tables provide a list of all cookies used on our sites with a brief information of their purpose and their key attributes.
+Table of 1st (first) party cookies
+Name
+Domain(s)
+Purpose
+Expires
+__tese
+timeshighereducation.com
+ 
+These cookies are used to collect information for internal analytics about how visitors use our site.  
+1 year
+__tess
+timeshighereducation.com
+These cookies are used to collect information for internal analytics about how visitors use our site. The cookie is only valid during current browser session and it will be deleted when you close the browser.
+Session cookie 
+__tesu
+timeshighereducation.com
+ These cookies are used to collect information for internal analytics about how visitors use our site.
+1 year 
+__tesv
+timeshighereducation.com
+ These cookies are used to collect information for internal analytics about how visitors use our site.
+30 minutes 
+End of following month
+Drupal.visitor.commerce_currency
+timeshighereducation.com
+Allows the user to save a currency for use in the web store.
+1 year
+Drupal.visitor.the_user_show_menu
+timeshighereducation.com
+Tracks the state of the user's menu and whether to keep it open for them or not.
+1 year
+Session cookie
+has_js
+timeshighereducation.com 
+Whether or not JavaScript is enabled to allow for a more interactive experience.
+Session cookie
+hybridauth_last_provider
+timeshighereducation.com 
+Which social method (if any) was last used to register/log in.
+1 month
+10 days
+2 years
+siteCurrency
+timeshighereducation.com 
+Allows the user to save a currency for use in the web store.
+1 year
+surveyAnswer
+timeshighereducation.com 
+The user's answer to the footer survey questions, used for localised content.
+1 year
+ 1 year
+3rd Party
+30 minutes
+Google Analytics
+_utma
+timeshighereducation.com
+These cookies are used to collect information about how visitors use our site.
+We use the information to compile reports and to help us improve the site.
+The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+_utmb
+timeshighereducation.com
+These cookies are used to collect information about how visitors use our site.
+We use the information to compile reports and to help us improve the site.
+The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+_utmc
+timeshighereducation.com
+These cookies are used to collect information about how visitors use our site.
+We use the information to compile reports and to help us improve the site.
+The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+_utmz
+timeshighereducation.com
+These cookies are used to collect information about how visitors use our site.
+We use the information to compile reports and to help us improve the site.
+The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+4 weeks
+1 year
+ 
+ Google advertising cookie used for user tracking and ad targeting purposes
+1 year
+Cookies categorised as intrusive
+Cookies can be categorised as being 'intrusive' or not in relation to storing any data items that could potentially identify some aspect of an individual user's identity; whether real or a pseudonym.
+Whilst in legal interpretations there are degrees of intrusiveness, TES Global has adopted the more cautious definition where any cookie that has a single identifying data item is categorised as 'intrusive'. All intrusive cookies, whether session or persistent, are stored in encrypted form to protect against any possibility of accidental or unintended disclosure.
+Changing your cookie settings
+To enable or disable cookies, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' facility). Alternatively, an external resource is available at  www.aboutcookies.org  or  www.allaboutcookies.org  providing specific information about cookies and how to manage them.
+Please note that if you set your browser to disable cookies, you may not be able to access secure areas of this website, such as any online services that require registration.
+Secure online services
+Any secure online services you subscribe to will probably use cookies to enable information about you and your preferences to be stored and to help protect your account and information. In such circumstances, cookies are essential to the service being provided securely and effectively.
+If you choose to decline providing consent to use of cookies, it is unlikely that you will be able to continue to use the service.
+Privacy and Electronic Communications Regulations
+A revision of the EU e-Privacy Directive requires that organisations must obtain prior consent from users for the use of cookies, which may be deemed to be intrusive on the user's privacy.
+We are currently working towards implementing the new requirements in line with guidance from the United Kingdom Information Commissioner.
+Subscribe
+If you like what you're reading online, why not take advantage of our subscription and get unlimited access to all of Times Higher Education's content?
+You'll get full access to our website, print and digital editions, and the Times Higher Education app for iOS, Android and Kindle Fire devices.

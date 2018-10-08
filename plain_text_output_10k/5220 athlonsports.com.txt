@@ -1,0 +1,91 @@
+ 
+ 
+ 
+ 
+2.              Information we collect from you and how we collect it
+ 
+ 
+ 
+ 
+3.              How we use information about you
+For Legitimate Interests.  Athlon uses information collected by clickstream data collection, web pixels, and cookies to store your preferences, improve website navigation, make personalized features and other services available to you, compile and analyze aggregate statistics and trends, and otherwise help administer and improve the Services.  We may identify you from your Personal Data and merge or co-mingle Personal Data and Non-Personal Data, for any lawful business purpose.  Where you provide registration information, cookies can also be used to identify you when you log onto the Services or portions of the Services.  Except as otherwise stated, we may use information we collect from you for the legitimate business purpose of providing our Services to you, including, but not limited to:
+·       to administer the Services
+·       to help diagnose problems with our servers
+·       to customize our Services to your preferences
+·       to communicate information to you (e.g., new features, products, or services)
+·       to check on your account status
+·       to improve our Services
+·       to work with our service providers who perform certain business functions or services on our behalf and who are bound by contractual obligations consistent with this Privacy Policy
+·       to show you content and sponsored messaging based on geographic location information from you and/or your computer, mobile, or other device
+·       to prevent or investigate fraud (or for risk management purposes), or to comply with a legal obligations, court order, or in order to exercise our legal claims or to defend against legal claims
+·       to conduct aggregate analysis and develop business intelligence that helps us to enhance, operate, protect, make informed decisions and report on the performances of our Services
+·       for other purposes identified to you and as requested by you (please note that you have the right to withdraw your consent to such use at any time by contacting us via the information below)
+With the Consent of a Data Subject within the European Union.  If we have obtained your consent, we may also use your information:
+·       to share your information with our corporate parents, subsidiaries, other affiliated entities, and associated entities for the purposes described in this Privacy Policy
+·       to send e-mail and postal mail to provide you with updates and news
+·       to process any request you make
+·       to process any commercial transaction, including but not limited to fulfilling an order or subscription request
+·       to process your Personal Data as described throughout this Policy
+ 
+Performance of a Contract.  If you have agreed to our terms of use, or other terms of service, and you have created an account, purchased merchandise, signed up for a subscription, or entered into a contest or sweepstakes, we may also use your information:
+·       to establish your account to use the Services
+·       to validate your username, e-mail, password, and/or other login credentials
+·       to respond to your requests
+·       to provide you with merchandise you have requested
+·       to fulfill your subscription purchase(s)
+·       to notify you of your contest or sweepstakes results
+·       to send you e-mail and postal mail supplying you with the most recent service information or to send you information about your order (e.g., order confirmations, shipment notifications, etc.)
+ 
+ 
+4.              Sharing Personal Data with third parties
+We may sell or share information about you and your computer, mobile, or other device, including without limitation, your Personal Data, with our parent, subsidiaries, and affiliates and with carefully selected companies who we think may offer services and/or products that may be of interest to you.  Additionally, we may use, transfer, assign, sell, share, and provide access to your Personal Data and other information about you and your computer, mobile, or other device that we receive through third-party social networking services.  We may use, transfer, sell, and share your and Non-Personal Data, aggregated with other users’ Non-Personal Data, for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients, and customers.
+In addition, as our business changes, we may buy or sell various assets.  In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Service users may be among the transferred assets.
+Athlon may also share Personal Data it collects with any third party or outside mailing list, in the following circumstances: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the Terms of Use , including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (e) to protect the rights, property, or personal safety of Athlon, its users, or the general public; (f) for purposes of health, safety and other matters in the public interest ; (g) by virtue of undergoing any change in control, including in connection with corporate restructuring, sale or assignment of assets, merger, divestiture, and other changes of control or financial status, in which case we will require the recipient to use such information in accordance with this Privacy Policy ; (h) to Athlon’s affiliates, successors, and agents/representatives (for example, consultants), which are required to treat the information in accordance with this Privacy Policy ; or (i) pursuant to your explicit approval prior to the disclosure.
+We use third-party service providers to help us operate our Services, who may collect, store, and/or process the information detailed herein.  We allow access to our database by third parties that provide us with services, such as technical maintenance, market research, community and forums management, auction services, and shopping, personal/job search, and other classified ads functionality, but only for the purpose of and to the extent necessary to provide those services.
+ 
+ 
+Google Analytics .   We have enabled Google Analytics to collect data about our traffic through the use of Google advertisements and other anonymous identifiers. We use Google Analytics cookies and other cookies to compile data to better understand users and provide users with a more tailored experience .   You can opt out of Google Analytics by visiting Google’s Opt-Out Browser Add-on website here, https://tools.google.com/dlpage/gaoptout/ .
+Google AdX.  We use Google AdX to help with managing many of our revenue sources related to online display advertising inventory and allows us to buy and sell ad space on or relating to our Service(s). You can view Google AdX’s privacy policy at https://support.google.com/adxbuyer/answer/
+AOL. We use AOL’s software platform for digital advertising personalization across our Service(s), including brand integration and analysis of advertising trends, to create a positive experience with our Service(s)for desktop, mobile, and tablet users.  AOL Advertising’s privacy policy can be found at https://privacy.aol.com/legacy/index.html .
+Sharethrough.   Sharethrough’s advertising software is utilized on our Service(s)to manage native ad strategy including sales, delivery, and management.  You can review Sharethrough’s privacy policy at https://platform-cdn.sharethrough.com/privacy-policy .  
+ZergNet.  7hops.com, Inc., doing business as ZergNet, is used in contextual advertising, such as ad and article recommendations and sponsored links.  ZergNet’s privacy policy can be found at https://www.zergnet.com/privacy .
+AddThis.  AddThis is a social bookmarking service that can be used for advertising analysis and integrated into a website with the use of a web widget.  You can view AddThis’ privacy policy at http://www.addthis.com/privacy .
+Quantcast. Quantcast specializes in AI-driven real-time advertising audience feedback and measurement.  By placing tags on websites, blogs, videos and widgets, the firm measures metrics such as audience age and gender makeup, areas of interest and type, length and frequency of their engagement with certain types of content.  Quantcast’s privacy policy can be reviewed at https://www.quantcast.com/privacy/ .
+YouTube.  We use YouTube to deliver video content through our Service(s).  You can learn more about YouTube’s data collection practices through its privacy policy, which is available at https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=en&visit_id=1-636628128110092664-2082382643&rd=1 .
+Facebook.  We use Facebook’s conversion tracking pixel and retargeting service(s) to monitor users who are redirected to the Service(s)after clicking on a Facebook ad.  This allows us to monitor our ads and their effectiveness, as well as to provide advertisements to users for products according to their interests.  Facebook explains conversion tracking on its website [ https://www.facebook.com/business/a/online-sales/conversion-tracking ], and Facebook explains its use of Cookies and other storage technologies, as well as how to control Facebook’s use of Cookies, on its site here [hyperlink: https://www.facebook.com/policies/cookies/ ].  You can access Facebook’s privacy policy at https://www.facebook.com/policy.php .
+Twitter.  We use Twitter’s widget to facilitate connection between Your Twitter account the Service(s).  Twitter receives data based on this widget.  For information about Twitter’s Privacy Policy, visit its website [ https://twitter.com/privacy?lang=en ] or learn about Twitter’s “Tailored Suggestions,” here [ https://support.twitter.com/articles/20169421 ].
+ 
+6.              How Personal Data is protected
+ 
+ 
+ 
+7.              Your choices, access, and rights to your Personal Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.              Retention
+We will retain Personal Data for the period necessary to fulfill the lawful purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+9.              Access from Outside the United States
+ 
+ 
+ 
+2451 Atrium Way
+Nashville, TN 37214
+11.           Links to third party sites
+ 
+12.           Applicability of the Children’s Online Privacy Protection Act
+We do not sell products or services for purchase by anyone under the age of thirteen (13) .   In accordance with the Children’s Online Privacy Protection Act (“ COPPA ”), we will never knowingly request or solicit Personal Data from anyone under the age of thirteen (13) without verifiable parental consent .   In the event that we receive actual knowledge that we have collected such Personal Data without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.  We reserve the right to request proof of age at any stage so that we can verify that minors are not using the Service(s).
+14.           Changes to the Privacy Policy
+ 
+15.           Contact information
+ 
+Nashville, TN  37219

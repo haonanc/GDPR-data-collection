@@ -1,0 +1,53 @@
+Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our User Agreement and Privacy Policy .
+Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our Privacy Policy and User Agreement for details.
+Successfully reported this slideshow.
+We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.
+GDPR Privacy Policy
+WordPress Shortcode
+The GDPR takes effect on May 25, 2018.
+Make sure your Privacy Policy is updated to be compliant before then.
+Here's everything you need to know about the required updates and how to implement them.
+Read the related blog post here:
+https://termsfeed.com/blog/gdpr-privacy-policy/
+Your message goes here
+1.     GDPR Privacy Policy
+2. The General Data Protection Regulation (GDPR) takes effect on May 25, 2018. If the GDPR applies to you, you’ll need to make sure your Privacy Policy is updated by that date. UPDATE
+3. Who the GDPR Applies to
+4. The GDPR will apply to your business if you: Offer products or services to EU citizens, or Collect personal information from EU citizens
+5. Note that it doesn’t matter where your business is located/headquartered. If you meet either of these criteria, the GDPR applies to you.
+6. For example, a U.S.-based business that simply collects email addresses from users in the EU will fall under the scope of the GDPR. @
+7. What the GDPR Requires
+8. (1) Link to https://termsfeed.com/blog/gdpr-compliance-plan/#Requirements_for_GDPR_Data_Controllers (2) Link to https://termsfeed.com/blog/gdpr-compliance-plan/#Requirements_for_GDPR_Data_Processors (3) Link to https://termsfeed.com/blog/data-protection-officer-dpo/ The GDPR comes with a number of enhancements to the current privacy law in the UK - the Data Protection Directive. New responsibilities (1) for Data Controllers Data Processors (2) are now covered by the law The new role of Data Protection Officer (3) has been created
+9. The main focus of the GDPR is the protection of personal data and digital privacy. Users must be provided with thorough information about how their personal data is processed. Here’s where your Privacy Policy comes in.
+10. GDPR-Compliant Privacy Policy
+11. (4) Link to https://gdpr-info.eu/art-12-gdpr/ Article 12 of the GDPR (4) requires that you communicate information about your processing of personal data in a way that’s: Concise Transparent In clear and plain language Intelligible Easily accessible Free of charge
+12. Most Privacy Policies tend to be long and dense, filled with legal jargon and less than clear for most readers. The GDPR is working to avoid this.
+13. Update your Privacy Policy by: Cutting out legalese Simplifying overly technical information Using short, clear sentences Writing with your average user in mind
+14. In addition to the standard required components of your Privacy Policy (5), your GDPR-compliant policy will need to disclose more information. (5) Link to https://termsfeed.com/blog/gdpr-privacy-policy/#Have_a_Privacy_Policy
+15. The following 7 concepts must be covered somewhere in your Privacy Policy. They can be separate, standalone clauses, or integrated into other existing clauses. Just make sure you have the information somewhere in your Policy.
+16. 1. Who is your data controller? The data controller is the party in charge of deciding what personal data is collected. Let users know if this is your business or if someone else is responsible for making this important decision. In most cases, it will be your company.
+17. 2. Contact information for the data controller It’s likely that your company is the data controller, and that you already provide contact information in your Privacy Policy. If a different company/party is your data controller, include their contact information along with yours.
+18. If you have a Data Protection Officer (DPO), include contact information for this as well.
+19. 3. Do you use personal data to make automated decisions? If you make automated decisions - such as loan screening, employment decisions, credit scoring, etc. - using personal data you collect, you need to disclose this. You can let users know if you don’t do this, but it isn’t necessary.
+20. (6) Link to https://www.vividfish.co.uk/blog/gdpr-8-rights-under-gdpr 4. The 8 rights of users under the GDPR Inform users of these 8 rights (6). They don’t have to be explicitly listed out in your Privacy Policy, but each point should be addressed somewhere within it.
+21. The 8 rights of users: Right to be informed Right of access Right of rectification Right to erasure Right to restrict data processing Right to data portability Right to object Rights of automated decision-making and profiling
+22. 5. Is providing personal data mandatory? Let users know if any data you collect is mandatory to use your service/website, and what happens if they don’t provide this data. For example, users may need to provide an email address to create a user account. If they don’t provide this, they cannot create an account.
+23. 6. Do you transfer data internationally? Let users know if you transfer their personal data to a different country. Include one of the following: If your transfer falls under a legal framework or decisions, such as the EU-US Privacy Shield, or A description and explanation of suitable safeguards you have in place for the transfer, and how users can obtain a copy of them
+24. (7) Link to https://gdpr-info.eu/art-6-gdpr/ 7. Your legal basis for processing data The GDPR provides 6 lawful bases (7). You’ll likely satisfy this requirement in your clause that covers what data you collect and how you use it. For example, let users know you collect financial information for payment processing, use cookies to remember user preferences and collect email addresses for communicating with users.
+25. Getting Agreement and Consent to your Privacy Practices
+26. (8) Link to https://termsfeed.com/blog/examples-click-accept/ Make sure you get users to agree to your Privacy Policy and give consent for you to collect and use their personal data. Do this with checkmark boxes or another active method of clickwrap (8). Provide a link to your Privacy Policy when you ask users to agree to it.
+27. Have Privacy Notices
+28. Because the GDPR focuses on creating transparency and understanding for users, having Privacy Notices will help you be GDPR-compliant.
+29. A Privacy Notice is a short, concise notice that helps users understand why you’re requesting their personal data. They should be available at the point where you’re requesting to collect the data.
+30. The GDPR requires your Privacy Policy to be more informative. However, it requires that you provide this information in a simplified, clear way.
+31. To summarize: Review the language in your Privacy Policy and drop the legalese. Make it be easy to understand by your average user. Update your Privacy Policy with the additional information required by the GDPR Use clickwrap to get agreement and consent before collecting personal data Add Privacy Notices to help users understand what they’re consenting to
+×
+Select another clipboard
+Create a clipboard
+You just clipped your first slide!
+Clipping is a handy way to collect important slides you want to go back to later. Now customize the name of a clipboard to store your clips.
+Name*
+Description
+Visibility
+Cancel
+Save

@@ -1,0 +1,104 @@
+ELAN FINANCIAL SERVICES PRIVACY PLEDGE
+At Elan, we consistently provide a high level of security, privacy and confidentiality in our handling
+of information about your organization and your customers or members.
+In the process of performing service for you, we may have access to information or documentation
+about your organization or your customers that could be considered non-public, personal, confidential,
+or proprietary. We define this 'Confidential Information' as including both information of a commercial
+nature, as well as information about your customers or consumers.
+We will act to ensure that all Confidential Information is held in strict confidence and disclosed
+only to those employees or agents whose duties reasonably require access to such information. We
+will protect such Confidential Information using the same degree of care to prevent unauthorized
+use, disclosure or duplication as we do to protect our own confidential information. These
+ 
+Browsing Our Web Site
+If you are just visiting our site and not performing online transactions with us, you can browse our
+site anonymously. We will not ask for personal information during your visit unless we need the
+information to complete a transaction that you request or begin.
+We do study site utilization patterns including visitor navigation patterns to assist us in improving
+the site. This information is collected in aggregate for all our site visitors and is anonymous. The
+information we collect is used to enhance your experience with our web site, such as:
+Improve the web site's performance
+Arrange the web site in the most user-friendly way
+Customize your navigation experience with the web site
+Communicate special offers and featured items to you
+Respond to your question or suggestions
+ 
+ 
+Registration
+In order to grant online access to a product, it may be necessary to register with Elan. During registration,
+we will ask you to provide us with your name, contact information, and identity verification information.
+This procedure is used to ensure that your transactions with us online will always be safe and secure.
+We may also ask for your e-mail address so that we can send you information you have requested or to
+alert you to changes on the site. You will be provided with a user ID and password in order to access
+the product's site. You will be required to change your password during your first access of the site
+and every 30 days thereafter.
+ 
+ 
+Security of Online Sessions
+We are committed to protecting your information and online transactions. For your protection, Elan Financial
+Services uses a Secure Socket Layer (SSL) protocol, the industry standard to secure your online sessions. This
+process keeps your session confidential and protects against eavesdroppers.
+Every page on our web site is secured using a digital certificate from Verisign, Inc. This is shown via the
+"site certificate" that is resident on all secure pages. To view this certificate, click on the image of the
+closed lock or the solid key on the bottom bar of your browser window. A small frame displaying site
+security information will appear. If you are using Internet Explorer, click on the word 'Subject' to
+verify that you are on our Web site. Click on 'Issuer' to verify the site certification authority.
+The most important aspect of securing your data is for you to select a password that will be difficult for
+others to guess, and then guard it carefully. If the password is compromised, no other security method we
+employ can prevent access to your data from someone who knows the password. You can help protect your
+information by using your password carefully. Choose a password that would be difficult for someone to
+guess ideally a combination of letters and numbers that is not related to your job or personal life. You can
+make your password easy for you to remember but difficult for others to guess by stringing a few unrelated
+words together, shifting a word up or down one row on the keyboard, combining punctuation characters or
+numbers with a regular word, or deliberately misspelling a word. Do not write your password down or leave
+it in a place where it might be discovered. If you have reason to believe your password may have been
+discovered, immediately change your password.
+ 
+ 
+Browsing and the use of Cookies
+Elan Financial Services sites use cookies to assist us in securing your online activities and to enhance the
+performance of the site. A cookie is a small piece of information sent by a web site that is saved in your
+computer's browser memory. It holds information a site may need to personalize your experience and to
+gather web site statistical data, such as which pages are visited, what is downloaded, and the Internet
+provider's domain name. Elan examines activity in aggregate, while maintaining the anonymity of users.
+We do not watch individual's browsing patterns.
+We also use standard web server log files to help us count the number of users on our web site and evaluate
+our site's technical capacity. We use this information to determine the number of web users, to help us arrange
+the pages in the most user-friendly way, to keep the site browser-friendly, and to make page content more
+useful to the user. We record information on site traffic but not information on individuals visiting our
+ 
+ 
+Online Surveys and Sweepstakes
+Occasionally Elan may present a survey or sweepstakes via our web site. Your participation is voluntary.
+Information collected may include contact information, demographic information, or opinions regarding
+certain financial subjects or products. Contact information will be used to notify winners regarding
+prizes or to provide participants with information they request. Survey information will be used to
+ 
+ 
+Email
+We will use your email address to provide you information and comment and/or reply to any questions
+regarding Elan. We will not use your address or other information to deliver any unsolicited message
+ 
+ 
+Linking To Other External Sites
+At times, we may provide links to sites outside the control of Elan Financial Services to alert you to products,
+information, and services offered by other web sites, as well as links to the web sites of our partners. These are
+meant to supplement the information or products that we currently offer. When you follow a link from a page of
+elanfinancialservices.com to another web site, this Privacy Policy is no longer in effect. Your browsing and
+interaction on any other web site, including any site that has a link on elanfinancialservices.com, is subject
+to the policies of that site. We encourage you to read the policies of the sites you visit to further understand
+their procedures for collecting, using, and disclosing personal information.
+ 
+ 
+Changes to the Elan Privacy Policy
+We reserve the right to change, modify or amend this policy at any time. El
+an takes the utmost care in protecting
+your privacy, and intends to stay at the forefront of privacy policy and protection matters. Elan will occasionally
+update our privacy policy and post those updates on this page. You are responsible for revisiting this page to review
+our privacy policy updates as necessary.
+ 
+ 
+Contact Us
+If you have any questions, comments, or complaints about the Elan privacy policy and/or the way it affects
+you, please feel free to email us or write to us at the following address:
+Elan Financial Services

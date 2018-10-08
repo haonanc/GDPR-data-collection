@@ -1,0 +1,60 @@
+Welcome to Mapme.com’s Privacy Policy!
+Mapme cares about the privacy of its visitors and users, and is fully committed to protect their personal information and use it properly in compliance with data privacy laws. This policy describes how we may collect and use personal information, and the rights and choices available to our visitors and users regarding such information.
+We strongly urge you to read this policy and make sure you fully understand it, before you access or use any of our services.
+This privacy policy covers the use of Mapme Story platform and the Mapme website.
+Information collected?
+Our goal is to collect as little information as possible i.e. we only collect information that is absolutely necessary to provide our service.
+We created a table to provide a simple view of the information we collect, why we collect it and how.
+We have 3 group of users
+Users’ users: people who view the maps either embedded on a website, on social media or through a direct URL to the map.
+Website visitors: people who visit our website to learn about the Mapme service
+Users: people who create a Mapme account in order to build an interactive map using the Mapme service
+We collect 2 types of information
+Personal Information which could be used to uniquely identify an individual.
+Non-personal Information which is non-identifying.
+Our Users’ users
+Gmail for Business,  Intercom
+Mapme platform,
+Google Analytics: IP addresses are anonymized. No Personal Information processed or stored
+Hotjar: keystrokes are not being recorded. No Personal Information processed or/and stored.
+Gmail for Business, Personal Information processed or/and stored in accordance with EU General Data Protection Regulation (EU-GDPR)
+Personal Information processed or/and stored in accordance with EU General Data Protection Regulation (EU-GDPR)
+Users content
+When creating an interactive map using the Mapme service, you will typically enter and upload information such as addresses, text descriptions, photos, videos which constitute the “Users Content”.
+Mapme will collect and process the “Users content”. For such purposes, Mapme shall be considered as a “Processor” and not as the “Controller” (as defined in the European Union General Data Protection Regulation) of such Users-of-Users Information. The Users shall be considered as the “Controllers” of the “Users Content” and are responsible for complying with all laws and regulations that may apply to the collection and control of such Information, including all privacy and data protection laws of all relevant jurisdictions.
+If you decide to publish the map and share it (social network, website embeds…) this information becomes available to the public.
+You can decide at any moment to delete your User Content by using the “Delete” option in the Mapme dashboard. However, even after its deletion, copies of User Content may remain viewable in online cache and archived pages or if any Users-of-Users have copied or stored such User Content.
+So, please do not include information on your map if you don’t want it to become publicly available. You do so at your own risk.
+Data Hosting and service providers
+‘Mapme Users’ personal Information is maintained, processed and stored by Mapme and our authorized affiliates in the United States of America using secured cloud storage from Amazon AWS.
+AWS is certified under the EU-US Privacy Shield and Mapme has signed the AWS Data Processing Addendum which gives Mapme customers the assurance that AWS will give customers’ data the same high levels of security, privacy and data protection that it would receive in the EU.
+Law Enforcement, Legal Requests and Duties
+Where permitted by local data protection laws, Mapme may disclose or otherwise allow others access to your Personal Information pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have good faith belief that the law requires us to do so, with or without notice to you.
+Mapme may share your Personal Information with others if we believe in good faith that this will help protect the rights, property or personal safety of Mapme, any of our Users, any Users-of-Users, or any member of the general public, with or without notice to you.
+We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Mapme participates or to a purchaser of all or substantially all assets of Map Labs ltd. to which this Site relates.
+Single Sign On, Social Media Features and Framed Pages
+Our Services include Social Media features such as “Social sharing” and single sign on features, such as the “Facebook Connect”. The use of those features may collect information such as your IP address and may set a cookie to enable them to function properly. Your interactions with these third parties features are governed by their policies and not ours.
+In addition, our users may integrate Third Party Services or other parties content via page framing techniques (iframes) for example using the “Integrated Media” feature. The use of those features may also collect information such as your IP address and may set a cookie to enable them to function properly. Please be aware that if you choose to interact or share any Personal Information via such Frames, you are in fact providing it to these third parties and not to us, and such interactions and sharing too are governed by such third parties’ policies and not ours.
+Communications from Mapme
+We may use your Personal Information to send you product updates and offers by e-mail, or direct messages if you are a user login in the Mapme service.
+We will never share your personal data with any third party for marketing purposes.
+If you do not wish to receive those messages, you may notify Mapme at any time or follow the “unsubscribe” in the communications you receive.
+Mapme may also contact you with important information regarding our Services, or your use thereof. For example, we may send you a notice (through any of the means available to us) if a Mapme service is temporarily suspended for maintenance; reply to your support ticket or e-mail; send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions; forward abuse complaints regarding your Map; or notify you of material changes in our Services.
+It is important that you are always able to receive such messages. For this reason, Users are  not able to opt-out of receiving such Service and Billing Messages unless you are no longer a Mapme User.
+Correction, Updating and Deleting of your Personally Identifiable Information
+You have control over your Personal Information. You can request a copy of, update, delete, or limit the use of your Personal Information you have stored with us. Just send us a request using our contact form . We will respond to your request within a timeframe imposed by local laws or a reasonable timeframe.
+Some of the information may also be corrected and/ or, updated through your account.
+If you are a User and wish to permanently delete your Mapme account, we will erase all of your information from Mapme’s databases. After completing this process, your account and all its data will be removed permanently, and Mapme will not be able to restore your account or retrieve your data in the future.
+Data Retention
+We may continue to retain Personal Information such as for example Invoices and Receipts even after you deactivate your User Account and/or cease to use the Mapme service, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests.
+Where your Personal Information is no longer required we will ensure it is securely deleted.
+Privacy Policy Updates
+Due to the Internet’s rapidly evolving nature, Mapme may need to update this Privacy Policy from time to time. If so, Mapme will post its updated Privacy Policy on our Site located at https://Mapme.com so you are always aware of what personally identifiable information we may collect and how we may use this information. Mapme encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+Children’s Privacy
+Mapme recognizes the privacy interests of children and minors under the age of 18 and we encourage parents and guardians to take an active role in their children’s online activities and interests. This Site is not intended for children and minors under the age of 18. Mapme does not target its Services or this Site to children and minors under the age of 18. Mapme does not knowingly collect personally identifiable information from children and minors under the age of 18.
+Cookies
+We may use small text files called cookies to improve overall user experience. Cookies do not permit us to personally identify you. You may opt-out through your browser settings or other sources – but please note that this may adversely affect the way you experience our services.
+Security
+We may employ procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Mapme may use encryption, password protection, and other security measures to help prevent unauthorized access to your personally identifiable information. The data that you transmit as part of your use of the Services (“Storage Data”) is in encrypted form and Mapme does not have access to your Storage Data in its unencrypted form.
+Contact Us
+ 

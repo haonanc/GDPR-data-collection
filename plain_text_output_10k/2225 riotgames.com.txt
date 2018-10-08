@@ -1,0 +1,71 @@
+/hc/{locale}/requests/new
+Contact Us
+{size} Bytes
+Filter by
+We hear you loud and clear!
+If it's not in your original message, please let us know what you need help with here.
+Get Help
+Request received! An agent will help you out as soon as possible. It may take up to 24 hours.
+HIDDEN FOR SECURITY REASONS
+Original email used to create the account
+Summoner! We will do our very best to recover your account, but we need you to fill out more fields in this form. Also, please make sure to fill out the ACCOUNT SIGNUP EMAIL, USERNAME, SUMMONER NAME and REGION fields. Take your best guess if you do not remember the exact info! Any information is better than none in this case.   Also, you can try resetting your password here by clicking on "Forgot Password?".
+NOT ENOUGH INFORMATION
+Helpful Articles
+Player Questions
+Hextech Repair Tool
+Hextech Repair Tool
+/hc/{locale}/requests/new
+Try our Live Chat Beta
+Loading...
+More
+All
+Closed
+The ticket is complete and can't be reopened
+The request was received but it has not been opened and has not been assigned to an agent
+The support request is awaiting a resolution from a third party
+The request has been assigned to an agent who is working to resolve it
+The assigned agent has a follow-up question for you
+The agent has resolved the support issue
+New
+On-hold
+Open
+Pending
+Solved
+Created
+Id
+[ 34200, 38204, 92586, 360000111788 ]
+Add or drop files here
+We apologize, the merchandise store is not yet available in your region.
+Please verify that you are human
+Oops! There were some field errors.
+Invalid syntax.
+Cannot be blank.
+You must be logged in before you can submit this type of ticket.
+You must be logged out before you can submit this type of ticket.
+Pick a Category
+Pick a Subcategory
+There was an error submitting your ticket.
+Your ticket submission timed out.
+If you have some form of ad blocker installed on your browser, it is possible your ticket was still successfully submitted.
+Please be sure to check your email before attempting to resubmit.
+Please be sure to check My Tickets before attempting to resubmit.
+Select a category and sub-category that best relate to the issue you are having.
+1. Pick a support category
+Ok, now that we know what kind of issue you are having, let's get into the details. Please help us by describing what you are experiencing below.
+2. Tell us more
+Success! If you are not redirected, click here .
+Ticket Submitted by:
+Subject
+Description
+Region
+This is an account registered on the Public Beta Environment (PBE)
+Language
+Attachments
+Reference
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/tech_misc/tech_loading_screen_issues/index.html
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/tech/01_tech_installation/index.html
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/tech/02_tech_launching/index.html
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/tech/03_tech_patching/index.html
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/tech/09_tech_in_game_issues/index.html
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/tech/04_tech_league_client/index.html
+https://s3-us-west-2.amazonaws.com/support.riotgames.com/self+help/funnel/event_takeovers/odyssey_border/index.html

@@ -1,0 +1,67 @@
+CONTACT ME
+CONTACT ME
+Privacy Policy
+This privacy policy describes Azure's current policies and practices with regard to personal data collected by Azure through its websites, (hereinafter referred to collectively as "Azure's websites"). This privacy policy is independent from Azure's offline personal data collection practices. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
+Disclaimer
+The materials contained in this web site are provided for marketing and general information purposes only. Azure Services Ltd do not commit to any obligations whatsoever. Azure Services Ltd accepts no responsibility for any direct, indirect or consequential loss or damage which may arise from reliance on information contained in this site. Users are advised to seek confirmation of statements made herein before acting upon them; specialist advice should also be sought on specific issues.
+Notification of Changes to This Policy
+Azure is continually improving and adding new functionality and features to its websites and improving and adding to our existing products, services, and programmes. Because of these ongoing changes, changes in the law, and the changing nature of technology, Azure’s data practices will change from time to time. If and when our data practices change, Azure will post the changes on our websites to notify you of the changes. We encourage you to check this page frequently.
+Personal Data Collected Through Azure’s Websites or Landing Pages
+The only personal data Azure currently collects through its websites is the information you voluntarily give us when you use our sites.
+For example, you may use this site to contact Azure with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company's name, your e-mail address, and your mailing address or the mailing address of your company or other personal information.
+Use of Personal Data Collected Through Azure’s Websites
+Azure Services Ltd (Azure) uses the personal data information you provide to answer the query you will have posted through the site. Azure uses this information to help improve the content and functionality of its websites, to better understand its customers and markets, and to improve its products and services. Azure may use this information to contact you in the future to tell you about products or services it believes will be of interest to you. If Azure does contact you, each communication will contain instructions permitting you to "opt-out" of receiving future communications. Azure does not share personal details with any other entity unless it first obtains your explicit permission
+Similarly, we may provide "subscription" e-mail services, either directly or through affiliates, which enable you to receive current news about Azure and its business. For all such services, we will provide an opportunity to "opt-out" of, or cancel, the subscription.
+Requirements and Criteria for Processing
+Azure ensure that:
+(a) personal data is processed fairly and lawfully;
+(b) personal data is always processed in accordance with good practice;
+(c) personal data is only collected for specific, explicitly stated and legitimate purposes;
+(d) personal data is not processed for any purpose that is incompatible with that for which the information is collected;
+(e) personal data that is processed is adequate and relevant in relation to the purposes of the processing;
+(f) no more personal data is processed than is necessary having regard to the purposes of the processing;
+(g) personal data that is processed is correct and, if necessary, up to date;
+(h) all reasonable measures are taken to complete, correct, block or erase data to the extent that such data is incomplete or incorrect, having regard to the purposes for which they are processed;
+(i) personal data is not kept for a period longer than is necessary, having regard to the purposes for which they are processed.
+Personal data may be processed only if:
+(a) the data subject has unambiguously given his consent; or
+(b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; or
+(c) processing is necessary for compliance with a legal obligation to which Azure is subject; or
+(d) processing is necessary in order to protect the vital interests of the data subject; or
+(e) processing is necessary for the performance of an activity that is carried out in the public interest or in the exercise of official authority vested in Azure or in a third party to whom the data is disclosed; or
+(f) processing is necessary for a purpose that concerns a legitimate interest of Azure or of such a third party to whom personal data is provided, except where such interest is overridden by the interest to protect the fundamental rights and freedoms of the data subject and in particular the right to privacy.
+Anonymous Data Collected Through Azure’s Websites
+In addition to the information you provide when you use our websites, Azure uses technology to collect anonymous information about the use of our websites. For example, we use technology to track how many visitors access our websites, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use and the address from which they accessed our sites (for example, if they connected to a Azure website by clicking on one of our banner ads).
+This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our sites. Azure and our affiliates use this anonymous data and share it with third parties to improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services.
+Disclosure of Your Personal Data
+Azure may share some or all of the personal data collected through this website with our affiliates in Malta and overseas, who use this data in accordance with this Privacy Policy. Both Azure and our affiliates may share personal data collected through its websites with third-party vendors in Malta and overseas who act for or on behalf of Azure or our affiliates (for example, companies that provide support services to us, including data processing services, or that help us market our products and services). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. In addition, there may be some other, limited circumstances in which Azure or our affiliates may share or transfer the personal data in our databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, or in the event of a corporate sale, merger, reorganization, dissolution, or similar event.
+While no method of data transmission is guaranteed against unlawful third party interception or other misuse, Azure uses commercially reasonable efforts to ensure protection of your data including industry-standard encryption and offline security methods in our physical facilities.
+Link to Other Sites
+This privacy policy applies only to Azure's websites. Azure and our affiliates operate other websites for different purposes and in different countries where different laws may apply. If you visit an Azure website, please take a moment to review the privacy policy posted on that site to learn what personal data may be collected through that site and how it is processed.
+Azure's websites may contain hyperlinks to websites that are not operated by Azure or one of our affiliates. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. Azure does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.
+Rectification, Deletion etc
+Azure shall at the request of the data subject to immediately rectify, block or erase such personal data that has not been processed in accordance with the Data Protection Act or with regulations made thereunder.
+Azure shall notify any third party to whom the data has been disclosed about the measures undertaken as aforesaid.
+Provided that no such notification need be provided if it is shown to be impossible or it will involve a disproportionate effort.
+Subject Access Policy
+Azure will provide information in response to any reasonable subject access request. Azure will ensure data are kept in an accessible form to facilitate subject access.
+Azure at the request of the data subject shall provide to the data subject, without excessive delay and without expense, written information as to whether personal data concerning the data subject is processed:
+Provided that a request by the data subject as aforesaid shall only be made by the data subject at reasonable intervals.
+Any such application shall be made in writing to Azure and is to be signed by the data subject.
+If such data is processed Azure shall provide to the data subject written information in an intelligible form about:
+(a) actual information about the data subject which is processed;
+(b) where this information has been collected;
+(c) the purpose of the processing;
+(d) to which recipients or categories of recipients the information is disclosed; and
+(e) knowledge of the logic involved in any automatic processing of data concerning the data subject.
+Governing Law
+This privacy policy is governed by and construed in accordance with the laws of the Republic of Malta and relevant EU legislation.
+Questions About Our Privacy Policy
+If you have any questions about this privacy policy or concerns about the way Azure processes your personal data, please contact us.
+Subject to change
+Azure have the right to change these terms & conditions as and when we see fit for the the needs of the business.
+FAQs
+latest news & offers
+Charter rates  
+request
+request

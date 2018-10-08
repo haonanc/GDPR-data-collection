@@ -1,0 +1,52 @@
+Buffalo State does not collect any personal information about you unless you provide that information voluntarily by sending us an e-mail or completing one of our web surveys or polls.
+Information Collected When You Visit the Buffalo State Site
+Buffalo State collects and stores the following information about your visit to buffalostate.edu automatically:
+The Internet Protocol address of the computer that accessed our website.
+The type of browser, its version and the operating system on which that browser is running (compiled as an aggregate figure).
+The web page from which the user accessed the current web page (not correlated with individual visits).
+None of the above-mentioned information is deemed personal information by the Internet Privacy and Security Act. This information is collected for statistical analysis and to determine what information is of most and least interest to our users.
+The information is not collected for commercial marketing purposes and Buffalo State is not authorized to sell or otherwise disclose the information collected from buffalostate.edu for commercial marketing purposes.
+Information Collected When You E-mail the Webmaster or Complete a Transaction
+During your visit to buffalostate.edu you may e-mail the Webmaster . Your e-mail address and the contents of your message will be collected. This information will be used to address issues you identify and/or improve the website. Your e-mail address is not collected for commercial purposes and Buffalo State is not authorized to sell or otherwise disclose your e-mail address for commercial purposes.
+During your visit to buffalostate.edu you may complete a transaction such as our website usability survey or a quick poll. Our web surveys are anonymous.
+The information you provide in your survey response will be used to address issues you identify and/or improve the website. This information is not collected for commercial purposes and Buffalo State is not authorized to sell or otherwise disclose this data for commercial purposes.
+Buffalo State does not knowingly collect personal information from children under the age of 13 or create profiles of children under the age of 13. Users are cautioned, however, that the collection of personal information submitted via e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or State law, be subject to public access.
+Disclosure of Information Collected through this Website
+The collection of information through buffalostate.edu  and the disclosure of that information are subject to the provisions of the Internet Security and Privacy Act. Buffalo State will only collect personal information through buffalostate.edu or disclose personal information collected through buffalostate.edu if the user has consented to the collection or disclosure of such personal information.
+The voluntary disclosure of personal information to Buffalo State by the user, constitutes consent to the collection and disclosure of the information by Buffalo State for the purposes for which the user disclosed the information to Buffalo State.
+However, Buffalo State may collect or disclose personal information without consent if the collection or disclosure is: (1) necessary to perform the statutory duties of Buffalo State, or necessary for Buffalo State to operate a program authorized by law, or authorized by state or federal statute or regulation; (2) made pursuant to a court order or by law; (3) for the purpose of validating the identity of the user; or (4) of information to be used solely for statistical purposes that is in a form that cannot be used to identify any particular person.
+Further, the disclosure of information, including personal information, collected through buffalostate.edu is subject to the provisions of the Freedom of Information Law and the Personal Privacy Protection Law.
+Buffalo State may disclose personal information to federal or state law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to Buffalo State's information technology assets.
+Retention of Information Collected through this Website
+The information collected through buffalostate.edu is retained by Buffalo State in accordance with the records retention and disposition requirements of the New York State Arts and Cultural Affairs Law .
+In general, the Internet services logs of Buffalo State, comprising electronic files or automated logs created to analyze site traffic on buffalostate.edu , are retained for 21 business days and then destroyed. Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
+Access to and Correction of Personal Information Collected through the Buffalo State Website
+Any user may submit a request to Buffalo State's privacy compliance officer to determine whether personal information pertaining to that user has been collected through buffalostate.edu . Any such request shall be made in writing and must be accompanied by reasonable proof of identity of the user.
+Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the user, or similar appropriate identification. Buffalo State has designated a privacy compliance officer to receive these requests:
+James Mayrose, PHD
+Interim CIO and Vice President for Enrollment, Marketing, and Communications
+Buffalo State College
+1300 Elmwood Ave.
+phone: (716) 878-4698
+The privacy compliance officer shall, within five (5) business days of the receipt of a proper request, provide access to the personal information; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
+In the event that Buffalo State has collected personal information pertaining to a user through buffalostate.edu and that information is to be provided to the user pursuant to the user's request, the privacy compliance officer shall inform the user of his or her right to request that the personal information be amended or corrected under the procedures set forth in section 95 of the Public Officers Law.
+Confidentiality and Integrity of Personal Information Collected through the Buffalo State Site
+Buffalo State is strongly committed to protecting personal information collected through buffalostate.edu against unauthorized access, use or disclosure. Consequently, Buffalo State limits employee access to personal information collected through buffalostate.edu to only those employees who need access to the information in the performance of their official duties.
+Employees who have access to this information follow appropriate procedures in connection with any disclosures of personal information. In addition, Buffalo State has implemented procedures to safeguard the integrity of its information technology assets, including, but not limited to, authentication, authorization, auditing, and encryption.
+These security procedures have been integrated into the design, implementation, and day-to-day operations of buffalostate.edu as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
+For website security purposes and to maintain the availability of buffalostate.edu for all users, Buffalo State employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage buffalostate.edu.
+Cookies
+Cookies are small pieces of information that are stored by the user's browser on the hard drive of your computer. To better serve you, we occasionally use session cookies to enhance or customize your visit to the Buffalo State site. Session cookies are erased during operation of your browser or when your browser is closed.
+Disclaimer
+The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through buffalostate.edu.
+Contact Information
+For questions regarding this Internet privacy policy, please contact our privacy officer:
+Judith B. Basinski
+RITE Services
+Buffalo State
+Definitions
+The following definitions apply to, and appear in italics, in this policy:
+Personal information: For purposes of this policy, "personal information" means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
+User: shall have the meaning set forth in subdivision 8 of section 202 of the State Technology Law.
+Mailing Address 1300 Elmwood Avenue Buffalo, NY 14222
+Phone Number (716) 878-4000

@@ -1,0 +1,99 @@
+Privacy Policy
+In keeping with our mission to explain legal documents in plain English, we’ve tried to make this one easy to understand.
+We call this a “policy” but actually it’s part of our contract with you. If you click over to our Terms of Use , you’ll see it incorporates this Privacy Policy by reference.
+(“Incorporates by reference” is legalese. It means that you include a second document in the             first document just by mentioning the second document in the first document. It’s like a             hyperlink.)
+Hardly anyone actually reads privacy policies. Congratulations for taking your own privacy             seriously, and welcome to LawGeex!
+So why do we have a privacy policy?
+All the other websites have them, and you might think we’re weird if we don’t.
+Actually, mostly it’s California’s fault.
+California has the Online Privacy Protection Act of 2003 - Business and Professions Code sections 22575-22579. It requires "any commercial web sites or online services that collect personal information on California residents through a web site to conspicuously post a privacy policy on the site."
+This law doesn’t just apply to businesses IN California. It applies to any website that’s accessible to California residents. California is a big-ass state with 38 million consumers so we all have to follow its rules.
+If you don’t like our privacy policy, don’t visit our site.
+Sorry, we know that sounds harsh. But that’s the deal. If you’re using our Site and Services, then you’re agreeing to this Privacy Policy and our Terms of Use.
+Like we said, this is a contract. It’s called a “browsewrap” agreement and you can read more about it in our Terms of Use.
+We might change things.
+We might change this Privacy Policy at any time, just ‘cause we feel like it. Or if California changes its laws again. When we do that, we’ll send you an email (if you gave us your email address) and/or post a notice on the home page of the Site.
+If you KEEP using the Site and Services after this change, that means you accept the changes.
+Who are we, anyway?
+Our legal name is Legalogic Ltd. and we’re an Israeli company based in Tel Aviv. “LawGeex” is the name of our Site and Tool. When we talk about “us” and “we” and “LawGeex” we’re talking about Legalogic and everybody who works here and all our related companies.
+If you’d like to know more about us, click here
+If you’d like to get in touch with us, please click here .
+If you have any comments or questions about our Privacy Policy, please contact us at privacy@lawgeex.com .
+Defining Our Terms
+You may have noticed that in this Privacy Policy certain common nouns are capitalized even when they appear in the middle of a sentence – like “Privacy” and “Policy.”
+Lawyers often use capital letters to show that certain terms in a contract have a special meaning.
+For example, in this contract “Site” means www.lawgeex.com, rather than just some random other website.
+The “Tool” means the LawGeex software that provides an automated review of legal documents. It’s pretty cool and we hope you’ll check it out.
+“Services” means the use of the Tool and any other services we might give you via the Site.
+“Terms” are the Terms of Use, which incorporate this Privacy Policy “by reference.”
+The “Privacy Policy” is what you’re reading right now.
+Using defined terms actually makes contracts shorter. For example, you don’t have to explain which “site” you’re talking about every time you use the word if you’ve defined “Site” once.
+We put defined terms in bold when we first define them, so that when these capitalized words show up later you can look back and remind yourself what they mean.
+Personal Information
+We also need to define “Personal Information.” So here goes.
+“Personal Information” means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to:
+Your first and last name
+Your personal profile
+Your email address or other contact information
+Any information, video, image, data, text, documents, or other content you post on a public area of the Site will be available to all users of the Site.
+(We don’t actually HAVE a public area of the Site yet, but when we do this will apply.)
+So if you post pictures of yourself in your Speedo along with your home address, you’re doing so at your own risk. Don’t blame us if you go viral and amorous strangers show up on your doorstep.
+Creating an Account
+You can read our blog and other parts of the Site without giving us any Personal Information.
+However, in order to use our Tool and Services you’ll need to set up an “Account.”
+To set up an Account, you’ll need to give us:
+Your email address
+A password you make up
+BTW, it’s a really bad idea to the same password on all the websites you visit.
+Submitting stuff
+All of the stuff you and other users send to us (or to other users), upload, or post (NOT including legal documents to be reviewed by the Tool) is called “User Submissions”.
+While we’ll try to protect the confidentiality of User Submissions that aren’t posted publicly, we can’t guarantee it.
+Also, we can turn your stuff over to others if we get a court order.
+Legal documents that you submit to be reviewed by the Tool are called “Legal Submissions.” While no online company can absolutely guarantee security, we follow industry standards to protect your information.  All Legal Submissions are uploaded using a Secure Socket Layer (SSL) with 128-bit encryption.
+For additional protection, you’re welcome to strip out the party names and any sensitive terms (like home addresses and prices) before you upload a contract for review.
+Paying for Stuff
+If you use paid Services on the Site, you’ll need to give us your credit card information and other associated information like your name and address.
+How We Use Your Personal Information
+If you submit Personal Information and/or legal documents to us through the Site, then we may use your Personal Information and/or legal documents to:
+improve our services to you
+contact you
+identify you and authenticate your access to the Services that you’re authorized to access
+We may transfer your Personal Information and/or your legal documents within LawGeex or to LawGeex's third-party service providers, but only to provide services on the Site or to you and/or to improve our service and product offerings.
+Your information and documents may be transferred to other countries around the world.
+We may provide your Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf and to improve our product and service offerings. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+We may also use your email address to send you updates, a newsletter, or news regarding our Services. You may choose not to receive email of this type by sending an email with the subject "BLOCK" to privacy@lawgeex.com .
+The email must come from the email account you wish to block.
+We may disclose your Personal Information or your User Submissions to:
+comply with any applicable law, regulation, legal process or governmental request
+enforce our Terms of Use and investigate whether you’re breaking our rules
+detect, prevent, or otherwise address fraud or security issues
+protect against harm to the rights, property or safety of LawGeex, its users, yourself, or the public
+Anonymous Information
+In addition to collecting some of your Personal Information, we also collect some Anonymous Information about you.
+Anonymous Information” ” means information that doesn’t tell us anything about you as an individual. For example, we might keep track of how many of our users are from California versus Rhode Island.
+We also collect information from the legal documents that users submit for analysis by the Tool, because that’s how the Tool becomes better and smarter.
+We may use Anonymous Information or disclose it to third party service providers, to improve our Site and Services. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners, for purposes including, but not limited to, targeting advertisements. No, that doesn’t mean we’re going to sell your email address so fake Viagra sellers can send you spam.
+Cookies and Other Tracking Technologies
+Some of our Site pages use "cookies" and other tracking technologies.
+It’s not clear why cookies are called cookies. It may have to do with fortune cookies or with Hansel and Gretel leaving cookie crumbs to show where they’ve been. (If the latter, why aren’t they called “crumbs”?)
+In any case, a "cookie" is a small text file that can be used to collect information about your Site activity. Some cookies and other technologies may remember Personal Information you submitted before.
+Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+You may set most browsers to let you know if you get a cookie, or you may choose to block cookies with your browser.
+Access/Accuracy
+To the extent that you do provide us with Personal Information, we want to maintain accurate Personal Information. You may at some point be able to check your profile and add information, delete information or correct any incorrect information we have.
+Links to Other Sites
+Our Site may contain links to other sites. Other sites may also reference or link to our Site. We’re not responsible for the privacy practices or the content of such other sites.
+You already knew that, right?  We’re just not responsible for THE ENTIRE INTERNET.
+Children’s Privacy
+The Site and Services aren’t intended for people under the age of 18.
+We don’t really see how kids would want to use the Site, unless they want to grow up to be lawyers, which is a bad idea these days. Do you know how many law school grads run up hundreds of thousands of dollars in student loan debt and end up working as baristas? It’s not worth it. Go learn how to write software or build rocket ships.
+Anyway, we don’t intend to collect Personal Information from anyone under 18.
+In the Event of Merger, Sale, or Bankruptcy
+We’re a startup, OK?
+We might make A TON OF MONEY if we get acquired by, or merge with, a bigger, richer company. Like Google or Microsoft. Hint, hint.
+If we ARE acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we collected from you and our others users as part of such merger, acquisition, sale, or other change of control. Because one reason they’re gonna pay us A TON OF MONEY is they want to get YOUR information.
+In the unlikely (we hope) event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your Personal Information is treated, transferred, or used. So buy lots of our Services so we don’t go bankrupt. Please.
+Your California Privacy Rights
+California… again… These people think they run the planet. Just because Apple is there. And Facebook. And Twitter. And Google. And Uber. OK, so they really do run the planet.
+California Civil Code Section 1798.83 permits customers of LawGeex who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email privacy@lawgeex.com .Please note that we’re only required to respond to one request per customer each year.
+Last modified: January 19, 2016

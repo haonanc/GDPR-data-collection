@@ -1,0 +1,108 @@
+Subscribe to get a free eCookbook with our top 25 recipes.
+Effective May 24, 2018
+ 
+WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
+Information You Voluntarily Submit to the Site: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Site by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
+Information We Collect from Others: We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+Automatically-Collected Information: We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+Cookies: We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+ 
+OUR USE OF COOKIES
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+We use cookies for the following purposes:
+(a) Authentication: We use cookies to identify you when you visit our website and as you navigate our website;
+(b) Email: We use cookies to help us to send relevant emails to users who have subscribed to our email list;
+(c) Security: We use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
+(d) Advertising: We use cookies to help us to display advertisements that will be relevant to you; and
+(e) Analysis: We use cookies to help us to analyze the use and performance of our website and services;
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can, however, obtain up-to-date information about blocking and deleting cookies via these links:
+ 
+Google Analytics
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website.
+Google’s privacy policy is available at:  https://www.google.com/policies/privacy/
+ 
+comments
+If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here:  https://automattic.com/privacy/ . After approval of your comment, your profile picture is visible to the public in the context of your comment.
+ 
+advertising privacy statement
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
+ 
+FOR EUROPEAN ECONOMIC AREA RESIDENTS
+ 
+EMAIL ADDRESSES
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion. We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
+We will not share your email address with any third parties.
+ 
+REGISTRATION OR ACCOUNT DATA
+We may collect other information from you when you register with our Site in order to use various features. Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post).
+We may also collect information about you through other methods, including research surveys, social media platforms, verification services, data services, as well as public sources. We may combine this data with your registration data in order to maintain a more thorough profile.
+We may use your personally-identifying information for a variety of our internal business purposes, such as creating a better user experience for the Site, diagnosing and troubleshooting malfunctions on the Site, better understanding how the Site is used, and making personalized recommendations to you.
+ 
+TRANSACTIONAL DATA
+ 
+HOTJAR
+We use  Hotjar  in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on  this link .
+ 
+LeadPages
+ 
+Cloudflare
+ 
+RETARGETING ADS
+From time to time, the Site may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Site. These companies use cookies to serve ads based on someone’s past visits to the Site. This means, after visiting the Site, you may see an ad for our services. However, your personally identifiable information is not used by any remarketing service other than to present you offers from the Site. We use the following third-party service providers for remarketing:
+SPONSORED CONTENT TRACKING PIXELS
+ 
+AFFILIATE PROGRAM PARTICIPATION
+The Site may engage in affiliate marketing, which is done by embedding tracking links into the Site. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+ 
+NEWSLETTERS
+ 
+THIRD-PARTY USE OF PERSONAL INFORMATION
+We may share your information with third parties when you explicitly authorize us to share your information.
+Additionally, the Site may use third-party service providers to service various aspects of the Site, which are detailed herein. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. At this time, your personal information is not shared with any other third-party applications. This may be amended from time to time in the Site’s sole discretion.
+ 
+WHAT RIGHTS WE HAVE OVER YOUR DATA
+ 
+MEDIA
+ 
+EMBEDDED CONTENT FROM OTHER SITES
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+ 
+ANONYMOUS DATA
+ 
+PUBLICLY VISIBLE INFORMATION
+ 
+SENSITIVE PERSONAL INFORMATION
+ 
+CHILDREN’S INFORMATION
+ 
+ADDITIONAL RIGHTS OF EEA (EUROPEAN ECONOMIC AREA) RESIDENTS
+If you are a resident of a country in the EEA, you have the rights, among others, to:
+(i) access your personal data
+(ii) ensure the accuracy of your personal data
+(iii) the right to have us delete your personal data
+(iv) the right to restrict further processing of your personal data, and
+(v) the right to complain to a supervisory authority in your country of residence in the event that data is misused
+If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
+You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
+EU Privacy Complaints
+SALE OF BUSINESS OR ASSETS
+ 
+CHANGES TO THE PRIVACY POLICY
+ 
+CONTACTING US
+If you have any questions about this Privacy Policy or the practices of this Site, please contact us at  [email protected]
+Or write to us at:
+Pinch of Yum LLC
+2400 North 2nd Street
+hey! nice to meet you!
+I'm Lindsay: former 4th grade teacher, now full time blogger. My husband Bjork and I live in Minnesota. Favorite things include my camera, lake days, and dark chocolate. Learn more.
+Popular Posts
+Blogger Resources
+Top Posts
+Get all of my best recipes sent to you for FREE!
+Sign up to receive a free eCookbook with my top 25 most popular recipes.

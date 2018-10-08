@@ -1,0 +1,60 @@
+Introduction
+With this Privacy Policy we inform you about the processing of your personal data and the data protection claims and rights you are entitled to pursuant to Article 13 of the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR):
+To start with an important fact: We shall never sell your email address to 3rd parties - period. We will only share your details with 3rd parties that you expressly consent to being shared with. We take your right to privacy seriously and want you to feel comfortable using our platform (website, apps and other digital services). This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our Terms and Conditions.
+1. Processing of Data
+Your data is processed by TourRadar GmbH, Kärntner Ring 5-7 Top 201-203, Vienna 1010, Austria.
+The data protection officer at TourRadar GmbH is Mr Alberto Azambuja and you can contact him via email using  privacy@tourradar.com
+TourRadar GmbH processes your personal data that we receive from you as part of our business relationship. The information and data concerning you are necessary for the management of your order / your booking and additional services.
+Personal data includes your personal details (e.g. name, address, contact details, nationality). In addition, this may include order / booking data (e.g. payment orders), data from the fulfilment of our contractual obligation (e.g. insurance details), advertising and documentation data (e.g. browser records), register data, image and sound data (e.g. telephone recordings), information from your electronic communication with us (e.g. cookies) as well as data for compliance with legal requirements.
+Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many platforms, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below. TourRadar uses a 3rd party payment gateway called Braintree to ensure your personal and sensitive credit card information is securely stored. Your credit card details are NOT stored on TourRadar, instead your information is securely stored and encrypted with Braintree. Braintree are fully PCI-DSS compliant and to transfer information between TourRadar and Braintree we use a 256bit SSL certificate from Amazon. In layman terms this means when you save or update your credit card details on TourRadar, these details are being securely stored within Braintree's fully secure vaults to ensure your information cannot be used by malicious 3rd parties.
+TourRadar and its employees are unable to view your cardholder information as Braintree truncate your credit card details. You may add, update or delete your credit card information whenever you like; Traveller should visit your Settings page and Operators should visit your Billing page.
+2. Use of Data, Purposes and Legal Basis of the Data Processing
+We process your personal data in accordance with the GDPR and the Austrian Data Protection Act (Datenschutzgesetz) for the purposes and on the legal basis as outlined below:
+Given consent pursuant to Article 6 item 1 a) GDPR, if you have granted us consent to process your personal data. Any consent given may be revoked at any time with future effect. Fulfilment of contractual obligations pursuant to Article 6 item 1 b) GDRP, as the processing of
+your personal data is carried out for the order management / your booking and the execution of your orders and all activities required for the operation and management of a tour broker.
+Fulfilment of legal obligations pursuant to Article 6 item 1 c) GDPR, as the processing of personal data may be necessary for the purpose of fulfilling legal obligations according to the Austrian Federal Fiscal Act (BAO) and the Austrian Commercial Code (UGB).
+For the protection of legitimate interests pursuant to Article 6 item 1 f) GDPR, as if necessary, within the framework of balancing interests of us or a third party, data may be processed, by us or by a third party, beyond the actual fulfilment of the contract, in order to safeguard legitimate
+interests (provided that you have not objected to the use of your data pursuant to Article 21 GDPR) e.g.
+direct customer approach procedures and review and optimisation of needs analysis, advertising or market and opinion research, telephone records (e.g. customer support,complaints);
+consultation of and data exchange with credit agencies for the identification of default risks;
+measures for business management and development of services and products;
+measures for protecting employees, customers and property;
+measures for prosecution.
+We may use Data to customize and improve your user experience on this site and to contact you. We will make efforts so that your Data will not be provided to third parties unless:
+(i) provided for otherwise in this Privacy Policy;
+(ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data;
+(iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement;
+(v) we find that your use of this site violates our this Policy, Terms and Conditions, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property;
+(vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other platforms, you are advised to read the privacy policies that appear on those sites.
+3. Recipients of Data
+We will transfer your data to the tour operator who will carry out the tour you booked.
+Your data may therefore be transferred to a party located outside of the EU (a “third country”), if the tour operator you chose resides in a third country and / or the tour takes place in a third country.
+We do not guarantee that the scale of data protection in a third country reaches the same level of protection as within the EU. By choosing an tour operator in a third country / a tour that takes place in a third country you are aware of the fact that the transfer of personal data to a third country is necessary for the performance of the contract between you and TourRadar GmbH and / or the implementation of pre-contractual measures taken at your request (pursuant to Article 49 item 1 b) GDPR), and / or necessary for the conclusion or performance of a contract concluded in your  interest between TourRadar GmbH and the tour operator (pursuant to Article 49 item 1 c) GDPR.
+We share personal data with advertising partners, including your email address, as part of the marketing of our services through third parties (to ensure that relevant advertisements are shown to the right audience). We strive to only share email addresses in hashed form to enable the matching of your email address with an existing customer database so that your email address cannot be used for other purposes.
+4. Data Storage Periods
+TourRadar GmbH processes your personal data for the duration of the entire business relationship (from the initiation, performance until the termination of the contract) and furthermore according to the legal safe-keeping and documentation obligations, which result from the Austrian Commercial Code (UGB) and the Austrian Federal Fiscal Act (BAO). The statutory limitation periods – in some cases up to 30 years – according to the Austrian General Civil Code (ABGB) must be taken into consideration for the data storage period.
+5. Protection Rights
+According to Chapter III GDPR, you have the right to obtain information regarding your data or to limit its processing or to correct, delete it, the right of objection against processing and the right to data portability.
+Furthermore you have the right to revoke any consent given at any time with future effect.
+As far as the data processing is legitimated by Article 6 item 1 f) GDPR you have the right to object to the use of your data pursuant to Article 21 GDPR.
+You can exercise these rights by sending an email to the following address:  privacy@tourradar.com  or by Telephone using one of the numbers provided on our  Contact Us  page.
+Complaints can be sent to the Austrian Data Protection Authority (Österreichische Datenschutzbehörde), ww.dsb.gv.at.
+6. Cookies
+Like many platforms, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our platform and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. Read the TourRadar Cookie Policy
+7. Children
+We do not allow persons who are ages eighteen or younger to become members of this site.
+8. Editing or Deleting Your Account Information
+We provide you with the ability to edit the information in your account by signing into your  Account . You may request deletion of your user account by contacting us. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our  Terms and Conditions .
+9. Changes to this Privacy Policy
+We may make changes to this Policy from time to time without notification.
+10. NO GUARANTEES
+While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
+11. Contact Information
+If you have any questions about this Policy or our platform, please feel free to  Contact Us .
+Tours we know you'll love
+Sign up for our newsletter
+...and instantly receive access to exclusive deals and inspiring travel stories.
+Subscribe
+Save up to 50% on tours! Get exclusive access to members only deals by email.
+You'll receive a welcome email soon.
+For Travellers

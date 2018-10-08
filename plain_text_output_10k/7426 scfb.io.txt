@@ -1,0 +1,38 @@
+ 
+ 
+1. When you connect to our games
+These days, whenever you connect to an online game, there is certain information that needs to be collected. The same is true for our games, and for this purpose we collect information to establish and maintain your connection to our games, the information includes:
+1.1 Connection Information. When you connect to our games, our servers automatically collect some information. This information includes your Internet Protocol address, your chosen platform that you access such game with, the date and time of your request, and information about your ownership of such game. Our legal bases for the processing of this information is GDPR Art. 6 (1) (b).
+ 
+2. When you play our games
+A big aspect of our games is the online component where you can compete with other players. We want this experience to be fair and ensure that you do not have to suffer playing against any cheaters. Furthermore, we want to provide comparable results for you such as scoring and features associated with playstyle. For this purpose, we are collecting information such as:
+2.1 Game Log Information. When you play our games, we collect information about how you used such game, this includes your game session information, gameplay events, gameplay statistics, if you unlocked progression items, and scores. Our legal bases for the processing of this information is GDPR Art. 6 (1) (b).
+2.2 Profile Information. We create a persistent profile that is personal to you. This profile is used to track your progression over time, expose statistics, and populate menus with progression information. The information collected for the purposes of this profile includes current progression on different systems such as location mastery tracks and challenges, items and features unlocks, profile statistics, played content including completed and failed elusive targets, content created by you such as contracts, and contracts moderation reports. Furthermore, depending on the policies of your platform, we are collecting information about your friend list and content owned associated with your platform. Please check the policies of your device manufacturer or software provider to learn more about what information your device makes available to us. Our legal bases for the processing of this information is GDPR Art. 6 (1) (b).
+2.3 Usage Statistics Information. We are always striving to improve our games. To do this, we collect information about how you use such game for internal marketing purposes, business intelligence, content improvement and content commendation. For this purpose, we collect information such as your connection information including IP address and game identifiers, the content that you played, your performance information such as score and progression events, and your selected gameplay events such as target kills or your deaths. Our legal bases for the processing of this information is GDPR Art. 6 (1) (b).
+ 
+3. When you access our websites
+ 
+4. When you create an IOI Account
+ 
+5. Storage and transferring of your information
+ 
+6. Your choices about your information
+With some specific limitations or conditions, you have the following rights:
+You have the right to ask to access your information, and you may request us to delete it (GDPR Art. 15 and 17). However, because of technical reasons you will not have the option to request correction of your information.
+You have the right to object to the processing of your information and have the processing of your information restricted (GDPR Art. 18).
+You have the right to receive your information in a structured, commonly used and machine-readable format, and you have the right to transmit that information to another controller, including to have it transmitted directly, where technically feasible (GDPR Art. 20).
+If processing of your personal information is based on your consent, you have the right to withdraw your consent at any time. Your withdrawal will not affect the processing carried out before you withdrew your consent. You may withdraw your consent by requesting to have your information deleted after which, we will no longer process your information unless we can demonstrate compelling legitimate grounds for the processing that override your interests, rights and freedoms or for the establishment, exercise or defence of legal claims. Please be aware that all your information will be deleted and you will be forced to play in offline mode until you accept this privacy policy (GDPR Art. 21).
+ 
+7. Information retention and account deletion
+We store your information until it is no longer necessary for you to play our games or until your account is deleted – whichever comes first. This is a case-by-base determination that depends on things like the nature of the information, why it is collected, and relevant legal or operational retention needs.
+ 
+8. Mandatory information
+ 
+9. Information about children
+ 
+10. How we notify you of changes to this policy
+ 
+11. How to contact us
+ 
+Email: ioi@ioi.dk
+CVR: 24216209

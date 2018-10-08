@@ -1,0 +1,153 @@
+An official website of the United States government.
+We've made some changes to EPA.gov . If the information you are looking for is not here, you may be able to find it on the EPA Web Archive or the January 19, 2017 Web Snapshot .
+Search
+Search
+Pursuant to Delegation 1-19, dated 07/07/2005
+Privacy Policy
+1. Purpose
+The Privacy Policy establishes Agency requirements for safeguarding the collection, access, use, dissemination, and storage of personally identifiable information (PII) and Privacy Act information in accordance with the Privacy Act of 1974, the E-Government Act of 2002, the Federal Information Security Management Act (FISMA), and policy and guidance issued by the President and Office of Management and Budget (OMB). This Policy also establishes the National Privacy Program for EPA which will provide national oversight for administering and ensuring EPA's compliance with its requirements under the Acts. In addition, this Policy informs Agency employees and managers of their roles and responsibilities under those statutes and programs.
+2. Scope and Applicability
+This Policy applies to all EPA employees, managers, contractors, and grantees working on behalf of EPA who handle, control, or access documents, records, or information technology (IT) systems that contain Privacy Act and personally identifiable information.
+3. Audience
+The audience for this Policy includes all EPA employees, managers, contractors, and grantees working on behalf of EPA who handle, control, or access Privacy Act and personally identifiable information.
+4. Background
+Congress has passed laws that protect the privacy of individuals. These various laws and OMB directives require protection of Privacy Act and personally identifiable information that EPA collects. The Privacy Act of 1974 (5 U.S.C. 552a) sets forth requirements for federal agencies when they collect, maintain or disseminate information about individuals. The Act requires that federal agencies (a) collect minimal information necessary on individuals, (b) safeguard the information, and (c) allow individuals to inspect and correct erroneous information.
+Congress understood that certain governmental activities were not amenable to the exercise of all the individuals rights provided for in the Privacy Act such as documents relating to criminal investigations. Accordingly, agencies are allowed to exempt certain types of record systems from some of the requirements of the Act. Agencies are required to publish a System of Records Notice (SORN) in the Federal Register upon establishment of or substantial revision of a group of records containing information covered under the Privacy Act. If EPA is involved in a computer matching program (i.e., computer comparison of two or more system of records), 5 U.S.C. 552a(u) requires that EPA establish a Data Integrity Board, consisting of senior officials, to oversee and coordinate among the various agency components the implementation of a matching program. Without the proper security and access controls, the PII and Privacy Act information collected by agencies is vulnerable to unauthorized access and use.
+New information technologies have created additional responsibilities for managing Privacy Act information and PII not covered by the Privacy Act. Agency practices should guard against unauthorized disclosure or misuse of PII (in paper and electronic formats). For example, EPA reviews its use of Social Security numbers (SSNs) in Agency systems and programs to identify instances in which collection or use of the SSN is superfluous.
+The E-Government Act of 2002, Section 208, requires agencies to conduct Privacy Impact Assessments when developing Information Technology (IT) that collects, maintains, or disseminates information in an identifiable form or initiates new collection of information that will use IT.
+Homeland Security Presidential Directive 12 (HSPD-12) established policy to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy by establishing mandatory, Government-wide standards for secure and reliable forms of identification issued by the Federal Government to its employees and contractors.
+5. Authority
+40 C.F.R. Part 16 – Implementation of Privacy Act of 1974: Revision to the Privacy Act Regulations – January 4, 2006
+It is the policy of the Environmental Protection Agency to safeguard individuals' privacy in a manner consistent with the Privacy Act, E-Government Act, OMB directives and other federal requirements concerning privacy. EPA hereby establishes a National Privacy Program to oversee privacy policies, procedures, practices, standards or guidance and implementation of the provisions in a manner consistent with these Acts and Directives. This policy does not supersede any other laws or regulations.
+EPA will appropriately safeguard all personally identifiable information in its possession.
+EPA will limit the collection of personally identifiable information to only that which is necessary to accomplish an official EPA mission, administrative function, regulatory or statutory requirement or OMB or Homeland Security directives concerning privacy.
+EPA will manage information and technology to protect PII from unauthorized disclosure and misuse.
+EPA will provide a Privacy Act Statement to the individual upon the collection of PII that will be maintained in a Privacy Act system of records.
+EPA will not collect or use a SSN as a personal identifier in connection with any information system or database, unless the collection and/or use is authorized and provided for by law.
+Privacy Act Officer must approve all forms that collect sensitive PII prior to issuance of an EPA form number.
+EPA will not disseminate or publish Privacy Act information without the prior consent of the individual, unless provided for by law.
+EPA will conduct Privacy Impact Assessments (PIAs) in accordance with Section 208 of the E-Gov Act. In addition, all IT system owners will be required to conduct Privacy Threshold Analysis (PTA) utilizing risk-based criteria consistent with federal and Agency standards and requirements and approved by the Senior Agency Official for Privacy, to determine the need for a PIA.
+EPA will ensure appropriate and prompt notification to affected individuals in the event of a breach of sensitive PII commensurate with risk of harm to the individual(s) and consistent with federal and Agency standards and requirements.
+EPA will report all incidents involving the security, loss, misuse or unauthorized disclosure of PII regardless of form or format immediately in accordance with established EPA, OMB and US-CERT (U.S. Computer Emergency Readiness Team) security incident reporting procedures and requirements.
+EPA's determination will be in writing for all requests to access sensitive PII from an offsite location or to take sensitive PII offsite in accordance with established procedures.
+EPA will employ a risk-based approach to protect PII consistent with federal and Agency standards and requirements and approved by the Senior Agency Official for Privacy, to protect PII.
+EPA's use of new technologies will support and not diminish the protections provided in statutes related to Agency use, collection and disclosure of personally identifiable information.
+EPA employees, managers, contractors, and grantees working on behalf of EPA must adhere to Privacy rules of conduct and are subject to appropriate administrative, civil, or criminal penalties if they knowingly, willfully, or negligently disclose Privacy Act information to unauthorized persons. Each case will be handled on an individual basis with a full review of all pertinent facts. The severity of the violation will determine the action taken.
+7. Related Documents
+The EPA Administrator has delegated authority to the Chief Information Officer, presently the Assistant Administrator for the Office of Environmental Information (OEI), to approve the establishment or amendment of an EPA Privacy Act system of records. (Delegation of Authority 1-84 Information Resources Management Intranet )
+The Assistant-Administrator for OEI and Chief Information Officer (CIO) is the designated Senior Agency Official for Privacy in accordance with the E-Government Act; and has overall responsibility and accountability for ensuring the agency's implementation of information privacy protections, including the agency's full compliance with federal laws, regulations, and policies relating to information privacy, such as the Privacy Act; and
+designates the Privacy Act Officer; and
+approves Agency level privacy policies, procedures, standards, and guidelines;
+approves and signs systems of records notices for publication in the Federal Register;
+approves the establishment or amendment of EPA Privacy Act systems of records according to the Administrator's delegation;
+ensures that appropriate changes are made in a timely manner to privacy policies, procedures, standards, and guidelines based on the oversight results reported by the Office of Information Collection as well as updates from OMB, changes in regulations, changes in roles and responsibilities, etc.;
+convenes the Data Integrity Board to carry out computer matching responsibilities pursuant to the Privacy Act;
+ensures that accountability guidance which identifies positions/job types with key Privacy Program responsibilities and appropriate sample cascading goals and objectives that managers can use to establish accountability within their respective offices are developed and communicated;
+ensures the Agency conducts periodic reviews to promptly identify deficiencies, weaknesses, or risks;
+participates in assessing the impact of technology on the privacy of personal information; and
+ensures that the Agency takes appropriate steps to remedy compliance issues identified.
+The Office of the General Counsel (OGC):
+interprets the Privacy Act and other privacy-related regulations statutes, and requirements;
+reviews related privacy notices, regulations and policy statements for legal form and substance;
+decides on written appeals from initial denials of Privacy Act information to an individual, including denial of a request for correction or amendment of a record pursuant to the Privacy Act, 5 U.552a, has been delegated to OGC under EPA Delegation 1-33;
+participates in computer matching programs as required; and
+participates in Agency responses to breaches of PII, as appropriate.
+The Office of the Inspector General (OIG):
+carries out the appeal responsibilities related to decisions made on OIG Privacy Act records;
+participates in computer matching programs as required; and
+conducts criminal investigations related to a breach of sensitive PII or disclosure of PII if circumstances warrant such an investigation.
+The Office of Administration & Resources Management (OARM) ensures that:
+ensures appropriate privacy related language is included in contracts, grants, and interagency agreements using the proper Federal Acquisition Regulations and Environmental Protection Agency Acquisition Regulations clauses related to privacy regulations and responsibilities; and
+reviews and approves sample privacy cascading goals and objectives developed by OEI for managers to use to establish accountability within their respective offices included in accountability guidance developed by the National Privacy Program Manager.
+The Office of Public Affairs (OPA):
+protects Privacy Act information by monitoring the content of EPA's public access Web site, EPA printed publications, and other EPA information media; and
+Participates in the response to breaches of PII as appropriate.
+The Office of Information Analysis and Access (OIAA) in OEI is responsible for assisting the Office of Public Affairs (OPA) in protecting Privacy Act information by monitoring the content of the Web site.
+The Office of Technology Operations & Planning (OTOP) in OEI:
+supports privacy policies through its planning, operational, training and oversight responsibilities for IT;
+assists in recommending and developing appropriate technical solutions to protect the privacy information collected or maintained within IT systems; and
+supports activities in response to breaches of PII.
+The Office of Information Collection (OIC) in OEI is responsible for implementing the Privacy Program at EPA. In this capacity, OIC:
+establishes key goals and objectives associated with the Agency's Privacy Program;
+establishes and tracks performance measures associated with the key goals and activities associated with the Agency's Privacy Program and measures the progress of the Privacy Program;
+establishes performance measurement report(s) for tracking the Agency's Privacy Program progress;
+provides annual performance measurement reports showing the progress of the Agency's Privacy Program to the Senior Agency Official for Privacy and makes the reports available to the EPA offices and regions responsible for implementing the Privacy Program;
+reviews/approves Privacy Impact Assessments in accordance with Provisions of Section 208 of the E-Government Act of 2002;
+leads Agency efforts to protect PII used for Agency operations;
+performs oversight of the implementation of the Agency level privacy policies, procedures, standards, and guidelines within the Program and Regional Offices to ensure they are properly executed, consistently applied, and effective;
+reports the oversight results to the Senior Agency Official for Privacy, the Agency's Assistant and Regional Administrators and the Agency's Senior Information Officers;
+reports quarterly and annually on the implementation of the Privacy Act within the FISMA report;
+monitors the content of the Privacy Web site and EPA printed publications to ensure that non-public information about EPA employees is protected from public view; and
+manages the network of Liaison Privacy Officials.
+The National Privacy Program Manager is the Agency's Privacy Act Officer who:
+develops Agency level privacy policies, procedures, standards, and guidelines, as needed develops accountability guidance which identifies positions/job types with key Privacy Program responsibilities and appropriate sample cascading goals and objectives that managers can use to establish accountability within their respective offices;
+provides overall privacy management and policy guidance;
+provides oversight of system managers' activities to ensure all privacy-related, statutory, regulatory and EPA requirements are met;
+implement changes in a timely manner to Agency level privacy policies, procedures, standards, and guidelines based on the results of National Privacy Program Manager's oversight of system managers' activities, the monitoring and oversight results reported by OIC, as well as updates from OMB, changes in regulations, changes in roles and responsibilities, etc.;
+develops and implements response procedures to be followed in the event of a breach of sensitive PII;
+coordinates privacy-related activities and responses to breaches of sensitive PII with Agency managers as appropriate;
+publishes Federal Register notices for systems of records as required by the Privacy Act;
+reviews privacy impact assessments as required by the E-Government Act;
+establishes the network of Liaison Privacy Officials (LPOs);
+develops and implements an annual privacy awareness training program;
+advises and trains system managers and other EPA personnel on privacy requirements;
+monitors EPA privacy activities, including quality and timeliness of responses to Privacy Act requests;
+submits system of records notices for publication in the Federal Register; transmits letters to Congress and OMB;
+compiles a biennial report on the computer matching activities of the Agency to submit to the OMB;
+reports privacy data specified by OMB quarterly and annually on the FISMA Report to OMB; and
+reviews and approves forms that collect sensitive PII prior to number issuance.
+Senior Information Official (SIO) is responsible for:
+oversight, coordination, and management of information technology utilized in fulfilling their organization's business needs and mission;
+establishing appropriate policies and procedures within their respective offices to implement the Agency level policies, procedures, standards and guidelines;
+monitoring and performing oversight of the implementation of the program or regional privacy policies and procedures to ensure they are properly executed, consistently applied, and effective;
+making appropriate changes in a timely manner to program or regional privacy policies and procedures based on the monitoring and oversight results, and recommending changes to Agency level policies and procedures as appropriate;
+ensuring that guidance which identifies positions/job types with key Privacy Program responsibilities along with appropriate sample cascading goals and objectives is applied within their respective offices;
+designating the LPOs;
+ensuring that a PIA has been completed prior to establishing a new or significantly modified collection of Privacy related information;
+reviewing and making written determinations, concerning all requests to access sensitive PII from a remote location or take sensitive PII off site;
+periodically reviewing existing databases containing sensitive PII to determine if data elements are still required;
+ensuring compliance with federal regulations and Agency policies and procedures for protecting data in mobile devices used to transport or access PII;
+maintaining a documented record of all approved remote access, transport of sensitive PII, downloads and/or local storage on a computer not located within EPA space;
+ensuring all sensitive PII approved to be stored off site is erased within 90 days;
+ensuring coordination with agency managers, including but not limited to Assistant Administrators, Chief Financial Officer, Chief Information Officer, Chief Technology Officer, Senior Agency Information Security Officer, Computer Security Incident Response Center, Office of Inspector General, Office of Public Affairs, and Office of General Counsel in response to a breach of sensitive PII.
+System Managers in Program Offices and Regions apply privacy requirements, policies, procedures and guidance to Privacy Act systems of records and systems subject to the E-Gov Act and other privacy related systems. Specifically, system managers:
+establish safeguards to ensure security and confidentiality;
+authorize privacy documentation for new and/or revised systems;
+terminate systems when no longer maintained in accordance with proper destruction/transfer procedures;
+approve initial determinations on access to information;
+account for access, amendments and disclosures;
+recommend the designation of an LPO;
+ensure that a Privacy Threshold Analysis is conducted for newly developed systems and/or systems that undergo substantial revisions; and
+ensures completion of a PIA for any system that collects Privacy Act information.
+Liaison Privacy Officials (LPOs) which are designated by the SIO:
+administer the day-to-day activities and responsibilities of privacy in their specific program and regional areas;
+ensure proper training for individuals in their area of responsibility, including monitoring on-line training for the employees; and
+attend annual training for LPOs.
+The Freedom of Information Act (FOIA) national staff acknowledges tracks and reports annually on Privacy Act access requests.
+The Data Integrity Board is comprised of EPA's CIO, Principal Deputy General Counsel and Inspector General. The board reports annually to Congress and OMB on computer matching programs and provides guidance to EPA concerning computer matching.
+All individuals who are defined by the audience of this policy must comply with the provisions of the Privacy Act and Agency Privacy Act regulations and must adhere to all Federal and Agency privacy statutes and requirements. Individuals are responsible for reporting incidents involving the security, loss, misuse or unauthorized disclosure of Privacy Act information and PII regardless of form or format in accordance with Agency incident reporting procedures.
+9. Definitions
+Agency. For the purposes of disclosing records subject to the Privacy Act among EPA components, EPA is considered a single Agency.
+Computer Matching. Means any computerized comparison of (A) two or more automated systems of records or a system of records with non-federal records for the purpose of-- (I) establishing or verifying the eligibility of (or continuing compliance with statutory and regulatory requirements by) applicants for cash or in-kind assistance or payments under federal benefit programs, or recipients or beneficiaries of, participants in, or providers of services with respect to, cash or in-kind assistance or payments or (II) recouping payments or delinquent debts under such federal benefit programs or (B) two or more automated federal personnel or payroll systems of records or a system of federal personnel or payroll records with non-federal records.
+Individual. A citizen of the United States or an alien lawfully admitted to the United States whose name or other personal identifier is used to retrieve records from a system of records.
+Maintain. Includes collect, use or disseminate.
+Official Use. Managers and employees of an EPA component who use any record or the information contained therein to perform their official duties.
+Personally Identifiable Information (PII). Any information about an individual maintained by an agency, which can be used to distinguish, trace, or identify an individual's identity, including personal information which is linked or linkable to an individual.
+Privacy Act. Sets forth requirements for federal agencies when they collect, maintain or disseminate information about individuals.
+Privacy Act Information. Data about an individual that is retrieved by name or other personal identifier assigned to the individual.
+Privacy Impact Assessment. An analysis of how information is handled: (i) to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy, (ii) to determine the risks and effects of collecting, maintaining and disseminating information in identifiable form in an electronic information system, and (iii) to examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks.
+Privacy Threshold Analysis (PTA). A survey of questions that is prepared for all new systems and any other investment that undergoes substantial modifications. The PTA determines if the investment will be collecting any PII data elements and if a full Privacy Impact Assessment is required.
+Record. In the context of the Privacy Policy, any item, collection or grouping of information about an individual maintained by an agency, e.g., the individual's education, financial transactions and medical, criminal or employment history; and that contains the individual's name, or any identifying number, symbol or particular assigned to the individual.
+Risk-based Approach. An activity, mechanism, or methodology that is designed to provide "adequate security" (as defined in OMB Cir. A-130, Appendix III) for the affected IT and/or information resources. In the context of this policy, this applies principally to the security objective of confidentiality.
+Routine Use. Any outside disclosure of Privacy Act information in which the use is compatible with the purpose for which the information was collected. Routine uses must be included in the published notice for the system of records involved.
+Sensitive Personally Identifiable Information (PII). Social Security numbers, or comparable identification numbers; financial information associated with individuals; and medical information associated with individuals. Sensitive PII, a subset of PII, requires additional levels of security controls.
+System of Records. A group of records under the control of an EPA component from which information is retrieved by the individual's name or some identifying number, symbol, or other identifying particular assigned to the individual. Notices for all Privacy Act systems of records must be published in the Federal Register.
+System Manager. A Division Director or equivalent who is responsible for the implementation of the Privacy Act within their respective areas.
+10. Waivers
+Any request for a waiver to this policy must be submitted to the Chief Information Officer for determination.
+11. Related Procedures, Standards and Guidance
+In order for the Agency to comply with the Privacy Policy, the following procedures and guidance are provided:
+Information Resources Management (IRM) Policy Manual 2100, Chapter 11, Privacy
+13. Additional Information
+For further information about this Policy, please contact the Records, FOIA and the Privacy Branch in the Collection Strategies Division of the Office of Information Collection, Office of Environmental Information.
+Contact Us to ask a question, provide feedback, or report a problem.
